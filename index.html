@@ -6,12 +6,35 @@
     <title>Catch Up Dashboard</title>
     <style>
         :root {
+            /* Dark Theme (Default) */
+            --bg-gradient: linear-gradient(135deg, #0f172a 0%, #000000 50%, #1e1b4b 100%);
             --glass-bg: rgba(30, 30, 35, 0.4);
             --glass-border: rgba(255, 255, 255, 0.08);
             --text-main: #ffffff;
             --text-dim: rgba(255, 255, 255, 0.5);
             --ios-blur: blur(24px) saturate(180%);
             --accent: #007aff;
+            --panel-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+            --panel-shadow-hover: 0 16px 32px rgba(0, 0, 0, 0.4);
+            --tab-bg: rgba(255, 255, 255, 0.05);
+            --tab-active-bg: rgba(255, 255, 255, 0.15);
+            --card-bg: rgba(0, 0, 0, 0.2);
+            --card-border: rgba(255, 255, 255, 0.05);
+        }
+
+        body.light-theme {
+            /* Light Theme */
+            --bg-gradient: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 50%, #cbd5e1 100%);
+            --glass-bg: rgba(255, 255, 255, 0.6);
+            --glass-border: rgba(0, 0, 0, 0.08);
+            --text-main: #0f172a;
+            --text-dim: rgba(15, 23, 42, 0.6);
+            --panel-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+            --panel-shadow-hover: 0 16px 32px rgba(0, 0, 0, 0.12);
+            --tab-bg: rgba(0, 0, 0, 0.05);
+            --tab-active-bg: rgba(0, 0, 0, 0.12);
+            --card-bg: rgba(255, 255, 255, 0.5);
+            --card-border: rgba(0, 0, 0, 0.05);
         }
 
         * {
@@ -22,25 +45,20 @@
         }
 
         body {
-            background: linear-gradient(135deg, #0f172a 0%, #000000 50%, #1e1b4b 100%);
+            background: var(--bg-gradient);
             color: var(--text-main);
             font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
             height: 100vh;
             width: 100vw;
-            overflow: hidden; /* No page scrolling */
+            overflow: hidden;
             display: flex;
             flex-direction: column;
             padding: 1.5rem;
+            transition: background 0.4s ease, color 0.4s ease;
         }
 
-        /* Hide Scrollbars everywhere but allow scroll functionality inside feeds */
-        ::-webkit-scrollbar {
-            display: none;
-        }
-        * {
-            -ms-overflow-style: none;  /* IE and Edge */
-            scrollbar-width: none;  /* Firefox */
-        }
+        ::-webkit-scrollbar { display: none; }
+        * { -ms-overflow-style: none; scrollbar-width: none; }
 
         /* Header */
         header {
@@ -52,34 +70,125 @@
             padding: 0 1rem;
         }
 
-        #timestamp {
-            font-size: 1.1rem;
+        #datetime-weather {
+            font-size: 0.85rem;
             font-weight: 500;
             color: var(--text-dim);
             letter-spacing: 0.5px;
             width: 33%;
+            white-space: nowrap;
         }
 
         #title {
-            font-size: 1.5rem;
+            font-size: 1.2rem;
             font-weight: 700;
-            letter-spacing: -0.5px;
+            letter-spacing: -0.3px;
             text-align: center;
             width: 33%;
         }
 
         #spacer {
             width: 33%;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        #theme-toggle {
+            background: var(--tab-bg);
+            border: 1px solid var(--glass-border);
+            color: var(--text-main);
+            padding: 6px 14px;
+            border-radius: 16px;
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            backdrop-filter: var(--ios-blur);
+            -webkit-backdrop-filter: var(--ios-blur);
+            transition: all 0.3s ease;
+        }
+
+        #theme-toggle:hover {
+            background: var(--tab-active-bg);
+            transform: scale(1.05);
+        }
+
+        /* Modal Overlay */
+        #overlay {
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.5);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            z-index: 999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+        #overlay.active {
+            opacity: 1;
+            pointer-events: auto;
         }
 
         /* Main Grid Layout */
         main {
             display: grid;
-            grid-template-columns: repeat(12, 1fr);
-            grid-template-rows: minmax(0, 1.2fr) minmax(0, 0.8fr);
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(2, 1fr);
             gap: 1.5rem;
             height: 90%;
             width: 100%;
+            position: relative;
+        }
+
+        .widget-box {
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+        }
+
+        /* Expanded Widget State */
+        .widget-box.expanded {
+            position: fixed;
+            top: 5vh;
+            left: 5vw;
+            width: 90vw;
+            height: 90vh;
+            z-index: 1000;
+            margin: 0;
+        }
+
+        .widget-controls {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin-bottom: 0.5rem;
+            height: 32px;
+        }
+
+        .widget-controls.reddit-controls {
+            justify-content: space-between;
+        }
+
+        .expand-btn {
+            background: var(--tab-bg);
+            border: 1px solid var(--glass-border);
+            color: var(--text-dim);
+            border-radius: 10px;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            backdrop-filter: var(--ios-blur);
+            -webkit-backdrop-filter: var(--ios-blur);
+            transition: all 0.2s ease;
+        }
+
+        .expand-btn:hover {
+            background: var(--tab-active-bg);
+            color: var(--text-main);
         }
 
         .glass-panel {
@@ -89,53 +198,37 @@
             border: 1px solid var(--glass-border);
             border-radius: 28px;
             overflow: hidden;
-            box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
+            box-shadow: var(--panel-shadow);
             display: flex;
             flex-direction: column;
             position: relative;
+            flex: 1;
+            transition: box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        /* Grid Positions */
-        .reddit-widget { grid-column: 1 / 5; grid-row: 1; }
-        .news-widget { grid-column: 5 / 9; grid-row: 1; }
-        .social-widget { grid-column: 9 / 13; grid-row: 1; }
-        
-        .stock-widget { grid-column: 1 / 6; grid-row: 2; }
-        .crypto-widget { grid-column: 6 / 11; grid-row: 2; }
-        .weather-widget { grid-column: 11 / 13; grid-row: 2; display: flex; align-items: center; justify-content: center; background: rgba(30, 30, 35, 0.6); }
+        .widget-box:not(.expanded) .glass-panel:hover {
+            box-shadow: var(--panel-shadow-hover);
+        }
 
-        /* Widget Specific Overrides to ensure 100% fill */
-        .tradingview-widget-container {
-            height: 100% !important;
-            width: 100% !important;
-        }
-        rssapp-carousel {
-            height: 100%;
-            width: 100%;
-        }
-        
-        /* Specific Fix for Social Widget internal scrolling */
-        .social-widget {
-            overflow-y: auto;
-        }
+        .tradingview-widget-container { height: 100% !important; width: 100% !important; }
+        rssapp-carousel { height: 100%; width: 100%; }
 
         /* --- REDDIT WIDGET SPECIFIC STYLES --- */
-        .reddit-inner {
-            padding: 1.2rem;
-            display: flex;
-            flex-direction: column;
-            height: 100%;
+        .reddit-content {
+            flex: 1;
+            padding: 1rem;
         }
 
         .tabs {
             display: flex;
-            background: rgba(255, 255, 255, 0.05);
+            background: var(--tab-bg);
             padding: 4px;
             border-radius: 12px;
-            margin-bottom: 1rem;
-            width: 100%;
+            width: calc(100% - 40px);
             border: 1px solid var(--glass-border);
             flex-shrink: 0;
+            backdrop-filter: var(--ios-blur);
+            -webkit-backdrop-filter: var(--ios-blur);
         }
 
         .tab-btn {
@@ -147,43 +240,43 @@
             border-radius: 8px;
             cursor: pointer;
             font-weight: 600;
-            font-size: 11px;
+            font-size: 10px;
             transition: all 0.2s ease;
         }
 
         .tab-btn.active {
-            background: rgba(255, 255, 255, 0.15);
+            background: var(--tab-active-bg);
             color: var(--text-main);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
         #news-feed {
-            flex: 1;
+            height: 100%;
             overflow-y: auto;
             display: flex;
             flex-direction: column;
-            gap: 10px;
+            gap: 8px;
         }
 
         .news-card {
             display: flex;
             align-items: center;
-            background: rgba(0, 0, 0, 0.2);
-            border: 1px solid var(--glass-border);
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
             border-radius: 16px;
-            padding: 10px;
+            padding: 8px;
             text-decoration: none;
             color: inherit;
             transition: transform 0.2s ease;
             flex-shrink: 0;
         }
 
-        .news-card:active { transform: scale(0.98); }
+        .news-card:active { transform: scale(0.97); }
 
         .thumb {
-            width: 60px;
-            height: 60px;
-            min-width: 60px;
+            width: 45px;
+            height: 45px;
+            min-width: 45px;
             border-radius: 10px;
             object-fit: cover;
             background: #1a1a1a;
@@ -193,7 +286,7 @@
         .content { flex: 1; overflow: hidden; }
 
         .content-title {
-            font-size: 13px;
+            font-size: 11px;
             font-weight: 600;
             line-height: 1.3;
             margin: 0 0 4px 0;
@@ -204,7 +297,7 @@
         }
 
         .meta {
-            font-size: 10px;
+            font-size: 8px;
             color: var(--text-dim);
             font-weight: 500;
             text-transform: uppercase;
@@ -214,28 +307,40 @@
             text-align: center;
             margin-top: 20px;
             color: var(--text-dim);
-            font-size: 12px;
+            font-size: 11px;
         }
+
+        /* SVG Icons */
+        .icon { width: 14px; height: 14px; stroke-width: 2.5; }
     </style>
 </head>
 <body>
 
     <header>
-        <div id="timestamp">--:--</div>
+        <div id="datetime-weather">--:-- | Fetching Weather...</div>
         <div id="title">Catch Up</div>
-        <div id="spacer"></div>
+        <div id="spacer">
+            <button id="theme-toggle" onclick="toggleTheme()">☀️ Light</button>
+        </div>
     </header>
+
+    <div id="overlay"></div>
 
     <main>
         <!-- Reddit Widget -->
-        <div class="glass-panel reddit-widget">
-            <div class="reddit-inner">
+        <div class="widget-box" id="reddit-box">
+            <div class="widget-controls reddit-controls">
                 <div class="tabs">
                     <button class="tab-btn active" onclick="switchTab('technology', this)">Tech</button>
                     <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
                     <button class="tab-btn" onclick="switchTab('news', this)">News</button>
                     <button class="tab-btn" onclick="switchTab('popular', this)">Popular</button>
                 </div>
+                <button class="expand-btn" onclick="toggleExpand('reddit-box')" title="Expand">
+                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                </button>
+            </div>
+            <div class="glass-panel reddit-content">
                 <div id="news-feed">
                     <div class="loader">Loading updates...</div>
                 </div>
@@ -243,89 +348,191 @@
         </div>
 
         <!-- News Widget -->
-        <div class="glass-panel news-widget">
-            <rssapp-carousel id="YG86rQCuDxlIrwjH"></rssapp-carousel>
-            <script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
-        </div>
-
-        <!-- Social / Sports Widget -->
-        <div class="glass-panel social-widget">
-            <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/spectatorindex?ref_src=twsrc%5Etfw">Tweets by spectatorindex</a> 
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div class="widget-box" id="news-box">
+            <div class="widget-controls">
+                <button class="expand-btn" onclick="toggleExpand('news-box')" title="Expand">
+                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                </button>
+            </div>
+            <div class="glass-panel">
+                <rssapp-carousel id="YG86rQCuDxlIrwjH"></rssapp-carousel>
+                <script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+            </div>
         </div>
 
         <!-- Stock Tile -->
-        <div class="glass-panel stock-widget">
-            <!-- TradingView Widget BEGIN -->
-            <div class="tradingview-widget-container">
-                <div class="tradingview-widget-container__widget"></div>
-                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
-                {
-                    "dataSource": "SPX500",
-                    "blockSize": "market_cap_basic",
-                    "blockColor": "change",
-                    "grouping": "sector",
-                    "locale": "en",
-                    "symbolUrl": "",
-                    "colorTheme": "dark",
-                    "exchanges": [],
-                    "hasTopBar": false,
-                    "isDataSetEnabled": false,
-                    "isZoomEnabled": true,
-                    "hasSymbolTooltip": true,
-                    "isMonoSize": false,
-                    "width": "100%",
-                    "height": "100%"
-                }
-                </script>
+        <div class="widget-box" id="stock-box">
+            <div class="widget-controls">
+                <button class="expand-btn" onclick="toggleExpand('stock-box')" title="Expand">
+                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                </button>
             </div>
-            <!-- TradingView Widget END -->
+            <div class="glass-panel" id="stock-container"></div>
         </div>
 
         <!-- Crypto Tile -->
-        <div class="glass-panel crypto-widget">
-            <!-- TradingView Widget BEGIN -->
-            <div class="tradingview-widget-container">
-                <div class="tradingview-widget-container__widget"></div>
-                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-crypto-coins-heatmap.js" async>
-                {
-                    "dataSource": "Crypto",
-                    "blockSize": "market_cap_calc",
-                    "blockColor": "24h_close_change|5",
-                    "locale": "en",
-                    "symbolUrl": "",
-                    "colorTheme": "dark",
-                    "hasTopBar": false,
-                    "isDataSetEnabled": false,
-                    "isZoomEnabled": true,
-                    "hasSymbolTooltip": true,
-                    "isMonoSize": false,
-                    "width": "100%",
-                    "height": "100%"
-                }
-                </script>
+        <div class="widget-box" id="crypto-box">
+            <div class="widget-controls">
+                <button class="expand-btn" onclick="toggleExpand('crypto-box')" title="Expand">
+                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                </button>
             </div>
-            <!-- TradingView Widget END -->
-        </div>
-
-        <!-- Weather Tile -->
-        <div class="glass-panel weather-widget">
-            <a class="weatherwidget-io" href="https://forecast7.com/en/25d2055d27/dubai/" data-label_1="DUBAI" data-label_2="WEATHER" data-mode="Current" data-theme="dark" style="width: 100%; pointer-events: none;">DUBAI WEATHER</a>
-            <script>
-            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-            </script>
+            <div class="glass-panel" id="crypto-container"></div>
         </div>
     </main>
 
     <script>
-        // --- Clock Logic ---
+        // --- Expand / Modal Logic ---
+        const expandIcon = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>`;
+        const closeIcon = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`;
+
+        function toggleExpand(boxId) {
+            const box = document.getElementById(boxId);
+            const overlay = document.getElementById('overlay');
+            const btn = box.querySelector('.expand-btn');
+            
+            if (box.classList.contains('expanded')) {
+                // Close it
+                box.classList.remove('expanded');
+                overlay.classList.remove('active');
+                btn.innerHTML = expandIcon;
+            } else {
+                // Close any others first
+                document.querySelectorAll('.widget-box.expanded').forEach(w => {
+                    w.classList.remove('expanded');
+                    w.querySelector('.expand-btn').innerHTML = expandIcon;
+                });
+                // Open selected
+                box.classList.add('expanded');
+                overlay.classList.add('active');
+                btn.innerHTML = closeIcon;
+            }
+        }
+
+        document.getElementById('overlay').addEventListener('click', () => {
+            document.querySelectorAll('.widget-box.expanded').forEach(w => {
+                w.classList.remove('expanded');
+                w.querySelector('.expand-btn').innerHTML = expandIcon;
+            });
+            document.getElementById('overlay').classList.remove('active');
+        });
+
+        // --- Theme Logic ---
+        let currentTheme = 'dark';
+
+        function toggleTheme() {
+            const body = document.body;
+            body.classList.toggle('light-theme');
+            currentTheme = body.classList.contains('light-theme') ? 'light' : 'dark';
+            document.getElementById('theme-toggle').innerText = currentTheme === 'light' ? '🌙 Dark' : '☀️ Light';
+            
+            loadTradingViewWidgets();
+        }
+
+        function loadTradingViewWidgets() {
+            const configTpl = {
+                "blockSize": "market_cap_basic",
+                "locale": "en",
+                "symbolUrl": "",
+                "colorTheme": currentTheme,
+                "hasTopBar": false,
+                "isDataSetEnabled": false,
+                "isZoomEnabled": true,
+                "hasSymbolTooltip": true,
+                "isMonoSize": false,
+                "width": "100%",
+                "height": "100%"
+            };
+
+            // Stock
+            const stockContainer = document.getElementById('stock-container');
+            stockContainer.innerHTML = '<div class="tradingview-widget-container__widget"></div>';
+            const stockScript = document.createElement('script');
+            stockScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';
+            stockScript.async = true;
+            stockScript.innerHTML = JSON.stringify({
+                ...configTpl,
+                "dataSource": "SPX500",
+                "blockColor": "change",
+                "grouping": "sector",
+                "exchanges": []
+            });
+            stockContainer.appendChild(stockScript);
+
+            // Crypto
+            const cryptoContainer = document.getElementById('crypto-container');
+            cryptoContainer.innerHTML = '<div class="tradingview-widget-container__widget"></div>';
+            const cryptoScript = document.createElement('script');
+            cryptoScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-crypto-coins-heatmap.js';
+            cryptoScript.async = true;
+            cryptoScript.innerHTML = JSON.stringify({
+                ...configTpl,
+                "dataSource": "Crypto",
+                "blockSize": "market_cap_calc",
+                "blockColor": "24h_close_change|5"
+            });
+            cryptoContainer.appendChild(cryptoScript);
+        }
+
+        // --- Clock & Weather Logic ---
+        let weatherString = "| Fetching...";
+
+        async function fetchWeather() {
+            // Default to Dubai coordinates
+            let lat = 25.2048;
+            let lon = 55.2708;
+            let city = "Dubai";
+
+            const fetchWeatherData = async (latitude, longitude, cityName) => {
+                try {
+                    const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true`);
+                    if (!res.ok) throw new Error('Weather API error');
+                    const data = await res.json();
+                    const temp = Math.round(data.current_weather.temperature);
+                    weatherString = `| ${cityName}, ${temp} C`;
+                    updateClock(); 
+                } catch (err) {
+                    weatherString = `| ${cityName}, -- C`;
+                    updateClock();
+                }
+            };
+
+            // Attempt Geolocation first
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(async (pos) => {
+                    try {
+                        // Reverse Geocoding to get city name
+                        const geoRes = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${pos.coords.latitude}&lon=${pos.coords.longitude}`);
+                        if (geoRes.ok) {
+                            const geoData = await geoRes.json();
+                            city = geoData.address.city || geoData.address.town || geoData.address.village || "Local";
+                        }
+                    } catch (e) {} // Default to "Dubai" or "Local" if fails
+                    
+                    fetchWeatherData(pos.coords.latitude, pos.coords.longitude, city);
+                }, () => {
+                    // Fallback to Dubai if blocked
+                    fetchWeatherData(lat, lon, city);
+                });
+            } else {
+                fetchWeatherData(lat, lon, city);
+            }
+        }
+
         function updateClock() {
             const now = new Date();
-            const options = { weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' };
-            document.getElementById('timestamp').innerText = now.toLocaleDateString('en-US', options).toUpperCase();
+            const dateOptions = { weekday: 'short', month: 'short', day: 'numeric' };
+            const timeOptions = { hour: '2-digit', minute: '2-digit' };
+            
+            const datePart = now.toLocaleDateString('en-US', dateOptions).toUpperCase();
+            const timePart = now.toLocaleTimeString('en-US', timeOptions).toUpperCase();
+            
+            document.getElementById('datetime-weather').innerText = `${datePart}, ${timePart} ${weatherString}`;
         }
+        
         setInterval(updateClock, 1000);
         updateClock();
+        fetchWeather();
 
         // --- Reddit Widget Logic ---
         const USER = 'gowthamnair';
@@ -370,12 +577,15 @@
         function switchTab(sub, btn) {
             document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            container = document.getElementById('news-feed').innerHTML = '<div class="loader">Loading updates...</div>';
+            document.getElementById('news-feed').innerHTML = '<div class="loader">Loading updates...</div>';
             fetchNews(sub);
         }
 
-        // Initialize Reddit Widget
-        fetchNews('technology');
+        // --- Initialization ---
+        document.addEventListener('DOMContentLoaded', () => {
+            loadTradingViewWidgets();
+            fetchNews('technology');
+        });
     </script>
 </body>
 </html>
