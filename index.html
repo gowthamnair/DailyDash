@@ -116,9 +116,9 @@
         #overlay {
             position: fixed;
             top: 0; left: 0; right: 0; bottom: 0;
-            background: rgba(0,0,0,0.5);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
+            background: rgba(0,0,0,0.75);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
             z-index: 999;
             opacity: 0;
             pointer-events: none;
@@ -138,6 +138,8 @@
             height: 90%;
             width: 100%;
             position: relative;
+            min-height: 0;
+            min-width: 0;
         }
 
         .widget-box {
@@ -145,15 +147,20 @@
             flex-direction: column;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
+            min-height: 0;
+            min-width: 0;
         }
 
         /* Expanded Widget State */
         .widget-box.expanded {
             position: fixed;
-            top: 5vh;
-            left: 5vw;
-            width: 90vw;
-            height: 90vh;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80vw;
+            height: 80vh;
+            max-width: 1000px;
+            max-height: 800px;
             z-index: 1000;
             margin: 0;
         }
@@ -166,7 +173,7 @@
             height: 32px;
         }
 
-        .widget-controls.reddit-controls {
+        .widget-controls.tabbed-controls {
             justify-content: space-between;
         }
 
@@ -310,6 +317,67 @@
             font-size: 11px;
         }
 
+        /* --- GLOBAL WIRE WIDGET SPECIFIC STYLES --- */
+        #global-wire-feed {
+            height: 100%;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            padding: 1rem;
+        }
+
+        .hero-card {
+            position: relative;
+            width: 100%;
+            height: 160px;
+            min-height: 160px;
+            border-radius: 16px;
+            overflow: hidden;
+            text-decoration: none;
+            color: inherit;
+            border: 1px solid var(--card-border);
+            transition: transform 0.2s ease;
+            flex-shrink: 0;
+        }
+
+        .widget-box.expanded .hero-card {
+            height: 250px;
+            min-height: 250px;
+        }
+
+        .hero-card:active { transform: scale(0.98); }
+
+        .card-bg {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; object-position: center; z-index: 1;
+        }
+
+        .card-overlay {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,0.9) 100%);
+            z-index: 2;
+        }
+
+        .card-content {
+            position: absolute;
+            bottom: 0; left: 0; padding: 14px; z-index: 3;
+            width: 100%; box-sizing: border-box;
+        }
+
+        .hero-title {
+            font-size: 13px; font-weight: 700; line-height: 1.3; margin: 0 0 4px 0;
+            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+            overflow: hidden; color: #ffffff; text-shadow: 0 2px 4px rgba(0,0,0,0.6);
+        }
+
+        .hero-meta {
+            font-size: 9px; color: rgba(255,255,255,0.8); font-weight: 600;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;
+        }
+
         /* SVG Icons */
         .icon { width: 14px; height: 14px; stroke-width: 2.5; }
     </style>
@@ -329,7 +397,7 @@
     <main>
         <!-- Reddit Widget -->
         <div class="widget-box" id="reddit-box">
-            <div class="widget-controls reddit-controls">
+            <div class="widget-controls tabbed-controls">
                 <div class="tabs">
                     <button class="tab-btn active" onclick="switchTab('technology', this)">Tech</button>
                     <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
@@ -349,14 +417,21 @@
 
         <!-- News Widget -->
         <div class="widget-box" id="news-box">
-            <div class="widget-controls">
+            <div class="widget-controls tabbed-controls">
+                <div class="tabs">
+                    <button class="tab-btn active" onclick="switchGlobalWireTab('bbc', this)">BBC</button>
+                    <button class="tab-btn" onclick="switchGlobalWireTab('reuters', this)">Reuters</button>
+                    <button class="tab-btn" onclick="switchGlobalWireTab('ap', this)">AP</button>
+                    <button class="tab-btn" onclick="switchGlobalWireTab('afp', this)">AFP</button>
+                </div>
                 <button class="expand-btn" onclick="toggleExpand('news-box')" title="Expand">
                     <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
                 </button>
             </div>
             <div class="glass-panel">
-                <rssapp-carousel id="YG86rQCuDxlIrwjH"></rssapp-carousel>
-                <script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+                <div id="global-wire-feed">
+                    <div class="loader">Accessing data...</div>
+                </div>
             </div>
         </div>
 
@@ -446,7 +521,7 @@
 
             // Stock
             const stockContainer = document.getElementById('stock-container');
-            stockContainer.innerHTML = '<div class="tradingview-widget-container__widget"></div>';
+            stockContainer.innerHTML = '<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
             const stockScript = document.createElement('script');
             stockScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';
             stockScript.async = true;
@@ -457,11 +532,11 @@
                 "grouping": "sector",
                 "exchanges": []
             });
-            stockContainer.appendChild(stockScript);
+            stockContainer.querySelector('.tradingview-widget-container').appendChild(stockScript);
 
             // Crypto
             const cryptoContainer = document.getElementById('crypto-container');
-            cryptoContainer.innerHTML = '<div class="tradingview-widget-container__widget"></div>';
+            cryptoContainer.innerHTML = '<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
             const cryptoScript = document.createElement('script');
             cryptoScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-crypto-coins-heatmap.js';
             cryptoScript.async = true;
@@ -471,7 +546,7 @@
                 "blockSize": "market_cap_calc",
                 "blockColor": "24h_close_change|5"
             });
-            cryptoContainer.appendChild(cryptoScript);
+            cryptoContainer.querySelector('.tradingview-widget-container').appendChild(cryptoScript);
         }
 
         // --- Clock & Weather Logic ---
@@ -575,16 +650,64 @@
         }
 
         function switchTab(sub, btn) {
-            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            const tabs = btn.closest('.tabs').querySelectorAll('.tab-btn');
+            tabs.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             document.getElementById('news-feed').innerHTML = '<div class="loader">Loading updates...</div>';
             fetchNews(sub);
+        }
+
+        // --- Global Wire Widget Logic ---
+        async function fetchGlobalWireNews(source) {
+            const container = document.getElementById('global-wire-feed');
+            const filename = `news_${source}.json`;
+            const url = `https://${USER}.github.io/${REPO}/${filename}?v=${Date.now()}`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('Source not deployed');
+                
+                const articles = await response.json();
+                renderGlobalWireUI(articles, source);
+            } catch (err) {
+                container.innerHTML = `<div class="loader">Unable to find <b>${filename}</b>.<br><p style="font-size:11px;opacity:0.5;">Ensure GitHub Action successfully generated this file.</p></div>`;
+            }
+        }
+
+        function renderGlobalWireUI(articles, source) {
+            const container = document.getElementById('global-wire-feed');
+            if (!articles || articles.length === 0) {
+                container.innerHTML = '<div class="loader">No posts found.</div>';
+                return;
+            }
+
+            container.innerHTML = articles.slice(0, 10).map(item => `
+                <a href="${item.link}" target="_blank" class="hero-card">
+                    <img src="${item.image}" class="card-bg" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80'">
+                    
+                    <div class="card-overlay"></div>
+                    
+                    <div class="card-content">
+                        <div class="hero-meta">${source.toUpperCase()} • ${item.published}</div>
+                        <h3 class="hero-title">${item.title}</h3>
+                    </div>
+                </a>
+            `).join('');
+        }
+
+        function switchGlobalWireTab(source, btn) {
+            const tabs = btn.closest('.tabs').querySelectorAll('.tab-btn');
+            tabs.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            document.getElementById('global-wire-feed').innerHTML = '<div class="loader">Accessing data...</div>';
+            fetchGlobalWireNews(source);
         }
 
         // --- Initialization ---
         document.addEventListener('DOMContentLoaded', () => {
             loadTradingViewWidgets();
             fetchNews('technology');
+            fetchGlobalWireNews('bbc');
         });
     </script>
 </body>
