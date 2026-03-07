@@ -6,12 +6,6 @@
         "published": "2026-03-07T10:33:05+00:00"
     },
     {
-        "title": "Anthropic says its partnership with Mozilla helped Claude Opus 4.6 find 22 Firefox vulnerabilities in two weeks, including 14 high-severity bugs, around a fifth of Mozilla\u2019s 2025 high-severity fixes",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmlxbr/anthropic_says_its_partnership_with_mozilla/",
-        "image": "https://preview.redd.it/r39m6v7zwgng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4d32d2e1bca476663f2221b6f5efb1a48b154b8e",
-        "published": "2026-03-06T18:27:37+00:00"
-    },
-    {
         "title": "Skynet beta testing: Alibaba's models break out from sandbox and started mining crypto for themselfs",
         "link": "https://www.reddit.com/r/singularity/comments/1rn81qy/skynet_beta_testing_alibabas_models_break_out/",
         "image": "https://preview.redd.it/ax1jgx772mng1.png?width=640&crop=smart&auto=webp&s=6e8ed443d7cb9f9d56a3e4dbc0a2fdedec8e5a85",
@@ -30,10 +24,10 @@
         "published": "2026-03-07T00:49:53+00:00"
     },
     {
-        "title": "Sarvam - 105B,First Indian open source model (trained from scratch)",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmmkal/sarvam_105bfirst_indian_open_source_model_trained/",
-        "image": "https://preview.redd.it/i3vgi5941hng1.jpeg?width=640&crop=smart&auto=webp&s=f0676203a60e701cfb6d2e0e522aa89447fc83cb",
-        "published": "2026-03-06T18:50:50+00:00"
+        "title": "Alibaba researchers report their AI agent autonomously developed network probing and crypto mining behaviors during training - they only found out after being alerted by their cloud security team",
+        "link": "https://www.reddit.com/r/singularity/comments/1rn8kun/alibaba_researchers_report_their_ai_agent/",
+        "image": "https://preview.redd.it/tw0drpbl6mng1.jpeg?width=640&crop=smart&auto=webp&s=91a74d8bcf285598c8ff8aac9b59daa053ccf268",
+        "published": "2026-03-07T12:17:17+00:00"
     },
     {
         "title": "Google joins Microsoft on Anthropic/Supply Chain Risk designation, telling CNN: \u201cWe understand that the Determination does not preclude us from working with Anthropic on non-defense related projects\"",
@@ -42,28 +36,16 @@
         "published": "2026-03-06T19:37:40+00:00"
     },
     {
-        "title": "Alibaba researchers report their AI agent autonomously developed network probing and crypto mining behaviors during training - they only found out after being alerted by their cloud security team",
-        "link": "https://www.reddit.com/r/singularity/comments/1rn8kun/alibaba_researchers_report_their_ai_agent/",
-        "image": "https://preview.redd.it/tw0drpbl6mng1.jpeg?width=640&crop=smart&auto=webp&s=91a74d8bcf285598c8ff8aac9b59daa053ccf268",
-        "published": "2026-03-07T12:17:17+00:00"
-    },
-    {
-        "title": "Claude Code Desktop Scheduled Tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmq4ua/claude_code_desktop_scheduled_tasks/",
-        "image": "https://external-preview.redd.it/cTUzYms3N3pvaG5nMQVKRVko8n9VYdMCwNQ_fcZWFGSN7qNosD5Qa4Hu-Z64.png?width=640&crop=smart&auto=webp&s=025667463f47e50b5712318064c9fa57f4a39221",
-        "published": "2026-03-06T21:04:35+00:00"
-    },
-    {
         "title": "\"the largest incremental gain we have seen from a single release\": AA on GPT5.4-PRO and 30% on research physics bench",
         "link": "https://www.reddit.com/r/singularity/comments/1rnbim7/the_largest_incremental_gain_we_have_seen_from_a/",
         "image": "https://preview.redd.it/gxo4c11tvmng1.png?width=140&height=126&auto=webp&s=5c486cab627273f18018f3636afc2feb6247f550",
         "published": "2026-03-07T14:36:56+00:00"
     },
     {
-        "title": "If we get to a ship of theseus point; where we can slowly replace the neurons with hardware to preserve the continuity of the self, would you do it?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmn537/if_we_get_to_a_ship_of_theseus_point_where_we_can/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-        "published": "2026-03-06T19:11:34+00:00"
+        "title": "Claude Code Desktop Scheduled Tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1rmq4ua/claude_code_desktop_scheduled_tasks/",
+        "image": "https://external-preview.redd.it/cTUzYms3N3pvaG5nMQVKRVko8n9VYdMCwNQ_fcZWFGSN7qNosD5Qa4Hu-Z64.png?width=640&crop=smart&auto=webp&s=025667463f47e50b5712318064c9fa57f4a39221",
+        "published": "2026-03-06T21:04:35+00:00"
     },
     {
         "title": "Scientists successfully transfer longevity gene, from mole rats to mice, extending life, improving health. Proof that longevity mechanisms that evolved in long-lived mammalian species can be exported to other increasing lifespans.",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rn14ff/home_drone/",
         "image": "https://external-preview.redd.it/d25lYzZ3Nmgza25nMSt366Vo7nFuIYBhC5XuR4QvHwGU7hYwBfVGcHJxcXa5.png?width=640&crop=smart&auto=webp&s=02511c7c278a1a2a585dfcb7114d25ecb4fa66f1",
         "published": "2026-03-07T05:09:29+00:00"
+    },
+    {
+        "title": "introducing the March 2026 Weekend AI Web Game Jam!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnfarb/introducing_the_march_2026_weekend_ai_web_game_jam/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+        "published": "2026-03-07T17:09:52+00:00"
+    },
+    {
+        "title": "Why Chat GPT parameter growth has stagnated",
+        "link": "https://www.reddit.com/r/singularity/comments/1rndazf/why_chat_gpt_parameter_growth_has_stagnated/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+        "published": "2026-03-07T15:51:19+00:00"
+    },
+    {
+        "title": "My AGI Passes every ChatGPT generated AGI test",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnee5p/my_agi_passes_every_chatgpt_generated_agi_test/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+        "published": "2026-03-07T16:34:30+00:00"
     }
 ]
