@@ -1,15 +1,15 @@
 [
     {
-        "title": "Anthropic says its partnership with Mozilla helped Claude Opus 4.6 find 22 Firefox vulnerabilities in two weeks, including 14 high-severity bugs, around a fifth of Mozilla\u2019s 2025 high-severity fixes",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmlxbr/anthropic_says_its_partnership_with_mozilla/",
-        "image": "https://preview.redd.it/r39m6v7zwgng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4d32d2e1bca476663f2221b6f5efb1a48b154b8e",
-        "published": "2026-03-06T18:27:37+00:00"
-    },
-    {
         "title": "\"Benjamin Netanyahu, ....\" \ud83d\udd25\u270d\ufe0f\ud83d\udd25\u270d\ufe0f\ud83d\udd25\u270d\ufe0f",
         "link": "https://www.reddit.com/r/singularity/comments/1rn6ruz/benjamin_netanyahu/",
         "image": "https://preview.redd.it/jn9my9jtolng1.png?width=640&crop=smart&auto=webp&s=2617d50c1e008ea399e80b3abdb96320e43e857a",
         "published": "2026-03-07T10:33:05+00:00"
+    },
+    {
+        "title": "Anthropic says its partnership with Mozilla helped Claude Opus 4.6 find 22 Firefox vulnerabilities in two weeks, including 14 high-severity bugs, around a fifth of Mozilla\u2019s 2025 high-severity fixes",
+        "link": "https://www.reddit.com/r/singularity/comments/1rmlxbr/anthropic_says_its_partnership_with_mozilla/",
+        "image": "https://preview.redd.it/r39m6v7zwgng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4d32d2e1bca476663f2221b6f5efb1a48b154b8e",
+        "published": "2026-03-06T18:27:37+00:00"
     },
     {
         "title": "Skynet beta testing: Alibaba's models break out from sandbox and started mining crypto for themselfs",
@@ -66,16 +66,16 @@
         "published": "2026-03-06T19:11:34+00:00"
     },
     {
-        "title": "It's already been 7 months since GPT-5. How do you think it compares to today?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rn3gde/its_already_been_7_months_since_gpt5_how_do_you/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-        "published": "2026-03-07T07:12:42+00:00"
-    },
-    {
         "title": "Scientists successfully transfer longevity gene, from mole rats to mice, extending life, improving health. Proof that longevity mechanisms that evolved in long-lived mammalian species can be exported to other increasing lifespans.",
         "link": "https://www.reddit.com/r/singularity/comments/1rne5iq/scientists_successfully_transfer_longevity_gene/",
         "image": "https://external-preview.redd.it/4k95wZU_4E7hTXXs5hN5HVfmtGuiydYP-Ef9I5N6JbU.jpeg?width=640&crop=smart&auto=webp&s=ce48c916ad7917d35ab307ef21a2cb8870296f47",
         "published": "2026-03-07T16:24:46+00:00"
+    },
+    {
+        "title": "It's already been 7 months since GPT-5. How do you think it compares to today?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rn3gde/its_already_been_7_months_since_gpt5_how_do_you/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+        "published": "2026-03-07T07:12:42+00:00"
     },
     {
         "title": "A tiny benchmark based on the car wash trick question, most models completely fail it",
