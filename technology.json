@@ -24,16 +24,16 @@
         "published": "2026-03-06T14:55:19+00:00"
     },
     {
-        "title": "2 young billionaires are behind the prediction market boom. They hate each other",
-        "link": "https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/",
-        "image": "https://external-preview.redd.it/-0uRuWyKp7NUR3B34iy_zbcWDcfp4Tj651jOkr9CVZg.jpeg?width=640&crop=smart&auto=webp&s=bf2047d85571620b21124f2a19a9ed17c1309b3f",
-        "published": "2026-03-06T17:52:58+00:00"
-    },
-    {
         "title": "Influencers in Dubai warned they face prison for posting material about the conflict with Iran",
         "link": "https://www.reddit.com/r/technology/comments/1rmn44p/influencers_in_dubai_warned_they_face_prison_for/",
         "image": "https://external-preview.redd.it/9j43hP7QDicficaiyxc0H09FNtn9idwX9n2_cSVYyrE.png?width=640&crop=smart&auto=webp&s=3a0a726d1e3758c4b7c77844e29ecb704c5ddd4f",
         "published": "2026-03-06T19:10:35+00:00"
+    },
+    {
+        "title": "2 young billionaires are behind the prediction market boom. They hate each other",
+        "link": "https://www.reddit.com/r/technology/comments/1rmkz5m/2_young_billionaires_are_behind_the_prediction/",
+        "image": "https://external-preview.redd.it/-0uRuWyKp7NUR3B34iy_zbcWDcfp4Tj651jOkr9CVZg.jpeg?width=640&crop=smart&auto=webp&s=bf2047d85571620b21124f2a19a9ed17c1309b3f",
+        "published": "2026-03-06T17:52:58+00:00"
     },
     {
         "title": "Oracle and OpenAI drop Texas data center expansion plan",
@@ -46,12 +46,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1rmglgq/netflix_after_walking_away_from_warner_bros_deal/",
         "image": "https://external-preview.redd.it/7AmpaB2nqbNimNK55FUkbiqE3eQOsdhEGft8GnJVRbo.jpeg?width=640&crop=smart&auto=webp&s=70418459afd1e4e14bba0f1203251027730f74ef",
         "published": "2026-03-06T15:12:28+00:00"
-    },
-    {
-        "title": "Google makes Gmail, Drive, and Docs \u2018agent-ready\u2019 for OpenClaw",
-        "link": "https://www.reddit.com/r/technology/comments/1rmboyq/google_makes_gmail_drive_and_docs_agentready_for/",
-        "image": "https://external-preview.redd.it/m9_ZEBN9tc_dgSLd9M_1YMuUtHkWgZvF0l3zLAGZZXc.jpeg?width=640&crop=smart&auto=webp&s=c58dbbc82e36c9ac6169c0c02fb7de3568d875a6",
-        "published": "2026-03-06T11:38:00+00:00"
     },
     {
         "title": "Altman said no to military AI \u2013 then signed Pentagon deal anyway",
@@ -72,16 +66,22 @@
         "published": "2026-03-06T21:26:41+00:00"
     },
     {
-        "title": "Pentagon taps former DOGE official to lead its AI efforts",
-        "link": "https://www.reddit.com/r/technology/comments/1rmrgmd/pentagon_taps_former_doge_official_to_lead_its_ai/",
-        "image": "https://external-preview.redd.it/1MtlfV1TVfpFp3j9YvdzPx2uKcF0oWB6SDQo0kQgibc.jpeg?width=640&crop=smart&auto=webp&s=e06c9cc13ff74f02e4008670009544c79f40d83f",
-        "published": "2026-03-06T21:56:21+00:00"
+        "title": "BYD just killed your EV argument with a battery that competes with gas engines",
+        "link": "https://www.reddit.com/r/technology/comments/1rn5ssv/byd_just_killed_your_ev_argument_with_a_battery/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+        "published": "2026-03-07T09:32:39+00:00"
     },
     {
         "title": "Satellite firm pauses imagery after revealing Iran's attacks on U.S bases | Planet Labs wants to prevent \u201cadversarial actors\u201d from using images for \u201cBattle Damage Assessment\u201d purposes.",
         "link": "https://www.reddit.com/r/technology/comments/1rn30cy/satellite_firm_pauses_imagery_after_revealing/",
         "image": "https://external-preview.redd.it/yLge3sIDQGO2Tbgb2Zkm9M9sNBNFn9VTdTXNld-ctqI.jpeg?width=640&crop=smart&auto=webp&s=7b7cef5e7389545a8a76bd1380908628347aa365",
         "published": "2026-03-07T06:48:13+00:00"
+    },
+    {
+        "title": "Pentagon taps former DOGE official to lead its AI efforts",
+        "link": "https://www.reddit.com/r/technology/comments/1rmrgmd/pentagon_taps_former_doge_official_to_lead_its_ai/",
+        "image": "https://external-preview.redd.it/1MtlfV1TVfpFp3j9YvdzPx2uKcF0oWB6SDQo0kQgibc.jpeg?width=640&crop=smart&auto=webp&s=e06c9cc13ff74f02e4008670009544c79f40d83f",
+        "published": "2026-03-06T21:56:21+00:00"
     },
     {
         "title": "Who\u2019s Deciding Where the Bombs Drop in Iran? Maybe Not Even Humans.",
