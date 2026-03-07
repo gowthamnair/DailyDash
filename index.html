@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catch Up Dashboard</title>
+    <title>DailyDash</title>
     <style>
         :root {
             /* Dark Theme (Default) */
@@ -166,8 +166,8 @@
             display: flex;
             justify-content: flex-end;
             align-items: center;
-            margin-bottom: 4px;
-            height: 14px;
+            margin-bottom: 8px;
+            height: 24px;
         }
 
         .widget-controls.tabbed-controls {
@@ -178,9 +178,9 @@
             background: var(--tab-bg);
             border: 1px solid var(--glass-border);
             color: var(--text-dim);
-            border-radius: 4px;
-            width: 14px;
-            height: 14px;
+            border-radius: 4px; /* Reduced from 8px */
+            width: 18px; /* Reduced to be very small */
+            height: 18px; /* Reduced to be very small */
             display: flex;
             align-items: center;
             justify-content: center;
@@ -221,10 +221,10 @@
         .tabs {
             display: flex;
             background: var(--tab-bg);
-            padding: 0;
-            border-radius: 6px;
+            padding: 2px; /* Reduced */
+            border-radius: 8px; /* Reduced */
             flex: 1;
-            margin-right: 4px;
+            margin-right: 8px;
             border: 1px solid var(--glass-border);
             backdrop-filter: var(--ios-blur);
             -webkit-backdrop-filter: var(--ios-blur);
@@ -235,18 +235,18 @@
             background: none;
             border: none;
             color: var(--text-dim);
-            padding: 1px 4px;
-            border-radius: 4px;
+            padding: 4px 6px; /* Reduced */
+            border-radius: 6px; /* Reduced */
             cursor: pointer;
             font-weight: 600;
-            font-size: 7px;
+            font-size: 9px; /* Reduced size */
             transition: all 0.2s ease;
         }
 
         .tab-btn.active {
             background: var(--tab-active-bg);
             color: var(--text-main);
-            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
         }
 
         .reddit-content {
@@ -317,30 +317,37 @@
         /* --- GLOBAL WIRE WIDGET SPECIFIC STYLES --- */
         #global-wire-feed {
             height: 100%;
-            overflow-y: auto;
+            overflow-x: auto;
+            overflow-y: hidden;
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
             gap: 12px;
-            padding: 1rem;
+            padding: 12px;
+            scroll-snap-type: x mandatory;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
         }
+
+        #global-wire-feed::-webkit-scrollbar { display: none; }
 
         .hero-card {
             position: relative;
             width: 100%;
-            height: 160px;
-            min-height: 160px;
+            height: 100%;
+            min-height: unset;
+            flex: 0 0 calc(100% - 24px);
             border-radius: 16px;
             overflow: hidden;
             text-decoration: none;
             color: inherit;
             border: 1px solid var(--card-border);
             transition: transform 0.2s ease;
-            flex-shrink: 0;
+            scroll-snap-align: center;
         }
 
         .widget-box.expanded .hero-card {
-            height: 250px;
-            min-height: 250px;
+            height: 100%;
+            min-height: unset;
         }
 
         .hero-card:active { transform: scale(0.98); }
@@ -376,10 +383,18 @@
             text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;
         }
 
-        .icon { width: 8px; height: 8px; stroke-width: 2.5; }
+        .icon { width: 10px; height: 10px; stroke-width: 2.5; } /* Scaled down inner icon */
 
         /* Responsive Breakpoints & Layout Logic */
         .mobile-dots { display: none; } /* Hidden on desktop */
+
+        /* Scale down TradingView iframe contents to reduce perceived font size */
+        #stock-container iframe {
+            transform: scale(0.85);
+            transform-origin: top left;
+            width: 117.64% !important; /* 100 / 0.85 */
+            height: 117.64% !important;
+        }
 
         /* DESKTOP VIEW */
         @media (min-width: 768px) {
@@ -401,7 +416,30 @@
         /* MOBILE VIEW (SWIPE CAROUSEL) */
         @media (max-width: 767px) {
             body { padding: 1rem 0 0 0; }
-            header { padding: 0 1.5rem; margin-bottom: 1rem; }
+            
+            /* Fix Header Overlap on Mobile */
+            header { 
+                padding: 0 1rem; 
+                margin-bottom: 1rem; 
+            }
+            #datetime-weather {
+                font-size: 0.6rem;
+                width: auto;
+                flex: 1;
+                white-space: normal; /* Allow wrapping */
+                line-height: 1.2;
+            }
+            #title {
+                font-size: 1rem;
+                width: auto;
+                flex: 0 0 auto;
+                margin: 0 8px; /* Buffer space */
+            }
+            #spacer {
+                width: auto;
+                flex: 1;
+            }
+
             main {
                 display: flex;
                 flex-direction: row;
@@ -414,28 +452,45 @@
                 gap: 0;
                 padding: 0;
             }
+            
             .widget-box {
                 flex: 0 0 100vw;
                 width: 100vw;
                 height: 100%;
                 scroll-snap-align: center;
-                padding: 0 1.5rem 1.5rem 1.5rem;
+                padding: 0 1.5rem 2rem 1.5rem; /* Add padding at the bottom for dots */
                 box-sizing: border-box;
             }
+
+            /* Convert Mobile News Feed to Vertical Scrolling (Not Swipeable) */
+            #global-wire-feed {
+                flex-direction: column;
+                overflow-x: hidden;
+                overflow-y: auto;
+                scroll-snap-type: none; /* Disable horizontal snapping */
+            }
+            .hero-card {
+                flex: 0 0 auto;
+                height: 160px;
+                width: 100%;
+            }
+
             .expand-btn { display: none; } /* Hide expand button on mobile since it's full screen */
 
             /* Mobile Pagination Dots */
             .mobile-dots {
                 display: flex;
-                flex-direction: column;
+                flex-direction: row; /* Horizontal alignment */
                 position: fixed;
-                right: 8px;
-                top: 50%;
-                transform: translateY(-50%);
+                bottom: 8px; /* Moved to bottom */
+                top: auto;
+                left: 50%;
+                transform: translateX(-50%); /* Centered */
+                right: auto;
                 gap: 8px;
                 z-index: 50;
                 background: rgba(0,0,0,0.2);
-                padding: 10px 6px;
+                padding: 6px 10px;
                 border-radius: 12px;
                 backdrop-filter: blur(10px);
                 border: 1px solid rgba(255,255,255,0.1);
@@ -458,7 +513,7 @@
 
     <header>
         <div id="datetime-weather">--:-- | Locating...</div>
-        <div id="title">Catch Up</div>
+        <div id="title">DailyDash</div>
         <div id="spacer">
             <button id="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
                 <svg class="theme-icon sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
@@ -791,18 +846,9 @@
                 container.innerHTML = '<div class="loader">No posts found.</div>';
                 return;
             }
-            const seenImages = new Set();
             container.innerHTML = articles.slice(0, 10).map((item, index) => {
-                let isValidImg = item.image && typeof item.image === 'string' && item.image !== 'null' && item.image.trim() !== '';
-                
-                if (isValidImg) {
-                    if (seenImages.has(item.image)) isValidImg = false;
-                    else seenImages.add(item.image);
-                }
-
-                const fallbackImg = fallbackImages[index % fallbackImages.length];
-                const img = isValidImg ? item.image : fallbackImg;
-                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImg}';"`;
+                const img = getValidImage(item.image, index);
+                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImages[index % fallbackImages.length]}';"`;
                 
                 return `
                 <a href="${item.link}" target="_blank" class="hero-card">
