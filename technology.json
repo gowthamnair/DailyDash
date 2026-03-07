@@ -30,12 +30,6 @@
         "published": "2026-03-07T09:32:39+00:00"
     },
     {
-        "title": "Oracle and OpenAI drop Texas data center expansion plan",
-        "link": "https://www.reddit.com/r/technology/comments/1rmpbbs/oracle_and_openai_drop_texas_data_center/",
-        "image": "https://external-preview.redd.it/9L4D0Os_9KdyuxivVonEw5cI9Pb22QdC-fDi3iOT2gY.jpeg?width=640&crop=smart&auto=webp&s=5101c299ea1be6d85ca7279d6560cbb1b1d9d22b",
-        "published": "2026-03-06T20:33:19+00:00"
-    },
-    {
         "title": "Satellite firm pauses imagery after revealing Iran's attacks on U.S bases | Planet Labs wants to prevent \u201cadversarial actors\u201d from using images for \u201cBattle Damage Assessment\u201d purposes.",
         "link": "https://www.reddit.com/r/technology/comments/1rn30cy/satellite_firm_pauses_imagery_after_revealing/",
         "image": "https://external-preview.redd.it/yLge3sIDQGO2Tbgb2Zkm9M9sNBNFn9VTdTXNld-ctqI.jpeg?width=640&crop=smart&auto=webp&s=7b7cef5e7389545a8a76bd1380908628347aa365",
@@ -60,6 +54,12 @@
         "published": "2026-03-07T09:29:13+00:00"
     },
     {
+        "title": "Engineer receives $30,000 for exposing a vulnerability affecting 7,000 robot vacuum cleaners \u2014 tinkerer just wanted to drive his robot vacuum with a PS5 controller",
+        "link": "https://www.reddit.com/r/technology/comments/1rncr7c/engineer_receives_30000_for_exposing_a/",
+        "image": "https://external-preview.redd.it/YXEQ0Yidgw53E6MI410t304gtjk4TujVSLpb4xVE-fQ.jpeg?width=640&crop=smart&auto=webp&s=a692d7f8f6996159fcaa629454df5b7c92daa82d",
+        "published": "2026-03-07T15:29:12+00:00"
+    },
+    {
         "title": "The US Supreme Court is not interested in enforcing copyright for AI-generated images",
         "link": "https://www.reddit.com/r/technology/comments/1rna6kz/the_us_supreme_court_is_not_interested_in/",
         "image": "https://external-preview.redd.it/sgU2Pt3AuwoCh_h7pYGmZQUwakVFr_oExvzVBwrLY8Y.jpeg?width=640&crop=smart&auto=webp&s=e5824843ed8fe94917ce47c9cd66b12c0e139707",
@@ -72,10 +72,10 @@
         "published": "2026-03-06T21:56:21+00:00"
     },
     {
-        "title": "Engineer receives $30,000 for exposing a vulnerability affecting 7,000 robot vacuum cleaners \u2014 tinkerer just wanted to drive his robot vacuum with a PS5 controller",
-        "link": "https://www.reddit.com/r/technology/comments/1rncr7c/engineer_receives_30000_for_exposing_a/",
-        "image": "https://external-preview.redd.it/YXEQ0Yidgw53E6MI410t304gtjk4TujVSLpb4xVE-fQ.jpeg?width=640&crop=smart&auto=webp&s=a692d7f8f6996159fcaa629454df5b7c92daa82d",
-        "published": "2026-03-07T15:29:12+00:00"
+        "title": "China Suspected in Breach of FBI Surveillance Network",
+        "link": "https://www.reddit.com/r/technology/comments/1rnfxta/china_suspected_in_breach_of_fbi_surveillance/",
+        "image": "https://external-preview.redd.it/pxsg6fH1xR5V0uHg7YxLDYpRJMYFfyUUOnGr0qriIss.jpeg?width=640&crop=smart&auto=webp&s=a347aab75672b4dea2ff547a6f0c1eede77f600e",
+        "published": "2026-03-07T17:34:26+00:00"
     },
     {
         "title": "Microsoft changes New Outlook default switching deadline that was set to happen very soon",
@@ -84,9 +84,9 @@
         "published": "2026-03-07T01:42:30+00:00"
     },
     {
-        "title": "China Suspected in Breach of FBI Surveillance Network",
-        "link": "https://www.reddit.com/r/technology/comments/1rnfxta/china_suspected_in_breach_of_fbi_surveillance/",
-        "image": "https://external-preview.redd.it/pxsg6fH1xR5V0uHg7YxLDYpRJMYFfyUUOnGr0qriIss.jpeg?width=640&crop=smart&auto=webp&s=a347aab75672b4dea2ff547a6f0c1eede77f600e",
-        "published": "2026-03-07T17:34:26+00:00"
+        "title": "OpenAI and compute partner Oracle have reportedly abandoned a planned expansion of their flagship Stargate datacenter, after negotiations were stalled by financing and Sam Altman's apparent fear of commitment.",
+        "link": "https://www.reddit.com/r/technology/comments/1rn4s9e/openai_and_compute_partner_oracle_have_reportedly/",
+        "image": "https://external-preview.redd.it/Dt2R9INhf32tJpenhHsC_WtdD4qnsPrN_LqtECCDD0s.jpeg?width=640&crop=smart&auto=webp&s=eea91b78b09343d25aa7482acd742f9855b64899",
+        "published": "2026-03-07T08:30:41+00:00"
     }
 ]
