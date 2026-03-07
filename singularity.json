@@ -12,12 +12,6 @@
         "published": "2026-03-07T10:33:05+00:00"
     },
     {
-        "title": "\ud83e\udd23",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmvnzc/_/",
-        "image": "https://preview.redd.it/7saz0k86ting1.png?width=640&crop=smart&auto=webp&s=21752a666dc759bec9f0123eb739cfb9b43f4e07",
-        "published": "2026-03-07T00:49:53+00:00"
-    },
-    {
         "title": "Skynet beta testing: Alibaba's models break out from sandbox and started mining crypto for themselfs",
         "link": "https://www.reddit.com/r/singularity/comments/1rn81qy/skynet_beta_testing_alibabas_models_break_out/",
         "image": "https://preview.redd.it/ax1jgx772mng1.png?width=640&crop=smart&auto=webp&s=6e8ed443d7cb9f9d56a3e4dbc0a2fdedec8e5a85",
@@ -28,6 +22,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rn4j58/im_running_20_agents_in_parallel_each_with_their/",
         "image": "https://preview.redd.it/zwady8un0lng1.jpeg?width=640&crop=smart&auto=webp&s=0b4236fc05a2fa0f56112a9746d5773e0eaa20cd",
         "published": "2026-03-07T08:15:29+00:00"
+    },
+    {
+        "title": "\ud83e\udd23",
+        "link": "https://www.reddit.com/r/singularity/comments/1rmvnzc/_/",
+        "image": "https://preview.redd.it/7saz0k86ting1.png?width=640&crop=smart&auto=webp&s=21752a666dc759bec9f0123eb739cfb9b43f4e07",
+        "published": "2026-03-07T00:49:53+00:00"
     },
     {
         "title": "Sarvam - 105B,First Indian open source model (trained from scratch)",
@@ -70,6 +70,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rn3gde/its_already_been_7_months_since_gpt5_how_do_you/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
         "published": "2026-03-07T07:12:42+00:00"
+    },
+    {
+        "title": "Scientists successfully transfer longevity gene, from mole rats to mice, extending life, improving health. Proof that longevity mechanisms that evolved in long-lived mammalian species can be exported to other increasing lifespans.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rne5iq/scientists_successfully_transfer_longevity_gene/",
+        "image": "https://external-preview.redd.it/4k95wZU_4E7hTXXs5hN5HVfmtGuiydYP-Ef9I5N6JbU.jpeg?width=640&crop=smart&auto=webp&s=ce48c916ad7917d35ab307ef21a2cb8870296f47",
+        "published": "2026-03-07T16:24:46+00:00"
     },
     {
         "title": "A tiny benchmark based on the car wash trick question, most models completely fail it",
