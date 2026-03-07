@@ -8,10 +8,11 @@ from datetime import datetime
 SUBREDDITS = ["technology", "singularity", "popular", "news"]
 
 NEWS_SOURCES = {
-    "reuters": "https://www.reutersagency.com/feed/",
-    "ap": "https://apnews.com/rss/all",
-    "afp": "https://www.afp.com/en/news-feed/all",
-    "bbc": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    "reuters": "https://www.reuters.com/arc/outboundfeeds/news-all/?outputType=xml",
+    "ap": "https://news.google.com/rss/search?q=when:24h+source:Associated_Press",
+    "afp": "https://news.google.com/rss/search?q=when:24h+source:AFP",
+    "bbc": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "google": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 }
 
 def extract_image(entry):
