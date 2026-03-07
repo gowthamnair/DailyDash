@@ -607,14 +607,6 @@
             'https://images.unsplash.com/photo-1557428894-56bcc97113fe?auto=format&fit=crop&w=400&q=80'
         ];
 
-        // Validates if image field exists and isn't a placeholder string
-        function getValidImage(url, index) {
-            if (url && typeof url === 'string' && url.trim() !== '' && !url.includes('placeholder')) {
-                return url;
-            }
-            return fallbackImages[index % fallbackImages.length];
-        }
-
         // --- Mobile Intersection Observer for Dots ---
         if (window.innerWidth < 768) {
             const observer = new IntersectionObserver((entries) => {
@@ -846,9 +838,23 @@
                 container.innerHTML = '<div class="loader">No posts found.</div>';
                 return;
             }
+            
+            const seenImages = new Set();
+            
             container.innerHTML = articles.slice(0, 10).map((item, index) => {
-                const img = getValidImage(item.image, index);
-                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImages[index % fallbackImages.length]}';"`;
+                let isValidImg = item.image && typeof item.image === 'string' && item.image !== 'null' && item.image.trim() !== '' && !item.image.includes('placeholder');
+                
+                if (isValidImg) {
+                    if (seenImages.has(item.image)) {
+                        isValidImg = false;
+                    } else {
+                        seenImages.add(item.image);
+                    }
+                }
+
+                const fallbackImg = fallbackImages[index % fallbackImages.length];
+                const img = isValidImg ? item.image : fallbackImg;
+                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImg}';"`;
                 
                 return `
                 <a href="${item.link}" target="_blank" class="hero-card">
