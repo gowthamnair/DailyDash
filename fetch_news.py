@@ -7,32 +7,19 @@ SUBREDDITS = ["technology", "singularity", "popular", "news"]
 
 def extract_image(entry):
     """
-    Extracts the highest resolution image available from Reddit RSS.
-    Bypasses the 140x140 thumbnails.
+    Reverted to standard thumbnail extraction.
+    Extracts the 'src' from the summary's <img> tag.
     """
     if 'summary' in entry:
-        # 1. Look for the 'preview' image link which is usually full size
-        # We look for the 'https://preview.redd.it/...' pattern
-        img_match = re.search(r'href="(https://preview\.redd\.it/[^"]+)"', entry.summary)
+        # Standard search for the <img> tag's src attribute
+        img_match = re.search(r'src="([^"]+)"', entry.summary)
         
-        if not img_match:
-            # 2. Fallback: Search for any standard image tag
-            img_match = re.search(r'src="([^"]+)"', entry.summary)
-            
         if img_match:
-            img_url = img_match.group(1).replace('&amp;', '&')
-            
-            # 3. Clean 'Small' Parameters
-            # If the URL contains width/height/crop parameters, we strip them
-            # to force Reddit to serve the original source image.
-            clean_url = img_url.split('?')[0] 
-            
-            # Validation: Ensure it's a common image format
-            if any(ext in clean_url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp']):
-                return clean_url
-                
-    # Professional Technology Placeholder if no image is found
-    return "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+            # We fix the HTML encoding (&amp; to &) but keep the parameters
+            return img_match.group(1).replace('&amp;', '&')
+
+    # Reliable fallback image
+    return "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
 
 
 def fetch_and_save():
