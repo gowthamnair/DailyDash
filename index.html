@@ -68,6 +68,7 @@
             height: 5%;
             margin-bottom: 1.5rem;
             padding: 0 1rem;
+            flex-shrink: 0;
         }
 
         #datetime-weather {
@@ -93,24 +94,32 @@
             justify-content: flex-end;
         }
 
+        /* Minimal Theme Toggle */
         #theme-toggle {
-            background: var(--tab-bg);
-            border: 1px solid var(--glass-border);
-            color: var(--text-main);
-            padding: 6px 14px;
-            border-radius: 16px;
-            font-size: 11px;
-            font-weight: 600;
+            background: transparent;
+            border: none;
+            color: var(--text-dim);
+            padding: 4px;
             cursor: pointer;
-            backdrop-filter: var(--ios-blur);
-            -webkit-backdrop-filter: var(--ios-blur);
             transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        #theme-toggle:hover {
+            color: var(--text-main);
+            transform: scale(1.1);
         }
 
-        #theme-toggle:hover {
-            background: var(--tab-active-bg);
-            transform: scale(1.05);
+        .theme-icon {
+            width: 16px;
+            height: 16px;
+            stroke-width: 1.5;
         }
+
+        body.light-theme .sun-icon { display: none; }
+        body:not(.light-theme) .moon-icon { display: none; }
 
         /* Modal Overlay */
         #overlay {
@@ -129,19 +138,7 @@
             pointer-events: auto;
         }
 
-        /* Main Grid Layout */
-        main {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-template-rows: repeat(2, 1fr);
-            gap: 1.5rem;
-            height: 90%;
-            width: 100%;
-            position: relative;
-            min-height: 0;
-            min-width: 0;
-        }
-
+        /* Widget Architecture */
         .widget-box {
             display: flex;
             flex-direction: column;
@@ -169,8 +166,8 @@
             display: flex;
             justify-content: flex-end;
             align-items: center;
-            margin-bottom: 0.5rem;
-            height: 32px;
+            margin-bottom: 4px;
+            height: 14px;
         }
 
         .widget-controls.tabbed-controls {
@@ -181,9 +178,9 @@
             background: var(--tab-bg);
             border: 1px solid var(--glass-border);
             color: var(--text-dim);
-            border-radius: 10px;
-            width: 32px;
-            height: 32px;
+            border-radius: 4px;
+            width: 14px;
+            height: 14px;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -191,6 +188,7 @@
             backdrop-filter: var(--ios-blur);
             -webkit-backdrop-filter: var(--ios-blur);
             transition: all 0.2s ease;
+            flex-shrink: 0;
         }
 
         .expand-btn:hover {
@@ -218,22 +216,16 @@
         }
 
         .tradingview-widget-container { height: 100% !important; width: 100% !important; }
-        rssapp-carousel { height: 100%; width: 100%; }
 
-        /* --- REDDIT WIDGET SPECIFIC STYLES --- */
-        .reddit-content {
-            flex: 1;
-            padding: 1rem;
-        }
-
+        /* --- REDDIT & NEWS TABS SPECIFIC STYLES --- */
         .tabs {
             display: flex;
             background: var(--tab-bg);
-            padding: 4px;
-            border-radius: 12px;
-            width: calc(100% - 40px);
+            padding: 0;
+            border-radius: 6px;
+            flex: 1;
+            margin-right: 4px;
             border: 1px solid var(--glass-border);
-            flex-shrink: 0;
             backdrop-filter: var(--ios-blur);
             -webkit-backdrop-filter: var(--ios-blur);
         }
@@ -243,18 +235,23 @@
             background: none;
             border: none;
             color: var(--text-dim);
-            padding: 6px 4px;
-            border-radius: 8px;
+            padding: 1px 4px;
+            border-radius: 4px;
             cursor: pointer;
             font-weight: 600;
-            font-size: 10px;
+            font-size: 7px;
             transition: all 0.2s ease;
         }
 
         .tab-btn.active {
             background: var(--tab-active-bg);
             color: var(--text-main);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+
+        .reddit-content {
+            flex: 1;
+            padding: 1rem;
         }
 
         #news-feed {
@@ -352,6 +349,7 @@
             position: absolute;
             top: 0; left: 0; width: 100%; height: 100%;
             object-fit: cover; object-position: center; z-index: 1;
+            background-color: #1a1a1a;
         }
 
         .card-overlay {
@@ -378,44 +376,110 @@
             text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;
         }
 
-        /* SVG Icons */
-        .icon { width: 14px; height: 14px; stroke-width: 2.5; }
+        .icon { width: 8px; height: 8px; stroke-width: 2.5; }
+
+        /* Responsive Breakpoints & Layout Logic */
+        .mobile-dots { display: none; } /* Hidden on desktop */
+
+        /* DESKTOP VIEW */
+        @media (min-width: 768px) {
+            main {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                grid-template-rows: repeat(2, 1fr);
+                gap: 1.5rem;
+                height: 90%;
+                width: 100%;
+            }
+            /* Explicit Positioning - Reddit Left (1), News Right (2) */
+            #reddit-box { grid-column: 1; grid-row: 1; }
+            #news-box { grid-column: 2; grid-row: 1; }
+            #stock-box { grid-column: 1; grid-row: 2; }
+            #crypto-box { grid-column: 2; grid-row: 2; }
+        }
+
+        /* MOBILE VIEW (SWIPE CAROUSEL) */
+        @media (max-width: 767px) {
+            body { padding: 1rem 0 0 0; }
+            header { padding: 0 1.5rem; margin-bottom: 1rem; }
+            main {
+                display: flex;
+                flex-direction: row;
+                height: calc(100vh - 100px); /* Fill remaining space */
+                width: 100vw;
+                overflow-x: auto;
+                overflow-y: hidden;
+                scroll-snap-type: x mandatory;
+                scroll-behavior: smooth;
+                gap: 0;
+                padding: 0;
+            }
+            .widget-box {
+                flex: 0 0 100vw;
+                width: 100vw;
+                height: 100%;
+                scroll-snap-align: center;
+                padding: 0 1.5rem 1.5rem 1.5rem;
+                box-sizing: border-box;
+            }
+            .expand-btn { display: none; } /* Hide expand button on mobile since it's full screen */
+
+            /* Mobile Pagination Dots */
+            .mobile-dots {
+                display: flex;
+                flex-direction: column;
+                position: fixed;
+                right: 8px;
+                top: 50%;
+                transform: translateY(-50%);
+                gap: 8px;
+                z-index: 50;
+                background: rgba(0,0,0,0.2);
+                padding: 10px 6px;
+                border-radius: 12px;
+                backdrop-filter: blur(10px);
+                border: 1px solid rgba(255,255,255,0.1);
+            }
+            .dot {
+                width: 6px; height: 6px; border-radius: 50%;
+                background: rgba(255,255,255,0.3); transition: transform 0.3s, background 0.3s;
+            }
+            .dot.active {
+                background: rgba(255,255,255,0.9);
+                transform: scale(1.4);
+            }
+            body.light-theme .mobile-dots { background: rgba(255,255,255,0.4); border: 1px solid rgba(0,0,0,0.1); }
+            body.light-theme .dot { background: rgba(0,0,0,0.3); }
+            body.light-theme .dot.active { background: rgba(0,0,0,0.8); }
+        }
     </style>
 </head>
 <body>
 
     <header>
-        <div id="datetime-weather">--:-- | Fetching Weather...</div>
+        <div id="datetime-weather">--:-- | Locating...</div>
         <div id="title">Catch Up</div>
         <div id="spacer">
-            <button id="theme-toggle" onclick="toggleTheme()">☀️ Light</button>
+            <button id="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
+                <svg class="theme-icon sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                <svg class="theme-icon moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+            </button>
         </div>
     </header>
 
     <div id="overlay"></div>
 
-    <main>
-        <!-- Reddit Widget -->
-        <div class="widget-box" id="reddit-box">
-            <div class="widget-controls tabbed-controls">
-                <div class="tabs">
-                    <button class="tab-btn active" onclick="switchTab('technology', this)">Tech</button>
-                    <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
-                    <button class="tab-btn" onclick="switchTab('news', this)">News</button>
-                    <button class="tab-btn" onclick="switchTab('popular', this)">Popular</button>
-                </div>
-                <button class="expand-btn" onclick="toggleExpand('reddit-box')" title="Expand">
-                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
-                </button>
-            </div>
-            <div class="glass-panel reddit-content">
-                <div id="news-feed">
-                    <div class="loader">Loading updates...</div>
-                </div>
-            </div>
-        </div>
+    <div class="mobile-dots">
+        <div class="dot active" data-target="news-box"></div>
+        <div class="dot" data-target="reddit-box"></div>
+        <div class="dot" data-target="stock-box"></div>
+        <div class="dot" data-target="crypto-box"></div>
+    </div>
 
-        <!-- News Widget -->
+    <!-- DOM order defines swipe sequence: News -> Reddit -> Stock -> Crypto -->
+    <main id="scroll-container">
+        
+        <!-- News Widget (Mobile 1, Desktop Right) -->
         <div class="widget-box" id="news-box">
             <div class="widget-controls tabbed-controls">
                 <div class="tabs">
@@ -435,7 +499,27 @@
             </div>
         </div>
 
-        <!-- Stock Tile -->
+        <!-- Reddit Widget (Mobile 2, Desktop Left) -->
+        <div class="widget-box" id="reddit-box">
+            <div class="widget-controls tabbed-controls">
+                <div class="tabs">
+                    <button class="tab-btn active" onclick="switchTab('technology', this)">Tech</button>
+                    <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
+                    <button class="tab-btn" onclick="switchTab('news', this)">News</button>
+                    <button class="tab-btn" onclick="switchTab('popular', this)">Popular</button>
+                </div>
+                <button class="expand-btn" onclick="toggleExpand('reddit-box')" title="Expand">
+                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                </button>
+            </div>
+            <div class="glass-panel reddit-content">
+                <div id="news-feed">
+                    <div class="loader">Loading updates...</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stock Tile (Mobile 3, Desktop Left) -->
         <div class="widget-box" id="stock-box">
             <div class="widget-controls">
                 <button class="expand-btn" onclick="toggleExpand('stock-box')" title="Expand">
@@ -445,7 +529,7 @@
             <div class="glass-panel" id="stock-container"></div>
         </div>
 
-        <!-- Crypto Tile -->
+        <!-- Crypto Tile (Mobile 4, Desktop Right) -->
         <div class="widget-box" id="crypto-box">
             <div class="widget-controls">
                 <button class="expand-btn" onclick="toggleExpand('crypto-box')" title="Expand">
@@ -454,9 +538,43 @@
             </div>
             <div class="glass-panel" id="crypto-container"></div>
         </div>
+
     </main>
 
     <script>
+        // --- Fallback Image Logic (Diverse placeholders) ---
+        const fallbackImages = [
+            'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&q=80',
+            'https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&q=80',
+            'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=400&q=80',
+            'https://images.unsplash.com/photo-1526470608159-0097f4802100?auto=format&fit=crop&w=400&q=80',
+            'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=400&q=80',
+            'https://images.unsplash.com/photo-1557428894-56bcc97113fe?auto=format&fit=crop&w=400&q=80'
+        ];
+
+        // Validates if image field exists and isn't a placeholder string
+        function getValidImage(url, index) {
+            if (url && typeof url === 'string' && url.trim() !== '' && !url.includes('placeholder')) {
+                return url;
+            }
+            return fallbackImages[index % fallbackImages.length];
+        }
+
+        // --- Mobile Intersection Observer for Dots ---
+        if (window.innerWidth < 768) {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        document.querySelectorAll('.dot').forEach(d => d.classList.remove('active'));
+                        const targetDot = document.querySelector(`.dot[data-target="${entry.target.id}"]`);
+                        if (targetDot) targetDot.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.5, root: document.getElementById('scroll-container') });
+            
+            document.querySelectorAll('.widget-box').forEach(box => observer.observe(box));
+        }
+
         // --- Expand / Modal Logic ---
         const expandIcon = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>`;
         const closeIcon = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`;
@@ -467,17 +585,14 @@
             const btn = box.querySelector('.expand-btn');
             
             if (box.classList.contains('expanded')) {
-                // Close it
                 box.classList.remove('expanded');
                 overlay.classList.remove('active');
                 btn.innerHTML = expandIcon;
             } else {
-                // Close any others first
                 document.querySelectorAll('.widget-box.expanded').forEach(w => {
                     w.classList.remove('expanded');
                     w.querySelector('.expand-btn').innerHTML = expandIcon;
                 });
-                // Open selected
                 box.classList.add('expanded');
                 overlay.classList.add('active');
                 btn.innerHTML = closeIcon;
@@ -499,8 +614,6 @@
             const body = document.body;
             body.classList.toggle('light-theme');
             currentTheme = body.classList.contains('light-theme') ? 'light' : 'dark';
-            document.getElementById('theme-toggle').innerText = currentTheme === 'light' ? '🌙 Dark' : '☀️ Light';
-            
             loadTradingViewWidgets();
         }
 
@@ -519,90 +632,82 @@
                 "height": "100%"
             };
 
-            // Stock
             const stockContainer = document.getElementById('stock-container');
             stockContainer.innerHTML = '<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
             const stockScript = document.createElement('script');
             stockScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';
             stockScript.async = true;
-            stockScript.innerHTML = JSON.stringify({
-                ...configTpl,
-                "dataSource": "SPX500",
-                "blockColor": "change",
-                "grouping": "sector",
-                "exchanges": []
-            });
+            stockScript.innerHTML = JSON.stringify({ ...configTpl, "dataSource": "SPX500", "blockColor": "change", "grouping": "sector", "exchanges": [] });
             stockContainer.querySelector('.tradingview-widget-container').appendChild(stockScript);
 
-            // Crypto
             const cryptoContainer = document.getElementById('crypto-container');
             cryptoContainer.innerHTML = '<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
             const cryptoScript = document.createElement('script');
             cryptoScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-crypto-coins-heatmap.js';
             cryptoScript.async = true;
-            cryptoScript.innerHTML = JSON.stringify({
-                ...configTpl,
-                "dataSource": "Crypto",
-                "blockSize": "market_cap_calc",
-                "blockColor": "24h_close_change|5"
-            });
+            cryptoScript.innerHTML = JSON.stringify({ ...configTpl, "dataSource": "Crypto", "blockSize": "market_cap_calc", "blockColor": "24h_close_change|5" });
             cryptoContainer.querySelector('.tradingview-widget-container').appendChild(cryptoScript);
         }
 
-        // --- Clock & Weather Logic ---
-        let weatherString = "| Fetching...";
+        // --- Clock & Dynamic Weather Logic ---
+        let weatherString = "";
 
         async function fetchWeather() {
-            // Default to Dubai coordinates
-            let lat = 25.2048;
-            let lon = 55.2708;
-            let city = "Dubai";
-
-            const fetchWeatherData = async (latitude, longitude, cityName) => {
+            const fetchMeteo = async (latitude, longitude, cityName) => {
                 try {
                     const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true`);
-                    if (!res.ok) throw new Error('Weather API error');
+                    if (!res.ok) throw new Error();
                     const data = await res.json();
-                    const temp = Math.round(data.current_weather.temperature);
-                    weatherString = `| ${cityName}, ${temp} C`;
+                    weatherString = ` | ${cityName}, ${Math.round(data.current_weather.temperature)} C`;
                     updateClock(); 
                 } catch (err) {
-                    weatherString = `| ${cityName}, -- C`;
+                    weatherString = ` | ${cityName}, -- C`;
                     updateClock();
                 }
             };
 
-            // Attempt Geolocation first
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(async (pos) => {
-                    try {
-                        // Reverse Geocoding to get city name
-                        const geoRes = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${pos.coords.latitude}&lon=${pos.coords.longitude}`);
-                        if (geoRes.ok) {
-                            const geoData = await geoRes.json();
-                            city = geoData.address.city || geoData.address.town || geoData.address.village || "Local";
-                        }
-                    } catch (e) {} // Default to "Dubai" or "Local" if fails
-                    
-                    fetchWeatherData(pos.coords.latitude, pos.coords.longitude, city);
-                }, () => {
-                    // Fallback to Dubai if blocked
-                    fetchWeatherData(lat, lon, city);
-                });
-            } else {
-                fetchWeatherData(lat, lon, city);
+            const attemptGeoLocation = () => {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(async (pos) => {
+                        let city = "Local";
+                        try {
+                            const geoRes = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${pos.coords.latitude}&lon=${pos.coords.longitude}`);
+                            if (geoRes.ok) {
+                                const geoData = await geoRes.json();
+                                city = geoData.address.city || geoData.address.town || geoData.address.village || city;
+                            }
+                        } catch (e) {}
+                        fetchMeteo(pos.coords.latitude, pos.coords.longitude, city);
+                    }, () => {
+                         weatherString = " | Loc. Disabled";
+                         updateClock();
+                    });
+                }
+            };
+
+            // Attempt IP Based Geolocation First (No Prompt)
+            try {
+                const ipRes = await fetch('https://ipapi.co/json/');
+                if (ipRes.ok) {
+                    const ipData = await ipRes.json();
+                    if (ipData.latitude && ipData.city) {
+                        fetchMeteo(ipData.latitude, ipData.longitude, ipData.city);
+                    } else {
+                        attemptGeoLocation();
+                    }
+                } else {
+                    attemptGeoLocation();
+                }
+            } catch (e) {
+                attemptGeoLocation();
             }
         }
 
         function updateClock() {
             const now = new Date();
-            const dateOptions = { weekday: 'short', month: 'short', day: 'numeric' };
-            const timeOptions = { hour: '2-digit', minute: '2-digit' };
-            
-            const datePart = now.toLocaleDateString('en-US', dateOptions).toUpperCase();
-            const timePart = now.toLocaleTimeString('en-US', timeOptions).toUpperCase();
-            
-            document.getElementById('datetime-weather').innerText = `${datePart}, ${timePart} ${weatherString}`;
+            const datePart = now.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' }).toUpperCase();
+            const timePart = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }).toUpperCase();
+            document.getElementById('datetime-weather').innerText = `${datePart}, ${timePart}${weatherString}`;
         }
         
         setInterval(updateClock, 1000);
@@ -619,15 +724,11 @@
 
             try {
                 const response = await fetch(url);
-                if (!response.ok) throw new Error('Resource not found');
-                
+                if (!response.ok) throw new Error();
                 const articles = await response.json();
                 renderUI(articles, sub);
             } catch (err) {
-                container.innerHTML = `
-                    <div class="loader">
-                        <p style="color: #ff453a;">Failed to load data</p>
-                    </div>`;
+                container.innerHTML = `<div class="loader"><p style="color: #ff453a;">Failed to load data</p></div>`;
             }
         }
 
@@ -637,16 +738,28 @@
                 container.innerHTML = '<div class="loader">No posts found.</div>';
                 return;
             }
+            const seenImages = new Set();
+            container.innerHTML = articles.map((item, index) => {
+                let isValidImg = item.image && typeof item.image === 'string' && item.image !== 'null' && item.image.trim() !== '';
+                
+                if (isValidImg) {
+                    if (seenImages.has(item.image)) isValidImg = false;
+                    else seenImages.add(item.image);
+                }
 
-            container.innerHTML = articles.map(item => `
+                const fallbackImg = fallbackImages[index % fallbackImages.length];
+                const img = isValidImg ? item.image : fallbackImg;
+                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImg}';"`;
+                
+                return `
                 <a href="${item.link}" target="_blank" class="news-card">
-                    <img src="${item.image}" class="thumb" onerror="this.src='https://via.placeholder.com/150x150?text=No+Image'">
+                    <img src="${img}" class="thumb" ${fallbackAttr}>
                     <div class="content">
                         <h3 class="content-title">${item.title}</h3>
                         <div class="meta">r/${sub} • ${item.published}</div>
                     </div>
-                </a>
-            `).join('');
+                </a>`;
+            }).join('');
         }
 
         function switchTab(sub, btn) {
@@ -660,17 +773,15 @@
         // --- Global Wire Widget Logic ---
         async function fetchGlobalWireNews(source) {
             const container = document.getElementById('global-wire-feed');
-            const filename = `news_${source}.json`;
-            const url = `https://${USER}.github.io/${REPO}/${filename}?v=${Date.now()}`;
+            const url = `https://${USER}.github.io/${REPO}/news_${source}.json?v=${Date.now()}`;
 
             try {
                 const response = await fetch(url);
-                if (!response.ok) throw new Error('Source not deployed');
-                
+                if (!response.ok) throw new Error();
                 const articles = await response.json();
                 renderGlobalWireUI(articles, source);
             } catch (err) {
-                container.innerHTML = `<div class="loader">Unable to find <b>${filename}</b>.<br><p style="font-size:11px;opacity:0.5;">Ensure GitHub Action successfully generated this file.</p></div>`;
+                container.innerHTML = `<div class="loader">Unable to find <b>news_${source}.json</b>.<br><p style="font-size:11px;opacity:0.5;">Ensure GitHub Action successfully generated this file.</p></div>`;
             }
         }
 
@@ -680,19 +791,29 @@
                 container.innerHTML = '<div class="loader">No posts found.</div>';
                 return;
             }
+            const seenImages = new Set();
+            container.innerHTML = articles.slice(0, 10).map((item, index) => {
+                let isValidImg = item.image && typeof item.image === 'string' && item.image !== 'null' && item.image.trim() !== '';
+                
+                if (isValidImg) {
+                    if (seenImages.has(item.image)) isValidImg = false;
+                    else seenImages.add(item.image);
+                }
 
-            container.innerHTML = articles.slice(0, 10).map(item => `
+                const fallbackImg = fallbackImages[index % fallbackImages.length];
+                const img = isValidImg ? item.image : fallbackImg;
+                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImg}';"`;
+                
+                return `
                 <a href="${item.link}" target="_blank" class="hero-card">
-                    <img src="${item.image}" class="card-bg" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80'">
-                    
+                    <img src="${img}" class="card-bg" ${fallbackAttr}>
                     <div class="card-overlay"></div>
-                    
                     <div class="card-content">
                         <div class="hero-meta">${source.toUpperCase()} • ${item.published}</div>
                         <h3 class="hero-title">${item.title}</h3>
                     </div>
-                </a>
-            `).join('');
+                </a>`;
+            }).join('');
         }
 
         function switchGlobalWireTab(source, btn) {
