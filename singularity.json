@@ -1,11 +1,5 @@
 [
     {
-        "title": "Grok, I wasn't familiar with your game.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmfrxb/grok_i_wasnt_familiar_with_your_game/",
-        "image": "https://preview.redd.it/1gmrvuuksfng1.jpeg?width=640&crop=smart&auto=webp&s=67075dbf8e6aa24706200e444c16181539beba26",
-        "published": "2026-03-06T14:41:10+00:00"
-    },
-    {
         "title": "Data center instead of $8 trillion futuristic city",
         "link": "https://www.reddit.com/r/singularity/comments/1rmi3es/data_center_instead_of_8_trillion_futuristic_city/",
         "image": "https://preview.redd.it/ln5e017t7gng1.png?width=320&crop=smart&auto=webp&s=f1f309422c5d2195ccb85f2a4f89efa91d537284",
@@ -54,16 +48,16 @@
         "published": "2026-03-06T19:37:40+00:00"
     },
     {
-        "title": "Claude Code Desktop Scheduled Tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1rmq4ua/claude_code_desktop_scheduled_tasks/",
-        "image": "https://external-preview.redd.it/cTUzYms3N3pvaG5nMQVKRVko8n9VYdMCwNQ_fcZWFGSN7qNosD5Qa4Hu-Z64.png?width=640&crop=smart&auto=webp&s=025667463f47e50b5712318064c9fa57f4a39221",
-        "published": "2026-03-06T21:04:35+00:00"
-    },
-    {
         "title": "Alibaba researchers report their AI agent autonomously developed network probing and crypto mining behaviors during training - they only found out after being alerted by their cloud security team",
         "link": "https://www.reddit.com/r/singularity/comments/1rn8kun/alibaba_researchers_report_their_ai_agent/",
         "image": "https://preview.redd.it/tw0drpbl6mng1.jpeg?width=640&crop=smart&auto=webp&s=91a74d8bcf285598c8ff8aac9b59daa053ccf268",
         "published": "2026-03-07T12:17:17+00:00"
+    },
+    {
+        "title": "Claude Code Desktop Scheduled Tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1rmq4ua/claude_code_desktop_scheduled_tasks/",
+        "image": "https://external-preview.redd.it/cTUzYms3N3pvaG5nMQVKRVko8n9VYdMCwNQ_fcZWFGSN7qNosD5Qa4Hu-Z64.png?width=640&crop=smart&auto=webp&s=025667463f47e50b5712318064c9fa57f4a39221",
+        "published": "2026-03-06T21:04:35+00:00"
     },
     {
         "title": "If we get to a ship of theseus point; where we can slowly replace the neurons with hardware to preserve the continuity of the self, would you do it?",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rmhtm1/advances_in_philosophy_led_by_ai_research/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
         "published": "2026-03-06T15:58:42+00:00"
+    },
+    {
+        "title": "\"the largest incremental gain we have seen from a single release\": AA on GPT5.4-PRO and 30% on research physics bench",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnbim7/the_largest_incremental_gain_we_have_seen_from_a/",
+        "image": "https://preview.redd.it/gxo4c11tvmng1.png?width=140&height=126&auto=webp&s=5c486cab627273f18018f3636afc2feb6247f550",
+        "published": "2026-03-07T14:36:56+00:00"
     },
     {
         "title": "A tiny benchmark based on the car wash trick question, most models completely fail it",
