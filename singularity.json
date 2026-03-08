@@ -18,12 +18,6 @@
         "published": "2026-03-07T23:49:26+00:00"
     },
     {
-        "title": "roon on 25.05.2024",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnk7w1/roon_on_25052024/",
-        "image": "https://preview.redd.it/y8qwlbbqlong1.png?width=320&crop=smart&auto=webp&s=47ccd990c4a64268a2c27fcb8123cbf0f2ae2964",
-        "published": "2026-03-07T20:19:32+00:00"
-    },
-    {
         "title": "ChatGPT has maintained its position as the 5th most visited website in the world. I think it will surpass Facebook by the end of this year.",
         "link": "https://www.reddit.com/r/singularity/comments/1ro5v1e/chatgpt_has_maintained_its_position_as_the_5th/",
         "image": "https://preview.redd.it/bzv9hly5xtng1.jpeg?width=640&crop=smart&auto=webp&s=5d8131a72dceb67d685de40c18b97dcf870fcd1b",
@@ -42,10 +36,10 @@
         "published": "2026-03-08T09:12:58+00:00"
     },
     {
-        "title": "\u201cSam asked me not to call Anthropic a supply chain risk\u201d \u2014 Emil Michael(DoD Under Secretary for Research & Engineering)",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnpqyo/sam_asked_me_not_to_call_anthropic_a_supply_chain/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T00:09:32+00:00"
+        "title": "OpenAI researchers hinting at an omnimodal model coming",
+        "link": "https://www.reddit.com/r/singularity/comments/1rodvsx/openai_researchers_hinting_at_an_omnimodal_model/",
+        "image": "https://preview.redd.it/syfbx5jahvng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e62c71f0ab3ab8e97c9a8cc6e129e7fe128278b1",
+        "published": "2026-03-08T19:26:24+00:00"
     },
     {
         "title": "Omar Sobh Builds an Entire GPT in 475 Lines of Rust \u2014 4,580\u00d7 Faster Than Python",
@@ -54,10 +48,16 @@
         "published": "2026-03-08T17:40:05+00:00"
     },
     {
-        "title": "OpenAI researchers hinting at an omnimodal model coming",
-        "link": "https://www.reddit.com/r/singularity/comments/1rodvsx/openai_researchers_hinting_at_an_omnimodal_model/",
-        "image": "https://preview.redd.it/syfbx5jahvng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e62c71f0ab3ab8e97c9a8cc6e129e7fe128278b1",
-        "published": "2026-03-08T19:26:24+00:00"
+        "title": "\u201cSam asked me not to call Anthropic a supply chain risk\u201d \u2014 Emil Michael(DoD Under Secretary for Research & Engineering)",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnpqyo/sam_asked_me_not_to_call_anthropic_a_supply_chain/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T00:09:32+00:00"
+    },
+    {
+        "title": "The corporate collapse of 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1rodwdk/the_corporate_collapse_of_2026/",
+        "image": "https://external-preview.redd.it/Zl42fP4XfBvJ0Zu5qn-qH9SqfeVgWYr_KG9vVLMBYSs.jpeg?width=640&crop=smart&auto=webp&s=44af3a0202d705d6fb54694f5d0ad1b000c6eb3a",
+        "published": "2026-03-08T19:27:02+00:00"
     },
     {
         "title": "Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury",
@@ -72,21 +72,9 @@
         "published": "2026-03-08T03:52:53+00:00"
     },
     {
-        "title": "The corporate collapse of 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1rodwdk/the_corporate_collapse_of_2026/",
-        "image": "https://external-preview.redd.it/Zl42fP4XfBvJ0Zu5qn-qH9SqfeVgWYr_KG9vVLMBYSs.jpeg?width=640&crop=smart&auto=webp&s=44af3a0202d705d6fb54694f5d0ad1b000c6eb3a",
-        "published": "2026-03-08T19:27:02+00:00"
-    },
-    {
-        "title": "Why Task Proficiency Doesn\u2019t Equal AI Autonomy",
-        "link": "https://www.reddit.com/r/singularity/comments/1rob60g/why_task_proficiency_doesnt_equal_ai_autonomy/",
-        "image": "https://external-preview.redd.it/FjLcFT2L0-D4uU1VWCMPon4fVvFf_W3BmLC7qAJbCrw.png?width=320&crop=smart&auto=webp&s=7e357f2b78c9cd674f6f5cfc25f7f1a89b82c79f",
-        "published": "2026-03-08T17:44:48+00:00"
-    },
-    {
-        "title": "Built a CLI supply-chain safety tool for ClawHub with GPT. Never coded before. Want actual feedback.",
-        "link": "https://www.reddit.com/r/singularity/comments/1roaajc/built_a_cli_supplychain_safety_tool_for_clawhub/",
+        "title": "The real problem won\u2019t be unemployment, but what to do with people who have so much free time.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnx7yr/the_real_problem_wont_be_unemployment_but_what_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T17:11:51+00:00"
+        "published": "2026-03-08T06:14:59+00:00"
     }
 ]
