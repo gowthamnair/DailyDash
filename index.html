@@ -406,9 +406,9 @@
                 height: 90%;
                 width: 100%;
             }
-            /* Explicit Positioning - Reddit Left (1), News Right (2) */
-            #reddit-box { grid-column: 1; grid-row: 1; }
-            #news-box { grid-column: 2; grid-row: 1; }
+            /* Explicit Positioning - News Left (1), Reddit Right (2) */
+            #news-box { grid-column: 1; grid-row: 1; }
+            #reddit-box { grid-column: 2; grid-row: 1; }
             #stock-box { grid-column: 1; grid-row: 2; }
             #crypto-box { grid-column: 2; grid-row: 2; }
         }
@@ -534,14 +534,12 @@
     <!-- DOM order defines swipe sequence: News -> Reddit -> Stock -> Crypto -->
     <main id="scroll-container">
         
-        <!-- News Widget (Mobile 1, Desktop Right) -->
+        <!-- News Widget (Mobile 1, Desktop Left) -->
         <div class="widget-box" id="news-box">
             <div class="widget-controls tabbed-controls">
                 <div class="tabs">
                     <button class="tab-btn active" onclick="switchGlobalWireTab('bbc', this)">BBC</button>
-                    <button class="tab-btn" onclick="switchGlobalWireTab('reuters', this)">Reuters</button>
-                    <button class="tab-btn" onclick="switchGlobalWireTab('ap', this)">AP</button>
-                    <button class="tab-btn" onclick="switchGlobalWireTab('afp', this)">AFP</button>
+                    <button class="tab-btn" onclick="switchGlobalWireTab('cnn', this)">CNN</button>
                 </div>
                 <button class="expand-btn" onclick="toggleExpand('news-box')" title="Expand">
                     <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
@@ -554,14 +552,14 @@
             </div>
         </div>
 
-        <!-- Reddit Widget (Mobile 2, Desktop Left) -->
+        <!-- Reddit Widget (Mobile 2, Desktop Right) -->
         <div class="widget-box" id="reddit-box">
             <div class="widget-controls tabbed-controls">
                 <div class="tabs">
-                    <button class="tab-btn active" onclick="switchTab('technology', this)">Tech</button>
-                    <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
-                    <button class="tab-btn" onclick="switchTab('news', this)">News</button>
+                    <button class="tab-btn active" onclick="switchTab('news', this)">News</button>
                     <button class="tab-btn" onclick="switchTab('popular', this)">Popular</button>
+                    <button class="tab-btn" onclick="switchTab('technology', this)">Tech</button>
+                    <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
                 </div>
                 <button class="expand-btn" onclick="toggleExpand('reddit-box')" title="Expand">
                     <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
@@ -705,10 +703,10 @@
                     const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true`);
                     if (!res.ok) throw new Error();
                     const data = await res.json();
-                    weatherString = ` | ${cityName}, ${Math.round(data.current_weather.temperature)} C`;
+                    weatherString = ` | ${cityName}, ${Math.round(data.current_weather.temperature)}°C`;
                     updateClock(); 
                 } catch (err) {
-                    weatherString = ` | ${cityName}, -- C`;
+                    weatherString = ` | ${cityName}, --°C`;
                     updateClock();
                 }
             };
@@ -879,7 +877,7 @@
         // --- Initialization ---
         document.addEventListener('DOMContentLoaded', () => {
             loadTradingViewWidgets();
-            fetchNews('technology');
+            fetchNews('news');
             fetchGlobalWireNews('bbc');
         });
     </script>
