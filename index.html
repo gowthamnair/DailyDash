@@ -258,20 +258,13 @@
         /* Unified Feed Styling (Handles both List and Card Views) */
         .feed-container {
             height: 100%;
-            overflow-y: auto;
-            overflow-x: hidden;
             display: flex;
-            gap: 12px;
-            padding: 12px;
-            padding-top: 48px; /* Offset for floating controls */
+            overflow: hidden;
         }
 
         .article-item {
-            border-radius: 16px;
-            overflow: hidden;
             text-decoration: none;
             color: inherit;
-            border: 1px solid var(--card-border);
             transition: transform 0.2s ease;
             flex-shrink: 0;
         }
@@ -286,12 +279,21 @@
         }
 
         /* --- LIST VIEW --- */
-        .view-list { flex-direction: column; }
+        .view-list { 
+            flex-direction: column; 
+            overflow-y: auto;
+            overflow-x: hidden;
+            gap: 12px;
+            padding: 12px;
+            padding-top: 48px; /* Offset for floating controls */
+        }
         .view-list .article-item {
             display: flex;
             align-items: center;
             background: var(--card-bg);
             padding: 8px;
+            border-radius: 16px;
+            border: 1px solid var(--card-border);
         }
         .view-list .img-wrapper {
             width: 45px; height: 45px; min-width: 45px;
@@ -308,27 +310,45 @@
         }
 
         /* --- CARD VIEW --- */
-        .view-card { flex-direction: column; }
-        .view-card .article-item { position: relative; height: 160px; width: 100%; }
-        .widget-box.expanded .view-card .article-item { height: 250px; }
+        .view-card { 
+            flex-direction: row; 
+            overflow-x: auto;
+            overflow-y: hidden;
+            scroll-snap-type: x mandatory;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+            padding: 0; /* Fully flush with widget edges */
+            gap: 0;
+        }
+        .view-card::-webkit-scrollbar { display: none; }
+        .view-card .article-item { 
+            position: relative; 
+            height: 100%; 
+            width: 100%; 
+            flex: 0 0 100%; /* Takes full 100% of widget */
+            scroll-snap-align: center;
+            border-radius: 0;
+            border: none;
+        }
         .view-card .img-wrapper {
             position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;
         }
         .view-card .article-overlay {
             position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-            background: linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,0.9) 100%); z-index: 2;
+            /* Gradient darkens slightly at top so floating icons remain visible */
+            background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0) 25%, rgba(0,0,0,0.9) 100%); z-index: 2;
         }
         .view-card .article-content {
-            position: absolute; bottom: 0; left: 0; padding: 14px; z-index: 3; width: 100%; box-sizing: border-box;
+            position: absolute; bottom: 0; left: 0; padding: 24px 16px; z-index: 3; width: 100%; box-sizing: border-box;
         }
         .view-card .article-title {
-            font-size: 13px; font-weight: 700; line-height: 1.3; margin: 0 0 4px 0;
+            font-size: 15px; font-weight: 700; line-height: 1.3; margin: 0 0 6px 0;
             color: #ffffff; text-shadow: 0 2px 4px rgba(0,0,0,0.6);
             display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
         }
         .view-card .article-meta {
-            font-size: 9px; color: rgba(255,255,255,0.8); font-weight: 600;
-            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;
+            font-size: 10px; color: rgba(255,255,255,0.8); font-weight: 600;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
         }
 
         /* TradingView Specific */
@@ -339,9 +359,9 @@
             width: 117.64% !important;
             height: 117.64% !important;
         }
-        #stock-container, #crypto-container { padding-top: 0; } /* Remove padding for iFrames */
+        #stock-container, #crypto-container { padding: 0; } 
 
-        .loader { text-align: center; padding-top: 20px; color: var(--text-dim); font-size: 11px; width: 100%; }
+        .loader { text-align: center; padding-top: 60px; color: var(--text-dim); font-size: 11px; width: 100%; }
         .mobile-dots { display: none; }
 
         /* DESKTOP VIEW */
