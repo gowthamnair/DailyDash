@@ -24,16 +24,16 @@
         "published": "2026-03-07T20:19:32+00:00"
     },
     {
-        "title": "GPT-5.2 Pro Solved a Problem Previously Listed on Epoch AI's List of Open Math Problems",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnqpnw/gpt52_pro_solved_a_problem_previously_listed_on/",
-        "image": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d",
-        "published": "2026-03-08T00:52:41+00:00"
-    },
-    {
         "title": "ChatGPT has maintained its position as the 5th most visited website in the world. I think it will surpass Facebook by the end of this year.",
         "link": "https://www.reddit.com/r/singularity/comments/1ro5v1e/chatgpt_has_maintained_its_position_as_the_5th/",
         "image": "https://preview.redd.it/bzv9hly5xtng1.jpeg?width=640&crop=smart&auto=webp&s=5d8131a72dceb67d685de40c18b97dcf870fcd1b",
         "published": "2026-03-08T14:11:49+00:00"
+    },
+    {
+        "title": "GPT-5.2 Pro Solved a Problem Previously Listed on Epoch AI's List of Open Math Problems",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnqpnw/gpt52_pro_solved_a_problem_previously_listed_on/",
+        "image": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d",
+        "published": "2026-03-08T00:52:41+00:00"
     },
     {
         "title": "Scientists Propose Using Quantum Computers Could Generate Data to Train AI For Chemistry",
@@ -48,28 +48,22 @@
         "published": "2026-03-08T00:09:32+00:00"
     },
     {
-        "title": "Introducing Merge Labs",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnhxpr/introducing_merge_labs/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-07T18:50:56+00:00"
-    },
-    {
         "title": "Omar Sobh Builds an Entire GPT in 475 Lines of Rust \u2014 4,580\u00d7 Faster Than Python",
         "link": "https://www.reddit.com/r/singularity/comments/1rob1lk/omar_sobh_builds_an_entire_gpt_in_475_lines_of/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T17:40:05+00:00"
     },
     {
-        "title": "Integrating AI-Driven Predictive Analytics for Proactive Cybersecurity Risk Mitigation in Large-Scale IT Program Management",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnuhi2/integrating_aidriven_predictive_analytics_for/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T03:52:53+00:00"
-    },
-    {
         "title": "Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury",
         "link": "https://www.reddit.com/r/singularity/comments/1roagqn/robots_that_refuse_to_fail_ai_evolves_legged/",
         "image": "https://external-preview.redd.it/UFMi6Sax40CTnCOMYTLCrWhUnR9Py_plP6_kCpwRzMI.jpeg?width=640&crop=smart&auto=webp&s=3f32b64a37f36cc84ea5c0163d10f80218366273",
         "published": "2026-03-08T17:18:29+00:00"
+    },
+    {
+        "title": "Integrating AI-Driven Predictive Analytics for Proactive Cybersecurity Risk Mitigation in Large-Scale IT Program Management",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnuhi2/integrating_aidriven_predictive_analytics_for/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T03:52:53+00:00"
     },
     {
         "title": "Why Task Proficiency Doesn\u2019t Equal AI Autonomy",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rnkmke/they_solved_ai_hallucinations/",
         "image": "https://external-preview.redd.it/UkkRQuZQ3sAJq567WsIh1HINfMY1gSX2bI6aTBf5Tmo.jpeg?width=320&crop=smart&auto=webp&s=5b87bb8caf38af66a9a65b548ad173775d58eafb",
         "published": "2026-03-07T20:35:50+00:00"
+    },
+    {
+        "title": "The real problem won\u2019t be unemployment, but what to do with people who have so much free time.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnx7yr/the_real_problem_wont_be_unemployment_but_what_to/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T06:14:59+00:00"
     }
 ]
