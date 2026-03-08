@@ -6,12 +6,6 @@
         "published": "2026-03-08T03:19:16+00:00"
     },
     {
-        "title": "\"I'm running 20 agents in parallel, each with their own customized models, contexts and specialized tasks\". The agents:",
-        "link": "https://www.reddit.com/r/singularity/comments/1rn4j58/im_running_20_agents_in_parallel_each_with_their/",
-        "image": "https://preview.redd.it/zwady8un0lng1.jpeg?width=640&crop=smart&auto=webp&s=0b4236fc05a2fa0f56112a9746d5773e0eaa20cd",
-        "published": "2026-03-07T08:15:29+00:00"
-    },
-    {
         "title": "OpenAI Robotics head resigns after deal with Pentagon",
         "link": "https://www.reddit.com/r/singularity/comments/1rnmrvs/openai_robotics_head_resigns_after_deal_with/",
         "image": "https://external-preview.redd.it/wNmdtUyjKxPZw5rJD88f1ZG-cEwX2EvddO0rBEkicRE.jpeg?width=640&crop=smart&auto=webp&s=8a3a46290e1c76065bb11442b303bd28f35ac1f5",
@@ -24,16 +18,16 @@
         "published": "2026-03-07T11:47:39+00:00"
     },
     {
-        "title": "Alibaba researchers report their AI agent autonomously developed network probing and crypto mining behaviors during training - they only found out after being alerted by their cloud security team",
-        "link": "https://www.reddit.com/r/singularity/comments/1rn8kun/alibaba_researchers_report_their_ai_agent/",
-        "image": "https://preview.redd.it/tw0drpbl6mng1.jpeg?width=640&crop=smart&auto=webp&s=91a74d8bcf285598c8ff8aac9b59daa053ccf268",
-        "published": "2026-03-07T12:17:17+00:00"
-    },
-    {
         "title": "The scale of tech adoption in China is wild. Massive turnout for a public \"OpenClaw\" installation event in Shenzhen today",
         "link": "https://www.reddit.com/r/singularity/comments/1rnpad1/the_scale_of_tech_adoption_in_china_is_wild/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-07T23:49:26+00:00"
+    },
+    {
+        "title": "Alibaba researchers report their AI agent autonomously developed network probing and crypto mining behaviors during training - they only found out after being alerted by their cloud security team",
+        "link": "https://www.reddit.com/r/singularity/comments/1rn8kun/alibaba_researchers_report_their_ai_agent/",
+        "image": "https://preview.redd.it/tw0drpbl6mng1.jpeg?width=640&crop=smart&auto=webp&s=91a74d8bcf285598c8ff8aac9b59daa053ccf268",
+        "published": "2026-03-07T12:17:17+00:00"
     },
     {
         "title": "Scientists successfully transfer longevity gene, from mole rats to mice, extending life, improving health. Proof that longevity mechanisms that evolved in long-lived mammalian species can be exported to other increasing lifespans.",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rnx7yr/the_real_problem_wont_be_unemployment_but_what_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T06:14:59+00:00"
+    },
+    {
+        "title": "They solved AI hallucinations",
+        "link": "https://www.reddit.com/r/singularity/comments/1rnkmke/they_solved_ai_hallucinations/",
+        "image": "https://external-preview.redd.it/UkkRQuZQ3sAJq567WsIh1HINfMY1gSX2bI6aTBf5Tmo.jpeg?width=320&crop=smart&auto=webp&s=5b87bb8caf38af66a9a65b548ad173775d58eafb",
+        "published": "2026-03-07T20:35:50+00:00"
     }
 ]
