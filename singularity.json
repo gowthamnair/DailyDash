@@ -30,12 +30,6 @@
         "published": "2026-03-07T20:19:32+00:00"
     },
     {
-        "title": "\"the largest incremental gain we have seen from a single release\": AA on GPT5.4-PRO and 30% on research physics bench",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnbim7/the_largest_incremental_gain_we_have_seen_from_a/",
-        "image": "https://preview.redd.it/gxo4c11tvmng1.png?width=140&height=126&auto=webp&s=5c486cab627273f18018f3636afc2feb6247f550",
-        "published": "2026-03-07T14:36:56+00:00"
-    },
-    {
         "title": "GPT-5.2 Pro Solved a Problem Previously Listed on Epoch AI's List of Open Math Problems",
         "link": "https://www.reddit.com/r/singularity/comments/1rnqpnw/gpt52_pro_solved_a_problem_previously_listed_on/",
         "image": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d",
@@ -52,6 +46,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ro0a7h/scientists_propose_using_quantum_computers_could/",
         "image": "https://external-preview.redd.it/RJRPfJX7ao80SyBk7Ch5urF0jtUlqooXtlJSXz9pcqQ.jpeg?width=640&crop=smart&auto=webp&s=d37b76fd928aece717d8bc2959e00560d91408bd",
         "published": "2026-03-08T09:12:58+00:00"
+    },
+    {
+        "title": "ChatGPT has maintained its position as the 5th most visited website in the world. I think it will surpass Facebook by the end of this year.",
+        "link": "https://www.reddit.com/r/singularity/comments/1ro5v1e/chatgpt_has_maintained_its_position_as_the_5th/",
+        "image": "https://preview.redd.it/bzv9hly5xtng1.jpeg?width=640&crop=smart&auto=webp&s=5d8131a72dceb67d685de40c18b97dcf870fcd1b",
+        "published": "2026-03-08T14:11:49+00:00"
     },
     {
         "title": "Introducing Merge Labs",
@@ -76,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rnkmke/they_solved_ai_hallucinations/",
         "image": "https://external-preview.redd.it/UkkRQuZQ3sAJq567WsIh1HINfMY1gSX2bI6aTBf5Tmo.jpeg?width=320&crop=smart&auto=webp&s=5b87bb8caf38af66a9a65b548ad173775d58eafb",
         "published": "2026-03-07T20:35:50+00:00"
+    },
+    {
+        "title": "Odd Feeling While Talking to Gemini",
+        "link": "https://www.reddit.com/r/singularity/comments/1ro6hhi/odd_feeling_while_talking_to_gemini/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T14:39:06+00:00"
     }
 ]
