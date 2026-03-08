@@ -1,11 +1,5 @@
 [
     {
-        "title": "Footage shows US citizen shot by ICE agent in Texas traffic stops",
-        "link": "https://www.reddit.com/r/news/comments/1rncqs7/footage_shows_us_citizen_shot_by_ice_agent_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-07T15:28:43+00:00"
-    },
-    {
         "title": "US pump prices surge as Iran war upends global energy supply",
         "link": "https://www.reddit.com/r/news/comments/1rnehkk/us_pump_prices_surge_as_iran_war_upends_global/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -18,16 +12,16 @@
         "published": "2026-03-07T21:35:53+00:00"
     },
     {
-        "title": "Jan. 6 plaque honoring police officers is now displayed at the Capitol after a 3-year delay",
-        "link": "https://www.reddit.com/r/news/comments/1rnsk3v/jan_6_plaque_honoring_police_officers_is_now/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T02:19:24+00:00"
-    },
-    {
         "title": "Prison guards discussed cover-up of Epstein\u2019s death, inmate tells FBI",
         "link": "https://www.reddit.com/r/news/comments/1rnvs3z/prison_guards_discussed_coverup_of_epsteins_death/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T04:59:44+00:00"
+    },
+    {
+        "title": "Bodycam video raises questions in fatal shooting of US citizen by DHS agent",
+        "link": "https://www.reddit.com/r/news/comments/1ro31eq/bodycam_video_raises_questions_in_fatal_shooting/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T11:55:31+00:00"
     },
     {
         "title": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
@@ -36,16 +30,16 @@
         "published": "2026-03-08T07:21:27+00:00"
     },
     {
+        "title": "Jan. 6 plaque honoring police officers is now displayed at the Capitol after a 3-year delay",
+        "link": "https://www.reddit.com/r/news/comments/1rnsk3v/jan_6_plaque_honoring_police_officers_is_now/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T02:19:24+00:00"
+    },
+    {
         "title": "Epstein files: Missing FBI documents related to Trump allegations released",
         "link": "https://www.reddit.com/r/news/comments/1rnwglh/epstein_files_missing_fbi_documents_related_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T05:34:30+00:00"
-    },
-    {
-        "title": "Bodycam video raises questions in fatal shooting of US citizen by DHS agent",
-        "link": "https://www.reddit.com/r/news/comments/1ro31eq/bodycam_video_raises_questions_in_fatal_shooting/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T11:55:31+00:00"
     },
     {
         "title": "Loud blast heard near US embassy in Oslo, Norway, police say",
@@ -72,12 +66,6 @@
         "published": "2026-03-07T20:27:14+00:00"
     },
     {
-        "title": "US judge dismisses case by deported student [Any Lucia Lopez Belloza] who declined flight back",
-        "link": "https://www.reddit.com/r/news/comments/1rncxmi/us_judge_dismisses_case_by_deported_student_any/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-07T15:36:18+00:00"
-    },
-    {
         "title": "U.S. pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says",
         "link": "https://www.reddit.com/r/news/comments/1rnxe9e/us_pressing_sri_lanka_not_to_repatriate_iranian/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/news/comments/1rnhwbg/as_war_spreads_airline_pilots_contend_with_drones/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-07T18:49:24+00:00"
+    },
+    {
+        "title": "UK preparing aircraft carrier for possible Middle East deployment",
+        "link": "https://www.reddit.com/r/news/comments/1rnglhj/uk_preparing_aircraft_carrier_for_possible_middle/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-07T17:59:40+00:00"
+    },
+    {
+        "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+        "link": "https://www.reddit.com/r/news/comments/1ro4fif/explosion_at_us_embassy_in_oslo_may_have_been/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T13:06:23+00:00"
     }
 ]
