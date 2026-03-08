@@ -16,8 +16,8 @@
             --accent: #007aff;
             --panel-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
             --panel-shadow-hover: 0 16px 32px rgba(0, 0, 0, 0.4);
-            --tab-bg: rgba(255, 255, 255, 0.05);
-            --tab-active-bg: rgba(255, 255, 255, 0.15);
+            --overlay-bg: rgba(0, 0, 0, 0.5);
+            --overlay-active-bg: rgba(255, 255, 255, 0.15);
             --card-bg: rgba(0, 0, 0, 0.2);
             --card-border: rgba(255, 255, 255, 0.05);
         }
@@ -31,8 +31,8 @@
             --text-dim: rgba(15, 23, 42, 0.6);
             --panel-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
             --panel-shadow-hover: 0 16px 32px rgba(0, 0, 0, 0.12);
-            --tab-bg: rgba(0, 0, 0, 0.05);
-            --tab-active-bg: rgba(0, 0, 0, 0.12);
+            --overlay-bg: rgba(255, 255, 255, 0.7);
+            --overlay-active-bg: rgba(0, 0, 0, 0.12);
             --card-bg: rgba(255, 255, 255, 0.5);
             --card-border: rgba(0, 0, 0, 0.05);
         }
@@ -94,7 +94,6 @@
             justify-content: flex-end;
         }
 
-        /* Minimal Theme Toggle */
         #theme-toggle {
             background: transparent;
             border: none;
@@ -112,12 +111,7 @@
             transform: scale(1.1);
         }
 
-        .theme-icon {
-            width: 16px;
-            height: 16px;
-            stroke-width: 1.5;
-        }
-
+        .theme-icon { width: 16px; height: 16px; stroke-width: 1.5; }
         body.light-theme .sun-icon { display: none; }
         body:not(.light-theme) .moon-icon { display: none; }
 
@@ -142,7 +136,6 @@
         .widget-box {
             display: flex;
             flex-direction: column;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             min-height: 0;
             min-width: 0;
@@ -160,40 +153,6 @@
             max-height: 800px;
             z-index: 1000;
             margin: 0;
-        }
-
-        .widget-controls {
-            display: flex;
-            justify-content: flex-end;
-            align-items: center;
-            margin-bottom: 8px;
-            height: 24px;
-        }
-
-        .widget-controls.tabbed-controls {
-            justify-content: space-between;
-        }
-
-        .expand-btn {
-            background: var(--tab-bg);
-            border: 1px solid var(--glass-border);
-            color: var(--text-dim);
-            border-radius: 4px; /* Reduced from 8px */
-            width: 18px; /* Reduced to be very small */
-            height: 18px; /* Reduced to be very small */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            backdrop-filter: var(--ios-blur);
-            -webkit-backdrop-filter: var(--ios-blur);
-            transition: all 0.2s ease;
-            flex-shrink: 0;
-        }
-
-        .expand-btn:hover {
-            background: var(--tab-active-bg);
-            color: var(--text-main);
         }
 
         .glass-panel {
@@ -215,186 +174,175 @@
             box-shadow: var(--panel-shadow-hover);
         }
 
-        .tradingview-widget-container { height: 100% !important; width: 100% !important; }
-
-        /* --- REDDIT & NEWS TABS SPECIFIC STYLES --- */
-        .tabs {
+        /* Overlay Controls (Floating over content) */
+        .overlay-controls {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+            right: 12px;
             display: flex;
-            background: var(--tab-bg);
-            padding: 2px; /* Reduced */
-            border-radius: 8px; /* Reduced */
-            flex: 1;
-            margin-right: 8px;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 20;
+            pointer-events: none; /* Let clicks pass through empty space */
+        }
+
+        .overlay-controls.end { justify-content: flex-end; }
+
+        .tabs, .actions {
+            pointer-events: auto;
+            display: flex;
+            gap: 4px;
+        }
+
+        .tabs {
+            background: var(--overlay-bg);
+            padding: 2px;
+            border-radius: 8px;
             border: 1px solid var(--glass-border);
-            backdrop-filter: var(--ios-blur);
-            -webkit-backdrop-filter: var(--ios-blur);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
         }
 
         .tab-btn {
-            flex: 1;
             background: none;
             border: none;
-            color: var(--text-dim);
-            padding: 4px 6px; /* Reduced */
-            border-radius: 6px; /* Reduced */
+            color: var(--text-main);
+            opacity: 0.6;
+            padding: 4px 6px;
+            border-radius: 6px;
             cursor: pointer;
             font-weight: 600;
-            font-size: 9px; /* Reduced size */
+            font-size: 9px;
             transition: all 0.2s ease;
         }
 
         .tab-btn.active {
-            background: var(--tab-active-bg);
-            color: var(--text-main);
+            background: var(--overlay-active-bg);
+            opacity: 1;
             box-shadow: 0 2px 6px rgba(0,0,0,0.15);
         }
 
-        .reddit-content {
-            flex: 1;
-            padding: 1rem;
-        }
-
-        #news-feed {
-            height: 100%;
-            overflow-y: auto;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-
-        .news-card {
+        .icon-btn {
+            background: var(--overlay-bg);
+            border: 1px solid var(--glass-border);
+            color: var(--text-main);
+            opacity: 0.8;
+            border-radius: 6px;
+            width: 22px;
+            height: 22px;
             display: flex;
             align-items: center;
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
+            justify-content: center;
+            cursor: pointer;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            transition: all 0.2s ease;
+            flex-shrink: 0;
+            pointer-events: auto;
+        }
+
+        .icon-btn:hover {
+            background: var(--overlay-active-bg);
+            opacity: 1;
+        }
+
+        .icon { width: 12px; height: 12px; stroke-width: 2; }
+        
+        /* Layout Toggle Button Logic */
+        .toggle-layout-btn.showing-card .card-icon { display: none; }
+        .toggle-layout-btn.showing-card .list-icon { display: block; }
+        .toggle-layout-btn.showing-list .list-icon { display: none; }
+        .toggle-layout-btn.showing-list .card-icon { display: block; }
+
+        /* Unified Feed Styling (Handles both List and Card Views) */
+        .feed-container {
+            height: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            display: flex;
+            gap: 12px;
+            padding: 12px;
+            padding-top: 48px; /* Offset for floating controls */
+        }
+
+        .article-item {
             border-radius: 16px;
-            padding: 8px;
+            overflow: hidden;
             text-decoration: none;
             color: inherit;
+            border: 1px solid var(--card-border);
             transition: transform 0.2s ease;
             flex-shrink: 0;
         }
 
-        .news-card:active { transform: scale(0.97); }
+        .article-item:active { transform: scale(0.98); }
 
-        .thumb {
-            width: 45px;
-            height: 45px;
-            min-width: 45px;
-            border-radius: 10px;
-            object-fit: cover;
-            background: #1a1a1a;
-            margin-right: 12px;
-        }
-
-        .content { flex: 1; overflow: hidden; }
-
-        .content-title {
-            font-size: 11px;
-            font-weight: 600;
-            line-height: 1.3;
-            margin: 0 0 4px 0;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        .meta {
-            font-size: 8px;
-            color: var(--text-dim);
-            font-weight: 500;
-            text-transform: uppercase;
-        }
-
-        .loader {
-            text-align: center;
-            margin-top: 20px;
-            color: var(--text-dim);
-            font-size: 11px;
-        }
-
-        /* --- GLOBAL WIRE WIDGET SPECIFIC STYLES --- */
-        #global-wire-feed {
-            height: 100%;
-            overflow-x: auto;
-            overflow-y: hidden;
-            display: flex;
-            flex-direction: row;
-            gap: 12px;
-            padding: 12px;
-            scroll-snap-type: x mandatory;
-            scroll-behavior: smooth;
-            -webkit-overflow-scrolling: touch;
-        }
-
-        #global-wire-feed::-webkit-scrollbar { display: none; }
-
-        .hero-card {
-            position: relative;
+        .article-bg {
             width: 100%;
             height: 100%;
-            min-height: unset;
-            flex: 0 0 calc(100% - 24px);
-            border-radius: 16px;
-            overflow: hidden;
-            text-decoration: none;
-            color: inherit;
-            border: 1px solid var(--card-border);
-            transition: transform 0.2s ease;
-            scroll-snap-align: center;
-        }
-
-        .widget-box.expanded .hero-card {
-            height: 100%;
-            min-height: unset;
-        }
-
-        .hero-card:active { transform: scale(0.98); }
-
-        .card-bg {
-            position: absolute;
-            top: 0; left: 0; width: 100%; height: 100%;
-            object-fit: cover; object-position: center; z-index: 1;
+            object-fit: cover;
             background-color: #1a1a1a;
         }
 
-        .card-overlay {
-            position: absolute;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,0.9) 100%);
-            z-index: 2;
+        /* --- LIST VIEW --- */
+        .view-list { flex-direction: column; }
+        .view-list .article-item {
+            display: flex;
+            align-items: center;
+            background: var(--card-bg);
+            padding: 8px;
+        }
+        .view-list .img-wrapper {
+            width: 45px; height: 45px; min-width: 45px;
+            border-radius: 10px; overflow: hidden; margin-right: 12px;
+        }
+        .view-list .article-overlay { display: none; }
+        .view-list .article-content { flex: 1; overflow: hidden; }
+        .view-list .article-title {
+            font-size: 11px; font-weight: 600; line-height: 1.3; margin: 0 0 4px 0;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .view-list .article-meta {
+            font-size: 8px; color: var(--text-dim); font-weight: 500; text-transform: uppercase;
         }
 
-        .card-content {
-            position: absolute;
-            bottom: 0; left: 0; padding: 14px; z-index: 3;
-            width: 100%; box-sizing: border-box;
+        /* --- CARD VIEW --- */
+        .view-card { flex-direction: column; }
+        .view-card .article-item { position: relative; height: 160px; width: 100%; }
+        .widget-box.expanded .view-card .article-item { height: 250px; }
+        .view-card .img-wrapper {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;
         }
-
-        .hero-title {
+        .view-card .article-overlay {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,0.9) 100%); z-index: 2;
+        }
+        .view-card .article-content {
+            position: absolute; bottom: 0; left: 0; padding: 14px; z-index: 3; width: 100%; box-sizing: border-box;
+        }
+        .view-card .article-title {
             font-size: 13px; font-weight: 700; line-height: 1.3; margin: 0 0 4px 0;
-            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
-            overflow: hidden; color: #ffffff; text-shadow: 0 2px 4px rgba(0,0,0,0.6);
+            color: #ffffff; text-shadow: 0 2px 4px rgba(0,0,0,0.6);
+            display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
         }
-
-        .hero-meta {
+        .view-card .article-meta {
             font-size: 9px; color: rgba(255,255,255,0.8); font-weight: 600;
             text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;
         }
 
-        .icon { width: 10px; height: 10px; stroke-width: 2.5; } /* Scaled down inner icon */
-
-        /* Responsive Breakpoints & Layout Logic */
-        .mobile-dots { display: none; } /* Hidden on desktop */
-
-        /* Scale down TradingView iframe contents to reduce perceived font size */
+        /* TradingView Specific */
+        .tradingview-widget-container { height: 100% !important; width: 100% !important; }
         #stock-container iframe {
             transform: scale(0.85);
             transform-origin: top left;
-            width: 117.64% !important; /* 100 / 0.85 */
+            width: 117.64% !important;
             height: 117.64% !important;
         }
+        #stock-container, #crypto-container { padding-top: 0; } /* Remove padding for iFrames */
+
+        .loader { text-align: center; padding-top: 20px; color: var(--text-dim); font-size: 11px; width: 100%; }
+        .mobile-dots { display: none; }
 
         /* DESKTOP VIEW */
         @media (min-width: 768px) {
@@ -406,44 +354,24 @@
                 height: 90%;
                 width: 100%;
             }
-            /* Explicit Positioning - News Left (1), Reddit Right (2) */
             #news-box { grid-column: 1; grid-row: 1; }
             #reddit-box { grid-column: 2; grid-row: 1; }
             #stock-box { grid-column: 1; grid-row: 2; }
             #crypto-box { grid-column: 2; grid-row: 2; }
         }
 
-        /* MOBILE VIEW (SWIPE CAROUSEL) */
+        /* MOBILE VIEW */
         @media (max-width: 767px) {
             body { padding: 1rem 0 0 0; }
-            
-            /* Fix Header Overlap on Mobile */
-            header { 
-                padding: 0 1rem; 
-                margin-bottom: 1rem; 
-            }
-            #datetime-weather {
-                font-size: 0.6rem;
-                width: auto;
-                flex: 1;
-                white-space: normal; /* Allow wrapping */
-                line-height: 1.2;
-            }
-            #title {
-                font-size: 1rem;
-                width: auto;
-                flex: 0 0 auto;
-                margin: 0 8px; /* Buffer space */
-            }
-            #spacer {
-                width: auto;
-                flex: 1;
-            }
+            header { padding: 0 1rem; margin-bottom: 1rem; }
+            #datetime-weather { font-size: 0.6rem; width: auto; flex: 1; white-space: normal; line-height: 1.2; }
+            #title { font-size: 1rem; width: auto; flex: 0 0 auto; margin: 0 8px; }
+            #spacer { width: auto; flex: 1; }
 
             main {
                 display: flex;
                 flex-direction: row;
-                height: calc(100vh - 100px); /* Fill remaining space */
+                height: calc(100vh - 100px);
                 width: 100vw;
                 overflow-x: auto;
                 overflow-y: hidden;
@@ -458,34 +386,20 @@
                 width: 100vw;
                 height: 100%;
                 scroll-snap-align: center;
-                padding: 0 1.5rem 2rem 1.5rem; /* Add padding at the bottom for dots */
+                padding: 0 1.5rem 2rem 1.5rem;
                 box-sizing: border-box;
             }
 
-            /* Convert Mobile News Feed to Vertical Scrolling (Not Swipeable) */
-            #global-wire-feed {
-                flex-direction: column;
-                overflow-x: hidden;
-                overflow-y: auto;
-                scroll-snap-type: none; /* Disable horizontal snapping */
-            }
-            .hero-card {
-                flex: 0 0 auto;
-                height: 160px;
-                width: 100%;
-            }
+            .expand-btn { display: none; }
 
-            .expand-btn { display: none; } /* Hide expand button on mobile since it's full screen */
-
-            /* Mobile Pagination Dots */
             .mobile-dots {
                 display: flex;
-                flex-direction: row; /* Horizontal alignment */
+                flex-direction: row;
                 position: fixed;
-                bottom: 8px; /* Moved to bottom */
+                bottom: 8px;
                 top: auto;
                 left: 50%;
-                transform: translateX(-50%); /* Centered */
+                transform: translateX(-50%);
                 right: auto;
                 gap: 8px;
                 z-index: 50;
@@ -499,10 +413,7 @@
                 width: 6px; height: 6px; border-radius: 50%;
                 background: rgba(255,255,255,0.3); transition: transform 0.3s, background 0.3s;
             }
-            .dot.active {
-                background: rgba(255,255,255,0.9);
-                transform: scale(1.4);
-            }
+            .dot.active { background: rgba(255,255,255,0.9); transform: scale(1.4); }
             body.light-theme .mobile-dots { background: rgba(255,255,255,0.4); border: 1px solid rgba(0,0,0,0.1); }
             body.light-theme .dot { background: rgba(0,0,0,0.3); }
             body.light-theme .dot.active { background: rgba(0,0,0,0.8); }
@@ -531,71 +442,85 @@
         <div class="dot" data-target="crypto-box"></div>
     </div>
 
-    <!-- DOM order defines swipe sequence: News -> Reddit -> Stock -> Crypto -->
     <main id="scroll-container">
         
-        <!-- News Widget (Mobile 1, Desktop Left) -->
+        <!-- News Widget -->
         <div class="widget-box" id="news-box">
-            <div class="widget-controls tabbed-controls">
-                <div class="tabs">
-                    <button class="tab-btn active" onclick="switchGlobalWireTab('bbc', this)">BBC</button>
-                    <button class="tab-btn" onclick="switchGlobalWireTab('cnn', this)">CNN</button>
-                </div>
-                <button class="expand-btn" onclick="toggleExpand('news-box')" title="Expand">
-                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
-                </button>
-            </div>
             <div class="glass-panel">
-                <div id="global-wire-feed">
+                <div class="overlay-controls">
+                    <div class="tabs">
+                        <button class="tab-btn active" onclick="switchGlobalWireTab('bbc', this)">BBC</button>
+                        <button class="tab-btn" onclick="switchGlobalWireTab('cnn', this)">CNN</button>
+                    </div>
+                    <div class="actions">
+                        <button class="icon-btn toggle-layout-btn showing-card" onclick="toggleLayout('global-wire-feed', this)" title="Toggle View">
+                            <svg class="icon list-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+                            <svg class="icon card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="3" y1="9" x2="21" y2="9"/></svg>
+                        </button>
+                        <button class="icon-btn expand-btn" onclick="toggleExpand('news-box')" title="Expand">
+                            <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                        </button>
+                    </div>
+                </div>
+                <div id="global-wire-feed" class="feed-container view-card">
                     <div class="loader">Accessing data...</div>
                 </div>
             </div>
         </div>
 
-        <!-- Reddit Widget (Mobile 2, Desktop Right) -->
+        <!-- Reddit Widget -->
         <div class="widget-box" id="reddit-box">
-            <div class="widget-controls tabbed-controls">
-                <div class="tabs">
-                    <button class="tab-btn active" onclick="switchTab('news', this)">News</button>
-                    <button class="tab-btn" onclick="switchTab('popular', this)">Popular</button>
-                    <button class="tab-btn" onclick="switchTab('technology', this)">Tech</button>
-                    <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
+            <div class="glass-panel">
+                <div class="overlay-controls">
+                    <div class="tabs">
+                        <button class="tab-btn active" onclick="switchTab('news', this)">News</button>
+                        <button class="tab-btn" onclick="switchTab('popular', this)">Popular</button>
+                        <button class="tab-btn" onclick="switchTab('technology', this)">Tech</button>
+                        <button class="tab-btn" onclick="switchTab('singularity', this)">Singularity</button>
+                    </div>
+                    <div class="actions">
+                        <button class="icon-btn toggle-layout-btn showing-list" onclick="toggleLayout('news-feed', this)" title="Toggle View">
+                            <svg class="icon list-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+                            <svg class="icon card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="3" y1="9" x2="21" y2="9"/></svg>
+                        </button>
+                        <button class="icon-btn expand-btn" onclick="toggleExpand('reddit-box')" title="Expand">
+                            <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                        </button>
+                    </div>
                 </div>
-                <button class="expand-btn" onclick="toggleExpand('reddit-box')" title="Expand">
-                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
-                </button>
-            </div>
-            <div class="glass-panel reddit-content">
-                <div id="news-feed">
+                <div id="news-feed" class="feed-container view-list">
                     <div class="loader">Loading updates...</div>
                 </div>
             </div>
         </div>
 
-        <!-- Stock Tile (Mobile 3, Desktop Left) -->
+        <!-- Stock Tile -->
         <div class="widget-box" id="stock-box">
-            <div class="widget-controls">
-                <button class="expand-btn" onclick="toggleExpand('stock-box')" title="Expand">
-                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
-                </button>
+            <div class="glass-panel">
+                <div class="overlay-controls end">
+                    <button class="icon-btn expand-btn" onclick="toggleExpand('stock-box')" title="Expand">
+                        <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                    </button>
+                </div>
+                <div id="stock-container" class="feed-container" style="padding: 0; overflow: hidden;"></div>
             </div>
-            <div class="glass-panel" id="stock-container"></div>
         </div>
 
-        <!-- Crypto Tile (Mobile 4, Desktop Right) -->
+        <!-- Crypto Tile -->
         <div class="widget-box" id="crypto-box">
-            <div class="widget-controls">
-                <button class="expand-btn" onclick="toggleExpand('crypto-box')" title="Expand">
-                    <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
-                </button>
+            <div class="glass-panel">
+                <div class="overlay-controls end">
+                    <button class="icon-btn expand-btn" onclick="toggleExpand('crypto-box')" title="Expand">
+                        <svg class="icon expand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                    </button>
+                </div>
+                <div id="crypto-container" class="feed-container" style="padding: 0; overflow: hidden;"></div>
             </div>
-            <div class="glass-panel" id="crypto-container"></div>
         </div>
 
     </main>
 
     <script>
-        // --- Fallback Image Logic (Diverse placeholders) ---
         const fallbackImages = [
             'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&q=80',
             'https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&q=80',
@@ -605,7 +530,13 @@
             'https://images.unsplash.com/photo-1557428894-56bcc97113fe?auto=format&fit=crop&w=400&q=80'
         ];
 
-        // --- Mobile Intersection Observer for Dots ---
+        function getValidImage(url, index) {
+            if (url && typeof url === 'string' && url.trim() !== '' && url !== 'null' && !url.includes('placeholder')) {
+                return url;
+            }
+            return fallbackImages[index % fallbackImages.length];
+        }
+
         if (window.innerWidth < 768) {
             const observer = new IntersectionObserver((entries) => {
                 entries.forEach(entry => {
@@ -616,11 +547,9 @@
                     }
                 });
             }, { threshold: 0.5, root: document.getElementById('scroll-container') });
-            
             document.querySelectorAll('.widget-box').forEach(box => observer.observe(box));
         }
 
-        // --- Expand / Modal Logic ---
         const expandIcon = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>`;
         const closeIcon = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`;
 
@@ -652,9 +581,22 @@
             document.getElementById('overlay').classList.remove('active');
         });
 
-        // --- Theme Logic ---
-        let currentTheme = 'dark';
+        function toggleLayout(feedId, btn) {
+            const feed = document.getElementById(feedId);
+            if (feed.classList.contains('view-card')) {
+                feed.classList.remove('view-card');
+                feed.classList.add('view-list');
+                btn.classList.remove('showing-card');
+                btn.classList.add('showing-list');
+            } else {
+                feed.classList.remove('view-list');
+                feed.classList.add('view-card');
+                btn.classList.remove('showing-list');
+                btn.classList.add('showing-card');
+            }
+        }
 
+        let currentTheme = 'dark';
         function toggleTheme() {
             const body = document.body;
             body.classList.toggle('light-theme');
@@ -676,9 +618,8 @@
                 "width": "100%",
                 "height": "100%"
             };
-
             const stockContainer = document.getElementById('stock-container');
-            stockContainer.innerHTML = '<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
+            stockContainer.innerHTML = '<div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div></div>';
             const stockScript = document.createElement('script');
             stockScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';
             stockScript.async = true;
@@ -686,7 +627,7 @@
             stockContainer.querySelector('.tradingview-widget-container').appendChild(stockScript);
 
             const cryptoContainer = document.getElementById('crypto-container');
-            cryptoContainer.innerHTML = '<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
+            cryptoContainer.innerHTML = '<div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div></div>';
             const cryptoScript = document.createElement('script');
             cryptoScript.src = 'https://s3.tradingview.com/external-embedding/embed-widget-crypto-coins-heatmap.js';
             cryptoScript.async = true;
@@ -694,9 +635,7 @@
             cryptoContainer.querySelector('.tradingview-widget-container').appendChild(cryptoScript);
         }
 
-        // --- Clock & Dynamic Weather Logic ---
         let weatherString = "";
-
         async function fetchWeather() {
             const fetchMeteo = async (latitude, longitude, cityName) => {
                 try {
@@ -730,22 +669,15 @@
                 }
             };
 
-            // Attempt IP Based Geolocation First (No Prompt)
             try {
                 const ipRes = await fetch('https://ipapi.co/json/');
                 if (ipRes.ok) {
                     const ipData = await ipRes.json();
                     if (ipData.latitude && ipData.city) {
                         fetchMeteo(ipData.latitude, ipData.longitude, ipData.city);
-                    } else {
-                        attemptGeoLocation();
-                    }
-                } else {
-                    attemptGeoLocation();
-                }
-            } catch (e) {
-                attemptGeoLocation();
-            }
+                    } else { attemptGeoLocation(); }
+                } else { attemptGeoLocation(); }
+            } catch (e) { attemptGeoLocation(); }
         }
 
         function updateClock() {
@@ -759,52 +691,42 @@
         updateClock();
         fetchWeather();
 
-        // --- Reddit Widget Logic ---
         const USER = 'gowthamnair';
         const REPO = 'CatchUp';
 
-        async function fetchNews(sub) {
-            const container = document.getElementById('news-feed');
-            const url = `https://${USER}.github.io/${REPO}/${sub}.json?v=${Date.now()}`;
-
-            try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error();
-                const articles = await response.json();
-                renderUI(articles, sub);
-            } catch (err) {
-                container.innerHTML = `<div class="loader"><p style="color: #ff453a;">Failed to load data</p></div>`;
-            }
-        }
-
-        function renderUI(articles, sub) {
-            const container = document.getElementById('news-feed');
-            if (!articles || articles.length === 0) {
-                container.innerHTML = '<div class="loader">No posts found.</div>';
-                return;
-            }
+        // Unified rendering mechanism
+        function generateArticlesHTML(articles, sourceLabel) {
             const seenImages = new Set();
-            container.innerHTML = articles.map((item, index) => {
-                let isValidImg = item.image && typeof item.image === 'string' && item.image !== 'null' && item.image.trim() !== '';
-                
-                if (isValidImg) {
-                    if (seenImages.has(item.image)) isValidImg = false;
-                    else seenImages.add(item.image);
+            return articles.map((item, index) => {
+                let isValidImg = getValidImage(item.image, index);
+                if (isValidImg && !isValidImg.includes('unsplash')) {
+                    if (seenImages.has(isValidImg)) isValidImg = fallbackImages[index % fallbackImages.length];
+                    else seenImages.add(isValidImg);
                 }
-
-                const fallbackImg = fallbackImages[index % fallbackImages.length];
-                const img = isValidImg ? item.image : fallbackImg;
-                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImg}';"`;
-                
+                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImages[index % fallbackImages.length]}';"`;
                 return `
-                <a href="${item.link}" target="_blank" class="news-card">
-                    <img src="${img}" class="thumb" ${fallbackAttr}>
-                    <div class="content">
-                        <h3 class="content-title">${item.title}</h3>
-                        <div class="meta">r/${sub} • ${item.published}</div>
+                <a href="${item.link}" target="_blank" class="article-item">
+                    <div class="img-wrapper"><img src="${isValidImg}" class="article-bg" ${fallbackAttr}></div>
+                    <div class="article-overlay"></div>
+                    <div class="article-content">
+                        <div class="article-meta">${sourceLabel} • ${item.published}</div>
+                        <h3 class="article-title">${item.title}</h3>
                     </div>
                 </a>`;
             }).join('');
+        }
+
+        async function fetchNews(sub) {
+            const container = document.getElementById('news-feed');
+            try {
+                const response = await fetch(`https://${USER}.github.io/${REPO}/${sub}.json?v=${Date.now()}`);
+                if (!response.ok) throw new Error();
+                const articles = await response.json();
+                if (!articles || articles.length === 0) container.innerHTML = '<div class="loader">No posts found.</div>';
+                else container.innerHTML = generateArticlesHTML(articles, `r/${sub}`);
+            } catch (err) {
+                container.innerHTML = `<div class="loader"><p style="color: #ff453a;">Failed to load data</p></div>`;
+            }
         }
 
         function switchTab(sub, btn) {
@@ -815,55 +737,17 @@
             fetchNews(sub);
         }
 
-        // --- Global Wire Widget Logic ---
         async function fetchGlobalWireNews(source) {
             const container = document.getElementById('global-wire-feed');
-            const url = `https://${USER}.github.io/${REPO}/news_${source}.json?v=${Date.now()}`;
-
             try {
-                const response = await fetch(url);
+                const response = await fetch(`https://${USER}.github.io/${REPO}/news_${source}.json?v=${Date.now()}`);
                 if (!response.ok) throw new Error();
                 const articles = await response.json();
-                renderGlobalWireUI(articles, source);
+                if (!articles || articles.length === 0) container.innerHTML = '<div class="loader">No posts found.</div>';
+                else container.innerHTML = generateArticlesHTML(articles.slice(0, 10), source.toUpperCase());
             } catch (err) {
-                container.innerHTML = `<div class="loader">Unable to find <b>news_${source}.json</b>.<br><p style="font-size:11px;opacity:0.5;">Ensure GitHub Action successfully generated this file.</p></div>`;
+                container.innerHTML = `<div class="loader">Unable to find <b>news_${source}.json</b></div>`;
             }
-        }
-
-        function renderGlobalWireUI(articles, source) {
-            const container = document.getElementById('global-wire-feed');
-            if (!articles || articles.length === 0) {
-                container.innerHTML = '<div class="loader">No posts found.</div>';
-                return;
-            }
-            
-            const seenImages = new Set();
-            
-            container.innerHTML = articles.slice(0, 10).map((item, index) => {
-                let isValidImg = item.image && typeof item.image === 'string' && item.image !== 'null' && item.image.trim() !== '' && !item.image.includes('placeholder');
-                
-                if (isValidImg) {
-                    if (seenImages.has(item.image)) {
-                        isValidImg = false;
-                    } else {
-                        seenImages.add(item.image);
-                    }
-                }
-
-                const fallbackImg = fallbackImages[index % fallbackImages.length];
-                const img = isValidImg ? item.image : fallbackImg;
-                const fallbackAttr = `onerror="this.onerror=null; this.src='${fallbackImg}';"`;
-                
-                return `
-                <a href="${item.link}" target="_blank" class="hero-card">
-                    <img src="${img}" class="card-bg" ${fallbackAttr}>
-                    <div class="card-overlay"></div>
-                    <div class="card-content">
-                        <div class="hero-meta">${source.toUpperCase()} • ${item.published}</div>
-                        <h3 class="hero-title">${item.title}</h3>
-                    </div>
-                </a>`;
-            }).join('');
         }
 
         function switchGlobalWireTab(source, btn) {
@@ -874,7 +758,6 @@
             fetchGlobalWireNews(source);
         }
 
-        // --- Initialization ---
         document.addEventListener('DOMContentLoaded', () => {
             loadTradingViewWidgets();
             fetchNews('news');
