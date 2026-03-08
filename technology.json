@@ -1,11 +1,5 @@
 [
     {
-        "title": "Claude Code deletes developers' production setup, including its database and snapshots \u2014 2.5 years of records were nuked in an instant",
-        "link": "https://www.reddit.com/r/technology/comments/1rng7sr/claude_code_deletes_developers_production_setup/",
-        "image": "https://external-preview.redd.it/WsMv9aoRPCqgtOneu0xmLDjXveGbE50ZQeWBO9Bd7-A.jpeg?width=640&crop=smart&auto=webp&s=35c3f3b0c64bfd71ff9312a11b6a30fa9684f20c",
-        "published": "2026-03-07T17:45:10+00:00"
-    },
-    {
         "title": "Oracle Layoffs: Tech giant to slash 30,000 jobs as banks pull out from financing AI data centers",
         "link": "https://www.reddit.com/r/technology/comments/1ro15xl/oracle_layoffs_tech_giant_to_slash_30000_jobs_as/",
         "image": "https://external-preview.redd.it/u9MEMvvY-Y7IaOJtwaCjyfvGbx63OaOihsCnoYTSmQg.jpeg?width=640&crop=smart&auto=webp&s=36f17bfe829a9ab9847b47fdd9a673b683847a05",
@@ -60,28 +54,34 @@
         "published": "2026-03-07T20:31:32+00:00"
     },
     {
-        "title": "China Suspected in Breach of FBI Surveillance Network",
-        "link": "https://www.reddit.com/r/technology/comments/1rnfxta/china_suspected_in_breach_of_fbi_surveillance/",
-        "image": "https://external-preview.redd.it/pxsg6fH1xR5V0uHg7YxLDYpRJMYFfyUUOnGr0qriIss.jpeg?width=640&crop=smart&auto=webp&s=a347aab75672b4dea2ff547a6f0c1eede77f600e",
-        "published": "2026-03-07T17:34:26+00:00"
-    },
-    {
         "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
         "link": "https://www.reddit.com/r/technology/comments/1ro76er/online_ageverification_tools_spread_across_us_for/",
         "image": "https://external-preview.redd.it/CiGe0mvqKcr2r08_tub5Wn9pL7lfjK-uCwDrq8rOsPc.jpeg?width=640&crop=smart&auto=webp&s=36208ef9002d00d1e4c2880ac869203d07e2759e",
         "published": "2026-03-08T15:08:06+00:00"
     },
     {
-        "title": "OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract",
-        "link": "https://www.reddit.com/r/technology/comments/1rnv4ft/openai_robotics_leader_resigns_over_concerns/",
-        "image": "https://external-preview.redd.it/8GI2lHxZy8_utDUAoHMs1lLiemGC9kkiaWRnvqc1mik.jpeg?width=640&crop=smart&auto=webp&s=f21ae1618faadcfc3bdf06a0dc8ce9c2a98097ff",
-        "published": "2026-03-08T04:25:15+00:00"
+        "title": "CEO Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth \u2014 a small incentive for one of the richest people on earth",
+        "link": "https://www.reddit.com/r/technology/comments/1ro9url/ceo_jensen_huang_set_to_receive_4_million_bonus/",
+        "image": "https://external-preview.redd.it/nEQtFfj-sJPBguysjKYXnru5col-JZQmz1VwXmPXeUs.jpeg?width=640&crop=smart&auto=webp&s=ed07a7e22416267b0c1fbf2f935eef2fa512963d",
+        "published": "2026-03-08T16:55:14+00:00"
     },
     {
         "title": "Nvidia dominates gaming GPU market with 95 percent share as sales of AMD Radeon graphics plummet to a historical low of 5 percent",
         "link": "https://www.reddit.com/r/technology/comments/1ro446w/nvidia_dominates_gaming_gpu_market_with_95/",
         "image": "https://external-preview.redd.it/vfR5D4zOr8mXMPsVPcipMa-WGQUo3WuSNJQeAXC_qYU.jpeg?width=640&crop=smart&auto=webp&s=15247e0941c5ad09ae7e155d4d14a82e244274c7",
         "published": "2026-03-08T12:51:07+00:00"
+    },
+    {
+        "title": "Crunchyroll Sued Over Allegedly Leaking Fans' Anime Viewing Secrets After $16M Settlement",
+        "link": "https://www.reddit.com/r/technology/comments/1ro6fdg/crunchyroll_sued_over_allegedly_leaking_fans/",
+        "image": "https://external-preview.redd.it/2n4s3lw3GJZYEJruQAYxwq-S7Xv0GUSloQQ9szaHalc.jpeg?width=640&crop=smart&auto=webp&s=9325449115150fbb6397f73fead3bf688117010c",
+        "published": "2026-03-08T14:36:32+00:00"
+    },
+    {
+        "title": "OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract",
+        "link": "https://www.reddit.com/r/technology/comments/1rnv4ft/openai_robotics_leader_resigns_over_concerns/",
+        "image": "https://external-preview.redd.it/8GI2lHxZy8_utDUAoHMs1lLiemGC9kkiaWRnvqc1mik.jpeg?width=640&crop=smart&auto=webp&s=f21ae1618faadcfc3bdf06a0dc8ce9c2a98097ff",
+        "published": "2026-03-08T04:25:15+00:00"
     },
     {
         "title": "At 25, Wikipedia faces a double threat: the rise of AI and the decline of local media",
