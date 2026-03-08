@@ -1,82 +1,103 @@
 import feedparser
 import json
-import re
 import requests
+import re
+import time
 from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Configuration
 SUBREDDITS = ["technology", "singularity", "popular", "news"]
 NEWS_SOURCES = {
-    "cnn": "http://rss.cnn.com/rss/edition_world.rss",
-    "bbc": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    "bbc": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "cnn": "http://rss.cnn.com/rss/edition_world.rss"
 }
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
-def scrape_bbc_image(url):
-    """
-    Specifically visits the BBC article to find the high-res Open Graph image.
-    """
+def get_bbc_image(url):
+    """Visits BBC article to find high-res og:image."""
     try:
-        response = requests.get(url, headers=HEADERS, timeout=5)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, 'html.parser')
-            img_tag = soup.find("meta", property="og:image")
-            if img_tag:
-                return img_tag["content"]
-    except Exception as e:
-        print(f"Scrape failed for {url}: {e}")
+        res = requests.get(url, headers={"User-Agent": UA}, timeout=10)
+        if res.status_code == 200:
+            soup = BeautifulSoup(res.text, 'html.parser')
+            img = soup.find("meta", property="og:image")
+            return img["content"] if img else None
+    except:
+        return None
+
+def extract_reddit_image(summary_html):
+    """
+    Specifically parses the Reddit <summary> HTML to find the unique <img> src.
+    """
+    if not summary_html:
+        return None
+    # Look for the src attribute in the <img> tag
+    match = re.search(r'src="([^"]+)"', summary_html)
+    if match:
+        url = match.group(1).replace('&amp;', '&')
+        # Ensure we don't return the tiny generic Reddit icon
+        if "redditstatic.com" not in url:
+            return url
     return None
 
-def extract_image(entry, source_name):
-    """
-    Decides whether to scrape or use RSS metadata based on the source.
-    """
-    # Force BeautifulSoup for BBC
-    if source_name == "bbc":
-        scraped_url = scrape_bbc_image(entry.link)
-        if scraped_url:
-            return scraped_url
+def fetch_reddit_rss(url):
+    session = requests.Session()
+    try:
+        session.get("https://www.reddit.com", headers={"User-Agent": UA}, timeout=10)
+        response = session.get(url, headers={"User-Agent": UA}, timeout=10)
+        if response.status_code == 200:
+            return feedparser.parse(response.text)
+    except:
+        pass
+    return None
 
-    # Default RSS Metadata Extraction (Used for CNN and Fallback)
-    if 'media_content' in entry and len(entry.media_content) > 0:
-        return entry.media_content[0]['url']
-    if 'enclosures' in entry and len(entry.enclosures) > 0:
-        return entry.enclosures[0]['url']
-    if 'summary' in entry:
-        img_match = re.search(r'src="([^"]+)"', entry.summary)
-        if img_match:
-            return img_match.group(1).replace('&amp;', '&')
+def process_and_save(feed_data, filename, source_type):
+    if not feed_data or not feed_data.entries:
+        return
 
-    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80"
-
-def process_feed(url, filename, source_name=None):
-    feed = feedparser.parse(url, agent="Mozilla/5.0")
     articles = []
-    
-    # Process top 10 for scraping efficiency
-    for entry in feed.entries[:10]:
+    for entry in feed_data.entries[:15]:
+        img = None
+        
+        if source_type == "bbc":
+            img = get_bbc_image(entry.get('link'))
+        elif source_type == "reddit":
+            # Extract the UNIQUE image for this specific Reddit post
+            img = extract_reddit_image(entry.get('summary'))
+        
+        # Fallback for Google News or missing images
+        if not img:
+            if 'media_content' in entry:
+                img = entry.media_content[0]['url']
+            elif 'links' in entry:
+                for link in entry.links:
+                    if 'image' in link.get('type', ''):
+                        img = link.get('href')
+
         articles.append({
             "title": entry.get('title', 'Untitled'),
             "link": entry.get('link', '#'),
-            "image": extract_image(entry, source_name),
+            "image": img or "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
             "published": entry.get('published', datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT'))
         })
-    
+
     with open(filename, "w") as f:
         json.dump(articles, f, indent=4)
-    print(f"Generated: {filename}")
+    print(f"Generated: {filename} with {len(articles)} articles.")
 
 def fetch_and_save():
-    # Process Subreddits (Standard)
+    # Process Reddit
     for sub in SUBREDDITS:
-        url = f"https://www.reddit.com/r/{sub}/top/.rss?t=day"
-        process_feed(url, f"{sub}.json")
+        url = f"https://www.reddit.com/r/{sub}/top.rss?t=day"
+        feed = fetch_reddit_rss(url)
+        process_and_save(feed, f"{sub}.json", "reddit")
+        time.sleep(1)
 
-    # Process News (Hybrid)
+    # Process News
     for name, url in NEWS_SOURCES.items():
-        process_feed(url, f"news_{name}.json", source_name=name)
+        feed = feedparser.parse(url, agent=UA)
+        process_and_save(feed, f"news_{name}.json", name)
 
 if __name__ == "__main__":
     fetch_and_save()
