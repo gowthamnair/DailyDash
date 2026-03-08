@@ -1,65 +1,66 @@
 import feedparser
 import json
 import re
+import requests
+from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Configuration
 SUBREDDITS = ["technology", "singularity", "popular", "news"]
-
 NEWS_SOURCES = {
-    "reuters": "https://www.reuters.com/arc/outboundfeeds/news-all/?outputType=xml",
-    "ap": "https://news.google.com/rss/search?q=when:24h+source:Associated_Press",
-    "afp": "https://news.google.com/rss/search?q=when:24h+source:AFP",
-    "bbc": "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "google": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+    "cnn": "http://rss.cnn.com/rss/edition_world.rss",
+    "bbc": "https://feeds.bbci.co.uk/news/world/rss.xml"
 }
 
-# This header is critical. Without it, Reuters/BBC may block image metadata.
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 
-def extract_image(entry):
+def scrape_bbc_image(url):
     """
-    Tries multiple methods to find a unique image for each article.
+    Specifically visits the BBC article to find the high-res Open Graph image.
     """
-    # 1. Check Media Content (Reuters / BBC / Associated Press)
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=5)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            img_tag = soup.find("meta", property="og:image")
+            if img_tag:
+                return img_tag["content"]
+    except Exception as e:
+        print(f"Scrape failed for {url}: {e}")
+    return None
+
+def extract_image(entry, source_name):
+    """
+    Decides whether to scrape or use RSS metadata based on the source.
+    """
+    # Force BeautifulSoup for BBC
+    if source_name == "bbc":
+        scraped_url = scrape_bbc_image(entry.link)
+        if scraped_url:
+            return scraped_url
+
+    # Default RSS Metadata Extraction (Used for CNN and Fallback)
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0]['url']
-    
-    # 2. Check Enclosures (Standard RSS image tag)
     if 'enclosures' in entry and len(entry.enclosures) > 0:
         return entry.enclosures[0]['url']
-
-    # 3. Check for image links in the links list
-    if 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.get('type', ''):
-                return link.get('href')
-
-    # 4. Reddit Specific: Extract from <img> tag in summary
     if 'summary' in entry:
         img_match = re.search(r'src="([^"]+)"', entry.summary)
         if img_match:
-            # Fix common encoding issues and return unique URL
-            url = img_match.group(1).replace('&amp;', '&')
-            if "redditstatic.com" not in url: # Avoid generic Reddit icons
-                return url
+            return img_match.group(1).replace('&amp;', '&')
 
-    # 5. Fallback: Return a unique placeholder based on the title to avoid "all the same" visuals
-    # Using a high-quality tech placeholder
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80"
 
-def process_feed(url, filename):
-    # Passing the USER_AGENT is mandatory for professional wire services
-    feed = feedparser.parse(url, agent=USER_AGENT)
+def process_feed(url, filename, source_name=None):
+    feed = feedparser.parse(url, agent="Mozilla/5.0")
     articles = []
     
-    for entry in feed.entries[:15]:
-        img_url = extract_image(entry)
-        
+    # Process top 10 for scraping efficiency
+    for entry in feed.entries[:10]:
         articles.append({
             "title": entry.get('title', 'Untitled'),
             "link": entry.get('link', '#'),
-            "image": img_url,
+            "image": extract_image(entry, source_name),
             "published": entry.get('published', datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT'))
         })
     
@@ -68,14 +69,14 @@ def process_feed(url, filename):
     print(f"Generated: {filename}")
 
 def fetch_and_save():
-    # Process Subreddits
+    # Process Subreddits (Standard)
     for sub in SUBREDDITS:
         url = f"https://www.reddit.com/r/{sub}/top/.rss?t=day"
         process_feed(url, f"{sub}.json")
 
-    # Process Professional News Sources
-    for source_name, url in NEWS_SOURCES.items():
-        process_feed(url, f"news_{source_name}.json")
+    # Process News (Hybrid)
+    for name, url in NEWS_SOURCES.items():
+        process_feed(url, f"news_{name}.json", source_name=name)
 
 if __name__ == "__main__":
     fetch_and_save()
