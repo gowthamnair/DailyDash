@@ -6,10 +6,10 @@
         "published": "2026-03-09T00:10:18+00:00"
     },
     {
-        "title": "The Washington Post: Claude Used To Target 1,000 Strikes In Iran",
-        "link": "https://www.reddit.com/r/singularity/comments/1rohbvf/the_washington_post_claude_used_to_target_1000/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T21:39:59+00:00"
+        "title": "800,000 human brain cells, in a dish, learned to play a video game",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp79id/800000_human_brain_cells_in_a_dish_learned_to/",
+        "image": "https://external-preview.redd.it/_KaKoTLPBELTOfeQE3Oq8u7QiRus1WdG1yCewMjMQvY.png?width=640&crop=smart&auto=webp&s=eee2cf10475f74de0a7baa2b02da0389ac79cd1c",
+        "published": "2026-03-09T17:50:35+00:00"
     },
     {
         "title": "Andrew Karpathy\u2019s \u201cautoresearch\u201d: An autonomous loop where AI edits PyTorch, runs 5-min training experiments, and continuously lowers its own val_bpb. \"Who knew early singularity could be this fun? :)\"",
@@ -18,28 +18,22 @@
         "published": "2026-03-09T02:33:05+00:00"
     },
     {
-        "title": "800,000 human brain cells, in a dish, learned to play a video game",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp79id/800000_human_brain_cells_in_a_dish_learned_to/",
-        "image": "https://external-preview.redd.it/_KaKoTLPBELTOfeQE3Oq8u7QiRus1WdG1yCewMjMQvY.png?width=640&crop=smart&auto=webp&s=eee2cf10475f74de0a7baa2b02da0389ac79cd1c",
-        "published": "2026-03-09T17:50:35+00:00"
-    },
-    {
         "title": "Figure robot autonomously cleaning living room",
         "link": "https://www.reddit.com/r/singularity/comments/1rp4n2e/figure_robot_autonomously_cleaning_living_room/",
         "image": "https://external-preview.redd.it/Njdzdm9pbnBvMW9nMVjLy4mrkvcfKOPbqq7E41DQJZVGnMPVQZM8g1_M1NOe.png?width=640&crop=smart&auto=webp&s=ff5de1228875be5ae27edc3d444fa6c60729bf93",
         "published": "2026-03-09T16:18:56+00:00"
     },
     {
-        "title": "Eonsys releases video of a simulated fly, running on the connectome (scanned brain) of a real fly",
-        "link": "https://www.reddit.com/r/singularity/comments/1roins8/eonsys_releases_video_of_a_simulated_fly_running/",
-        "image": "https://external-preview.redd.it/cDRjNndvZnpkd25nMdO1KFCPk3wT2N3-lzCCZ6c8hMliV53OCMpUHE9xtkgC.png?width=640&crop=smart&auto=webp&s=cd7936d512a578a3e3c48da9acef9058ccf0b719",
-        "published": "2026-03-08T22:33:10+00:00"
-    },
-    {
         "title": "Anthropic Sues Pentagon Over \u2018Supply Chain Risk\u2019 Label",
         "link": "https://www.reddit.com/r/singularity/comments/1rp4vjj/anthropic_sues_pentagon_over_supply_chain_risk/",
         "image": "https://external-preview.redd.it/Dl3b8QIcoMwnh0uW1fJREcNN96Jk4evgcsQzdmENndw.jpeg?width=640&crop=smart&auto=webp&s=14cd37fbda4cea7f4592ab5b4cdd8cd9daf5ffd2",
         "published": "2026-03-09T16:27:17+00:00"
+    },
+    {
+        "title": "Eonsys releases video of a simulated fly, running on the connectome (scanned brain) of a real fly",
+        "link": "https://www.reddit.com/r/singularity/comments/1roins8/eonsys_releases_video_of_a_simulated_fly_running/",
+        "image": "https://external-preview.redd.it/cDRjNndvZnpkd25nMdO1KFCPk3wT2N3-lzCCZ6c8hMliV53OCMpUHE9xtkgC.png?width=640&crop=smart&auto=webp&s=cd7936d512a578a3e3c48da9acef9058ccf0b719",
+        "published": "2026-03-08T22:33:10+00:00"
     },
     {
         "title": "What relative probability do you see for each of these in your lifetime?",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ror8g4/why_do_ai_companion_apps_still_cant_maintain/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-09T05:04:37+00:00"
+    },
+    {
+        "title": "How did you imagine Ai would be?",
+        "link": "https://www.reddit.com/r/singularity/comments/1roz5hu/how_did_you_imagine_ai_would_be/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-09T12:41:55+00:00"
     }
 ]
