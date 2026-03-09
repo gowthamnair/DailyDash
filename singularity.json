@@ -36,10 +36,10 @@
         "published": "2026-03-09T16:27:17+00:00"
     },
     {
-        "title": "The corporate collapse of 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1rodwdk/the_corporate_collapse_of_2026/",
-        "image": "https://external-preview.redd.it/Zl42fP4XfBvJ0Zu5qn-qH9SqfeVgWYr_KG9vVLMBYSs.jpeg?width=640&crop=smart&auto=webp&s=44af3a0202d705d6fb54694f5d0ad1b000c6eb3a",
-        "published": "2026-03-08T19:27:02+00:00"
+        "title": "800,000 human brain cells, in a dish, learned to play a video game",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp79id/800000_human_brain_cells_in_a_dish_learned_to/",
+        "image": "https://external-preview.redd.it/_KaKoTLPBELTOfeQE3Oq8u7QiRus1WdG1yCewMjMQvY.png?width=640&crop=smart&auto=webp&s=eee2cf10475f74de0a7baa2b02da0389ac79cd1c",
+        "published": "2026-03-09T17:50:35+00:00"
     },
     {
         "title": "What relative probability do you see for each of these in your lifetime?",
@@ -52,18 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rok9hs/since_when_did_this_sub_become_so_pessimistic/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T23:39:46+00:00"
-    },
-    {
-        "title": "OpenAI researchers hinting at an omnimodal model coming",
-        "link": "https://www.reddit.com/r/singularity/comments/1rodvsx/openai_researchers_hinting_at_an_omnimodal_model/",
-        "image": "https://preview.redd.it/syfbx5jahvng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e62c71f0ab3ab8e97c9a8cc6e129e7fe128278b1",
-        "published": "2026-03-08T19:26:24+00:00"
-    },
-    {
-        "title": "800,000 human brain cells, in a dish, learned to play a video game",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp79id/800000_human_brain_cells_in_a_dish_learned_to/",
-        "image": "https://external-preview.redd.it/_KaKoTLPBELTOfeQE3Oq8u7QiRus1WdG1yCewMjMQvY.png?width=640&crop=smart&auto=webp&s=eee2cf10475f74de0a7baa2b02da0389ac79cd1c",
-        "published": "2026-03-09T17:50:35+00:00"
     },
     {
         "title": "(Figure A.i.) Helix 02 Living Room Tidy",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1roy42m/phoenix4_realtime_human_rendering_with_emotional/",
         "image": "https://external-preview.redd.it/qbJtMx7WW5-Hsp0kF6gV4N2qMvujr_WVPS_BGtm02lo.png?width=640&crop=smart&auto=webp&s=87f766f14dd288cedc14f642daee37d5e0e4b266",
         "published": "2026-03-09T11:51:14+00:00"
+    },
+    {
+        "title": "Why do AI companion apps still can't maintain persistent memory? (technical discussion)",
+        "link": "https://www.reddit.com/r/singularity/comments/1ror8g4/why_do_ai_companion_apps_still_cant_maintain/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-09T05:04:37+00:00"
+    },
+    {
+        "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
+        "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
+        "published": "2026-03-09T18:57:57+00:00"
     }
 ]
