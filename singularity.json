@@ -6,12 +6,6 @@
         "published": "2026-03-08T03:19:16+00:00"
     },
     {
-        "title": "The scale of tech adoption in China is wild. Massive turnout for a public \"OpenClaw\" installation event in Shenzhen today",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnpad1/the_scale_of_tech_adoption_in_china_is_wild/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-07T23:49:26+00:00"
-    },
-    {
         "title": "The Washington Post: Claude Used To Target 1,000 Strikes In Iran",
         "link": "https://www.reddit.com/r/singularity/comments/1rohbvf/the_washington_post_claude_used_to_target_1000/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -24,22 +18,10 @@
         "published": "2026-03-08T14:11:49+00:00"
     },
     {
-        "title": "GPT-5.2 Pro Solved a Problem Previously Listed on Epoch AI's List of Open Math Problems",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnqpnw/gpt52_pro_solved_a_problem_previously_listed_on/",
-        "image": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d",
-        "published": "2026-03-08T00:52:41+00:00"
-    },
-    {
-        "title": "CEO of Figure: \u201cWe\u2019re watching AI capabilities emerge that we didn\u2019t even know were possible\u201d. Showing something off tomorrow 9AM PT",
-        "link": "https://www.reddit.com/r/singularity/comments/1rohfoq/ceo_of_figure_were_watching_ai_capabilities/",
-        "image": "https://preview.redd.it/bcxbi86w5wng1.jpeg?width=640&crop=smart&auto=webp&s=6a16d5864f88125d27a69479837d9efde632c05d",
-        "published": "2026-03-08T21:44:18+00:00"
-    },
-    {
-        "title": "Scientists Propose Using Quantum Computers Could Generate Data to Train AI For Chemistry",
-        "link": "https://www.reddit.com/r/singularity/comments/1ro0a7h/scientists_propose_using_quantum_computers_could/",
-        "image": "https://external-preview.redd.it/RJRPfJX7ao80SyBk7Ch5urF0jtUlqooXtlJSXz9pcqQ.jpeg?width=640&crop=smart&auto=webp&s=d37b76fd928aece717d8bc2959e00560d91408bd",
-        "published": "2026-03-08T09:12:58+00:00"
+        "title": "The corporate collapse of 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1rodwdk/the_corporate_collapse_of_2026/",
+        "image": "https://external-preview.redd.it/Zl42fP4XfBvJ0Zu5qn-qH9SqfeVgWYr_KG9vVLMBYSs.jpeg?width=640&crop=smart&auto=webp&s=44af3a0202d705d6fb54694f5d0ad1b000c6eb3a",
+        "published": "2026-03-08T19:27:02+00:00"
     },
     {
         "title": "OpenAI researchers hinting at an omnimodal model coming",
@@ -48,10 +30,22 @@
         "published": "2026-03-08T19:26:24+00:00"
     },
     {
-        "title": "The corporate collapse of 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1rodwdk/the_corporate_collapse_of_2026/",
-        "image": "https://external-preview.redd.it/Zl42fP4XfBvJ0Zu5qn-qH9SqfeVgWYr_KG9vVLMBYSs.jpeg?width=640&crop=smart&auto=webp&s=44af3a0202d705d6fb54694f5d0ad1b000c6eb3a",
-        "published": "2026-03-08T19:27:02+00:00"
+        "title": "Scientists Propose Using Quantum Computers Could Generate Data to Train AI For Chemistry",
+        "link": "https://www.reddit.com/r/singularity/comments/1ro0a7h/scientists_propose_using_quantum_computers_could/",
+        "image": "https://external-preview.redd.it/RJRPfJX7ao80SyBk7Ch5urF0jtUlqooXtlJSXz9pcqQ.jpeg?width=640&crop=smart&auto=webp&s=d37b76fd928aece717d8bc2959e00560d91408bd",
+        "published": "2026-03-08T09:12:58+00:00"
+    },
+    {
+        "title": "AheadFrom Robotics getting less uncanny - now only mildly unsettling...",
+        "link": "https://www.reddit.com/r/singularity/comments/1rokzeg/aheadfrom_robotics_getting_less_uncanny_now_only/",
+        "image": "https://external-preview.redd.it/Mmd3NDU0d3V2d25nMSr75486VXViZBB0N8d_dObCwdCoRR0wxKGvI3ekj2rp.png?width=640&crop=smart&auto=webp&s=5aea61ba588e52c5f89e84418890c3e90d133ef4",
+        "published": "2026-03-09T00:10:18+00:00"
+    },
+    {
+        "title": "Eonsys releases video of a simulated fly, running on the connectome (scanned brain) of a real fly",
+        "link": "https://www.reddit.com/r/singularity/comments/1roins8/eonsys_releases_video_of_a_simulated_fly_running/",
+        "image": "https://external-preview.redd.it/cDRjNndvZnpkd25nMdO1KFCPk3wT2N3-lzCCZ6c8hMliV53OCMpUHE9xtkgC.png?width=640&crop=smart&auto=webp&s=cd7936d512a578a3e3c48da9acef9058ccf0b719",
+        "published": "2026-03-08T22:33:10+00:00"
     },
     {
         "title": "Omar Sobh Builds an Entire GPT in 475 Lines of Rust \u2014 4,580\u00d7 Faster Than Python",
@@ -60,10 +54,10 @@
         "published": "2026-03-08T17:40:05+00:00"
     },
     {
-        "title": "\u201cSam asked me not to call Anthropic a supply chain risk\u201d \u2014 Emil Michael(DoD Under Secretary for Research & Engineering)",
-        "link": "https://www.reddit.com/r/singularity/comments/1rnpqyo/sam_asked_me_not_to_call_anthropic_a_supply_chain/",
+        "title": "Since when did this sub become so pessimistic?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rok9hs/since_when_did_this_sub_become_so_pessimistic/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T00:09:32+00:00"
+        "published": "2026-03-08T23:39:46+00:00"
     },
     {
         "title": "Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury",
@@ -82,11 +76,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rnx7yr/the_real_problem_wont_be_unemployment_but_what_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T06:14:59+00:00"
-    },
-    {
-        "title": "Good Bye Reality Welcome I.M.AGI.Nation",
-        "link": "https://www.reddit.com/r/singularity/comments/1roi7w9/good_bye_reality_welcome_imagination/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T22:14:53+00:00"
     }
 ]
