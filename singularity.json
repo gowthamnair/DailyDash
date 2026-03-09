@@ -36,16 +36,16 @@
         "published": "2026-03-08T23:39:46+00:00"
     },
     {
-        "title": "OpenAI researchers hinting at an omnimodal model coming",
-        "link": "https://www.reddit.com/r/singularity/comments/1rodvsx/openai_researchers_hinting_at_an_omnimodal_model/",
-        "image": "https://preview.redd.it/syfbx5jahvng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e62c71f0ab3ab8e97c9a8cc6e129e7fe128278b1",
-        "published": "2026-03-08T19:26:24+00:00"
-    },
-    {
         "title": "What relative probability do you see for each of these in your lifetime?",
         "link": "https://www.reddit.com/r/singularity/comments/1rosrhs/what_relative_probability_do_you_see_for_each_of/",
         "image": "https://preview.redd.it/t295gch3syng1.jpeg?width=640&crop=smart&auto=webp&s=408ce491d776b96b59b970b7781a5b9910c4d0ac",
         "published": "2026-03-09T06:32:18+00:00"
+    },
+    {
+        "title": "OpenAI researchers hinting at an omnimodal model coming",
+        "link": "https://www.reddit.com/r/singularity/comments/1rodvsx/openai_researchers_hinting_at_an_omnimodal_model/",
+        "image": "https://preview.redd.it/syfbx5jahvng1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e62c71f0ab3ab8e97c9a8cc6e129e7fe128278b1",
+        "published": "2026-03-08T19:26:24+00:00"
     },
     {
         "title": "Omar Sobh Builds an Entire GPT in 475 Lines of Rust \u2014 4,580\u00d7 Faster Than Python",
@@ -58,6 +58,18 @@
         "link": "https://www.reddit.com/r/singularity/comments/1roulpz/the_first_multibehavior_brain_upload_a_copy_of_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-09T08:27:45+00:00"
+    },
+    {
+        "title": "(Figure A.i.) Helix 02 Living Room Tidy",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp445j/figure_ai_helix_02_living_room_tidy/",
+        "image": "https://external-preview.redd.it/cXMlGyyqDfqzXGbknQQJHWGLkhOML_IxySMafxg3NRA.jpeg?width=320&crop=smart&auto=webp&s=097947a2c6b996f92afbd9536c3a556f049e3569",
+        "published": "2026-03-09T15:59:58+00:00"
+    },
+    {
+        "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp39yx/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
+        "image": "https://preview.redd.it/ug4r7ultf1og1.png?width=640&crop=smart&auto=webp&s=767c0ed4d24bcde334f0d5cf163de35fe68b87f6",
+        "published": "2026-03-09T15:28:58+00:00"
     },
     {
         "title": "Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury",
@@ -76,17 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ror8g4/why_do_ai_companion_apps_still_cant_maintain/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-09T05:04:37+00:00"
-    },
-    {
-        "title": "How did you imagine Ai would be?",
-        "link": "https://www.reddit.com/r/singularity/comments/1roz5hu/how_did_you_imagine_ai_would_be/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-09T12:41:55+00:00"
-    },
-    {
-        "title": "Cognitive Sandbox Manifesto | Artificial Life and Transparent Neural Systems",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp28ck/cognitive_sandbox_manifesto_artificial_life_and/",
-        "image": "https://external-preview.redd.it/lOvkzeai1Fr5h6C2YbR1YU9rPw_ZWoruNEsVRgOUops.png?width=640&crop=smart&auto=webp&s=50eaa86c2c569145c30dfa26d39517d50e97ef6a",
-        "published": "2026-03-09T14:49:31+00:00"
     }
 ]
