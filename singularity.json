@@ -48,12 +48,6 @@
         "published": "2026-03-08T23:39:46+00:00"
     },
     {
-        "title": "Scientists Propose Using Quantum Computers Could Generate Data to Train AI For Chemistry",
-        "link": "https://www.reddit.com/r/singularity/comments/1ro0a7h/scientists_propose_using_quantum_computers_could/",
-        "image": "https://external-preview.redd.it/RJRPfJX7ao80SyBk7Ch5urF0jtUlqooXtlJSXz9pcqQ.jpeg?width=640&crop=smart&auto=webp&s=d37b76fd928aece717d8bc2959e00560d91408bd",
-        "published": "2026-03-08T09:12:58+00:00"
-    },
-    {
         "title": "Omar Sobh Builds an Entire GPT in 475 Lines of Rust \u2014 4,580\u00d7 Faster Than Python",
         "link": "https://www.reddit.com/r/singularity/comments/1rob1lk/omar_sobh_builds_an_entire_gpt_in_475_lines_of/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -76,5 +70,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ror8g4/why_do_ai_companion_apps_still_cant_maintain/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-09T05:04:37+00:00"
+    },
+    {
+        "title": "The First Multi-Behavior Brain Upload: a copy of a biological brain, wired neuron-to-neuron from electron microscopy data, running in simulation, making a body move!",
+        "link": "https://www.reddit.com/r/singularity/comments/1roulpz/the_first_multibehavior_brain_upload_a_copy_of_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-09T08:27:45+00:00"
+    },
+    {
+        "title": "Freedom & idleness in a post-singularity world \u2014 When jobs disappear and the world provides, what will billions of people do with the longest morning of their lives?",
+        "link": "https://www.reddit.com/r/singularity/comments/1roum50/freedom_idleness_in_a_postsingularity_world_when/",
+        "image": "https://external-preview.redd.it/VbAEnbYOM9OWP4fAtCxsL9i4VPJiAq5OKp2nHiGNrAM.jpeg?width=640&crop=smart&auto=webp&s=711c1b17ab6f5b7b4d3998553f90cc39f895bce6",
+        "published": "2026-03-09T08:28:30+00:00"
     }
 ]
