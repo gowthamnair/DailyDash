@@ -1,21 +1,27 @@
 [
     {
-        "title": "The Washington Post: Claude Used To Target 1,000 Strikes In Iran",
-        "link": "https://www.reddit.com/r/singularity/comments/1rohbvf/the_washington_post_claude_used_to_target_1000/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T21:39:59+00:00"
-    },
-    {
         "title": "AheadFrom Robotics getting less uncanny - now only mildly unsettling...",
         "link": "https://www.reddit.com/r/singularity/comments/1rokzeg/aheadfrom_robotics_getting_less_uncanny_now_only/",
         "image": "https://external-preview.redd.it/Mmd3NDU0d3V2d25nMSr75486VXViZBB0N8d_dObCwdCoRR0wxKGvI3ekj2rp.png?width=640&crop=smart&auto=webp&s=5aea61ba588e52c5f89e84418890c3e90d133ef4",
         "published": "2026-03-09T00:10:18+00:00"
     },
     {
+        "title": "The Washington Post: Claude Used To Target 1,000 Strikes In Iran",
+        "link": "https://www.reddit.com/r/singularity/comments/1rohbvf/the_washington_post_claude_used_to_target_1000/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-08T21:39:59+00:00"
+    },
+    {
         "title": "ChatGPT has maintained its position as the 5th most visited website in the world. I think it will surpass Facebook by the end of this year.",
         "link": "https://www.reddit.com/r/singularity/comments/1ro5v1e/chatgpt_has_maintained_its_position_as_the_5th/",
         "image": "https://preview.redd.it/bzv9hly5xtng1.jpeg?width=640&crop=smart&auto=webp&s=5d8131a72dceb67d685de40c18b97dcf870fcd1b",
         "published": "2026-03-08T14:11:49+00:00"
+    },
+    {
+        "title": "Andrew Karpathy\u2019s \u201cautoresearch\u201d: An autonomous loop where AI edits PyTorch, runs 5-min training experiments, and continuously lowers its own val_bpb. \"Who knew early singularity could be this fun? :)\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1roo6v0/andrew_karpathys_autoresearch_an_autonomous_loop/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-09T02:33:05+00:00"
     },
     {
         "title": "Eonsys releases video of a simulated fly, running on the connectome (scanned brain) of a real fly",
@@ -42,22 +48,16 @@
         "published": "2026-03-08T09:12:58+00:00"
     },
     {
-        "title": "Andrew Karpathy\u2019s \u201cautoresearch\u201d: An autonomous loop where AI edits PyTorch, runs 5-min training experiments, and continuously lowers its own val_bpb. \"Who knew early singularity could be this fun? :)\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1roo6v0/andrew_karpathys_autoresearch_an_autonomous_loop/",
+        "title": "Since when did this sub become so pessimistic?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rok9hs/since_when_did_this_sub_become_so_pessimistic/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-09T02:33:05+00:00"
+        "published": "2026-03-08T23:39:46+00:00"
     },
     {
         "title": "Omar Sobh Builds an Entire GPT in 475 Lines of Rust \u2014 4,580\u00d7 Faster Than Python",
         "link": "https://www.reddit.com/r/singularity/comments/1rob1lk/omar_sobh_builds_an_entire_gpt_in_475_lines_of/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-08T17:40:05+00:00"
-    },
-    {
-        "title": "Since when did this sub become so pessimistic?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rok9hs/since_when_did_this_sub_become_so_pessimistic/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-08T23:39:46+00:00"
     },
     {
         "title": "Robots that refuse to fail: AI evolves 'legged metamachines' that reassemble and withstand injury",
