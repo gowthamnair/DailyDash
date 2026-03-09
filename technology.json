@@ -6,12 +6,6 @@
         "published": "2026-03-08T19:32:19+00:00"
     },
     {
-        "title": "\u2018The American people should not be footing the bill for the benefit of private companies': Tech giants sign White House pledge to not pass on data center electricity to customers",
-        "link": "https://www.reddit.com/r/technology/comments/1ro2q6k/the_american_people_should_not_be_footing_the/",
-        "image": "https://external-preview.redd.it/rPbe5bynOKZwLc9dSPINRlyQ4od_B_ZCF9yvsZhKIP8.jpeg?width=640&crop=smart&auto=webp&s=35b1d97b9847b3039c6065d5aed56090c08563e7",
-        "published": "2026-03-08T11:37:59+00:00"
-    },
-    {
         "title": "CEO Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth \u2014 a small incentive for one of the richest people on earth",
         "link": "https://www.reddit.com/r/technology/comments/1ro9url/ceo_jensen_huang_set_to_receive_4_million_bonus/",
         "image": "https://external-preview.redd.it/nEQtFfj-sJPBguysjKYXnru5col-JZQmz1VwXmPXeUs.jpeg?width=640&crop=smart&auto=webp&s=ed07a7e22416267b0c1fbf2f935eef2fa512963d",
@@ -60,28 +54,34 @@
         "published": "2026-03-08T16:44:20+00:00"
     },
     {
-        "title": "SpaceX wants to launch a million satellites. Here's how that could impact the atmosphere and the night sky",
-        "link": "https://www.reddit.com/r/technology/comments/1ro8h6i/spacex_wants_to_launch_a_million_satellites_heres/",
-        "image": "https://external-preview.redd.it/SnW-V0F2FjYQAhzJpqXqCIBszmVuRIFAswthvtrWTh4.jpeg?width=320&crop=smart&auto=webp&s=312d33d3fa7a3c5cb0414e2abf6d0f339c7910ab",
-        "published": "2026-03-08T16:01:07+00:00"
-    },
-    {
         "title": "Chinese SSD maker YMTC lists first commercial PCIe 5.0 SSD as worldwide shortage intensifies \u2014 Xtacking 4.0 NAND powers speeds of up to 10,500 MB/s",
         "link": "https://www.reddit.com/r/technology/comments/1rotx89/chinese_ssd_maker_ymtc_lists_first_commercial/",
         "image": "https://external-preview.redd.it/C5Eflw-xma9OS11zYvw2Aj2VNiP2Fyt85VRqaPMD8Qc.jpeg?width=640&crop=smart&auto=webp&s=a87b4683603529a674dbb8ee8db67101becdced8",
         "published": "2026-03-09T07:44:24+00:00"
     },
     {
-        "title": "Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping",
-        "link": "https://www.reddit.com/r/technology/comments/1rokki7/tugboat_powered_by_ammonia_sails_for_the_first/",
-        "image": "https://external-preview.redd.it/OK4zX7mnLnlKSqo9TEwG9HMIph1hd-_hBNfTNJNNK2Q.jpeg?width=640&crop=smart&auto=webp&s=349c3e521246e90e8f896c0a5d308b624ef2c746",
-        "published": "2026-03-08T23:52:55+00:00"
+        "title": "SpaceX wants to launch a million satellites. Here's how that could impact the atmosphere and the night sky",
+        "link": "https://www.reddit.com/r/technology/comments/1ro8h6i/spacex_wants_to_launch_a_million_satellites_heres/",
+        "image": "https://external-preview.redd.it/SnW-V0F2FjYQAhzJpqXqCIBszmVuRIFAswthvtrWTh4.jpeg?width=320&crop=smart&auto=webp&s=312d33d3fa7a3c5cb0414e2abf6d0f339c7910ab",
+        "published": "2026-03-08T16:01:07+00:00"
+    },
+    {
+        "title": "Russia-backed hackers breach Signal, WhatsApp accounts of officials, journalists, Netherlands warns",
+        "link": "https://www.reddit.com/r/technology/comments/1rowuv4/russiabacked_hackers_breach_signal_whatsapp/",
+        "image": "https://external-preview.redd.it/_qQTewrMqOi8xZnxwplJZekNvjiCgxzdz5YkMkGc5Ts.jpeg?width=640&crop=smart&auto=webp&s=19f43e17355908322c32ac3e213540c08eae6753",
+        "published": "2026-03-09T10:45:24+00:00"
     },
     {
         "title": "Wireless eye implant helps blind patients read again",
         "link": "https://www.reddit.com/r/technology/comments/1roquqh/wireless_eye_implant_helps_blind_patients_read/",
         "image": "https://external-preview.redd.it/h8rEFhBZ0dqnbZpKyyL3h40cPF-3OgU2nZ8dWyAjv7Y.jpeg?width=640&crop=smart&auto=webp&s=2ef8ae56de9c5b0c31fc208c84059966f95b19bd",
         "published": "2026-03-09T04:43:56+00:00"
+    },
+    {
+        "title": "Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping",
+        "link": "https://www.reddit.com/r/technology/comments/1rokki7/tugboat_powered_by_ammonia_sails_for_the_first/",
+        "image": "https://external-preview.redd.it/OK4zX7mnLnlKSqo9TEwG9HMIph1hd-_hBNfTNJNNK2Q.jpeg?width=640&crop=smart&auto=webp&s=349c3e521246e90e8f896c0a5d308b624ef2c746",
+        "published": "2026-03-08T23:52:55+00:00"
     },
     {
         "title": "Researchers discover massive Wi-Fi vulnerability affecting multiple access points \u2014 AirSnitch lets attackers on the same network intercept data and launch machine-in-the-middle attacks",
