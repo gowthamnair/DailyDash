@@ -1,11 +1,5 @@
 [
     {
-        "title": "800,000 human brain cells, in a dish, learned to play a video game",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp79id/800000_human_brain_cells_in_a_dish_learned_to/",
-        "image": "https://external-preview.redd.it/_KaKoTLPBELTOfeQE3Oq8u7QiRus1WdG1yCewMjMQvY.png?width=640&crop=smart&auto=webp&s=eee2cf10475f74de0a7baa2b02da0389ac79cd1c",
-        "published": "2026-03-09T17:50:35+00:00"
-    },
-    {
         "title": "This little shit",
         "link": "https://www.reddit.com/r/singularity/comments/1rpn6xu/this_little_shit/",
         "image": "https://preview.redd.it/jd2qagvo95og1.jpeg?width=640&crop=smart&auto=webp&s=610f7dc6c8cb3f7c6505ff918efe49ad62f82c6e",
@@ -36,16 +30,16 @@
         "published": "2026-03-10T01:02:49+00:00"
     },
     {
-        "title": "The real skill gap isn't coding anymore, its knowing when the AI is wrong",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpwzlt/the_real_skill_gap_isnt_coding_anymore_its/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T13:30:51+00:00"
-    },
-    {
         "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
         "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
         "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
         "published": "2026-03-10T16:16:56+00:00"
+    },
+    {
+        "title": "The real skill gap isn't coding anymore, its knowing when the AI is wrong",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpwzlt/the_real_skill_gap_isnt_coding_anymore_its/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T13:30:51+00:00"
     },
     {
         "title": "Neura Robotics and TUM launches the RoboGym at Munich airport with 2300m\u00b2 - Europe\u2019s largest scientific training center for Physical AI, feeding data to Neuraverse, the company\u2019s cloud-based shared intelligence network",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rpn7z7/llm_sycophancy_benchmark_oppositenarrator/",
         "image": "https://preview.redd.it/6sedftag95og1.png?width=140&height=95&auto=webp&s=14f56acb6dbc114f684570024061e0203e5da058",
         "published": "2026-03-10T04:23:11+00:00"
+    },
+    {
+        "title": "Meta acquires AI agent social network Moltbook",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
+        "image": "https://external-preview.redd.it/Pec5gxG2MR51B8vLTUOzm616W4mFbuu7P6VMqQAnFbI.jpeg?width=640&crop=smart&auto=webp&s=d31dba6d17a3418802d815facbf92811bc6365eb",
+        "published": "2026-03-10T17:15:52+00:00"
     },
     {
         "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
