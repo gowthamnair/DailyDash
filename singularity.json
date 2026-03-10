@@ -36,16 +36,22 @@
         "published": "2026-03-09T15:59:58+00:00"
     },
     {
+        "title": "Figure AI humanoid robot task close up",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
+        "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
+        "published": "2026-03-10T01:02:49+00:00"
+    },
+    {
         "title": "The First Multi-Behavior Brain Upload: a copy of a biological brain, wired neuron-to-neuron from electron microscopy data, running in simulation, making a body move!",
         "link": "https://www.reddit.com/r/singularity/comments/1roulpz/the_first_multibehavior_brain_upload_a_copy_of_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-09T08:27:45+00:00"
     },
     {
-        "title": "Figure AI humanoid robot task close up",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
-        "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
-        "published": "2026-03-10T01:02:49+00:00"
+        "title": "An example of why we need to take things with a grain of salt...",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpm6sm/an_example_of_why_we_need_to_take_things_with_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T03:33:01+00:00"
     },
     {
         "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
@@ -60,22 +66,10 @@
         "published": "2026-03-09T15:28:58+00:00"
     },
     {
-        "title": "An example of why we need to take things with a grain of salt...",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpm6sm/an_example_of_why_we_need_to_take_things_with_a/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T03:33:01+00:00"
-    },
-    {
         "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
         "link": "https://www.reddit.com/r/singularity/comments/1rpkvry/has_anyone_else_thought_about_the_broader/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-10T02:33:47+00:00"
-    },
-    {
-        "title": "Phoenix-4: Real-Time Human Rendering with Emotional Intelligence",
-        "link": "https://www.reddit.com/r/singularity/comments/1roy42m/phoenix4_realtime_human_rendering_with_emotional/",
-        "image": "https://external-preview.redd.it/qbJtMx7WW5-Hsp0kF6gV4N2qMvujr_WVPS_BGtm02lo.png?width=640&crop=smart&auto=webp&s=87f766f14dd288cedc14f642daee37d5e0e4b266",
-        "published": "2026-03-09T11:51:14+00:00"
     },
     {
         "title": "GPT-5.4 is the new SOTA on ZeroBench",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rpn7z7/llm_sycophancy_benchmark_oppositenarrator/",
         "image": "https://preview.redd.it/6sedftag95og1.png?width=140&height=95&auto=webp&s=14f56acb6dbc114f684570024061e0203e5da058",
         "published": "2026-03-10T04:23:11+00:00"
+    },
+    {
+        "title": "Phoenix-4: Real-Time Human Rendering with Emotional Intelligence",
+        "link": "https://www.reddit.com/r/singularity/comments/1roy42m/phoenix4_realtime_human_rendering_with_emotional/",
+        "image": "https://external-preview.redd.it/qbJtMx7WW5-Hsp0kF6gV4N2qMvujr_WVPS_BGtm02lo.png?width=640&crop=smart&auto=webp&s=87f766f14dd288cedc14f642daee37d5e0e4b266",
+        "published": "2026-03-09T11:51:14+00:00"
     }
 ]
