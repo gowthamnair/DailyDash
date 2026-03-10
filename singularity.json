@@ -18,6 +18,12 @@
         "published": "2026-03-10T08:31:02+00:00"
     },
     {
+        "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
+        "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
+        "published": "2026-03-10T16:16:56+00:00"
+    },
+    {
         "title": "An example of why we need to take things with a grain of salt...",
         "link": "https://www.reddit.com/r/singularity/comments/1rpm6sm/an_example_of_why_we_need_to_take_things_with_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -30,16 +36,16 @@
         "published": "2026-03-10T01:02:49+00:00"
     },
     {
-        "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
-        "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
-        "published": "2026-03-10T16:16:56+00:00"
-    },
-    {
         "title": "The real skill gap isn't coding anymore, its knowing when the AI is wrong",
         "link": "https://www.reddit.com/r/singularity/comments/1rpwzlt/the_real_skill_gap_isnt_coding_anymore_its/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-10T13:30:51+00:00"
+    },
+    {
+        "title": "Meta acquires AI agent social network Moltbook",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
+        "image": "https://external-preview.redd.it/Pec5gxG2MR51B8vLTUOzm616W4mFbuu7P6VMqQAnFbI.jpeg?width=640&crop=smart&auto=webp&s=d31dba6d17a3418802d815facbf92811bc6365eb",
+        "published": "2026-03-10T17:15:52+00:00"
     },
     {
         "title": "Neura Robotics and TUM launches the RoboGym at Munich airport with 2300m\u00b2 - Europe\u2019s largest scientific training center for Physical AI, feeding data to Neuraverse, the company\u2019s cloud-based shared intelligence network",
@@ -60,16 +66,10 @@
         "published": "2026-03-10T14:44:29+00:00"
     },
     {
-        "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
-        "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
-        "published": "2026-03-09T18:57:57+00:00"
-    },
-    {
-        "title": "GPT-5.4 is the new SOTA on ZeroBench",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpkczx/gpt54_is_the_new_sota_on_zerobench/",
-        "image": "https://preview.redd.it/mathoi9cm4og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5927c5eaf827d2c8a3ed2daa6ee5ba29ad053719",
-        "published": "2026-03-10T02:10:45+00:00"
+        "title": "Andrej Karpathy's Newest Development - Autonomously Improving Agentic Swarm Is Now Operational",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
+        "image": "https://preview.redd.it/lygktrk2m9og1.png?width=320&crop=smart&auto=webp&s=76987b1412c7f3668356c2c0fbb4233374c9b9a0",
+        "published": "2026-03-10T18:58:18+00:00"
     },
     {
         "title": "LLM Sycophancy Benchmark: Opposite-Narrator Contradictions. Same dispute, opposite first-person perspectives. Does the model keep the same judgment or start agreeing with whoever is speaking?",
@@ -78,10 +78,10 @@
         "published": "2026-03-10T04:23:11+00:00"
     },
     {
-        "title": "Meta acquires AI agent social network Moltbook",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
-        "image": "https://external-preview.redd.it/Pec5gxG2MR51B8vLTUOzm616W4mFbuu7P6VMqQAnFbI.jpeg?width=640&crop=smart&auto=webp&s=d31dba6d17a3418802d815facbf92811bc6365eb",
-        "published": "2026-03-10T17:15:52+00:00"
+        "title": "GPT-5.4 is the new SOTA on ZeroBench",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpkczx/gpt54_is_the_new_sota_on_zerobench/",
+        "image": "https://preview.redd.it/mathoi9cm4og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5927c5eaf827d2c8a3ed2daa6ee5ba29ad053719",
+        "published": "2026-03-10T02:10:45+00:00"
     },
     {
         "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",

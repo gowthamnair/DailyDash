@@ -1,11 +1,5 @@
 [
     {
-        "title": "People really hate artificial intelligence, according to the latest NBC poll: 46% of respondents said they hold negative feelings towards the concept of AI, and only 26% reported positive connotations, while 27% were neutral.",
-        "link": "https://www.reddit.com/r/technology/comments/1rp8zxg/people_really_hate_artificial_intelligence/",
-        "image": "https://external-preview.redd.it/ddqKPlSEquEqq3s0AjKGa06W0aV_29PAkG6MpXxTQEQ.jpeg?width=640&crop=smart&auto=webp&s=553c874e0519795ec7563f2a129cd7a7d5195830",
-        "published": "2026-03-09T18:51:05+00:00"
-    },
-    {
         "title": "YouTube ads are about to get even longer and they\u2019ll be unskippable",
         "link": "https://www.reddit.com/r/technology/comments/1rpzhrm/youtube_ads_are_about_to_get_even_longer_and/",
         "image": "https://external-preview.redd.it/bu_tN7aUT5Cj2sP03ci8r4yPCVb0TWzc1UW9GPRIp60.jpeg?width=640&crop=smart&auto=webp&s=55e6eeac095268ef129af58b29b3773a9a970499",
@@ -22,6 +16,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1rpsub9/metas_latest_legal_wheeze_is_to_insist_that/",
         "image": "https://external-preview.redd.it/D83YGc87LaZeorRqHkSKHoSygXqL5CVLfFjcp-UamJA.jpeg?width=640&crop=smart&auto=webp&s=2b6d3d8341029f6bb0dca624c101550d0d0fecdd",
         "published": "2026-03-10T10:02:39+00:00"
+    },
+    {
+        "title": "Oracle under pressure from more than $100 billion in debt and massive layoffs",
+        "link": "https://www.reddit.com/r/technology/comments/1rq2bqr/oracle_under_pressure_from_more_than_100_billion/",
+        "image": "https://external-preview.redd.it/5mG-hx439PSHaWngvjf57pCFvx19CH3sX8Ff8-WeWt8.jpeg?width=640&crop=smart&auto=webp&s=f46d4c93e2898ed2ca0c3a889671172d3c6cffd6",
+        "published": "2026-03-10T16:54:10+00:00"
     },
     {
         "title": "Mom of Tumbler Ridge survivor Maya Gebala suing OpenAI over mass shooting",
@@ -48,10 +48,10 @@
         "published": "2026-03-09T21:50:44+00:00"
     },
     {
-        "title": "Oracle under pressure from more than $100 billion in debt and massive layoffs",
-        "link": "https://www.reddit.com/r/technology/comments/1rq2bqr/oracle_under_pressure_from_more_than_100_billion/",
-        "image": "https://external-preview.redd.it/5mG-hx439PSHaWngvjf57pCFvx19CH3sX8Ff8-WeWt8.jpeg?width=640&crop=smart&auto=webp&s=f46d4c93e2898ed2ca0c3a889671172d3c6cffd6",
-        "published": "2026-03-10T16:54:10+00:00"
+        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
+        "link": "https://www.reddit.com/r/technology/comments/1rq03g4/i_wish_i_could_push_chatgpt_off_a_cliff/",
+        "image": "https://external-preview.redd.it/-EOPtrmbELeZKn4vM4mh7HlK-f7xgu9uycXS6R3-tpk.jpeg?width=640&crop=smart&auto=webp&s=22d2279ac814a143e27db3952b9caf9895faf1e3",
+        "published": "2026-03-10T15:31:36+00:00"
     },
     {
         "title": "Windows 11 taskbar's new Internet Speed Test tool is a shortcut to Bing.com, not a native feature",
@@ -72,16 +72,16 @@
         "published": "2026-03-09T22:28:13+00:00"
     },
     {
-        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-        "link": "https://www.reddit.com/r/technology/comments/1rq03g4/i_wish_i_could_push_chatgpt_off_a_cliff/",
-        "image": "https://external-preview.redd.it/-EOPtrmbELeZKn4vM4mh7HlK-f7xgu9uycXS6R3-tpk.jpeg?width=640&crop=smart&auto=webp&s=22d2279ac814a143e27db3952b9caf9895faf1e3",
-        "published": "2026-03-10T15:31:36+00:00"
-    },
-    {
         "title": "Employees across OpenAI and Google support Anthropic\u2019s lawsuit against the Pentagon",
         "link": "https://www.reddit.com/r/technology/comments/1rpc864/employees_across_openai_and_google_support/",
         "image": "https://external-preview.redd.it/fOkH0G7so4CnXHLXdmjofWdLlzd8qW2Bdk61O37eQVg.jpeg?width=640&crop=smart&auto=webp&s=b21a68e805d83a45c6200140680cb013c4a775c4",
         "published": "2026-03-09T20:46:39+00:00"
+    },
+    {
+        "title": "One in four CEOs say AI is a bubble but will continue investing",
+        "link": "https://www.reddit.com/r/technology/comments/1rpwjdl/one_in_four_ceos_say_ai_is_a_bubble_but_will/",
+        "image": "https://external-preview.redd.it/iGlw9m-gAl0ETWhaJi--87qLifGnpvOO2TUyACVIC0c.jpeg?width=640&crop=smart&auto=webp&s=7ec056d7e18d5c0f54fedbde1b1f7dc252cca155",
+        "published": "2026-03-10T13:11:55+00:00"
     },
     {
         "title": "Stem Cell Treatments For Parkinson's And Heart Failure Approved in World First",
