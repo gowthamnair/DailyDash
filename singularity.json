@@ -12,18 +12,6 @@
         "published": "2026-03-10T04:21:38+00:00"
     },
     {
-        "title": "Figure robot autonomously cleaning living room",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp4n2e/figure_robot_autonomously_cleaning_living_room/",
-        "image": "https://external-preview.redd.it/Njdzdm9pbnBvMW9nMVjLy4mrkvcfKOPbqq7E41DQJZVGnMPVQZM8g1_M1NOe.png?width=640&crop=smart&auto=webp&s=ff5de1228875be5ae27edc3d444fa6c60729bf93",
-        "published": "2026-03-09T16:18:56+00:00"
-    },
-    {
-        "title": "Anthropic Sues Pentagon Over \u2018Supply Chain Risk\u2019 Label",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp4vjj/anthropic_sues_pentagon_over_supply_chain_risk/",
-        "image": "https://external-preview.redd.it/Dl3b8QIcoMwnh0uW1fJREcNN96Jk4evgcsQzdmENndw.jpeg?width=640&crop=smart&auto=webp&s=14cd37fbda4cea7f4592ab5b4cdd8cd9daf5ffd2",
-        "published": "2026-03-09T16:27:17+00:00"
-    },
-    {
         "title": "Who's gonna be taught to play doom next, the uploaded fruit fly brain?",
         "link": "https://www.reddit.com/r/singularity/comments/1rpkt7j/whos_gonna_be_taught_to_play_doom_next_the/",
         "image": "https://preview.redd.it/xyamlr4tp4og1.png?width=320&crop=smart&auto=webp&s=f60cb8439a15955a8f1b7597b18a9e4dbe7c75ce",
@@ -46,12 +34,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
         "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
         "published": "2026-03-10T01:02:49+00:00"
-    },
-    {
-        "title": "(Figure A.i.) Helix 02 Living Room Tidy",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp445j/figure_ai_helix_02_living_room_tidy/",
-        "image": "https://external-preview.redd.it/cXMlGyyqDfqzXGbknQQJHWGLkhOML_IxySMafxg3NRA.jpeg?width=320&crop=smart&auto=webp&s=097947a2c6b996f92afbd9536c3a556f049e3569",
-        "published": "2026-03-09T15:59:58+00:00"
     },
     {
         "title": "The real skill gap isn't coding anymore, its knowing when the AI is wrong",
@@ -78,15 +60,33 @@
         "published": "2026-03-10T02:10:45+00:00"
     },
     {
-        "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpkvry/has_anyone_else_thought_about_the_broader/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T02:33:47+00:00"
+        "title": "Neura Robotics and TUM launches the RoboGym at Munich airport with 2300m\u00b2 - Europe\u2019s largest scientific training center for Physical AI, feeding data to Neuraverse, the company\u2019s cloud-based shared intelligence network",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpxwsa/neura_robotics_and_tum_launches_the_robogym_at/",
+        "image": "https://external-preview.redd.it/aWwybjk3NGI2OG9nMb05i5Rur6ulydVyBhBLgJlEQz9OMcGpKQyXg-C8q3LA.png?width=640&crop=smart&auto=webp&s=16f8a85a66190340634ddf51d5732c824b13ad48",
+        "published": "2026-03-10T14:08:12+00:00"
     },
     {
         "title": "LLM Sycophancy Benchmark: Opposite-Narrator Contradictions. Same dispute, opposite first-person perspectives. Does the model keep the same judgment or start agreeing with whoever is speaking?",
         "link": "https://www.reddit.com/r/singularity/comments/1rpn7z7/llm_sycophancy_benchmark_oppositenarrator/",
         "image": "https://preview.redd.it/6sedftag95og1.png?width=140&height=95&auto=webp&s=14f56acb6dbc114f684570024061e0203e5da058",
         "published": "2026-03-10T04:23:11+00:00"
+    },
+    {
+        "title": "AI capabilities are doubling in months, not years",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpyuaq/ai_capabilities_are_doubling_in_months_not_years/",
+        "image": "https://external-preview.redd.it/Zk_DRpSYcVgadNV-DprCXbQji-w33uEZUY0hGVF8vmk.png?width=320&crop=smart&auto=webp&s=b700a0b686793c744c31fb7bd5393f2be3fa520d",
+        "published": "2026-03-10T14:44:29+00:00"
+    },
+    {
+        "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpkvry/has_anyone_else_thought_about_the_broader/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T02:33:47+00:00"
+    },
+    {
+        "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
+        "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
+        "published": "2026-03-10T16:16:56+00:00"
     }
 ]
