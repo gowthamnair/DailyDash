@@ -54,18 +54,6 @@
         "published": "2026-03-09T15:59:58+00:00"
     },
     {
-        "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp39yx/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
-        "image": "https://preview.redd.it/ug4r7ultf1og1.png?width=640&crop=smart&auto=webp&s=767c0ed4d24bcde334f0d5cf163de35fe68b87f6",
-        "published": "2026-03-09T15:28:58+00:00"
-    },
-    {
-        "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
-        "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
-        "published": "2026-03-09T18:57:57+00:00"
-    },
-    {
         "title": "The real skill gap isn't coding anymore, its knowing when the AI is wrong",
         "link": "https://www.reddit.com/r/singularity/comments/1rpwzlt/the_real_skill_gap_isnt_coding_anymore_its/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -78,15 +66,27 @@
         "published": "2026-03-10T08:31:38+00:00"
     },
     {
-        "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpkvry/has_anyone_else_thought_about_the_broader/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T02:33:47+00:00"
+        "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
+        "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
+        "published": "2026-03-09T18:57:57+00:00"
     },
     {
         "title": "GPT-5.4 is the new SOTA on ZeroBench",
         "link": "https://www.reddit.com/r/singularity/comments/1rpkczx/gpt54_is_the_new_sota_on_zerobench/",
         "image": "https://preview.redd.it/mathoi9cm4og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5927c5eaf827d2c8a3ed2daa6ee5ba29ad053719",
         "published": "2026-03-10T02:10:45+00:00"
+    },
+    {
+        "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpkvry/has_anyone_else_thought_about_the_broader/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T02:33:47+00:00"
+    },
+    {
+        "title": "LLM Sycophancy Benchmark: Opposite-Narrator Contradictions. Same dispute, opposite first-person perspectives. Does the model keep the same judgment or start agreeing with whoever is speaking?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpn7z7/llm_sycophancy_benchmark_oppositenarrator/",
+        "image": "https://preview.redd.it/6sedftag95og1.png?width=140&height=95&auto=webp&s=14f56acb6dbc114f684570024061e0203e5da058",
+        "published": "2026-03-10T04:23:11+00:00"
     }
 ]

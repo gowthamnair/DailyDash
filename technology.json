@@ -12,12 +12,6 @@
         "published": "2026-03-09T18:51:05+00:00"
     },
     {
-        "title": "\u201cIt doesn\u2019t feel safe\u201d\u2014Many international game developers plan to skip GDC in US | Stories of border issues lead to pervasive travel fears across the worldwide industry",
-        "link": "https://www.reddit.com/r/technology/comments/1rp32ai/it_doesnt_feel_safemany_international_game/",
-        "image": "https://external-preview.redd.it/1dCU27bdkjMhXz_dGchll2HIXMdwywk3bMQWsYplcr8.jpeg?width=640&crop=smart&auto=webp&s=a98d26bd7f408dbe4b7b514192c4b32c0a98f31b",
-        "published": "2026-03-09T15:20:54+00:00"
-    },
-    {
         "title": "Congressional Republicans Push Bills That Would Block Kids Access To Content For Ideological Reasons",
         "link": "https://www.reddit.com/r/technology/comments/1rpmmu3/congressional_republicans_push_bills_that_would/",
         "image": "https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&crop=smart&auto=webp&s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61",
@@ -28,12 +22,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1rp65wf/declines_in_instagram_linkedin_and_threads/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-09T17:12:31+00:00"
-    },
-    {
-        "title": "\u201cIt doesn't feel safe\u201d\u2014Many international game developers plan to skip GDC in US",
-        "link": "https://www.reddit.com/r/technology/comments/1rp7d3z/it_doesnt_feel_safemany_international_game/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-09T17:54:07+00:00"
     },
     {
         "title": "Meta's latest legal wheeze is to insist that pirating books is fair use, actually",
@@ -54,6 +42,12 @@
         "published": "2026-03-10T04:33:13+00:00"
     },
     {
+        "title": "\u201cIt doesn't feel safe\u201d\u2014Many international game developers plan to skip GDC in US",
+        "link": "https://www.reddit.com/r/technology/comments/1rp7d3z/it_doesnt_feel_safemany_international_game/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-09T17:54:07+00:00"
+    },
+    {
         "title": "Oracle is building yesterday\u2019s data centers with tomorrow\u2019s debt",
         "link": "https://www.reddit.com/r/technology/comments/1rpdyxw/oracle_is_building_yesterdays_data_centers_with/",
         "image": "https://external-preview.redd.it/-ewb6EUVuwM8AEP_FwbTXN-17i4_uT00Ch2jqj7Codo.jpeg?width=640&crop=smart&auto=webp&s=b8eced76637b59a0a2d3d0bcbb057eb83f0270bf",
@@ -66,16 +60,16 @@
         "published": "2026-03-10T04:22:42+00:00"
     },
     {
-        "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
-        "link": "https://www.reddit.com/r/technology/comments/1rpg9dr/anthropic_claims_pentagon_feud_could_cost_it/",
-        "image": "https://external-preview.redd.it/6OmFyj_o9w2PvmYkYk30ST-GXLFlLmpBxw6Onx9txQk.jpeg?width=640&crop=smart&auto=webp&s=812e1eaf42e20c6b8ab21b1f2ea5012236fd04b2",
-        "published": "2026-03-09T23:18:18+00:00"
-    },
-    {
         "title": "Valve says Steam users downloaded 100 exabytes of games in 2025, and are averaging 274 petabytes of installs and updates every day",
         "link": "https://www.reddit.com/r/technology/comments/1rptnv4/valve_says_steam_users_downloaded_100_exabytes_of/",
         "image": "https://external-preview.redd.it/EXx8I8auuFsoNawKaVXPRsBG_qbEs61NVd5dNWIYOVg.png?width=640&crop=smart&auto=webp&s=b740c68b13405473e184b40cd1346d9657834dcc",
         "published": "2026-03-10T10:49:58+00:00"
+    },
+    {
+        "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+        "link": "https://www.reddit.com/r/technology/comments/1rpg9dr/anthropic_claims_pentagon_feud_could_cost_it/",
+        "image": "https://external-preview.redd.it/6OmFyj_o9w2PvmYkYk30ST-GXLFlLmpBxw6Onx9txQk.jpeg?width=640&crop=smart&auto=webp&s=812e1eaf42e20c6b8ab21b1f2ea5012236fd04b2",
+        "published": "2026-03-09T23:18:18+00:00"
     },
     {
         "title": "Age verification for R-rated games and websites raises privacy concerns",
@@ -84,9 +78,15 @@
         "published": "2026-03-09T22:28:13+00:00"
     },
     {
-        "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
-        "link": "https://www.reddit.com/r/technology/comments/1rp33a7/anthropic_sues_to_block_pentagon_blacklisting/",
-        "image": "https://external-preview.redd.it/ZDPPRBMWBf2f0zmQYivyMI9Vb87tdrc1bC3nF5fFsbA.jpeg?width=640&crop=smart&auto=webp&s=ac7428f60c81c0ad5b1186d568bf4b9368994bd0",
-        "published": "2026-03-09T15:21:56+00:00"
+        "title": "Employees across OpenAI and Google support Anthropic\u2019s lawsuit against the Pentagon",
+        "link": "https://www.reddit.com/r/technology/comments/1rpc864/employees_across_openai_and_google_support/",
+        "image": "https://external-preview.redd.it/fOkH0G7so4CnXHLXdmjofWdLlzd8qW2Bdk61O37eQVg.jpeg?width=640&crop=smart&auto=webp&s=b21a68e805d83a45c6200140680cb013c4a775c4",
+        "published": "2026-03-09T20:46:39+00:00"
+    },
+    {
+        "title": "YouTube ads are about to get even longer and they\u2019ll be unskippable",
+        "link": "https://www.reddit.com/r/technology/comments/1rpzhrm/youtube_ads_are_about_to_get_even_longer_and/",
+        "image": "https://external-preview.redd.it/bu_tN7aUT5Cj2sP03ci8r4yPCVb0TWzc1UW9GPRIp60.jpeg?width=640&crop=smart&auto=webp&s=55e6eeac095268ef129af58b29b3773a9a970499",
+        "published": "2026-03-10T15:08:48+00:00"
     }
 ]
