@@ -36,22 +36,16 @@
         "published": "2026-03-09T08:27:45+00:00"
     },
     {
+        "title": "This little shit",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpn6xu/this_little_shit/",
+        "image": "https://preview.redd.it/jd2qagvo95og1.jpeg?width=640&crop=smart&auto=webp&s=610f7dc6c8cb3f7c6505ff918efe49ad62f82c6e",
+        "published": "2026-03-10T04:21:38+00:00"
+    },
+    {
         "title": "Figure AI humanoid robot task close up",
         "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
         "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
         "published": "2026-03-10T01:02:49+00:00"
-    },
-    {
-        "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp39yx/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
-        "image": "https://preview.redd.it/ug4r7ultf1og1.png?width=640&crop=smart&auto=webp&s=767c0ed4d24bcde334f0d5cf163de35fe68b87f6",
-        "published": "2026-03-09T15:28:58+00:00"
-    },
-    {
-        "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
-        "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
-        "published": "2026-03-09T18:57:57+00:00"
     },
     {
         "title": "Who's gonna be taught to play doom next, the uploaded fruit fly brain?",
@@ -60,10 +54,22 @@
         "published": "2026-03-10T02:30:47+00:00"
     },
     {
-        "title": "Phoenix-4: Real-Time Human Rendering with Emotional Intelligence",
-        "link": "https://www.reddit.com/r/singularity/comments/1roy42m/phoenix4_realtime_human_rendering_with_emotional/",
-        "image": "https://external-preview.redd.it/qbJtMx7WW5-Hsp0kF6gV4N2qMvujr_WVPS_BGtm02lo.png?width=640&crop=smart&auto=webp&s=87f766f14dd288cedc14f642daee37d5e0e4b266",
-        "published": "2026-03-09T11:51:14+00:00"
+        "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
+        "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
+        "published": "2026-03-09T18:57:57+00:00"
+    },
+    {
+        "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp39yx/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
+        "image": "https://preview.redd.it/ug4r7ultf1og1.png?width=640&crop=smart&auto=webp&s=767c0ed4d24bcde334f0d5cf163de35fe68b87f6",
+        "published": "2026-03-09T15:28:58+00:00"
+    },
+    {
+        "title": "An example of why we need to take things with a grain of salt...",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpm6sm/an_example_of_why_we_need_to_take_things_with_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T03:33:01+00:00"
     },
     {
         "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
@@ -72,16 +78,10 @@
         "published": "2026-03-10T02:33:47+00:00"
     },
     {
-        "title": "How did you imagine Ai would be?",
-        "link": "https://www.reddit.com/r/singularity/comments/1roz5hu/how_did_you_imagine_ai_would_be/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-09T12:41:55+00:00"
-    },
-    {
-        "title": "Why do AI companion apps still can't maintain persistent memory? (technical discussion)",
-        "link": "https://www.reddit.com/r/singularity/comments/1ror8g4/why_do_ai_companion_apps_still_cant_maintain/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-09T05:04:37+00:00"
+        "title": "Phoenix-4: Real-Time Human Rendering with Emotional Intelligence",
+        "link": "https://www.reddit.com/r/singularity/comments/1roy42m/phoenix4_realtime_human_rendering_with_emotional/",
+        "image": "https://external-preview.redd.it/qbJtMx7WW5-Hsp0kF6gV4N2qMvujr_WVPS_BGtm02lo.png?width=640&crop=smart&auto=webp&s=87f766f14dd288cedc14f642daee37d5e0e4b266",
+        "published": "2026-03-09T11:51:14+00:00"
     },
     {
         "title": "Virtual cell",
