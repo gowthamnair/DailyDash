@@ -6,16 +6,16 @@
         "published": "2026-03-09T17:50:35+00:00"
     },
     {
-        "title": "Figure robot autonomously cleaning living room",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp4n2e/figure_robot_autonomously_cleaning_living_room/",
-        "image": "https://external-preview.redd.it/Njdzdm9pbnBvMW9nMVjLy4mrkvcfKOPbqq7E41DQJZVGnMPVQZM8g1_M1NOe.png?width=640&crop=smart&auto=webp&s=ff5de1228875be5ae27edc3d444fa6c60729bf93",
-        "published": "2026-03-09T16:18:56+00:00"
-    },
-    {
         "title": "This little shit",
         "link": "https://www.reddit.com/r/singularity/comments/1rpn6xu/this_little_shit/",
         "image": "https://preview.redd.it/jd2qagvo95og1.jpeg?width=640&crop=smart&auto=webp&s=610f7dc6c8cb3f7c6505ff918efe49ad62f82c6e",
         "published": "2026-03-10T04:21:38+00:00"
+    },
+    {
+        "title": "Figure robot autonomously cleaning living room",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp4n2e/figure_robot_autonomously_cleaning_living_room/",
+        "image": "https://external-preview.redd.it/Njdzdm9pbnBvMW9nMVjLy4mrkvcfKOPbqq7E41DQJZVGnMPVQZM8g1_M1NOe.png?width=640&crop=smart&auto=webp&s=ff5de1228875be5ae27edc3d444fa6c60729bf93",
+        "published": "2026-03-09T16:18:56+00:00"
     },
     {
         "title": "Anthropic Sues Pentagon Over \u2018Supply Chain Risk\u2019 Label",
@@ -30,16 +30,16 @@
         "published": "2026-03-10T02:30:47+00:00"
     },
     {
-        "title": "(Figure A.i.) Helix 02 Living Room Tidy",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp445j/figure_ai_helix_02_living_room_tidy/",
-        "image": "https://external-preview.redd.it/cXMlGyyqDfqzXGbknQQJHWGLkhOML_IxySMafxg3NRA.jpeg?width=320&crop=smart&auto=webp&s=097947a2c6b996f92afbd9536c3a556f049e3569",
-        "published": "2026-03-09T15:59:58+00:00"
-    },
-    {
         "title": "Figure AI humanoid robot task close up",
         "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
         "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
         "published": "2026-03-10T01:02:49+00:00"
+    },
+    {
+        "title": "(Figure A.i.) Helix 02 Living Room Tidy",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp445j/figure_ai_helix_02_living_room_tidy/",
+        "image": "https://external-preview.redd.it/cXMlGyyqDfqzXGbknQQJHWGLkhOML_IxySMafxg3NRA.jpeg?width=320&crop=smart&auto=webp&s=097947a2c6b996f92afbd9536c3a556f049e3569",
+        "published": "2026-03-09T15:59:58+00:00"
     },
     {
         "title": "An example of why we need to take things with a grain of salt...",
@@ -60,6 +60,12 @@
         "published": "2026-03-09T15:28:58+00:00"
     },
     {
+        "title": "Yann LeCun unveils his new startup Advanced Machine Intelligence (AMI Labs) -- and raises $1.03B",
+        "link": "https://www.reddit.com/r/singularity/comments/1rprdy7/yann_lecun_unveils_his_new_startup_advanced/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T08:31:02+00:00"
+    },
+    {
         "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
         "link": "https://www.reddit.com/r/singularity/comments/1rpkvry/has_anyone_else_thought_about_the_broader/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -70,12 +76,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rpkczx/gpt54_is_the_new_sota_on_zerobench/",
         "image": "https://preview.redd.it/mathoi9cm4og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5927c5eaf827d2c8a3ed2daa6ee5ba29ad053719",
         "published": "2026-03-10T02:10:45+00:00"
-    },
-    {
-        "title": "AI Bear Fran\u00e7ois Chollet thinks 1-2 years before hard takeoff",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpon9m/ai_bear_fran\u00e7ois_chollet_thinks_12_years_before/",
-        "image": "https://preview.redd.it/9m76ynm1o5og1.jpeg?width=640&crop=smart&auto=webp&s=bb0e2421a675db434ad4510b86bb5a4489a0b987",
-        "published": "2026-03-10T05:42:04+00:00"
     },
     {
         "title": "LLM Sycophancy Benchmark: Opposite-Narrator Contradictions. Same dispute, opposite first-person perspectives. Does the model keep the same judgment or start agreeing with whoever is speaking?",
