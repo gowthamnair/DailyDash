@@ -30,6 +30,12 @@
         "published": "2026-03-10T02:30:47+00:00"
     },
     {
+        "title": "Yann LeCun unveils his new startup Advanced Machine Intelligence (AMI Labs) -- and raises $1.03B",
+        "link": "https://www.reddit.com/r/singularity/comments/1rprdy7/yann_lecun_unveils_his_new_startup_advanced/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T08:31:02+00:00"
+    },
+    {
         "title": "Figure AI humanoid robot task close up",
         "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
         "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
@@ -48,22 +54,16 @@
         "published": "2026-03-10T03:33:01+00:00"
     },
     {
-        "title": "Yann LeCun unveils his new startup Advanced Machine Intelligence (AMI Labs) -- and raises $1.03B",
-        "link": "https://www.reddit.com/r/singularity/comments/1rprdy7/yann_lecun_unveils_his_new_startup_advanced/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T08:31:02+00:00"
+        "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1rp39yx/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
+        "image": "https://preview.redd.it/ug4r7ultf1og1.png?width=640&crop=smart&auto=webp&s=767c0ed4d24bcde334f0d5cf163de35fe68b87f6",
+        "published": "2026-03-09T15:28:58+00:00"
     },
     {
         "title": "Terence Tao: Formalizing a proof in Lean using Claude Code",
         "link": "https://www.reddit.com/r/singularity/comments/1rp96na/terence_tao_formalizing_a_proof_in_lean_using/",
         "image": "https://external-preview.redd.it/RymiYI8YR6NRlWZ2MKhAuVUNfWu_8ALh3Hh0MYeLqvc.jpeg?width=320&crop=smart&auto=webp&s=df52c2f750863c69d1c3d9167b2994277cadd6f6",
         "published": "2026-03-09T18:57:57+00:00"
-    },
-    {
-        "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1rp39yx/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
-        "image": "https://preview.redd.it/ug4r7ultf1og1.png?width=640&crop=smart&auto=webp&s=767c0ed4d24bcde334f0d5cf163de35fe68b87f6",
-        "published": "2026-03-09T15:28:58+00:00"
     },
     {
         "title": "Has anyone else thought about the broader implications of human brain cells being taught to play doom?",
@@ -84,9 +84,9 @@
         "published": "2026-03-10T04:23:11+00:00"
     },
     {
-        "title": "Virtual cell",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpihgy/virtual_cell/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T00:49:55+00:00"
+        "title": "By the End of 2026 AI Could Completely Change Filmmaking",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpre9j/by_the_end_of_2026_ai_could_completely_change/",
+        "image": "https://external-preview.redd.it/mOHE5CU1ZZ96NMw4-zTFEVCy6VZfQYvaDbkqc44lo4w.png?width=640&crop=smart&auto=webp&s=a8af7396a94611ce683a85ab474b34288a8ac035",
+        "published": "2026-03-10T08:31:38+00:00"
     }
 ]
