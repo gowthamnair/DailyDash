@@ -36,6 +36,12 @@
         "published": "2026-03-10T08:31:02+00:00"
     },
     {
+        "title": "An example of why we need to take things with a grain of salt...",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpm6sm/an_example_of_why_we_need_to_take_things_with_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T03:33:01+00:00"
+    },
+    {
         "title": "Figure AI humanoid robot task close up",
         "link": "https://www.reddit.com/r/singularity/comments/1rpis93/figure_ai_humanoid_robot_task_close_up/",
         "image": "https://external-preview.redd.it/dmk5b2lydjdhNG9nMZvmX6h1t4rb6Y8630lImv2gl4oweR12_E305biyqgni.png?width=640&crop=smart&auto=webp&s=bb86d9a3981f73bebdcda7037ca06fac9520c35c",
@@ -46,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rp445j/figure_ai_helix_02_living_room_tidy/",
         "image": "https://external-preview.redd.it/cXMlGyyqDfqzXGbknQQJHWGLkhOML_IxySMafxg3NRA.jpeg?width=320&crop=smart&auto=webp&s=097947a2c6b996f92afbd9536c3a556f049e3569",
         "published": "2026-03-09T15:59:58+00:00"
-    },
-    {
-        "title": "An example of why we need to take things with a grain of salt...",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpm6sm/an_example_of_why_we_need_to_take_things_with_a/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T03:33:01+00:00"
     },
     {
         "title": "Fine-tuned Qwen3 SLMs (0.6-8B) beat frontier LLMs on narrow tasks",
@@ -78,15 +78,15 @@
         "published": "2026-03-10T02:10:45+00:00"
     },
     {
-        "title": "LLM Sycophancy Benchmark: Opposite-Narrator Contradictions. Same dispute, opposite first-person perspectives. Does the model keep the same judgment or start agreeing with whoever is speaking?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpn7z7/llm_sycophancy_benchmark_oppositenarrator/",
-        "image": "https://preview.redd.it/6sedftag95og1.png?width=140&height=95&auto=webp&s=14f56acb6dbc114f684570024061e0203e5da058",
-        "published": "2026-03-10T04:23:11+00:00"
-    },
-    {
         "title": "By the End of 2026 AI Could Completely Change Filmmaking",
         "link": "https://www.reddit.com/r/singularity/comments/1rpre9j/by_the_end_of_2026_ai_could_completely_change/",
         "image": "https://external-preview.redd.it/mOHE5CU1ZZ96NMw4-zTFEVCy6VZfQYvaDbkqc44lo4w.png?width=640&crop=smart&auto=webp&s=a8af7396a94611ce683a85ab474b34288a8ac035",
         "published": "2026-03-10T08:31:38+00:00"
+    },
+    {
+        "title": "LLM Sycophancy Benchmark: Opposite-Narrator Contradictions. Same dispute, opposite first-person perspectives. Does the model keep the same judgment or start agreeing with whoever is speaking?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpn7z7/llm_sycophancy_benchmark_oppositenarrator/",
+        "image": "https://preview.redd.it/6sedftag95og1.png?width=140&height=95&auto=webp&s=14f56acb6dbc114f684570024061e0203e5da058",
+        "published": "2026-03-10T04:23:11+00:00"
     }
 ]
