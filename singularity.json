@@ -1,21 +1,15 @@
 [
     {
-        "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
-        "image": "https://external-preview.redd.it/TJ-WLCATRw5QDRqKa9QFZhyNBNLFpM6gwcqSdwAPSag.png?width=640&crop=smart&auto=webp&s=0be64858a5b9dca33a8728ce667064d020a64106",
-        "published": "2026-03-11T01:59:41+00:00"
-    },
-    {
         "title": "Being a developer in 2026",
         "link": "https://www.reddit.com/r/singularity/comments/1rr247v/being_a_developer_in_2026/",
         "image": "https://external-preview.redd.it/cmpsNDl3cmptZ29nMX-XAnUfiL2NBf_0dsP5-aXQi9DAos6KaHFnt3kRzGsD.png?width=320&crop=smart&auto=webp&s=cbcafceb844cbf48b127a5aa5ea368b630e83fe4",
         "published": "2026-03-11T18:33:18+00:00"
     },
     {
-        "title": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
-        "image": "https://external-preview.redd.it/31eOgASekdUv-Hi5wVlgA-GN-b5-kncVHlryK1rMd3U.jpeg?width=640&crop=smart&auto=webp&s=90bcc929b9f3dee814de4c2d3122e05737c07e9e",
-        "published": "2026-03-10T21:24:33+00:00"
+        "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
+        "image": "https://external-preview.redd.it/TJ-WLCATRw5QDRqKa9QFZhyNBNLFpM6gwcqSdwAPSag.png?width=640&crop=smart&auto=webp&s=0be64858a5b9dca33a8728ce667064d020a64106",
+        "published": "2026-03-11T01:59:41+00:00"
     },
     {
         "title": "Anthropic: Recursive Self Improvement Is Here. The Most Disruptive Company In The World.",
@@ -24,10 +18,16 @@
         "published": "2026-03-11T16:31:38+00:00"
     },
     {
-        "title": "Claude is running for President.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
-        "image": "https://external-preview.redd.it/8kt7jx2VltOxWHO3zYcmTk7Xh57_lkge9qvSMXqJ21w.png?width=640&crop=smart&auto=webp&s=6319eda57e96834c05e5bb98072f1ee9001f1878",
-        "published": "2026-03-10T19:46:48+00:00"
+        "title": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
+        "image": "https://external-preview.redd.it/31eOgASekdUv-Hi5wVlgA-GN-b5-kncVHlryK1rMd3U.jpeg?width=640&crop=smart&auto=webp&s=90bcc929b9f3dee814de4c2d3122e05737c07e9e",
+        "published": "2026-03-10T21:24:33+00:00"
+    },
+    {
+        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
+        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
+        "published": "2026-03-11T17:46:38+00:00"
     },
     {
         "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
@@ -40,12 +40,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rqjg4u/2026_global_humanoid_robotics_firms_maps_by_robo/",
         "image": "https://preview.redd.it/chxt4wst9cog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bd4b61b01420fcf8f993d2ed2486bf07d61358ed",
         "published": "2026-03-11T03:58:50+00:00"
-    },
-    {
-        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
-        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
-        "published": "2026-03-11T17:46:38+00:00"
     },
     {
         "title": "arstechnica: After outages, Amazon to make senior engineers sign off on AI-assisted changes",
@@ -72,21 +66,27 @@
         "published": "2026-03-11T11:58:31+00:00"
     },
     {
-        "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqxfle/llm_neuroanatomy_how_i_topped_the_ai_leaderboard/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T15:49:00+00:00"
-    },
-    {
         "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
         "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
         "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
         "published": "2026-03-11T17:48:12+00:00"
     },
     {
+        "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqxfle/llm_neuroanatomy_how_i_topped_the_ai_leaderboard/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T15:49:00+00:00"
+    },
+    {
         "title": "Building Evo 2: A Frontier DNA Language Model",
         "link": "https://www.reddit.com/r/singularity/comments/1rqb82r/building_evo_2_a_frontier_dna_language_model/",
         "image": "https://external-preview.redd.it/M2_L7iekMg4i1tHyS9uhN8OF8JuwhpGJ3gzM9_KOp68.jpeg?width=320&crop=smart&auto=webp&s=491a15f5c094f75dfe2657cbfeb9822668449b68",
         "published": "2026-03-10T22:10:02+00:00"
+    },
+    {
+        "title": "Perplexity announced Personal Computer as the always-on, local/hybrid evolution of the cloud-based Perplexity Computer they launched back in late February",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr1mwr/perplexity_announced_personal_computer_as_the/",
+        "image": "https://external-preview.redd.it/Z2FvenY2NWxqZ29nMXwqGz9j_IShaR9pGUCjBO9fpJD4ju2L6-xd8QXDgn0O.png?width=640&crop=smart&auto=webp&s=d3cb92d26b8d0f54db15f418f1f08a85ab0d93cb",
+        "published": "2026-03-11T18:16:43+00:00"
     }
 ]
