@@ -12,12 +12,6 @@
         "published": "2026-03-11T01:59:41+00:00"
     },
     {
-        "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
-        "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
-        "published": "2026-03-10T16:16:56+00:00"
-    },
-    {
         "title": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
         "link": "https://www.reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
         "image": "https://external-preview.redd.it/31eOgASekdUv-Hi5wVlgA-GN-b5-kncVHlryK1rMd3U.jpeg?width=640&crop=smart&auto=webp&s=90bcc929b9f3dee814de4c2d3122e05737c07e9e",
@@ -48,16 +42,16 @@
         "published": "2026-03-11T03:58:50+00:00"
     },
     {
-        "title": "arstechnica: After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqea30/arstechnica_after_outages_amazon_to_make_senior/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T00:08:53+00:00"
-    },
-    {
         "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
         "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
         "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
         "published": "2026-03-11T07:42:01+00:00"
+    },
+    {
+        "title": "arstechnica: After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqea30/arstechnica_after_outages_amazon_to_make_senior/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T00:08:53+00:00"
     },
     {
         "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rqb82r/building_evo_2_a_frontier_dna_language_model/",
         "image": "https://external-preview.redd.it/M2_L7iekMg4i1tHyS9uhN8OF8JuwhpGJ3gzM9_KOp68.jpeg?width=320&crop=smart&auto=webp&s=491a15f5c094f75dfe2657cbfeb9822668449b68",
         "published": "2026-03-10T22:10:02+00:00"
+    },
+    {
+        "title": "Fish Audio Launches S2: A Highly Controllable and Expressive Open-Source TTS Model",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqigkw/fish_audio_launches_s2_a_highly_controllable_and/",
+        "image": "https://external-preview.redd.it/18Pr3xYWpE2eHLTAUkTJtzA4JR3fjw0u-xfb1FlXFnI.jpeg?width=640&crop=smart&auto=webp&s=b94f13c08c7523ac5b4a1193b833b7f7cd0a1845",
+        "published": "2026-03-11T03:11:08+00:00"
     }
 ]
