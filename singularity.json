@@ -18,12 +18,6 @@
         "published": "2026-03-11T16:31:38+00:00"
     },
     {
-        "title": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
-        "image": "https://external-preview.redd.it/31eOgASekdUv-Hi5wVlgA-GN-b5-kncVHlryK1rMd3U.jpeg?width=640&crop=smart&auto=webp&s=90bcc929b9f3dee814de4c2d3122e05737c07e9e",
-        "published": "2026-03-10T21:24:33+00:00"
-    },
-    {
         "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
         "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
@@ -66,10 +60,10 @@
         "published": "2026-03-11T17:48:12+00:00"
     },
     {
-        "title": "xAI Releases Grok 4.20 Beta Models via API",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqrr3k/xai_releases_grok_420_beta_models_via_api/",
-        "image": "https://preview.redd.it/wgew9674oeog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=43a253af2f0e63ad0c9b45585b0d472a10e43427",
-        "published": "2026-03-11T11:58:31+00:00"
+        "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr7433/two_new_stealth_models_on_openrouter_hunter_alpha/",
+        "image": "https://preview.redd.it/y3dr0fj7ihog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bedb00c9d87b3a93eb7830b59375bb6bdc4282aa",
+        "published": "2026-03-11T21:30:45+00:00"
     },
     {
         "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
@@ -78,15 +72,21 @@
         "published": "2026-03-11T15:49:00+00:00"
     },
     {
+        "title": "xAI Releases Grok 4.20 Beta Models via API",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqrr3k/xai_releases_grok_420_beta_models_via_api/",
+        "image": "https://preview.redd.it/wgew9674oeog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=43a253af2f0e63ad0c9b45585b0d472a10e43427",
+        "published": "2026-03-11T11:58:31+00:00"
+    },
+    {
         "title": "Perplexity announced Personal Computer as the always-on, local/hybrid evolution of the cloud-based Perplexity Computer they launched back in late February",
         "link": "https://www.reddit.com/r/singularity/comments/1rr1mwr/perplexity_announced_personal_computer_as_the/",
         "image": "https://external-preview.redd.it/Z2FvenY2NWxqZ29nMXwqGz9j_IShaR9pGUCjBO9fpJD4ju2L6-xd8QXDgn0O.png?width=640&crop=smart&auto=webp&s=d3cb92d26b8d0f54db15f418f1f08a85ab0d93cb",
         "published": "2026-03-11T18:16:43+00:00"
     },
     {
-        "title": "Building Evo 2: A Frontier DNA Language Model",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqb82r/building_evo_2_a_frontier_dna_language_model/",
-        "image": "https://external-preview.redd.it/M2_L7iekMg4i1tHyS9uhN8OF8JuwhpGJ3gzM9_KOp68.jpeg?width=320&crop=smart&auto=webp&s=491a15f5c094f75dfe2657cbfeb9822668449b68",
-        "published": "2026-03-10T22:10:02+00:00"
+        "title": "What are your predictions for this year in AI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0q2l/what_are_your_predictions_for_this_year_in_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T17:45:05+00:00"
     }
 ]
