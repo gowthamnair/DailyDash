@@ -6,16 +6,16 @@
         "published": "2026-03-10T18:58:18+00:00"
     },
     {
-        "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
-        "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
-        "published": "2026-03-10T16:16:56+00:00"
-    },
-    {
         "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
         "link": "https://www.reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
         "image": "https://external-preview.redd.it/TJ-WLCATRw5QDRqKa9QFZhyNBNLFpM6gwcqSdwAPSag.png?width=640&crop=smart&auto=webp&s=0be64858a5b9dca33a8728ce667064d020a64106",
         "published": "2026-03-11T01:59:41+00:00"
+    },
+    {
+        "title": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
+        "image": "https://preview.redd.it/qqqk5z6bt8og1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=60d58340c227587325a7ad3453a1e50e29dc6021",
+        "published": "2026-03-10T16:16:56+00:00"
     },
     {
         "title": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
@@ -72,21 +72,21 @@
         "published": "2026-03-11T00:08:53+00:00"
     },
     {
-        "title": "Did GPT-5.4 Pro autonomously just solve #949 Project Euler?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq3cp8/did_gpt54_pro_autonomously_just_solve_949_project/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T17:29:43+00:00"
-    },
-    {
         "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
         "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
         "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
         "published": "2026-03-11T07:42:01+00:00"
     },
     {
-        "title": "Any underrated AI search engines you've discovered recently?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpzgrb/any_underrated_ai_search_engines_youve_discovered/",
+        "title": "Did GPT-5.4 Pro autonomously just solve #949 Project Euler?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq3cp8/did_gpt54_pro_autonomously_just_solve_949_project/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T15:07:45+00:00"
+        "published": "2026-03-10T17:29:43+00:00"
+    },
+    {
+        "title": "It's been 10 years since AlphaGo's Move 37. Would 2016-you be impressed or disappointed by where AI is today?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqn1gw/its_been_10_years_since_alphagos_move_37_would/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T07:20:16+00:00"
     }
 ]
