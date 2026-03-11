@@ -18,16 +18,16 @@
         "published": "2026-03-10T21:24:33+00:00"
     },
     {
-        "title": "Claude is running for President.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
-        "image": "https://external-preview.redd.it/8kt7jx2VltOxWHO3zYcmTk7Xh57_lkge9qvSMXqJ21w.png?width=640&crop=smart&auto=webp&s=6319eda57e96834c05e5bb98072f1ee9001f1878",
-        "published": "2026-03-10T19:46:48+00:00"
-    },
-    {
         "title": "Anthropic: Recursive Self Improvement Is Here. The Most Disruptive Company In The World.",
         "link": "https://www.reddit.com/r/singularity/comments/1rqymbn/anthropic_recursive_self_improvement_is_here_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-11T16:31:38+00:00"
+    },
+    {
+        "title": "Claude is running for President.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
+        "image": "https://external-preview.redd.it/8kt7jx2VltOxWHO3zYcmTk7Xh57_lkge9qvSMXqJ21w.png?width=640&crop=smart&auto=webp&s=6319eda57e96834c05e5bb98072f1ee9001f1878",
+        "published": "2026-03-10T19:46:48+00:00"
     },
     {
         "title": "2026 Global Humanoid Robotics firms maps by @Robo_Tuo on X",
@@ -46,6 +46,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rqea30/arstechnica_after_outages_amazon_to_make_senior/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-11T00:08:53+00:00"
+    },
+    {
+        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
+        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
+        "published": "2026-03-11T17:46:38+00:00"
     },
     {
         "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
@@ -78,15 +84,9 @@
         "published": "2026-03-10T22:10:02+00:00"
     },
     {
-        "title": "Fish Audio Launches S2: A Highly Controllable and Expressive Open-Source TTS Model",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqigkw/fish_audio_launches_s2_a_highly_controllable_and/",
-        "image": "https://external-preview.redd.it/18Pr3xYWpE2eHLTAUkTJtzA4JR3fjw0u-xfb1FlXFnI.jpeg?width=640&crop=smart&auto=webp&s=b94f13c08c7523ac5b4a1193b833b7f7cd0a1845",
-        "published": "2026-03-11T03:11:08+00:00"
-    },
-    {
-        "title": "CANADA\u2019s Latest 200B Ops/sec Chip Destroyed Quantum & Super Computers!",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq5hxn/canadas_latest_200b_opssec_chip_destroyed_quantum/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T18:44:40+00:00"
+        "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
+        "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
+        "published": "2026-03-11T17:48:12+00:00"
     }
 ]
