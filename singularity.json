@@ -60,16 +60,16 @@
         "published": "2026-03-11T07:20:16+00:00"
     },
     {
-        "title": "xAI Releases Grok 4.20 Beta Models via API",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqrr3k/xai_releases_grok_420_beta_models_via_api/",
-        "image": "https://preview.redd.it/wgew9674oeog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=43a253af2f0e63ad0c9b45585b0d472a10e43427",
-        "published": "2026-03-11T11:58:31+00:00"
-    },
-    {
         "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
         "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
         "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
         "published": "2026-03-11T17:48:12+00:00"
+    },
+    {
+        "title": "xAI Releases Grok 4.20 Beta Models via API",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqrr3k/xai_releases_grok_420_beta_models_via_api/",
+        "image": "https://preview.redd.it/wgew9674oeog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=43a253af2f0e63ad0c9b45585b0d472a10e43427",
+        "published": "2026-03-11T11:58:31+00:00"
     },
     {
         "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
@@ -78,15 +78,15 @@
         "published": "2026-03-11T15:49:00+00:00"
     },
     {
-        "title": "Building Evo 2: A Frontier DNA Language Model",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqb82r/building_evo_2_a_frontier_dna_language_model/",
-        "image": "https://external-preview.redd.it/M2_L7iekMg4i1tHyS9uhN8OF8JuwhpGJ3gzM9_KOp68.jpeg?width=320&crop=smart&auto=webp&s=491a15f5c094f75dfe2657cbfeb9822668449b68",
-        "published": "2026-03-10T22:10:02+00:00"
-    },
-    {
         "title": "Perplexity announced Personal Computer as the always-on, local/hybrid evolution of the cloud-based Perplexity Computer they launched back in late February",
         "link": "https://www.reddit.com/r/singularity/comments/1rr1mwr/perplexity_announced_personal_computer_as_the/",
         "image": "https://external-preview.redd.it/Z2FvenY2NWxqZ29nMXwqGz9j_IShaR9pGUCjBO9fpJD4ju2L6-xd8QXDgn0O.png?width=640&crop=smart&auto=webp&s=d3cb92d26b8d0f54db15f418f1f08a85ab0d93cb",
         "published": "2026-03-11T18:16:43+00:00"
+    },
+    {
+        "title": "Building Evo 2: A Frontier DNA Language Model",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqb82r/building_evo_2_a_frontier_dna_language_model/",
+        "image": "https://external-preview.redd.it/M2_L7iekMg4i1tHyS9uhN8OF8JuwhpGJ3gzM9_KOp68.jpeg?width=320&crop=smart&auto=webp&s=491a15f5c094f75dfe2657cbfeb9822668449b68",
+        "published": "2026-03-10T22:10:02+00:00"
     }
 ]
