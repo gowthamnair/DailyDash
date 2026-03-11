@@ -42,18 +42,6 @@
         "published": "2026-03-10T17:33:42+00:00"
     },
     {
-        "title": "AI capabilities are doubling in months, not years",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpyuaq/ai_capabilities_are_doubling_in_months_not_years/",
-        "image": "https://external-preview.redd.it/Zk_DRpSYcVgadNV-DprCXbQji-w33uEZUY0hGVF8vmk.png?width=320&crop=smart&auto=webp&s=b700a0b686793c744c31fb7bd5393f2be3fa520d",
-        "published": "2026-03-10T14:44:29+00:00"
-    },
-    {
-        "title": "Neura Robotics and TUM launches the RoboGym at Munich airport with 2300m\u00b2 - Europe\u2019s largest scientific training center for Physical AI, feeding data to Neuraverse, the company\u2019s cloud-based shared intelligence network",
-        "link": "https://www.reddit.com/r/singularity/comments/1rpxwsa/neura_robotics_and_tum_launches_the_robogym_at/",
-        "image": "https://external-preview.redd.it/aWwybjk3NGI2OG9nMb05i5Rur6ulydVyBhBLgJlEQz9OMcGpKQyXg-C8q3LA.png?width=640&crop=smart&auto=webp&s=16f8a85a66190340634ddf51d5732c824b13ad48",
-        "published": "2026-03-10T14:08:12+00:00"
-    },
-    {
         "title": "2026 Global Humanoid Robotics firms maps by @Robo_Tuo on X",
         "link": "https://www.reddit.com/r/singularity/comments/1rqjg4u/2026_global_humanoid_robotics_firms_maps_by_robo/",
         "image": "https://preview.redd.it/chxt4wst9cog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bd4b61b01420fcf8f993d2ed2486bf07d61358ed",
@@ -72,21 +60,33 @@
         "published": "2026-03-11T07:42:01+00:00"
     },
     {
-        "title": "Did GPT-5.4 Pro autonomously just solve #949 Project Euler?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rq3cp8/did_gpt54_pro_autonomously_just_solve_949_project/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-10T17:29:43+00:00"
-    },
-    {
         "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
         "link": "https://www.reddit.com/r/singularity/comments/1rqk2l3/autonomous_ai_research_lab_self_improving_ai_is/",
         "image": "https://preview.redd.it/d5yg3ey3gcog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=24552dc5b7d4083d5853139972990aefdc70f792",
         "published": "2026-03-11T04:30:06+00:00"
     },
     {
+        "title": "Did GPT-5.4 Pro autonomously just solve #949 Project Euler?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rq3cp8/did_gpt54_pro_autonomously_just_solve_949_project/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T17:29:43+00:00"
+    },
+    {
         "title": "It's been 10 years since AlphaGo's Move 37. Would 2016-you be impressed or disappointed by where AI is today?",
         "link": "https://www.reddit.com/r/singularity/comments/1rqn1gw/its_been_10_years_since_alphagos_move_37_would/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-11T07:20:16+00:00"
+    },
+    {
+        "title": "Any underrated AI search engines you've discovered recently?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rpzgrb/any_underrated_ai_search_engines_youve_discovered/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-10T15:07:45+00:00"
+    },
+    {
+        "title": "xAI Releases Grok 4.20 Beta Models via API",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqrr3k/xai_releases_grok_420_beta_models_via_api/",
+        "image": "https://preview.redd.it/wgew9674oeog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=43a253af2f0e63ad0c9b45585b0d472a10e43427",
+        "published": "2026-03-11T11:58:31+00:00"
     }
 ]
