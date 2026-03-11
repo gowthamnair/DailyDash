@@ -42,16 +42,16 @@
         "published": "2026-03-11T00:08:53+00:00"
     },
     {
+        "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr7433/two_new_stealth_models_on_openrouter_hunter_alpha/",
+        "image": "https://preview.redd.it/y3dr0fj7ihog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bedb00c9d87b3a93eb7830b59375bb6bdc4282aa",
+        "published": "2026-03-11T21:30:45+00:00"
+    },
+    {
         "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
         "link": "https://www.reddit.com/r/singularity/comments/1rqk2l3/autonomous_ai_research_lab_self_improving_ai_is/",
         "image": "https://preview.redd.it/d5yg3ey3gcog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=24552dc5b7d4083d5853139972990aefdc70f792",
         "published": "2026-03-11T04:30:06+00:00"
-    },
-    {
-        "title": "It's been 10 years since AlphaGo's Move 37. Would 2016-you be impressed or disappointed by where AI is today?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqn1gw/its_been_10_years_since_alphagos_move_37_would/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T07:20:16+00:00"
     },
     {
         "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
@@ -60,10 +60,10 @@
         "published": "2026-03-11T17:48:12+00:00"
     },
     {
-        "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr7433/two_new_stealth_models_on_openrouter_hunter_alpha/",
-        "image": "https://preview.redd.it/y3dr0fj7ihog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bedb00c9d87b3a93eb7830b59375bb6bdc4282aa",
-        "published": "2026-03-11T21:30:45+00:00"
+        "title": "It's been 10 years since AlphaGo's Move 37. Would 2016-you be impressed or disappointed by where AI is today?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqn1gw/its_been_10_years_since_alphagos_move_37_would/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T07:20:16+00:00"
     },
     {
         "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
@@ -84,9 +84,9 @@
         "published": "2026-03-11T18:16:43+00:00"
     },
     {
-        "title": "What are your predictions for this year in AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr0q2l/what_are_your_predictions_for_this_year_in_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T17:45:05+00:00"
+        "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
+        "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
+        "published": "2026-03-11T22:26:49+00:00"
     }
 ]
