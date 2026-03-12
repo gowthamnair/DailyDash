@@ -18,12 +18,6 @@
         "published": "2026-03-11T22:26:49+00:00"
     },
     {
-        "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr7433/two_new_stealth_models_on_openrouter_hunter_alpha/",
-        "image": "https://preview.redd.it/y3dr0fj7ihog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bedb00c9d87b3a93eb7830b59375bb6bdc4282aa",
-        "published": "2026-03-11T21:30:45+00:00"
-    },
-    {
         "title": "Sad to see this",
         "link": "https://www.reddit.com/r/singularity/comments/1rrmt1f/sad_to_see_this/",
         "image": "https://preview.redd.it/xe0o4dk8alog1.jpeg?width=640&crop=smart&auto=webp&s=da204a8158655a013f213cbfc9ad4db7f3982fef",
@@ -48,6 +42,12 @@
         "published": "2026-03-12T14:58:22+00:00"
     },
     {
+        "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
+        "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
+        "published": "2026-03-12T19:21:37+00:00"
+    },
+    {
         "title": "Grok 4.20 Beta 0309 (Reasoning) Artificial Analysis score",
         "link": "https://www.reddit.com/r/singularity/comments/1rrtto2/grok_420_beta_0309_reasoning_artificial_analysis/",
         "image": "https://preview.redd.it/f2ovdaeeumog1.jpeg?width=640&crop=smart&auto=webp&s=e14eb4d390d5a0f7cc04355a6e020ec1b65d5ccb",
@@ -60,10 +60,10 @@
         "published": "2026-03-12T04:01:14+00:00"
     },
     {
-        "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
-        "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
-        "published": "2026-03-12T19:21:37+00:00"
+        "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
+        "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
+        "published": "2026-03-12T20:12:43+00:00"
     },
     {
         "title": "First US solid-state battery wins customer approval, set for mass production",
@@ -72,16 +72,16 @@
         "published": "2026-03-12T06:17:58+00:00"
     },
     {
-        "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
-        "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
-        "published": "2026-03-12T20:12:43+00:00"
-    },
-    {
         "title": "Gemma's emotional breakdowns under repeated rejection",
         "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
         "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
         "published": "2026-03-11T23:43:06+00:00"
+    },
+    {
+        "title": "Autonomous company frameworks are gaining traction",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrqpl8/autonomous_company_frameworks_are_gaining_traction/",
+        "image": "https://preview.redd.it/u1zdaeb08mog1.png?width=140&height=139&auto=webp&s=41f5a91e7f8863bb96a208e5509c617d84f2fd8b",
+        "published": "2026-03-12T13:26:34+00:00"
     },
     {
         "title": "Main takeaways: \u2192 As of February, Grok and Claude surpassed DeepSeek, taking 3rd and 4th place respectively. \u2192 Claude crossed the 3% mark for the first time in February. \u2192 Gemini is approaching a quarter of the total share. March will worse for OAI due to DoW revolt.",
