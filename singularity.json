@@ -18,12 +18,6 @@
         "published": "2026-03-12T06:35:25+00:00"
     },
     {
-        "title": "Anthropic: Recursive Self Improvement Is Here. The Most Disruptive Company In The World.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqymbn/anthropic_recursive_self_improvement_is_here_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T16:31:38+00:00"
-    },
-    {
         "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
         "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
         "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
@@ -48,28 +42,28 @@
         "published": "2026-03-12T10:13:11+00:00"
     },
     {
-        "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
-        "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
-        "published": "2026-03-11T17:48:12+00:00"
-    },
-    {
-        "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqxfle/llm_neuroanatomy_how_i_topped_the_ai_leaderboard/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T15:49:00+00:00"
-    },
-    {
         "title": "What motivates Chinese open source developers?",
         "link": "https://www.reddit.com/r/singularity/comments/1rrrvdp/what_motivates_chinese_open_source_developers/",
         "image": "https://external-preview.redd.it/OWIxa2piazNobW9nMcFt8gWFJIAKFa_UlP4P9Rmmrl371m9PFsrN-m15HaSO.png?width=640&crop=smart&auto=webp&s=31d6364d7ba1a6aa4381520c9edfa869684ffb1e",
         "published": "2026-03-12T14:13:34+00:00"
     },
     {
+        "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
+        "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
+        "published": "2026-03-11T17:48:12+00:00"
+    },
+    {
         "title": "Those of you who use LLMs have probably seen this: sometimes they code like a senior engineer, and other times they seem to forget even basic syntax. Research suggests that this is not hallucination.",
         "link": "https://www.reddit.com/r/singularity/comments/1rrgjmx/those_of_you_who_use_llms_have_probably_seen_this/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-12T04:01:14+00:00"
+    },
+    {
+        "title": "Google Maps adds Gemini AI integration and new features",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
+        "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
+        "published": "2026-03-12T14:58:22+00:00"
     },
     {
         "title": "Perplexity announced Personal Computer as the always-on, local/hybrid evolution of the cloud-based Perplexity Computer they launched back in late February",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rr0q2l/what_are_your_predictions_for_this_year_in_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-11T17:45:05+00:00"
+    },
+    {
+        "title": "Grok 4.20 Beta 0309 (Reasoning) Artificial Analysis score",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrtto2/grok_420_beta_0309_reasoning_artificial_analysis/",
+        "image": "https://preview.redd.it/f2ovdaeeumog1.jpeg?width=640&crop=smart&auto=webp&s=e14eb4d390d5a0f7cc04355a6e020ec1b65d5ccb",
+        "published": "2026-03-12T15:27:59+00:00"
     }
 ]
