@@ -36,10 +36,10 @@
         "published": "2026-03-11T03:58:50+00:00"
     },
     {
-        "title": "arstechnica: After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqea30/arstechnica_after_outages_amazon_to_make_senior/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T00:08:53+00:00"
+        "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
+        "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
+        "published": "2026-03-11T22:26:49+00:00"
     },
     {
         "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
@@ -48,16 +48,16 @@
         "published": "2026-03-11T21:30:45+00:00"
     },
     {
-        "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqk2l3/autonomous_ai_research_lab_self_improving_ai_is/",
-        "image": "https://preview.redd.it/d5yg3ey3gcog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=24552dc5b7d4083d5853139972990aefdc70f792",
-        "published": "2026-03-11T04:30:06+00:00"
-    },
-    {
         "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
         "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
         "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
         "published": "2026-03-11T17:48:12+00:00"
+    },
+    {
+        "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqk2l3/autonomous_ai_research_lab_self_improving_ai_is/",
+        "image": "https://preview.redd.it/d5yg3ey3gcog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=24552dc5b7d4083d5853139972990aefdc70f792",
+        "published": "2026-03-11T04:30:06+00:00"
     },
     {
         "title": "It's been 10 years since AlphaGo's Move 37. Would 2016-you be impressed or disappointed by where AI is today?",
@@ -84,9 +84,9 @@
         "published": "2026-03-11T18:16:43+00:00"
     },
     {
-        "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
-        "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
-        "published": "2026-03-11T22:26:49+00:00"
+        "title": "What are your predictions for this year in AI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0q2l/what_are_your_predictions_for_this_year_in_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T17:45:05+00:00"
     }
 ]
