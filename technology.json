@@ -12,22 +12,16 @@
         "published": "2026-03-11T12:48:42+00:00"
     },
     {
-        "title": "Report: Creating a 5-second AI video is like running a microwave for an hour",
-        "link": "https://www.reddit.com/r/technology/comments/1rqq93s/report_creating_a_5second_ai_video_is_like/",
-        "image": "https://external-preview.redd.it/Je4-DL8OdnvEwt3QTNPLsbUmrsdIO7ZL7tQ8AhanPdM.jpeg?width=640&crop=smart&auto=webp&s=8023a7e111befec90a0d8cf545112430c686373c",
-        "published": "2026-03-11T10:38:44+00:00"
+        "title": "1 billion identity records exposed in ID verification data leak",
+        "link": "https://www.reddit.com/r/technology/comments/1rrc1ny/1_billion_identity_records_exposed_in_id/",
+        "image": "https://external-preview.redd.it/jVcmf7UQ9W0W8gnKkOMzG7j3_ufDMMtjUx-llle31fg.jpeg?width=640&crop=smart&auto=webp&s=f0d6d7c64c1064c2b9ba2acf1e12cf50306cb45f",
+        "published": "2026-03-12T00:39:42+00:00"
     },
     {
         "title": "Hisense TVs force owners to watch intrusive ads when switching inputs, visiting the home screen, or even changing channels",
         "link": "https://www.reddit.com/r/technology/comments/1rqrsr9/hisense_tvs_force_owners_to_watch_intrusive_ads/",
         "image": "https://external-preview.redd.it/mTc6mC8g-KETSuNsv7-VUahfouB2tfVRYcky9ewyUu4.jpeg?width=640&crop=smart&auto=webp&s=aef37d91b5f46aa1a49762381ff76daaf0f02c4b",
         "published": "2026-03-11T12:00:25+00:00"
-    },
-    {
-        "title": "1 billion identity records exposed in ID verification data leak",
-        "link": "https://www.reddit.com/r/technology/comments/1rrc1ny/1_billion_identity_records_exposed_in_id/",
-        "image": "https://external-preview.redd.it/jVcmf7UQ9W0W8gnKkOMzG7j3_ufDMMtjUx-llle31fg.jpeg?width=640&crop=smart&auto=webp&s=f0d6d7c64c1064c2b9ba2acf1e12cf50306cb45f",
-        "published": "2026-03-12T00:39:42+00:00"
     },
     {
         "title": "Iran to Target Tech Companies Like Google, Microsoft, and Nvidia: Iran\u2019s Islamic Revolutionary Guard Corps has declared American tech and banking companies as targets.",
@@ -66,12 +60,6 @@
         "published": "2026-03-11T14:59:55+00:00"
     },
     {
-        "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight",
-        "link": "https://www.reddit.com/r/technology/comments/1rr0uph/us_military_is_using_ai_to_help_plan_iran_air/",
-        "image": "https://external-preview.redd.it/4FjFKC1IBaC3MWH5oGlKFlzIT28iZymfBeW7RqbTORo.jpeg?width=640&crop=smart&auto=webp&s=864226ecde09aa44e8d32028253b5afbf1477ecd",
-        "published": "2026-03-11T17:49:29+00:00"
-    },
-    {
         "title": "Dubai's influencers have a new rule: Don't mention the war",
         "link": "https://www.reddit.com/r/technology/comments/1rrfegj/dubais_influencers_have_a_new_rule_dont_mention/",
         "image": "https://external-preview.redd.it/wit7MuPNYLmzB528KVfYoGP2ikB7tpTxnjHLjJEqCUM.jpeg?width=320&crop=smart&auto=webp&s=6f236ef1fd9e00f0931724116f8ef6d3c6aa30e2",
@@ -84,9 +72,21 @@
         "published": "2026-03-12T03:23:01+00:00"
     },
     {
+        "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight",
+        "link": "https://www.reddit.com/r/technology/comments/1rr0uph/us_military_is_using_ai_to_help_plan_iran_air/",
+        "image": "https://external-preview.redd.it/4FjFKC1IBaC3MWH5oGlKFlzIT28iZymfBeW7RqbTORo.jpeg?width=640&crop=smart&auto=webp&s=864226ecde09aa44e8d32028253b5afbf1477ecd",
+        "published": "2026-03-11T17:49:29+00:00"
+    },
+    {
         "title": "Intel's Heracles chip computes fully-encrypted data without decrypting it \u2014 chip is 1,074 to 5,547 times faster than a 24-core Intel Xeon in FHE math operations",
         "link": "https://www.reddit.com/r/technology/comments/1rqrrqz/intels_heracles_chip_computes_fullyencrypted_data/",
         "image": "https://external-preview.redd.it/vmFl2B3xglvLnrCttTm4aqdyh6jEA9yuILdOva2D26A.jpeg?width=640&crop=smart&auto=webp&s=7490193bf0e1d58c74e5fe1ad0df70d49d9f4f7b",
         "published": "2026-03-11T11:59:20+00:00"
+    },
+    {
+        "title": "Tesla Cybertruck on Autopilot tried to drive off Houston overpass, lawsuit alleges | Rather than use lidar for its driver assistance systems, 'Musk chose instead to rely only upon cheap video cameras,' lawsuit says",
+        "link": "https://www.reddit.com/r/technology/comments/1rqv1im/tesla_cybertruck_on_autopilot_tried_to_drive_off/",
+        "image": "https://external-preview.redd.it/NVQbUTShaMOTAKTakclnlWQtb6oiLnFgoe5ep6E2FSM.jpeg?width=640&crop=smart&auto=webp&s=63b5ab3cd32132c509b73d54a54b5b69d241c2a2",
+        "published": "2026-03-11T14:19:07+00:00"
     }
 ]
