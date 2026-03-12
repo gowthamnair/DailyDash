@@ -6,12 +6,6 @@
         "published": "2026-03-11T18:33:18+00:00"
     },
     {
-        "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
-        "image": "https://external-preview.redd.it/TJ-WLCATRw5QDRqKa9QFZhyNBNLFpM6gwcqSdwAPSag.png?width=640&crop=smart&auto=webp&s=0be64858a5b9dca33a8728ce667064d020a64106",
-        "published": "2026-03-11T01:59:41+00:00"
-    },
-    {
         "title": "Anthropic: Recursive Self Improvement Is Here. The Most Disruptive Company In The World.",
         "link": "https://www.reddit.com/r/singularity/comments/1rqymbn/anthropic_recursive_self_improvement_is_here_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -24,22 +18,16 @@
         "published": "2026-03-11T17:46:38+00:00"
     },
     {
-        "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
-        "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
-        "published": "2026-03-11T07:42:01+00:00"
-    },
-    {
-        "title": "2026 Global Humanoid Robotics firms maps by @Robo_Tuo on X",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqjg4u/2026_global_humanoid_robotics_firms_maps_by_robo/",
-        "image": "https://preview.redd.it/chxt4wst9cog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bd4b61b01420fcf8f993d2ed2486bf07d61358ed",
-        "published": "2026-03-11T03:58:50+00:00"
-    },
-    {
         "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
         "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
         "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
         "published": "2026-03-11T22:26:49+00:00"
+    },
+    {
+        "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
+        "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
+        "published": "2026-03-11T07:42:01+00:00"
     },
     {
         "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rr0q2l/what_are_your_predictions_for_this_year_in_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-11T17:45:05+00:00"
+    },
+    {
+        "title": "Total MAUs and store downloads for leading Gen AI apps, February 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr1007/total_maus_and_store_downloads_for_leading_gen_ai/",
+        "image": "https://preview.redd.it/p5jfn7mmfgog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2ed5d453cc4b987f30fc05716d095c066a41c0f4",
+        "published": "2026-03-11T17:54:30+00:00"
+    },
+    {
+        "title": "Gemma's emotional breakdowns under repeated rejection",
+        "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
+        "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
+        "published": "2026-03-11T23:43:06+00:00"
     }
 ]
