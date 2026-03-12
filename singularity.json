@@ -54,16 +54,28 @@
         "published": "2026-03-11T17:48:12+00:00"
     },
     {
+        "title": "Google Maps adds Gemini AI integration and new features",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
+        "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
+        "published": "2026-03-12T14:58:22+00:00"
+    },
+    {
+        "title": "Data centers powered by brain cells",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
+        "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
+        "published": "2026-03-12T16:37:09+00:00"
+    },
+    {
         "title": "Those of you who use LLMs have probably seen this: sometimes they code like a senior engineer, and other times they seem to forget even basic syntax. Research suggests that this is not hallucination.",
         "link": "https://www.reddit.com/r/singularity/comments/1rrgjmx/those_of_you_who_use_llms_have_probably_seen_this/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-12T04:01:14+00:00"
     },
     {
-        "title": "Google Maps adds Gemini AI integration and new features",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
-        "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
-        "published": "2026-03-12T14:58:22+00:00"
+        "title": "Grok 4.20 Beta 0309 (Reasoning) Artificial Analysis score",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrtto2/grok_420_beta_0309_reasoning_artificial_analysis/",
+        "image": "https://preview.redd.it/f2ovdaeeumog1.jpeg?width=640&crop=smart&auto=webp&s=e14eb4d390d5a0f7cc04355a6e020ec1b65d5ccb",
+        "published": "2026-03-12T15:27:59+00:00"
     },
     {
         "title": "Perplexity announced Personal Computer as the always-on, local/hybrid evolution of the cloud-based Perplexity Computer they launched back in late February",
@@ -76,17 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rrj2ja/first_us_solidstate_battery_wins_customer/",
         "image": "https://external-preview.redd.it/uZ7eUI_Kca5j9Tlx2GBYRetcvtdrOBxhsAY5ycDYJ5A.jpeg?width=640&crop=smart&auto=webp&s=a625ee1d032b488ff46164535e8f24766b982909",
         "published": "2026-03-12T06:17:58+00:00"
-    },
-    {
-        "title": "What are your predictions for this year in AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr0q2l/what_are_your_predictions_for_this_year_in_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T17:45:05+00:00"
-    },
-    {
-        "title": "Grok 4.20 Beta 0309 (Reasoning) Artificial Analysis score",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrtto2/grok_420_beta_0309_reasoning_artificial_analysis/",
-        "image": "https://preview.redd.it/f2ovdaeeumog1.jpeg?width=640&crop=smart&auto=webp&s=e14eb4d390d5a0f7cc04355a6e020ec1b65d5ccb",
-        "published": "2026-03-12T15:27:59+00:00"
     }
 ]
