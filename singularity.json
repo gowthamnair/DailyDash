@@ -18,28 +18,22 @@
         "published": "2026-03-11T22:26:49+00:00"
     },
     {
-        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
-        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
-        "published": "2026-03-11T17:46:38+00:00"
-    },
-    {
         "title": "Bernie Sanders officially introduces legislation to BAN the construction of all new AI data centers, citing existential threat to humanity.",
         "link": "https://www.reddit.com/r/singularity/comments/1rrjcon/bernie_sanders_officially_introduces_legislation/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-12T06:35:25+00:00"
     },
     {
+        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
+        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
+        "published": "2026-03-11T17:46:38+00:00"
+    },
+    {
         "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
         "link": "https://www.reddit.com/r/singularity/comments/1rr7433/two_new_stealth_models_on_openrouter_hunter_alpha/",
         "image": "https://preview.redd.it/y3dr0fj7ihog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bedb00c9d87b3a93eb7830b59375bb6bdc4282aa",
         "published": "2026-03-11T21:30:45+00:00"
-    },
-    {
-        "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
-        "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
-        "published": "2026-03-11T07:42:01+00:00"
     },
     {
         "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
         "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
         "published": "2026-03-11T23:43:06+00:00"
+    },
+    {
+        "title": "Those of you who use LLMs have probably seen this: sometimes they code like a senior engineer, and other times they seem to forget even basic syntax. Research suggests that this is not hallucination.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrgjmx/those_of_you_who_use_llms_have_probably_seen_this/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-12T04:01:14+00:00"
     },
     {
         "title": "Total MAUs and store downloads for leading Gen AI apps, February 2026",
