@@ -36,16 +36,16 @@
         "published": "2026-03-12T14:13:34+00:00"
     },
     {
-        "title": "Google Maps adds Gemini AI integration and new features",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
-        "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
-        "published": "2026-03-12T14:58:22+00:00"
-    },
-    {
         "title": "Data centers powered by brain cells",
         "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
         "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
         "published": "2026-03-12T16:37:09+00:00"
+    },
+    {
+        "title": "Google Maps adds Gemini AI integration and new features",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
+        "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
+        "published": "2026-03-12T14:58:22+00:00"
     },
     {
         "title": "Those of you who use LLMs have probably seen this: sometimes they code like a senior engineer, and other times they seem to forget even basic syntax. Research suggests that this is not hallucination.",
