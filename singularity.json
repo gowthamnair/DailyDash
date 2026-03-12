@@ -12,22 +12,16 @@
         "published": "2026-03-11T16:31:38+00:00"
     },
     {
-        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
-        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
-        "published": "2026-03-11T17:46:38+00:00"
-    },
-    {
         "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
         "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
         "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
         "published": "2026-03-11T22:26:49+00:00"
     },
     {
-        "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
-        "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
-        "published": "2026-03-11T07:42:01+00:00"
+        "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr0rpk/differences_between_gpt_54_and_gpt_54pro_on/",
+        "image": "https://preview.redd.it/7eo48tpwdgog1.gif?frame=1&width=140&height=78&auto=webp&s=d068bb95cb9ea55180b534535b64ccaf51bfeab2",
+        "published": "2026-03-11T17:46:38+00:00"
     },
     {
         "title": "Two new Stealth models on OpenRouter: Hunter Alpha & Healer Alpha",
@@ -36,28 +30,28 @@
         "published": "2026-03-11T21:30:45+00:00"
     },
     {
+        "title": "Although some of the details are hallucinated by current models, this is still the wildest multi-modality use-case i have ever seen",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqndn9/although_some_of_the_details_are_hallucinated_by/",
+        "image": "https://external-preview.redd.it/eG12bDQ0aW9kZG9nMUK9D6jUVD8tCChzTzh7qxACgDS6nsMIHapJliTIHQYy.png?width=640&crop=smart&auto=webp&s=61c6fca189ee1cb5ae5bd6a1ca6308cd39fc1d94",
+        "published": "2026-03-11T07:42:01+00:00"
+    },
+    {
         "title": "Nvidia Nemotron 3 Super is here \u2014 120B total / 12B active, Hybrid SSM Latent MoE, designed for Blackwell",
         "link": "https://www.reddit.com/r/singularity/comments/1rr0tc6/nvidia_nemotron_3_super_is_here_120b_total_12b/",
         "image": "https://preview.redd.it/zqwcen2iegog1.jpg?width=140&height=135&auto=webp&s=3f4b55118ee411bd4f8372615e29f30290b29f60",
         "published": "2026-03-11T17:48:12+00:00"
     },
     {
-        "title": "AUTONOMOUS AI RESEARCH LAB. Self improving AI is here.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqk2l3/autonomous_ai_research_lab_self_improving_ai_is/",
-        "image": "https://preview.redd.it/d5yg3ey3gcog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=24552dc5b7d4083d5853139972990aefdc70f792",
-        "published": "2026-03-11T04:30:06+00:00"
+        "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
+        "link": "https://www.reddit.com/r/singularity/comments/1rqxfle/llm_neuroanatomy_how_i_topped_the_ai_leaderboard/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-11T15:49:00+00:00"
     },
     {
         "title": "It's been 10 years since AlphaGo's Move 37. Would 2016-you be impressed or disappointed by where AI is today?",
         "link": "https://www.reddit.com/r/singularity/comments/1rqn1gw/its_been_10_years_since_alphagos_move_37_would/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-11T07:20:16+00:00"
-    },
-    {
-        "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
-        "link": "https://www.reddit.com/r/singularity/comments/1rqxfle/llm_neuroanatomy_how_i_topped_the_ai_leaderboard/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-11T15:49:00+00:00"
     },
     {
         "title": "xAI Releases Grok 4.20 Beta Models via API",
@@ -78,15 +72,21 @@
         "published": "2026-03-11T17:45:05+00:00"
     },
     {
-        "title": "Total MAUs and store downloads for leading Gen AI apps, February 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr1007/total_maus_and_store_downloads_for_leading_gen_ai/",
-        "image": "https://preview.redd.it/p5jfn7mmfgog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2ed5d453cc4b987f30fc05716d095c066a41c0f4",
-        "published": "2026-03-11T17:54:30+00:00"
+        "title": "Google Deepmind reported \u00a3174 million in net profit independent of the parent company Alphabet in 2024.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrhkwz/google_deepmind_reported_174_million_in_net/",
+        "image": "https://preview.redd.it/3vijakfcpjog1.jpeg?width=640&crop=smart&auto=webp&s=2fad36080b4a1c0f19a56264f38e61250c02d39d",
+        "published": "2026-03-12T04:54:40+00:00"
     },
     {
         "title": "Gemma's emotional breakdowns under repeated rejection",
         "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
         "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
         "published": "2026-03-11T23:43:06+00:00"
+    },
+    {
+        "title": "Total MAUs and store downloads for leading Gen AI apps, February 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr1007/total_maus_and_store_downloads_for_leading_gen_ai/",
+        "image": "https://preview.redd.it/p5jfn7mmfgog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2ed5d453cc4b987f30fc05716d095c066a41c0f4",
+        "published": "2026-03-11T17:54:30+00:00"
     }
 ]
