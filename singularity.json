@@ -12,12 +12,6 @@
         "published": "2026-03-12T06:35:25+00:00"
     },
     {
-        "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
-        "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
-        "published": "2026-03-11T22:26:49+00:00"
-    },
-    {
         "title": "Sad to see this",
         "link": "https://www.reddit.com/r/singularity/comments/1rrmt1f/sad_to_see_this/",
         "image": "https://preview.redd.it/xe0o4dk8alog1.jpeg?width=640&crop=smart&auto=webp&s=da204a8158655a013f213cbfc9ad4db7f3982fef",
@@ -30,22 +24,28 @@
         "published": "2026-03-12T14:13:34+00:00"
     },
     {
-        "title": "Data centers powered by brain cells",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
-        "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
-        "published": "2026-03-12T16:37:09+00:00"
-    },
-    {
         "title": "Google Maps adds Gemini AI integration and new features",
         "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
         "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
         "published": "2026-03-12T14:58:22+00:00"
     },
     {
+        "title": "Data centers powered by brain cells",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
+        "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
+        "published": "2026-03-12T16:37:09+00:00"
+    },
+    {
         "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
         "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
         "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
         "published": "2026-03-12T19:21:37+00:00"
+    },
+    {
+        "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
+        "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
+        "published": "2026-03-12T20:12:43+00:00"
     },
     {
         "title": "Grok 4.20 Beta 0309 (Reasoning) Artificial Analysis score",
@@ -60,16 +60,22 @@
         "published": "2026-03-12T04:01:14+00:00"
     },
     {
-        "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
-        "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
-        "published": "2026-03-12T20:12:43+00:00"
-    },
-    {
         "title": "First US solid-state battery wins customer approval, set for mass production",
         "link": "https://www.reddit.com/r/singularity/comments/1rrj2ja/first_us_solidstate_battery_wins_customer/",
         "image": "https://external-preview.redd.it/uZ7eUI_Kca5j9Tlx2GBYRetcvtdrOBxhsAY5ycDYJ5A.jpeg?width=640&crop=smart&auto=webp&s=a625ee1d032b488ff46164535e8f24766b982909",
         "published": "2026-03-12T06:17:58+00:00"
+    },
+    {
+        "title": "Main takeaways: \u2192 As of February, Grok and Claude surpassed DeepSeek, taking 3rd and 4th place respectively. \u2192 Claude crossed the 3% mark for the first time in February. \u2192 Gemini is approaching a quarter of the total share. March will worse for OAI due to DoW revolt.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrt037/main_takeaways_as_of_february_grok_and_claude/",
+        "image": "https://preview.redd.it/l81be48yomog1.png?width=640&crop=smart&auto=webp&s=8c4af6ce54b0355425759d15158011d93e2e1119",
+        "published": "2026-03-12T14:57:27+00:00"
+    },
+    {
+        "title": "Claude can now create interactive visualizations in chat responses",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs29ip/claude_can_now_create_interactive_visualizations/",
+        "image": "https://external-preview.redd.it/Xd-QWkNnl7Pj3329Z_d413bemFxoBTCIbqpD17v9cno.jpeg?width=320&crop=smart&auto=webp&s=d4ba1ae009308682fcd51ff5246f101d29c90c08",
+        "published": "2026-03-12T20:30:45+00:00"
     },
     {
         "title": "Gemma's emotional breakdowns under repeated rejection",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rrqpl8/autonomous_company_frameworks_are_gaining_traction/",
         "image": "https://preview.redd.it/u1zdaeb08mog1.png?width=140&height=139&auto=webp&s=41f5a91e7f8863bb96a208e5509c617d84f2fd8b",
         "published": "2026-03-12T13:26:34+00:00"
-    },
-    {
-        "title": "Main takeaways: \u2192 As of February, Grok and Claude surpassed DeepSeek, taking 3rd and 4th place respectively. \u2192 Claude crossed the 3% mark for the first time in February. \u2192 Gemini is approaching a quarter of the total share. March will worse for OAI due to DoW revolt.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrt037/main_takeaways_as_of_february_grok_and_claude/",
-        "image": "https://preview.redd.it/l81be48yomog1.png?width=640&crop=smart&auto=webp&s=8c4af6ce54b0355425759d15158011d93e2e1119",
-        "published": "2026-03-12T14:57:27+00:00"
     }
 ]

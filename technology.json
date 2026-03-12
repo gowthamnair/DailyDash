@@ -18,12 +18,6 @@
         "published": "2026-03-12T13:35:57+00:00"
     },
     {
-        "title": "The Pentagon is violating Anthropic's First Amendment rights",
-        "link": "https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/",
-        "image": "https://external-preview.redd.it/g7f9dVhIRvDK321mX03mJq3ix0Bm2xfdv-dDOTuGCa4.jpeg?width=640&crop=smart&auto=webp&s=3ebfa58e4a5b7d90086b71ff5f581fb26f2853e0",
-        "published": "2026-03-11T23:07:02+00:00"
-    },
-    {
         "title": "I Watched 6 Hours of DOGE Bro Testimony. Here's What They Had to Say For Themselves",
         "link": "https://www.reddit.com/r/technology/comments/1rs0q16/i_watched_6_hours_of_doge_bro_testimony_heres/",
         "image": "https://external-preview.redd.it/GhEwEl7nOZVVv1wtSRI_WKv-4J2CzlijbcOIWoBfnlY.png?width=640&crop=smart&auto=webp&s=8391199f8475a2674784c5a9208695f6ff2aeae6",
@@ -66,16 +60,16 @@
         "published": "2026-03-12T18:51:39+00:00"
     },
     {
-        "title": "Iran Includes American Tech Giants on List of New Targets",
-        "link": "https://www.reddit.com/r/technology/comments/1rrmxrd/iran_includes_american_tech_giants_on_list_of_new/",
-        "image": "https://external-preview.redd.it/4pFI92pwiwhmy7NHo9GOGF2mp39cbZ599OGUNdfNclc.jpeg?width=640&crop=smart&auto=webp&s=76d4d86842d765b2e171a565b721b1ba2fdb72a5",
-        "published": "2026-03-12T10:20:55+00:00"
-    },
-    {
         "title": "Apple's $599 MacBook Neo Shocks PC Industry Leaders",
         "link": "https://www.reddit.com/r/technology/comments/1rrvvgj/apples_599_macbook_neo_shocks_pc_industry_leaders/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-12T16:42:33+00:00"
+    },
+    {
+        "title": "Iran Includes American Tech Giants on List of New Targets",
+        "link": "https://www.reddit.com/r/technology/comments/1rrmxrd/iran_includes_american_tech_giants_on_list_of_new/",
+        "image": "https://external-preview.redd.it/4pFI92pwiwhmy7NHo9GOGF2mp39cbZ599OGUNdfNclc.jpeg?width=640&crop=smart&auto=webp&s=76d4d86842d765b2e171a565b721b1ba2fdb72a5",
+        "published": "2026-03-12T10:20:55+00:00"
     },
     {
         "title": "Amazon is determined to use AI for everything \u2013 even when it slows down work",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1rrt6h2/rivian_goes_allin_on_the_r2_330_miles_of_range/",
         "image": "https://external-preview.redd.it/8MDwwpWZW4_kkB-dy86w0EOB1aNNyierlBJm8CIgNis.jpeg?width=640&crop=smart&auto=webp&s=06919f16b7eb88664db33382feb882223d6e71bd",
         "published": "2026-03-12T15:03:56+00:00"
+    },
+    {
+        "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI \"Expert Review\" Feature",
+        "link": "https://www.reddit.com/r/technology/comments/1rrsoks/grammarly_is_facing_a_class_action_lawsuit_over/",
+        "image": "https://external-preview.redd.it/RAGg3fDZhRyFP7LiT56ErXz4873g5zMf1Selg_CHF5c.jpeg?width=640&crop=smart&auto=webp&s=11173640b0e8352a469b88889e8e2bc41db64daf",
+        "published": "2026-03-12T14:44:54+00:00"
     }
 ]
