@@ -12,16 +12,16 @@
         "published": "2026-03-11T16:31:38+00:00"
     },
     {
-        "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
-        "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
-        "published": "2026-03-11T22:26:49+00:00"
-    },
-    {
         "title": "Bernie Sanders officially introduces legislation to BAN the construction of all new AI data centers, citing existential threat to humanity.",
         "link": "https://www.reddit.com/r/singularity/comments/1rrjcon/bernie_sanders_officially_introduces_legislation/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-12T06:35:25+00:00"
+    },
+    {
+        "title": "Claude 4.6 Experiment: \"Can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg? It should express what it's like to be a LLM.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1rr8mri/claude_46_experiment_can_you_use_whatever/",
+        "image": "https://external-preview.redd.it/ajhrMnp4b3pyaG9nMaAwccVrus825p2YxxzFkVJeJHBzs5iXlh1s6j2YipJy.png?width=640&crop=smart&auto=webp&s=07f22680fa38517d4ddb38a6d8ab35c0e54d43bc",
+        "published": "2026-03-11T22:26:49+00:00"
     },
     {
         "title": "Differences Between GPT 5.4 and GPT 5.4-Pro on MineBench",
@@ -48,12 +48,6 @@
         "published": "2026-03-11T15:49:00+00:00"
     },
     {
-        "title": "Google Deepmind reported \u00a3174 million in net profit independent of the parent company Alphabet in 2024.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrhkwz/google_deepmind_reported_174_million_in_net/",
-        "image": "https://preview.redd.it/3vijakfcpjog1.jpeg?width=640&crop=smart&auto=webp&s=2fad36080b4a1c0f19a56264f38e61250c02d39d",
-        "published": "2026-03-12T04:54:40+00:00"
-    },
-    {
         "title": "Perplexity announced Personal Computer as the always-on, local/hybrid evolution of the cloud-based Perplexity Computer they launched back in late February",
         "link": "https://www.reddit.com/r/singularity/comments/1rr1mwr/perplexity_announced_personal_computer_as_the/",
         "image": "https://external-preview.redd.it/Z2FvenY2NWxqZ29nMXwqGz9j_IShaR9pGUCjBO9fpJD4ju2L6-xd8QXDgn0O.png?width=640&crop=smart&auto=webp&s=d3cb92d26b8d0f54db15f418f1f08a85ab0d93cb",
@@ -72,21 +66,27 @@
         "published": "2026-03-11T17:45:05+00:00"
     },
     {
-        "title": "Gemma's emotional breakdowns under repeated rejection",
-        "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
-        "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
-        "published": "2026-03-11T23:43:06+00:00"
-    },
-    {
         "title": "Those of you who use LLMs have probably seen this: sometimes they code like a senior engineer, and other times they seem to forget even basic syntax. Research suggests that this is not hallucination.",
         "link": "https://www.reddit.com/r/singularity/comments/1rrgjmx/those_of_you_who_use_llms_have_probably_seen_this/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-12T04:01:14+00:00"
     },
     {
+        "title": "Gemma's emotional breakdowns under repeated rejection",
+        "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
+        "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
+        "published": "2026-03-11T23:43:06+00:00"
+    },
+    {
         "title": "Total MAUs and store downloads for leading Gen AI apps, February 2026",
         "link": "https://www.reddit.com/r/singularity/comments/1rr1007/total_maus_and_store_downloads_for_leading_gen_ai/",
         "image": "https://preview.redd.it/p5jfn7mmfgog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2ed5d453cc4b987f30fc05716d095c066a41c0f4",
         "published": "2026-03-11T17:54:30+00:00"
+    },
+    {
+        "title": "Sam Altman: \u201cWe are training right now on the first site in Abilene what I think will be the best model in the world, hopefully by a lot\u201d [12:28, brief mention]",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrj9k2/sam_altman_we_are_training_right_now_on_the_first/",
+        "image": "https://external-preview.redd.it/cRNj-DN_GQBmBLwNrA1RmmCuqbgclBK5Fb_vK9akjj4.jpeg?width=320&crop=smart&auto=webp&s=0482cdc60a68e9b2cafca0ef140c751c0b2ac1d9",
+        "published": "2026-03-12T06:30:04+00:00"
     }
 ]
