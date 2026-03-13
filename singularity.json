@@ -6,6 +6,12 @@
         "published": "2026-03-13T13:52:07+00:00"
     },
     {
+        "title": "What AI coding feels like in 2026 trying to babysit 8 agents into writing something you don\u2019t understand.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rskbbi/what_ai_coding_feels_like_in_2026_trying_to/",
+        "image": "https://external-preview.redd.it/MTY4aGw0NGJvc29nMdYhAKziBwQntF37bJaD62SwAoX5qZ09wRtU_s2ybaIW.png?width=640&crop=smart&auto=webp&s=3d3a45e94d63e598e11aef6652172e0c25e43de0",
+        "published": "2026-03-13T11:04:41+00:00"
+    },
+    {
         "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
         "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
         "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
@@ -16,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
         "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
         "published": "2026-03-12T19:21:37+00:00"
-    },
-    {
-        "title": "What AI coding feels like in 2026 trying to babysit 8 agents into writing something you don\u2019t understand.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rskbbi/what_ai_coding_feels_like_in_2026_trying_to/",
-        "image": "https://external-preview.redd.it/MTY4aGw0NGJvc29nMdYhAKziBwQntF37bJaD62SwAoX5qZ09wRtU_s2ybaIW.png?width=640&crop=smart&auto=webp&s=3d3a45e94d63e598e11aef6652172e0c25e43de0",
-        "published": "2026-03-13T11:04:41+00:00"
     },
     {
         "title": "Data centers powered by brain cells",
@@ -42,12 +42,6 @@
         "published": "2026-03-13T00:04:47+00:00"
     },
     {
-        "title": "\"Fully functional hair follicle organ regeneration using organ-inductive potential stem cells with an accessory mesenchymal cell population in an in vitro culture system\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs9xg2/fully_functional_hair_follicle_organ_regeneration/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T01:32:56+00:00"
-    },
-    {
         "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
         "link": "https://www.reddit.com/r/singularity/comments/1rsm67v/chinas_bytedance_outsmarts_us_sanctions_with/",
         "image": "https://external-preview.redd.it/259vsbZYEORne9FzVeF8CdF_nCedDaLmxA8q3fbAzbI.jpeg?width=640&crop=smart&auto=webp&s=8fba73bec31b2a584453b6baef2e1e6e93362d6d",
@@ -60,16 +54,28 @@
         "published": "2026-03-13T10:26:26+00:00"
     },
     {
-        "title": "Can LLMs Be Computers? | Percepta",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs1p5t/can_llms_be_computers_percepta/",
-        "image": "https://external-preview.redd.it/OekFAn6SvisM-7Rc0qFYZLKs1nfQY0kSWgzYvEb8uCo.png?width=640&crop=smart&auto=webp&s=c8232136d0079315275f4f1c58609375c6891f0d",
-        "published": "2026-03-12T20:10:44+00:00"
+        "title": "\"Fully functional hair follicle organ regeneration using organ-inductive potential stem cells with an accessory mesenchymal cell population in an in vitro culture system\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs9xg2/fully_functional_hair_follicle_organ_regeneration/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T01:32:56+00:00"
     },
     {
         "title": "Lost in Backpropagation: The LM Head is a Gradient Bottleneck | Researchers may have found a fundamental inefficiency baked into every major LLM",
         "link": "https://www.reddit.com/r/singularity/comments/1rsoio2/lost_in_backpropagation_the_lm_head_is_a_gradient/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-13T14:16:17+00:00"
+    },
+    {
+        "title": "Can LLMs Be Computers? | Percepta",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs1p5t/can_llms_be_computers_percepta/",
+        "image": "https://external-preview.redd.it/OekFAn6SvisM-7Rc0qFYZLKs1nfQY0kSWgzYvEb8uCo.png?width=640&crop=smart&auto=webp&s=c8232136d0079315275f4f1c58609375c6891f0d",
+        "published": "2026-03-12T20:10:44+00:00"
+    },
+    {
+        "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsps2t/best_way_to_monetize_invention_machine_is_not_to/",
+        "image": "https://preview.redd.it/04qc7kzbutog1.png?width=140&height=60&auto=webp&s=57b5d96fdc3f920350a418b6cc77d852d9f857e8",
+        "published": "2026-03-13T15:03:55+00:00"
     },
     {
         "title": "Claude with FFmpeg and Python is insane. This is its interpretation on what it feels like to live through the singularity.",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rse5it/y_combinatorbacked_random_labs_launches_slate_v1/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-13T04:54:59+00:00"
-    },
-    {
-        "title": "ChatGPT Plus vs Claude Pro for Math, Coding & Research \u2014 Worth the $20 Upgrade for a Student?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsoglf/chatgpt_plus_vs_claude_pro_for_math_coding/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T14:14:02+00:00"
     }
 ]
