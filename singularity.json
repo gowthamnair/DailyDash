@@ -24,12 +24,6 @@
         "published": "2026-03-12T19:21:37+00:00"
     },
     {
-        "title": "Data centers powered by brain cells",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
-        "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
-        "published": "2026-03-12T16:37:09+00:00"
-    },
-    {
         "title": "Claude can now create interactive visualizations in chat responses",
         "link": "https://www.reddit.com/r/singularity/comments/1rs29ip/claude_can_now_create_interactive_visualizations/",
         "image": "https://external-preview.redd.it/Xd-QWkNnl7Pj3329Z_d413bemFxoBTCIbqpD17v9cno.jpeg?width=320&crop=smart&auto=webp&s=d4ba1ae009308682fcd51ff5246f101d29c90c08",
@@ -48,6 +42,18 @@
         "published": "2026-03-13T12:38:00+00:00"
     },
     {
+        "title": "Lost in Backpropagation: The LM Head is a Gradient Bottleneck | Researchers may have found a fundamental inefficiency baked into every major LLM",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsoio2/lost_in_backpropagation_the_lm_head_is_a_gradient/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T14:16:17+00:00"
+    },
+    {
+        "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsps2t/best_way_to_monetize_invention_machine_is_not_to/",
+        "image": "https://preview.redd.it/04qc7kzbutog1.png?width=140&height=60&auto=webp&s=57b5d96fdc3f920350a418b6cc77d852d9f857e8",
+        "published": "2026-03-13T15:03:55+00:00"
+    },
+    {
         "title": "Meituan open sources LongCat-Image-Edit-Turbo, a distilled image editing model that hits open source SOTA in only 8 inference steps",
         "link": "https://www.reddit.com/r/singularity/comments/1rsjmr9/meituan_open_sources_longcatimageeditturbo_a/",
         "image": "https://preview.redd.it/inbne327hsog1.jpg?width=140&height=39&auto=webp&s=338dbec49244af5b75a36d9ef73761d62647ccf7",
@@ -60,22 +66,16 @@
         "published": "2026-03-13T01:32:56+00:00"
     },
     {
-        "title": "Lost in Backpropagation: The LM Head is a Gradient Bottleneck | Researchers may have found a fundamental inefficiency baked into every major LLM",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsoio2/lost_in_backpropagation_the_lm_head_is_a_gradient/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T14:16:17+00:00"
+        "title": "\u201cI am a coffee maker and just became conscious help\u201d",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsslxl/i_am_a_coffee_maker_and_just_became_conscious_help/",
+        "image": "https://preview.redd.it/ehrsk8a4duog1.png?width=640&crop=smart&auto=webp&s=60e975d20ba002cbfd96f408169dd22a9208a7d8",
+        "published": "2026-03-13T16:48:03+00:00"
     },
     {
-        "title": "Can LLMs Be Computers? | Percepta",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs1p5t/can_llms_be_computers_percepta/",
-        "image": "https://external-preview.redd.it/OekFAn6SvisM-7Rc0qFYZLKs1nfQY0kSWgzYvEb8uCo.png?width=640&crop=smart&auto=webp&s=c8232136d0079315275f4f1c58609375c6891f0d",
-        "published": "2026-03-12T20:10:44+00:00"
-    },
-    {
-        "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsps2t/best_way_to_monetize_invention_machine_is_not_to/",
-        "image": "https://preview.redd.it/04qc7kzbutog1.png?width=140&height=60&auto=webp&s=57b5d96fdc3f920350a418b6cc77d852d9f857e8",
-        "published": "2026-03-13T15:03:55+00:00"
+        "title": "Mathematics is undergoing the biggest change in its history",
+        "link": "https://www.reddit.com/r/singularity/comments/1rspuu0/mathematics_is_undergoing_the_biggest_change_in/",
+        "image": "https://external-preview.redd.it/VJuf5kXaagUMiaWYNX_7izJxW48WdP-MeZTPLclWC6w.jpeg?width=640&crop=smart&auto=webp&s=f5d0ef51085fba652840801fb2f37ff8d66f1d26",
+        "published": "2026-03-13T15:06:54+00:00"
     },
     {
         "title": "Claude with FFmpeg and Python is insane. This is its interpretation on what it feels like to live through the singularity.",
