@@ -1,11 +1,5 @@
 [
     {
-        "title": "SAM ALTMAN: \u201cWe see a future where intelligence is a utility, like electricity or water, and people buy it from us on a meter.\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1rro8ej/sam_altman_we_see_a_future_where_intelligence_is/",
-        "image": "https://external-preview.redd.it/ZjAwN3E1MDFvbG9nMe92PvVv6iFLEwTzDR72rpRPm34qVtMh9ERMCW0Y5Qgn.png?width=640&crop=smart&auto=webp&s=1af585d26be200c6d2b17100d3624d7ddd1c1e92",
-        "published": "2026-03-12T11:31:00+00:00"
-    },
-    {
         "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
         "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
         "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
@@ -48,6 +42,18 @@
         "published": "2026-03-12T20:30:45+00:00"
     },
     {
+        "title": "What AI coding feels like in 2026 trying to babysit 8 agents into writing something you don\u2019t understand.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rskbbi/what_ai_coding_feels_like_in_2026_trying_to/",
+        "image": "https://external-preview.redd.it/MTY4aGw0NGJvc29nMdYhAKziBwQntF37bJaD62SwAoX5qZ09wRtU_s2ybaIW.png?width=640&crop=smart&auto=webp&s=3d3a45e94d63e598e11aef6652172e0c25e43de0",
+        "published": "2026-03-13T11:04:41+00:00"
+    },
+    {
+        "title": "will Chipotle be the first to AGI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rslhn1/will_chipotle_be_the_first_to_agi/",
+        "image": "https://preview.redd.it/s40jexr6zsog1.jpeg?width=640&crop=smart&auto=webp&s=329f9a62b291f9b6c7f1d675ceb6cf9e8855ff4b",
+        "published": "2026-03-13T12:05:41+00:00"
+    },
+    {
         "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
         "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
         "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
@@ -78,15 +84,9 @@
         "published": "2026-03-12T20:10:44+00:00"
     },
     {
-        "title": "Meituan open sources LongCat-Image-Edit-Turbo, a distilled image editing model that hits open source SOTA in only 8 inference steps",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsjmr9/meituan_open_sources_longcatimageeditturbo_a/",
-        "image": "https://preview.redd.it/inbne327hsog1.jpg?width=140&height=39&auto=webp&s=338dbec49244af5b75a36d9ef73761d62647ccf7",
-        "published": "2026-03-13T10:26:26+00:00"
-    },
-    {
-        "title": "Unveiling the first reference architecture for quantum-centric supercomputing",
-        "link": "https://www.reddit.com/r/singularity/comments/1rronh3/unveiling_the_first_reference_architecture_for/",
-        "image": "https://external-preview.redd.it/JMqgDgsvqfrEBYPa6nQoKJ2WXHkaljOs57s5Vm786_E.jpeg?width=640&crop=smart&auto=webp&s=a1b77292b60329df23994b5f3b2cf8176ccba893",
-        "published": "2026-03-12T11:52:27+00:00"
+        "title": "This robot prints itself to grow and reach tight spaces!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsky4n/this_robot_prints_itself_to_grow_and_reach_tight/",
+        "image": "https://external-preview.redd.it/kda9d1XV2wu0QpEIyI8zrFDiWkXrT3rd_IVsWA3lnaI.png?width=640&crop=smart&auto=webp&s=d6a87bf798543795b8567a59224e1414a8fbaa0f",
+        "published": "2026-03-13T11:38:34+00:00"
     }
 ]
