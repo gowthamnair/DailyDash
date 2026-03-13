@@ -12,16 +12,16 @@
         "published": "2026-03-12T20:12:43+00:00"
     },
     {
-        "title": "What motivates Chinese open source developers?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrrvdp/what_motivates_chinese_open_source_developers/",
-        "image": "https://external-preview.redd.it/OWIxa2piazNobW9nMcFt8gWFJIAKFa_UlP4P9Rmmrl371m9PFsrN-m15HaSO.png?width=640&crop=smart&auto=webp&s=31d6364d7ba1a6aa4381520c9edfa869684ffb1e",
-        "published": "2026-03-12T14:13:34+00:00"
-    },
-    {
         "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
         "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
         "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
         "published": "2026-03-12T19:21:37+00:00"
+    },
+    {
+        "title": "What motivates Chinese open source developers?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrrvdp/what_motivates_chinese_open_source_developers/",
+        "image": "https://external-preview.redd.it/OWIxa2piazNobW9nMcFt8gWFJIAKFa_UlP4P9Rmmrl371m9PFsrN-m15HaSO.png?width=640&crop=smart&auto=webp&s=31d6364d7ba1a6aa4381520c9edfa869684ffb1e",
+        "published": "2026-03-12T14:13:34+00:00"
     },
     {
         "title": "Google Maps adds Gemini AI integration and new features",
@@ -48,6 +48,12 @@
         "published": "2026-03-12T20:30:45+00:00"
     },
     {
+        "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
+        "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
+        "published": "2026-03-13T00:04:47+00:00"
+    },
+    {
         "title": "Autonomous company frameworks are gaining traction",
         "link": "https://www.reddit.com/r/singularity/comments/1rrqpl8/autonomous_company_frameworks_are_gaining_traction/",
         "image": "https://preview.redd.it/u1zdaeb08mog1.png?width=140&height=139&auto=webp&s=41f5a91e7f8863bb96a208e5509c617d84f2fd8b",
@@ -58,12 +64,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rrt037/main_takeaways_as_of_february_grok_and_claude/",
         "image": "https://preview.redd.it/l81be48yomog1.png?width=640&crop=smart&auto=webp&s=8c4af6ce54b0355425759d15158011d93e2e1119",
         "published": "2026-03-12T14:57:27+00:00"
-    },
-    {
-        "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
-        "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
-        "published": "2026-03-13T00:04:47+00:00"
     },
     {
         "title": "\"Fully functional hair follicle organ regeneration using organ-inductive potential stem cells with an accessory mesenchymal cell population in an in vitro culture system\"",
@@ -78,15 +78,15 @@
         "published": "2026-03-12T20:10:44+00:00"
     },
     {
+        "title": "Meituan open sources LongCat-Image-Edit-Turbo, a distilled image editing model that hits open source SOTA in only 8 inference steps",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsjmr9/meituan_open_sources_longcatimageeditturbo_a/",
+        "image": "https://preview.redd.it/inbne327hsog1.jpg?width=140&height=39&auto=webp&s=338dbec49244af5b75a36d9ef73761d62647ccf7",
+        "published": "2026-03-13T10:26:26+00:00"
+    },
+    {
         "title": "Unveiling the first reference architecture for quantum-centric supercomputing",
         "link": "https://www.reddit.com/r/singularity/comments/1rronh3/unveiling_the_first_reference_architecture_for/",
         "image": "https://external-preview.redd.it/JMqgDgsvqfrEBYPa6nQoKJ2WXHkaljOs57s5Vm786_E.jpeg?width=640&crop=smart&auto=webp&s=a1b77292b60329df23994b5f3b2cf8176ccba893",
         "published": "2026-03-12T11:52:27+00:00"
-    },
-    {
-        "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
-        "link": "https://www.reddit.com/r/singularity/comments/1rse5it/y_combinatorbacked_random_labs_launches_slate_v1/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T04:54:59+00:00"
     }
 ]
