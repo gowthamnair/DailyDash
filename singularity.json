@@ -24,12 +24,6 @@
         "published": "2026-03-12T19:21:37+00:00"
     },
     {
-        "title": "Sad to see this",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrmt1f/sad_to_see_this/",
-        "image": "https://preview.redd.it/xe0o4dk8alog1.jpeg?width=640&crop=smart&auto=webp&s=da204a8158655a013f213cbfc9ad4db7f3982fef",
-        "published": "2026-03-12T10:13:11+00:00"
-    },
-    {
         "title": "Google Maps adds Gemini AI integration and new features",
         "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
         "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rronh3/unveiling_the_first_reference_architecture_for/",
         "image": "https://external-preview.redd.it/JMqgDgsvqfrEBYPa6nQoKJ2WXHkaljOs57s5Vm786_E.jpeg?width=640&crop=smart&auto=webp&s=a1b77292b60329df23994b5f3b2cf8176ccba893",
         "published": "2026-03-12T11:52:27+00:00"
+    },
+    {
+        "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1rse5it/y_combinatorbacked_random_labs_launches_slate_v1/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T04:54:59+00:00"
     }
 ]
