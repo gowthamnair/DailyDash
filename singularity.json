@@ -30,16 +30,16 @@
         "published": "2026-03-12T14:58:22+00:00"
     },
     {
-        "title": "Data centers powered by brain cells",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
-        "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
-        "published": "2026-03-12T16:37:09+00:00"
-    },
-    {
         "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
         "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
         "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
         "published": "2026-03-12T19:21:37+00:00"
+    },
+    {
+        "title": "Data centers powered by brain cells",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrvpz5/data_centers_powered_by_brain_cells/",
+        "image": "https://preview.redd.it/z6prgg7g6nog1.png?width=640&crop=smart&auto=webp&s=fedd26a6c4784ce9f9b033a35f48c831bd9b0868",
+        "published": "2026-03-12T16:37:09+00:00"
     },
     {
         "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
@@ -66,27 +66,27 @@
         "published": "2026-03-12T06:17:58+00:00"
     },
     {
-        "title": "Main takeaways: \u2192 As of February, Grok and Claude surpassed DeepSeek, taking 3rd and 4th place respectively. \u2192 Claude crossed the 3% mark for the first time in February. \u2192 Gemini is approaching a quarter of the total share. March will worse for OAI due to DoW revolt.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrt037/main_takeaways_as_of_february_grok_and_claude/",
-        "image": "https://preview.redd.it/l81be48yomog1.png?width=640&crop=smart&auto=webp&s=8c4af6ce54b0355425759d15158011d93e2e1119",
-        "published": "2026-03-12T14:57:27+00:00"
-    },
-    {
         "title": "Claude can now create interactive visualizations in chat responses",
         "link": "https://www.reddit.com/r/singularity/comments/1rs29ip/claude_can_now_create_interactive_visualizations/",
         "image": "https://external-preview.redd.it/Xd-QWkNnl7Pj3329Z_d413bemFxoBTCIbqpD17v9cno.jpeg?width=320&crop=smart&auto=webp&s=d4ba1ae009308682fcd51ff5246f101d29c90c08",
         "published": "2026-03-12T20:30:45+00:00"
     },
     {
-        "title": "Gemma's emotional breakdowns under repeated rejection",
-        "link": "https://www.reddit.com/r/singularity/comments/1rranbf/gemmas_emotional_breakdowns_under_repeated/",
-        "image": "https://external-preview.redd.it/Q96vbqzWQQ5NqNqbXjycLzahhjLLxeNzfxqLxvyP6zg.png?width=640&crop=smart&auto=webp&s=eca4ece5d44b1aaa5de47224b175baa2a55d5b74",
-        "published": "2026-03-11T23:43:06+00:00"
+        "title": "Main takeaways: \u2192 As of February, Grok and Claude surpassed DeepSeek, taking 3rd and 4th place respectively. \u2192 Claude crossed the 3% mark for the first time in February. \u2192 Gemini is approaching a quarter of the total share. March will worse for OAI due to DoW revolt.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrt037/main_takeaways_as_of_february_grok_and_claude/",
+        "image": "https://preview.redd.it/l81be48yomog1.png?width=640&crop=smart&auto=webp&s=8c4af6ce54b0355425759d15158011d93e2e1119",
+        "published": "2026-03-12T14:57:27+00:00"
     },
     {
         "title": "Autonomous company frameworks are gaining traction",
         "link": "https://www.reddit.com/r/singularity/comments/1rrqpl8/autonomous_company_frameworks_are_gaining_traction/",
         "image": "https://preview.redd.it/u1zdaeb08mog1.png?width=140&height=139&auto=webp&s=41f5a91e7f8863bb96a208e5509c617d84f2fd8b",
         "published": "2026-03-12T13:26:34+00:00"
+    },
+    {
+        "title": "Sam Altman: \u201cWe are training right now on the first site in Abilene what I think will be the best model in the world, hopefully by a lot\u201d [12:28, brief mention]",
+        "link": "https://www.reddit.com/r/singularity/comments/1rrj9k2/sam_altman_we_are_training_right_now_on_the_first/",
+        "image": "https://external-preview.redd.it/cRNj-DN_GQBmBLwNrA1RmmCuqbgclBK5Fb_vK9akjj4.jpeg?width=320&crop=smart&auto=webp&s=0482cdc60a68e9b2cafca0ef140c751c0b2ac1d9",
+        "published": "2026-03-12T06:30:04+00:00"
     }
 ]

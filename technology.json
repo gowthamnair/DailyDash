@@ -1,11 +1,5 @@
 [
     {
-        "title": "1 billion identity records exposed in ID verification data leak",
-        "link": "https://www.reddit.com/r/technology/comments/1rrc1ny/1_billion_identity_records_exposed_in_id/",
-        "image": "https://external-preview.redd.it/jVcmf7UQ9W0W8gnKkOMzG7j3_ufDMMtjUx-llle31fg.jpeg?width=640&crop=smart&auto=webp&s=f0d6d7c64c1064c2b9ba2acf1e12cf50306cb45f",
-        "published": "2026-03-12T00:39:42+00:00"
-    },
-    {
         "title": "Palantir CEO Makes Shocking Confession on Disrupting Democratic Power",
         "link": "https://www.reddit.com/r/technology/comments/1rs00dw/palantir_ceo_makes_shocking_confession_on/",
         "image": "https://external-preview.redd.it/YROy8hOCsgTvHIbJQ2W9zgj61O7y6TJJIegKhHwa8qQ.jpeg?width=640&crop=smart&auto=webp&s=276dfe5f9b508b06e0d8dc513ed6b2cdfe67b6c2",
@@ -42,6 +36,18 @@
         "published": "2026-03-12T14:54:46+00:00"
     },
     {
+        "title": "Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions",
+        "link": "https://www.reddit.com/r/technology/comments/1rrzhv0/amazon_employees_say_ai_is_just_increasing/",
+        "image": "https://external-preview.redd.it/LCdq2m_HrHMOdh_VBIF9TR8Uq7G9SPMsf2GMp67N_x0.jpeg?width=640&crop=smart&auto=webp&s=e064e83f6af2fb61c56ea33c5b6dbc1326216567",
+        "published": "2026-03-12T18:51:39+00:00"
+    },
+    {
+        "title": "Tech billionaires reportedly plotting $500M fund to reshape California politics",
+        "link": "https://www.reddit.com/r/technology/comments/1rs5fsk/tech_billionaires_reportedly_plotting_500m_fund/",
+        "image": "https://external-preview.redd.it/n2YVHnyHHt2iwrN_8t6WyjPv8T14hDcyJG-SOyCdM-Y.jpeg?width=640&crop=smart&auto=webp&s=c573a20e9d6d5d12e1995f08cc7ad80084167f82",
+        "published": "2026-03-12T22:28:21+00:00"
+    },
+    {
         "title": "\u2018Devastating blow\u2019: Atlassian lays off 1,600 workers ahead of AI push",
         "link": "https://www.reddit.com/r/technology/comments/1rrnt9j/devastating_blow_atlassian_lays_off_1600_workers/",
         "image": "https://external-preview.redd.it/II24XAcmjLV7zkOCHNPcfU2UT204t3fi78E3GKZeCE0.jpeg?width=640&crop=smart&auto=webp&s=b28d9b59cda0a185af2ba5649f76ee7f05a4dfb0",
@@ -52,12 +58,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1rrfr4d/valve_says_almost_6000_games_made_over_100k_on/",
         "image": "https://external-preview.redd.it/88xm7BrOkE_JOEJ_oIEAQbq_u8FL64iXvpKQcNE2uX0.jpeg?width=640&crop=smart&auto=webp&s=fabdcf8ce7c5b0549761a9da70a1d0a3fa67dc8b",
         "published": "2026-03-12T03:23:01+00:00"
-    },
-    {
-        "title": "Amazon Employees Say AI Is Just Increasing Workload. A New Study Confirms Their Suspicions",
-        "link": "https://www.reddit.com/r/technology/comments/1rrzhv0/amazon_employees_say_ai_is_just_increasing/",
-        "image": "https://external-preview.redd.it/LCdq2m_HrHMOdh_VBIF9TR8Uq7G9SPMsf2GMp67N_x0.jpeg?width=640&crop=smart&auto=webp&s=e064e83f6af2fb61c56ea33c5b6dbc1326216567",
-        "published": "2026-03-12T18:51:39+00:00"
     },
     {
         "title": "Apple's $599 MacBook Neo Shocks PC Industry Leaders",
@@ -84,9 +84,9 @@
         "published": "2026-03-12T15:03:56+00:00"
     },
     {
-        "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI \"Expert Review\" Feature",
-        "link": "https://www.reddit.com/r/technology/comments/1rrsoks/grammarly_is_facing_a_class_action_lawsuit_over/",
-        "image": "https://external-preview.redd.it/RAGg3fDZhRyFP7LiT56ErXz4873g5zMf1Selg_CHF5c.jpeg?width=640&crop=smart&auto=webp&s=11173640b0e8352a469b88889e8e2bc41db64daf",
-        "published": "2026-03-12T14:44:54+00:00"
+        "title": "'AI Is African Intelligence': The Workers Who Train AI Are Fighting Back",
+        "link": "https://www.reddit.com/r/technology/comments/1rrtse6/ai_is_african_intelligence_the_workers_who_train/",
+        "image": "https://external-preview.redd.it/CAIlXl5jI5y9BM67bOqO0SgqHkznhVTBnz_Bgq4y1IY.jpeg?width=640&crop=smart&auto=webp&s=745dc8f50fdb93f3fbe934b062951647fd7f8d7a",
+        "published": "2026-03-12T15:26:43+00:00"
     }
 ]
