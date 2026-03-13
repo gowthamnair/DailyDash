@@ -12,10 +12,10 @@
         "published": "2026-03-13T11:04:41+00:00"
     },
     {
-        "title": "Gemini\u2019s task automation is here and it\u2019s wild | The Verge",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
-        "image": "https://external-preview.redd.it/pw-SYgKm5TFAO6jYFkWu_REyXr4WZtU2tLZJmxIOX98.jpeg?width=640&crop=smart&auto=webp&s=19493bb85205b55e47b4dff6b065531fbab0bbae",
-        "published": "2026-03-12T20:12:43+00:00"
+        "title": "\u201cI am a coffee maker and just became conscious help\u201d",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsslxl/i_am_a_coffee_maker_and_just_became_conscious_help/",
+        "image": "https://preview.redd.it/ehrsk8a4duog1.png?width=640&crop=smart&auto=webp&s=60e975d20ba002cbfd96f408169dd22a9208a7d8",
+        "published": "2026-03-13T16:48:03+00:00"
     },
     {
         "title": "Claude can now create interactive visualizations in chat responses",
@@ -24,10 +24,10 @@
         "published": "2026-03-12T20:30:45+00:00"
     },
     {
-        "title": "\u201cI am a coffee maker and just became conscious help\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsslxl/i_am_a_coffee_maker_and_just_became_conscious_help/",
-        "image": "https://preview.redd.it/ehrsk8a4duog1.png?width=640&crop=smart&auto=webp&s=60e975d20ba002cbfd96f408169dd22a9208a7d8",
-        "published": "2026-03-13T16:48:03+00:00"
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T18:28:08+00:00"
     },
     {
         "title": "Lost in Backpropagation: The LM Head is a Gradient Bottleneck | Researchers may have found a fundamental inefficiency baked into every major LLM",
@@ -42,22 +42,16 @@
         "published": "2026-03-13T12:38:00+00:00"
     },
     {
-        "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
-        "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
-        "published": "2026-03-13T00:04:47+00:00"
-    },
-    {
         "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
         "link": "https://www.reddit.com/r/singularity/comments/1rsps2t/best_way_to_monetize_invention_machine_is_not_to/",
         "image": "https://preview.redd.it/04qc7kzbutog1.png?width=140&height=60&auto=webp&s=57b5d96fdc3f920350a418b6cc77d852d9f857e8",
         "published": "2026-03-13T15:03:55+00:00"
     },
     {
-        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T18:28:08+00:00"
+        "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
+        "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
+        "published": "2026-03-13T00:04:47+00:00"
     },
     {
         "title": "Meituan open sources LongCat-Image-Edit-Turbo, a distilled image editing model that hits open source SOTA in only 8 inference steps",
@@ -66,16 +60,16 @@
         "published": "2026-03-13T10:26:26+00:00"
     },
     {
-        "title": "\"Fully functional hair follicle organ regeneration using organ-inductive potential stem cells with an accessory mesenchymal cell population in an in vitro culture system\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs9xg2/fully_functional_hair_follicle_organ_regeneration/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T01:32:56+00:00"
-    },
-    {
         "title": "I thought Gemini was supposed to be the long context king?",
         "link": "https://www.reddit.com/r/singularity/comments/1rsv2rk/i_thought_gemini_was_supposed_to_be_the_long/",
         "image": "https://preview.redd.it/69ufqe72tuog1.png?width=640&crop=smart&auto=webp&s=a48004d81de37a9ec8cd30a3be423c415fa70bff",
         "published": "2026-03-13T18:14:46+00:00"
+    },
+    {
+        "title": "\"Fully functional hair follicle organ regeneration using organ-inductive potential stem cells with an accessory mesenchymal cell population in an in vitro culture system\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs9xg2/fully_functional_hair_follicle_organ_regeneration/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T01:32:56+00:00"
     },
     {
         "title": "Mathematics is undergoing the biggest change in its history",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rstvqa/elons_xai_loses_bid_to_halt_california_ai_data/",
         "image": "https://external-preview.redd.it/lfjVf7LDsUaf0_xQMjIHx_Iwe6Hug1LmDfS6c0Jnnjo.jpeg?width=640&crop=smart&auto=webp&s=e985efb682e9eb3d1777cdf683ad3f8cd9d42870",
         "published": "2026-03-13T17:32:43+00:00"
+    },
+    {
+        "title": "Claude with FFmpeg and Python is insane. This is its interpretation on what it feels like to live through the singularity.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsnj87/claude_with_ffmpeg_and_python_is_insane_this_is/",
+        "image": "https://external-preview.redd.it/egISgyn1LLOc4ZBHbPvuy697DzVTpX70vpX_PRx_h00.jpeg?width=320&crop=smart&auto=webp&s=1dcf2e605ee066eb7a4f683d049c5c5aebb1dd62",
+        "published": "2026-03-13T13:36:56+00:00"
     }
 ]
