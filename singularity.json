@@ -12,12 +12,6 @@
         "published": "2026-03-12T19:21:37+00:00"
     },
     {
-        "title": "What motivates Chinese open source developers?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rrrvdp/what_motivates_chinese_open_source_developers/",
-        "image": "https://external-preview.redd.it/OWIxa2piazNobW9nMcFt8gWFJIAKFa_UlP4P9Rmmrl371m9PFsrN-m15HaSO.png?width=640&crop=smart&auto=webp&s=31d6364d7ba1a6aa4381520c9edfa869684ffb1e",
-        "published": "2026-03-12T14:13:34+00:00"
-    },
-    {
         "title": "Google Maps adds Gemini AI integration and new features",
         "link": "https://www.reddit.com/r/singularity/comments/1rrt0wf/google_maps_adds_gemini_ai_integration_and_new/",
         "image": "https://external-preview.redd.it/d2Q3MWxoejNwbW9nMTZsPvQsvHD9GZJngE2stftmUCLSFwf-UJhoMEONkYoX.png?width=640&crop=smart&auto=webp&s=0e55f15a47da9bbc75c0b3e5a3c5e6ff12c5b92c",
@@ -34,6 +28,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rskbbi/what_ai_coding_feels_like_in_2026_trying_to/",
         "image": "https://external-preview.redd.it/MTY4aGw0NGJvc29nMdYhAKziBwQntF37bJaD62SwAoX5qZ09wRtU_s2ybaIW.png?width=640&crop=smart&auto=webp&s=3d3a45e94d63e598e11aef6652172e0c25e43de0",
         "published": "2026-03-13T11:04:41+00:00"
+    },
+    {
+        "title": "Palantir CEO Boasts That AI Technology Will Lessen The Power Of Highly Educated, Mostly Democrat Voters",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsnwhl/palantir_ceo_boasts_that_ai_technology_will/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T13:52:07+00:00"
     },
     {
         "title": "Grok 4.20 Beta 0309 (Reasoning) Artificial Analysis score",
@@ -72,21 +72,21 @@
         "published": "2026-03-13T10:26:26+00:00"
     },
     {
-        "title": "Can LLMs Be Computers? | Percepta",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs1p5t/can_llms_be_computers_percepta/",
-        "image": "https://external-preview.redd.it/OekFAn6SvisM-7Rc0qFYZLKs1nfQY0kSWgzYvEb8uCo.png?width=640&crop=smart&auto=webp&s=c8232136d0079315275f4f1c58609375c6891f0d",
-        "published": "2026-03-12T20:10:44+00:00"
-    },
-    {
         "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
         "link": "https://www.reddit.com/r/singularity/comments/1rsm67v/chinas_bytedance_outsmarts_us_sanctions_with/",
         "image": "https://external-preview.redd.it/259vsbZYEORne9FzVeF8CdF_nCedDaLmxA8q3fbAzbI.jpeg?width=640&crop=smart&auto=webp&s=8fba73bec31b2a584453b6baef2e1e6e93362d6d",
         "published": "2026-03-13T12:38:00+00:00"
     },
     {
-        "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
-        "link": "https://www.reddit.com/r/singularity/comments/1rse5it/y_combinatorbacked_random_labs_launches_slate_v1/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T04:54:59+00:00"
+        "title": "Can LLMs Be Computers? | Percepta",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs1p5t/can_llms_be_computers_percepta/",
+        "image": "https://external-preview.redd.it/OekFAn6SvisM-7Rc0qFYZLKs1nfQY0kSWgzYvEb8uCo.png?width=640&crop=smart&auto=webp&s=c8232136d0079315275f4f1c58609375c6891f0d",
+        "published": "2026-03-12T20:10:44+00:00"
+    },
+    {
+        "title": "Claude with FFmpeg and Python is insane. This is its interpretation on what it feels like to live through the singularity.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsnj87/claude_with_ffmpeg_and_python_is_insane_this_is/",
+        "image": "https://external-preview.redd.it/egISgyn1LLOc4ZBHbPvuy697DzVTpX70vpX_PRx_h00.jpeg?width=320&crop=smart&auto=webp&s=1dcf2e605ee066eb7a4f683d049c5c5aebb1dd62",
+        "published": "2026-03-13T13:36:56+00:00"
     }
 ]
