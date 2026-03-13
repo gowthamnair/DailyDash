@@ -18,12 +18,6 @@
         "published": "2026-03-12T20:12:43+00:00"
     },
     {
-        "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
-        "image": "https://external-preview.redd.it/YW9tcmN2dzIwb29nMVV-rXM_7MiakKD9v7mBB19Rcv4hv1NoMYzh67IV1O6Q.png?width=640&crop=smart&auto=webp&s=db99ac336ac3bfafe2077fde49e86e5e5bc54195",
-        "published": "2026-03-12T19:21:37+00:00"
-    },
-    {
         "title": "Claude can now create interactive visualizations in chat responses",
         "link": "https://www.reddit.com/r/singularity/comments/1rs29ip/claude_can_now_create_interactive_visualizations/",
         "image": "https://external-preview.redd.it/Xd-QWkNnl7Pj3329Z_d413bemFxoBTCIbqpD17v9cno.jpeg?width=320&crop=smart&auto=webp&s=d4ba1ae009308682fcd51ff5246f101d29c90c08",
@@ -42,22 +36,28 @@
         "published": "2026-03-13T14:16:17+00:00"
     },
     {
-        "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
-        "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
-        "published": "2026-03-13T00:04:47+00:00"
-    },
-    {
         "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
         "link": "https://www.reddit.com/r/singularity/comments/1rsm67v/chinas_bytedance_outsmarts_us_sanctions_with/",
         "image": "https://external-preview.redd.it/259vsbZYEORne9FzVeF8CdF_nCedDaLmxA8q3fbAzbI.jpeg?width=640&crop=smart&auto=webp&s=8fba73bec31b2a584453b6baef2e1e6e93362d6d",
         "published": "2026-03-13T12:38:00+00:00"
     },
     {
+        "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
+        "link": "https://www.reddit.com/r/singularity/comments/1rs7vlu/meta_delays_rollout_of_new_ai_model_after/",
+        "image": "https://external-preview.redd.it/J1Xv4qE1805AZvFSPiEOIifEiBcg2nuGT9YtoLQFtcY.jpeg?width=640&crop=smart&auto=webp&s=34c79cc05c0a86ff98a05e606e6f835e641c6d7c",
+        "published": "2026-03-13T00:04:47+00:00"
+    },
+    {
         "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
         "link": "https://www.reddit.com/r/singularity/comments/1rsps2t/best_way_to_monetize_invention_machine_is_not_to/",
         "image": "https://preview.redd.it/04qc7kzbutog1.png?width=140&height=60&auto=webp&s=57b5d96fdc3f920350a418b6cc77d852d9f857e8",
         "published": "2026-03-13T15:03:55+00:00"
+    },
+    {
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T18:28:08+00:00"
     },
     {
         "title": "Meituan open sources LongCat-Image-Edit-Turbo, a distilled image editing model that hits open source SOTA in only 8 inference steps",
@@ -72,21 +72,21 @@
         "published": "2026-03-13T01:32:56+00:00"
     },
     {
+        "title": "I thought Gemini was supposed to be the long context king?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsv2rk/i_thought_gemini_was_supposed_to_be_the_long/",
+        "image": "https://preview.redd.it/69ufqe72tuog1.png?width=640&crop=smart&auto=webp&s=a48004d81de37a9ec8cd30a3be423c415fa70bff",
+        "published": "2026-03-13T18:14:46+00:00"
+    },
+    {
         "title": "Mathematics is undergoing the biggest change in its history",
         "link": "https://www.reddit.com/r/singularity/comments/1rspuu0/mathematics_is_undergoing_the_biggest_change_in/",
         "image": "https://external-preview.redd.it/VJuf5kXaagUMiaWYNX_7izJxW48WdP-MeZTPLclWC6w.jpeg?width=640&crop=smart&auto=webp&s=f5d0ef51085fba652840801fb2f37ff8d66f1d26",
         "published": "2026-03-13T15:06:54+00:00"
     },
     {
-        "title": "Claude with FFmpeg and Python is insane. This is its interpretation on what it feels like to live through the singularity.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsnj87/claude_with_ffmpeg_and_python_is_insane_this_is/",
-        "image": "https://external-preview.redd.it/egISgyn1LLOc4ZBHbPvuy697DzVTpX70vpX_PRx_h00.jpeg?width=320&crop=smart&auto=webp&s=1dcf2e605ee066eb7a4f683d049c5c5aebb1dd62",
-        "published": "2026-03-13T13:36:56+00:00"
-    },
-    {
-        "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
-        "link": "https://www.reddit.com/r/singularity/comments/1rse5it/y_combinatorbacked_random_labs_launches_slate_v1/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T04:54:59+00:00"
+        "title": "Elon\u2019s xAI loses bid to halt California AI data disclosure law",
+        "link": "https://www.reddit.com/r/singularity/comments/1rstvqa/elons_xai_loses_bid_to_halt_california_ai_data/",
+        "image": "https://external-preview.redd.it/lfjVf7LDsUaf0_xQMjIHx_Iwe6Hug1LmDfS6c0Jnnjo.jpeg?width=640&crop=smart&auto=webp&s=e985efb682e9eb3d1777cdf683ad3f8cd9d42870",
+        "published": "2026-03-13T17:32:43+00:00"
     }
 ]
