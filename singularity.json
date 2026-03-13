@@ -18,12 +18,6 @@
         "published": "2026-03-13T16:48:03+00:00"
     },
     {
-        "title": "Claude can now create interactive visualizations in chat responses",
-        "link": "https://www.reddit.com/r/singularity/comments/1rs29ip/claude_can_now_create_interactive_visualizations/",
-        "image": "https://external-preview.redd.it/Xd-QWkNnl7Pj3329Z_d413bemFxoBTCIbqpD17v9cno.jpeg?width=320&crop=smart&auto=webp&s=d4ba1ae009308682fcd51ff5246f101d29c90c08",
-        "published": "2026-03-12T20:30:45+00:00"
-    },
-    {
         "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
         "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -34,6 +28,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rsoio2/lost_in_backpropagation_the_lm_head_is_a_gradient/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-13T14:16:17+00:00"
+    },
+    {
+        "title": "I thought Gemini was supposed to be the long context king?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsv2rk/i_thought_gemini_was_supposed_to_be_the_long/",
+        "image": "https://preview.redd.it/69ufqe72tuog1.png?width=640&crop=smart&auto=webp&s=a48004d81de37a9ec8cd30a3be423c415fa70bff",
+        "published": "2026-03-13T18:14:46+00:00"
     },
     {
         "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
@@ -60,12 +60,6 @@
         "published": "2026-03-13T10:26:26+00:00"
     },
     {
-        "title": "I thought Gemini was supposed to be the long context king?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsv2rk/i_thought_gemini_was_supposed_to_be_the_long/",
-        "image": "https://preview.redd.it/69ufqe72tuog1.png?width=640&crop=smart&auto=webp&s=a48004d81de37a9ec8cd30a3be423c415fa70bff",
-        "published": "2026-03-13T18:14:46+00:00"
-    },
-    {
         "title": "\"Fully functional hair follicle organ regeneration using organ-inductive potential stem cells with an accessory mesenchymal cell population in an in vitro culture system\"",
         "link": "https://www.reddit.com/r/singularity/comments/1rs9xg2/fully_functional_hair_follicle_organ_regeneration/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rsnj87/claude_with_ffmpeg_and_python_is_insane_this_is/",
         "image": "https://external-preview.redd.it/egISgyn1LLOc4ZBHbPvuy697DzVTpX70vpX_PRx_h00.jpeg?width=320&crop=smart&auto=webp&s=1dcf2e605ee066eb7a4f683d049c5c5aebb1dd62",
         "published": "2026-03-13T13:36:56+00:00"
+    },
+    {
+        "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1rse5it/y_combinatorbacked_random_labs_launches_slate_v1/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T04:54:59+00:00"
     }
 ]
