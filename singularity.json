@@ -1,15 +1,15 @@
 [
     {
-        "title": "Walmart packages airdropped like ammo crates over 'Nam",
-        "link": "https://www.reddit.com/r/singularity/comments/1rt6z2x/walmart_packages_airdropped_like_ammo_crates_over/",
-        "image": "https://external-preview.redd.it/7X1Npbr-8AX7BOx-SnWPLLEBG-PGI3FQX62ojclBo1k.png?width=640&crop=smart&auto=webp&s=e90b3a78fe7da78b6a21871b39f462ede64b1b66",
-        "published": "2026-03-14T02:04:14+00:00"
-    },
-    {
         "title": "Photoshop's new AI rotate tool",
         "link": "https://www.reddit.com/r/singularity/comments/1rtafxk/photoshops_new_ai_rotate_tool/",
         "image": "https://external-preview.redd.it/azhhem96cWJ6eG9nMWNYUou0UaaWVFO6aFlX91XGRzfvlpe5Tnnanjpxa6JT.png?width=640&crop=smart&auto=webp&s=edee71f120977d528ec40acc6332dd4af5893e7f",
         "published": "2026-03-14T04:55:19+00:00"
+    },
+    {
+        "title": "Walmart packages airdropped like ammo crates over 'Nam",
+        "link": "https://www.reddit.com/r/singularity/comments/1rt6z2x/walmart_packages_airdropped_like_ammo_crates_over/",
+        "image": "https://external-preview.redd.it/7X1Npbr-8AX7BOx-SnWPLLEBG-PGI3FQX62ojclBo1k.png?width=640&crop=smart&auto=webp&s=e90b3a78fe7da78b6a21871b39f462ede64b1b66",
+        "published": "2026-03-14T02:04:14+00:00"
     },
     {
         "title": "\u201cI am a coffee maker and just became conscious help\u201d",
@@ -42,18 +42,6 @@
         "published": "2026-03-13T21:42:25+00:00"
     },
     {
-        "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsps2t/best_way_to_monetize_invention_machine_is_not_to/",
-        "image": "https://preview.redd.it/04qc7kzbutog1.png?width=140&height=60&auto=webp&s=57b5d96fdc3f920350a418b6cc77d852d9f857e8",
-        "published": "2026-03-13T15:03:55+00:00"
-    },
-    {
-        "title": "Mathematics is undergoing the biggest change in its history",
-        "link": "https://www.reddit.com/r/singularity/comments/1rspuu0/mathematics_is_undergoing_the_biggest_change_in/",
-        "image": "https://external-preview.redd.it/VJuf5kXaagUMiaWYNX_7izJxW48WdP-MeZTPLclWC6w.jpeg?width=640&crop=smart&auto=webp&s=f5d0ef51085fba652840801fb2f37ff8d66f1d26",
-        "published": "2026-03-13T15:06:54+00:00"
-    },
-    {
         "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
         "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
         "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
@@ -66,16 +54,34 @@
         "published": "2026-03-14T00:23:00+00:00"
     },
     {
-        "title": "Even the CTO and VP Engineering layer is automatable",
-        "link": "https://www.reddit.com/r/singularity/comments/1rteiaf/even_the_cto_and_vp_engineering_layer_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T08:55:47+00:00"
+        "title": "autoresearch-webgpu: watch Claude train better language models in your browser",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtl24l/autoresearchwebgpu_watch_claude_train_better/",
+        "image": "https://external-preview.redd.it/irscz1vuA6uZ7RMvv9QqfJWciyDsMPDLabi4xTlyZJo.gif?width=640&crop=smart&s=9ad49bcdc0648d90445bfbd2c29168aed356b076",
+        "published": "2026-03-14T14:37:37+00:00"
     },
     {
         "title": "If coordination gets automated, product leadership disappears too",
         "link": "https://www.reddit.com/r/singularity/comments/1rtjtvd/if_coordination_gets_automated_product_leadership/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-14T13:45:38+00:00"
+    },
+    {
+        "title": "Even the CTO and VP Engineering layer is automatable",
+        "link": "https://www.reddit.com/r/singularity/comments/1rteiaf/even_the_cto_and_vp_engineering_layer_is/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-14T08:55:47+00:00"
+    },
+    {
+        "title": "Is AI really a threat to humans?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtkzak/is_ai_really_a_threat_to_humans/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-14T14:34:17+00:00"
+    },
+    {
+        "title": "ChatGPT has much higher retention than its competitors. Does this mean it will win the consumer market?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtkh5b/chatgpt_has_much_higher_retention_than_its/",
+        "image": "https://preview.redd.it/1koc5afuq0pg1.jpeg?width=640&crop=smart&auto=webp&s=084c9391ac7b7b4d12b39cbdc62a880d22ba1a4d",
+        "published": "2026-03-14T14:13:00+00:00"
     },
     {
         "title": "CEO\u2019s guide to vibecoding",
