@@ -24,6 +24,12 @@
         "published": "2026-03-13T14:24:34+00:00"
     },
     {
+        "title": "Microsoft confirms Windows 11 bug crippling PCs and making drive C inaccessible",
+        "link": "https://www.reddit.com/r/technology/comments/1rtidoc/microsoft_confirms_windows_11_bug_crippling_pcs/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-14T12:38:59+00:00"
+    },
+    {
         "title": "China becomes world's first to mass-produce T1200-grade carbon fiber",
         "link": "https://www.reddit.com/r/technology/comments/1rsu90p/china_becomes_worlds_first_to_massproduce/",
         "image": "https://external-preview.redd.it/sU3yfeZ20eov9UsSbepeF4lgYBczsqhGXnp0nGJW9mQ.jpeg?width=640&crop=smart&auto=webp&s=aa9187b7e18f54a6dddb41560c5a6a6a1c773e23",
@@ -34,12 +40,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1rswi4f/digg_has_shut_down_again/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-13T19:05:49+00:00"
-    },
-    {
-        "title": "Microsoft confirms Windows 11 bug crippling PCs and making drive C inaccessible",
-        "link": "https://www.reddit.com/r/technology/comments/1rtidoc/microsoft_confirms_windows_11_bug_crippling_pcs/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T12:38:59+00:00"
     },
     {
         "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
@@ -72,16 +72,16 @@
         "published": "2026-03-13T18:54:43+00:00"
     },
     {
-        "title": "I Can't Take This Company Seriously: Honda Just Killed Its Only Real EV Project",
-        "link": "https://www.reddit.com/r/technology/comments/1rspwdj/i_cant_take_this_company_seriously_honda_just/",
-        "image": "https://external-preview.redd.it/0aNuQOt3WAKVMfwr-gtxNcmv1g-FCJ147Ra5GsjJ94I.jpeg?width=640&crop=smart&auto=webp&s=c02aab653cb4b93f83e74159a5a3e00cedf0a3b5",
-        "published": "2026-03-13T15:08:30+00:00"
-    },
-    {
         "title": "\u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
         "link": "https://www.reddit.com/r/technology/comments/1rt4noy/not_built_right_the_first_time_musks_xai_is/",
         "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
         "published": "2026-03-14T00:21:35+00:00"
+    },
+    {
+        "title": "I Can't Take This Company Seriously: Honda Just Killed Its Only Real EV Project",
+        "link": "https://www.reddit.com/r/technology/comments/1rspwdj/i_cant_take_this_company_seriously_honda_just/",
+        "image": "https://external-preview.redd.it/0aNuQOt3WAKVMfwr-gtxNcmv1g-FCJ147Ra5GsjJ94I.jpeg?width=640&crop=smart&auto=webp&s=c02aab653cb4b93f83e74159a5a3e00cedf0a3b5",
+        "published": "2026-03-13T15:08:30+00:00"
     },
     {
         "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
