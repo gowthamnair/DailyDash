@@ -60,22 +60,10 @@
         "published": "2026-03-13T15:03:55+00:00"
     },
     {
-        "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsm67v/chinas_bytedance_outsmarts_us_sanctions_with/",
-        "image": "https://external-preview.redd.it/259vsbZYEORne9FzVeF8CdF_nCedDaLmxA8q3fbAzbI.jpeg?width=640&crop=smart&auto=webp&s=8fba73bec31b2a584453b6baef2e1e6e93362d6d",
-        "published": "2026-03-13T12:38:00+00:00"
-    },
-    {
         "title": "Mathematics is undergoing the biggest change in its history",
         "link": "https://www.reddit.com/r/singularity/comments/1rspuu0/mathematics_is_undergoing_the_biggest_change_in/",
         "image": "https://external-preview.redd.it/VJuf5kXaagUMiaWYNX_7izJxW48WdP-MeZTPLclWC6w.jpeg?width=640&crop=smart&auto=webp&s=f5d0ef51085fba652840801fb2f37ff8d66f1d26",
         "published": "2026-03-13T15:06:54+00:00"
-    },
-    {
-        "title": "Claude with FFmpeg and Python is insane. This is its interpretation on what it feels like to live through the singularity.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsnj87/claude_with_ffmpeg_and_python_is_insane_this_is/",
-        "image": "https://external-preview.redd.it/egISgyn1LLOc4ZBHbPvuy697DzVTpX70vpX_PRx_h00.jpeg?width=320&crop=smart&auto=webp&s=1dcf2e605ee066eb7a4f683d049c5c5aebb1dd62",
-        "published": "2026-03-13T13:36:56+00:00"
     },
     {
         "title": "on AI agent to rule them all?",
@@ -84,9 +72,21 @@
         "published": "2026-03-14T00:23:00+00:00"
     },
     {
+        "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
+        "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
+        "published": "2026-03-14T13:05:36+00:00"
+    },
+    {
         "title": "Even the CTO and VP Engineering layer is automatable",
         "link": "https://www.reddit.com/r/singularity/comments/1rteiaf/even_the_cto_and_vp_engineering_layer_is/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-14T08:55:47+00:00"
+    },
+    {
+        "title": "CEO\u2019s guide to vibecoding",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtfhct/ceos_guide_to_vibecoding/",
+        "image": "https://external-preview.redd.it/anB6NGV0emVoem9nMXWqcqUKF8iMgTyaOMussc-_Kky-AUtxlablHhBt3Lg3.png?width=640&crop=smart&auto=webp&s=b8c1b6d90b30b48d3f1b91c97bc653391f6002b5",
+        "published": "2026-03-14T09:58:24+00:00"
     }
 ]
