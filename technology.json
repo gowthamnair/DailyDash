@@ -1,11 +1,5 @@
 [
     {
-        "title": "Instagram to discontinue end-to-end encryption for DMs",
-        "link": "https://www.reddit.com/r/technology/comments/1rsubqz/instagram_to_discontinue_endtoend_encryption_for/",
-        "image": "https://external-preview.redd.it/KrfEkSnRZRtwgQi1--NQj669Eyd1zp6kaCmeKGwNjTI.jpeg?width=640&crop=smart&auto=webp&s=b7a1db08f2afd68f2572fcdb7beeca878e660594",
-        "published": "2026-03-13T17:48:14+00:00"
-    },
-    {
         "title": "Microsoft confirms Windows 11 bug crippling PCs and making drive C inaccessible",
         "link": "https://www.reddit.com/r/technology/comments/1rtidoc/microsoft_confirms_windows_11_bug_crippling_pcs/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -24,10 +18,10 @@
         "published": "2026-03-13T21:47:28+00:00"
     },
     {
-        "title": "China becomes world's first to mass-produce T1200-grade carbon fiber",
-        "link": "https://www.reddit.com/r/technology/comments/1rsu90p/china_becomes_worlds_first_to_massproduce/",
-        "image": "https://external-preview.redd.it/sU3yfeZ20eov9UsSbepeF4lgYBczsqhGXnp0nGJW9mQ.jpeg?width=640&crop=smart&auto=webp&s=aa9187b7e18f54a6dddb41560c5a6a6a1c773e23",
-        "published": "2026-03-13T17:45:36+00:00"
+        "title": "HP's ink-blocking firmware may violate new global sustainability rules",
+        "link": "https://www.reddit.com/r/technology/comments/1rtjllm/hps_inkblocking_firmware_may_violate_new_global/",
+        "image": "https://external-preview.redd.it/P_EPNN6Yon5_GB2NDt8uT8HAPdcx3Zwfcut218NFIwQ.jpeg?width=640&crop=smart&auto=webp&s=eddb97bb7b9cc45ca6b0bcf2198c453d2fbb08c5",
+        "published": "2026-03-14T13:35:35+00:00"
     },
     {
         "title": "Digg has shut down.... Again.",
@@ -36,22 +30,16 @@
         "published": "2026-03-13T19:05:49+00:00"
     },
     {
-        "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
-        "link": "https://www.reddit.com/r/technology/comments/1rt3idi/the_environmental_cost_of_datacentres_is_rising/",
-        "image": "https://external-preview.redd.it/-n1_5gLb1XAqjObR16os8fRz0BNPkRPBD7_yAwZu1-U.jpeg?width=640&crop=smart&auto=webp&s=77869234f2d0d2b236ab7ca6cd7042f4e038a265",
-        "published": "2026-03-13T23:34:00+00:00"
-    },
-    {
-        "title": "HP's ink-blocking firmware may violate new global sustainability rules",
-        "link": "https://www.reddit.com/r/technology/comments/1rtjllm/hps_inkblocking_firmware_may_violate_new_global/",
-        "image": "https://external-preview.redd.it/P_EPNN6Yon5_GB2NDt8uT8HAPdcx3Zwfcut218NFIwQ.jpeg?width=640&crop=smart&auto=webp&s=eddb97bb7b9cc45ca6b0bcf2198c453d2fbb08c5",
-        "published": "2026-03-14T13:35:35+00:00"
-    },
-    {
         "title": "Major investor is 'shocked and sad' that the games industry is 'demonizing' generative AI",
         "link": "https://www.reddit.com/r/technology/comments/1rth3cy/major_investor_is_shocked_and_sad_that_the_games/",
         "image": "https://external-preview.redd.it/ANAEKtJctQOKZvW5Zur_336-uWiCwTcc_u1miZBhUTk.jpeg?width=640&crop=smart&auto=webp&s=f0de5a49a6dd93ae621ed0925908af83081306c1",
         "published": "2026-03-14T11:32:44+00:00"
+    },
+    {
+        "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
+        "link": "https://www.reddit.com/r/technology/comments/1rt3idi/the_environmental_cost_of_datacentres_is_rising/",
+        "image": "https://external-preview.redd.it/-n1_5gLb1XAqjObR16os8fRz0BNPkRPBD7_yAwZu1-U.jpeg?width=640&crop=smart&auto=webp&s=77869234f2d0d2b236ab7ca6cd7042f4e038a265",
+        "published": "2026-03-13T23:34:00+00:00"
     },
     {
         "title": "US Army Awards Anduril Contract Worth as Much as $20 billion",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1rsw6k8/blizzard_vet_rob_pardo_closed_2026s_gdc_keynote/",
         "image": "https://external-preview.redd.it/Uzn3Mfkv_a0rsE39xa4NW08tv17WzL-Tlst1086DBhs.jpeg?width=640&crop=smart&auto=webp&s=2e50b365f8e3b7dbb35f948908fd79dd8ef17e7a",
         "published": "2026-03-13T18:54:43+00:00"
+    },
+    {
+        "title": "Trump Administration Set to Receive $10 Billion Fee for Brokering TikTok Deal",
+        "link": "https://www.reddit.com/r/technology/comments/1rt5gcc/trump_administration_set_to_receive_10_billion/",
+        "image": "https://external-preview.redd.it/I6mt2QQQjhSUIyssYEn8tCbALubz_Itf83lix8OCjyM.jpeg?width=640&crop=smart&auto=webp&s=4c643cf18805623f77d872ca5910b8e78c3b7040",
+        "published": "2026-03-14T00:55:49+00:00"
+    },
+    {
+        "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "link": "https://www.reddit.com/r/technology/comments/1rt4xgr/lawyer_behind_ai_psychosis_cases_warns_of_mass/",
+        "image": "https://external-preview.redd.it/iuCTPAMet2F5cMrVTsul6k7kuTJGqM8wVe2Bv9OaPdQ.jpeg?width=640&crop=smart&auto=webp&s=76d3c3604cb67b5b18ad3fb849520e6e060b42c3",
+        "published": "2026-03-14T00:33:10+00:00"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "title": "Why has the US targeted Iran's Kharg Island?",
-        "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ecce/live/0a54bbc0-1f86-11f1-b048-c9424b2cf5fd.jpg",
-        "published": "Sat, 14 Mar 2026 13:42:48 GMT"
-    },
-    {
         "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
         "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d793/live/0c4b6660-1fac-11f1-b048-c9424b2cf5fd.png",
@@ -16,6 +10,18 @@
         "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/edf4/live/8a4b88f0-1f8a-11f1-9120-a910fc22c6ac.jpg",
         "published": "Sat, 14 Mar 2026 13:27:32 GMT"
+    },
+    {
+        "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+        "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6242/live/c74b5b30-1fcc-11f1-9c85-1d495aee893e.jpg",
+        "published": "Sat, 14 Mar 2026 17:51:28 GMT"
+    },
+    {
+        "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+        "link": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/64c1/live/b9ad4ac0-1fcb-11f1-801d-ed3cff6bf876.jpg",
+        "published": "Sat, 14 Mar 2026 17:57:49 GMT"
     },
     {
         "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
@@ -40,6 +46,12 @@
         "link": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/83db/live/08115180-744a-11f0-a975-cb151ca452f4.jpg",
         "published": "Sat, 14 Mar 2026 04:34:30 GMT"
+    },
+    {
+        "title": "German philosopher and social critic J\u00fcrgen Habermas dies at 96",
+        "link": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8bae/live/b15cff00-1fcb-11f1-9c85-1d495aee893e.png",
+        "published": "Sat, 14 Mar 2026 18:02:15 GMT"
     },
     {
         "title": "LA asks for investigation into 2028 Olympics chief over Epstein ties",
@@ -76,17 +88,5 @@
         "link": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9d56/live/4a63c4b0-1f16-11f1-b77d-b919ce01dc64.jpg",
         "published": "Fri, 13 Mar 2026 21:28:26 GMT"
-    },
-    {
-        "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
-        "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6604/live/d5b552c0-1eff-11f1-b048-c9424b2cf5fd.jpg",
-        "published": "Fri, 13 Mar 2026 16:38:09 GMT"
-    },
-    {
-        "title": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
-        "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg",
-        "published": "Fri, 13 Mar 2026 17:12:12 GMT"
     }
 ]

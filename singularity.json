@@ -12,22 +12,16 @@
         "published": "2026-03-14T02:04:14+00:00"
     },
     {
-        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-13T18:28:08+00:00"
-    },
-    {
         "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
         "link": "https://www.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
         "image": "https://preview.redd.it/gnzx1n4p61pg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cd63860fbb0e7167eeae0e687690af0dafb89236",
         "published": "2026-03-14T15:41:54+00:00"
     },
     {
-        "title": "I thought Gemini was supposed to be the long context king?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsv2rk/i_thought_gemini_was_supposed_to_be_the_long/",
-        "image": "https://preview.redd.it/69ufqe72tuog1.png?width=640&crop=smart&auto=webp&s=a48004d81de37a9ec8cd30a3be423c415fa70bff",
-        "published": "2026-03-13T18:14:46+00:00"
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-13T18:28:08+00:00"
     },
     {
         "title": "Netflix to Pay Up to $600 Million for Ben Affleck\u2019s AI Firm. WHAT?\ud83d\ude32",
@@ -42,28 +36,34 @@
         "published": "2026-03-13T21:42:25+00:00"
     },
     {
-        "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
-        "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
-        "published": "2026-03-14T13:05:36+00:00"
-    },
-    {
         "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
         "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
         "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
         "published": "2026-03-14T15:35:13+00:00"
     },
     {
-        "title": "on AI agent to rule them all?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rt4ovr/on_ai_agent_to_rule_them_all/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T00:23:00+00:00"
+        "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
+        "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
+        "published": "2026-03-14T13:05:36+00:00"
+    },
+    {
+        "title": "Claude Opus 4.6 knows what it doesn't know!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtp9jw/claude_opus_46_knows_what_it_doesnt_know/",
+        "image": "https://preview.redd.it/6p9e89igo1pg1.png?width=320&crop=smart&auto=webp&s=56c66874360e6cbe64acd50dce58e2e664a7585a",
+        "published": "2026-03-14T17:25:13+00:00"
     },
     {
         "title": "Grok 4.20 Multi-Agent Beta burned 333k input tokens on a joke prompt - is this actually how multi-agent AI works right now?",
         "link": "https://www.reddit.com/r/singularity/comments/1rtnkg8/grok_420_multiagent_beta_burned_333k_input_tokens/",
         "image": "https://preview.redd.it/jnruwnncd1pg1.jpeg?width=640&crop=smart&auto=webp&s=32072ffd5cce378862f79dde3dc6440591e137d3",
         "published": "2026-03-14T16:19:09+00:00"
+    },
+    {
+        "title": "on AI agent to rule them all?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rt4ovr/on_ai_agent_to_rule_them_all/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-14T00:23:00+00:00"
     },
     {
         "title": "autoresearch-webgpu: watch Claude train better language models in your browser",
@@ -84,9 +84,9 @@
         "published": "2026-03-14T08:55:47+00:00"
     },
     {
-        "title": "Is AI really a threat to humans?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtkzak/is_ai_really_a_threat_to_humans/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T14:34:17+00:00"
+        "title": "CEO\u2019s guide to vibecoding",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtfhct/ceos_guide_to_vibecoding/",
+        "image": "https://external-preview.redd.it/anB6NGV0emVoem9nMXWqcqUKF8iMgTyaOMussc-_Kky-AUtxlablHhBt3Lg3.png?width=640&crop=smart&auto=webp&s=b8c1b6d90b30b48d3f1b91c97bc653391f6002b5",
+        "published": "2026-03-14T09:58:24+00:00"
     }
 ]
