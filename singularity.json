@@ -12,16 +12,16 @@
         "published": "2026-03-14T02:04:14+00:00"
     },
     {
-        "title": "\u201cI am a coffee maker and just became conscious help\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsslxl/i_am_a_coffee_maker_and_just_became_conscious_help/",
-        "image": "https://preview.redd.it/ehrsk8a4duog1.png?width=640&crop=smart&auto=webp&s=60e975d20ba002cbfd96f408169dd22a9208a7d8",
-        "published": "2026-03-13T16:48:03+00:00"
-    },
-    {
         "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
         "link": "https://www.reddit.com/r/singularity/comments/1rsvfz9/1m_context_is_now_generally_available_for_opus_46/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-13T18:28:08+00:00"
+    },
+    {
+        "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
+        "image": "https://preview.redd.it/gnzx1n4p61pg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cd63860fbb0e7167eeae0e687690af0dafb89236",
+        "published": "2026-03-14T15:41:54+00:00"
     },
     {
         "title": "I thought Gemini was supposed to be the long context king?",
@@ -42,16 +42,16 @@
         "published": "2026-03-13T21:42:25+00:00"
     },
     {
-        "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-        "image": "https://preview.redd.it/gnzx1n4p61pg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cd63860fbb0e7167eeae0e687690af0dafb89236",
-        "published": "2026-03-14T15:41:54+00:00"
-    },
-    {
         "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
         "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
         "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
         "published": "2026-03-14T13:05:36+00:00"
+    },
+    {
+        "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
+        "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
+        "published": "2026-03-14T15:35:13+00:00"
     },
     {
         "title": "on AI agent to rule them all?",
@@ -60,16 +60,16 @@
         "published": "2026-03-14T00:23:00+00:00"
     },
     {
+        "title": "Grok 4.20 Multi-Agent Beta burned 333k input tokens on a joke prompt - is this actually how multi-agent AI works right now?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtnkg8/grok_420_multiagent_beta_burned_333k_input_tokens/",
+        "image": "https://preview.redd.it/jnruwnncd1pg1.jpeg?width=640&crop=smart&auto=webp&s=32072ffd5cce378862f79dde3dc6440591e137d3",
+        "published": "2026-03-14T16:19:09+00:00"
+    },
+    {
         "title": "autoresearch-webgpu: watch Claude train better language models in your browser",
         "link": "https://www.reddit.com/r/singularity/comments/1rtl24l/autoresearchwebgpu_watch_claude_train_better/",
         "image": "https://external-preview.redd.it/irscz1vuA6uZ7RMvv9QqfJWciyDsMPDLabi4xTlyZJo.gif?width=640&crop=smart&s=9ad49bcdc0648d90445bfbd2c29168aed356b076",
         "published": "2026-03-14T14:37:37+00:00"
-    },
-    {
-        "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-        "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
-        "published": "2026-03-14T15:35:13+00:00"
     },
     {
         "title": "If coordination gets automated, product leadership disappears too",
