@@ -12,16 +12,16 @@
         "published": "2026-03-13T11:04:41+00:00"
     },
     {
-        "title": "\u201cI am a coffee maker and just became conscious help\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1rsslxl/i_am_a_coffee_maker_and_just_became_conscious_help/",
-        "image": "https://preview.redd.it/ehrsk8a4duog1.png?width=640&crop=smart&auto=webp&s=60e975d20ba002cbfd96f408169dd22a9208a7d8",
-        "published": "2026-03-13T16:48:03+00:00"
-    },
-    {
         "title": "Walmart packages airdropped like ammo crates over 'Nam",
         "link": "https://www.reddit.com/r/singularity/comments/1rt6z2x/walmart_packages_airdropped_like_ammo_crates_over/",
         "image": "https://external-preview.redd.it/7X1Npbr-8AX7BOx-SnWPLLEBG-PGI3FQX62ojclBo1k.png?width=640&crop=smart&auto=webp&s=e90b3a78fe7da78b6a21871b39f462ede64b1b66",
         "published": "2026-03-14T02:04:14+00:00"
+    },
+    {
+        "title": "\u201cI am a coffee maker and just became conscious help\u201d",
+        "link": "https://www.reddit.com/r/singularity/comments/1rsslxl/i_am_a_coffee_maker_and_just_became_conscious_help/",
+        "image": "https://preview.redd.it/ehrsk8a4duog1.png?width=640&crop=smart&auto=webp&s=60e975d20ba002cbfd96f408169dd22a9208a7d8",
+        "published": "2026-03-13T16:48:03+00:00"
     },
     {
         "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6. No more long context price increase in the API",
@@ -36,6 +36,12 @@
         "published": "2026-03-13T18:14:46+00:00"
     },
     {
+        "title": "Photoshop's new AI rotate tool",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtafxk/photoshops_new_ai_rotate_tool/",
+        "image": "https://external-preview.redd.it/azhhem96cWJ6eG9nMWNYUou0UaaWVFO6aFlX91XGRzfvlpe5Tnnanjpxa6JT.png?width=640&crop=smart&auto=webp&s=edee71f120977d528ec40acc6332dd4af5893e7f",
+        "published": "2026-03-14T04:55:19+00:00"
+    },
+    {
         "title": "Netflix to Pay Up to $600 Million for Ben Affleck\u2019s AI Firm. WHAT?\ud83d\ude32",
         "link": "https://www.reddit.com/r/singularity/comments/1rt1wce/netflix_to_pay_up_to_600_million_for_ben_afflecks/",
         "image": "https://preview.redd.it/ofajcs292wog1.png?width=640&crop=smart&auto=webp&s=4aa0b720622d7b039cbd930e32492803e1c1a362",
@@ -46,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rsoio2/lost_in_backpropagation_the_lm_head_is_a_gradient/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-13T14:16:17+00:00"
-    },
-    {
-        "title": "Photoshop's new AI rotate tool",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtafxk/photoshops_new_ai_rotate_tool/",
-        "image": "https://external-preview.redd.it/azhhem96cWJ6eG9nMWNYUou0UaaWVFO6aFlX91XGRzfvlpe5Tnnanjpxa6JT.png?width=640&crop=smart&auto=webp&s=edee71f120977d528ec40acc6332dd4af5893e7f",
-        "published": "2026-03-14T04:55:19+00:00"
     },
     {
         "title": "Best way to monetize invention machine is not to sell it, but to use it yourself",
