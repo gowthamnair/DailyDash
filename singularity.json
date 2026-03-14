@@ -30,16 +30,16 @@
         "published": "2026-03-13T21:42:25+00:00"
     },
     {
-        "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-        "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
-        "published": "2026-03-14T15:35:13+00:00"
-    },
-    {
         "title": "GPT-4 was released 3 years ago!",
         "link": "https://www.reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
         "image": "https://preview.redd.it/99uowe5fa2pg1.jpeg?width=640&crop=smart&auto=webp&s=b7c13cf2be660a33cce0e435769ef0ff6d4f1ef9",
         "published": "2026-03-14T19:24:29+00:00"
+    },
+    {
+        "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
+        "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
+        "published": "2026-03-14T15:35:13+00:00"
     },
     {
         "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
@@ -52,6 +52,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rtp9jw/claude_opus_46_knows_what_it_doesnt_know/",
         "image": "https://preview.redd.it/6p9e89igo1pg1.png?width=320&crop=smart&auto=webp&s=56c66874360e6cbe64acd50dce58e2e664a7585a",
         "published": "2026-03-14T17:25:13+00:00"
+    },
+    {
+        "title": "Ten years ago",
+        "link": "https://www.reddit.com/r/singularity/comments/1rttyam/ten_years_ago/",
+        "image": "https://preview.redd.it/95qkp8iol2pg1.jpeg?width=640&crop=smart&auto=webp&s=4e50f06fcbb4d34ab3317c579eda694d9e43f89a",
+        "published": "2026-03-14T20:27:37+00:00"
     },
     {
         "title": "Grok 4.20 Multi-Agent Beta burned 333k input tokens on a joke prompt - is this actually how multi-agent AI works right now?",
@@ -72,21 +78,15 @@
         "published": "2026-03-14T14:37:37+00:00"
     },
     {
+        "title": "Pretty wild a meta engineer there is a job security issue after planned job cuts",
+        "link": "https://www.reddit.com/r/singularity/comments/1rttear/pretty_wild_a_meta_engineer_there_is_a_job/",
+        "image": "https://preview.redd.it/qa6zo9lrh2pg1.jpeg?width=640&crop=smart&auto=webp&s=cda557e742c1492597bfb9efb34f165d438bba6f",
+        "published": "2026-03-14T20:05:41+00:00"
+    },
+    {
         "title": "Has anyone else noticed that AI makes curiosity loops almost impossible to stop?",
         "link": "https://www.reddit.com/r/singularity/comments/1rtrdab/has_anyone_else_noticed_that_ai_makes_curiosity/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-14T18:46:08+00:00"
-    },
-    {
-        "title": "If coordination gets automated, product leadership disappears too",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtjtvd/if_coordination_gets_automated_product_leadership/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T13:45:38+00:00"
-    },
-    {
-        "title": "Even the CTO and VP Engineering layer is automatable",
-        "link": "https://www.reddit.com/r/singularity/comments/1rteiaf/even_the_cto_and_vp_engineering_layer_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T08:55:47+00:00"
     }
 ]
