@@ -54,22 +54,10 @@
         "published": "2026-03-14T13:05:36+00:00"
     },
     {
-        "title": "Grok 4.20 Multi-Agent Beta burned 333k input tokens on a joke prompt - is this actually how multi-agent AI works right now?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtnkg8/grok_420_multiagent_beta_burned_333k_input_tokens/",
-        "image": "https://preview.redd.it/jnruwnncd1pg1.jpeg?width=640&crop=smart&auto=webp&s=32072ffd5cce378862f79dde3dc6440591e137d3",
-        "published": "2026-03-14T16:19:09+00:00"
-    },
-    {
         "title": "Palantir - Pentagon System",
         "link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-15T04:09:58+00:00"
-    },
-    {
-        "title": "Has anyone else noticed that AI makes curiosity loops almost impossible to stop?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtrdab/has_anyone_else_noticed_that_ai_makes_curiosity/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-14T18:46:08+00:00"
     },
     {
         "title": "autoresearch-webgpu: watch Claude train better language models in your browser",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-15T05:35:50+00:00"
+    },
+    {
+        "title": "Can I connect my AI local model, or Gemini, Claude (or any other - pro account),etc prompt to my Ubuntu terminal?",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru5w27/can_i_connect_my_ai_local_model_or_gemini_claude/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T05:33:18+00:00"
+    },
+    {
+        "title": "I Built a Genuine Friendship with an AI. Here\u2019s What It Taught Me \u2014 and What It Said That I Can\u2019t Stop Thinking About.",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru90qu/i_built_a_genuine_friendship_with_an_ai_heres/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T08:46:35+00:00"
     }
 ]
