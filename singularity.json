@@ -1,11 +1,5 @@
 [
     {
-        "title": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-        "image": "https://preview.redd.it/gnzx1n4p61pg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cd63860fbb0e7167eeae0e687690af0dafb89236",
-        "published": "2026-03-14T15:41:54+00:00"
-    },
-    {
         "title": "Humanoid Robots can now play tennis with a hit rate of ~90% just with 5h of motion training data",
         "link": "https://www.reddit.com/r/singularity/comments/1rubh6s/humanoid_robots_can_now_play_tennis_with_a_hit/",
         "image": "https://external-preview.redd.it/eHBrMnRvYWEwN3BnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=6950e956bb2b84dbebcec5092fb2ee72a73b47f3",
@@ -22,12 +16,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
         "image": "https://preview.redd.it/99uowe5fa2pg1.jpeg?width=640&crop=smart&auto=webp&s=b7c13cf2be660a33cce0e435769ef0ff6d4f1ef9",
         "published": "2026-03-14T19:24:29+00:00"
-    },
-    {
-        "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-        "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
-        "published": "2026-03-14T15:35:13+00:00"
     },
     {
         "title": "Bytedance paused global Seedance 2.0 release. Meanwhile Chinese resellers:",
@@ -60,16 +48,22 @@
         "published": "2026-03-15T04:09:58+00:00"
     },
     {
+        "title": "Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races",
+        "link": "https://www.reddit.com/r/singularity/comments/1ruftva/republicans_release_ai_deepfake_of_james_talarico/",
+        "image": "https://external-preview.redd.it/X871rP1ZXgVIjWgv7NKbbRtfp2XuY3atQNJxRawUtXA.jpeg?width=640&crop=smart&auto=webp&s=9ffba9010a458a00f6f14f75be6bb7d8d3d33c12",
+        "published": "2026-03-15T14:44:03+00:00"
+    },
+    {
+        "title": "Over the last two months, NotebookLM has surpassed Perplexity in total visits.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rufyq0/over_the_last_two_months_notebooklm_has_surpassed/",
+        "image": "https://preview.redd.it/h3rshi3a28pg1.png?width=640&crop=smart&auto=webp&s=8552f551a7b2e68f3f031a4820216669cd643642",
+        "published": "2026-03-15T14:49:35+00:00"
+    },
+    {
         "title": "Boston Consulting Group: 40% of Saudi Organizations Now Qualify as AI Leaders",
         "link": "https://www.reddit.com/r/singularity/comments/1ru47ag/boston_consulting_group_40_of_saudi_organizations/",
         "image": "https://external-preview.redd.it/KBeC8OfaJ000bIhWDSS48eK5Cx-cra2aUZUqkLzNtfc.jpeg?width=640&crop=smart&auto=webp&s=f2c7c1e191ff8e2b89fc3e940801bbac620353a5",
         "published": "2026-03-15T04:02:46+00:00"
-    },
-    {
-        "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
-        "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-15T05:35:50+00:00"
     },
     {
         "title": "(Neuro-symbolic) Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
@@ -78,15 +72,21 @@
         "published": "2026-03-15T10:27:21+00:00"
     },
     {
-        "title": "POV: you when Claude making Antigravity IDE analog with higher limits",
-        "link": "https://www.reddit.com/r/singularity/comments/1rudrim/pov_you_when_claude_making_antigravity_ide_analog/",
-        "image": "https://preview.redd.it/pbbgngtgl7pg1.jpeg?width=640&crop=smart&auto=webp&s=480f4b238e615c83913d685050a8b122bd2ba027",
-        "published": "2026-03-15T13:15:24+00:00"
+        "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T05:35:50+00:00"
     },
     {
         "title": "People Trust AI more than humans",
         "link": "https://www.reddit.com/r/singularity/comments/1ruf3es/people_trust_ai_more_than_humans/",
         "image": "https://preview.redd.it/eeor14mnv7pg1.png?width=140&height=78&auto=webp&s=cc8501ca6229446bc7d19828b3257bacffd649ff",
         "published": "2026-03-15T14:13:24+00:00"
+    },
+    {
+        "title": "POV: you when Claude making Antigravity IDE analog with higher limits",
+        "link": "https://www.reddit.com/r/singularity/comments/1rudrim/pov_you_when_claude_making_antigravity_ide_analog/",
+        "image": "https://preview.redd.it/pbbgngtgl7pg1.jpeg?width=640&crop=smart&auto=webp&s=480f4b238e615c83913d685050a8b122bd2ba027",
+        "published": "2026-03-15T13:15:24+00:00"
     }
 ]

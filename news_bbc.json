@@ -12,10 +12,10 @@
         "published": "Sun, 15 Mar 2026 12:00:35 GMT"
     },
     {
-        "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+        "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
         "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4c4b/live/97191800-2051-11f1-a5bd-118cf5a4e65c.jpg",
-        "published": "Sun, 15 Mar 2026 13:19:04 GMT"
+        "published": "Sun, 15 Mar 2026 16:12:11 GMT"
     },
     {
         "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
@@ -34,6 +34,12 @@
         "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6242/live/c74b5b30-1fcc-11f1-9c85-1d495aee893e.jpg",
         "published": "Sat, 14 Mar 2026 22:27:41 GMT"
+    },
+    {
+        "title": "French police detain brothers over 'lethal and antisemitic' plot",
+        "link": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/37e0/live/93234490-2084-11f1-8af0-cf4f458e05d4.png",
+        "published": "Sun, 15 Mar 2026 16:12:34 GMT"
     },
     {
         "title": "Ugandan opposition leader goes abroad after two months in hiding",
@@ -60,24 +66,6 @@
         "published": "Sat, 14 Mar 2026 20:48:55 GMT"
     },
     {
-        "title": "Medvedev stuns Alcaraz to set up Sinner final",
-        "link": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6ce7/live/7c07d750-2005-11f1-a198-892433d23944.jpg",
-        "published": "Sun, 15 Mar 2026 00:32:02 GMT"
-    },
-    {
-        "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
-        "link": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3e94/live/a81fc5f0-1ff1-11f1-ab95-594143e27d66.jpg",
-        "published": "Sat, 14 Mar 2026 21:50:22 GMT"
-    },
-    {
-        "title": "Iraq taking private plane to Mexico for World Cup play-off",
-        "link": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3095/live/2ffd6320-2000-11f1-af9e-2b055bffbbf4.jpg",
-        "published": "Sat, 14 Mar 2026 23:56:28 GMT"
-    },
-    {
         "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb39/live/d6514290-1fd9-11f1-801d-ed3cff6bf876.jpg",
@@ -88,5 +76,17 @@
         "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d793/live/0c4b6660-1fac-11f1-b048-c9424b2cf5fd.png",
         "published": "Sat, 14 Mar 2026 13:34:17 GMT"
+    },
+    {
+        "title": "Oscars 2026: What to expect and who will win",
+        "link": "https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d20/live/ba7757f0-1c9e-11f1-b048-c9424b2cf5fd.jpg",
+        "published": "Sun, 15 Mar 2026 00:01:28 GMT"
+    },
+    {
+        "title": "The women bringing chess into the 21st Century - with 'bullet' matches and viral videos",
+        "link": "https://www.bbc.com/news/articles/ce3g0kel3jyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb25/live/d20aee40-119f-11f1-801d-ed3cff6bf876.jpg",
+        "published": "Sun, 15 Mar 2026 00:40:18 GMT"
     }
 ]
