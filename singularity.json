@@ -24,12 +24,6 @@
         "published": "2026-03-15T14:44:03+00:00"
     },
     {
-        "title": "Basic income program for artists in Ireland seems to have gone well and is getting slightly expanded",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtuiop/basic_income_program_for_artists_in_ireland_seems/",
-        "image": "https://external-preview.redd.it/prrz_WEQjrqtOefMSbrW2933kzmQPPbGAiacxOeZb4Y.jpeg?width=640&crop=smart&auto=webp&s=e6c7c7322984ee442026aa5130adfa42374d7380",
-        "published": "2026-03-14T20:49:39+00:00"
-    },
-    {
         "title": "Over the last two months, NotebookLM has surpassed Perplexity in total visits.",
         "link": "https://www.reddit.com/r/singularity/comments/1rufyq0/over_the_last_two_months_notebooklm_has_surpassed/",
         "image": "https://preview.redd.it/h3rshi3a28pg1.png?width=640&crop=smart&auto=webp&s=8552f551a7b2e68f3f031a4820216669cd643642",
@@ -42,16 +36,16 @@
         "published": "2026-03-15T04:09:58+00:00"
     },
     {
-        "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
-        "link": "https://www.reddit.com/r/singularity/comments/1rukosw/glm5turbo_a_highspeed_variant_of_glm5_excellent/",
-        "image": "https://preview.redd.it/gcjqr9fvy8pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7677bd9ad93e52745c268edbc389b7e5902b74d7",
-        "published": "2026-03-15T17:52:23+00:00"
-    },
-    {
         "title": "AI Automation Risk Table by Karpathy",
         "link": "https://www.reddit.com/r/singularity/comments/1runck6/ai_automation_risk_table_by_karpathy/",
         "image": "https://preview.redd.it/2ztcc7vba9pg1.png?width=640&crop=smart&auto=webp&s=65ffd16c75ddb4761f239e1ad2f9b300ca77da5f",
         "published": "2026-03-15T19:33:01+00:00"
+    },
+    {
+        "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
+        "link": "https://www.reddit.com/r/singularity/comments/1rukosw/glm5turbo_a_highspeed_variant_of_glm5_excellent/",
+        "image": "https://preview.redd.it/gcjqr9fvy8pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7677bd9ad93e52745c268edbc389b7e5902b74d7",
+        "published": "2026-03-15T17:52:23+00:00"
     },
     {
         "title": "(Neuro-symbolic) Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
@@ -60,16 +54,16 @@
         "published": "2026-03-15T10:27:21+00:00"
     },
     {
-        "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
-        "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-15T05:35:50+00:00"
-    },
-    {
         "title": "People Trust AI more than humans",
         "link": "https://www.reddit.com/r/singularity/comments/1ruf3es/people_trust_ai_more_than_humans/",
         "image": "https://preview.redd.it/eeor14mnv7pg1.png?width=140&height=78&auto=webp&s=cc8501ca6229446bc7d19828b3257bacffd649ff",
         "published": "2026-03-15T14:13:24+00:00"
+    },
+    {
+        "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T05:35:50+00:00"
     },
     {
         "title": "Boston Consulting Group: 40% of Saudi Organizations Now Qualify as AI Leaders",
