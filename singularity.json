@@ -12,12 +12,6 @@
         "published": "2026-03-14T04:55:19+00:00"
     },
     {
-        "title": "Walmart packages airdropped like ammo crates over 'Nam",
-        "link": "https://www.reddit.com/r/singularity/comments/1rt6z2x/walmart_packages_airdropped_like_ammo_crates_over/",
-        "image": "https://external-preview.redd.it/7X1Npbr-8AX7BOx-SnWPLLEBG-PGI3FQX62ojclBo1k.png?width=640&crop=smart&auto=webp&s=e90b3a78fe7da78b6a21871b39f462ede64b1b66",
-        "published": "2026-03-14T02:04:14+00:00"
-    },
-    {
         "title": "GPT-4 was released 3 years ago!",
         "link": "https://www.reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
         "image": "https://preview.redd.it/99uowe5fa2pg1.jpeg?width=640&crop=smart&auto=webp&s=b7c13cf2be660a33cce0e435769ef0ff6d4f1ef9",
@@ -30,16 +24,10 @@
         "published": "2026-03-14T15:35:13+00:00"
     },
     {
-        "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
-        "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
-        "published": "2026-03-14T13:05:36+00:00"
-    },
-    {
-        "title": "Claude Opus 4.6 knows what it doesn't know!",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtp9jw/claude_opus_46_knows_what_it_doesnt_know/",
-        "image": "https://preview.redd.it/6p9e89igo1pg1.png?width=320&crop=smart&auto=webp&s=56c66874360e6cbe64acd50dce58e2e664a7585a",
-        "published": "2026-03-14T17:25:13+00:00"
+        "title": "That feeling of instant Alzheimers as you get out of bed and refill your brain's context with waking matters",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru1kj7/that_feeling_of_instant_alzheimers_as_you_get_out/",
+        "image": "https://preview.redd.it/su9isihh74pg1.png?width=320&crop=smart&auto=webp&s=d9a261fdd24e867d6682a9255a391a1a3d5b4843",
+        "published": "2026-03-15T01:53:16+00:00"
     },
     {
         "title": "Pretty wild a meta engineer there is a job security issue after planned job cuts",
@@ -54,16 +42,28 @@
         "published": "2026-03-14T20:49:39+00:00"
     },
     {
-        "title": "Grok 4.20 Multi-Agent Beta burned 333k input tokens on a joke prompt - is this actually how multi-agent AI works right now?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtnkg8/grok_420_multiagent_beta_burned_333k_input_tokens/",
-        "image": "https://preview.redd.it/jnruwnncd1pg1.jpeg?width=640&crop=smart&auto=webp&s=32072ffd5cce378862f79dde3dc6440591e137d3",
-        "published": "2026-03-14T16:19:09+00:00"
+        "title": "Claude Opus 4.6 knows what it doesn't know!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtp9jw/claude_opus_46_knows_what_it_doesnt_know/",
+        "image": "https://preview.redd.it/6p9e89igo1pg1.png?width=320&crop=smart&auto=webp&s=56c66874360e6cbe64acd50dce58e2e664a7585a",
+        "published": "2026-03-14T17:25:13+00:00"
+    },
+    {
+        "title": "Machine learning model predicts chemical reactions to accelerate drug discovery",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtiy3u/machine_learning_model_predicts_chemical/",
+        "image": "https://external-preview.redd.it/iEzYlm1QdSD8jjbGgY8PPvdS4F0DIrX-k6xoIXk_W8k.jpeg?width=320&crop=smart&auto=webp&s=31de449b3926cf5f15576ff102e2e7ed6dfea040",
+        "published": "2026-03-14T13:05:36+00:00"
     },
     {
         "title": "Bytedance paused global Seedance 2.0 release. Meanwhile Chinese resellers:",
         "link": "https://www.reddit.com/r/singularity/comments/1rtym8t/bytedance_paused_global_seedance_20_release/",
         "image": "https://preview.redd.it/7n7peqrpj3pg1.jpeg?width=640&crop=smart&auto=webp&s=fa221dba93b9418bc2eea5148af8fc74a42a2ccf",
         "published": "2026-03-14T23:38:23+00:00"
+    },
+    {
+        "title": "Grok 4.20 Multi-Agent Beta burned 333k input tokens on a joke prompt - is this actually how multi-agent AI works right now?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rtnkg8/grok_420_multiagent_beta_burned_333k_input_tokens/",
+        "image": "https://preview.redd.it/jnruwnncd1pg1.jpeg?width=640&crop=smart&auto=webp&s=32072ffd5cce378862f79dde3dc6440591e137d3",
+        "published": "2026-03-14T16:19:09+00:00"
     },
     {
         "title": "autoresearch-webgpu: watch Claude train better language models in your browser",
@@ -76,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rtrdab/has_anyone_else_noticed_that_ai_makes_curiosity/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-14T18:46:08+00:00"
+    },
+    {
+        "title": "Palantir - Pentagon System",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T04:09:58+00:00"
+    },
+    {
+        "title": "Boston Consulting Group: 40% of Saudi Organizations Now Qualify as AI Leaders",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru47ag/boston_consulting_group_40_of_saudi_organizations/",
+        "image": "https://external-preview.redd.it/KBeC8OfaJ000bIhWDSS48eK5Cx-cra2aUZUqkLzNtfc.jpeg?width=640&crop=smart&auto=webp&s=f2c7c1e191ff8e2b89fc3e940801bbac620353a5",
+        "published": "2026-03-15T04:02:46+00:00"
     }
 ]
