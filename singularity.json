@@ -36,18 +36,6 @@
         "published": "2026-03-14T20:05:41+00:00"
     },
     {
-        "title": "Claude Opus 4.6 knows what it doesn't know!",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtp9jw/claude_opus_46_knows_what_it_doesnt_know/",
-        "image": "https://preview.redd.it/6p9e89igo1pg1.png?width=320&crop=smart&auto=webp&s=56c66874360e6cbe64acd50dce58e2e664a7585a",
-        "published": "2026-03-14T17:25:13+00:00"
-    },
-    {
-        "title": "Palantir - Pentagon System",
-        "link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-15T04:09:58+00:00"
-    },
-    {
         "title": "Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races",
         "link": "https://www.reddit.com/r/singularity/comments/1ruftva/republicans_release_ai_deepfake_of_james_talarico/",
         "image": "https://external-preview.redd.it/X871rP1ZXgVIjWgv7NKbbRtfp2XuY3atQNJxRawUtXA.jpeg?width=640&crop=smart&auto=webp&s=9ffba9010a458a00f6f14f75be6bb7d8d3d33c12",
@@ -60,16 +48,28 @@
         "published": "2026-03-15T14:49:35+00:00"
     },
     {
+        "title": "Palantir - Pentagon System",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T04:09:58+00:00"
+    },
+    {
+        "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
+        "link": "https://www.reddit.com/r/singularity/comments/1rukosw/glm5turbo_a_highspeed_variant_of_glm5_excellent/",
+        "image": "https://preview.redd.it/gcjqr9fvy8pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7677bd9ad93e52745c268edbc389b7e5902b74d7",
+        "published": "2026-03-15T17:52:23+00:00"
+    },
+    {
         "title": "(Neuro-symbolic) Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
         "link": "https://www.reddit.com/r/singularity/comments/1ruamyz/neurosymbolic_accelerating_scientific_research/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-15T10:27:21+00:00"
     },
     {
-        "title": "Boston Consulting Group: 40% of Saudi Organizations Now Qualify as AI Leaders",
-        "link": "https://www.reddit.com/r/singularity/comments/1ru47ag/boston_consulting_group_40_of_saudi_organizations/",
-        "image": "https://external-preview.redd.it/KBeC8OfaJ000bIhWDSS48eK5Cx-cra2aUZUqkLzNtfc.jpeg?width=640&crop=smart&auto=webp&s=f2c7c1e191ff8e2b89fc3e940801bbac620353a5",
-        "published": "2026-03-15T04:02:46+00:00"
+        "title": "People Trust AI more than humans",
+        "link": "https://www.reddit.com/r/singularity/comments/1ruf3es/people_trust_ai_more_than_humans/",
+        "image": "https://preview.redd.it/eeor14mnv7pg1.png?width=140&height=78&auto=webp&s=cc8501ca6229446bc7d19828b3257bacffd649ff",
+        "published": "2026-03-15T14:13:24+00:00"
     },
     {
         "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
@@ -78,10 +78,10 @@
         "published": "2026-03-15T05:35:50+00:00"
     },
     {
-        "title": "People Trust AI more than humans",
-        "link": "https://www.reddit.com/r/singularity/comments/1ruf3es/people_trust_ai_more_than_humans/",
-        "image": "https://preview.redd.it/eeor14mnv7pg1.png?width=140&height=78&auto=webp&s=cc8501ca6229446bc7d19828b3257bacffd649ff",
-        "published": "2026-03-15T14:13:24+00:00"
+        "title": "Boston Consulting Group: 40% of Saudi Organizations Now Qualify as AI Leaders",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru47ag/boston_consulting_group_40_of_saudi_organizations/",
+        "image": "https://external-preview.redd.it/KBeC8OfaJ000bIhWDSS48eK5Cx-cra2aUZUqkLzNtfc.jpeg?width=640&crop=smart&auto=webp&s=f2c7c1e191ff8e2b89fc3e940801bbac620353a5",
+        "published": "2026-03-15T04:02:46+00:00"
     },
     {
         "title": "Forcing function, observers, AI: consciousness as contagion and cosmological necessity",
