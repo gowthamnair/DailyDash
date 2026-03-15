@@ -18,6 +18,12 @@
         "published": "2026-03-15T01:53:16+00:00"
     },
     {
+        "title": "Humanoid Robots can now play tennis with a hit rate of ~90% just with 5h of motion training data",
+        "link": "https://www.reddit.com/r/singularity/comments/1rubh6s/humanoid_robots_can_now_play_tennis_with_a_hit/",
+        "image": "https://external-preview.redd.it/eHBrMnRvYWEwN3BnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=6950e956bb2b84dbebcec5092fb2ee72a73b47f3",
+        "published": "2026-03-15T11:16:40+00:00"
+    },
+    {
         "title": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
         "link": "https://www.reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
         "image": "https://external-preview.redd.it/IPmydqRrqODgUJ9jwJhvgjGsx-DNgL0ZrHpjlQEI-00.jpeg?width=640&crop=smart&auto=webp&s=7ef4c6c36567b1fa21cbdc71f8323533f5fb4ae3",
@@ -72,15 +78,15 @@
         "published": "2026-03-15T04:02:46+00:00"
     },
     {
-        "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
-        "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-15T05:35:50+00:00"
-    },
-    {
         "title": "(Neuro-symbolic) Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
         "link": "https://www.reddit.com/r/singularity/comments/1ruamyz/neurosymbolic_accelerating_scientific_research/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-15T10:27:21+00:00"
+    },
+    {
+        "title": "Why does it seem that the paid API on AISTUDIO is 'smarter' than the standard PRO (included) tokens output?",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T05:35:50+00:00"
     }
 ]
