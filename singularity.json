@@ -30,16 +30,16 @@
         "published": "2026-03-14T20:49:39+00:00"
     },
     {
-        "title": "Pretty wild a meta engineer there is a job security issue after planned job cuts",
-        "link": "https://www.reddit.com/r/singularity/comments/1rttear/pretty_wild_a_meta_engineer_there_is_a_job/",
-        "image": "https://preview.redd.it/qa6zo9lrh2pg1.jpeg?width=640&crop=smart&auto=webp&s=cda557e742c1492597bfb9efb34f165d438bba6f",
-        "published": "2026-03-14T20:05:41+00:00"
-    },
-    {
         "title": "Bytedance paused global Seedance 2.0 release. Meanwhile Chinese resellers:",
         "link": "https://www.reddit.com/r/singularity/comments/1rtym8t/bytedance_paused_global_seedance_20_release/",
         "image": "https://preview.redd.it/7n7peqrpj3pg1.jpeg?width=640&crop=smart&auto=webp&s=fa221dba93b9418bc2eea5148af8fc74a42a2ccf",
         "published": "2026-03-14T23:38:23+00:00"
+    },
+    {
+        "title": "Pretty wild a meta engineer there is a job security issue after planned job cuts",
+        "link": "https://www.reddit.com/r/singularity/comments/1rttear/pretty_wild_a_meta_engineer_there_is_a_job/",
+        "image": "https://preview.redd.it/qa6zo9lrh2pg1.jpeg?width=640&crop=smart&auto=webp&s=cda557e742c1492597bfb9efb34f165d438bba6f",
+        "published": "2026-03-14T20:05:41+00:00"
     },
     {
         "title": "Claude Opus 4.6 knows what it doesn't know!",
@@ -76,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ru5xmv/why_does_it_seem_that_the_paid_api_on_aistudio_is/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-15T05:35:50+00:00"
+    },
+    {
+        "title": "(Neuro-symbolic) Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
+        "link": "https://www.reddit.com/r/singularity/comments/1ruamyz/neurosymbolic_accelerating_scientific_research/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T10:27:21+00:00"
     }
 ]
