@@ -18,28 +18,22 @@
         "published": "2026-03-15T14:44:03+00:00"
     },
     {
-        "title": "Bytedance paused global Seedance 2.0 release. Meanwhile Chinese resellers:",
-        "link": "https://www.reddit.com/r/singularity/comments/1rtym8t/bytedance_paused_global_seedance_20_release/",
-        "image": "https://preview.redd.it/7n7peqrpj3pg1.jpeg?width=640&crop=smart&auto=webp&s=fa221dba93b9418bc2eea5148af8fc74a42a2ccf",
-        "published": "2026-03-14T23:38:23+00:00"
-    },
-    {
         "title": "Over the last two months, NotebookLM has surpassed Perplexity in total visits.",
         "link": "https://www.reddit.com/r/singularity/comments/1rufyq0/over_the_last_two_months_notebooklm_has_surpassed/",
         "image": "https://preview.redd.it/h3rshi3a28pg1.png?width=640&crop=smart&auto=webp&s=8552f551a7b2e68f3f031a4820216669cd643642",
         "published": "2026-03-15T14:49:35+00:00"
     },
     {
-        "title": "Palantir - Pentagon System",
-        "link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-15T04:09:58+00:00"
-    },
-    {
         "title": "AI Automation Risk Table by Karpathy",
         "link": "https://www.reddit.com/r/singularity/comments/1runck6/ai_automation_risk_table_by_karpathy/",
         "image": "https://preview.redd.it/2ztcc7vba9pg1.png?width=640&crop=smart&auto=webp&s=65ffd16c75ddb4761f239e1ad2f9b300ca77da5f",
         "published": "2026-03-15T19:33:01+00:00"
+    },
+    {
+        "title": "Palantir - Pentagon System",
+        "link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-15T04:09:58+00:00"
     },
     {
         "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
