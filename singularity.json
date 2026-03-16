@@ -36,28 +36,28 @@
         "published": "2026-03-16T01:27:25+00:00"
     },
     {
-        "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
-        "link": "https://www.reddit.com/r/singularity/comments/1rukosw/glm5turbo_a_highspeed_variant_of_glm5_excellent/",
-        "image": "https://preview.redd.it/gcjqr9fvy8pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7677bd9ad93e52745c268edbc389b7e5902b74d7",
-        "published": "2026-03-15T17:52:23+00:00"
-    },
-    {
         "title": "Anduril CEO Luckey says Pentagon should have been \"more forceful\" against Anthropic",
         "link": "https://www.reddit.com/r/singularity/comments/1ruwhxw/anduril_ceo_luckey_says_pentagon_should_have_been/",
         "image": "https://external-preview.redd.it/2vcOucAwWN6HtV-Tg_jeGbudHF5V26s7AVoAs2TJG_Q.jpeg?width=640&crop=smart&auto=webp&s=6a33ab7420837fffa0fe097b5df0b086b5b193e9",
         "published": "2026-03-16T01:47:34+00:00"
     },
     {
-        "title": "People Trust AI more than humans",
-        "link": "https://www.reddit.com/r/singularity/comments/1ruf3es/people_trust_ai_more_than_humans/",
-        "image": "https://preview.redd.it/eeor14mnv7pg1.png?width=140&height=78&auto=webp&s=cc8501ca6229446bc7d19828b3257bacffd649ff",
-        "published": "2026-03-15T14:13:24+00:00"
+        "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
+        "link": "https://www.reddit.com/r/singularity/comments/1rukosw/glm5turbo_a_highspeed_variant_of_glm5_excellent/",
+        "image": "https://preview.redd.it/gcjqr9fvy8pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7677bd9ad93e52745c268edbc389b7e5902b74d7",
+        "published": "2026-03-15T17:52:23+00:00"
     },
     {
         "title": "Google Researchers Propose Bayesian Teaching Method for Large Language Models",
         "link": "https://www.reddit.com/r/singularity/comments/1rv0az7/google_researchers_propose_bayesian_teaching/",
         "image": "https://external-preview.redd.it/Deo_6h6svU2qfffaf08KNkks24Z06Id5Km788G-QCQI.jpeg?width=640&crop=smart&auto=webp&s=d33c407b1ee50324097d8b47b1ab577c5d3fe980",
         "published": "2026-03-16T04:54:55+00:00"
+    },
+    {
+        "title": "People Trust AI more than humans",
+        "link": "https://www.reddit.com/r/singularity/comments/1ruf3es/people_trust_ai_more_than_humans/",
+        "image": "https://preview.redd.it/eeor14mnv7pg1.png?width=140&height=78&auto=webp&s=cc8501ca6229446bc7d19828b3257bacffd649ff",
+        "published": "2026-03-15T14:13:24+00:00"
     },
     {
         "title": "(Neuro-symbolic) Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
@@ -76,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ruvp1r/the_race_to_build_ai_humanoid_soldiers_for_war/",
         "image": "https://external-preview.redd.it/AVpuecH1Sdc72qHQmQIFwfN3jjDXXBVfNkUPGlUI4MY.png?width=640&crop=smart&auto=webp&s=b08368419ac3e1fee6fa63cae6793e618ad9e895",
         "published": "2026-03-16T01:11:04+00:00"
+    },
+    {
+        "title": "In 2014 the Medical Body Area Network was approved. A wireless system designed to communicate with signals inside the human body. Your body already runs on bioelectricity. Now technology can interface with it.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rv2ouf/in_2014_the_medical_body_area_network_was/",
+        "image": "https://external-preview.redd.it/wH6YTGYPF3_L2QYR0zXQdlxesWPcFKpHMgFO4W1IehQ.png?width=320&crop=smart&auto=webp&s=65be6a5f0de2ec46636e2a1e2062f82a739d0c4c",
+        "published": "2026-03-16T07:15:26+00:00"
+    },
+    {
+        "title": "The Third Mind",
+        "link": "https://www.reddit.com/r/singularity/comments/1rv0vfb/the_third_mind/",
+        "image": "https://external-preview.redd.it/eLtJ5IACRupsa1I0Uh19mo69SZW0KO-aLxJ-yJholtY.jpeg?width=140&height=140&auto=webp&s=bf84f895ae57de01aeb17e4be078b3a45c38220c",
+        "published": "2026-03-16T05:26:42+00:00"
     }
 ]
