@@ -36,12 +36,6 @@
         "published": "2026-03-16T04:54:55+00:00"
     },
     {
-        "title": "GLM-5-Turbo: A high-speed variant of GLM-5, excellent in agent-driven environments such as OpenClaw",
-        "link": "https://www.reddit.com/r/singularity/comments/1rukosw/glm5turbo_a_highspeed_variant_of_glm5_excellent/",
-        "image": "https://preview.redd.it/gcjqr9fvy8pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7677bd9ad93e52745c268edbc389b7e5902b74d7",
-        "published": "2026-03-15T17:52:23+00:00"
-    },
-    {
         "title": "Scientists discover AI can make humans more creative",
         "link": "https://www.reddit.com/r/singularity/comments/1rv8heg/scientists_discover_ai_can_make_humans_more/",
         "image": "https://external-preview.redd.it/046StBRqsRAhm5WWtipMZje6wXsT9-sbiPXOEyGmV14.jpeg?width=640&crop=smart&auto=webp&s=39527410e6eec2cf5b8ce79517caa703a0d0578d",
@@ -76,6 +70,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rva52q/fake_news_sites_made_by_llms_are_lying_with/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-16T13:56:28+00:00"
+    },
+    {
+        "title": "LLM Thematic Generalization Benchmark V2: models see 3 examples, 3 misleading anti-examples, and 8 candidates with exactly 1 true match, but the underlying theme is never stated. The challenge is to infer the specific hidden rule from those clues rather than fall for a broader, easier pattern.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvei1m/llm_thematic_generalization_benchmark_v2_models/",
+        "image": "https://preview.redd.it/oo4fkdnkpfpg1.png?width=640&crop=smart&auto=webp&s=060311df76e9a9b5fdae05139401795591e75d61",
+        "published": "2026-03-16T16:35:34+00:00"
     },
     {
         "title": "Nebius signs a new AI infrastructure agreement with Meta (up to ~$27B)",
