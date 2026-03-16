@@ -6,12 +6,6 @@
         "published": "2026-03-16T01:47:41+00:00"
     },
     {
-        "title": "AI Automation Risk Table by Karpathy",
-        "link": "https://www.reddit.com/r/singularity/comments/1runck6/ai_automation_risk_table_by_karpathy/",
-        "image": "https://preview.redd.it/2ztcc7vba9pg1.png?width=640&crop=smart&auto=webp&s=65ffd16c75ddb4761f239e1ad2f9b300ca77da5f",
-        "published": "2026-03-15T19:33:01+00:00"
-    },
-    {
         "title": "Musk to build own foundry in the US",
         "link": "https://www.reddit.com/r/singularity/comments/1ruw29k/musk_to_build_own_foundry_in_the_us/",
         "image": "https://preview.redd.it/3msptv4d7bpg1.png?width=320&crop=smart&auto=webp&s=9232c58451899e3c2926f1d4b65c7bff3d2075b2",
@@ -36,10 +30,22 @@
         "published": "2026-03-16T04:54:55+00:00"
     },
     {
+        "title": "Hydrogen Car: 1,500 km Range, 5-Second Fill-Up",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvixz9/hydrogen_car_1500_km_range_5second_fillup/",
+        "image": "https://external-preview.redd.it/ejY4bHVwM2hoZ3BnMUXL0ccW5737Rig1So4U13z3lq4j1L0SqhKhMLl3jaUy.png?width=320&crop=smart&auto=webp&s=70de5d52f71eb1d4851d90b8dc82c9998dfa95ca",
+        "published": "2026-03-16T19:09:01+00:00"
+    },
+    {
         "title": "Scientists discover AI can make humans more creative",
         "link": "https://www.reddit.com/r/singularity/comments/1rv8heg/scientists_discover_ai_can_make_humans_more/",
         "image": "https://external-preview.redd.it/046StBRqsRAhm5WWtipMZje6wXsT9-sbiPXOEyGmV14.jpeg?width=640&crop=smart&auto=webp&s=39527410e6eec2cf5b8ce79517caa703a0d0578d",
         "published": "2026-03-16T12:47:47+00:00"
+    },
+    {
+        "title": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvi27k/nvidia_dlss_5_delivers_aipowered_breakthrough_in/",
+        "image": "https://external-preview.redd.it/2z_miJri_1-GNLNgjHa4hfMZ0Wo2HjifoJzr450XKSU.jpeg?width=640&crop=smart&auto=webp&s=0f59be78349f59fca3b71b65db7828c98e35e170",
+        "published": "2026-03-16T18:39:04+00:00"
     },
     {
         "title": "Claude is still #1 in Canada",
@@ -54,6 +60,18 @@
         "published": "2026-03-16T02:09:34+00:00"
     },
     {
+        "title": "Mistral 4 rumors",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvi1ff/mistral_4_rumors/",
+        "image": "https://preview.redd.it/ot00ds70cgpg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=024abe868c0a7e75be2fb64aad85cdcca4d7f4ca",
+        "published": "2026-03-16T18:38:20+00:00"
+    },
+    {
+        "title": "LLM Thematic Generalization Benchmark V2: models see 3 examples, 3 misleading anti-examples, and 8 candidates with exactly 1 true match, but the underlying theme is never stated. The challenge is to infer the specific hidden rule from those clues rather than fall for a broader, easier pattern.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvei1m/llm_thematic_generalization_benchmark_v2_models/",
+        "image": "https://preview.redd.it/oo4fkdnkpfpg1.png?width=640&crop=smart&auto=webp&s=060311df76e9a9b5fdae05139401795591e75d61",
+        "published": "2026-03-16T16:35:34+00:00"
+    },
+    {
         "title": "Fake News sites made by LLMs are lying with confidence about IBM and Red Hat layoffs",
         "link": "https://www.reddit.com/r/singularity/comments/1rva52q/fake_news_sites_made_by_llms_are_lying_with/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -64,24 +82,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ruvp1r/the_race_to_build_ai_humanoid_soldiers_for_war/",
         "image": "https://external-preview.redd.it/AVpuecH1Sdc72qHQmQIFwfN3jjDXXBVfNkUPGlUI4MY.png?width=640&crop=smart&auto=webp&s=b08368419ac3e1fee6fa63cae6793e618ad9e895",
         "published": "2026-03-16T01:11:04+00:00"
-    },
-    {
-        "title": "LLM Thematic Generalization Benchmark V2: models see 3 examples, 3 misleading anti-examples, and 8 candidates with exactly 1 true match, but the underlying theme is never stated. The challenge is to infer the specific hidden rule from those clues rather than fall for a broader, easier pattern.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rvei1m/llm_thematic_generalization_benchmark_v2_models/",
-        "image": "https://preview.redd.it/oo4fkdnkpfpg1.png?width=640&crop=smart&auto=webp&s=060311df76e9a9b5fdae05139401795591e75d61",
-        "published": "2026-03-16T16:35:34+00:00"
-    },
-    {
-        "title": "Nebius signs a new AI infrastructure agreement with Meta (up to ~$27B)",
-        "link": "https://www.reddit.com/r/singularity/comments/1rv8d3w/nebius_signs_a_new_ai_infrastructure_agreement/",
-        "image": "https://preview.redd.it/74t1536ikepg1.jpeg?width=640&crop=smart&auto=webp&s=de1cdee6d5502a92e76efa46568033385c0c7701",
-        "published": "2026-03-16T12:42:24+00:00"
-    },
-    {
-        "title": "A map showing which Indian jobs are most at risk from AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1rv4l4u/a_map_showing_which_indian_jobs_are_most_at_risk/",
-        "image": "https://external-preview.redd.it/8vxPfB3q6zrSe6ga9BrieF2rWjhxOpzPDlaG_8QhhJU.png?width=640&crop=smart&auto=webp&s=0d4052159111f390388459ac2b2099dba072ba12",
-        "published": "2026-03-16T09:16:34+00:00"
     },
     {
         "title": "NVIDIA GTC keynote starting, 20K people waiting at NHL arena",
