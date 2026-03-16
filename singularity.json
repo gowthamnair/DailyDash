@@ -6,18 +6,6 @@
         "published": "2026-03-16T01:47:41+00:00"
     },
     {
-        "title": "Republicans release AI deepfake of James Talarico as phony videos proliferate in midterm races",
-        "link": "https://www.reddit.com/r/singularity/comments/1ruftva/republicans_release_ai_deepfake_of_james_talarico/",
-        "image": "https://external-preview.redd.it/X871rP1ZXgVIjWgv7NKbbRtfp2XuY3atQNJxRawUtXA.jpeg?width=640&crop=smart&auto=webp&s=9ffba9010a458a00f6f14f75be6bb7d8d3d33c12",
-        "published": "2026-03-15T14:44:03+00:00"
-    },
-    {
-        "title": "Over the last two months, NotebookLM has surpassed Perplexity in total visits.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rufyq0/over_the_last_two_months_notebooklm_has_surpassed/",
-        "image": "https://preview.redd.it/h3rshi3a28pg1.png?width=640&crop=smart&auto=webp&s=8552f551a7b2e68f3f031a4820216669cd643642",
-        "published": "2026-03-15T14:49:35+00:00"
-    },
-    {
         "title": "AI Automation Risk Table by Karpathy",
         "link": "https://www.reddit.com/r/singularity/comments/1runck6/ai_automation_risk_table_by_karpathy/",
         "image": "https://preview.redd.it/2ztcc7vba9pg1.png?width=640&crop=smart&auto=webp&s=65ffd16c75ddb4761f239e1ad2f9b300ca77da5f",
@@ -54,16 +42,16 @@
         "published": "2026-03-15T17:52:23+00:00"
     },
     {
-        "title": "Claude is still #1 in Canada",
-        "link": "https://www.reddit.com/r/singularity/comments/1rv7c6b/claude_is_still_1_in_canada/",
-        "image": "https://preview.redd.it/bdnaso9ubepg1.jpeg?width=640&crop=smart&auto=webp&s=7552be3d1d8d102c89f636559c5639e25571c2af",
-        "published": "2026-03-16T11:53:50+00:00"
-    },
-    {
         "title": "Scientists discover AI can make humans more creative",
         "link": "https://www.reddit.com/r/singularity/comments/1rv8heg/scientists_discover_ai_can_make_humans_more/",
         "image": "https://external-preview.redd.it/046StBRqsRAhm5WWtipMZje6wXsT9-sbiPXOEyGmV14.jpeg?width=640&crop=smart&auto=webp&s=39527410e6eec2cf5b8ce79517caa703a0d0578d",
         "published": "2026-03-16T12:47:47+00:00"
+    },
+    {
+        "title": "Claude is still #1 in Canada",
+        "link": "https://www.reddit.com/r/singularity/comments/1rv7c6b/claude_is_still_1_in_canada/",
+        "image": "https://preview.redd.it/bdnaso9ubepg1.jpeg?width=640&crop=smart&auto=webp&s=7552be3d1d8d102c89f636559c5639e25571c2af",
+        "published": "2026-03-16T11:53:50+00:00"
     },
     {
         "title": "The \"One Curve\" Hypothesis: Is Information a \"force\" building up the complexity of life and civilization? Much as gravity builds up the concentration of matter leading to stars",
@@ -76,6 +64,18 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ruvp1r/the_race_to_build_ai_humanoid_soldiers_for_war/",
         "image": "https://external-preview.redd.it/AVpuecH1Sdc72qHQmQIFwfN3jjDXXBVfNkUPGlUI4MY.png?width=640&crop=smart&auto=webp&s=b08368419ac3e1fee6fa63cae6793e618ad9e895",
         "published": "2026-03-16T01:11:04+00:00"
+    },
+    {
+        "title": "Fake News sites made by LLMs are lying with confidence about IBM and Red Hat layoffs",
+        "link": "https://www.reddit.com/r/singularity/comments/1rva52q/fake_news_sites_made_by_llms_are_lying_with/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-16T13:56:28+00:00"
+    },
+    {
+        "title": "NVIDIA Rubin: 336B Transistors, 288 GB HBM4, 22 TB/s Bandwidth, and the 10x Inference Cost Claim in Context",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvakxd/nvidia_rubin_336b_transistors_288_gb_hbm4_22_tbs/",
+        "image": "https://external-preview.redd.it/osQcytzmXffUlkX9umPObBLWFB486qiNPxl0T5rxn90.png?width=640&crop=smart&auto=webp&s=f4842d67ef3748e8a89badec2bb619d0cfae26d0",
+        "published": "2026-03-16T14:13:18+00:00"
     },
     {
         "title": "Nebius signs a new AI infrastructure agreement with Meta (up to ~$27B)",
