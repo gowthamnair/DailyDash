@@ -48,16 +48,16 @@
         "published": "2026-03-17T17:49:30+00:00"
     },
     {
-        "title": "KAIST humanoid V0.7 can moonwalk",
-        "link": "https://www.reddit.com/r/singularity/comments/1rvzydl/kaist_humanoid_v07_can_moonwalk/",
-        "image": "https://external-preview.redd.it/cDl5bXR1b3Y1a3BnMTLIuimFl5MgjanP8W9ev3iap4SeGbszhwU5PeWkUW_H.png?width=640&crop=smart&auto=webp&s=e7db758250db9424f0d3ce1ef2447bc0b46365c5",
-        "published": "2026-03-17T07:32:16+00:00"
-    },
-    {
         "title": "Sharpa's North the humanoid robot, builds a PC with impressive precision",
         "link": "https://www.reddit.com/r/singularity/comments/1rwd4ic/sharpas_north_the_humanoid_robot_builds_a_pc_with/",
         "image": "https://external-preview.redd.it/Mzk5OG5weTc0bnBnMSgyGFTPC6Qw7X7tzIDzNZYPfFxc0YJOOMsnOcYnht2S.png?width=640&crop=smart&auto=webp&s=d49fa33d03b5cc9349e9b1c307fc40c52e45fd13",
         "published": "2026-03-17T17:27:14+00:00"
+    },
+    {
+        "title": "GPT-5.4 can solve one face of a Rubik's cube!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
+        "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
+        "published": "2026-03-18T04:54:04+00:00"
     },
     {
         "title": "We can now generate and edit 30s 1080p videos in real-time",
@@ -72,12 +72,6 @@
         "published": "2026-03-17T17:42:34+00:00"
     },
     {
-        "title": "GPT-5.4 can solve one face of a Rubik's cube!",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
-        "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
-        "published": "2026-03-18T04:54:04+00:00"
-    },
-    {
         "title": "Firefighting drones head to Aspen\u2014can they suppress a blaze before humans arrive?",
         "link": "https://www.reddit.com/r/singularity/comments/1rw98xq/firefighting_drones_head_to_aspencan_they/",
         "image": "https://external-preview.redd.it/symiYUbt5A_xIf0hHyoLQQu5Pmla4VFpHpsKSQspbcw.jpeg?width=640&crop=smart&auto=webp&s=d6976a028e9a198f86e0bf13bbc799ac55667b5d",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rwlq5d/fastvideo_generate_and_edit_videos_faster_than/",
         "image": "https://external-preview.redd.it/-0J9iuj4kKDMBWJYcO5hPlI_-FCDoBr6gt-yp5VaeXY.jpeg?width=320&crop=smart&auto=webp&s=44b84bf4f581d8442f82eb72614fd699576e47a0",
         "published": "2026-03-17T22:30:51+00:00"
+    },
+    {
+        "title": "\"Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science\" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwowov/why_ai_systems_dont_learn_and_what_to_do_about_it/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-18T00:34:36+00:00"
     }
 ]

@@ -12,12 +12,6 @@
         "published": "2026-03-17T21:51:08+00:00"
     },
     {
-        "title": "Elizabeth Warren asks Meta, Amazon, and others why they're laying workers off despite tax perks",
-        "link": "https://www.reddit.com/r/technology/comments/1rvzojl/elizabeth_warren_asks_meta_amazon_and_others_why/",
-        "image": "https://external-preview.redd.it/VKjGGflDPCG48FL9b5BOyubBSpn5V1tF-tQIqwPrxAc.jpeg?width=640&crop=smart&auto=webp&s=01097c2dcef38769a89ab1dd4917d05b115b592f",
-        "published": "2026-03-17T07:14:30+00:00"
-    },
-    {
         "title": "Nvidia DLSS 5 turns every game into AI slop",
         "link": "https://www.reddit.com/r/technology/comments/1rwde7b/nvidia_dlss_5_turns_every_game_into_ai_slop/",
         "image": "https://external-preview.redd.it/GraiRNr4zsmRzbTFkxsGhspbw0ga8uAHxHHfI4414hQ.jpeg?width=640&crop=smart&auto=webp&s=091d015c4173247f08ea6db6bdcd10fa98bb5d66",
@@ -30,16 +24,16 @@
         "published": "2026-03-17T21:43:25+00:00"
     },
     {
-        "title": "Amazon Owes New York City Almost $10 Million in Vehicle Idling Fines: Report",
-        "link": "https://www.reddit.com/r/technology/comments/1rw39gl/amazon_owes_new_york_city_almost_10_million_in/",
-        "image": "https://external-preview.redd.it/y-e2kDoy_7SNQwnXhu5FxPrk5nez5BwgSYAE1vUXuHY.jpeg?width=640&crop=smart&auto=webp&s=3dcb7f1cb5a0c2cdc4e6ad5b7a4e59b617c157b5",
-        "published": "2026-03-17T10:55:53+00:00"
-    },
-    {
         "title": "CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
         "link": "https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/",
         "image": "https://external-preview.redd.it/SYX54kxs1OOc4vLXSfiCU-PaiQPZZU8XbyYFyKeAJLQ.png?width=640&crop=smart&auto=webp&s=e52ddb4a689c57f62d9b64b606a637d45fed123e",
         "published": "2026-03-18T02:12:04+00:00"
+    },
+    {
+        "title": "Amazon Owes New York City Almost $10 Million in Vehicle Idling Fines: Report",
+        "link": "https://www.reddit.com/r/technology/comments/1rw39gl/amazon_owes_new_york_city_almost_10_million_in/",
+        "image": "https://external-preview.redd.it/y-e2kDoy_7SNQwnXhu5FxPrk5nez5BwgSYAE1vUXuHY.jpeg?width=640&crop=smart&auto=webp&s=3dcb7f1cb5a0c2cdc4e6ad5b7a4e59b617c157b5",
+        "published": "2026-03-17T10:55:53+00:00"
     },
     {
         "title": "AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1rwfoie/nvidias_dlss_5_is_a_slap_in_the_face_to_the_art/",
         "image": "https://external-preview.redd.it/YHWc6A_hfhaw8nRvaCggjNWGFlaa9oH_RCRR48vIs-w.jpeg?width=640&crop=smart&auto=webp&s=a5679dc208e6a79a5dd9ad88c1c779b051bd7608",
         "published": "2026-03-17T18:54:25+00:00"
+    },
+    {
+        "title": "A London judge says a witness was being coached in real time through smart glasses",
+        "link": "https://www.reddit.com/r/technology/comments/1rw61w7/a_london_judge_says_a_witness_was_being_coached/",
+        "image": "https://external-preview.redd.it/yLEtkSRNX5iD5WDpZGH0nIB7K_TTMuT5mfU1_Jy3Ztc.jpeg?width=640&crop=smart&auto=webp&s=aef3f2671b1b24afa74bfad36033567c0dd7fd1c",
+        "published": "2026-03-17T13:08:33+00:00"
     }
 ]
