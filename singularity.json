@@ -12,16 +12,16 @@
         "published": "2026-03-17T18:20:20+00:00"
     },
     {
-        "title": "When Using Work Claude",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwi5ig/when_using_work_claude/",
-        "image": "https://preview.redd.it/qbswjm3zynpg1.jpeg?width=640&crop=smart&auto=webp&s=19512e9e9dca9576e4720656a653ebab152e5fc0",
-        "published": "2026-03-17T20:19:32+00:00"
-    },
-    {
         "title": "After $80B, the Metaverse is dead. Horizon World is shutting down",
         "link": "https://www.reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
         "image": "https://preview.redd.it/yvd1je79ltpg1.png?width=640&crop=smart&auto=webp&s=1e071ed3d9e4f648faf7c312176809532b808dae",
         "published": "2026-03-18T15:13:23+00:00"
+    },
+    {
+        "title": "When Using Work Claude",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwi5ig/when_using_work_claude/",
+        "image": "https://preview.redd.it/qbswjm3zynpg1.jpeg?width=640&crop=smart&auto=webp&s=19512e9e9dca9576e4720656a653ebab152e5fc0",
+        "published": "2026-03-17T20:19:32+00:00"
     },
     {
         "title": "Built an open source tool that can find precise coordinates of any picture",
@@ -30,28 +30,16 @@
         "published": "2026-03-18T10:36:11+00:00"
     },
     {
-        "title": "New AI math benchmark finds GPT-5.4 Pro has made progress on two unsolved math problems",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwbwxs/new_ai_math_benchmark_finds_gpt54_pro_has_made/",
-        "image": "https://preview.redd.it/o1j5xolrwmpg1.png?width=640&crop=smart&auto=webp&s=c26954d9f8c5e37d52e26f453018c57320946b42",
-        "published": "2026-03-17T16:45:27+00:00"
-    },
-    {
         "title": "GPT-5.4 can solve one face of a Rubik's cube!",
         "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
         "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
         "published": "2026-03-18T04:54:04+00:00"
     },
     {
-        "title": "OpenAI releases mini and nano variants of GPT 5.4",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwdrvw/openai_releases_mini_and_nano_variants_of_gpt_54/",
-        "image": "https://preview.redd.it/x4mvq0hw7npg1.png?width=140&height=105&auto=webp&s=6c525aa7156ced2bb023183a946a2ea14ce7ddf2",
-        "published": "2026-03-17T17:49:30+00:00"
-    },
-    {
-        "title": "Sharpa's North the humanoid robot, builds a PC with impressive precision",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwd4ic/sharpas_north_the_humanoid_robot_builds_a_pc_with/",
-        "image": "https://external-preview.redd.it/Mzk5OG5weTc0bnBnMSgyGFTPC6Qw7X7tzIDzNZYPfFxc0YJOOMsnOcYnht2S.png?width=640&crop=smart&auto=webp&s=d49fa33d03b5cc9349e9b1c307fc40c52e45fd13",
-        "published": "2026-03-17T17:27:14+00:00"
+        "title": "Robot dancing is going well",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx5wd8/robot_dancing_is_going_well/",
+        "image": "https://external-preview.redd.it/MjhxdW5obGpndHBnMbmUR9NA2lfguQP62-5jzdRbwwarYeMd_kFG8snHBIX1.png?width=320&crop=smart&auto=webp&s=5028c70a2374b6a036421a3fb610827151c92341",
+        "published": "2026-03-18T14:46:55+00:00"
     },
     {
         "title": "We can now generate and edit 30s 1080p videos in real-time",
@@ -72,21 +60,33 @@
         "published": "2026-03-18T12:40:36+00:00"
     },
     {
-        "title": "Robot dancing is going well",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx5wd8/robot_dancing_is_going_well/",
-        "image": "https://external-preview.redd.it/MjhxdW5obGpndHBnMbmUR9NA2lfguQP62-5jzdRbwwarYeMd_kFG8snHBIX1.png?width=320&crop=smart&auto=webp&s=5028c70a2374b6a036421a3fb610827151c92341",
-        "published": "2026-03-18T14:46:55+00:00"
-    },
-    {
-        "title": "Researchers looking to implement AI and robotics into pig factory farming due to disease risk and trouble recruiting workers",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwdkly/researchers_looking_to_implement_ai_and_robotics/",
-        "image": "https://preview.redd.it/4hu5m2jp6npg1.jpeg?width=320&crop=smart&auto=webp&s=a5bd6d903b5344b3d3d488bffa5dd335db900d13",
-        "published": "2026-03-17T17:42:34+00:00"
-    },
-    {
         "title": "Humanoid soldier robots are being deployed to the front lines in Ukraine",
         "link": "https://www.reddit.com/r/singularity/comments/1rx205w/humanoid_soldier_robots_are_being_deployed_to_the/",
         "image": "https://external-preview.redd.it/AVpuecH1Sdc72qHQmQIFwfN3jjDXXBVfNkUPGlUI4MY.png?width=640&crop=smart&auto=webp&s=b08368419ac3e1fee6fa63cae6793e618ad9e895",
         "published": "2026-03-18T12:03:48+00:00"
+    },
+    {
+        "title": "\"Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science\" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwowov/why_ai_systems_dont_learn_and_what_to_do_about_it/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-18T00:34:36+00:00"
+    },
+    {
+        "title": "Nvidia announces new scientific research agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx62d1/nvidia_announces_new_scientific_research_agent/",
+        "image": "https://external-preview.redd.it/FShJFApV9bl3QG_EsThcVCgGzOQ5p2RC8GrjAQ1VRmg.jpeg?width=320&crop=smart&auto=webp&s=be5cfbbd1bff1313b03765f85448d35fc763dc6f",
+        "published": "2026-03-18T14:53:29+00:00"
+    },
+    {
+        "title": "FastVideo: Generate and edit videos faster than you can watch them - interactivity unlocked",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwlq5d/fastvideo_generate_and_edit_videos_faster_than/",
+        "image": "https://external-preview.redd.it/-0J9iuj4kKDMBWJYcO5hPlI_-FCDoBr6gt-yp5VaeXY.jpeg?width=320&crop=smart&auto=webp&s=44b84bf4f581d8442f82eb72614fd699576e47a0",
+        "published": "2026-03-17T22:30:51+00:00"
+    },
+    {
+        "title": "Introducing Unsloth Studio: an open-source web UI to run and train AI models",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx3wbc/introducing_unsloth_studio_an_opensource_web_ui/",
+        "image": "https://external-preview.redd.it/NXN4bDl3eDcydHBnMblWvsZMy_2bMKMZkfgZGp81m2cFIzow69YX-wypug2i.png?width=640&crop=smart&auto=webp&s=cd8db00b9d73e723a5965c094cc501e3597d1455",
+        "published": "2026-03-18T13:28:03+00:00"
     }
 ]
