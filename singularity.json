@@ -6,22 +6,10 @@
         "published": "2026-03-18T15:13:23+00:00"
     },
     {
-        "title": "When Using Work Claude",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwi5ig/when_using_work_claude/",
-        "image": "https://preview.redd.it/qbswjm3zynpg1.jpeg?width=640&crop=smart&auto=webp&s=19512e9e9dca9576e4720656a653ebab152e5fc0",
-        "published": "2026-03-17T20:19:32+00:00"
-    },
-    {
         "title": "Built an open source tool that can find precise coordinates of any picture",
         "link": "https://www.reddit.com/r/singularity/comments/1rx0abd/built_an_open_source_tool_that_can_find_precise/",
         "image": "https://external-preview.redd.it/eGtsY3c0dmk3c3BnMW1RQX78FX5m9oa_yCXpv3ksZHPLBUQk0I9DT1_IhgRC.png?width=640&crop=smart&auto=webp&s=3c8ac1f9ccce12971d315d497e64ae0081889d56",
         "published": "2026-03-18T10:36:11+00:00"
-    },
-    {
-        "title": "Robot dancing is going well",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx5wd8/robot_dancing_is_going_well/",
-        "image": "https://external-preview.redd.it/MjhxdW5obGpndHBnMbmUR9NA2lfguQP62-5jzdRbwwarYeMd_kFG8snHBIX1.png?width=320&crop=smart&auto=webp&s=5028c70a2374b6a036421a3fb610827151c92341",
-        "published": "2026-03-18T14:46:55+00:00"
     },
     {
         "title": "GPT-5.4 can solve one face of a Rubik's cube!",
@@ -34,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rwq1v2/we_can_now_generate_and_edit_30s_1080p_videos_in/",
         "image": "https://external-preview.redd.it/JJeb7V0JEtJhxE-xLZUdX79NJKw6_ANoq3pmlxLrTyo.png?width=640&crop=smart&auto=webp&s=7416db385c81f5fbd44de606a85882e45ad164db",
         "published": "2026-03-18T01:23:21+00:00"
-    },
-    {
-        "title": "I trained a model on childhood photos to simulate memory recall - [More info in post's description]",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx6ied/i_trained_a_model_on_childhood_photos_to_simulate/",
-        "image": "https://external-preview.redd.it/bputhIHH2AewfOSYJ0zAoczSaGKAJvNB9D7nbYRj-bg.png?width=640&crop=smart&auto=webp&s=4e631683859a293b7a80d57410ed73843f904d6d",
-        "published": "2026-03-18T15:10:06+00:00"
     },
     {
         "title": "MiniMax M2.7 is here: Impressive advances on GDPval!",
@@ -72,10 +54,10 @@
         "published": "2026-03-17T22:30:51+00:00"
     },
     {
-        "title": "OpenAI Frontier Research: \"Extending single-minus amplitudes to gravitons\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwqvwn/openai_frontier_research_extending_singleminus/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-18T02:00:02+00:00"
+        "title": "Harmonic unleashes Aristotle, the world's first formal mathematician agent for free",
+        "link": "https://www.reddit.com/r/singularity/comments/1rxdu0c/harmonic_unleashes_aristotle_the_worlds_first/",
+        "image": "https://preview.redd.it/up68kct1wupg1.png?width=640&crop=smart&auto=webp&s=6b579f20c911de016c954b8929af92b0923c567d",
+        "published": "2026-03-18T19:35:39+00:00"
     },
     {
         "title": "No! Meta didn't spend 80 billion dollars on this shit*y game and is not giving up on VR. That's just disinformation",
@@ -84,9 +66,21 @@
         "published": "2026-03-18T16:23:04+00:00"
     },
     {
+        "title": "OpenAI Frontier Research: \"Extending single-minus amplitudes to gravitons\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwqvwn/openai_frontier_research_extending_singleminus/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-18T02:00:02+00:00"
+    },
+    {
         "title": "Genome modeling and design across of all domains of life with Evo 2",
         "link": "https://www.reddit.com/r/singularity/comments/1rx10f4/genome_modeling_and_design_across_of_all_domains/",
         "image": "https://external-preview.redd.it/hX7SE_ndPRc2iwpnqJ-CuTYabWm0-MWWL81djaQUdV0.jpeg?width=320&crop=smart&auto=webp&s=ad9d928d5fb12cee4a2a8d053d64df1a9e11350b",
         "published": "2026-03-18T11:14:16+00:00"
+    },
+    {
+        "title": "Is It Really Impossible To Cool A Datacenter In Space?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rxeniv/is_it_really_impossible_to_cool_a_datacenter_in/",
+        "image": "https://external-preview.redd.it/YeyjL4c_5Oycz7354Ap9xmDBPzaDsB25xMGwMbcdhNE.jpeg?width=320&crop=smart&auto=webp&s=853a50445343fcab62d28dae775906292a1d4139",
+        "published": "2026-03-18T20:05:01+00:00"
     }
 ]
