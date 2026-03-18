@@ -30,28 +30,16 @@
         "published": "2026-03-18T00:00:59+00:00"
     },
     {
-        "title": "Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds",
-        "link": "https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/",
-        "image": "https://external-preview.redd.it/P7Pv38fkfCyd22tkpawc7SB4NVFMmTbCJbL2bFFzG2Q.jpeg?width=640&crop=smart&auto=webp&s=3862366328785fb875d2d243851e5b1622e4bce5",
-        "published": "2026-03-18T10:52:52+00:00"
-    },
-    {
         "title": "Robot dogs priced at $300,000 a piece are now guarding some of the country\u2019s biggest data centers",
         "link": "https://www.reddit.com/r/technology/comments/1rx85a3/robot_dogs_priced_at_300000_a_piece_are_now/",
         "image": "https://external-preview.redd.it/Z4xnzFV-cEJxH_6xcyLZKtnjsLuDaf1TGp0n3ogEfA4.jpeg?width=640&crop=smart&auto=webp&s=a811f3da9e8ade9e569ed0be134ff94ebd3b7f33",
         "published": "2026-03-18T16:11:12+00:00"
     },
     {
-        "title": "Arizona charges Kalshi, alleging illegal gambling with election bets",
-        "link": "https://www.reddit.com/r/technology/comments/1rwev3z/arizona_charges_kalshi_alleging_illegal_gambling/",
-        "image": "https://external-preview.redd.it/Q4mQWhHTzC3LJjqEH2hGcqm2ma-NhAxVWsCEGNg_YT4.jpeg?width=640&crop=smart&auto=webp&s=b8056325cfde44cfaed11551ed13db45615d01a0",
-        "published": "2026-03-17T18:26:32+00:00"
-    },
-    {
-        "title": "Nvidia's DLSS 5 Is a Slap in the Face to the Art of Video Game Design",
-        "link": "https://www.reddit.com/r/technology/comments/1rwfoie/nvidias_dlss_5_is_a_slap_in_the_face_to_the_art/",
-        "image": "https://external-preview.redd.it/YHWc6A_hfhaw8nRvaCggjNWGFlaa9oH_RCRR48vIs-w.jpeg?width=640&crop=smart&auto=webp&s=a5679dc208e6a79a5dd9ad88c1c779b051bd7608",
-        "published": "2026-03-17T18:54:25+00:00"
+        "title": "Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds",
+        "link": "https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/",
+        "image": "https://external-preview.redd.it/P7Pv38fkfCyd22tkpawc7SB4NVFMmTbCJbL2bFFzG2Q.jpeg?width=640&crop=smart&auto=webp&s=3862366328785fb875d2d243851e5b1622e4bce5",
+        "published": "2026-03-18T10:52:52+00:00"
     },
     {
         "title": "Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are \"completely wrong\"",
@@ -60,16 +48,16 @@
         "published": "2026-03-18T13:27:39+00:00"
     },
     {
+        "title": "Nvidia's DLSS 5 Is a Slap in the Face to the Art of Video Game Design",
+        "link": "https://www.reddit.com/r/technology/comments/1rwfoie/nvidias_dlss_5_is_a_slap_in_the_face_to_the_art/",
+        "image": "https://external-preview.redd.it/YHWc6A_hfhaw8nRvaCggjNWGFlaa9oH_RCRR48vIs-w.jpeg?width=640&crop=smart&auto=webp&s=a5679dc208e6a79a5dd9ad88c1c779b051bd7608",
+        "published": "2026-03-17T18:54:25+00:00"
+    },
+    {
         "title": "Netanyahu Posts \u2018Proof of Life\u2019 Video as A.I. Sows Doubts About What\u2019s Real",
         "link": "https://www.reddit.com/r/technology/comments/1rwhudq/netanyahu_posts_proof_of_life_video_as_ai_sows/",
         "image": "https://external-preview.redd.it/MW-yDM__qveA5J1dYoXFxKs2fS2K49utvIddntrTSVk.png?width=640&crop=smart&auto=webp&s=afa44fa342bbddf4b593c3006a99c21cf9eb4188",
         "published": "2026-03-17T20:08:52+00:00"
-    },
-    {
-        "title": "Betting on the Oscars or the Super Bowl halftime show would be banned under new prediction market bill",
-        "link": "https://www.reddit.com/r/technology/comments/1rwfwem/betting_on_the_oscars_or_the_super_bowl_halftime/",
-        "image": "https://external-preview.redd.it/U9TTBmI4469Aw4G_E5x6LyjJC-NfYZXrwOGBfYBEJlE.jpeg?width=640&crop=smart&auto=webp&s=ffd70a38aaad0ec106957a8670c3e78349a23da4",
-        "published": "2026-03-17T19:01:42+00:00"
     },
     {
         "title": "Britain plans to consider requiring labels on AI-generated content to protect consumers from disinformation and deepfakes, the government said",
@@ -78,15 +66,27 @@
         "published": "2026-03-18T13:29:44+00:00"
     },
     {
+        "title": "Betting on the Oscars or the Super Bowl halftime show would be banned under new prediction market bill",
+        "link": "https://www.reddit.com/r/technology/comments/1rwfwem/betting_on_the_oscars_or_the_super_bowl_halftime/",
+        "image": "https://external-preview.redd.it/U9TTBmI4469Aw4G_E5x6LyjJC-NfYZXrwOGBfYBEJlE.jpeg?width=640&crop=smart&auto=webp&s=ffd70a38aaad0ec106957a8670c3e78349a23da4",
+        "published": "2026-03-17T19:01:42+00:00"
+    },
+    {
         "title": "Nurses, constituents demand Collins return donations from Palantir, ICE\u2019s top tech contractor",
         "link": "https://www.reddit.com/r/technology/comments/1rx2atr/nurses_constituents_demand_collins_return/",
         "image": "https://external-preview.redd.it/gkUXEaeujPbBjelK0UGYBJYKSGJKBgv3mzI20nkKnZY.jpeg?width=640&crop=smart&auto=webp&s=a4440f81e739e2d4d9b53f2880fc8a0e0014a00d",
         "published": "2026-03-18T12:18:05+00:00"
     },
     {
-        "title": "AI still doesn't work very well in business, reckoning soon",
-        "link": "https://www.reddit.com/r/technology/comments/1rwesuj/ai_still_doesnt_work_very_well_in_business/",
-        "image": "https://external-preview.redd.it/rNdT5CD4EWwyAYV7GAW8vVpsdDfAJZbWWSb6zQtgf5M.jpeg?width=640&crop=smart&auto=webp&s=d52e2ff7871dc7337458883fd5fbca31b16489d8",
-        "published": "2026-03-17T18:24:23+00:00"
+        "title": "The New BMW i3 Has More Range Than Any Tesla",
+        "link": "https://www.reddit.com/r/technology/comments/1rx709o/the_new_bmw_i3_has_more_range_than_any_tesla/",
+        "image": "https://external-preview.redd.it/ojq96NYO-lbBEr5EqkaVmoLwl29lgN0ts0GBx9O_F0E.jpeg?width=640&crop=smart&auto=webp&s=bc81318448bb52434d56660cf92d8930bc16d760",
+        "published": "2026-03-18T15:29:01+00:00"
+    },
+    {
+        "title": "Washington's direct-to-consumer bill passed! Rivian and Lucid can sell directly to consumers in WA.",
+        "link": "https://www.reddit.com/r/technology/comments/1rx6rcu/washingtons_directtoconsumer_bill_passed_rivian/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-18T15:19:41+00:00"
     }
 ]
