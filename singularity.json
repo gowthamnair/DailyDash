@@ -48,22 +48,28 @@
         "published": "2026-03-17T16:45:27+00:00"
     },
     {
-        "title": "KAIST humanoid V0.7 can moonwalk",
-        "link": "https://www.reddit.com/r/singularity/comments/1rvzydl/kaist_humanoid_v07_can_moonwalk/",
-        "image": "https://external-preview.redd.it/cDl5bXR1b3Y1a3BnMTLIuimFl5MgjanP8W9ev3iap4SeGbszhwU5PeWkUW_H.png?width=640&crop=smart&auto=webp&s=e7db758250db9424f0d3ce1ef2447bc0b46365c5",
-        "published": "2026-03-17T07:32:16+00:00"
-    },
-    {
         "title": "OpenAI releases mini and nano variants of GPT 5.4",
         "link": "https://www.reddit.com/r/singularity/comments/1rwdrvw/openai_releases_mini_and_nano_variants_of_gpt_54/",
         "image": "https://preview.redd.it/x4mvq0hw7npg1.png?width=140&height=105&auto=webp&s=6c525aa7156ced2bb023183a946a2ea14ce7ddf2",
         "published": "2026-03-17T17:49:30+00:00"
     },
     {
+        "title": "KAIST humanoid V0.7 can moonwalk",
+        "link": "https://www.reddit.com/r/singularity/comments/1rvzydl/kaist_humanoid_v07_can_moonwalk/",
+        "image": "https://external-preview.redd.it/cDl5bXR1b3Y1a3BnMTLIuimFl5MgjanP8W9ev3iap4SeGbszhwU5PeWkUW_H.png?width=640&crop=smart&auto=webp&s=e7db758250db9424f0d3ce1ef2447bc0b46365c5",
+        "published": "2026-03-17T07:32:16+00:00"
+    },
+    {
         "title": "Sharpa's North the humanoid robot, builds a PC with impressive precision",
         "link": "https://www.reddit.com/r/singularity/comments/1rwd4ic/sharpas_north_the_humanoid_robot_builds_a_pc_with/",
         "image": "https://external-preview.redd.it/Mzk5OG5weTc0bnBnMSgyGFTPC6Qw7X7tzIDzNZYPfFxc0YJOOMsnOcYnht2S.png?width=640&crop=smart&auto=webp&s=d49fa33d03b5cc9349e9b1c307fc40c52e45fd13",
         "published": "2026-03-17T17:27:14+00:00"
+    },
+    {
+        "title": "We can now generate and edit 30s 1080p videos in real-time",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwq1v2/we_can_now_generate_and_edit_30s_1080p_videos_in/",
+        "image": "https://external-preview.redd.it/JJeb7V0JEtJhxE-xLZUdX79NJKw6_ANoq3pmlxLrTyo.png?width=640&crop=smart&auto=webp&s=7416db385c81f5fbd44de606a85882e45ad164db",
+        "published": "2026-03-18T01:23:21+00:00"
     },
     {
         "title": "Researchers looking to implement AI and robotics into pig factory farming due to disease risk and trouble recruiting workers",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rw98xq/firefighting_drones_head_to_aspencan_they/",
         "image": "https://external-preview.redd.it/symiYUbt5A_xIf0hHyoLQQu5Pmla4VFpHpsKSQspbcw.jpeg?width=640&crop=smart&auto=webp&s=d6976a028e9a198f86e0bf13bbc799ac55667b5d",
         "published": "2026-03-17T15:10:55+00:00"
-    },
-    {
-        "title": "FastVideo: Generate and edit videos faster than you can watch them - interactivity unlocked",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwlq5d/fastvideo_generate_and_edit_videos_faster_than/",
-        "image": "https://external-preview.redd.it/-0J9iuj4kKDMBWJYcO5hPlI_-FCDoBr6gt-yp5VaeXY.jpeg?width=320&crop=smart&auto=webp&s=44b84bf4f581d8442f82eb72614fd699576e47a0",
-        "published": "2026-03-17T22:30:51+00:00"
     }
 ]
