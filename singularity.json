@@ -1,11 +1,5 @@
 [
     {
-        "title": "This was funny",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwg6u8/this_was_funny/",
-        "image": "https://preview.redd.it/rmdl9j4smnpg1.png?width=640&crop=smart&auto=webp&s=d86816a1af552618c9bfe806e9ecb100eed6bc53",
-        "published": "2026-03-17T19:11:32+00:00"
-    },
-    {
         "title": "After $80B, the Metaverse is dead. Horizon World is shutting down",
         "link": "https://www.reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
         "image": "https://preview.redd.it/yvd1je79ltpg1.png?width=640&crop=smart&auto=webp&s=1e071ed3d9e4f648faf7c312176809532b808dae",
@@ -24,16 +18,16 @@
         "published": "2026-03-18T10:36:11+00:00"
     },
     {
-        "title": "GPT-5.4 can solve one face of a Rubik's cube!",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
-        "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
-        "published": "2026-03-18T04:54:04+00:00"
-    },
-    {
         "title": "Robot dancing is going well",
         "link": "https://www.reddit.com/r/singularity/comments/1rx5wd8/robot_dancing_is_going_well/",
         "image": "https://external-preview.redd.it/MjhxdW5obGpndHBnMbmUR9NA2lfguQP62-5jzdRbwwarYeMd_kFG8snHBIX1.png?width=320&crop=smart&auto=webp&s=5028c70a2374b6a036421a3fb610827151c92341",
         "published": "2026-03-18T14:46:55+00:00"
+    },
+    {
+        "title": "GPT-5.4 can solve one face of a Rubik's cube!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
+        "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
+        "published": "2026-03-18T04:54:04+00:00"
     },
     {
         "title": "We can now generate and edit 30s 1080p videos in real-time",
@@ -54,12 +48,6 @@
         "published": "2026-03-18T12:40:36+00:00"
     },
     {
-        "title": "Humanoid soldier robots are being deployed to the front lines in Ukraine",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx205w/humanoid_soldier_robots_are_being_deployed_to_the/",
-        "image": "https://external-preview.redd.it/AVpuecH1Sdc72qHQmQIFwfN3jjDXXBVfNkUPGlUI4MY.png?width=640&crop=smart&auto=webp&s=b08368419ac3e1fee6fa63cae6793e618ad9e895",
-        "published": "2026-03-18T12:03:48+00:00"
-    },
-    {
         "title": "Nvidia announces new scientific research agent",
         "link": "https://www.reddit.com/r/singularity/comments/1rx62d1/nvidia_announces_new_scientific_research_agent/",
         "image": "https://external-preview.redd.it/FShJFApV9bl3QG_EsThcVCgGzOQ5p2RC8GrjAQ1VRmg.jpeg?width=320&crop=smart&auto=webp&s=be5cfbbd1bff1313b03765f85448d35fc763dc6f",
@@ -72,21 +60,33 @@
         "published": "2026-03-18T00:34:36+00:00"
     },
     {
-        "title": "FastVideo: Generate and edit videos faster than you can watch them - interactivity unlocked",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwlq5d/fastvideo_generate_and_edit_videos_faster_than/",
-        "image": "https://external-preview.redd.it/-0J9iuj4kKDMBWJYcO5hPlI_-FCDoBr6gt-yp5VaeXY.jpeg?width=320&crop=smart&auto=webp&s=44b84bf4f581d8442f82eb72614fd699576e47a0",
-        "published": "2026-03-17T22:30:51+00:00"
-    },
-    {
         "title": "Introducing Unsloth Studio: an open-source web UI to run and train AI models",
         "link": "https://www.reddit.com/r/singularity/comments/1rx3wbc/introducing_unsloth_studio_an_opensource_web_ui/",
         "image": "https://external-preview.redd.it/NXN4bDl3eDcydHBnMblWvsZMy_2bMKMZkfgZGp81m2cFIzow69YX-wypug2i.png?width=640&crop=smart&auto=webp&s=cd8db00b9d73e723a5965c094cc501e3597d1455",
         "published": "2026-03-18T13:28:03+00:00"
     },
     {
+        "title": "FastVideo: Generate and edit videos faster than you can watch them - interactivity unlocked",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwlq5d/fastvideo_generate_and_edit_videos_faster_than/",
+        "image": "https://external-preview.redd.it/-0J9iuj4kKDMBWJYcO5hPlI_-FCDoBr6gt-yp5VaeXY.jpeg?width=320&crop=smart&auto=webp&s=44b84bf4f581d8442f82eb72614fd699576e47a0",
+        "published": "2026-03-17T22:30:51+00:00"
+    },
+    {
         "title": "OpenAI Frontier Research: \"Extending single-minus amplitudes to gravitons\"",
         "link": "https://www.reddit.com/r/singularity/comments/1rwqvwn/openai_frontier_research_extending_singleminus/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-18T02:00:02+00:00"
+    },
+    {
+        "title": "No! Meta didn't spend 80 billion dollars on this shit*y game and is not giving up on VR. That's just disinformation",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx8gtn/no_meta_didnt_spend_80_billion_dollars_on_this/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-18T16:23:04+00:00"
+    },
+    {
+        "title": "Genome modeling and design across of all domains of life with Evo 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx10f4/genome_modeling_and_design_across_of_all_domains/",
+        "image": "https://external-preview.redd.it/hX7SE_ndPRc2iwpnqJ-CuTYabWm0-MWWL81djaQUdV0.jpeg?width=320&crop=smart&auto=webp&s=ad9d928d5fb12cee4a2a8d053d64df1a9e11350b",
+        "published": "2026-03-18T11:14:16+00:00"
     }
 ]
