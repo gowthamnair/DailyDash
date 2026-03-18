@@ -12,12 +12,6 @@
         "published": "2026-03-17T18:20:20+00:00"
     },
     {
-        "title": "Antrophic CEO says 50% entry-level white-collar jobs will be eradicated within 3 years",
-        "link": "https://www.reddit.com/r/singularity/comments/1rw2tan/antrophic_ceo_says_50_entrylevel_whitecollar_jobs/",
-        "image": "https://external-preview.redd.it/anhjbnV5NnkxbHBnMd_ynVIVjPLAPlW8Oim1nfZEggru4ZMgyfzZNjY7zYCw.png?width=640&crop=smart&auto=webp&s=9e9186e6457666bb979a008a7ac62071bb618918",
-        "published": "2026-03-17T10:31:15+00:00"
-    },
-    {
         "title": "When Using Work Claude",
         "link": "https://www.reddit.com/r/singularity/comments/1rwi5ig/when_using_work_claude/",
         "image": "https://preview.redd.it/qbswjm3zynpg1.jpeg?width=640&crop=smart&auto=webp&s=19512e9e9dca9576e4720656a653ebab152e5fc0",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rwqvwn/openai_frontier_research_extending_singleminus/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-18T02:00:02+00:00"
+    },
+    {
+        "title": "[Release] Falcon-H1R-7B-Heretic-V2: A fully abliterated hybrid (SSM/Transformer) reasoning model. 3% Refusal, 0.0001 KL.",
+        "link": "https://www.reddit.com/r/singularity/comments/1rw8od2/release_falconh1r7bhereticv2_a_fully_abliterated/",
+        "image": "https://external-preview.redd.it/WE4D9QWwoIYkiqNjU2FZhuEqtZMMTBVqtdfIj2tpTyk.png?width=640&crop=smart&auto=webp&s=7c72c540c4a39aa618063146a82263eb0cb8faa6",
+        "published": "2026-03-17T14:50:23+00:00"
     }
 ]
