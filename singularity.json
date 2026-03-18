@@ -18,12 +18,6 @@
         "published": "2026-03-17T10:31:15+00:00"
     },
     {
-        "title": "An underwater fish drone created by Beijing Military Intelligent Technology.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rvz292/an_underwater_fish_drone_created_by_beijing/",
-        "image": "https://external-preview.redd.it/KFJTbpiFd8On9hmTxnFwqI3w1NZrwNNYEE8Of3mbZEQ.png?width=640&crop=smart&auto=webp&s=1b14b816c50528c7b590b5c480a74ebfba7a4a9b",
-        "published": "2026-03-17T06:36:25+00:00"
-    },
-    {
         "title": "When Using Work Claude",
         "link": "https://www.reddit.com/r/singularity/comments/1rwi5ig/when_using_work_claude/",
         "image": "https://preview.redd.it/qbswjm3zynpg1.jpeg?width=640&crop=smart&auto=webp&s=19512e9e9dca9576e4720656a653ebab152e5fc0",
@@ -36,16 +30,16 @@
         "published": "2026-03-17T14:21:22+00:00"
     },
     {
-        "title": "New AI math benchmark finds GPT-5.4 Pro has made progress on two unsolved math problems",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwbwxs/new_ai_math_benchmark_finds_gpt54_pro_has_made/",
-        "image": "https://preview.redd.it/o1j5xolrwmpg1.png?width=640&crop=smart&auto=webp&s=c26954d9f8c5e37d52e26f453018c57320946b42",
-        "published": "2026-03-17T16:45:27+00:00"
-    },
-    {
         "title": "Did Jensen Huang just compared some lobster bot to Linux \ud83e\udd26\ud83d\ude02",
         "link": "https://www.reddit.com/r/singularity/comments/1rw0rt9/did_jensen_huang_just_compared_some_lobster_bot/",
         "image": "https://external-preview.redd.it/ZG8wNGFscmdma3BnMfqwfS1gZ00HjFQ6umbQsonlnGW4e_ItebJQjuzTswD2.png?width=640&crop=smart&auto=webp&s=4573f7b0f7eb9c078065a9bc1afe2597c37cfd4e",
         "published": "2026-03-17T08:24:56+00:00"
+    },
+    {
+        "title": "New AI math benchmark finds GPT-5.4 Pro has made progress on two unsolved math problems",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwbwxs/new_ai_math_benchmark_finds_gpt54_pro_has_made/",
+        "image": "https://preview.redd.it/o1j5xolrwmpg1.png?width=640&crop=smart&auto=webp&s=c26954d9f8c5e37d52e26f453018c57320946b42",
+        "published": "2026-03-17T16:45:27+00:00"
     },
     {
         "title": "OpenAI releases mini and nano variants of GPT 5.4",
@@ -78,15 +72,21 @@
         "published": "2026-03-17T17:42:34+00:00"
     },
     {
-        "title": "The Dictionary Sues OpenAI Over AI Training Data",
-        "link": "https://www.reddit.com/r/singularity/comments/1rvyovy/the_dictionary_sues_openai_over_ai_training_data/",
-        "image": "https://external-preview.redd.it/zPl9ob8JBNmcOvCNaDVhJ56vEXSoncQpihKNM3Y-MUQ.jpeg?width=640&crop=smart&auto=webp&s=05addaeed42020a29a07ae954d66082f77b2fb1b",
-        "published": "2026-03-17T06:14:04+00:00"
+        "title": "GPT-5.4 can solve one face of a Rubik's cube!",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
+        "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
+        "published": "2026-03-18T04:54:04+00:00"
     },
     {
         "title": "Firefighting drones head to Aspen\u2014can they suppress a blaze before humans arrive?",
         "link": "https://www.reddit.com/r/singularity/comments/1rw98xq/firefighting_drones_head_to_aspencan_they/",
         "image": "https://external-preview.redd.it/symiYUbt5A_xIf0hHyoLQQu5Pmla4VFpHpsKSQspbcw.jpeg?width=640&crop=smart&auto=webp&s=d6976a028e9a198f86e0bf13bbc799ac55667b5d",
         "published": "2026-03-17T15:10:55+00:00"
+    },
+    {
+        "title": "FastVideo: Generate and edit videos faster than you can watch them - interactivity unlocked",
+        "link": "https://www.reddit.com/r/singularity/comments/1rwlq5d/fastvideo_generate_and_edit_videos_faster_than/",
+        "image": "https://external-preview.redd.it/-0J9iuj4kKDMBWJYcO5hPlI_-FCDoBr6gt-yp5VaeXY.jpeg?width=320&crop=smart&auto=webp&s=44b84bf4f581d8442f82eb72614fd699576e47a0",
+        "published": "2026-03-17T22:30:51+00:00"
     }
 ]

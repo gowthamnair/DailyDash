@@ -1,11 +1,5 @@
 [
     {
-        "title": "Peter Thiel is actively convincing billionaires to abandon The Giving Pledge \u2014 and it may be working",
-        "link": "https://www.reddit.com/r/technology/comments/1rvzbqw/peter_thiel_is_actively_convincing_billionaires/",
-        "image": "https://external-preview.redd.it/c78E4nrfSQHeQj3MUDfA6pIAcva6225xuil9a6xveJg.jpeg?width=640&crop=smart&auto=webp&s=7807139cb38a993ead9945114eeec3257b6b9030",
-        "published": "2026-03-17T06:53:04+00:00"
-    },
-    {
         "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
         "link": "https://www.reddit.com/r/technology/comments/1rwbqp8/gamers_react_with_overwhelming_disgust_to_dlss_5s/",
         "image": "https://external-preview.redd.it/Hd3Awv1QgptgEHUxpT872LGGs0SqAWH99lHSkmy1NXA.png?width=640&crop=smart&auto=webp&s=60c88baed740f2e660eca5ca82c8a36a543a24a4",
@@ -42,16 +36,16 @@
         "published": "2026-03-17T10:55:53+00:00"
     },
     {
-        "title": "AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet",
-        "link": "https://www.reddit.com/r/technology/comments/1rw99an/ai_job_loss_research_ignores_how_ai_is_utterly/",
-        "image": "https://external-preview.redd.it/UVRALMpZpmYOk-LdaVxLgPIW6Nzz112f9lumxwsLekQ.jpeg?width=640&crop=smart&auto=webp&s=48ae7ad9ab60507465dae43842410240dce300b8",
-        "published": "2026-03-17T15:11:15+00:00"
-    },
-    {
         "title": "CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
         "link": "https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/",
         "image": "https://external-preview.redd.it/SYX54kxs1OOc4vLXSfiCU-PaiQPZZU8XbyYFyKeAJLQ.png?width=640&crop=smart&auto=webp&s=e52ddb4a689c57f62d9b64b606a637d45fed123e",
         "published": "2026-03-18T02:12:04+00:00"
+    },
+    {
+        "title": "AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet",
+        "link": "https://www.reddit.com/r/technology/comments/1rw99an/ai_job_loss_research_ignores_how_ai_is_utterly/",
+        "image": "https://external-preview.redd.it/UVRALMpZpmYOk-LdaVxLgPIW6Nzz112f9lumxwsLekQ.jpeg?width=640&crop=smart&auto=webp&s=48ae7ad9ab60507465dae43842410240dce300b8",
+        "published": "2026-03-17T15:11:15+00:00"
     },
     {
         "title": "ServiceNow CEO predicts Gen Z college graduates will face at least 30% unemployment in just the next couple of years as AI takes over",
@@ -78,15 +72,21 @@
         "published": "2026-03-17T18:26:32+00:00"
     },
     {
+        "title": "\"If AI is writing the work and AI is reading the work, do we even need to be there at all?\" Educators reveal a growing crisis on campus and off",
+        "link": "https://www.reddit.com/r/technology/comments/1rwo3bd/if_ai_is_writing_the_work_and_ai_is_reading_the/",
+        "image": "https://external-preview.redd.it/TGIF7ghUDs7DQzKfVN6ufP_mPYB91PpNgCxD9q7CSfg.jpeg?width=640&crop=smart&auto=webp&s=78b81483538e5dc02cf6cee17da7ea1a5f7d6a15",
+        "published": "2026-03-18T00:00:59+00:00"
+    },
+    {
         "title": "Gen Z is outsourcing hard conversations to AI. Why it matters",
         "link": "https://www.reddit.com/r/technology/comments/1rw27ki/gen_z_is_outsourcing_hard_conversations_to_ai_why/",
         "image": "https://external-preview.redd.it/4Nh-ZcJ3FA2qaHNdpalaiyJXH_MklPlioPwTNKN3JKI.jpeg?width=640&crop=smart&auto=webp&s=ef8aec1d4db45e422708366fdf66cf5f1500560d",
         "published": "2026-03-17T09:57:02+00:00"
     },
     {
-        "title": "Bombshell investigation reveals recordings of rape victims handed to abusers / Australia",
-        "link": "https://www.reddit.com/r/technology/comments/1rvzx9e/bombshell_investigation_reveals_recordings_of/",
-        "image": "https://external-preview.redd.it/ycoB2BJJbm-eXZDY82nYJU8NQ4zgCQ0HdCcf-wWTmbQ.jpeg?width=640&crop=smart&auto=webp&s=b3d5f5abb15aaa5504ddb0471b469fe8578d0656",
-        "published": "2026-03-17T07:30:17+00:00"
+        "title": "Nvidia's DLSS 5 Is a Slap in the Face to the Art of Video Game Design",
+        "link": "https://www.reddit.com/r/technology/comments/1rwfoie/nvidias_dlss_5_is_a_slap_in_the_face_to_the_art/",
+        "image": "https://external-preview.redd.it/YHWc6A_hfhaw8nRvaCggjNWGFlaa9oH_RCRR48vIs-w.jpeg?width=640&crop=smart&auto=webp&s=a5679dc208e6a79a5dd9ad88c1c779b051bd7608",
+        "published": "2026-03-17T18:54:25+00:00"
     }
 ]
