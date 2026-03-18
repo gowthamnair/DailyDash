@@ -36,12 +36,6 @@
         "published": "2026-03-17T18:45:57+00:00"
     },
     {
-        "title": "Iran confirms security chief Ali Larijani killed, state media says",
-        "link": "https://www.reddit.com/r/news/comments/1rwjj38/iran_confirms_security_chief_ali_larijani_killed/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-17T21:09:33+00:00"
-    },
-    {
         "title": "Cuba\u2019s electrical grid collapses amid US oil blockade | Cuba",
         "link": "https://www.reddit.com/r/news/comments/1rwahn9/cubas_electrical_grid_collapses_amid_us_oil/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -54,16 +48,16 @@
         "published": "2026-03-17T19:26:22+00:00"
     },
     {
-        "title": "Hundreds of migrants are vanishing in the Mediterranean. Authorities are withholding information",
-        "link": "https://www.reddit.com/r/news/comments/1rw5fwj/hundreds_of_migrants_are_vanishing_in_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-17T12:42:21+00:00"
-    },
-    {
         "title": "Military report says 'one in a million' live fire malfunction rained shrapnel on California highway",
         "link": "https://www.reddit.com/r/news/comments/1rwjmon/military_report_says_one_in_a_million_live_fire/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-17T21:13:14+00:00"
+    },
+    {
+        "title": "Hundreds of migrants are vanishing in the Mediterranean. Authorities are withholding information",
+        "link": "https://www.reddit.com/r/news/comments/1rw5fwj/hundreds_of_migrants_are_vanishing_in_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-17T12:42:21+00:00"
     },
     {
         "title": "7 people in the U.S. sickened by E. coli linked to cheese made from raw milk, FDA says",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/news/comments/1rw66xi/oil_prices_jump_as_iran_warns_strait_of_hormuz/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-17T13:14:15+00:00"
+    },
+    {
+        "title": "Cuba's national electric grid collapses, leaving millions without power",
+        "link": "https://www.reddit.com/r/news/comments/1rw5ivn/cubas_national_electric_grid_collapses_leaving/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-17T12:46:08+00:00"
     }
 ]
