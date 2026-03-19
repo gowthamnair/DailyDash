@@ -12,12 +12,6 @@
         "published": "2026-03-18T10:36:11+00:00"
     },
     {
-        "title": "GPT-5.4 can solve one face of a Rubik's cube!",
-        "link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
-        "image": "https://external-preview.redd.it/OXRuYnVqdzhpcXBnMVvcIZoC3iJbiqXd19hsYEMT3i1OrS5zU24E4UymiO7i.png?width=640&crop=smart&auto=webp&s=826baa2e6c6628cb503cdaa0068cae3cacf09aa0",
-        "published": "2026-03-18T04:54:04+00:00"
-    },
-    {
         "title": "Harmonic unleashes Aristotle, the world's first formal mathematician agent for free",
         "link": "https://www.reddit.com/r/singularity/comments/1rxdu0c/harmonic_unleashes_aristotle_the_worlds_first/",
         "image": "https://preview.redd.it/up68kct1wupg1.png?width=640&crop=smart&auto=webp&s=6b579f20c911de016c954b8929af92b0923c567d",
@@ -72,16 +66,22 @@
         "published": "2026-03-18T23:21:54+00:00"
     },
     {
-        "title": "Context Window Upgrade for Claude Opus 4.6",
-        "link": "https://www.reddit.com/r/singularity/comments/1rxn5y0/context_window_upgrade_for_claude_opus_46/",
-        "image": "https://preview.redd.it/v84yeitvowpg1.png?width=140&height=83&auto=webp&s=ece698e0a6a0b23b8e4e400543712acf53b74ed1",
-        "published": "2026-03-19T01:39:35+00:00"
+        "title": "Lab-grown meat prices expected to drop dramatically",
+        "link": "https://www.reddit.com/r/singularity/comments/1rxrux2/labgrown_meat_prices_expected_to_drop_dramatically/",
+        "image": "https://external-preview.redd.it/3JY3yaFYozt5PerYJWQqNRjBG2EYkStLUp-CWO2DhtE.jpeg?width=640&crop=smart&auto=webp&s=ac8b4109762d9743f815011b6ef65e38265f9fcc",
+        "published": "2026-03-19T05:26:35+00:00"
     },
     {
         "title": "Built an autonomous DBA agent for Oracle - looking for honest feedback",
         "link": "https://www.reddit.com/r/singularity/comments/1rxnv6g/built_an_autonomous_dba_agent_for_oracle_looking/",
         "image": "https://external-preview.redd.it/_5oGJnPFHHbZ3o0daiMwchfjNd6gGUwqf_XGO5oz71g.png?width=640&crop=smart&auto=webp&s=13658f2feb3c8b74acbea89517983073741cbae3",
         "published": "2026-03-19T02:10:02+00:00"
+    },
+    {
+        "title": "Context Window Upgrade for Claude Opus 4.6",
+        "link": "https://www.reddit.com/r/singularity/comments/1rxn5y0/context_window_upgrade_for_claude_opus_46/",
+        "image": "https://preview.redd.it/v84yeitvowpg1.png?width=140&height=83&auto=webp&s=ece698e0a6a0b23b8e4e400543712acf53b74ed1",
+        "published": "2026-03-19T01:39:35+00:00"
     },
     {
         "title": "Claw Eval and how it could change everything.",
