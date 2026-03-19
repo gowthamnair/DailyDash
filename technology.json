@@ -24,18 +24,6 @@
         "published": "2026-03-18T23:20:25+00:00"
     },
     {
-        "title": "Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are \"completely wrong\"",
-        "link": "https://www.reddit.com/r/technology/comments/1rx3vza/nvidia_ceo_jensen_huang_says_gamers_calling_dlss/",
-        "image": "https://external-preview.redd.it/0hIY4YvjB11RgQx2agKRrbNFKMW8mI7nqlyDoFzdvpg.jpeg?width=640&crop=smart&auto=webp&s=c954ace5339fb7c58f6c07f978a9d55360b4542b",
-        "published": "2026-03-18T13:27:39+00:00"
-    },
-    {
-        "title": "Britain plans to consider requiring labels on AI-generated content to protect consumers from disinformation and deepfakes, the government said",
-        "link": "https://www.reddit.com/r/technology/comments/1rx3xoi/britain_plans_to_consider_requiring_labels_on/",
-        "image": "https://external-preview.redd.it/Hlj_h6-H5IrX2UHypzfnPR5xyxhiI0nOBZCOqdhtYoU.jpeg?width=640&crop=smart&auto=webp&s=fa887485559f6c638191ec771c9e874a621dc8da",
-        "published": "2026-03-18T13:29:44+00:00"
-    },
-    {
         "title": "Meta Horizon Worlds for VR is closing down in June, less than five years after it launched",
         "link": "https://www.reddit.com/r/technology/comments/1rxl0dj/meta_horizon_worlds_for_vr_is_closing_down_in/",
         "image": "https://external-preview.redd.it/5RhzDQ8hfj7Ne9AyIZU1vNchrHAVWXojEBByejr1jI4.jpeg?width=640&crop=smart&auto=webp&s=b9f357ee073441609978be248bd053ad2d366dd1",
@@ -48,16 +36,16 @@
         "published": "2026-03-18T18:12:41+00:00"
     },
     {
-        "title": "'Flock Flocked up' How a license plate camera misread unraveled one man's life.",
-        "link": "https://www.reddit.com/r/technology/comments/1rxah6d/flock_flocked_up_how_a_license_plate_camera/",
-        "image": "https://external-preview.redd.it/ysFG8TDKdRoCv4fks5adO_7pYMPK6xvEuNhjWuY893A.jpeg?width=640&crop=smart&auto=webp&s=c1d265fb761feab522481afa2bd468485709298e",
-        "published": "2026-03-18T17:35:22+00:00"
-    },
-    {
         "title": "AI still doesn't work very well in business, reckoning soon",
         "link": "https://www.reddit.com/r/technology/comments/1rximkr/ai_still_doesnt_work_very_well_in_business/",
         "image": "https://external-preview.redd.it/rNdT5CD4EWwyAYV7GAW8vVpsdDfAJZbWWSb6zQtgf5M.jpeg?width=640&crop=smart&auto=webp&s=d52e2ff7871dc7337458883fd5fbca31b16489d8",
         "published": "2026-03-18T22:33:40+00:00"
+    },
+    {
+        "title": "'Flock Flocked up' How a license plate camera misread unraveled one man's life.",
+        "link": "https://www.reddit.com/r/technology/comments/1rxah6d/flock_flocked_up_how_a_license_plate_camera/",
+        "image": "https://external-preview.redd.it/ysFG8TDKdRoCv4fks5adO_7pYMPK6xvEuNhjWuY893A.jpeg?width=640&crop=smart&auto=webp&s=c1d265fb761feab522481afa2bd468485709298e",
+        "published": "2026-03-18T17:35:22+00:00"
     },
     {
         "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts and a 3D printer \u2014 DIY MANPADS includes assisted targeting, ballistics calculations, optional camera for tracking",
@@ -84,9 +72,21 @@
         "published": "2026-03-18T15:19:41+00:00"
     },
     {
+        "title": "Ferrari Boss: Touch Buttons Cost Half As Much As Physical Controls",
+        "link": "https://www.reddit.com/r/technology/comments/1rxwxc6/ferrari_boss_touch_buttons_cost_half_as_much_as/",
+        "image": "https://external-preview.redd.it/Xf5XuD4QZMXmDwr-1difhIthEsJOhHMshbA1bfRPyxI.jpeg?width=640&crop=smart&auto=webp&s=c60ba43435d9a3d981b387b50bae56ca5e93f163",
+        "published": "2026-03-19T10:36:57+00:00"
+    },
+    {
         "title": "Copyright industry intensifies efforts to undermine core Internet plumbing: VPNs",
         "link": "https://www.reddit.com/r/technology/comments/1rx522t/copyright_industry_intensifies_efforts_to/",
         "image": "https://external-preview.redd.it/BTTHVpV4weJq5SEW6NEDCmgEA93LRjxVzXE-se-kaI0.jpeg?width=640&crop=smart&auto=webp&s=4980b6898ab36e1d30444d398daabe3f1d14d11f",
         "published": "2026-03-18T14:14:20+00:00"
+    },
+    {
+        "title": "Federal cyber experts called Microsoft\u2019s cloud a \u201cpile of shit,\u201d approved it anyway",
+        "link": "https://www.reddit.com/r/technology/comments/1rxak2l/federal_cyber_experts_called_microsofts_cloud_a/",
+        "image": "https://external-preview.redd.it/lxB2lUY_Fjtc1Pgzz-w89hqCieuzrKYqD7cQPu4M-Lk.jpeg?width=640&crop=smart&auto=webp&s=d51a6aa59bcc304e329b692029828f00f4bf07ce",
+        "published": "2026-03-18T17:38:13+00:00"
     }
 ]
