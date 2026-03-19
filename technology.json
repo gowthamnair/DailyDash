@@ -24,12 +24,6 @@
         "published": "2026-03-18T18:45:26+00:00"
     },
     {
-        "title": "Americans Recognize AI as a Wealth Inequality Machine, Pollster Finds",
-        "link": "https://www.reddit.com/r/technology/comments/1rx0lba/americans_recognize_ai_as_a_wealth_inequality/",
-        "image": "https://external-preview.redd.it/P7Pv38fkfCyd22tkpawc7SB4NVFMmTbCJbL2bFFzG2Q.jpeg?width=640&crop=smart&auto=webp&s=3862366328785fb875d2d243851e5b1622e4bce5",
-        "published": "2026-03-18T10:52:52+00:00"
-    },
-    {
         "title": "Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are \"completely wrong\"",
         "link": "https://www.reddit.com/r/technology/comments/1rx3vza/nvidia_ceo_jensen_huang_says_gamers_calling_dlss/",
         "image": "https://external-preview.redd.it/0hIY4YvjB11RgQx2agKRrbNFKMW8mI7nqlyDoFzdvpg.jpeg?width=640&crop=smart&auto=webp&s=c954ace5339fb7c58f6c07f978a9d55360b4542b",
@@ -48,12 +42,6 @@
         "published": "2026-03-18T13:29:44+00:00"
     },
     {
-        "title": "Nurses, constituents demand Collins return donations from Palantir, ICE\u2019s top tech contractor",
-        "link": "https://www.reddit.com/r/technology/comments/1rx2atr/nurses_constituents_demand_collins_return/",
-        "image": "https://external-preview.redd.it/gkUXEaeujPbBjelK0UGYBJYKSGJKBgv3mzI20nkKnZY.jpeg?width=640&crop=smart&auto=webp&s=a4440f81e739e2d4d9b53f2880fc8a0e0014a00d",
-        "published": "2026-03-18T12:18:05+00:00"
-    },
-    {
         "title": "He Built the Definitive Epstein Database\u2014and It Consumed His Life | The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator\u2019s shadowy world",
         "link": "https://www.reddit.com/r/technology/comments/1rxbjb4/he_built_the_definitive_epstein_databaseand_it/",
         "image": "https://external-preview.redd.it/puSXV-065CvIxPgR7mcvqKuZzCoB7ZhJe7Q6PMxsEGg.jpeg?width=640&crop=smart&auto=webp&s=a993ef759a0be9545e5b02134ce35b432850f97d",
@@ -66,10 +54,22 @@
         "published": "2026-03-19T00:08:13+00:00"
     },
     {
+        "title": "Nurses, constituents demand Collins return donations from Palantir, ICE\u2019s top tech contractor",
+        "link": "https://www.reddit.com/r/technology/comments/1rx2atr/nurses_constituents_demand_collins_return/",
+        "image": "https://external-preview.redd.it/gkUXEaeujPbBjelK0UGYBJYKSGJKBgv3mzI20nkKnZY.jpeg?width=640&crop=smart&auto=webp&s=a4440f81e739e2d4d9b53f2880fc8a0e0014a00d",
+        "published": "2026-03-18T12:18:05+00:00"
+    },
+    {
         "title": "'Flock Flocked up' How a license plate camera misread unraveled one man's life.",
         "link": "https://www.reddit.com/r/technology/comments/1rxah6d/flock_flocked_up_how_a_license_plate_camera/",
         "image": "https://external-preview.redd.it/ysFG8TDKdRoCv4fks5adO_7pYMPK6xvEuNhjWuY893A.jpeg?width=640&crop=smart&auto=webp&s=c1d265fb761feab522481afa2bd468485709298e",
         "published": "2026-03-18T17:35:22+00:00"
+    },
+    {
+        "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts and a 3D printer \u2014 DIY MANPADS includes assisted targeting, ballistics calculations, optional camera for tracking",
+        "link": "https://www.reddit.com/r/technology/comments/1rxapov/tech_hobbyist_makes_shouldermounted_guided/",
+        "image": "https://external-preview.redd.it/ryHdKWKpnoDfW5sOuIwkc3nJjBgfrrvigBOYsc3oEA0.png?width=640&crop=smart&auto=webp&s=f56432e34976beafd31b010225de8f06be4fd86e",
+        "published": "2026-03-18T17:43:48+00:00"
     },
     {
         "title": "The New BMW i3 Has More Range Than Any Tesla",
@@ -78,10 +78,10 @@
         "published": "2026-03-18T15:29:01+00:00"
     },
     {
-        "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts and a 3D printer \u2014 DIY MANPADS includes assisted targeting, ballistics calculations, optional camera for tracking",
-        "link": "https://www.reddit.com/r/technology/comments/1rxapov/tech_hobbyist_makes_shouldermounted_guided/",
-        "image": "https://external-preview.redd.it/ryHdKWKpnoDfW5sOuIwkc3nJjBgfrrvigBOYsc3oEA0.png?width=640&crop=smart&auto=webp&s=f56432e34976beafd31b010225de8f06be4fd86e",
-        "published": "2026-03-18T17:43:48+00:00"
+        "title": "AI still doesn't work very well in business, reckoning soon",
+        "link": "https://www.reddit.com/r/technology/comments/1rximkr/ai_still_doesnt_work_very_well_in_business/",
+        "image": "https://external-preview.redd.it/rNdT5CD4EWwyAYV7GAW8vVpsdDfAJZbWWSb6zQtgf5M.jpeg?width=640&crop=smart&auto=webp&s=d52e2ff7871dc7337458883fd5fbca31b16489d8",
+        "published": "2026-03-18T22:33:40+00:00"
     },
     {
         "title": "Washington's direct-to-consumer bill passed! Rivian and Lucid can sell directly to consumers in WA.",
