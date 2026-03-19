@@ -1,11 +1,5 @@
 [
     {
-        "title": "Robot dogs priced at $300,000 a piece are now guarding some of the country\u2019s biggest data centers",
-        "link": "https://www.reddit.com/r/technology/comments/1rx85a3/robot_dogs_priced_at_300000_a_piece_are_now/",
-        "image": "https://external-preview.redd.it/Z4xnzFV-cEJxH_6xcyLZKtnjsLuDaf1TGp0n3ogEfA4.jpeg?width=640&crop=smart&auto=webp&s=a811f3da9e8ade9e569ed0be134ff94ebd3b7f33",
-        "published": "2026-03-18T16:11:12+00:00"
-    },
-    {
         "title": "FBI is buying data that can be used to track people, Patel says",
         "link": "https://www.reddit.com/r/technology/comments/1rxggyj/fbi_is_buying_data_that_can_be_used_to_track/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -18,16 +12,16 @@
         "published": "2026-03-18T18:45:26+00:00"
     },
     {
-        "title": "North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un",
-        "link": "https://www.reddit.com/r/technology/comments/1rxjtu6/north_koreas_100000strong_fake_it_worker_army/",
-        "image": "https://external-preview.redd.it/aT38YmdHAKDBRFgzogblIPHV61ntB05aDRgrcanukPE.jpeg?width=640&crop=smart&auto=webp&s=ae5979e7fb8bad78323aafd66e8072e9e983ccde",
-        "published": "2026-03-18T23:20:25+00:00"
-    },
-    {
         "title": "FBI admits buying Americans' location data and says it won't stop",
         "link": "https://www.reddit.com/r/technology/comments/1rxzv9x/fbi_admits_buying_americans_location_data_and/",
         "image": "https://external-preview.redd.it/FHQtS_X5EG2zgKlcHXzg5mSblE8qht2jS55nfxj-21A.jpeg?width=640&crop=smart&auto=webp&s=176d7b5c67ec300da6b9764f9fbf50afe358314e",
         "published": "2026-03-19T13:04:37+00:00"
+    },
+    {
+        "title": "North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un",
+        "link": "https://www.reddit.com/r/technology/comments/1rxjtu6/north_koreas_100000strong_fake_it_worker_army/",
+        "image": "https://external-preview.redd.it/aT38YmdHAKDBRFgzogblIPHV61ntB05aDRgrcanukPE.jpeg?width=640&crop=smart&auto=webp&s=ae5979e7fb8bad78323aafd66e8072e9e983ccde",
+        "published": "2026-03-18T23:20:25+00:00"
     },
     {
         "title": "Meta Horizon Worlds for VR is closing down in June, less than five years after it launched",
@@ -36,22 +30,16 @@
         "published": "2026-03-19T00:08:13+00:00"
     },
     {
-        "title": "He Built the Definitive Epstein Database\u2014and It Consumed His Life | The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator\u2019s shadowy world",
-        "link": "https://www.reddit.com/r/technology/comments/1rxbjb4/he_built_the_definitive_epstein_databaseand_it/",
-        "image": "https://external-preview.redd.it/puSXV-065CvIxPgR7mcvqKuZzCoB7ZhJe7Q6PMxsEGg.jpeg?width=640&crop=smart&auto=webp&s=a993ef759a0be9545e5b02134ce35b432850f97d",
-        "published": "2026-03-18T18:12:41+00:00"
-    },
-    {
         "title": "AI still doesn't work very well in business, reckoning soon",
         "link": "https://www.reddit.com/r/technology/comments/1rximkr/ai_still_doesnt_work_very_well_in_business/",
         "image": "https://external-preview.redd.it/rNdT5CD4EWwyAYV7GAW8vVpsdDfAJZbWWSb6zQtgf5M.jpeg?width=640&crop=smart&auto=webp&s=d52e2ff7871dc7337458883fd5fbca31b16489d8",
         "published": "2026-03-18T22:33:40+00:00"
     },
     {
-        "title": "'Flock Flocked up' How a license plate camera misread unraveled one man's life.",
-        "link": "https://www.reddit.com/r/technology/comments/1rxah6d/flock_flocked_up_how_a_license_plate_camera/",
-        "image": "https://external-preview.redd.it/ysFG8TDKdRoCv4fks5adO_7pYMPK6xvEuNhjWuY893A.jpeg?width=640&crop=smart&auto=webp&s=c1d265fb761feab522481afa2bd468485709298e",
-        "published": "2026-03-18T17:35:22+00:00"
+        "title": "He Built the Definitive Epstein Database\u2014and It Consumed His Life | The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator\u2019s shadowy world",
+        "link": "https://www.reddit.com/r/technology/comments/1rxbjb4/he_built_the_definitive_epstein_databaseand_it/",
+        "image": "https://external-preview.redd.it/puSXV-065CvIxPgR7mcvqKuZzCoB7ZhJe7Q6PMxsEGg.jpeg?width=640&crop=smart&auto=webp&s=a993ef759a0be9545e5b02134ce35b432850f97d",
+        "published": "2026-03-18T18:12:41+00:00"
     },
     {
         "title": "Ferrari Boss: Touch Buttons Cost Half As Much As Physical Controls",
@@ -60,16 +48,16 @@
         "published": "2026-03-19T10:36:57+00:00"
     },
     {
+        "title": "'Flock Flocked up' How a license plate camera misread unraveled one man's life.",
+        "link": "https://www.reddit.com/r/technology/comments/1rxah6d/flock_flocked_up_how_a_license_plate_camera/",
+        "image": "https://external-preview.redd.it/ysFG8TDKdRoCv4fks5adO_7pYMPK6xvEuNhjWuY893A.jpeg?width=640&crop=smart&auto=webp&s=c1d265fb761feab522481afa2bd468485709298e",
+        "published": "2026-03-18T17:35:22+00:00"
+    },
+    {
         "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts and a 3D printer \u2014 DIY MANPADS includes assisted targeting, ballistics calculations, optional camera for tracking",
         "link": "https://www.reddit.com/r/technology/comments/1rxapov/tech_hobbyist_makes_shouldermounted_guided/",
         "image": "https://external-preview.redd.it/ryHdKWKpnoDfW5sOuIwkc3nJjBgfrrvigBOYsc3oEA0.png?width=640&crop=smart&auto=webp&s=f56432e34976beafd31b010225de8f06be4fd86e",
         "published": "2026-03-18T17:43:48+00:00"
-    },
-    {
-        "title": "Show the Real Price or Get Sued: FTC Puts More Car Dealers on Notice",
-        "link": "https://www.reddit.com/r/technology/comments/1rx8vo2/show_the_real_price_or_get_sued_ftc_puts_more_car/",
-        "image": "https://external-preview.redd.it/yDcOH7yftDG8FxkWel68UXszi_6DMe4aEt2bk30H9q4.jpeg?width=640&crop=smart&auto=webp&s=914dc485ba36c6a956ef49e0fa14f030b24dabe3",
-        "published": "2026-03-18T16:38:10+00:00"
     },
     {
         "title": "Anthropic's Claude claws its way towards the top of the AI market",
@@ -78,15 +66,27 @@
         "published": "2026-03-19T07:26:10+00:00"
     },
     {
-        "title": "Federal cyber experts called Microsoft\u2019s cloud a \u201cpile of shit,\u201d approved it anyway",
-        "link": "https://www.reddit.com/r/technology/comments/1rxak2l/federal_cyber_experts_called_microsofts_cloud_a/",
-        "image": "https://external-preview.redd.it/lxB2lUY_Fjtc1Pgzz-w89hqCieuzrKYqD7cQPu4M-Lk.jpeg?width=640&crop=smart&auto=webp&s=d51a6aa59bcc304e329b692029828f00f4bf07ce",
-        "published": "2026-03-18T17:38:13+00:00"
+        "title": "Pentagon replies to Anthropic's lawsuit; says: Refusal to accept the government's contractual terms is not protected",
+        "link": "https://www.reddit.com/r/technology/comments/1rxvrun/pentagon_replies_to_anthropics_lawsuit_says/",
+        "image": "https://external-preview.redd.it/0cVJpdwn-GL8_xEv2kwLAAnjewoStb0TEYAH6J0MLew.jpeg?width=640&crop=smart&auto=webp&s=b7e6efac83df463c6365f6607aa301638877a256",
+        "published": "2026-03-19T09:29:41+00:00"
     },
     {
         "title": "IBM CEO pay pack jumps 51% for 2025 to $38 million",
         "link": "https://www.reddit.com/r/technology/comments/1rxp2it/ibm_ceo_pay_pack_jumps_51_for_2025_to_38_million/",
         "image": "https://external-preview.redd.it/SxvJvnAF3rctr_3q33yo6Y_pGPfJD212WC5byVvWVFI.jpeg?width=640&crop=smart&auto=webp&s=ab20ad9220b4c06474b24052a5f7d0841817a59e",
         "published": "2026-03-19T03:04:38+00:00"
+    },
+    {
+        "title": "Federal cyber experts called Microsoft\u2019s cloud a \u201cpile of shit,\u201d approved it anyway",
+        "link": "https://www.reddit.com/r/technology/comments/1rxak2l/federal_cyber_experts_called_microsofts_cloud_a/",
+        "image": "https://external-preview.redd.it/lxB2lUY_Fjtc1Pgzz-w89hqCieuzrKYqD7cQPu4M-Lk.jpeg?width=640&crop=smart&auto=webp&s=d51a6aa59bcc304e329b692029828f00f4bf07ce",
+        "published": "2026-03-18T17:38:13+00:00"
+    },
+    {
+        "title": "4chan hit with \u00a3450,000 UK fine over age checks",
+        "link": "https://www.reddit.com/r/technology/comments/1rxxvfm/4chan_hit_with_450000_uk_fine_over_age_checks/",
+        "image": "https://external-preview.redd.it/faoaXSeO4gMtbiLbw5KuLN_sejuxCtjBYgR6HvLnims.jpeg?width=640&crop=smart&auto=webp&s=c5ca0f5349f6187ea34d2a2928c4c92c06a6a9e4",
+        "published": "2026-03-19T11:29:10+00:00"
     }
 ]
