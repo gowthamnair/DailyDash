@@ -42,16 +42,16 @@
         "published": "2026-03-18T14:53:29+00:00"
     },
     {
-        "title": "Introducing Unsloth Studio: an open-source web UI to run and train AI models",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx3wbc/introducing_unsloth_studio_an_opensource_web_ui/",
-        "image": "https://external-preview.redd.it/NXN4bDl3eDcydHBnMblWvsZMy_2bMKMZkfgZGp81m2cFIzow69YX-wypug2i.png?width=640&crop=smart&auto=webp&s=cd8db00b9d73e723a5965c094cc501e3597d1455",
-        "published": "2026-03-18T13:28:03+00:00"
-    },
-    {
         "title": "Lab-grown meat prices expected to drop dramatically",
         "link": "https://www.reddit.com/r/singularity/comments/1rxrux2/labgrown_meat_prices_expected_to_drop_dramatically/",
         "image": "https://external-preview.redd.it/3JY3yaFYozt5PerYJWQqNRjBG2EYkStLUp-CWO2DhtE.jpeg?width=640&crop=smart&auto=webp&s=ac8b4109762d9743f815011b6ef65e38265f9fcc",
         "published": "2026-03-19T05:26:35+00:00"
+    },
+    {
+        "title": "Introducing Unsloth Studio: an open-source web UI to run and train AI models",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx3wbc/introducing_unsloth_studio_an_opensource_web_ui/",
+        "image": "https://external-preview.redd.it/NXN4bDl3eDcydHBnMblWvsZMy_2bMKMZkfgZGp81m2cFIzow69YX-wypug2i.png?width=640&crop=smart&auto=webp&s=cd8db00b9d73e723a5965c094cc501e3597d1455",
+        "published": "2026-03-18T13:28:03+00:00"
     },
     {
         "title": "Google internal naming in Antigraviti",
@@ -72,6 +72,12 @@
         "published": "2026-03-18T23:21:54+00:00"
     },
     {
+        "title": "What 81,000 people want from AI \\ Anthropic",
+        "link": "https://www.reddit.com/r/singularity/comments/1rxtrhr/what_81000_people_want_from_ai_anthropic/",
+        "image": "https://external-preview.redd.it/qBK5tS7MjDKUg5uy9wvNNvCSydaa1IWdbbcyFvcQYoQ.png?width=640&crop=smart&auto=webp&s=feba04d8f6c0af04a16c0a9f8e0af66b8fd2c14b",
+        "published": "2026-03-19T07:20:16+00:00"
+    },
+    {
         "title": "Built an autonomous DBA agent for Oracle - looking for honest feedback",
         "link": "https://www.reddit.com/r/singularity/comments/1rxnv6g/built_an_autonomous_dba_agent_for_oracle_looking/",
         "image": "https://external-preview.redd.it/_5oGJnPFHHbZ3o0daiMwchfjNd6gGUwqf_XGO5oz71g.png?width=640&crop=smart&auto=webp&s=13658f2feb3c8b74acbea89517983073741cbae3",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rxn5y0/context_window_upgrade_for_claude_opus_46/",
         "image": "https://preview.redd.it/v84yeitvowpg1.png?width=140&height=83&auto=webp&s=ece698e0a6a0b23b8e4e400543712acf53b74ed1",
         "published": "2026-03-19T01:39:35+00:00"
-    },
-    {
-        "title": "Claw Eval and how it could change everything.",
-        "link": "https://www.reddit.com/r/singularity/comments/1rxn4nq/claw_eval_and_how_it_could_change_everything/",
-        "image": "https://preview.redd.it/evd1v971owpg1.png?width=140&height=61&auto=webp&s=ca2a9a21d03f26c15a4c276efd10348b1c6afd29",
-        "published": "2026-03-19T01:38:01+00:00"
     }
 ]
