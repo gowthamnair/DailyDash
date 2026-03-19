@@ -36,16 +36,16 @@
         "published": "2026-03-18T12:40:36+00:00"
     },
     {
-        "title": "Nvidia announces new scientific research agent",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx62d1/nvidia_announces_new_scientific_research_agent/",
-        "image": "https://external-preview.redd.it/FShJFApV9bl3QG_EsThcVCgGzOQ5p2RC8GrjAQ1VRmg.jpeg?width=320&crop=smart&auto=webp&s=be5cfbbd1bff1313b03765f85448d35fc763dc6f",
-        "published": "2026-03-18T14:53:29+00:00"
-    },
-    {
         "title": "Lab-grown meat prices expected to drop dramatically",
         "link": "https://www.reddit.com/r/singularity/comments/1rxrux2/labgrown_meat_prices_expected_to_drop_dramatically/",
         "image": "https://external-preview.redd.it/3JY3yaFYozt5PerYJWQqNRjBG2EYkStLUp-CWO2DhtE.jpeg?width=640&crop=smart&auto=webp&s=ac8b4109762d9743f815011b6ef65e38265f9fcc",
         "published": "2026-03-19T05:26:35+00:00"
+    },
+    {
+        "title": "Nvidia announces new scientific research agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx62d1/nvidia_announces_new_scientific_research_agent/",
+        "image": "https://external-preview.redd.it/FShJFApV9bl3QG_EsThcVCgGzOQ5p2RC8GrjAQ1VRmg.jpeg?width=320&crop=smart&auto=webp&s=be5cfbbd1bff1313b03765f85448d35fc763dc6f",
+        "published": "2026-03-18T14:53:29+00:00"
     },
     {
         "title": "Introducing Unsloth Studio: an open-source web UI to run and train AI models",
@@ -60,16 +60,16 @@
         "published": "2026-03-18T23:17:40+00:00"
     },
     {
-        "title": "Genome modeling and design across of all domains of life with Evo 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1rx10f4/genome_modeling_and_design_across_of_all_domains/",
-        "image": "https://external-preview.redd.it/hX7SE_ndPRc2iwpnqJ-CuTYabWm0-MWWL81djaQUdV0.jpeg?width=320&crop=smart&auto=webp&s=ad9d928d5fb12cee4a2a8d053d64df1a9e11350b",
-        "published": "2026-03-18T11:14:16+00:00"
-    },
-    {
         "title": "Xiaomi got tired of playing with phones and took up AI models",
         "link": "https://www.reddit.com/r/singularity/comments/1rxjv3y/xiaomi_got_tired_of_playing_with_phones_and_took/",
         "image": "https://preview.redd.it/1c8dei4e0wpg1.png?width=640&crop=smart&auto=webp&s=0e913b02a92fb98a56d887fa689af07b6c1d8d81",
         "published": "2026-03-18T23:21:54+00:00"
+    },
+    {
+        "title": "Genome modeling and design across of all domains of life with Evo 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1rx10f4/genome_modeling_and_design_across_of_all_domains/",
+        "image": "https://external-preview.redd.it/hX7SE_ndPRc2iwpnqJ-CuTYabWm0-MWWL81djaQUdV0.jpeg?width=320&crop=smart&auto=webp&s=ad9d928d5fb12cee4a2a8d053d64df1a9e11350b",
+        "published": "2026-03-18T11:14:16+00:00"
     },
     {
         "title": "What 81,000 people want from AI \\ Anthropic",
@@ -78,15 +78,15 @@
         "published": "2026-03-19T07:20:16+00:00"
     },
     {
+        "title": "Context Window Upgrade for Claude Opus 4.6",
+        "link": "https://www.reddit.com/r/singularity/comments/1rxn5y0/context_window_upgrade_for_claude_opus_46/",
+        "image": "https://preview.redd.it/v84yeitvowpg1.png?width=140&height=83&auto=webp&s=ece698e0a6a0b23b8e4e400543712acf53b74ed1",
+        "published": "2026-03-19T01:39:35+00:00"
+    },
+    {
         "title": "Unboxing the FUTURE! Agibot X2 Ultra Humanoid Robot",
         "link": "https://www.reddit.com/r/singularity/comments/1rxufmo/unboxing_the_future_agibot_x2_ultra_humanoid_robot/",
         "image": "https://external-preview.redd.it/bspCjDgq_mboNBw3unPvVtT0Lc0AckVGJ1_3_j8OSXc.jpeg?width=320&crop=smart&auto=webp&s=2e52e5a165c7ecd5691010c944c0b446c118defa",
         "published": "2026-03-19T08:03:32+00:00"
-    },
-    {
-        "title": "Built an autonomous DBA agent for Oracle - looking for honest feedback",
-        "link": "https://www.reddit.com/r/singularity/comments/1rxnv6g/built_an_autonomous_dba_agent_for_oracle_looking/",
-        "image": "https://external-preview.redd.it/_5oGJnPFHHbZ3o0daiMwchfjNd6gGUwqf_XGO5oz71g.png?width=640&crop=smart&auto=webp&s=13658f2feb3c8b74acbea89517983073741cbae3",
-        "published": "2026-03-19T02:10:02+00:00"
     }
 ]
