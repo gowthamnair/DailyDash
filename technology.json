@@ -12,16 +12,16 @@
         "published": "2026-03-20T09:15:22+00:00"
     },
     {
-        "title": "U.S. tech execs smuggled Nvidia chips to China, prosecutors say",
-        "link": "https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/",
-        "image": "https://external-preview.redd.it/06ykSxAanqPxl5YIGdhU8oHEckyEqb6z3D4ZDyBw1xQ.png?width=640&crop=smart&auto=webp&s=ef152ac0a3477845534079e46fd5d006aac0795e",
-        "published": "2026-03-19T22:24:17+00:00"
-    },
-    {
         "title": "Thousands have swooned over this MAGA dream girl. She\u2019s made with AI.",
         "link": "https://www.reddit.com/r/technology/comments/1ryyz20/thousands_have_swooned_over_this_maga_dream_girl/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-20T15:14:17+00:00"
+    },
+    {
+        "title": "U.S. tech execs smuggled Nvidia chips to China, prosecutors say",
+        "link": "https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/",
+        "image": "https://external-preview.redd.it/06ykSxAanqPxl5YIGdhU8oHEckyEqb6z3D4ZDyBw1xQ.png?width=640&crop=smart&auto=webp&s=ef152ac0a3477845534079e46fd5d006aac0795e",
+        "published": "2026-03-19T22:24:17+00:00"
     },
     {
         "title": "Amazon Prime Video is about to get worse \u2014 again",
@@ -42,6 +42,12 @@
         "published": "2026-03-20T05:53:39+00:00"
     },
     {
+        "title": "Microsoft announces sweeping Windows changes",
+        "link": "https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/",
+        "image": "https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&crop=smart&auto=webp&s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3",
+        "published": "2026-03-20T19:44:15+00:00"
+    },
+    {
         "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
         "link": "https://www.reddit.com/r/technology/comments/1ryvlei/walmart_secures_two_ai_pricing_patents_raising/",
         "image": "https://external-preview.redd.it/fmkXM8klu28kfOvA53HAr2Ujqt2P-8bBE7Mxuutja2g.jpeg?width=640&crop=smart&auto=webp&s=616c52b5a3f1b33e14638a613cf14f8f8c465df3",
@@ -54,22 +60,16 @@
         "published": "2026-03-20T02:52:17+00:00"
     },
     {
-        "title": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI",
-        "link": "https://www.reddit.com/r/technology/comments/1ryfvka/jeff_bezos_is_reportedly_seeking_100_billion_for/",
-        "image": "https://external-preview.redd.it/Y1M3zs035-xEAjislIanlx0Kz4KIvnMwWPAHXn94Hyw.jpeg?width=640&crop=smart&auto=webp&s=daf44044686a2ab60d27233849969171560ddb65",
-        "published": "2026-03-19T23:20:06+00:00"
-    },
-    {
-        "title": "Microsoft announces sweeping Windows changes",
-        "link": "https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/",
-        "image": "https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&crop=smart&auto=webp&s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3",
-        "published": "2026-03-20T19:44:15+00:00"
-    },
-    {
         "title": "Pinterest CEO calls for ban on social media for youth under 16",
         "link": "https://www.reddit.com/r/technology/comments/1ryymuw/pinterest_ceo_calls_for_ban_on_social_media_for/",
         "image": "https://external-preview.redd.it/WOZ3olcbqDRHqVQhy9dDc6dCmWgcUUhIpMud3lakkp0.jpeg?width=640&crop=smart&auto=webp&s=bb495124f095c5316da4086a1ea99bc596874adb",
         "published": "2026-03-20T15:01:35+00:00"
+    },
+    {
+        "title": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI",
+        "link": "https://www.reddit.com/r/technology/comments/1ryfvka/jeff_bezos_is_reportedly_seeking_100_billion_for/",
+        "image": "https://external-preview.redd.it/Y1M3zs035-xEAjislIanlx0Kz4KIvnMwWPAHXn94Hyw.jpeg?width=640&crop=smart&auto=webp&s=daf44044686a2ab60d27233849969171560ddb65",
+        "published": "2026-03-19T23:20:06+00:00"
     },
     {
         "title": "Figma\u2019s stock drops 12% in two days after Google releases \u2018vibe design\u2019 product",
