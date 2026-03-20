@@ -18,16 +18,16 @@
         "published": "2026-03-19T22:24:17+00:00"
     },
     {
-        "title": "Firefox 149 will offer a free built-in VPN, split views, tab notes and optional AI windows",
-        "link": "https://www.reddit.com/r/technology/comments/1ry70i7/firefox_149_will_offer_a_free_builtin_vpn_split/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-19T17:37:08+00:00"
-    },
-    {
         "title": "A rogue Al agent triggered a major security alert at Meta, by taking action without approval that led to the exposure of sensitive company and user data",
         "link": "https://www.reddit.com/r/technology/comments/1ryc49c/a_rogue_al_agent_triggered_a_major_security_alert/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-19T20:54:57+00:00"
+    },
+    {
+        "title": "Firefox 149 will offer a free built-in VPN, split views, tab notes and optional AI windows",
+        "link": "https://www.reddit.com/r/technology/comments/1ry70i7/firefox_149_will_offer_a_free_builtin_vpn_split/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-19T17:37:08+00:00"
     },
     {
         "title": "Windows 11\u2019s free video editor Clipchamp now requires OneDrive",
@@ -60,18 +60,6 @@
         "published": "2026-03-19T20:35:15+00:00"
     },
     {
-        "title": "Patreon CEO calls AI companies' fair use argument 'bogus,' says creators should be paid",
-        "link": "https://www.reddit.com/r/technology/comments/1ry26a6/patreon_ceo_calls_ai_companies_fair_use_argument/",
-        "image": "https://external-preview.redd.it/Yyc1zYwkq0UZpSBrmq46KY2bEXCrul3r_IV0hWk-21A.jpeg?width=640&crop=smart&auto=webp&s=a40b0891dd0562201f82b095fe3897af989ba12b",
-        "published": "2026-03-19T14:38:17+00:00"
-    },
-    {
-        "title": "Tinder Plans to Let AI Scan Your Camera Roll | In a feature the dating app says is set to roll out in the U.S. later this spring, Tinder plans to access users' camera rolls to pick photos and determine what they're into",
-        "link": "https://www.reddit.com/r/technology/comments/1ry304w/tinder_plans_to_let_ai_scan_your_camera_roll_in_a/",
-        "image": "https://external-preview.redd.it/TFPhn10hdV8WV-MUqJDgnCct2Y93o6sC-mbumwKNEYk.jpeg?width=640&crop=smart&auto=webp&s=6140c679c49daae99b44dfb5dbf43647aa2edfd5",
-        "published": "2026-03-19T15:09:33+00:00"
-    },
-    {
         "title": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI",
         "link": "https://www.reddit.com/r/technology/comments/1ryfvka/jeff_bezos_is_reportedly_seeking_100_billion_for/",
         "image": "https://external-preview.redd.it/Y1M3zs035-xEAjislIanlx0Kz4KIvnMwWPAHXn94Hyw.jpeg?width=640&crop=smart&auto=webp&s=daf44044686a2ab60d27233849969171560ddb65",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1ry9934/chinas_transition_to_electric_vehicles_softens/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-19T18:57:33+00:00"
+    },
+    {
+        "title": "Figma\u2019s stock drops 12% in two days after Google releases \u2018vibe design\u2019 product",
+        "link": "https://www.reddit.com/r/technology/comments/1rypbvy/figmas_stock_drops_12_in_two_days_after_google/",
+        "image": "https://external-preview.redd.it/401YqqV_qYPWhxaBWy8PHpBXWWWN5WDPUxHlwaLZ3wM.jpeg?width=640&crop=smart&auto=webp&s=17953678fca8ef3af92b183bd83a20422dcd075a",
+        "published": "2026-03-20T07:01:14+00:00"
+    },
+    {
+        "title": "Nearly 150 retired federal and state judges have filed an amicus brief supporting Anthropic in its lawsuit against the Pentagon",
+        "link": "https://www.reddit.com/r/technology/comments/1ry7l9o/nearly_150_retired_federal_and_state_judges_have/",
+        "image": "https://external-preview.redd.it/ED00gZZJYSbGzIx-wXJzxe-nKKYfz_ASS3urZEaW4XY.jpeg?width=640&crop=smart&auto=webp&s=29a3fb544a6407e7cac0e3e9d3dd901d9c520219",
+        "published": "2026-03-19T17:57:55+00:00"
     }
 ]
