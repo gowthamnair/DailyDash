@@ -24,12 +24,6 @@
         "published": "2026-03-20T15:14:17+00:00"
     },
     {
-        "title": "A rogue Al agent triggered a major security alert at Meta, by taking action without approval that led to the exposure of sensitive company and user data",
-        "link": "https://www.reddit.com/r/technology/comments/1ryc49c/a_rogue_al_agent_triggered_a_major_security_alert/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-19T20:54:57+00:00"
-    },
-    {
         "title": "Amazon Prime Video is about to get worse \u2014 again",
         "link": "https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -48,10 +42,10 @@
         "published": "2026-03-20T05:53:39+00:00"
     },
     {
-        "title": "Gamers Rebel Against Nvidia\u2019s DLSS 5 \u2018AI Slop Filter\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1ryblmn/gamers_rebel_against_nvidias_dlss_5_ai_slop_filter/",
-        "image": "https://external-preview.redd.it/h3MNUEikGQOy_oSsg7FZkeXwdwWlHuIWSdD_AcHOWTk.jpeg?width=640&crop=smart&auto=webp&s=8aafaec3b878c955484eb00011608806335a2b3f",
-        "published": "2026-03-19T20:35:15+00:00"
+        "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
+        "link": "https://www.reddit.com/r/technology/comments/1ryvlei/walmart_secures_two_ai_pricing_patents_raising/",
+        "image": "https://external-preview.redd.it/fmkXM8klu28kfOvA53HAr2Ujqt2P-8bBE7Mxuutja2g.jpeg?width=640&crop=smart&auto=webp&s=616c52b5a3f1b33e14638a613cf14f8f8c465df3",
+        "published": "2026-03-20T13:00:10+00:00"
     },
     {
         "title": "YouTube is asking users if videos \u201cfeel like AI slop\u201d to flag low-quality content",
@@ -60,22 +54,16 @@
         "published": "2026-03-20T02:52:17+00:00"
     },
     {
-        "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
-        "link": "https://www.reddit.com/r/technology/comments/1ryvlei/walmart_secures_two_ai_pricing_patents_raising/",
-        "image": "https://external-preview.redd.it/fmkXM8klu28kfOvA53HAr2Ujqt2P-8bBE7Mxuutja2g.jpeg?width=640&crop=smart&auto=webp&s=616c52b5a3f1b33e14638a613cf14f8f8c465df3",
-        "published": "2026-03-20T13:00:10+00:00"
-    },
-    {
         "title": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI",
         "link": "https://www.reddit.com/r/technology/comments/1ryfvka/jeff_bezos_is_reportedly_seeking_100_billion_for/",
         "image": "https://external-preview.redd.it/Y1M3zs035-xEAjislIanlx0Kz4KIvnMwWPAHXn94Hyw.jpeg?width=640&crop=smart&auto=webp&s=daf44044686a2ab60d27233849969171560ddb65",
         "published": "2026-03-19T23:20:06+00:00"
     },
     {
-        "title": "Figma\u2019s stock drops 12% in two days after Google releases \u2018vibe design\u2019 product",
-        "link": "https://www.reddit.com/r/technology/comments/1rypbvy/figmas_stock_drops_12_in_two_days_after_google/",
-        "image": "https://external-preview.redd.it/401YqqV_qYPWhxaBWy8PHpBXWWWN5WDPUxHlwaLZ3wM.jpeg?width=640&crop=smart&auto=webp&s=17953678fca8ef3af92b183bd83a20422dcd075a",
-        "published": "2026-03-20T07:01:14+00:00"
+        "title": "Microsoft announces sweeping Windows changes",
+        "link": "https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/",
+        "image": "https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&crop=smart&auto=webp&s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3",
+        "published": "2026-03-20T19:44:15+00:00"
     },
     {
         "title": "Pinterest CEO calls for ban on social media for youth under 16",
@@ -84,9 +72,21 @@
         "published": "2026-03-20T15:01:35+00:00"
     },
     {
+        "title": "Figma\u2019s stock drops 12% in two days after Google releases \u2018vibe design\u2019 product",
+        "link": "https://www.reddit.com/r/technology/comments/1rypbvy/figmas_stock_drops_12_in_two_days_after_google/",
+        "image": "https://external-preview.redd.it/401YqqV_qYPWhxaBWy8PHpBXWWWN5WDPUxHlwaLZ3wM.jpeg?width=640&crop=smart&auto=webp&s=17953678fca8ef3af92b183bd83a20422dcd075a",
+        "published": "2026-03-20T07:01:14+00:00"
+    },
+    {
         "title": "Microsoft: KB5079473 breaks internet access to Windows 11 Teams, Edge, OneDrive, Copilot",
         "link": "https://www.reddit.com/r/technology/comments/1rz04g2/microsoft_kb5079473_breaks_internet_access_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-20T15:56:37+00:00"
+    },
+    {
+        "title": "Microsoft\u2019s return-to-office policy creates a return to slower commutes, traffic analysis shows",
+        "link": "https://www.reddit.com/r/technology/comments/1rz2grg/microsofts_returntooffice_policy_creates_a_return/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-20T17:23:09+00:00"
     }
 ]
