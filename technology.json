@@ -18,12 +18,6 @@
         "published": "2026-03-20T15:14:17+00:00"
     },
     {
-        "title": "U.S. tech execs smuggled Nvidia chips to China, prosecutors say",
-        "link": "https://www.reddit.com/r/technology/comments/1ryeh5h/us_tech_execs_smuggled_nvidia_chips_to_china/",
-        "image": "https://external-preview.redd.it/06ykSxAanqPxl5YIGdhU8oHEckyEqb6z3D4ZDyBw1xQ.png?width=640&crop=smart&auto=webp&s=ef152ac0a3477845534079e46fd5d006aac0795e",
-        "published": "2026-03-19T22:24:17+00:00"
-    },
-    {
         "title": "Amazon Prime Video is about to get worse \u2014 again",
         "link": "https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -36,16 +30,16 @@
         "published": "2026-03-19T23:20:52+00:00"
     },
     {
-        "title": "Supermicro\u2019s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China",
-        "link": "https://www.reddit.com/r/technology/comments/1ryo79h/supermicros_cofounder_was_just_arrested_for/",
-        "image": "https://external-preview.redd.it/bauuE7-hJieiyhsbOZo32o9YG18dYyojNMWKcFr76kM.jpeg?width=640&crop=smart&auto=webp&s=7432978d2cf01d34e08ec0273e078bf5db3ec41f",
-        "published": "2026-03-20T05:53:39+00:00"
-    },
-    {
         "title": "Microsoft announces sweeping Windows changes",
         "link": "https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/",
         "image": "https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&crop=smart&auto=webp&s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3",
         "published": "2026-03-20T19:44:15+00:00"
+    },
+    {
+        "title": "Supermicro\u2019s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China",
+        "link": "https://www.reddit.com/r/technology/comments/1ryo79h/supermicros_cofounder_was_just_arrested_for/",
+        "image": "https://external-preview.redd.it/bauuE7-hJieiyhsbOZo32o9YG18dYyojNMWKcFr76kM.jpeg?width=640&crop=smart&auto=webp&s=7432978d2cf01d34e08ec0273e078bf5db3ec41f",
+        "published": "2026-03-20T05:53:39+00:00"
     },
     {
         "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
@@ -54,16 +48,16 @@
         "published": "2026-03-20T13:00:10+00:00"
     },
     {
-        "title": "YouTube is asking users if videos \u201cfeel like AI slop\u201d to flag low-quality content",
-        "link": "https://www.reddit.com/r/technology/comments/1rykq36/youtube_is_asking_users_if_videos_feel_like_ai/",
-        "image": "https://external-preview.redd.it/dNN5yZih-QXbGH0ZvUhxZ_PZEhWWBgZS2vXsY50G3QA.jpeg?width=640&crop=smart&auto=webp&s=d88638626facf9822493a3e797ce51cc676028ef",
-        "published": "2026-03-20T02:52:17+00:00"
-    },
-    {
         "title": "Pinterest CEO calls for ban on social media for youth under 16",
         "link": "https://www.reddit.com/r/technology/comments/1ryymuw/pinterest_ceo_calls_for_ban_on_social_media_for/",
         "image": "https://external-preview.redd.it/WOZ3olcbqDRHqVQhy9dDc6dCmWgcUUhIpMud3lakkp0.jpeg?width=640&crop=smart&auto=webp&s=bb495124f095c5316da4086a1ea99bc596874adb",
         "published": "2026-03-20T15:01:35+00:00"
+    },
+    {
+        "title": "YouTube is asking users if videos \u201cfeel like AI slop\u201d to flag low-quality content",
+        "link": "https://www.reddit.com/r/technology/comments/1rykq36/youtube_is_asking_users_if_videos_feel_like_ai/",
+        "image": "https://external-preview.redd.it/dNN5yZih-QXbGH0ZvUhxZ_PZEhWWBgZS2vXsY50G3QA.jpeg?width=640&crop=smart&auto=webp&s=d88638626facf9822493a3e797ce51cc676028ef",
+        "published": "2026-03-20T02:52:17+00:00"
     },
     {
         "title": "Jeff Bezos is reportedly seeking $100 billion for a new fund, the likes of which will be used to buy up companies in major industrial sectors and, ultimately, modernize and automate them with AI",
@@ -78,10 +72,16 @@
         "published": "2026-03-20T07:01:14+00:00"
     },
     {
-        "title": "Microsoft: KB5079473 breaks internet access to Windows 11 Teams, Edge, OneDrive, Copilot",
-        "link": "https://www.reddit.com/r/technology/comments/1rz04g2/microsoft_kb5079473_breaks_internet_access_to/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-20T15:56:37+00:00"
+        "title": "U.S President FCC lets Nexstar buy Tegna and blow way past 39% TV ownership cap | Brendan Carr lets U.S President-favorite Nexstar exceed national station ownership limit.",
+        "link": "https://www.reddit.com/r/technology/comments/1rz7fh4/us_president_fcc_lets_nexstar_buy_tegna_and_blow/",
+        "image": "https://external-preview.redd.it/OSDLtWEv2i9Cgtr7gM3B69glOxH7jmk1-IUWuK2YqhE.jpeg?width=640&crop=smart&auto=webp&s=9378639acb994c7012a1086bb6acb7b8e515717e",
+        "published": "2026-03-20T20:32:24+00:00"
+    },
+    {
+        "title": "RIP Metaverse, an $80 Billion Dumpster Fire Nobody Wanted | Who could have possibly predicted this, besides everyone?",
+        "link": "https://www.reddit.com/r/technology/comments/1rz25l5/rip_metaverse_an_80_billion_dumpster_fire_nobody/",
+        "image": "https://external-preview.redd.it/WbLrQEuMrg0VeMKGiYJce50EeZhwunoLmrmMCWwG9pQ.png?width=640&crop=smart&auto=webp&s=24c1f0bcd7e72f8e775d602666fef9550659e441",
+        "published": "2026-03-20T17:12:00+00:00"
     },
     {
         "title": "Microsoft\u2019s return-to-office policy creates a return to slower commutes, traffic analysis shows",
