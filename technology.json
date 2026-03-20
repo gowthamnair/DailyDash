@@ -24,16 +24,16 @@
         "published": "2026-03-19T10:36:57+00:00"
     },
     {
-        "title": "Windows 11\u2019s free video editor Clipchamp now requires OneDrive",
-        "link": "https://www.reddit.com/r/technology/comments/1ry5kpq/windows_11s_free_video_editor_clipchamp_now/",
-        "image": "https://external-preview.redd.it/0Rsz7YKyzkgKKq6RFTlJTwZmpasHZw3hCYbuo0hpQEk.png?width=640&crop=smart&auto=webp&s=a3ce07216c5b4dfe0c820572aa8d5647efc0d3c6",
-        "published": "2026-03-19T16:44:41+00:00"
-    },
-    {
         "title": "Firefox 149 will offer a free built-in VPN, split views, tab notes and optional AI windows",
         "link": "https://www.reddit.com/r/technology/comments/1ry70i7/firefox_149_will_offer_a_free_builtin_vpn_split/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-19T17:37:08+00:00"
+    },
+    {
+        "title": "Windows 11\u2019s free video editor Clipchamp now requires OneDrive",
+        "link": "https://www.reddit.com/r/technology/comments/1ry5kpq/windows_11s_free_video_editor_clipchamp_now/",
+        "image": "https://external-preview.redd.it/0Rsz7YKyzkgKKq6RFTlJTwZmpasHZw3hCYbuo0hpQEk.png?width=640&crop=smart&auto=webp&s=a3ce07216c5b4dfe0c820572aa8d5647efc0d3c6",
+        "published": "2026-03-19T16:44:41+00:00"
     },
     {
         "title": "A rogue Al agent triggered a major security alert at Meta, by taking action without approval that led to the exposure of sensitive company and user data",
@@ -42,22 +42,16 @@
         "published": "2026-03-19T20:54:57+00:00"
     },
     {
-        "title": "US F-35 damaged by suspected Iranian fire makes emergency landing, sources say",
-        "link": "https://www.reddit.com/r/technology/comments/1ry503k/us_f35_damaged_by_suspected_iranian_fire_makes/",
-        "image": "https://external-preview.redd.it/5Y_XVyDVuKlFXWljfuaE6H1RweDibnZooS3fudoGZVc.jpeg?width=640&crop=smart&auto=webp&s=ccdd8a622d708c6b09e91b3f67873572e3100ca5",
-        "published": "2026-03-19T16:23:40+00:00"
-    },
-    {
         "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
         "link": "https://www.reddit.com/r/technology/comments/1ryfw7g/online_bot_traffic_will_exceed_human_traffic_by/",
         "image": "https://external-preview.redd.it/FVP8AE2akHZTwhgOgSiXt1szGDRkHPiNxQTn46dVruc.jpeg?width=640&crop=smart&auto=webp&s=6f5f2e24d01a472e86c389c8ba8bc5d8137eb020",
         "published": "2026-03-19T23:20:52+00:00"
     },
     {
-        "title": "Pentagon replies to Anthropic's lawsuit; says: Refusal to accept the government's contractual terms is not protected",
-        "link": "https://www.reddit.com/r/technology/comments/1rxvrun/pentagon_replies_to_anthropics_lawsuit_says/",
-        "image": "https://external-preview.redd.it/0cVJpdwn-GL8_xEv2kwLAAnjewoStb0TEYAH6J0MLew.jpeg?width=640&crop=smart&auto=webp&s=b7e6efac83df463c6365f6607aa301638877a256",
-        "published": "2026-03-19T09:29:41+00:00"
+        "title": "US F-35 damaged by suspected Iranian fire makes emergency landing, sources say",
+        "link": "https://www.reddit.com/r/technology/comments/1ry503k/us_f35_damaged_by_suspected_iranian_fire_makes/",
+        "image": "https://external-preview.redd.it/5Y_XVyDVuKlFXWljfuaE6H1RweDibnZooS3fudoGZVc.jpeg?width=640&crop=smart&auto=webp&s=ccdd8a622d708c6b09e91b3f67873572e3100ca5",
+        "published": "2026-03-19T16:23:40+00:00"
     },
     {
         "title": "Gamers Rebel Against Nvidia\u2019s DLSS 5 \u2018AI Slop Filter\u2019",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1ry9934/chinas_transition_to_electric_vehicles_softens/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-19T18:57:33+00:00"
+    },
+    {
+        "title": "Tesla\u2019s Full Self-Driving is on the cusp of a recall",
+        "link": "https://www.reddit.com/r/technology/comments/1ry1w2u/teslas_full_selfdriving_is_on_the_cusp_of_a_recall/",
+        "image": "https://external-preview.redd.it/Sk6sR2--HZgiMrv6CZikOTVT8kOR_oyG-DnLonTK5A8.png?width=640&crop=smart&auto=webp&s=37388bc1af2127f02e032ec04f8c6391a9fa9872",
+        "published": "2026-03-19T14:27:45+00:00"
     }
 ]
