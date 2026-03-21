@@ -6,12 +6,6 @@
         "published": "2026-03-21T01:31:12+00:00"
     },
     {
-        "title": "Microsoft announces sweeping Windows changes",
-        "link": "https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/",
-        "image": "https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&crop=smart&auto=webp&s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3",
-        "published": "2026-03-20T19:44:15+00:00"
-    },
-    {
         "title": "Nvidia \"confirms\" DLSS 5 relies on 2D frame data as testing reveals hallucinations",
         "link": "https://www.reddit.com/r/technology/comments/1rzqteq/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/",
         "image": "https://external-preview.redd.it/inu9kQj4uKn3u4u8WHg_F1MjAUPc_EF4rZtnxNGUA0k.jpeg?width=640&crop=smart&auto=webp&s=12a3788b0e50b4a9d66c0fc0f80d6736d4e3e270",
@@ -48,16 +42,16 @@
         "published": "2026-03-20T21:26:24+00:00"
     },
     {
-        "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
-        "link": "https://www.reddit.com/r/technology/comments/1rzn688/cyberattack_on_vehicle_breathalyzer_company/",
-        "image": "https://external-preview.redd.it/8oTRC_CXO6RaUkpDp6O7qZ3n5f3lG-neJUgcA-jorFw.jpeg?width=640&crop=smart&auto=webp&s=63960bfd689dcf2b7af4fdaac2cf1aa15db12073",
-        "published": "2026-03-21T09:29:35+00:00"
-    },
-    {
         "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom",
         "link": "https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/",
         "image": "https://external-preview.redd.it/NaE_f5VlB3mj6Zc2HbxZ1rbQs7dpw8TosdzkGEBCorE.jpeg?width=640&crop=smart&auto=webp&s=e86ae34057307dde652149e134a0e922b0708970",
         "published": "2026-03-21T15:02:43+00:00"
+    },
+    {
+        "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
+        "link": "https://www.reddit.com/r/technology/comments/1rzn688/cyberattack_on_vehicle_breathalyzer_company/",
+        "image": "https://external-preview.redd.it/8oTRC_CXO6RaUkpDp6O7qZ3n5f3lG-neJUgcA-jorFw.jpeg?width=640&crop=smart&auto=webp&s=63960bfd689dcf2b7af4fdaac2cf1aa15db12073",
+        "published": "2026-03-21T09:29:35+00:00"
     },
     {
         "title": "\u2018It\u2019s stupid\u2019: why western carmakers\u2019 retreat from electric risks dooming them to irrelevance",
@@ -78,15 +72,21 @@
         "published": "2026-03-21T13:48:04+00:00"
     },
     {
+        "title": "From malls to neighborhoods, why high-tech \u2018scarecrows\u2019 are now everywhere",
+        "link": "https://www.reddit.com/r/technology/comments/1rzp8vi/from_malls_to_neighborhoods_why_hightech/",
+        "image": "https://external-preview.redd.it/HlLWfSpN1IucmowWervYZRJcw0_W7-E1hRFqZoe6BWA.jpeg?width=640&crop=smart&auto=webp&s=16e33a5d4bc5e243a7f8e08f0d4644c74b08f085",
+        "published": "2026-03-21T11:36:11+00:00"
+    },
+    {
         "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
         "link": "https://www.reddit.com/r/technology/comments/1rzqmat/microsoft_rolls_back_some_of_its_copilot_ai_bloat/",
         "image": "https://external-preview.redd.it/TuhQ-o1jWNFefsjvyI2a-CuofxHR51_xODx3OB0j380.jpeg?width=640&crop=smart&auto=webp&s=5800f99ce3c8b36a2d60ee587154d96f589c75b3",
         "published": "2026-03-21T12:48:27+00:00"
     },
     {
-        "title": "From malls to neighborhoods, why high-tech \u2018scarecrows\u2019 are now everywhere",
-        "link": "https://www.reddit.com/r/technology/comments/1rzp8vi/from_malls_to_neighborhoods_why_hightech/",
-        "image": "https://external-preview.redd.it/HlLWfSpN1IucmowWervYZRJcw0_W7-E1hRFqZoe6BWA.jpeg?width=640&crop=smart&auto=webp&s=16e33a5d4bc5e243a7f8e08f0d4644c74b08f085",
-        "published": "2026-03-21T11:36:11+00:00"
+        "title": "The FBI is buying Americans\u2019 location data",
+        "link": "https://www.reddit.com/r/technology/comments/1rznned/the_fbi_is_buying_americans_location_data/",
+        "image": "https://external-preview.redd.it/uxxG1_uRvROx5dKmabgzA8yqLa4Z4iIk1D8qP_MxIAs.jpeg?width=640&crop=smart&auto=webp&s=148a9d07e299c1f1bff9b4b2f557dc3307366b60",
+        "published": "2026-03-21T10:00:13+00:00"
     }
 ]
