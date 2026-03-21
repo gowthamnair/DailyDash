@@ -12,16 +12,16 @@
         "published": "2026-03-20T15:14:17+00:00"
     },
     {
-        "title": "Amazon Prime Video is about to get worse \u2014 again",
-        "link": "https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-20T16:50:38+00:00"
-    },
-    {
         "title": "Elon Musk to Owe Billions After Jury Finds He Misled Twitter Investors Before Takeover",
         "link": "https://www.reddit.com/r/technology/comments/1rzen4g/elon_musk_to_owe_billions_after_jury_finds_he/",
         "image": "https://external-preview.redd.it/X9AX0KMS5k31KkpPs4RTCYRFuVOvSf4p0qyFDlkvHqc.jpeg?width=640&crop=smart&auto=webp&s=9b7c1088aead56c3a2a3a1df4e3c4e6d27c672bc",
         "published": "2026-03-21T01:31:12+00:00"
+    },
+    {
+        "title": "Amazon Prime Video is about to get worse \u2014 again",
+        "link": "https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-20T16:50:38+00:00"
     },
     {
         "title": "Microsoft announces sweeping Windows changes",
@@ -66,12 +66,6 @@
         "published": "2026-03-20T17:23:09+00:00"
     },
     {
-        "title": "Figma\u2019s stock drops 12% in two days after Google releases \u2018vibe design\u2019 product",
-        "link": "https://www.reddit.com/r/technology/comments/1rypbvy/figmas_stock_drops_12_in_two_days_after_google/",
-        "image": "https://external-preview.redd.it/401YqqV_qYPWhxaBWy8PHpBXWWWN5WDPUxHlwaLZ3wM.jpeg?width=640&crop=smart&auto=webp&s=17953678fca8ef3af92b183bd83a20422dcd075a",
-        "published": "2026-03-20T07:01:14+00:00"
-    },
-    {
         "title": "Microsoft: KB5079473 breaks internet access to Windows 11 Teams, Edge, OneDrive, Copilot",
         "link": "https://www.reddit.com/r/technology/comments/1rz04g2/microsoft_kb5079473_breaks_internet_access_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1rz0mnk/all_the_wrong_evs_are_getting_canceled/",
         "image": "https://external-preview.redd.it/BPYkXN29_qb7DkHQNNzlNHnEiSG9INmgxCFar7-29w4.jpeg?width=640&crop=smart&auto=webp&s=577cd812b8409bd6203747df86d9f283ec78235d",
         "published": "2026-03-20T16:15:04+00:00"
+    },
+    {
+        "title": "\u2018It does feel like an intimidation campaign\u2019: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.reddit.com/r/technology/comments/1ryuhla/it_does_feel_like_an_intimidation_campaign_why_is/",
+        "image": "https://external-preview.redd.it/mnti15yGl7lbWhtY0czvHJvj64FzvsVw2HZisbzpYno.jpeg?width=640&crop=smart&auto=webp&s=cd4472e665633b6cea99ea1ddca611063ea83c2d",
+        "published": "2026-03-20T12:08:03+00:00"
     }
 ]
