@@ -24,16 +24,16 @@
         "published": "2026-03-20T17:34:53+00:00"
     },
     {
-        "title": "OpenAI\u2019s new \"North Star\" goal aims for fully automated AI researcher in 2026, multi-agent research lab in a data centre by 2028",
-        "link": "https://www.reddit.com/r/singularity/comments/1rz6897/openais_new_north_star_goal_aims_for_fully/",
-        "image": "https://external-preview.redd.it/pdC2lIyuLarM1conmtxe540lj5eLy-hXFWoFuAkS9jk.jpeg?width=640&crop=smart&auto=webp&s=7e7a23a2389009f723e813ff00c9b7c83604af99",
-        "published": "2026-03-20T19:46:14+00:00"
-    },
-    {
         "title": "Tried running LLMs locally this week. My actual progression:",
         "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
         "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
         "published": "2026-03-21T01:44:52+00:00"
+    },
+    {
+        "title": "OpenAI\u2019s new \"North Star\" goal aims for fully automated AI researcher in 2026, multi-agent research lab in a data centre by 2028",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz6897/openais_new_north_star_goal_aims_for_fully/",
+        "image": "https://external-preview.redd.it/pdC2lIyuLarM1conmtxe540lj5eLy-hXFWoFuAkS9jk.jpeg?width=640&crop=smart&auto=webp&s=7e7a23a2389009f723e813ff00c9b7c83604af99",
+        "published": "2026-03-20T19:46:14+00:00"
     },
     {
         "title": "I asked the AI Roundtable if AI companies should be allowed to refuse military contracts on ethical grounds",
@@ -52,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rz61v2/cursorss_new_ai_model_composer_2_is_just_wrapper/",
         "image": "https://preview.redd.it/6reiu4fi69qg1.jpeg?width=640&crop=smart&auto=webp&s=8428fa2c6595ed750276bc14397a92123b74f14e",
         "published": "2026-03-20T19:39:24+00:00"
-    },
-    {
-        "title": "Terence Tao \u2013 Kepler, Newton, and the true nature of mathematical discovery. Lots of discussion on AI and the future of Mathematics",
-        "link": "https://www.reddit.com/r/singularity/comments/1rz1luu/terence_tao_kepler_newton_and_the_true_nature_of/",
-        "image": "https://external-preview.redd.it/8sWiuffqJCnkEc_ZKOssZYp36CfQVVi99LHxv4kciWA.jpeg?width=320&crop=smart&auto=webp&s=e709dc31f6eef08248364c2db7069d2c24b7a6de",
-        "published": "2026-03-20T16:51:40+00:00"
     },
     {
         "title": "Terence Tao \u2013 How the world\u2019s top mathematician uses AI",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rznuy0/confrontation_between_billionaire_ceo_and_lutnick/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-21T10:12:56+00:00"
+    },
+    {
+        "title": "Schmidhuber\u2019s Omega Timeline (2014)",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzqr9o/schmidhubers_omega_timeline_2014/",
+        "image": "https://preview.redd.it/ovt8txhv9eqg1.png?width=640&crop=smart&auto=webp&s=1ac7cc9b8f3bee7121807bc2a82de7486fd46817",
+        "published": "2026-03-21T12:55:06+00:00"
     }
 ]
