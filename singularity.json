@@ -1,21 +1,9 @@
 [
     {
-        "title": "Lmao man",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryk4sw/lmao_man/",
-        "image": "https://preview.redd.it/jbhfk1c124qg1.jpeg?width=640&crop=smart&auto=webp&s=6d01d9fb860a350a5c1a94560e0fc9e46b7ce08d",
-        "published": "2026-03-20T02:25:13+00:00"
-    },
-    {
         "title": "Not the AI slop we need but the one we deserve",
         "link": "https://www.reddit.com/r/singularity/comments/1rymrpm/not_the_ai_slop_we_need_but_the_one_we_deserve/",
         "image": "https://external-preview.redd.it/dndhYTc1dnRvNHFnMfAzR0u6iKQRQkvAsclROpQpN-3Nu7KDClJ19aGIvQth.png?width=320&crop=smart&auto=webp&s=11010814359a54929e628cf8e3652c84dc52711b",
         "published": "2026-03-20T04:33:01+00:00"
-    },
-    {
-        "title": "Chinese state media airs AI generated animation explaining US-Iran conflict. (Not sure of subtitle accuracy)",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryjccp/chinese_state_media_airs_ai_generated_animation/",
-        "image": "https://external-preview.redd.it/NmIyMWI3dXF2M3FnMQO5Tot3CNqP9fbXW0DLpkv_d8PqqSCjb3MzNceXAjC0.png?width=640&crop=smart&auto=webp&s=a675f6d69e7ded5567823fbc76f0183c41ab66b1",
-        "published": "2026-03-20T01:49:58+00:00"
     },
     {
         "title": "Cursor\u2019s \u2018Composer 2\u2019 model is apparently just Kimi K2.5 with RL fine-tuning. Moonshot AI says they never paid or got permission",
@@ -36,16 +24,16 @@
         "published": "2026-03-20T14:52:37+00:00"
     },
     {
-        "title": "Supermicro\u2019s co-founder was just accused of smuggling $2.5 billion in GPUs to China",
-        "link": "https://www.reddit.com/r/singularity/comments/1rylxqe/supermicros_cofounder_was_just_accused_of/",
-        "image": "https://external-preview.redd.it/bauuE7-hJieiyhsbOZo32o9YG18dYyojNMWKcFr76kM.jpeg?width=640&crop=smart&auto=webp&s=7432978d2cf01d34e08ec0273e078bf5db3ec41f",
-        "published": "2026-03-20T03:50:34+00:00"
-    },
-    {
         "title": "Cursor responds to the Composer 2 allegations",
         "link": "https://www.reddit.com/r/singularity/comments/1rz2rw7/cursor_responds_to_the_composer_2_allegations/",
         "image": "https://preview.redd.it/chkb1zzbk8qg1.jpeg?width=640&crop=smart&auto=webp&s=a27a3750e78e66613cf999701ee4b4bcd82a4bd6",
         "published": "2026-03-20T17:34:53+00:00"
+    },
+    {
+        "title": "OpenAI research team reveals its models go insane when given repetitive tasks it believes to be sent from automated users",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
+        "image": "https://preview.redd.it/0ub4pcth9bqg1.jpeg?width=640&crop=smart&auto=webp&s=f50caca26bebf78567cc7b5239816fcb6ac6daad",
+        "published": "2026-03-21T02:41:28+00:00"
     },
     {
         "title": "OpenAI\u2019s new \"North Star\" goal aims for fully automated AI researcher in 2026, multi-agent research lab in a data centre by 2028",
@@ -72,21 +60,33 @@
         "published": "2026-03-20T20:29:16+00:00"
     },
     {
-        "title": "ORCA Dexterity announces three new open source robotic hands!",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryrc53/orca_dexterity_announces_three_new_open_source/",
-        "image": "https://external-preview.redd.it/RdVbLORlfbhloQcXZHalgvJ14B8AnZF7UKQtN-wb0gQ.jpeg?width=320&crop=smart&auto=webp&s=0cd1ec46de82634acfce2c4332772d081a65dfa1",
-        "published": "2026-03-20T09:08:46+00:00"
-    },
-    {
         "title": "Cursors's new ai model \"Composer 2\" is just wrapper+ lil fine tune of Kimi-k2.5",
         "link": "https://www.reddit.com/r/singularity/comments/1rz61v2/cursorss_new_ai_model_composer_2_is_just_wrapper/",
         "image": "https://preview.redd.it/6reiu4fi69qg1.jpeg?width=640&crop=smart&auto=webp&s=8428fa2c6595ed750276bc14397a92123b74f14e",
         "published": "2026-03-20T19:39:24+00:00"
     },
     {
+        "title": "I am wondering if any famous person would even notice a difference in behavior between their sycophantic entourage and LLMs",
+        "link": "https://www.reddit.com/r/singularity/comments/1ryyhej/i_am_wondering_if_any_famous_person_would_even/",
+        "image": "https://preview.redd.it/vajvkxhvr7qg1.png?width=320&crop=smart&auto=webp&s=842ebef0ab5814e0985035e4bd578da5f0fd631e",
+        "published": "2026-03-20T14:56:05+00:00"
+    },
+    {
+        "title": "ORCA Dexterity announces three new open source robotic hands!",
+        "link": "https://www.reddit.com/r/singularity/comments/1ryrc53/orca_dexterity_announces_three_new_open_source/",
+        "image": "https://external-preview.redd.it/RdVbLORlfbhloQcXZHalgvJ14B8AnZF7UKQtN-wb0gQ.jpeg?width=320&crop=smart&auto=webp&s=0cd1ec46de82634acfce2c4332772d081a65dfa1",
+        "published": "2026-03-20T09:08:46+00:00"
+    },
+    {
         "title": "Terence Tao \u2013 Kepler, Newton, and the true nature of mathematical discovery. Lots of discussion on AI and the future of Mathematics",
         "link": "https://www.reddit.com/r/singularity/comments/1rz1luu/terence_tao_kepler_newton_and_the_true_nature_of/",
         "image": "https://external-preview.redd.it/8sWiuffqJCnkEc_ZKOssZYp36CfQVVi99LHxv4kciWA.jpeg?width=320&crop=smart&auto=webp&s=e709dc31f6eef08248364c2db7069d2c24b7a6de",
         "published": "2026-03-20T16:51:40+00:00"
+    },
+    {
+        "title": "History is one giant pattern of accelerating change...so it will only get faster",
+        "link": "https://www.reddit.com/r/singularity/comments/1ryn9sy/history_is_one_giant_pattern_of_accelerating/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-20T05:00:50+00:00"
     }
 ]
