@@ -12,12 +12,6 @@
         "published": "2026-03-20T20:00:47+00:00"
     },
     {
-        "title": "the tl;dw",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryye3l/the_tldw/",
-        "image": "https://preview.redd.it/54rpabfar7qg1.png?width=640&crop=smart&auto=webp&s=0cd9c1b3d691d5caa9d4b8ce4b8f0863be46e09b",
-        "published": "2026-03-20T14:52:37+00:00"
-    },
-    {
         "title": "CEO of NVIDIA: The \u201cChatGPT Moment\u201d of Biology is Here",
         "link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
         "image": "https://external-preview.redd.it/NjJlaDdyMGEwY3FnMedyAIWjDSWyoWg7NN7SlVZczf7K0BazTagAjYtIWu87.png?width=640&crop=smart&auto=webp&s=178143e3f6535de4659acdcf82831a7521613b84",
@@ -36,16 +30,16 @@
         "published": "2026-03-20T19:46:14+00:00"
     },
     {
-        "title": "I asked the AI Roundtable if AI companies should be allowed to refuse military contracts on ethical grounds",
-        "link": "https://www.reddit.com/r/singularity/comments/1rz3et1/i_asked_the_ai_roundtable_if_ai_companies_should/",
-        "image": "https://preview.redd.it/yarn24yan8qg1.png?width=640&crop=smart&auto=webp&s=f4a6b7b5c90ef50cd36d38eb9b01f594f77af073",
-        "published": "2026-03-20T17:59:03+00:00"
-    },
-    {
         "title": "Tried running LLMs locally this week. My actual progression:",
         "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
         "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
         "published": "2026-03-21T01:44:52+00:00"
+    },
+    {
+        "title": "I asked the AI Roundtable if AI companies should be allowed to refuse military contracts on ethical grounds",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz3et1/i_asked_the_ai_roundtable_if_ai_companies_should/",
+        "image": "https://preview.redd.it/yarn24yan8qg1.png?width=640&crop=smart&auto=webp&s=f4a6b7b5c90ef50cd36d38eb9b01f594f77af073",
+        "published": "2026-03-20T17:59:03+00:00"
     },
     {
         "title": "These were /r/Singularity's AI predictions back in 2024. How'd we do?",
@@ -58,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rz61v2/cursorss_new_ai_model_composer_2_is_just_wrapper/",
         "image": "https://preview.redd.it/6reiu4fi69qg1.jpeg?width=640&crop=smart&auto=webp&s=8428fa2c6595ed750276bc14397a92123b74f14e",
         "published": "2026-03-20T19:39:24+00:00"
-    },
-    {
-        "title": "I am wondering if any famous person would even notice a difference in behavior between their sycophantic entourage and LLMs",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryyhej/i_am_wondering_if_any_famous_person_would_even/",
-        "image": "https://preview.redd.it/vajvkxhvr7qg1.png?width=320&crop=smart&auto=webp&s=842ebef0ab5814e0985035e4bd578da5f0fd631e",
-        "published": "2026-03-20T14:56:05+00:00"
     },
     {
         "title": "Terence Tao \u2013 Kepler, Newton, and the true nature of mathematical discovery. Lots of discussion on AI and the future of Mathematics",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rzjxr6/braininspired_nanoelectronic_device_could_cut_ai/",
         "image": "https://external-preview.redd.it/QeS0RmCrVcxEB3YMsn7RDYKV0Fvq5LDG0E_ZL7ey7UM.jpeg?width=640&crop=smart&auto=webp&s=b8e755af21903025f62faf42f2ff3375fd9f8fb3",
         "published": "2026-03-21T06:04:09+00:00"
+    },
+    {
+        "title": "Quantum Computing Reaches an Inflection Point With NVIDIA NVQLink",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzl2dk/quantum_computing_reaches_an_inflection_point/",
+        "image": "https://external-preview.redd.it/oQ7COxitduLGnQXifqMhXXW7rVlJfFC5rstM-zErsBA.jpeg?width=640&crop=smart&auto=webp&s=d6f604907b56772f63362a1c356a12d288ea1e9d",
+        "published": "2026-03-21T07:12:23+00:00"
+    },
+    {
+        "title": "Confrontation between billionaire CEO and Lutnick hints at trouble with huge data center project",
+        "link": "https://www.reddit.com/r/singularity/comments/1rznuy0/confrontation_between_billionaire_ceo_and_lutnick/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-21T10:12:56+00:00"
     }
 ]

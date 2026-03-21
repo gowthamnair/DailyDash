@@ -6,12 +6,6 @@
         "published": "2026-03-21T01:31:12+00:00"
     },
     {
-        "title": "Thousands have swooned over this MAGA dream girl. She\u2019s made with AI.",
-        "link": "https://www.reddit.com/r/technology/comments/1ryyz20/thousands_have_swooned_over_this_maga_dream_girl/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-20T15:14:17+00:00"
-    },
-    {
         "title": "Amazon Prime Video is about to get worse \u2014 again",
         "link": "https://www.reddit.com/r/technology/comments/1rz1ku7/amazon_prime_video_is_about_to_get_worse_again/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -22,12 +16,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1rz66f2/microsoft_announces_sweeping_windows_changes/",
         "image": "https://external-preview.redd.it/PHFs4WikZcMOHkq-wLNm-jg3hi-vjgqz64PUbYeZgMU.jpeg?width=640&crop=smart&auto=webp&s=2ab9b5b916f8a8101a54d6663cb0ca35214826e3",
         "published": "2026-03-20T19:44:15+00:00"
-    },
-    {
-        "title": "Pinterest CEO calls for ban on social media for youth under 16",
-        "link": "https://www.reddit.com/r/technology/comments/1ryymuw/pinterest_ceo_calls_for_ban_on_social_media_for/",
-        "image": "https://external-preview.redd.it/WOZ3olcbqDRHqVQhy9dDc6dCmWgcUUhIpMud3lakkp0.jpeg?width=640&crop=smart&auto=webp&s=bb495124f095c5316da4086a1ea99bc596874adb",
-        "published": "2026-03-20T15:01:35+00:00"
     },
     {
         "title": "U.S President FCC lets Nexstar buy Tegna and blow way past 39% TV ownership cap | Brendan Carr lets U.S President-favorite Nexstar exceed national station ownership limit.",
@@ -72,10 +60,22 @@
         "published": "2026-03-21T01:58:46+00:00"
     },
     {
+        "title": "Nvidia \"confirms\" DLSS 5 relies on 2D frame data as testing reveals hallucinations",
+        "link": "https://www.reddit.com/r/technology/comments/1rzqteq/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/",
+        "image": "https://external-preview.redd.it/inu9kQj4uKn3u4u8WHg_F1MjAUPc_EF4rZtnxNGUA0k.jpeg?width=640&crop=smart&auto=webp&s=12a3788b0e50b4a9d66c0fc0f80d6736d4e3e270",
+        "published": "2026-03-21T12:57:57+00:00"
+    },
+    {
         "title": "All the wrong EVs are getting canceled",
         "link": "https://www.reddit.com/r/technology/comments/1rz0mnk/all_the_wrong_evs_are_getting_canceled/",
         "image": "https://external-preview.redd.it/BPYkXN29_qb7DkHQNNzlNHnEiSG9INmgxCFar7-29w4.jpeg?width=640&crop=smart&auto=webp&s=577cd812b8409bd6203747df86d9f283ec78235d",
         "published": "2026-03-20T16:15:04+00:00"
+    },
+    {
+        "title": "Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world \u2014 will require a $33 billion natural gas plant, equivalent to nine nuclear reactors",
+        "link": "https://www.reddit.com/r/technology/comments/1rzkzai/planned_10gigawatt_softbank_data_center_in_ohio/",
+        "image": "https://external-preview.redd.it/VzN7ItgRbP5NrV3JmELHYacBtYfgJxlqiREWaFuFFQs.jpeg?width=640&crop=smart&auto=webp&s=9852237f91169d1490e641f8191cc00d694d6adb",
+        "published": "2026-03-21T07:07:00+00:00"
     },
     {
         "title": "RFK Jr. may replace entire panel of CDC vaccine advisors again, ally lets slip | Dr. Robert Malone, vice chair of Kennedy\u2019s ACIP, made the claim, then retracted it, as HHS denied it.",
@@ -84,9 +84,9 @@
         "published": "2026-03-21T02:07:35+00:00"
     },
     {
-        "title": "Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world \u2014 will require a $33 billion natural gas plant, equivalent to nine nuclear reactors",
-        "link": "https://www.reddit.com/r/technology/comments/1rzkzai/planned_10gigawatt_softbank_data_center_in_ohio/",
-        "image": "https://external-preview.redd.it/VzN7ItgRbP5NrV3JmELHYacBtYfgJxlqiREWaFuFFQs.jpeg?width=640&crop=smart&auto=webp&s=9852237f91169d1490e641f8191cc00d694d6adb",
-        "published": "2026-03-21T07:07:00+00:00"
+        "title": "Marc Andreessen is a philosophical zombie | Silicon Valley innovates again",
+        "link": "https://www.reddit.com/r/technology/comments/1rz3cmw/marc_andreessen_is_a_philosophical_zombie_silicon/",
+        "image": "https://external-preview.redd.it/8MMxsGJnz5jKCyAgu-5UmzzbVIJ5qGfwn7Sn5iOxT3w.jpeg?width=640&crop=smart&auto=webp&s=c6a789bd8cb93fe244d2d63aab1532837bc9194e",
+        "published": "2026-03-20T17:56:40+00:00"
     }
 ]
