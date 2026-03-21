@@ -24,16 +24,16 @@
         "published": "2026-03-20T17:34:53+00:00"
     },
     {
-        "title": "OpenAI\u2019s new \"North Star\" goal aims for fully automated AI researcher in 2026, multi-agent research lab in a data centre by 2028",
-        "link": "https://www.reddit.com/r/singularity/comments/1rz6897/openais_new_north_star_goal_aims_for_fully/",
-        "image": "https://external-preview.redd.it/pdC2lIyuLarM1conmtxe540lj5eLy-hXFWoFuAkS9jk.jpeg?width=640&crop=smart&auto=webp&s=7e7a23a2389009f723e813ff00c9b7c83604af99",
-        "published": "2026-03-20T19:46:14+00:00"
-    },
-    {
         "title": "CEO of NVIDIA: The \u201cChatGPT Moment\u201d of Biology is Here",
         "link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
         "image": "https://external-preview.redd.it/NjJlaDdyMGEwY3FnMedyAIWjDSWyoWg7NN7SlVZczf7K0BazTagAjYtIWu87.png?width=640&crop=smart&auto=webp&s=178143e3f6535de4659acdcf82831a7521613b84",
         "published": "2026-03-21T05:10:29+00:00"
+    },
+    {
+        "title": "OpenAI\u2019s new \"North Star\" goal aims for fully automated AI researcher in 2026, multi-agent research lab in a data centre by 2028",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz6897/openais_new_north_star_goal_aims_for_fully/",
+        "image": "https://external-preview.redd.it/pdC2lIyuLarM1conmtxe540lj5eLy-hXFWoFuAkS9jk.jpeg?width=640&crop=smart&auto=webp&s=7e7a23a2389009f723e813ff00c9b7c83604af99",
+        "published": "2026-03-20T19:46:14+00:00"
     },
     {
         "title": "I asked the AI Roundtable if AI companies should be allowed to refuse military contracts on ethical grounds",
@@ -42,22 +42,16 @@
         "published": "2026-03-20T17:59:03+00:00"
     },
     {
-        "title": "Cursor's new model Composer 2 is revealed to be built on Kimi K2.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryv78m/cursors_new_model_composer_2_is_revealed_to_be/",
-        "image": "https://preview.redd.it/v4k180u347qg1.jpeg?width=640&crop=smart&auto=webp&s=2498974ef511084b17d5a1126c1314a9d6095226",
-        "published": "2026-03-20T12:42:11+00:00"
+        "title": "Tried running LLMs locally this week. My actual progression:",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
+        "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
+        "published": "2026-03-21T01:44:52+00:00"
     },
     {
         "title": "These were /r/Singularity's AI predictions back in 2024. How'd we do?",
         "link": "https://www.reddit.com/r/singularity/comments/1rz7ciw/these_were_rsingularitys_ai_predictions_back_in/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-20T20:29:16+00:00"
-    },
-    {
-        "title": "Tried running LLMs locally this week. My actual progression:",
-        "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
-        "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
-        "published": "2026-03-21T01:44:52+00:00"
     },
     {
         "title": "Cursors's new ai model \"Composer 2\" is just wrapper+ lil fine tune of Kimi-k2.5",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rzgupl/terence_tao_how_the_worlds_top_mathematician_uses/",
         "image": "https://external-preview.redd.it/0AqqO7jTiN8FaHmI2sLzXVEBw2ILFUrkzWjN5VI4wLY.jpeg?width=320&crop=smart&auto=webp&s=14c4ffeb644f1eb655f3c97283a9d84998b793fa",
         "published": "2026-03-21T03:17:23+00:00"
+    },
+    {
+        "title": "Brain-inspired nanoelectronic device could cut AI hardware energy use by 70%",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzjxr6/braininspired_nanoelectronic_device_could_cut_ai/",
+        "image": "https://external-preview.redd.it/QeS0RmCrVcxEB3YMsn7RDYKV0Fvq5LDG0E_ZL7ey7UM.jpeg?width=640&crop=smart&auto=webp&s=b8e755af21903025f62faf42f2ff3375fd9f8fb3",
+        "published": "2026-03-21T06:04:09+00:00"
     }
 ]
