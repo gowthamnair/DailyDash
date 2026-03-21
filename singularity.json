@@ -1,11 +1,5 @@
 [
     {
-        "title": "Not the AI slop we need but the one we deserve",
-        "link": "https://www.reddit.com/r/singularity/comments/1rymrpm/not_the_ai_slop_we_need_but_the_one_we_deserve/",
-        "image": "https://external-preview.redd.it/dndhYTc1dnRvNHFnMfAzR0u6iKQRQkvAsclROpQpN-3Nu7KDClJ19aGIvQth.png?width=320&crop=smart&auto=webp&s=11010814359a54929e628cf8e3652c84dc52711b",
-        "published": "2026-03-20T04:33:01+00:00"
-    },
-    {
         "title": "Cursor\u2019s \u2018Composer 2\u2019 model is apparently just Kimi K2.5 with RL fine-tuning. Moonshot AI says they never paid or got permission",
         "link": "https://www.reddit.com/r/singularity/comments/1ryrs2w/cursors_composer_2_model_is_apparently_just_kimi/",
         "image": "https://preview.redd.it/gvgx6x9276qg1.jpeg?width=640&crop=smart&auto=webp&s=e65ef66fcf8e60357aa85020c6a50000167f1a18",
@@ -18,6 +12,12 @@
         "published": "2026-03-20T20:00:47+00:00"
     },
     {
+        "title": "OpenAI research team reveals its models go insane when given repetitive tasks it believes to be sent from automated users",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
+        "image": "https://preview.redd.it/0ub4pcth9bqg1.jpeg?width=640&crop=smart&auto=webp&s=f50caca26bebf78567cc7b5239816fcb6ac6daad",
+        "published": "2026-03-21T02:41:28+00:00"
+    },
+    {
         "title": "the tl;dw",
         "link": "https://www.reddit.com/r/singularity/comments/1ryye3l/the_tldw/",
         "image": "https://preview.redd.it/54rpabfar7qg1.png?width=640&crop=smart&auto=webp&s=0cd9c1b3d691d5caa9d4b8ce4b8f0863be46e09b",
@@ -28,12 +28,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rz2rw7/cursor_responds_to_the_composer_2_allegations/",
         "image": "https://preview.redd.it/chkb1zzbk8qg1.jpeg?width=640&crop=smart&auto=webp&s=a27a3750e78e66613cf999701ee4b4bcd82a4bd6",
         "published": "2026-03-20T17:34:53+00:00"
-    },
-    {
-        "title": "OpenAI research team reveals its models go insane when given repetitive tasks it believes to be sent from automated users",
-        "link": "https://www.reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
-        "image": "https://preview.redd.it/0ub4pcth9bqg1.jpeg?width=640&crop=smart&auto=webp&s=f50caca26bebf78567cc7b5239816fcb6ac6daad",
-        "published": "2026-03-21T02:41:28+00:00"
     },
     {
         "title": "OpenAI\u2019s new \"North Star\" goal aims for fully automated AI researcher in 2026, multi-agent research lab in a data centre by 2028",
@@ -60,16 +54,16 @@
         "published": "2026-03-20T20:29:16+00:00"
     },
     {
-        "title": "Cursors's new ai model \"Composer 2\" is just wrapper+ lil fine tune of Kimi-k2.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1rz61v2/cursorss_new_ai_model_composer_2_is_just_wrapper/",
-        "image": "https://preview.redd.it/6reiu4fi69qg1.jpeg?width=640&crop=smart&auto=webp&s=8428fa2c6595ed750276bc14397a92123b74f14e",
-        "published": "2026-03-20T19:39:24+00:00"
-    },
-    {
         "title": "I am wondering if any famous person would even notice a difference in behavior between their sycophantic entourage and LLMs",
         "link": "https://www.reddit.com/r/singularity/comments/1ryyhej/i_am_wondering_if_any_famous_person_would_even/",
         "image": "https://preview.redd.it/vajvkxhvr7qg1.png?width=320&crop=smart&auto=webp&s=842ebef0ab5814e0985035e4bd578da5f0fd631e",
         "published": "2026-03-20T14:56:05+00:00"
+    },
+    {
+        "title": "Cursors's new ai model \"Composer 2\" is just wrapper+ lil fine tune of Kimi-k2.5",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz61v2/cursorss_new_ai_model_composer_2_is_just_wrapper/",
+        "image": "https://preview.redd.it/6reiu4fi69qg1.jpeg?width=640&crop=smart&auto=webp&s=8428fa2c6595ed750276bc14397a92123b74f14e",
+        "published": "2026-03-20T19:39:24+00:00"
     },
     {
         "title": "ORCA Dexterity announces three new open source robotic hands!",
@@ -84,9 +78,15 @@
         "published": "2026-03-20T16:51:40+00:00"
     },
     {
-        "title": "History is one giant pattern of accelerating change...so it will only get faster",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryn9sy/history_is_one_giant_pattern_of_accelerating/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-20T05:00:50+00:00"
+        "title": "China Approves the First Brain Chips for Sale\u2014and Has a Plan to Dominate the Industry | WIRED",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz3h81/china_approves_the_first_brain_chips_for_saleand/",
+        "image": "https://external-preview.redd.it/5iXupvV40fmMcnkjEYQ3WZ1Dssc_TNK8XdFXdl14F3w.jpeg?width=640&crop=smart&auto=webp&s=788e9a69baf000f2ad04f28e4acd8a5e559d07e2",
+        "published": "2026-03-20T18:01:25+00:00"
+    },
+    {
+        "title": "Tried running LLMs locally this week. My actual progression:",
+        "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
+        "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
+        "published": "2026-03-21T01:44:52+00:00"
     }
 ]
