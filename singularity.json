@@ -48,16 +48,16 @@
         "published": "2026-03-20T12:42:11+00:00"
     },
     {
-        "title": "These were /r/Singularity's AI predictions back in 2024. How'd we do?",
-        "link": "https://www.reddit.com/r/singularity/comments/1rz7ciw/these_were_rsingularitys_ai_predictions_back_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-20T20:29:16+00:00"
-    },
-    {
         "title": "CEO of NVIDIA: The \u201cChatGPT Moment\u201d of Biology is Here",
         "link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
         "image": "https://external-preview.redd.it/NjJlaDdyMGEwY3FnMedyAIWjDSWyoWg7NN7SlVZczf7K0BazTagAjYtIWu87.png?width=640&crop=smart&auto=webp&s=178143e3f6535de4659acdcf82831a7521613b84",
         "published": "2026-03-21T05:10:29+00:00"
+    },
+    {
+        "title": "These were /r/Singularity's AI predictions back in 2024. How'd we do?",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz7ciw/these_were_rsingularitys_ai_predictions_back_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-20T20:29:16+00:00"
     },
     {
         "title": "Cursors's new ai model \"Composer 2\" is just wrapper+ lil fine tune of Kimi-k2.5",
@@ -72,12 +72,6 @@
         "published": "2026-03-20T14:56:05+00:00"
     },
     {
-        "title": "ORCA Dexterity announces three new open source robotic hands!",
-        "link": "https://www.reddit.com/r/singularity/comments/1ryrc53/orca_dexterity_announces_three_new_open_source/",
-        "image": "https://external-preview.redd.it/RdVbLORlfbhloQcXZHalgvJ14B8AnZF7UKQtN-wb0gQ.jpeg?width=320&crop=smart&auto=webp&s=0cd1ec46de82634acfce2c4332772d081a65dfa1",
-        "published": "2026-03-20T09:08:46+00:00"
-    },
-    {
         "title": "Terence Tao \u2013 Kepler, Newton, and the true nature of mathematical discovery. Lots of discussion on AI and the future of Mathematics",
         "link": "https://www.reddit.com/r/singularity/comments/1rz1luu/terence_tao_kepler_newton_and_the_true_nature_of/",
         "image": "https://external-preview.redd.it/8sWiuffqJCnkEc_ZKOssZYp36CfQVVi99LHxv4kciWA.jpeg?width=320&crop=smart&auto=webp&s=e709dc31f6eef08248364c2db7069d2c24b7a6de",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
         "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
         "published": "2026-03-21T01:44:52+00:00"
+    },
+    {
+        "title": "China Approves the First Brain Chips for Sale\u2014and Has a Plan to Dominate the Industry | WIRED",
+        "link": "https://www.reddit.com/r/singularity/comments/1rz3h81/china_approves_the_first_brain_chips_for_saleand/",
+        "image": "https://external-preview.redd.it/5iXupvV40fmMcnkjEYQ3WZ1Dssc_TNK8XdFXdl14F3w.jpeg?width=640&crop=smart&auto=webp&s=788e9a69baf000f2ad04f28e4acd8a5e559d07e2",
+        "published": "2026-03-20T18:01:25+00:00"
     }
 ]
