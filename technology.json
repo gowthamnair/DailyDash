@@ -12,12 +12,6 @@
         "published": "2026-03-21T12:57:57+00:00"
     },
     {
-        "title": "Pentagon to adopt Palantir AI as core US military system, memo says",
-        "link": "https://www.reddit.com/r/technology/comments/1rzdefr/pentagon_to_adopt_palantir_ai_as_core_us_military/",
-        "image": "https://external-preview.redd.it/K6k2yr1vrB_VIi_FrAWZyMuqhLBZ6iC5cTItfxsg6EQ.jpeg?width=640&crop=smart&auto=webp&s=be27f7927856a9a5dcff6034c3344d059430a0a3",
-        "published": "2026-03-21T00:35:11+00:00"
-    },
-    {
         "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom",
         "link": "https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/",
         "image": "https://external-preview.redd.it/NaE_f5VlB3mj6Zc2HbxZ1rbQs7dpw8TosdzkGEBCorE.jpeg?width=640&crop=smart&auto=webp&s=e86ae34057307dde652149e134a0e922b0708970",
@@ -60,6 +54,12 @@
         "published": "2026-03-21T11:36:11+00:00"
     },
     {
+        "title": "This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water",
+        "link": "https://www.reddit.com/r/technology/comments/1s02xm1/this_high_school_student_invented_a_filter_that/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-21T21:12:21+00:00"
+    },
+    {
         "title": "RFK Jr. may replace entire panel of CDC vaccine advisors again, ally lets slip | Dr. Robert Malone, vice chair of Kennedy\u2019s ACIP, made the claim, then retracted it, as HHS denied it.",
         "link": "https://www.reddit.com/r/technology/comments/1rzff6h/rfk_jr_may_replace_entire_panel_of_cdc_vaccine/",
         "image": "https://external-preview.redd.it/0AVINld1VF7TbMiNA2YfzSd9dc78tbnY_V9K-mtCZ30.jpeg?width=640&crop=smart&auto=webp&s=e06dd1e9bbb0255ed800b5552ae0c26b47787909",
@@ -78,15 +78,15 @@
         "published": "2026-03-21T11:21:34+00:00"
     },
     {
-        "title": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance - OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
-        "link": "https://www.reddit.com/r/technology/comments/1rzshrw/chatgpts_adult_mode_could_spark_a_new_era_of/",
-        "image": "https://external-preview.redd.it/_ilnWm2JQ5L7RQdQ8NIIgT6_Hy5Fb5HwjslWMtqljLc.jpeg?width=640&crop=smart&auto=webp&s=d808eca14c6e296d305bda4389f8efca91302a3e",
-        "published": "2026-03-21T14:12:30+00:00"
-    },
-    {
         "title": "For the First Time, Scientists May Have Found a Way to Regenerate Cartilage",
         "link": "https://www.reddit.com/r/technology/comments/1rzzs44/for_the_first_time_scientists_may_have_found_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-21T19:04:25+00:00"
+    },
+    {
+        "title": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance - OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
+        "link": "https://www.reddit.com/r/technology/comments/1rzshrw/chatgpts_adult_mode_could_spark_a_new_era_of/",
+        "image": "https://external-preview.redd.it/_ilnWm2JQ5L7RQdQ8NIIgT6_Hy5Fb5HwjslWMtqljLc.jpeg?width=640&crop=smart&auto=webp&s=d808eca14c6e296d305bda4389f8efca91302a3e",
+        "published": "2026-03-21T14:12:30+00:00"
     }
 ]
