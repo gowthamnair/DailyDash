@@ -1,15 +1,15 @@
 [
     {
-        "title": "CEO of NVIDIA: The \u201cChatGPT Moment\u201d of Biology is Here",
-        "link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
-        "image": "https://external-preview.redd.it/NjJlaDdyMGEwY3FnMedyAIWjDSWyoWg7NN7SlVZczf7K0BazTagAjYtIWu87.png?width=640&crop=smart&auto=webp&s=178143e3f6535de4659acdcf82831a7521613b84",
-        "published": "2026-03-21T05:10:29+00:00"
-    },
-    {
         "title": "The drastic difference in attitude toward AI video in China compared to the west",
         "link": "https://www.reddit.com/r/singularity/comments/1s00wvj/the_drastic_difference_in_attitude_toward_ai/",
         "image": "https://preview.redd.it/sq1fsc8q5gqg1.png?width=140&height=128&auto=webp&s=347b7ee7213118771e5dfcc79c188e920185e9d9",
         "published": "2026-03-21T19:50:03+00:00"
+    },
+    {
+        "title": "Karpathy: \"Code's not even the right verb anymore, right? But I have to express my will to my agents for sixteen hours a day..\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s0acnh/karpathy_codes_not_even_the_right_verb_anymore/",
+        "image": "https://preview.redd.it/knbzkhxgfiqg1.jpeg?width=640&crop=smart&auto=webp&s=543a6f6ddf63f07ae243b698c159678ddf889905",
+        "published": "2026-03-22T02:46:28+00:00"
     },
     {
         "title": "Brain-inspired nanoelectronic device could cut AI hardware energy use by 70%",
@@ -30,22 +30,16 @@
         "published": "2026-03-21T20:19:18+00:00"
     },
     {
-        "title": "Karpathy: \"Code's not even the right verb anymore, right? But I have to express my will to my agents for sixteen hours a day..\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s0acnh/karpathy_codes_not_even_the_right_verb_anymore/",
-        "image": "https://preview.redd.it/knbzkhxgfiqg1.jpeg?width=640&crop=smart&auto=webp&s=543a6f6ddf63f07ae243b698c159678ddf889905",
-        "published": "2026-03-22T02:46:28+00:00"
+        "title": "ChatGPT is the Yahoo of AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s02elh/chatgpt_is_the_yahoo_of_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-21T20:50:45+00:00"
     },
     {
         "title": "Quantum Computing Reaches an Inflection Point With NVIDIA NVQLink",
         "link": "https://www.reddit.com/r/singularity/comments/1rzl2dk/quantum_computing_reaches_an_inflection_point/",
         "image": "https://external-preview.redd.it/oQ7COxitduLGnQXifqMhXXW7rVlJfFC5rstM-zErsBA.jpeg?width=640&crop=smart&auto=webp&s=d6f604907b56772f63362a1c356a12d288ea1e9d",
         "published": "2026-03-21T07:12:23+00:00"
-    },
-    {
-        "title": "ChatGPT is the Yahoo of AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s02elh/chatgpt_is_the_yahoo_of_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-21T20:50:45+00:00"
     },
     {
         "title": "Confrontation between billionaire CEO and Lutnick hints at trouble with huge data center project",
@@ -64,11 +58,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s06uao/how_much_mileage_do_you_get_with_claude_pro/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-22T00:01:58+00:00"
-    },
-    {
-        "title": "A Unified Coherence Architecture for Human Aging Reversal \u2013 Scientific Breakdown, IP Valuation, and Global Implications",
-        "link": "https://www.reddit.com/r/singularity/comments/1s02wct/a_unified_coherence_architecture_for_human_aging/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-21T21:10:55+00:00"
     }
 ]
