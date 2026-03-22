@@ -1,21 +1,9 @@
 [
     {
-        "title": "OpenAI research team reveals its models go insane when given repetitive tasks it believes to be sent from automated users",
-        "link": "https://www.reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
-        "image": "https://preview.redd.it/0ub4pcth9bqg1.jpeg?width=640&crop=smart&auto=webp&s=f50caca26bebf78567cc7b5239816fcb6ac6daad",
-        "published": "2026-03-21T02:41:28+00:00"
-    },
-    {
         "title": "CEO of NVIDIA: The \u201cChatGPT Moment\u201d of Biology is Here",
         "link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
         "image": "https://external-preview.redd.it/NjJlaDdyMGEwY3FnMedyAIWjDSWyoWg7NN7SlVZczf7K0BazTagAjYtIWu87.png?width=640&crop=smart&auto=webp&s=178143e3f6535de4659acdcf82831a7521613b84",
         "published": "2026-03-21T05:10:29+00:00"
-    },
-    {
-        "title": "Tried running LLMs locally this week. My actual progression:",
-        "link": "https://www.reddit.com/r/singularity/comments/1rzexpb/tried_running_llms_locally_this_week_my_actual/",
-        "image": "https://preview.redd.it/mm0kqqj35aqg1.jpeg?width=640&crop=smart&auto=webp&s=3b6cc9ca5ef30c4d69204925e6f9491e41043048",
-        "published": "2026-03-21T01:44:52+00:00"
     },
     {
         "title": "The drastic difference in attitude toward AI video in China compared to the west",
@@ -30,12 +18,6 @@
         "published": "2026-03-21T06:04:09+00:00"
     },
     {
-        "title": "Terence Tao \u2013 How the world\u2019s top mathematician uses AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1rzgupl/terence_tao_how_the_worlds_top_mathematician_uses/",
-        "image": "https://external-preview.redd.it/0AqqO7jTiN8FaHmI2sLzXVEBw2ILFUrkzWjN5VI4wLY.jpeg?width=320&crop=smart&auto=webp&s=14c4ffeb644f1eb655f3c97283a9d84998b793fa",
-        "published": "2026-03-21T03:17:23+00:00"
-    },
-    {
         "title": "For the First Time, Scientists May Have Found a Way to Regenerate Cartilage",
         "link": "https://www.reddit.com/r/singularity/comments/1s00l95/for_the_first_time_scientists_may_have_found_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -48,10 +30,22 @@
         "published": "2026-03-21T20:19:18+00:00"
     },
     {
+        "title": "Karpathy: \"Code's not even the right verb anymore, right? But I have to express my will to my agents for sixteen hours a day..\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s0acnh/karpathy_codes_not_even_the_right_verb_anymore/",
+        "image": "https://preview.redd.it/knbzkhxgfiqg1.jpeg?width=640&crop=smart&auto=webp&s=543a6f6ddf63f07ae243b698c159678ddf889905",
+        "published": "2026-03-22T02:46:28+00:00"
+    },
+    {
         "title": "Quantum Computing Reaches an Inflection Point With NVIDIA NVQLink",
         "link": "https://www.reddit.com/r/singularity/comments/1rzl2dk/quantum_computing_reaches_an_inflection_point/",
         "image": "https://external-preview.redd.it/oQ7COxitduLGnQXifqMhXXW7rVlJfFC5rstM-zErsBA.jpeg?width=640&crop=smart&auto=webp&s=d6f604907b56772f63362a1c356a12d288ea1e9d",
         "published": "2026-03-21T07:12:23+00:00"
+    },
+    {
+        "title": "ChatGPT is the Yahoo of AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s02elh/chatgpt_is_the_yahoo_of_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-21T20:50:45+00:00"
     },
     {
         "title": "Confrontation between billionaire CEO and Lutnick hints at trouble with huge data center project",
@@ -66,12 +60,6 @@
         "published": "2026-03-21T18:31:08+00:00"
     },
     {
-        "title": "ChatGPT is the Yahoo of AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s02elh/chatgpt_is_the_yahoo_of_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-21T20:50:45+00:00"
-    },
-    {
         "title": "How much mileage do you get with Claude pro subscription?",
         "link": "https://www.reddit.com/r/singularity/comments/1s06uao/how_much_mileage_do_you_get_with_claude_pro/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -82,11 +70,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s02wct/a_unified_coherence_architecture_for_human_aging/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-21T21:10:55+00:00"
-    },
-    {
-        "title": "In just 4 days, this tiktok AI animation account has broken the world record for fastest growing account, gaining 2.3m followers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s05dxp/in_just_4_days_this_tiktok_ai_animation_account/",
-        "image": "https://preview.redd.it/3xg85bfzahqg1.jpeg?width=640&crop=smart&auto=webp&s=8baf16a945f3fdbbd2b9e3c666707519c94f0d65",
-        "published": "2026-03-21T22:58:30+00:00"
     }
 ]
