@@ -24,16 +24,16 @@
         "published": "2026-03-21T09:29:35+00:00"
     },
     {
-        "title": "Peter Thiel: The Antichrist Hunter of Silicon Valley",
-        "link": "https://www.reddit.com/r/technology/comments/1rzrxg2/peter_thiel_the_antichrist_hunter_of_silicon/",
-        "image": "https://external-preview.redd.it/LkYPv0qpfVKMfVxEQYlY4ze-f8RyMeeXeTsMnXmNNZU.jpeg?width=640&crop=smart&auto=webp&s=ba7fba09f806d01c77ba2a5b3e5842597aa7f0d8",
-        "published": "2026-03-21T13:48:04+00:00"
-    },
-    {
         "title": "For the First Time, Scientists May Have Found a Way to Regenerate Cartilage",
         "link": "https://www.reddit.com/r/technology/comments/1rzzs44/for_the_first_time_scientists_may_have_found_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-21T19:04:25+00:00"
+    },
+    {
+        "title": "Peter Thiel: The Antichrist Hunter of Silicon Valley",
+        "link": "https://www.reddit.com/r/technology/comments/1rzrxg2/peter_thiel_the_antichrist_hunter_of_silicon/",
+        "image": "https://external-preview.redd.it/LkYPv0qpfVKMfVxEQYlY4ze-f8RyMeeXeTsMnXmNNZU.jpeg?width=640&crop=smart&auto=webp&s=ba7fba09f806d01c77ba2a5b3e5842597aa7f0d8",
+        "published": "2026-03-21T13:48:04+00:00"
     },
     {
         "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
@@ -46,6 +46,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1rzp8vi/from_malls_to_neighborhoods_why_hightech/",
         "image": "https://external-preview.redd.it/HlLWfSpN1IucmowWervYZRJcw0_W7-E1hRFqZoe6BWA.jpeg?width=640&crop=smart&auto=webp&s=16e33a5d4bc5e243a7f8e08f0d4644c74b08f085",
         "published": "2026-03-21T11:36:11+00:00"
+    },
+    {
+        "title": "Reddit is weighing identity verification methods to combat its bot problem. The platform's CEO mentioned Face ID and Touch ID as ways to verify if a human is using Reddit.",
+        "link": "https://www.reddit.com/r/technology/comments/1s0d02u/reddit_is_weighing_identity_verification_methods/",
+        "image": "https://external-preview.redd.it/v4P0fef5_I52W2Ez-yVmIvnZZg6KLQeUmhMIYevjEyw.png?width=640&crop=smart&auto=webp&s=de94603e35dcf0f154a05b9184d53c367a669ee2",
+        "published": "2026-03-22T05:05:16+00:00"
     },
     {
         "title": "The FBI is buying Americans\u2019 location data",
@@ -64,12 +70,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1rzozf1/bloomberg_byd_showrooms_are_bustling_across_asia/",
         "image": "https://external-preview.redd.it/B6aMAdyHPSCYFkB0DUOn3ppc0wQ8XoXZ9k_RrW7Qg7c.png?width=640&crop=smart&auto=webp&s=751fe1b6c629e2e87fe8a5f19292f5a2c2739f6d",
         "published": "2026-03-21T11:21:34+00:00"
-    },
-    {
-        "title": "Reddit is weighing identity verification methods to combat its bot problem. The platform's CEO mentioned Face ID and Touch ID as ways to verify if a human is using Reddit.",
-        "link": "https://www.reddit.com/r/technology/comments/1s0d02u/reddit_is_weighing_identity_verification_methods/",
-        "image": "https://external-preview.redd.it/v4P0fef5_I52W2Ez-yVmIvnZZg6KLQeUmhMIYevjEyw.png?width=640&crop=smart&auto=webp&s=de94603e35dcf0f154a05b9184d53c367a669ee2",
-        "published": "2026-03-22T05:05:16+00:00"
     },
     {
         "title": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance - OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
