@@ -6,12 +6,6 @@
         "published": "2026-03-23T13:13:57+00:00"
     },
     {
-        "title": "GrapheneOS refuses to comply with new age verification laws for operating systems \u2014 group says it will never require personal information",
-        "link": "https://www.reddit.com/r/technology/comments/1s0uhth/grapheneos_refuses_to_comply_with_new_age/",
-        "image": "https://external-preview.redd.it/74KFeShWYtQniFTwdyvvYLE3Kya_dslsAuRBCQcVRk4.jpeg?width=640&crop=smart&auto=webp&s=12e69992d35726d56d836ea834500ecc1b136233",
-        "published": "2026-03-22T19:16:19+00:00"
-    },
-    {
         "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
         "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
         "image": "https://external-preview.redd.it/_J0B983ne1_8hKfKLAdlz9axVC8h5k7NMs4KVBoQvlg.jpeg?width=640&crop=smart&auto=webp&s=9ed949b62e5551d0712954f4a98e59c3a7169789",
@@ -36,6 +30,12 @@
         "published": "2026-03-23T09:53:45+00:00"
     },
     {
+        "title": "A High School Student Just Built a Water Filter That Removes 96% of Microplastics, Without Expensive Equipment",
+        "link": "https://www.reddit.com/r/technology/comments/1s1po6a/a_high_school_student_just_built_a_water_filter/",
+        "image": "https://external-preview.redd.it/cS_RM2PFZ-76uTKVbaSBAbuWyIjyMal_W6zFNZb--zs.jpeg?width=640&crop=smart&auto=webp&s=f85683bc7ba57c21a9dbb6bc003cc716b3ee37d4",
+        "published": "2026-03-23T18:46:27+00:00"
+    },
+    {
         "title": "Windows 11 KB5085516 released after KB5079473 breaks Microsoft account sign-in in popular apps",
         "link": "https://www.reddit.com/r/technology/comments/1s1242u/windows_11_kb5085516_released_after_kb5079473/",
         "image": "https://external-preview.redd.it/4PbB-18UQImvrrHNGHBTDT4ccfK_VTazgTLMgQs3Oag.jpeg?width=640&crop=smart&auto=webp&s=5e86102a26d5c30ef7258542394c1733cfa995b5",
@@ -48,28 +48,28 @@
         "published": "2026-03-23T12:02:14+00:00"
     },
     {
-        "title": "UK police force presses pause on live facial recognition after study finds racial bias",
-        "link": "https://www.reddit.com/r/technology/comments/1s11xzs/uk_police_force_presses_pause_on_live_facial/",
-        "image": "https://external-preview.redd.it/p_MlYKBClv9y1lTbT5M6_5u7yJfqP8LShCa0PGQ9reQ.jpeg?width=640&crop=smart&auto=webp&s=cecc96266959341b937e19a302e873bd9d4e5172",
-        "published": "2026-03-23T00:18:01+00:00"
-    },
-    {
         "title": "Man who used 1,000 bots to stream AI songs pleads guilty in $8 million fraud case",
         "link": "https://www.reddit.com/r/technology/comments/1s1gy24/man_who_used_1000_bots_to_stream_ai_songs_pleads/",
         "image": "https://external-preview.redd.it/aput-UYH477KR3j5FeCGU_lHk6v6L0eQ9biq3ULG7PQ.jpeg?width=640&crop=smart&auto=webp&s=fcae8a51014cd2ffa0a9b40ca911559d0101714e",
         "published": "2026-03-23T13:31:14+00:00"
     },
     {
-        "title": "Tech leaders support California bill to stop 'dominant platforms' from blocking competition",
-        "link": "https://www.reddit.com/r/technology/comments/1s0wsgd/tech_leaders_support_california_bill_to_stop/",
-        "image": "https://external-preview.redd.it/_-Dz86eQa6AxiGydHUPEzRuKYXjzxMGffZfmtH4GK-I.png?width=64&height=64&auto=webp&s=5ad2e740c64e7a2b38a8eb4ca8bb868dcf821312",
-        "published": "2026-03-22T20:45:43+00:00"
+        "title": "UK police force presses pause on live facial recognition after study finds racial bias",
+        "link": "https://www.reddit.com/r/technology/comments/1s11xzs/uk_police_force_presses_pause_on_live_facial/",
+        "image": "https://external-preview.redd.it/p_MlYKBClv9y1lTbT5M6_5u7yJfqP8LShCa0PGQ9reQ.jpeg?width=640&crop=smart&auto=webp&s=cecc96266959341b937e19a302e873bd9d4e5172",
+        "published": "2026-03-23T00:18:01+00:00"
     },
     {
         "title": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
         "link": "https://www.reddit.com/r/technology/comments/1s1b6d0/mark_zuckerberg_is_building_an_ai_agent_to_help/",
         "image": "https://external-preview.redd.it/27zzt-nfB5cPYE3T2q80GHQotzVVcdryPDp9d9ckVyk.jpeg?width=640&crop=smart&auto=webp&s=fb16901dd93a559d9d7094e3c077786861b78e81",
         "published": "2026-03-23T08:28:15+00:00"
+    },
+    {
+        "title": "Tech leaders support California bill to stop 'dominant platforms' from blocking competition",
+        "link": "https://www.reddit.com/r/technology/comments/1s0wsgd/tech_leaders_support_california_bill_to_stop/",
+        "image": "https://external-preview.redd.it/_-Dz86eQa6AxiGydHUPEzRuKYXjzxMGffZfmtH4GK-I.png?width=64&height=64&auto=webp&s=5ad2e740c64e7a2b38a8eb4ca8bb868dcf821312",
+        "published": "2026-03-22T20:45:43+00:00"
     },
     {
         "title": "The indictment of Super Micro\u2019s co-founder exposes not just a $2.5 billion scheme, it exposes a system that was never built to stop one.",
