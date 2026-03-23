@@ -1,11 +1,5 @@
 [
     {
-        "title": "Pilot Believes He Has Found Amelia Earhart\u2019s Long-Lost Airplane (Missing Since 1937) Via Google Earth.",
-        "link": "https://www.reddit.com/r/technology/comments/1s0qmky/pilot_believes_he_has_found_amelia_earharts/",
-        "image": "https://external-preview.redd.it/Rce1nrIhU2AE2wdBm2UwdiOXRXT9jf1fJJVsDIWmLX8.jpeg?width=640&crop=smart&auto=webp&s=19782dbe422ccaf88746b8a7fa55d9000b42f9ed",
-        "published": "2026-03-22T16:48:55+00:00"
-    },
-    {
         "title": "OnlyFans Owner Dead at 43",
         "link": "https://www.reddit.com/r/technology/comments/1s1gius/onlyfans_owner_dead_at_43/",
         "image": "https://external-preview.redd.it/gEkRSzKb-LjaqtF9JxHLAaK3dDt4nkbuQ8cNpJT1BN0.jpeg?width=640&crop=smart&auto=webp&s=f67b132b620c399bf7250bcac52dc5edc493b182",
@@ -30,6 +24,12 @@
         "published": "2026-03-23T06:16:46+00:00"
     },
     {
+        "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
+        "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
+        "image": "https://external-preview.redd.it/_J0B983ne1_8hKfKLAdlz9axVC8h5k7NMs4KVBoQvlg.jpeg?width=640&crop=smart&auto=webp&s=9ed949b62e5551d0712954f4a98e59c3a7169789",
+        "published": "2026-03-23T11:58:18+00:00"
+    },
+    {
         "title": "Wind and solar generated a record 17% of U.S. electricity in 2025",
         "link": "https://www.reddit.com/r/technology/comments/1s0s9mc/wind_and_solar_generated_a_record_17_of_us/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -40,12 +40,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1s0vglj/how_byd_got_ev_chargers_to_work_almost_as_fast_as/",
         "image": "https://external-preview.redd.it/V76lEoCOtsaX1QwUd0x7SziN0WXtvHI9ViJeivcyTdQ.jpeg?width=640&crop=smart&auto=webp&s=c66ae15c187078fb2faf60534d8d3342a762dd56",
         "published": "2026-03-22T19:53:54+00:00"
-    },
-    {
-        "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
-        "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
-        "image": "https://external-preview.redd.it/_J0B983ne1_8hKfKLAdlz9axVC8h5k7NMs4KVBoQvlg.jpeg?width=640&crop=smart&auto=webp&s=9ed949b62e5551d0712954f4a98e59c3a7169789",
-        "published": "2026-03-23T11:58:18+00:00"
     },
     {
         "title": "Micron predicts that cars will need 300GB of RAM \u2014 memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand'",
@@ -66,6 +60,12 @@
         "published": "2026-03-23T00:18:01+00:00"
     },
     {
+        "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says",
+        "link": "https://www.reddit.com/r/technology/comments/1s1ewzd/exclusive_pentagon_to_adopt_palantir_ai_as_core/",
+        "image": "https://external-preview.redd.it/K6k2yr1vrB_VIi_FrAWZyMuqhLBZ6iC5cTItfxsg6EQ.jpeg?width=640&crop=smart&auto=webp&s=be27f7927856a9a5dcff6034c3344d059430a0a3",
+        "published": "2026-03-23T12:02:14+00:00"
+    },
+    {
         "title": "Online age checks came first \u2014 a VPN crackdown could be next",
         "link": "https://www.reddit.com/r/technology/comments/1s0tbsq/online_age_checks_came_first_a_vpn_crackdown/",
         "image": "https://external-preview.redd.it/HCgxV5HQ8_GWy6SK69-F1LcMohy-P8q3iMmoIfxMPDs.jpeg?width=640&crop=smart&auto=webp&s=c97eefd77973d2e4d151bfba220299cfa1892a61",
@@ -78,15 +78,15 @@
         "published": "2026-03-22T20:45:43+00:00"
     },
     {
-        "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says",
-        "link": "https://www.reddit.com/r/technology/comments/1s1ewzd/exclusive_pentagon_to_adopt_palantir_ai_as_core/",
-        "image": "https://external-preview.redd.it/K6k2yr1vrB_VIi_FrAWZyMuqhLBZ6iC5cTItfxsg6EQ.jpeg?width=640&crop=smart&auto=webp&s=be27f7927856a9a5dcff6034c3344d059430a0a3",
-        "published": "2026-03-23T12:02:14+00:00"
-    },
-    {
         "title": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
         "link": "https://www.reddit.com/r/technology/comments/1s1b6d0/mark_zuckerberg_is_building_an_ai_agent_to_help/",
         "image": "https://external-preview.redd.it/27zzt-nfB5cPYE3T2q80GHQotzVVcdryPDp9d9ckVyk.jpeg?width=640&crop=smart&auto=webp&s=fb16901dd93a559d9d7094e3c077786861b78e81",
         "published": "2026-03-23T08:28:15+00:00"
+    },
+    {
+        "title": "Man who used 1,000 bots to stream AI songs pleads guilty in $8 million fraud case",
+        "link": "https://www.reddit.com/r/technology/comments/1s1gy24/man_who_used_1000_bots_to_stream_ai_songs_pleads/",
+        "image": "https://external-preview.redd.it/aput-UYH477KR3j5FeCGU_lHk6v6L0eQ9biq3ULG7PQ.jpeg?width=640&crop=smart&auto=webp&s=fcae8a51014cd2ffa0a9b40ca911559d0101714e",
+        "published": "2026-03-23T13:31:14+00:00"
     }
 ]
