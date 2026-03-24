@@ -12,12 +12,6 @@
         "published": "2026-03-23T16:57:41+00:00"
     },
     {
-        "title": "Billionaire Reddit CEO Steve Huffman says his company will \"go heavy\" on hiring graduates because \"they're so much more AI native\" than older peers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1ko3y/billionaire_reddit_ceo_steve_huffman_says_his/",
-        "image": "https://external-preview.redd.it/A9_VZ-zUiNCxToBmEsR8u2H-uBfqLVDkmR6r_xL02Ic.jpeg?width=640&crop=smart&auto=webp&s=7a547b3e13b0b31e774b23d90fc2ecedd846f50b",
-        "published": "2026-03-23T15:52:14+00:00"
-    },
-    {
         "title": "Hundreds of protesters marched in SF, calling for AI companies to commit to pausing if everyone else agrees to pause (since no one can pause unilaterally)",
         "link": "https://www.reddit.com/r/singularity/comments/1s1omtg/hundreds_of_protesters_marched_in_sf_calling_for/",
         "image": "https://external-preview.redd.it/un6r8ganBF1gTzem-oRfzMW1mBDPNcNmyb8dZG7r_M4.png?width=640&crop=smart&auto=webp&s=796ab6e4bcbc549e739c7bfb385efdcc30201640",
@@ -42,28 +36,40 @@
         "published": "2026-03-24T12:31:46+00:00"
     },
     {
-        "title": "Vibe physics: The AI grad student",
-        "link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
-        "image": "https://external-preview.redd.it/Ht8-aRfx_xGIZ26H4WLM1GoTBaWMz6Z7swZHuIdd0O4.png?width=640&crop=smart&auto=webp&s=a088394a0c8b2bd1d4c96689b52d7d23671886c1",
-        "published": "2026-03-24T01:31:28+00:00"
-    },
-    {
         "title": "Nvidia CEO thinks that humanity reached the AGI.",
         "link": "https://www.reddit.com/r/singularity/comments/1s2bvl3/nvidia_ceo_thinks_that_humanity_reached_the_agi/",
         "image": "https://preview.redd.it/qxqp5liahzqg1.jpeg?width=640&crop=smart&auto=webp&s=6bd8e070e0c42ce1c4861c7bd2e0d3a8d985a5b4",
         "published": "2026-03-24T12:05:56+00:00"
     },
     {
-        "title": "Construction Spending on Data Centers Continues to Outpace Office Construction",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1o4k5/construction_spending_on_data_centers_continues/",
-        "image": "https://preview.redd.it/f89qvfqp0uqg1.png?width=640&crop=smart&auto=webp&s=618d862f32acd86e21eb616eec287fe043654f37",
-        "published": "2026-03-23T17:52:14+00:00"
+        "title": "Following its acrobatic motorcycle, RAI Institute debuts RoadRunner, a robot whose wheels can position themselves to act as a motorcycle, a single-axis cart, or even as human walking",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2dsx8/following_its_acrobatic_motorcycle_rai_institute/",
+        "image": "https://external-preview.redd.it/MWIxYnhmbDF3enFnMcBC3U3MvmWCkHwZgWUIj1NxyoOtSClgX5eTfu0cVXIc.png?width=640&crop=smart&auto=webp&s=4dcdaaceadc37987c3b674ef727ec8d80e1b8a75",
+        "published": "2026-03-24T13:29:06+00:00"
+    },
+    {
+        "title": "The goal post moving by anti-AI people is getting ridiculous.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2dpuo/the_goal_post_moving_by_antiai_people_is_getting/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T13:25:46+00:00"
+    },
+    {
+        "title": "Vibe physics: The AI grad student",
+        "link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
+        "image": "https://external-preview.redd.it/Ht8-aRfx_xGIZ26H4WLM1GoTBaWMz6Z7swZHuIdd0O4.png?width=640&crop=smart&auto=webp&s=a088394a0c8b2bd1d4c96689b52d7d23671886c1",
+        "published": "2026-03-24T01:31:28+00:00"
     },
     {
         "title": "How is Gemini 3.1 at the top of SWE-bench?",
         "link": "https://www.reddit.com/r/singularity/comments/1s2b8ue/how_is_gemini_31_at_the_top_of_swebench/",
         "image": "https://preview.redd.it/b05nl28nbzqg1.jpeg?width=640&crop=smart&auto=webp&s=b7f191ef09c1c2194154af5a5febaff0b2c87aeb",
         "published": "2026-03-24T11:34:18+00:00"
+    },
+    {
+        "title": "Construction Spending on Data Centers Continues to Outpace Office Construction",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1o4k5/construction_spending_on_data_centers_continues/",
+        "image": "https://preview.redd.it/f89qvfqp0uqg1.png?width=640&crop=smart&auto=webp&s=618d862f32acd86e21eb616eec287fe043654f37",
+        "published": "2026-03-23T17:52:14+00:00"
     },
     {
         "title": "New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controversial and relevant topics. Sonnet 4.6 (high) wins. GLM-5 is the open weights leader.",
@@ -76,12 +82,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s25mky/anthropic_in_contact_with_professional_analytic/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-24T05:58:02+00:00"
-    },
-    {
-        "title": "The goal post moving by anti-AI people is getting ridiculous.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2dpuo/the_goal_post_moving_by_antiai_people_is_getting/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T13:25:46+00:00"
     },
     {
         "title": "Diagnostic performance of artificial intelligence for detecting peritoneal and small bowel dissemination in epithelial ovarian cancer using preoperative contrast-enhanced CT imaging",
