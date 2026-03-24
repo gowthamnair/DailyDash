@@ -24,12 +24,6 @@
         "published": "2026-03-24T13:25:46+00:00"
     },
     {
-        "title": "Anthropic announces Dispatch. Control your Claude cowork from your mobile device.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1wnys/anthropic_announces_dispatch_control_your_claude/",
-        "image": "https://external-preview.redd.it/dGp2bnd3cWhsdnFnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=8d0f9fe40e23e24f447aa030b8601c1c1be01fa4",
-        "published": "2026-03-23T23:02:22+00:00"
-    },
-    {
         "title": "Nvidia CEO thinks that humanity reached the AGI.",
         "link": "https://www.reddit.com/r/singularity/comments/1s2bvl3/nvidia_ceo_thinks_that_humanity_reached_the_agi/",
         "image": "https://preview.redd.it/qxqp5liahzqg1.jpeg?width=640&crop=smart&auto=webp&s=6bd8e070e0c42ce1c4861c7bd2e0d3a8d985a5b4",
@@ -72,21 +66,27 @@
         "published": "2026-03-24T05:58:02+00:00"
     },
     {
-        "title": "Yann LeCun\u2019s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2ezuf/yann_lecuns_new_leworldmodel_lewm_research/",
-        "image": "https://external-preview.redd.it/qPSuC2gPZ_m3OJBEcvTcTt4TG_L2rhBGgArTF5JeaTY.png?width=640&crop=smart&auto=webp&s=02e8cc5c0e32807cb50a9ee9f65410c174225f17",
-        "published": "2026-03-24T14:15:27+00:00"
-    },
-    {
         "title": "Sora by OpenAI discontinued",
         "link": "https://www.reddit.com/r/singularity/comments/1s2pssb/sora_by_openai_discontinued/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-24T20:41:51+00:00"
     },
     {
+        "title": "Yann LeCun\u2019s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2ezuf/yann_lecuns_new_leworldmodel_lewm_research/",
+        "image": "https://external-preview.redd.it/qPSuC2gPZ_m3OJBEcvTcTt4TG_L2rhBGgArTF5JeaTY.png?width=640&crop=smart&auto=webp&s=02e8cc5c0e32807cb50a9ee9f65410c174225f17",
+        "published": "2026-03-24T14:15:27+00:00"
+    },
+    {
         "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
         "link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
         "image": "https://external-preview.redd.it/b2dtOHc1c2phMnJnMcOMGxsBurb86q8RyWwshZ6OYA8IyQ8D4qPiYDUfXhYC.png?width=640&crop=smart&auto=webp&s=a41f03237f0bfb10509d1f2eed7897a400c040ba",
         "published": "2026-03-24T21:33:34+00:00"
+    },
+    {
+        "title": "Autoresearch with Claude on a real codebase (not ML training): 60 experiments, 93% failure rate, and why that's the point",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2335r/autoresearch_with_claude_on_a_real_codebase_not/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T03:39:16+00:00"
     }
 ]
