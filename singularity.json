@@ -30,6 +30,12 @@
         "published": "2026-03-23T11:11:46+00:00"
     },
     {
+        "title": "Hundreds of protesters marched in SF, calling for AI companies to commit to pausing if everyone else agrees to pause (since no one can pause unilaterally)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1omtg/hundreds_of_protesters_marched_in_sf_calling_for/",
+        "image": "https://external-preview.redd.it/un6r8ganBF1gTzem-oRfzMW1mBDPNcNmyb8dZG7r_M4.png?width=640&crop=smart&auto=webp&s=796ab6e4bcbc549e739c7bfb385efdcc30201640",
+        "published": "2026-03-23T18:09:51+00:00"
+    },
+    {
         "title": "Epoch and the original problem author confirm GPT5.4 Pro solved a Frontier Math Open Problem for the first time",
         "link": "https://www.reddit.com/r/singularity/comments/1s1o9j1/epoch_and_the_original_problem_author_confirm/",
         "image": "https://preview.redd.it/0ftpjcw03uqg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f98221127decb7b602b3be379eccd51ad36d1447",
@@ -40,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s1hwkr/openal_is_offering_privateequity_firms_a/",
         "image": "https://preview.redd.it/o1q64k1aysqg1.jpeg?width=640&crop=smart&auto=webp&s=738cf6281a6ca10bc033129741f667c198824ccd",
         "published": "2026-03-23T14:08:45+00:00"
-    },
-    {
-        "title": "Hundreds of protesters marched in SF, calling for AI companies to commit to pausing if everyone else agrees to pause (since no one can pause unilaterally)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1omtg/hundreds_of_protesters_marched_in_sf_calling_for/",
-        "image": "https://external-preview.redd.it/un6r8ganBF1gTzem-oRfzMW1mBDPNcNmyb8dZG7r_M4.png?width=640&crop=smart&auto=webp&s=796ab6e4bcbc549e739c7bfb385efdcc30201640",
-        "published": "2026-03-23T18:09:51+00:00"
     },
     {
         "title": "Anthropic announces Dispatch. Control your Claude cowork from your mobile device.",
@@ -60,16 +60,16 @@
         "published": "2026-03-23T13:33:53+00:00"
     },
     {
-        "title": "Excited for the launch of ARC-AGI 3 on Wednesday",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1h047/excited_for_the_launch_of_arcagi_3_on_wednesday/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-23T13:33:31+00:00"
-    },
-    {
         "title": "Construction Spending on Data Centers Continues to Outpace Office Construction",
         "link": "https://www.reddit.com/r/singularity/comments/1s1o4k5/construction_spending_on_data_centers_continues/",
         "image": "https://preview.redd.it/f89qvfqp0uqg1.png?width=640&crop=smart&auto=webp&s=618d862f32acd86e21eb616eec287fe043654f37",
         "published": "2026-03-23T17:52:14+00:00"
+    },
+    {
+        "title": "Excited for the launch of ARC-AGI 3 on Wednesday",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1h047/excited_for_the_launch_of_arcagi_3_on_wednesday/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-23T13:33:31+00:00"
     },
     {
         "title": "New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controversial and relevant topics. Sonnet 4.6 (high) wins. GLM-5 is the open weights leader.",
@@ -78,15 +78,15 @@
         "published": "2026-03-23T20:45:17+00:00"
     },
     {
+        "title": "Vibe physics: The AI grad student",
+        "link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
+        "image": "https://external-preview.redd.it/Ht8-aRfx_xGIZ26H4WLM1GoTBaWMz6Z7swZHuIdd0O4.png?width=640&crop=smart&auto=webp&s=a088394a0c8b2bd1d4c96689b52d7d23671886c1",
+        "published": "2026-03-24T01:31:28+00:00"
+    },
+    {
         "title": "Diagnostic performance of artificial intelligence for detecting peritoneal and small bowel dissemination in epithelial ovarian cancer using preoperative contrast-enhanced CT imaging",
         "link": "https://www.reddit.com/r/singularity/comments/1s1m8ij/diagnostic_performance_of_artificial_intelligence/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-23T16:47:36+00:00"
-    },
-    {
-        "title": "I listed the pros and cons of space data centres to try and help frame the debate",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1bq36/i_listed_the_pros_and_cons_of_space_data_centres/",
-        "image": "https://preview.redd.it/o7bqdsnkfrqg1.jpeg?width=640&crop=smart&auto=webp&s=4df52f68902b8919f792e408937a1bed8eafc63c",
-        "published": "2026-03-23T09:04:19+00:00"
     }
 ]
