@@ -30,12 +30,6 @@
         "published": "2026-03-24T01:37:56+00:00"
     },
     {
-        "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-        "link": "https://www.reddit.com/r/technology/comments/1s193gr/palantir_extends_reach_into_british_state_as_it/",
-        "image": "https://external-preview.redd.it/-YkwH7jq8x1s78kfcUNk1ZUZ35kE75EKDBJ0oxNQnps.jpeg?width=640&crop=smart&auto=webp&s=763b831c0fa52508cc1cab432207ba5e84aa7a79",
-        "published": "2026-03-23T06:16:46+00:00"
-    },
-    {
         "title": "Micron predicts that cars will need 300GB of RAM \u2014 memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand'",
         "link": "https://www.reddit.com/r/technology/comments/1s1ciqi/micron_predicts_that_cars_will_need_300gb_of_ram/",
         "image": "https://external-preview.redd.it/dsWoseZCHr_oz4bnXgvPWwHQrrhD125uFX2o0F1i9dE.jpeg?width=640&crop=smart&auto=webp&s=1c112f59798267f4a4759e92f3d051f747e4ec64",
@@ -60,6 +54,12 @@
         "published": "2026-03-23T13:31:14+00:00"
     },
     {
+        "title": "US bans new foreign-made consumer internet routers",
+        "link": "https://www.reddit.com/r/technology/comments/1s21a4e/us_bans_new_foreignmade_consumer_internet_routers/",
+        "image": "https://external-preview.redd.it/glbWNEizuuBw21eMU4_7vPKWaz_Lb4qm5pJM45VJ_1I.jpeg?width=640&crop=smart&auto=webp&s=bf9c785e3bd2d4f04c57b41b44156aef47d4dcfd",
+        "published": "2026-03-24T02:15:27+00:00"
+    },
+    {
         "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says",
         "link": "https://www.reddit.com/r/technology/comments/1s1ewzd/exclusive_pentagon_to_adopt_palantir_ai_as_core/",
         "image": "https://external-preview.redd.it/K6k2yr1vrB_VIi_FrAWZyMuqhLBZ6iC5cTItfxsg6EQ.jpeg?width=640&crop=smart&auto=webp&s=be27f7927856a9a5dcff6034c3344d059430a0a3",
@@ -72,12 +72,6 @@
         "published": "2026-03-23T21:15:23+00:00"
     },
     {
-        "title": "US bans new foreign-made consumer internet routers",
-        "link": "https://www.reddit.com/r/technology/comments/1s21a4e/us_bans_new_foreignmade_consumer_internet_routers/",
-        "image": "https://external-preview.redd.it/glbWNEizuuBw21eMU4_7vPKWaz_Lb4qm5pJM45VJ_1I.jpeg?width=640&crop=smart&auto=webp&s=bf9c785e3bd2d4f04c57b41b44156aef47d4dcfd",
-        "published": "2026-03-24T02:15:27+00:00"
-    },
-    {
         "title": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
         "link": "https://www.reddit.com/r/technology/comments/1s1b6d0/mark_zuckerberg_is_building_an_ai_agent_to_help/",
         "image": "https://external-preview.redd.it/27zzt-nfB5cPYE3T2q80GHQotzVVcdryPDp9d9ckVyk.jpeg?width=640&crop=smart&auto=webp&s=fb16901dd93a559d9d7094e3c077786861b78e81",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1s1pgw2/nvidia_ceo_says_he_gets_where_the_dlss_5_outrage/",
         "image": "https://external-preview.redd.it/VTGGAosausK2fFnfUOClx-nNXPwuHle8NAaDh00Z8XQ.jpeg?width=640&crop=smart&auto=webp&s=6fd70174b8b800588a03f36677ee29e775c37683",
         "published": "2026-03-23T18:39:25+00:00"
+    },
+    {
+        "title": "FCC moves to block new foreign-made routers",
+        "link": "https://www.reddit.com/r/technology/comments/1s1z951/fcc_moves_to_block_new_foreignmade_routers/",
+        "image": "https://external-preview.redd.it/SkX-565-WOd6qo0B9VhBfeFhHlJqMwLj3xrcaCMKopg.jpeg?width=640&crop=smart&auto=webp&s=74c390e23490fef09dc1b7321fb2adbb32345557",
+        "published": "2026-03-24T00:47:02+00:00"
     }
 ]

@@ -18,16 +18,16 @@
         "published": "2026-03-24T03:42:30+00:00"
     },
     {
-        "title": "Billionaire Reddit CEO Steve Huffman says his company will \"go heavy\" on hiring graduates because \"they're so much more AI native\" than older peers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1ko3y/billionaire_reddit_ceo_steve_huffman_says_his/",
-        "image": "https://external-preview.redd.it/A9_VZ-zUiNCxToBmEsR8u2H-uBfqLVDkmR6r_xL02Ic.jpeg?width=640&crop=smart&auto=webp&s=7a547b3e13b0b31e774b23d90fc2ecedd846f50b",
-        "published": "2026-03-23T15:52:14+00:00"
-    },
-    {
         "title": "A \"phone\" company is now competing with Anthropic on AI benchmarks. Xiaomi's MiMo-V2-Pro ranks #3 globally on agent tasks.",
         "link": "https://www.reddit.com/r/singularity/comments/1s1cvi7/a_phone_company_is_now_competing_with_anthropic/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-23T10:14:11+00:00"
+    },
+    {
+        "title": "Billionaire Reddit CEO Steve Huffman says his company will \"go heavy\" on hiring graduates because \"they're so much more AI native\" than older peers",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1ko3y/billionaire_reddit_ceo_steve_huffman_says_his/",
+        "image": "https://external-preview.redd.it/A9_VZ-zUiNCxToBmEsR8u2H-uBfqLVDkmR6r_xL02Ic.jpeg?width=640&crop=smart&auto=webp&s=7a547b3e13b0b31e774b23d90fc2ecedd846f50b",
+        "published": "2026-03-23T15:52:14+00:00"
     },
     {
         "title": "Perhaps we have already passed through the singularity, but most people haven't noticed it",
@@ -72,16 +72,16 @@
         "published": "2026-03-23T17:52:14+00:00"
     },
     {
-        "title": "New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controversial and relevant topics. Sonnet 4.6 (high) wins. GLM-5 is the open weights leader.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1t0oj/new_llm_debate_benchmark_models_debate_the_same/",
-        "image": "https://preview.redd.it/r2ns55uvwuqg1.png?width=140&height=93&auto=webp&s=069844b997d2126dbf54da40de06921038e2302f",
-        "published": "2026-03-23T20:45:17+00:00"
-    },
-    {
         "title": "Excited for the launch of ARC-AGI 3 on Wednesday",
         "link": "https://www.reddit.com/r/singularity/comments/1s1h047/excited_for_the_launch_of_arcagi_3_on_wednesday/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-23T13:33:31+00:00"
+    },
+    {
+        "title": "New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controversial and relevant topics. Sonnet 4.6 (high) wins. GLM-5 is the open weights leader.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1t0oj/new_llm_debate_benchmark_models_debate_the_same/",
+        "image": "https://preview.redd.it/r2ns55uvwuqg1.png?width=140&height=93&auto=webp&s=069844b997d2126dbf54da40de06921038e2302f",
+        "published": "2026-03-23T20:45:17+00:00"
     },
     {
         "title": "Vibe physics: The AI grad student",
