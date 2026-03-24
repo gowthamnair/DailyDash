@@ -6,12 +6,6 @@
         "published": "2026-03-23T07:29:21+00:00"
     },
     {
-        "title": "AheadFrom comes with a new robotic face",
-        "link": "https://www.reddit.com/r/singularity/comments/1s12zyj/aheadfrom_comes_with_a_new_robotic_face/",
-        "image": "https://external-preview.redd.it/b2I0NWE0dGoycHFnMeKKOyBRBiODxVthlFNzBYtwoSlUd1D9p-c0WCrepzHH.png?width=640&crop=smart&auto=webp&s=a620bdf900317abc7df7e8f7b90594c3862a8eba",
-        "published": "2026-03-23T01:05:36+00:00"
-    },
-    {
         "title": "Jensen Huang (NVIDIA) claims AGI has been achieved",
         "link": "https://www.reddit.com/r/singularity/comments/1s1mix1/jensen_huang_nvidia_claims_agi_has_been_achieved/",
         "image": "https://external-preview.redd.it/bWczNzRvdTdzdHFnMYQWoLgcQ-UrJd2oSwD8wrqiHhtsuTPVTUvnRi5k468t.png?width=640&crop=smart&auto=webp&s=b96ceb886743229461f41a50c623e987b7b2e004",
@@ -36,22 +30,28 @@
         "published": "2026-03-23T11:11:46+00:00"
     },
     {
-        "title": "OpenAl is offering private-equity firms a guaranteed minimum return of 17.5%, as well as early access to models not yet in public release.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1hwkr/openal_is_offering_privateequity_firms_a/",
-        "image": "https://preview.redd.it/o1q64k1aysqg1.jpeg?width=640&crop=smart&auto=webp&s=738cf6281a6ca10bc033129741f667c198824ccd",
-        "published": "2026-03-23T14:08:45+00:00"
-    },
-    {
         "title": "Epoch and the original problem author confirm GPT5.4 Pro solved a Frontier Math Open Problem for the first time",
         "link": "https://www.reddit.com/r/singularity/comments/1s1o9j1/epoch_and_the_original_problem_author_confirm/",
         "image": "https://preview.redd.it/0ftpjcw03uqg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f98221127decb7b602b3be379eccd51ad36d1447",
         "published": "2026-03-23T17:57:03+00:00"
     },
     {
+        "title": "OpenAl is offering private-equity firms a guaranteed minimum return of 17.5%, as well as early access to models not yet in public release.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1hwkr/openal_is_offering_privateequity_firms_a/",
+        "image": "https://preview.redd.it/o1q64k1aysqg1.jpeg?width=640&crop=smart&auto=webp&s=738cf6281a6ca10bc033129741f667c198824ccd",
+        "published": "2026-03-23T14:08:45+00:00"
+    },
+    {
         "title": "Hundreds of protesters marched in SF, calling for AI companies to commit to pausing if everyone else agrees to pause (since no one can pause unilaterally)",
         "link": "https://www.reddit.com/r/singularity/comments/1s1omtg/hundreds_of_protesters_marched_in_sf_calling_for/",
         "image": "https://external-preview.redd.it/un6r8ganBF1gTzem-oRfzMW1mBDPNcNmyb8dZG7r_M4.png?width=640&crop=smart&auto=webp&s=796ab6e4bcbc549e739c7bfb385efdcc30201640",
         "published": "2026-03-23T18:09:51+00:00"
+    },
+    {
+        "title": "Anthropic announces Dispatch. Control your Claude cowork from your mobile device.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1wnys/anthropic_announces_dispatch_control_your_claude/",
+        "image": "https://external-preview.redd.it/dGp2bnd3cWhsdnFnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=8d0f9fe40e23e24f447aa030b8601c1c1be01fa4",
+        "published": "2026-03-23T23:02:22+00:00"
     },
     {
         "title": "Micron predicts that cars will need 300GB of RAM \u2014 memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand'",
@@ -78,15 +78,15 @@
         "published": "2026-03-23T20:45:17+00:00"
     },
     {
-        "title": "Introducing Netryx Astra V2: an open source engine that pinpoints where any photo was taken down to its exact coordinates. No metadata, no LLMs, rebuilt from scratch.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1izcp/introducing_netryx_astra_v2_an_open_source_engine/",
-        "image": "https://external-preview.redd.it/dXNscGNkMm41dHFnMQ8UQce0eblO5xtHGtee43q9K7XVf3K4zYPxJ6lFDnIj.png?width=640&crop=smart&auto=webp&s=d60886870ea77d74b9479a774fcf7426098277b1",
-        "published": "2026-03-23T14:50:04+00:00"
-    },
-    {
         "title": "Diagnostic performance of artificial intelligence for detecting peritoneal and small bowel dissemination in epithelial ovarian cancer using preoperative contrast-enhanced CT imaging",
         "link": "https://www.reddit.com/r/singularity/comments/1s1m8ij/diagnostic_performance_of_artificial_intelligence/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-23T16:47:36+00:00"
+    },
+    {
+        "title": "I listed the pros and cons of space data centres to try and help frame the debate",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1bq36/i_listed_the_pros_and_cons_of_space_data_centres/",
+        "image": "https://preview.redd.it/o7bqdsnkfrqg1.jpeg?width=640&crop=smart&auto=webp&s=4df52f68902b8919f792e408937a1bed8eafc63c",
+        "published": "2026-03-23T09:04:19+00:00"
     }
 ]

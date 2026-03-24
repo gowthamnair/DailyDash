@@ -36,12 +36,6 @@
         "published": "2026-03-23T09:53:45+00:00"
     },
     {
-        "title": "Windows 11 KB5085516 released after KB5079473 breaks Microsoft account sign-in in popular apps",
-        "link": "https://www.reddit.com/r/technology/comments/1s1242u/windows_11_kb5085516_released_after_kb5079473/",
-        "image": "https://external-preview.redd.it/4PbB-18UQImvrrHNGHBTDT4ccfK_VTazgTLMgQs3Oag.jpeg?width=640&crop=smart&auto=webp&s=5e86102a26d5c30ef7258542394c1733cfa995b5",
-        "published": "2026-03-23T00:25:37+00:00"
-    },
-    {
         "title": "Intuit beats FTC in court, ending restrictions on \"free\" TurboTax ads | Biden-era punishment tossed; Intuit now has more friendly regulators under U.S President.",
         "link": "https://www.reddit.com/r/technology/comments/1s1sl1a/intuit_beats_ftc_in_court_ending_restrictions_on/",
         "image": "https://external-preview.redd.it/ZNW9VnXeOSD2xHHj9Tnz0baUlQ2Zx9BGGxRBaPx1QWQ.jpeg?width=640&crop=smart&auto=webp&s=9b6a03038514104170c397e920ef91f941d0a71e",
@@ -60,10 +54,10 @@
         "published": "2026-03-23T12:02:14+00:00"
     },
     {
-        "title": "UK police force presses pause on live facial recognition after study finds racial bias",
-        "link": "https://www.reddit.com/r/technology/comments/1s11xzs/uk_police_force_presses_pause_on_live_facial/",
-        "image": "https://external-preview.redd.it/p_MlYKBClv9y1lTbT5M6_5u7yJfqP8LShCa0PGQ9reQ.jpeg?width=640&crop=smart&auto=webp&s=cecc96266959341b937e19a302e873bd9d4e5172",
-        "published": "2026-03-23T00:18:01+00:00"
+        "title": "US regulator bans imports of new foreign-made routers, citing security concerns",
+        "link": "https://www.reddit.com/r/technology/comments/1s1wkyn/us_regulator_bans_imports_of_new_foreignmade/",
+        "image": "https://external-preview.redd.it/G6FQqYMtxh8GYTh6Zkbs2Fem04ZIYNiAAbQppSG5zzQ.jpeg?width=640&crop=smart&auto=webp&s=1b77f0f8632db174f37bacb2e03086116ae5b167",
+        "published": "2026-03-23T22:59:10+00:00"
     },
     {
         "title": "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO",
@@ -72,16 +66,22 @@
         "published": "2026-03-23T08:28:15+00:00"
     },
     {
+        "title": "US to pay almost $1bn to French energy company to kill wind project plan",
+        "link": "https://www.reddit.com/r/technology/comments/1s1tv1t/us_to_pay_almost_1bn_to_french_energy_company_to/",
+        "image": "https://external-preview.redd.it/puippsJ3nvv-NUXAySPcFqPAl9WkxRGanplzkrHN0aQ.jpeg?width=640&crop=smart&auto=webp&s=9b5186f1293e0495d087f11f365368b411c95551",
+        "published": "2026-03-23T21:15:23+00:00"
+    },
+    {
         "title": "Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: \u2018I Don\u2019t Love AI Slop Myself\u2019",
         "link": "https://www.reddit.com/r/technology/comments/1s1pgw2/nvidia_ceo_says_he_gets_where_the_dlss_5_outrage/",
         "image": "https://external-preview.redd.it/VTGGAosausK2fFnfUOClx-nNXPwuHle8NAaDh00Z8XQ.jpeg?width=640&crop=smart&auto=webp&s=6fd70174b8b800588a03f36677ee29e775c37683",
         "published": "2026-03-23T18:39:25+00:00"
     },
     {
-        "title": "US to pay almost $1bn to French energy company to kill wind project plan",
-        "link": "https://www.reddit.com/r/technology/comments/1s1tv1t/us_to_pay_almost_1bn_to_french_energy_company_to/",
-        "image": "https://external-preview.redd.it/puippsJ3nvv-NUXAySPcFqPAl9WkxRGanplzkrHN0aQ.jpeg?width=640&crop=smart&auto=webp&s=9b5186f1293e0495d087f11f365368b411c95551",
-        "published": "2026-03-23T21:15:23+00:00"
+        "title": "Exclusive: Kalshi to block athletes and politicians from trading on their markets",
+        "link": "https://www.reddit.com/r/technology/comments/1s1sllq/exclusive_kalshi_to_block_athletes_and/",
+        "image": "https://external-preview.redd.it/EyUbz30pnGkwX2ydyx2vW9avv3G5bgw0crgSVwvVT_0.jpeg?width=640&crop=smart&auto=webp&s=94d11f87142a8832856294becc6d312eac4c4548",
+        "published": "2026-03-23T20:30:24+00:00"
     },
     {
         "title": "Apple Store Prices for SanDisk SSDs Are Suddenly Astronomical",
