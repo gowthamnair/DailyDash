@@ -54,10 +54,10 @@
         "published": "2026-03-24T11:34:18+00:00"
     },
     {
-        "title": "New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controversial and relevant topics. Sonnet 4.6 (high) wins. GLM-5 is the open weights leader.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1t0oj/new_llm_debate_benchmark_models_debate_the_same/",
-        "image": "https://preview.redd.it/r2ns55uvwuqg1.png?width=140&height=93&auto=webp&s=069844b997d2126dbf54da40de06921038e2302f",
-        "published": "2026-03-23T20:45:17+00:00"
+        "title": "TheInformation reporting OAI finished pretraining new very strong model \u201cSpud\u201d, Altman notes things moving faster than many expected",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2q0yb/theinformation_reporting_oai_finished_pretraining/",
+        "image": "https://preview.redd.it/ipizrkut22rg1.jpeg?width=640&crop=smart&auto=webp&s=d1b03805d42e69f8acf26d710892a656faf53a7e",
+        "published": "2026-03-24T20:50:13+00:00"
     },
     {
         "title": "Anthropic in Contact With Professional Analytic Philosophers to Evaluate reasoning Capabilities of Models",
@@ -78,15 +78,15 @@
         "published": "2026-03-24T14:15:27+00:00"
     },
     {
+        "title": "Sora by OpenAI discontinued",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2pssb/sora_by_openai_discontinued/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T20:41:51+00:00"
+    },
+    {
         "title": "Do you think the future will be significantly different than today or similar to today and why in 30-40 years?",
         "link": "https://www.reddit.com/r/singularity/comments/1s24dh2/do_you_think_the_future_will_be_significantly/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-24T04:45:55+00:00"
-    },
-    {
-        "title": "Autoresearch with Claude on a real codebase (not ML training): 60 experiments, 93% failure rate, and why that's the point",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2335r/autoresearch_with_claude_on_a_real_codebase_not/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T03:39:16+00:00"
     }
 ]
