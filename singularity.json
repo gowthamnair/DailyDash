@@ -1,11 +1,5 @@
 [
     {
-        "title": "The eerie similarity between LLMs and brains with a severed corpus callosum",
-        "link": "https://www.reddit.com/r/singularity/comments/1s1a9bj/the_eerie_similarity_between_llms_and_brains_with/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-23T07:29:21+00:00"
-    },
-    {
         "title": "Jensen Huang (NVIDIA) claims AGI has been achieved",
         "link": "https://www.reddit.com/r/singularity/comments/1s1mix1/jensen_huang_nvidia_claims_agi_has_been_achieved/",
         "image": "https://external-preview.redd.it/bWczNzRvdTdzdHFnMYQWoLgcQ-UrJd2oSwD8wrqiHhtsuTPVTUvnRi5k468t.png?width=640&crop=smart&auto=webp&s=b96ceb886743229461f41a50c623e987b7b2e004",
@@ -72,6 +66,12 @@
         "published": "2026-03-23T17:52:14+00:00"
     },
     {
+        "title": "Vibe physics: The AI grad student",
+        "link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
+        "image": "https://external-preview.redd.it/Ht8-aRfx_xGIZ26H4WLM1GoTBaWMz6Z7swZHuIdd0O4.png?width=640&crop=smart&auto=webp&s=a088394a0c8b2bd1d4c96689b52d7d23671886c1",
+        "published": "2026-03-24T01:31:28+00:00"
+    },
+    {
         "title": "Excited for the launch of ARC-AGI 3 on Wednesday",
         "link": "https://www.reddit.com/r/singularity/comments/1s1h047/excited_for_the_launch_of_arcagi_3_on_wednesday/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -84,9 +84,9 @@
         "published": "2026-03-23T20:45:17+00:00"
     },
     {
-        "title": "Vibe physics: The AI grad student",
-        "link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
-        "image": "https://external-preview.redd.it/Ht8-aRfx_xGIZ26H4WLM1GoTBaWMz6Z7swZHuIdd0O4.png?width=640&crop=smart&auto=webp&s=a088394a0c8b2bd1d4c96689b52d7d23671886c1",
-        "published": "2026-03-24T01:31:28+00:00"
+        "title": "Diagnostic performance of artificial intelligence for detecting peritoneal and small bowel dissemination in epithelial ovarian cancer using preoperative contrast-enhanced CT imaging",
+        "link": "https://www.reddit.com/r/singularity/comments/1s1m8ij/diagnostic_performance_of_artificial_intelligence/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-23T16:47:36+00:00"
     }
 ]
