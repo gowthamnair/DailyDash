@@ -12,16 +12,16 @@
         "published": "2026-03-25T12:55:00+00:00"
     },
     {
-        "title": "New Mexico just handed Meta its first courtroom defeat over child safety",
-        "link": "https://www.reddit.com/r/technology/comments/1s35g52/new_mexico_just_handed_meta_its_first_courtroom/",
-        "image": "https://external-preview.redd.it/5LCuTE3Y6HWl2ZF_PZ402K8vbD5UshrW_6EcIofb2Qg.jpeg?width=640&crop=smart&auto=webp&s=33a1bef1b51659ceddec2f83d052924543ac3744",
-        "published": "2026-03-25T08:57:50+00:00"
-    },
-    {
         "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters | US news",
         "link": "https://www.reddit.com/r/technology/comments/1s3ejje/bernie_sanders_and_aoc_introduce_bill_to_pause/",
         "image": "https://external-preview.redd.it/T2sQQ6bVfVjBqLiG_FlOtetjBBBir3rWNYKK37Oo_WI.jpeg?width=640&crop=smart&auto=webp&s=0b7864d73bdd29251aba91aa3b5b317a305b3779",
         "published": "2026-03-25T15:49:58+00:00"
+    },
+    {
+        "title": "New Mexico just handed Meta its first courtroom defeat over child safety",
+        "link": "https://www.reddit.com/r/technology/comments/1s35g52/new_mexico_just_handed_meta_its_first_courtroom/",
+        "image": "https://external-preview.redd.it/5LCuTE3Y6HWl2ZF_PZ402K8vbD5UshrW_6EcIofb2Qg.jpeg?width=640&crop=smart&auto=webp&s=33a1bef1b51659ceddec2f83d052924543ac3744",
+        "published": "2026-03-25T08:57:50+00:00"
     },
     {
         "title": "Palantir\u2019s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers \u2014 \u2018or you\u2019re neurodivergent\u2019",
@@ -48,10 +48,22 @@
         "published": "2026-03-25T10:19:37+00:00"
     },
     {
+        "title": "Meta and YouTube found liable in social media addiction trial",
+        "link": "https://www.reddit.com/r/technology/comments/1s3hef0/meta_and_youtube_found_liable_in_social_media/",
+        "image": "https://external-preview.redd.it/HvjoDdCphDXv7mkv2C_TmE1joWWE6iLcCVe19wGfdo4.png?width=640&crop=smart&auto=webp&s=a77ac7a96410ea92526de4b110244355165b76cf",
+        "published": "2026-03-25T17:32:19+00:00"
+    },
+    {
         "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules",
         "link": "https://www.reddit.com/r/technology/comments/1s2s92i/meta_must_pay_375_million_for_violating_new/",
         "image": "https://external-preview.redd.it/4uqLg1-je5kCVY3mN15o898OajMzU7E9g10SvNqUHT4.jpeg?width=640&crop=smart&auto=webp&s=14af02b3b2845394e084128b775baa67a61e0306",
         "published": "2026-03-24T22:13:49+00:00"
+    },
+    {
+        "title": "Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human",
+        "link": "https://www.reddit.com/r/technology/comments/1s3hb2v/reddit_accounts_with_fishy_botlike_behavior_will/",
+        "image": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
+        "published": "2026-03-25T17:29:07+00:00"
     },
     {
         "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
@@ -70,18 +82,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1s2qvd3/santa_fe_jury_reaches_375_million_verdict_against/",
         "image": "https://external-preview.redd.it/7i8iB5mH4-SrV2gPwMGE-L--ksPR_h75-RtFz6pyrO0.jpeg?width=640&crop=smart&auto=webp&s=e46ce6164d158cf5866723b56457d686245e2e7a",
         "published": "2026-03-24T21:21:22+00:00"
-    },
-    {
-        "title": "Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human",
-        "link": "https://www.reddit.com/r/technology/comments/1s3hb2v/reddit_accounts_with_fishy_botlike_behavior_will/",
-        "image": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
-        "published": "2026-03-25T17:29:07+00:00"
-    },
-    {
-        "title": "Meta and YouTube found liable in social media addiction trial",
-        "link": "https://www.reddit.com/r/technology/comments/1s3hef0/meta_and_youtube_found_liable_in_social_media/",
-        "image": "https://external-preview.redd.it/HvjoDdCphDXv7mkv2C_TmE1joWWE6iLcCVe19wGfdo4.png?width=640&crop=smart&auto=webp&s=a77ac7a96410ea92526de4b110244355165b76cf",
-        "published": "2026-03-25T17:32:19+00:00"
     },
     {
         "title": "Age checks creep into Linux as systemd gets a DOB field",

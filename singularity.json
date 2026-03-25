@@ -18,16 +18,16 @@
         "published": "2026-03-24T23:11:34+00:00"
     },
     {
-        "title": "Figure's Humanoid Robot Walks into the White House to give a Presentation!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3fequ/figures_humanoid_robot_walks_into_the_white_house/",
-        "image": "https://external-preview.redd.it/MjdlZDN0OG12N3JnMaI7S1_jH-yNNFGhJHTyA1Avr1oIzgNRyiDRa2q-z_WO.png?width=640&crop=smart&auto=webp&s=c0a5bd66ebe11b0fe3bcb83e4a8d2c5680a77bf2",
-        "published": "2026-03-25T16:21:21+00:00"
-    },
-    {
         "title": "ARC AGI 3 is up! Just dropped minutes ago",
         "link": "https://www.reddit.com/r/singularity/comments/1s3gq6b/arc_agi_3_is_up_just_dropped_minutes_ago/",
         "image": "https://preview.redd.it/u98y2hz648rg1.png?width=640&crop=smart&auto=webp&s=27287042740cb1a257fe2f33e1f07f011112ba87",
         "published": "2026-03-25T17:08:43+00:00"
+    },
+    {
+        "title": "Figure's Humanoid Robot Walks into the White House to give a Presentation!",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3fequ/figures_humanoid_robot_walks_into_the_white_house/",
+        "image": "https://external-preview.redd.it/MjdlZDN0OG12N3JnMaI7S1_jH-yNNFGhJHTyA1Avr1oIzgNRyiDRa2q-z_WO.png?width=640&crop=smart&auto=webp&s=c0a5bd66ebe11b0fe3bcb83e4a8d2c5680a77bf2",
+        "published": "2026-03-25T16:21:21+00:00"
     },
     {
         "title": "First-ever American AI Jobs Risk Index released by Tufts University",
@@ -42,16 +42,16 @@
         "published": "2026-03-24T20:41:51+00:00"
     },
     {
+        "title": "Chollet argues real AGI shouldn\u2019t need human handholding on new tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3jb2z/chollet_argues_real_agi_shouldnt_need_human/",
+        "image": "https://preview.redd.it/14qbafcwj8rg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=837265f26bd65dc13979f841dd7757fea0cf4c5f",
+        "published": "2026-03-25T18:40:04+00:00"
+    },
+    {
         "title": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports",
         "link": "https://www.reddit.com/r/singularity/comments/1s35jec/china_bars_manus_cofounders_from_leaving_country/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T09:03:07+00:00"
-    },
-    {
-        "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
-        "image": "https://external-preview.redd.it/b2dtOHc1c2phMnJnMcOMGxsBurb86q8RyWwshZ6OYA8IyQ8D4qPiYDUfXhYC.png?width=640&crop=smart&auto=webp&s=a41f03237f0bfb10509d1f2eed7897a400c040ba",
-        "published": "2026-03-24T21:33:34+00:00"
     },
     {
         "title": "SWE is past the elbow of the exponential kickoff. I watched it happen in real time. Other fields are next.",
@@ -60,10 +60,22 @@
         "published": "2026-03-25T14:08:27+00:00"
     },
     {
+        "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
+        "image": "https://external-preview.redd.it/b2dtOHc1c2phMnJnMcOMGxsBurb86q8RyWwshZ6OYA8IyQ8D4qPiYDUfXhYC.png?width=640&crop=smart&auto=webp&s=a41f03237f0bfb10509d1f2eed7897a400c040ba",
+        "published": "2026-03-24T21:33:34+00:00"
+    },
+    {
         "title": "Google: Building superconducting and neutral atom quantum computers",
         "link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
         "image": "https://external-preview.redd.it/JIjFbr38_VQL1_wvbDeHWS1RHmuVqFkdYEM0zEvyXdk.png?width=640&crop=smart&auto=webp&s=69f3032b491e3c14173d25b07c2705280323f2bc",
         "published": "2026-03-25T06:28:41+00:00"
+    },
+    {
+        "title": "ARC AGI 3 scores are not calculated the same way as ARC AGI 1 or 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-25T18:11:05+00:00"
     },
     {
         "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
@@ -76,17 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s3dm5h/limx_dynamics_teases_its_next_humanoid_robot/",
         "image": "https://external-preview.redd.it/emRhdWFhbDFrN3JnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=fa54f1e71d623a67bfae9c09a27fe2cde0b9eb69",
         "published": "2026-03-25T15:15:37+00:00"
-    },
-    {
-        "title": "ARC AGI 3 scores are not calculated the same way as ARC AGI 1 or 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-25T18:11:05+00:00"
-    },
-    {
-        "title": "Amazon acquires \u2018approachable\u2019 humanoid maker Fauna Robotics",
-        "link": "https://www.reddit.com/r/singularity/comments/1s38tej/amazon_acquires_approachable_humanoid_maker_fauna/",
-        "image": "https://external-preview.redd.it/DBCAD9nMPQrIi73NPv1kZ5w7YHnZsibPZ6o67QfvJWA.jpeg?width=640&crop=smart&auto=webp&s=52b7502621f0913fc7f105034730c75265bffade",
-        "published": "2026-03-25T12:05:39+00:00"
     }
 ]
