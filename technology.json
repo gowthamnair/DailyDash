@@ -1,11 +1,5 @@
 [
     {
-        "title": "Steve Wozniak says he's \"disappointed a lot\" by AI and rarely uses it",
-        "link": "https://www.reddit.com/r/technology/comments/1s2cme5/steve_wozniak_says_hes_disappointed_a_lot_by_ai/",
-        "image": "https://external-preview.redd.it/PBHSR_536C7-bYj_7zaKsn5lfGoGxtBRFNwau17vY3U.jpeg?width=640&crop=smart&auto=webp&s=7f7094e1f5d26d4f2f15e3051259a76249aa07f4",
-        "published": "2026-03-24T12:40:07+00:00"
-    },
-    {
         "title": "OpenAI Will Shut Down Sora Video Platform",
         "link": "https://www.reddit.com/r/technology/comments/1s2piv1/openai_will_shut_down_sora_video_platform/",
         "image": "https://external-preview.redd.it/n0CywsTmaYqBSWdEYaiH7VjYaVGUDfEZFWX16AapZs8.png?width=640&crop=smart&auto=webp&s=707d2c7de35091bd2264ba67cbc1b803d6c9aae9",
@@ -48,16 +42,16 @@
         "published": "2026-03-24T22:22:36+00:00"
     },
     {
-        "title": "A million SpaceX satellites will ruin the night sky",
-        "link": "https://www.reddit.com/r/technology/comments/1s2bcmy/a_million_spacex_satellites_will_ruin_the_night/",
-        "image": "https://external-preview.redd.it/aKwDbHDORg6cxnP7wdrg-bu_dDTZ3p6spQBsolk5bgg.jpeg?width=640&crop=smart&auto=webp&s=c17d4d27157fffed56f52904966e1e9568dfd3b6",
-        "published": "2026-03-24T11:39:40+00:00"
-    },
-    {
         "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules",
         "link": "https://www.reddit.com/r/technology/comments/1s2s92i/meta_must_pay_375_million_for_violating_new/",
         "image": "https://external-preview.redd.it/4uqLg1-je5kCVY3mN15o898OajMzU7E9g10SvNqUHT4.jpeg?width=640&crop=smart&auto=webp&s=14af02b3b2845394e084128b775baa67a61e0306",
         "published": "2026-03-24T22:13:49+00:00"
+    },
+    {
+        "title": "New Mexico just handed Meta its first courtroom defeat over child safety",
+        "link": "https://www.reddit.com/r/technology/comments/1s35g52/new_mexico_just_handed_meta_its_first_courtroom/",
+        "image": "https://external-preview.redd.it/5LCuTE3Y6HWl2ZF_PZ402K8vbD5UshrW_6EcIofb2Qg.jpeg?width=640&crop=smart&auto=webp&s=33a1bef1b51659ceddec2f83d052924543ac3744",
+        "published": "2026-03-25T08:57:50+00:00"
     },
     {
         "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1s2m1l1/meta_is_accused_of_enabling_child_sexual/",
         "image": "https://external-preview.redd.it/FmtuBSPtscUjef-rEPF-o1OjkNhTiy-CSPOSUCmdsMA.jpeg?width=640&crop=smart&auto=webp&s=132d4fa15130262778cb9399163b235f7e022323",
         "published": "2026-03-24T18:27:21+00:00"
+    },
+    {
+        "title": "The FCC bans all routers made outside the U.S.",
+        "link": "https://www.reddit.com/r/technology/comments/1s2ixpf/the_fcc_bans_all_routers_made_outside_the_us/",
+        "image": "https://external-preview.redd.it/JZQFXJQ5SOJAEvxsA-lJrf8t6JEfdnbiPMmmHz0UnFw.png?width=640&crop=smart&auto=webp&s=05488b0c944d14f72d5347067ba1eae4ef4f6268",
+        "published": "2026-03-24T16:37:53+00:00"
     }
 ]
