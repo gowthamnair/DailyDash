@@ -12,12 +12,6 @@
         "published": "2026-03-25T17:08:43+00:00"
     },
     {
-        "title": "Sora shutdown is a good early example of what private AI companies will do when they achieve AGI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2tr80/sora_shutdown_is_a_good_early_example_of_what/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T23:11:34+00:00"
-    },
-    {
         "title": "Figure's Humanoid Robot Walks into the White House to give a Presentation!",
         "link": "https://www.reddit.com/r/singularity/comments/1s3fequ/figures_humanoid_robot_walks_into_the_white_house/",
         "image": "https://external-preview.redd.it/MjdlZDN0OG12N3JnMaI7S1_jH-yNNFGhJHTyA1Avr1oIzgNRyiDRa2q-z_WO.png?width=640&crop=smart&auto=webp&s=c0a5bd66ebe11b0fe3bcb83e4a8d2c5680a77bf2",
@@ -48,28 +42,34 @@
         "published": "2026-03-25T09:03:07+00:00"
     },
     {
-        "title": "Google: Building superconducting and neutral atom quantum computers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
-        "image": "https://external-preview.redd.it/JIjFbr38_VQL1_wvbDeHWS1RHmuVqFkdYEM0zEvyXdk.png?width=640&crop=smart&auto=webp&s=69f3032b491e3c14173d25b07c2705280323f2bc",
-        "published": "2026-03-25T06:28:41+00:00"
-    },
-    {
         "title": "Are AI girlfriend sites starting to change how people approach dating?",
         "link": "https://www.reddit.com/r/singularity/comments/1s3le03/are_ai_girlfriend_sites_starting_to_change_how/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T19:55:09+00:00"
     },
     {
-        "title": "ARC AGI 3 scores are not calculated the same way as ARC AGI 1 or 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-25T18:11:05+00:00"
+        "title": "Google: Building superconducting and neutral atom quantum computers",
+        "link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
+        "image": "https://external-preview.redd.it/JIjFbr38_VQL1_wvbDeHWS1RHmuVqFkdYEM0zEvyXdk.png?width=640&crop=smart&auto=webp&s=69f3032b491e3c14173d25b07c2705280323f2bc",
+        "published": "2026-03-25T06:28:41+00:00"
+    },
+    {
+        "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
+        "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
+        "published": "2026-03-25T22:20:19+00:00"
     },
     {
         "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
         "link": "https://www.reddit.com/r/singularity/comments/1s3k33y/bernie_sanders_and_aoc_introduce_bill_to_pause/",
         "image": "https://external-preview.redd.it/T2sQQ6bVfVjBqLiG_FlOtetjBBBir3rWNYKK37Oo_WI.jpeg?width=640&crop=smart&auto=webp&s=0b7864d73bdd29251aba91aa3b5b317a305b3779",
         "published": "2026-03-25T19:07:34+00:00"
+    },
+    {
+        "title": "ARC AGI 3 scores are not calculated the same way as ARC AGI 1 or 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-25T18:11:05+00:00"
     },
     {
         "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
