@@ -24,16 +24,16 @@
         "published": "2026-03-24T13:25:46+00:00"
     },
     {
-        "title": "Nvidia CEO thinks that humanity reached the AGI.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2bvl3/nvidia_ceo_thinks_that_humanity_reached_the_agi/",
-        "image": "https://preview.redd.it/qxqp5liahzqg1.jpeg?width=640&crop=smart&auto=webp&s=6bd8e070e0c42ce1c4861c7bd2e0d3a8d985a5b4",
-        "published": "2026-03-24T12:05:56+00:00"
-    },
-    {
         "title": "TheInformation reporting OAI finished pretraining new very strong model \u201cSpud\u201d, Altman notes things moving faster than many expected",
         "link": "https://www.reddit.com/r/singularity/comments/1s2q0yb/theinformation_reporting_oai_finished_pretraining/",
         "image": "https://preview.redd.it/ipizrkut22rg1.jpeg?width=640&crop=smart&auto=webp&s=d1b03805d42e69f8acf26d710892a656faf53a7e",
         "published": "2026-03-24T20:50:13+00:00"
+    },
+    {
+        "title": "Nvidia CEO thinks that humanity reached the AGI.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2bvl3/nvidia_ceo_thinks_that_humanity_reached_the_agi/",
+        "image": "https://preview.redd.it/qxqp5liahzqg1.jpeg?width=640&crop=smart&auto=webp&s=6bd8e070e0c42ce1c4861c7bd2e0d3a8d985a5b4",
+        "published": "2026-03-24T12:05:56+00:00"
     },
     {
         "title": "I'm impressed that the Grok meltdown isn't posted here like the GPT 4o was.",
@@ -60,16 +60,22 @@
         "published": "2026-03-24T17:11:47+00:00"
     },
     {
-        "title": "Anthropic in Contact With Professional Analytic Philosophers to Evaluate reasoning Capabilities of Models",
-        "link": "https://www.reddit.com/r/singularity/comments/1s25mky/anthropic_in_contact_with_professional_analytic/",
+        "title": "Sora shutdown is a good early example of what private AI companies will do when they achieve AGI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2tr80/sora_shutdown_is_a_good_early_example_of_what/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T05:58:02+00:00"
+        "published": "2026-03-24T23:11:34+00:00"
     },
     {
         "title": "Sora by OpenAI discontinued",
         "link": "https://www.reddit.com/r/singularity/comments/1s2pssb/sora_by_openai_discontinued/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-24T20:41:51+00:00"
+    },
+    {
+        "title": "Anthropic in Contact With Professional Analytic Philosophers to Evaluate reasoning Capabilities of Models",
+        "link": "https://www.reddit.com/r/singularity/comments/1s25mky/anthropic_in_contact_with_professional_analytic/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T05:58:02+00:00"
     },
     {
         "title": "Yann LeCun\u2019s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
         "image": "https://external-preview.redd.it/b2dtOHc1c2phMnJnMcOMGxsBurb86q8RyWwshZ6OYA8IyQ8D4qPiYDUfXhYC.png?width=640&crop=smart&auto=webp&s=a41f03237f0bfb10509d1f2eed7897a400c040ba",
         "published": "2026-03-24T21:33:34+00:00"
-    },
-    {
-        "title": "Autoresearch with Claude on a real codebase (not ML training): 60 experiments, 93% failure rate, and why that's the point",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2335r/autoresearch_with_claude_on_a_real_codebase_not/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T03:39:16+00:00"
     }
 ]
