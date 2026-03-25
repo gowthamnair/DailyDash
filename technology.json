@@ -1,11 +1,5 @@
 [
     {
-        "title": "OpenAI Will Shut Down Sora Video Platform",
-        "link": "https://www.reddit.com/r/technology/comments/1s2piv1/openai_will_shut_down_sora_video_platform/",
-        "image": "https://external-preview.redd.it/n0CywsTmaYqBSWdEYaiH7VjYaVGUDfEZFWX16AapZs8.png?width=640&crop=smart&auto=webp&s=707d2c7de35091bd2264ba67cbc1b803d6c9aae9",
-        "published": "2026-03-24T20:31:44+00:00"
-    },
-    {
         "title": "Wikipedia has banned AI-generated text, with two exceptions",
         "link": "https://www.reddit.com/r/technology/comments/1s39x77/wikipedia_has_banned_aigenerated_text_with_two/",
         "image": "https://external-preview.redd.it/8xyBwyRc9_2Wk9zjCV0Gm1pblNYj3Cay_dHnp9xLKnA.jpeg?width=640&crop=smart&auto=webp&s=ae589fda95f26c2dfa8dc92717d1db7c68b2709f",
@@ -48,16 +42,16 @@
         "published": "2026-03-25T17:32:19+00:00"
     },
     {
-        "title": "US judge says Pentagon's blacklisting of Anthropic looks like punishment for its views on AI safety",
-        "link": "https://www.reddit.com/r/technology/comments/1s36sys/us_judge_says_pentagons_blacklisting_of_anthropic/",
-        "image": "https://external-preview.redd.it/SjyiNLUi_UHT0DHSyO-KM3osxv1jpkamWpi76YWFrcw.jpeg?width=640&crop=smart&auto=webp&s=623ba8f0935ecbf54ac1d3574b9ac7788adb229f",
-        "published": "2026-03-25T10:19:37+00:00"
-    },
-    {
         "title": "Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human",
         "link": "https://www.reddit.com/r/technology/comments/1s3hb2v/reddit_accounts_with_fishy_botlike_behavior_will/",
         "image": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
         "published": "2026-03-25T17:29:07+00:00"
+    },
+    {
+        "title": "US judge says Pentagon's blacklisting of Anthropic looks like punishment for its views on AI safety",
+        "link": "https://www.reddit.com/r/technology/comments/1s36sys/us_judge_says_pentagons_blacklisting_of_anthropic/",
+        "image": "https://external-preview.redd.it/SjyiNLUi_UHT0DHSyO-KM3osxv1jpkamWpi76YWFrcw.jpeg?width=640&crop=smart&auto=webp&s=623ba8f0935ecbf54ac1d3574b9ac7788adb229f",
+        "published": "2026-03-25T10:19:37+00:00"
     },
     {
         "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules",
@@ -78,15 +72,21 @@
         "published": "2026-03-25T10:38:10+00:00"
     },
     {
-        "title": "Santa Fe jury reaches $375 million verdict against social media giant Meta",
-        "link": "https://www.reddit.com/r/technology/comments/1s2qvd3/santa_fe_jury_reaches_375_million_verdict_against/",
-        "image": "https://external-preview.redd.it/7i8iB5mH4-SrV2gPwMGE-L--ksPR_h75-RtFz6pyrO0.jpeg?width=640&crop=smart&auto=webp&s=e46ce6164d158cf5866723b56457d686245e2e7a",
-        "published": "2026-03-24T21:21:22+00:00"
+        "title": "Meta and YouTube designed addictive products that harmed young people, jury finds",
+        "link": "https://www.reddit.com/r/technology/comments/1s3ja4l/meta_and_youtube_designed_addictive_products_that/",
+        "image": "https://external-preview.redd.it/tDIk_coT378laAvlUw3-O04VIOKUtoI0PzcacM4PCiY.jpeg?width=640&crop=smart&auto=webp&s=1fd8c0b7ac810c64beb17aea1027ce0d37610270",
+        "published": "2026-03-25T18:39:06+00:00"
     },
     {
         "title": "Age checks creep into Linux as systemd gets a DOB field",
         "link": "https://www.reddit.com/r/technology/comments/1s320ut/age_checks_creep_into_linux_as_systemd_gets_a_dob/",
         "image": "https://external-preview.redd.it/zGQsB2D4DwlVPteCSDexvd0wn_B_B85s7qNiDJWm614.jpeg?width=640&crop=smart&auto=webp&s=fb21a63dab4c7f9711a4a241675f7cae77ed6b09",
         "published": "2026-03-25T05:28:09+00:00"
+    },
+    {
+        "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
+        "link": "https://www.reddit.com/r/technology/comments/1s39x19/we_need_more_plumbers_and_fewer_lawyers_in_ai_age/",
+        "image": "https://external-preview.redd.it/wkzH8ktEVpmCKhOZSXGBq9-pVtrNFErAYxvMOoy3YF0.jpeg?width=640&crop=smart&auto=webp&s=229fd911bba51274466806d74d6ee607129d7e15",
+        "published": "2026-03-25T12:54:48+00:00"
     }
 ]
