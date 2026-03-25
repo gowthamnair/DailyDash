@@ -1,11 +1,5 @@
 [
     {
-        "title": "Marc Benioff (CEO of Salesforce) tweeted video of him messing with a Figure 03 robot flipping packages",
-        "link": "https://www.reddit.com/r/singularity/comments/1s235n7/marc_benioff_ceo_of_salesforce_tweeted_video_of/",
-        "image": "https://external-preview.redd.it/NW9uNnVsdGZ6d3FnMWBXpgYdGWeQoS5DjdpPkvwSLsHdPaySqOf_v0Xg6PIf.png?width=640&crop=smart&auto=webp&s=6b1c1d5d4312ec6d88d9582f6140fd2ec8364e49",
-        "published": "2026-03-24T03:42:30+00:00"
-    },
-    {
         "title": "Following its acrobatic motorcycle, RAI Institute debuts RoadRunner, a robot whose wheels can position themselves to act as a motorcycle, a single-axis cart, or even as human walking",
         "link": "https://www.reddit.com/r/singularity/comments/1s2dsx8/following_its_acrobatic_motorcycle_rai_institute/",
         "image": "https://external-preview.redd.it/MWIxYnhmbDF3enFnMcBC3U3MvmWCkHwZgWUIj1NxyoOtSClgX5eTfu0cVXIc.png?width=640&crop=smart&auto=webp&s=4dcdaaceadc37987c3b674ef727ec8d80e1b8a75",
@@ -18,16 +12,16 @@
         "published": "2026-03-24T12:31:46+00:00"
     },
     {
-        "title": "The goal post moving by anti-AI people is getting ridiculous.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2dpuo/the_goal_post_moving_by_antiai_people_is_getting/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T13:25:46+00:00"
-    },
-    {
         "title": "TheInformation reporting OAI finished pretraining new very strong model \u201cSpud\u201d, Altman notes things moving faster than many expected",
         "link": "https://www.reddit.com/r/singularity/comments/1s2q0yb/theinformation_reporting_oai_finished_pretraining/",
         "image": "https://preview.redd.it/ipizrkut22rg1.jpeg?width=640&crop=smart&auto=webp&s=d1b03805d42e69f8acf26d710892a656faf53a7e",
         "published": "2026-03-24T20:50:13+00:00"
+    },
+    {
+        "title": "The goal post moving by anti-AI people is getting ridiculous.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2dpuo/the_goal_post_moving_by_antiai_people_is_getting/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T13:25:46+00:00"
     },
     {
         "title": "Nvidia CEO thinks that humanity reached the AGI.",
@@ -42,28 +36,22 @@
         "published": "2026-03-24T16:37:59+00:00"
     },
     {
+        "title": "Sora shutdown is a good early example of what private AI companies will do when they achieve AGI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2tr80/sora_shutdown_is_a_good_early_example_of_what/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T23:11:34+00:00"
+    },
+    {
         "title": "How is Gemini 3.1 at the top of SWE-bench?",
         "link": "https://www.reddit.com/r/singularity/comments/1s2b8ue/how_is_gemini_31_at_the_top_of_swebench/",
         "image": "https://preview.redd.it/b05nl28nbzqg1.jpeg?width=640&crop=smart&auto=webp&s=b7f191ef09c1c2194154af5a5febaff0b2c87aeb",
         "published": "2026-03-24T11:34:18+00:00"
     },
     {
-        "title": "Vibe physics: The AI grad student",
-        "link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
-        "image": "https://external-preview.redd.it/Ht8-aRfx_xGIZ26H4WLM1GoTBaWMz6Z7swZHuIdd0O4.png?width=640&crop=smart&auto=webp&s=a088394a0c8b2bd1d4c96689b52d7d23671886c1",
-        "published": "2026-03-24T01:31:28+00:00"
-    },
-    {
         "title": "Claude Code can now take over your computer to complete tasks",
         "link": "https://www.reddit.com/r/singularity/comments/1s2jwbk/claude_code_can_now_take_over_your_computer_to/",
         "image": "https://external-preview.redd.it/ephPwCuN1RTKrmW5Jaxli0wYvQWoSKU30zrBmLgVF1I.jpeg?width=640&crop=smart&auto=webp&s=1bd2e4dd2bfccd604d8d251d33b214a8fe262ef4",
         "published": "2026-03-24T17:11:47+00:00"
-    },
-    {
-        "title": "Sora shutdown is a good early example of what private AI companies will do when they achieve AGI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2tr80/sora_shutdown_is_a_good_early_example_of_what/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-24T23:11:34+00:00"
     },
     {
         "title": "Sora by OpenAI discontinued",
@@ -78,15 +66,27 @@
         "published": "2026-03-24T05:58:02+00:00"
     },
     {
+        "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
+        "image": "https://external-preview.redd.it/b2dtOHc1c2phMnJnMcOMGxsBurb86q8RyWwshZ6OYA8IyQ8D4qPiYDUfXhYC.png?width=640&crop=smart&auto=webp&s=a41f03237f0bfb10509d1f2eed7897a400c040ba",
+        "published": "2026-03-24T21:33:34+00:00"
+    },
+    {
         "title": "Yann LeCun\u2019s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
         "link": "https://www.reddit.com/r/singularity/comments/1s2ezuf/yann_lecuns_new_leworldmodel_lewm_research/",
         "image": "https://external-preview.redd.it/qPSuC2gPZ_m3OJBEcvTcTt4TG_L2rhBGgArTF5JeaTY.png?width=640&crop=smart&auto=webp&s=02e8cc5c0e32807cb50a9ee9f65410c174225f17",
         "published": "2026-03-24T14:15:27+00:00"
     },
     {
-        "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
-        "image": "https://external-preview.redd.it/b2dtOHc1c2phMnJnMcOMGxsBurb86q8RyWwshZ6OYA8IyQ8D4qPiYDUfXhYC.png?width=640&crop=smart&auto=webp&s=a41f03237f0bfb10509d1f2eed7897a400c040ba",
-        "published": "2026-03-24T21:33:34+00:00"
+        "title": "Do you think the future will be significantly different than today or similar to today and why in 30-40 years?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s24dh2/do_you_think_the_future_will_be_significantly/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T04:45:55+00:00"
+    },
+    {
+        "title": "Phase Transitions and Attractor States in the Evolution of Informational Media",
+        "link": "https://www.reddit.com/r/singularity/comments/1s2pu00/phase_transitions_and_attractor_states_in_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-24T20:43:05+00:00"
     }
 ]
