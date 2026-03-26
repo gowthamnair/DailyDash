@@ -18,12 +18,6 @@
         "published": "2026-03-26T10:45:26+00:00"
     },
     {
-        "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
-        "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
-        "published": "2026-03-25T22:20:19+00:00"
-    },
-    {
         "title": "The ARC-AGI leaderboard made me realize something terrifying (but weirdly comforting) about LLMs vs human brains",
         "link": "https://www.reddit.com/r/singularity/comments/1s3w9ls/the_arcagi_leaderboard_made_me_realize_something/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -36,16 +30,16 @@
         "published": "2026-03-26T14:27:39+00:00"
     },
     {
-        "title": "Amazon acquires Fauna Robotics, featuring a safe and soft to the touch humanoid robot that is also compliant: its limbs can be adjusted by humans between moves",
-        "link": "https://www.reddit.com/r/singularity/comments/1s47wtq/amazon_acquires_fauna_robotics_featuring_a_safe/",
-        "image": "https://external-preview.redd.it/NmZuYzMxYXM4ZXJnMYZv69WJVlSHcYtCifa8V0l2XHc9q3xhibVoY3pq5H2O.png?width=640&crop=smart&auto=webp&s=7473b87307c8351aa6ad8c37cc69d5492627bc62",
-        "published": "2026-03-26T13:46:01+00:00"
-    },
-    {
         "title": "25 years. Multiple specialists. Zero answers. One Claude conversation cracked it.",
         "link": "https://www.reddit.com/r/singularity/comments/1s4570y/25_years_multiple_specialists_zero_answers_one/",
         "image": "https://preview.redd.it/uuu1gs557crg1.jpeg?width=640&crop=smart&auto=webp&s=e52427d3db7277c9ae7a7288beb7d7f6ab273059",
         "published": "2026-03-26T11:46:42+00:00"
+    },
+    {
+        "title": "Amazon acquires Fauna Robotics, featuring a safe and soft to the touch humanoid robot that is also compliant: its limbs can be adjusted by humans between moves",
+        "link": "https://www.reddit.com/r/singularity/comments/1s47wtq/amazon_acquires_fauna_robotics_featuring_a_safe/",
+        "image": "https://external-preview.redd.it/NmZuYzMxYXM4ZXJnMYZv69WJVlSHcYtCifa8V0l2XHc9q3xhibVoY3pq5H2O.png?width=640&crop=smart&auto=webp&s=7473b87307c8351aa6ad8c37cc69d5492627bc62",
+        "published": "2026-03-26T13:46:01+00:00"
     },
     {
         "title": "OpenAI puts erotic chatbot plans on hold \u2018indefinitely\u2019",
@@ -60,16 +54,16 @@
         "published": "2026-03-26T00:35:58+00:00"
     },
     {
-        "title": "People pissed about arc agi 3 are really looking at the purpose of the benchmark wrong",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4115m/people_pissed_about_arc_agi_3_are_really_looking/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T07:42:27+00:00"
-    },
-    {
         "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
         "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T13:12:19+00:00"
+    },
+    {
+        "title": "People pissed about arc agi 3 are really looking at the purpose of the benchmark wrong",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4115m/people_pissed_about_arc_agi_3_are_really_looking/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T07:42:27+00:00"
     },
     {
         "title": "What ARC AGI-5 should be like (Behavior1k)",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s4ad54/ai_video_traffic_before_sora_announced_the/",
         "image": "https://preview.redd.it/o3ucn0jbperg1.png?width=640&crop=smart&auto=webp&s=4504fd7c0fb60fc2ffb868d6c71ef4fcca3fa7c6",
         "published": "2026-03-26T15:17:59+00:00"
+    },
+    {
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4gwnq/turboquant_redefining_ai_efficiency_with_extreme/",
+        "image": "https://external-preview.redd.it/Xfy8b5oz8xAgNpbj0L9Mmjzxactj5HdaKRFOmBPu0YE.jpeg?width=640&crop=smart&auto=webp&s=c9dad5b13e20f57d64f5fc0bbc7415c9f4186b1d",
+        "published": "2026-03-26T19:13:44+00:00"
     },
     {
         "title": "Why is Claude preferred by lots of professionals compared to GPT?",
