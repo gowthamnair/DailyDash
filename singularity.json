@@ -6,12 +6,6 @@
         "published": "2026-03-25T17:08:43+00:00"
     },
     {
-        "title": "Every time someone is surprised when they find out AI is just a pattern identifier",
-        "link": "https://www.reddit.com/r/singularity/comments/1s31t9h/every_time_someone_is_surprised_when_they_find/",
-        "image": "https://preview.redd.it/0t9gyxs3l4rg1.jpeg?width=640&crop=smart&auto=webp&s=421725c2672f2c7493c387b3e10293cbab6a0a0a",
-        "published": "2026-03-25T05:16:14+00:00"
-    },
-    {
         "title": "Figure's Humanoid Robot Walks into the White House to give a Presentation!",
         "link": "https://www.reddit.com/r/singularity/comments/1s3fequ/figures_humanoid_robot_walks_into_the_white_house/",
         "image": "https://external-preview.redd.it/MjdlZDN0OG12N3JnMaI7S1_jH-yNNFGhJHTyA1Avr1oIzgNRyiDRa2q-z_WO.png?width=640&crop=smart&auto=webp&s=c0a5bd66ebe11b0fe3bcb83e4a8d2c5680a77bf2",
@@ -54,16 +48,16 @@
         "published": "2026-03-25T09:03:07+00:00"
     },
     {
-        "title": "Are AI girlfriend sites starting to change how people approach dating?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3le03/are_ai_girlfriend_sites_starting_to_change_how/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-25T19:55:09+00:00"
-    },
-    {
         "title": "ARC AGI 3 scores are not calculated the same way as ARC AGI 1 or 2",
         "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T18:11:05+00:00"
+    },
+    {
+        "title": "The ARC-AGI leaderboard made me realize something terrifying (but weirdly comforting) about LLMs vs human brains",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3w9ls/the_arcagi_leaderboard_made_me_realize_something/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T03:16:13+00:00"
     },
     {
         "title": "Google: Building superconducting and neutral atom quantum computers",
@@ -72,21 +66,27 @@
         "published": "2026-03-25T06:28:41+00:00"
     },
     {
-        "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s39z0p/googles_antigravity_significantly_nerfed_limits/",
-        "image": "https://preview.redd.it/cc6h8yyup6rg1.png?width=640&crop=smart&auto=webp&s=5b380415a865902b40cc3d92a7b519636b7a74ed",
-        "published": "2026-03-25T12:57:07+00:00"
-    },
-    {
         "title": "LimX Dynamics teases its next humanoid robot after OLI, coming tomorrow",
         "link": "https://www.reddit.com/r/singularity/comments/1s3dm5h/limx_dynamics_teases_its_next_humanoid_robot/",
         "image": "https://external-preview.redd.it/emRhdWFhbDFrN3JnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=fa54f1e71d623a67bfae9c09a27fe2cde0b9eb69",
         "published": "2026-03-25T15:15:37+00:00"
     },
     {
+        "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
+        "link": "https://www.reddit.com/r/singularity/comments/1s39z0p/googles_antigravity_significantly_nerfed_limits/",
+        "image": "https://preview.redd.it/cc6h8yyup6rg1.png?width=640&crop=smart&auto=webp&s=5b380415a865902b40cc3d92a7b519636b7a74ed",
+        "published": "2026-03-25T12:57:07+00:00"
+    },
+    {
         "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
         "link": "https://www.reddit.com/r/singularity/comments/1s3so56/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
         "image": "https://external-preview.redd.it/wtm4wDU7EFzgTsV6Q3_ve6nBnETvKn1kF2CDf-ReAoE.jpeg?width=640&crop=smart&auto=webp&s=6a7f50d0b98703fcfead2835ee9744b5a2b148b5",
         "published": "2026-03-26T00:35:58+00:00"
+    },
+    {
+        "title": "Amazon acquires \u2018approachable\u2019 humanoid maker Fauna Robotics",
+        "link": "https://www.reddit.com/r/singularity/comments/1s38tej/amazon_acquires_approachable_humanoid_maker_fauna/",
+        "image": "https://external-preview.redd.it/DBCAD9nMPQrIi73NPv1kZ5w7YHnZsibPZ6o67QfvJWA.jpeg?width=640&crop=smart&auto=webp&s=52b7502621f0913fc7f105034730c75265bffade",
+        "published": "2026-03-25T12:05:39+00:00"
     }
 ]
