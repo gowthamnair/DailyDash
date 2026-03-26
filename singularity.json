@@ -30,6 +30,12 @@
         "published": "2026-03-25T12:13:29+00:00"
     },
     {
+        "title": "Two paths ahead, with no user manual. Full race into the entropy",
+        "link": "https://www.reddit.com/r/singularity/comments/1s41ely/two_paths_ahead_with_no_user_manual_full_race/",
+        "image": "https://preview.redd.it/vw7cibyckcrg1.jpeg?width=320&crop=smart&auto=webp&s=b320e1258b5b239a45d028b409ca1d7622454534",
+        "published": "2026-03-26T08:06:18+00:00"
+    },
+    {
         "title": "The ARC-AGI leaderboard made me realize something terrifying (but weirdly comforting) about LLMs vs human brains",
         "link": "https://www.reddit.com/r/singularity/comments/1s3w9ls/the_arcagi_leaderboard_made_me_realize_something/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -40,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s3bshh/swe_is_past_the_elbow_of_the_exponential_kickoff/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T14:08:27+00:00"
-    },
-    {
-        "title": "Two paths ahead, with no user manual. Full race into the entropy",
-        "link": "https://www.reddit.com/r/singularity/comments/1s41ely/two_paths_ahead_with_no_user_manual_full_race/",
-        "image": "https://preview.redd.it/vw7cibyckcrg1.jpeg?width=320&crop=smart&auto=webp&s=b320e1258b5b239a45d028b409ca1d7622454534",
-        "published": "2026-03-26T08:06:18+00:00"
     },
     {
         "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
@@ -78,15 +78,15 @@
         "published": "2026-03-25T12:57:07+00:00"
     },
     {
-        "title": "Amazon acquires \u2018approachable\u2019 humanoid maker Fauna Robotics",
-        "link": "https://www.reddit.com/r/singularity/comments/1s38tej/amazon_acquires_approachable_humanoid_maker_fauna/",
-        "image": "https://external-preview.redd.it/DBCAD9nMPQrIi73NPv1kZ5w7YHnZsibPZ6o67QfvJWA.jpeg?width=640&crop=smart&auto=webp&s=52b7502621f0913fc7f105034730c75265bffade",
-        "published": "2026-03-25T12:05:39+00:00"
-    },
-    {
         "title": "People pissed about arc agi 3 are really looking at the purpose of the benchmark wrong",
         "link": "https://www.reddit.com/r/singularity/comments/1s4115m/people_pissed_about_arc_agi_3_are_really_looking/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T07:42:27+00:00"
+    },
+    {
+        "title": "Amazon acquires \u2018approachable\u2019 humanoid maker Fauna Robotics",
+        "link": "https://www.reddit.com/r/singularity/comments/1s38tej/amazon_acquires_approachable_humanoid_maker_fauna/",
+        "image": "https://external-preview.redd.it/DBCAD9nMPQrIi73NPv1kZ5w7YHnZsibPZ6o67QfvJWA.jpeg?width=640&crop=smart&auto=webp&s=52b7502621f0913fc7f105034730c75265bffade",
+        "published": "2026-03-25T12:05:39+00:00"
     }
 ]

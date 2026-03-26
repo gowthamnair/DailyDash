@@ -36,22 +36,10 @@
         "published": "2026-03-25T17:32:19+00:00"
     },
     {
-        "title": "US judge says Pentagon's blacklisting of Anthropic looks like punishment for its views on AI safety",
-        "link": "https://www.reddit.com/r/technology/comments/1s36sys/us_judge_says_pentagons_blacklisting_of_anthropic/",
-        "image": "https://external-preview.redd.it/SjyiNLUi_UHT0DHSyO-KM3osxv1jpkamWpi76YWFrcw.jpeg?width=640&crop=smart&auto=webp&s=623ba8f0935ecbf54ac1d3574b9ac7788adb229f",
-        "published": "2026-03-25T10:19:37+00:00"
-    },
-    {
         "title": "Meta and YouTube designed addictive products that harmed young people, jury finds",
         "link": "https://www.reddit.com/r/technology/comments/1s3ja4l/meta_and_youtube_designed_addictive_products_that/",
         "image": "https://external-preview.redd.it/tDIk_coT378laAvlUw3-O04VIOKUtoI0PzcacM4PCiY.jpeg?width=640&crop=smart&auto=webp&s=1fd8c0b7ac810c64beb17aea1027ce0d37610270",
         "published": "2026-03-25T18:39:06+00:00"
-    },
-    {
-        "title": "Neuralink patient confirms he's playing World of Warcraft with his mind",
-        "link": "https://www.reddit.com/r/technology/comments/1s374db/neuralink_patient_confirms_hes_playing_world_of/",
-        "image": "https://external-preview.redd.it/X1Hsxc4Vw5hzPn_QN1o-W8iyVgrA87Uksd1S83e7lqQ.jpeg?width=640&crop=smart&auto=webp&s=dee40eb472e97c44987d73671a8814b2578f91a4",
-        "published": "2026-03-25T10:38:10+00:00"
     },
     {
         "title": "Bernie Sanders and AOC Are Pushing a Moratorium on Data Center Construction",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1s3rqj0/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
         "image": "https://external-preview.redd.it/7LQlcr0Y-HQgeo62h4taFuTGM4HeS8Qia0SIkgzVq4k.jpeg?width=640&crop=smart&auto=webp&s=d8378d8373326c596296a7089ce3c127ea712d9c",
         "published": "2026-03-25T23:56:28+00:00"
+    },
+    {
+        "title": "Jury orders Meta and Google to pay woman $3 million in social media addiction trial",
+        "link": "https://www.reddit.com/r/technology/comments/1s3kc52/jury_orders_meta_and_google_to_pay_woman_3/",
+        "image": "https://external-preview.redd.it/kmsO1xzMlP-BISRBIBAAWdpe5pHSfQ8dCgs7YW5XEq4.jpeg?width=640&crop=smart&auto=webp&s=40684f25e1d143832e34d7e0fb1cae93bb9ef22f",
+        "published": "2026-03-25T19:16:35+00:00"
+    },
+    {
+        "title": "Reddit is considering using FaceID and passkeys to prove you're a human",
+        "link": "https://www.reddit.com/r/technology/comments/1s3i94j/reddit_is_considering_using_faceid_and_passkeys/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-25T18:02:28+00:00"
     }
 ]
