@@ -12,12 +12,6 @@
         "published": "2026-03-26T11:10:17+00:00"
     },
     {
-        "title": "Chollet argues real AGI shouldn\u2019t need human handholding on new tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3jb2z/chollet_argues_real_agi_shouldnt_need_human/",
-        "image": "https://preview.redd.it/14qbafcwj8rg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=837265f26bd65dc13979f841dd7757fea0cf4c5f",
-        "published": "2026-03-25T18:40:04+00:00"
-    },
-    {
         "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
         "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
         "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
@@ -54,12 +48,6 @@
         "published": "2026-03-26T13:46:01+00:00"
     },
     {
-        "title": "ARC AGI 3 scores are not calculated the same way as ARC AGI 1 or 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-25T18:11:05+00:00"
-    },
-    {
         "title": "25 years. Multiple specialists. Zero answers. One Claude conversation cracked it.",
         "link": "https://www.reddit.com/r/singularity/comments/1s4570y/25_years_multiple_specialists_zero_answers_one/",
         "image": "https://preview.redd.it/uuu1gs557crg1.jpeg?width=640&crop=smart&auto=webp&s=e52427d3db7277c9ae7a7288beb7d7f6ab273059",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T13:12:19+00:00"
+    },
+    {
+        "title": "What ARC AGI-5 should be like (Behavior1k)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s42vyu/what_arc_agi5_should_be_like_behavior1k/",
+        "image": "https://external-preview.redd.it/eGVrbXhiY3gwZHJnMYAozeqVWxtfTte4yuZM4HWZ4Cwoj2azKjwCL98-MCqH.png?width=640&crop=smart&auto=webp&s=1be892cec7fea3dd0cfbf14eb650ac55cec55867",
+        "published": "2026-03-26T09:40:21+00:00"
+    },
+    {
+        "title": "OpenAI puts erotic chatbot plans on hold \u2018indefinitely\u2019",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4bpxl/openai_puts_erotic_chatbot_plans_on_hold/",
+        "image": "https://external-preview.redd.it/rrgxs3DOOZOH6hn-v3dn8_LUMoIF_31OnFEE5tr3Jvk.png?width=640&crop=smart&auto=webp&s=9d34d2d09cbc96a78366e6aa1dbbc095afe675b8",
+        "published": "2026-03-26T16:06:27+00:00"
     }
 ]
