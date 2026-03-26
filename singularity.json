@@ -18,22 +18,28 @@
         "published": "2026-03-25T18:40:04+00:00"
     },
     {
-        "title": "First-ever American AI Jobs Risk Index released by Tufts University",
-        "link": "https://www.reddit.com/r/singularity/comments/1s38zik/firstever_american_ai_jobs_risk_index_released_by/",
-        "image": "https://preview.redd.it/2d7igepdn6rg1.jpg?width=140&height=77&auto=webp&s=0b3c27790b3c27682b92576c5b27eab9d4e196c8",
-        "published": "2026-03-25T12:13:29+00:00"
-    },
-    {
         "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
         "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
         "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
         "published": "2026-03-25T22:20:19+00:00"
     },
     {
+        "title": "First-ever American AI Jobs Risk Index released by Tufts University",
+        "link": "https://www.reddit.com/r/singularity/comments/1s38zik/firstever_american_ai_jobs_risk_index_released_by/",
+        "image": "https://preview.redd.it/2d7igepdn6rg1.jpg?width=140&height=77&auto=webp&s=0b3c27790b3c27682b92576c5b27eab9d4e196c8",
+        "published": "2026-03-25T12:13:29+00:00"
+    },
+    {
         "title": "SWE is past the elbow of the exponential kickoff. I watched it happen in real time. Other fields are next.",
         "link": "https://www.reddit.com/r/singularity/comments/1s3bshh/swe_is_past_the_elbow_of_the_exponential_kickoff/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T14:08:27+00:00"
+    },
+    {
+        "title": "The ARC-AGI leaderboard made me realize something terrifying (but weirdly comforting) about LLMs vs human brains",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3w9ls/the_arcagi_leaderboard_made_me_realize_something/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T03:16:13+00:00"
     },
     {
         "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
@@ -54,28 +60,10 @@
         "published": "2026-03-25T18:11:05+00:00"
     },
     {
-        "title": "The ARC-AGI leaderboard made me realize something terrifying (but weirdly comforting) about LLMs vs human brains",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3w9ls/the_arcagi_leaderboard_made_me_realize_something/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T03:16:13+00:00"
-    },
-    {
-        "title": "Google: Building superconducting and neutral atom quantum computers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
-        "image": "https://external-preview.redd.it/JIjFbr38_VQL1_wvbDeHWS1RHmuVqFkdYEM0zEvyXdk.png?width=640&crop=smart&auto=webp&s=69f3032b491e3c14173d25b07c2705280323f2bc",
-        "published": "2026-03-25T06:28:41+00:00"
-    },
-    {
         "title": "LimX Dynamics teases its next humanoid robot after OLI, coming tomorrow",
         "link": "https://www.reddit.com/r/singularity/comments/1s3dm5h/limx_dynamics_teases_its_next_humanoid_robot/",
         "image": "https://external-preview.redd.it/emRhdWFhbDFrN3JnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=fa54f1e71d623a67bfae9c09a27fe2cde0b9eb69",
         "published": "2026-03-25T15:15:37+00:00"
-    },
-    {
-        "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s39z0p/googles_antigravity_significantly_nerfed_limits/",
-        "image": "https://preview.redd.it/cc6h8yyup6rg1.png?width=640&crop=smart&auto=webp&s=5b380415a865902b40cc3d92a7b519636b7a74ed",
-        "published": "2026-03-25T12:57:07+00:00"
     },
     {
         "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
@@ -84,9 +72,21 @@
         "published": "2026-03-26T00:35:58+00:00"
     },
     {
+        "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
+        "link": "https://www.reddit.com/r/singularity/comments/1s39z0p/googles_antigravity_significantly_nerfed_limits/",
+        "image": "https://preview.redd.it/cc6h8yyup6rg1.png?width=640&crop=smart&auto=webp&s=5b380415a865902b40cc3d92a7b519636b7a74ed",
+        "published": "2026-03-25T12:57:07+00:00"
+    },
+    {
         "title": "Amazon acquires \u2018approachable\u2019 humanoid maker Fauna Robotics",
         "link": "https://www.reddit.com/r/singularity/comments/1s38tej/amazon_acquires_approachable_humanoid_maker_fauna/",
         "image": "https://external-preview.redd.it/DBCAD9nMPQrIi73NPv1kZ5w7YHnZsibPZ6o67QfvJWA.jpeg?width=640&crop=smart&auto=webp&s=52b7502621f0913fc7f105034730c75265bffade",
         "published": "2026-03-25T12:05:39+00:00"
+    },
+    {
+        "title": "Mercedes puts Zhipu AI model in new Maybach to woo Chinese buyers",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3pg3k/mercedes_puts_zhipu_ai_model_in_new_maybach_to/",
+        "image": "https://external-preview.redd.it/8swlNafytykFG9DeEcTvIm5d6AujkmH87G3E5C0PvCQ.jpeg?width=640&crop=smart&auto=webp&s=4a2c51bd16d1772f70e9b54f5d1b5f2342f8159e",
+        "published": "2026-03-25T22:25:05+00:00"
     }
 ]
