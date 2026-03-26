@@ -12,16 +12,16 @@
         "published": "2026-03-26T11:10:17+00:00"
     },
     {
-        "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
-        "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
-        "published": "2026-03-25T22:20:19+00:00"
-    },
-    {
         "title": "Reflex robotics places their humanoid robot into a pizzeria, other places",
         "link": "https://www.reddit.com/r/singularity/comments/1s440z7/reflex_robotics_places_their_humanoid_robot_into/",
         "image": "https://external-preview.redd.it/dzhkMGtoaDNjZHJnMQ6HoisLD11WLbxdK58_90YxvPUa0jGpF0zJRfqlyFXf.png?width=320&crop=smart&auto=webp&s=edcc9871d5cce05dea2078874c69fb8db75b79f7",
         "published": "2026-03-26T10:45:26+00:00"
+    },
+    {
+        "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
+        "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
+        "published": "2026-03-25T22:20:19+00:00"
     },
     {
         "title": "The ARC-AGI leaderboard made me realize something terrifying (but weirdly comforting) about LLMs vs human brains",
@@ -36,16 +36,16 @@
         "published": "2026-03-26T14:27:39+00:00"
     },
     {
-        "title": "25 years. Multiple specialists. Zero answers. One Claude conversation cracked it.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4570y/25_years_multiple_specialists_zero_answers_one/",
-        "image": "https://preview.redd.it/uuu1gs557crg1.jpeg?width=640&crop=smart&auto=webp&s=e52427d3db7277c9ae7a7288beb7d7f6ab273059",
-        "published": "2026-03-26T11:46:42+00:00"
-    },
-    {
         "title": "Amazon acquires Fauna Robotics, featuring a safe and soft to the touch humanoid robot that is also compliant: its limbs can be adjusted by humans between moves",
         "link": "https://www.reddit.com/r/singularity/comments/1s47wtq/amazon_acquires_fauna_robotics_featuring_a_safe/",
         "image": "https://external-preview.redd.it/NmZuYzMxYXM4ZXJnMYZv69WJVlSHcYtCifa8V0l2XHc9q3xhibVoY3pq5H2O.png?width=640&crop=smart&auto=webp&s=7473b87307c8351aa6ad8c37cc69d5492627bc62",
         "published": "2026-03-26T13:46:01+00:00"
+    },
+    {
+        "title": "25 years. Multiple specialists. Zero answers. One Claude conversation cracked it.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4570y/25_years_multiple_specialists_zero_answers_one/",
+        "image": "https://preview.redd.it/uuu1gs557crg1.jpeg?width=640&crop=smart&auto=webp&s=e52427d3db7277c9ae7a7288beb7d7f6ab273059",
+        "published": "2026-03-26T11:46:42+00:00"
     },
     {
         "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
@@ -60,16 +60,16 @@
         "published": "2026-03-26T07:42:27+00:00"
     },
     {
-        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T13:12:19+00:00"
-    },
-    {
         "title": "OpenAI puts erotic chatbot plans on hold \u2018indefinitely\u2019",
         "link": "https://www.reddit.com/r/singularity/comments/1s4bpxl/openai_puts_erotic_chatbot_plans_on_hold/",
         "image": "https://external-preview.redd.it/rrgxs3DOOZOH6hn-v3dn8_LUMoIF_31OnFEE5tr3Jvk.png?width=640&crop=smart&auto=webp&s=9d34d2d09cbc96a78366e6aa1dbbc095afe675b8",
         "published": "2026-03-26T16:06:27+00:00"
+    },
+    {
+        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T13:12:19+00:00"
     },
     {
         "title": "What ARC AGI-5 should be like (Behavior1k)",
@@ -84,9 +84,9 @@
         "published": "2026-03-26T15:17:59+00:00"
     },
     {
-        "title": "Meta AI Releases TRIBE v2 a Model Capable of Predicting Brain Responses to a Various Conditions",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4bsse/meta_ai_releases_tribe_v2_a_model_capable_of/",
+        "title": "Why is Claude preferred by lots of professionals compared to GPT?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s49iik/why_is_claude_preferred_by_lots_of_professionals/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T16:09:20+00:00"
+        "published": "2026-03-26T14:47:33+00:00"
     }
 ]
