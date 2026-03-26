@@ -1,15 +1,15 @@
 [
     {
-        "title": "Every time someone is surprised when they find out AI is just a pattern identifier",
-        "link": "https://www.reddit.com/r/singularity/comments/1s31t9h/every_time_someone_is_surprised_when_they_find/",
-        "image": "https://preview.redd.it/0t9gyxs3l4rg1.jpeg?width=640&crop=smart&auto=webp&s=421725c2672f2c7493c387b3e10293cbab6a0a0a",
-        "published": "2026-03-25T05:16:14+00:00"
-    },
-    {
         "title": "ARC AGI 3 is up! Just dropped minutes ago",
         "link": "https://www.reddit.com/r/singularity/comments/1s3gq6b/arc_agi_3_is_up_just_dropped_minutes_ago/",
         "image": "https://preview.redd.it/u98y2hz648rg1.png?width=640&crop=smart&auto=webp&s=27287042740cb1a257fe2f33e1f07f011112ba87",
         "published": "2026-03-25T17:08:43+00:00"
+    },
+    {
+        "title": "Every time someone is surprised when they find out AI is just a pattern identifier",
+        "link": "https://www.reddit.com/r/singularity/comments/1s31t9h/every_time_someone_is_surprised_when_they_find/",
+        "image": "https://preview.redd.it/0t9gyxs3l4rg1.jpeg?width=640&crop=smart&auto=webp&s=421725c2672f2c7493c387b3e10293cbab6a0a0a",
+        "published": "2026-03-25T05:16:14+00:00"
     },
     {
         "title": "Figure's Humanoid Robot Walks into the White House to give a Presentation!",
@@ -30,16 +30,16 @@
         "published": "2026-03-25T12:13:29+00:00"
     },
     {
+        "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
+        "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
+        "published": "2026-03-25T22:20:19+00:00"
+    },
+    {
         "title": "SWE is past the elbow of the exponential kickoff. I watched it happen in real time. Other fields are next.",
         "link": "https://www.reddit.com/r/singularity/comments/1s3bshh/swe_is_past_the_elbow_of_the_exponential_kickoff/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T14:08:27+00:00"
-    },
-    {
-        "title": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports",
-        "link": "https://www.reddit.com/r/singularity/comments/1s35jec/china_bars_manus_cofounders_from_leaving_country/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-25T09:03:07+00:00"
     },
     {
         "title": "Are AI girlfriend sites starting to change how people approach dating?",
@@ -48,16 +48,10 @@
         "published": "2026-03-25T19:55:09+00:00"
     },
     {
-        "title": "Google: Building superconducting and neutral atom quantum computers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
-        "image": "https://external-preview.redd.it/JIjFbr38_VQL1_wvbDeHWS1RHmuVqFkdYEM0zEvyXdk.png?width=640&crop=smart&auto=webp&s=69f3032b491e3c14173d25b07c2705280323f2bc",
-        "published": "2026-03-25T06:28:41+00:00"
-    },
-    {
-        "title": "Human vs. AI performance on ARC-AGI 3 as a function of number of actions (from the ARC-AGI website)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s3pbl6/human_vs_ai_performance_on_arcagi_3_as_a_function/",
-        "image": "https://preview.redd.it/qq9huqatn9rg1.png?width=640&crop=smart&auto=webp&s=714b530e285ec3f7f3622af8c3f19621008d342e",
-        "published": "2026-03-25T22:20:19+00:00"
+        "title": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports",
+        "link": "https://www.reddit.com/r/singularity/comments/1s35jec/china_bars_manus_cofounders_from_leaving_country/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-25T09:03:07+00:00"
     },
     {
         "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
@@ -70,6 +64,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-25T18:11:05+00:00"
+    },
+    {
+        "title": "Google: Building superconducting and neutral atom quantum computers",
+        "link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
+        "image": "https://external-preview.redd.it/JIjFbr38_VQL1_wvbDeHWS1RHmuVqFkdYEM0zEvyXdk.png?width=640&crop=smart&auto=webp&s=69f3032b491e3c14173d25b07c2705280323f2bc",
+        "published": "2026-03-25T06:28:41+00:00"
     },
     {
         "title": "Google's antigravity significantly nerfed limits who paying Ultra tier 250$ per month!",
