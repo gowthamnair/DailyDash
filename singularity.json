@@ -6,16 +6,16 @@
         "published": "2026-03-27T03:31:17+00:00"
     },
     {
-        "title": "Palantir\u2019s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers \u2014 \"or you\u2019re neurodivergent\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s48zmk/palantirs_billionaire_ceo_says_only_two_kinds_of/",
-        "image": "https://external-preview.redd.it/v4oIS_mONGx31PWIN4E68-3lYGYAx05L1XFRUV96mr8.png?width=640&crop=smart&auto=webp&s=a466bb434e856b6c294eec6324b4a71617c1a8e6",
-        "published": "2026-03-26T14:27:39+00:00"
-    },
-    {
         "title": "Federal Judge halts Anthropic supply chain risk designation",
         "link": "https://www.reddit.com/r/singularity/comments/1s4obk6/federal_judge_halts_anthropic_supply_chain_risk/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-27T00:00:10+00:00"
+    },
+    {
+        "title": "AGI has arrived",
+        "link": "https://www.reddit.com/r/singularity/comments/1s55gs2/agi_has_arrived/",
+        "image": "https://external-preview.redd.it/ejI1Y3cxeDBrbHJnMb2FOSkJxCaAq1INcD_4i16FIKWwCG8QsaoGe237KfIO.png?width=640&crop=smart&auto=webp&s=4e62af62b07946d07a7c46ce2dc71baa15b75306",
+        "published": "2026-03-27T14:20:49+00:00"
     },
     {
         "title": "Claude reducing token limits on all tiers during busy hours",
@@ -24,16 +24,16 @@
         "published": "2026-03-27T02:14:57+00:00"
     },
     {
-        "title": "OpenAI puts erotic chatbot plans on hold \u2018indefinitely\u2019",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4bpxl/openai_puts_erotic_chatbot_plans_on_hold/",
-        "image": "https://external-preview.redd.it/rrgxs3DOOZOH6hn-v3dn8_LUMoIF_31OnFEE5tr3Jvk.png?width=640&crop=smart&auto=webp&s=9d34d2d09cbc96a78366e6aa1dbbc095afe675b8",
-        "published": "2026-03-26T16:06:27+00:00"
-    },
-    {
         "title": "Fortune reports Anthropic testing a new model that is a \u201cstep change\u201d and \u201cposes unprecedented cybersecurity risks\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1s4tz0m/fortune_reports_anthropic_testing_a_new_model/",
         "image": "https://preview.redd.it/sqpe969sjirg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=20dfff9387612cf854f06bd612d51a88d4adef06",
         "published": "2026-03-27T04:13:46+00:00"
+    },
+    {
+        "title": "OpenAI puts erotic chatbot plans on hold \u2018indefinitely\u2019",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4bpxl/openai_puts_erotic_chatbot_plans_on_hold/",
+        "image": "https://external-preview.redd.it/rrgxs3DOOZOH6hn-v3dn8_LUMoIF_31OnFEE5tr3Jvk.png?width=640&crop=smart&auto=webp&s=9d34d2d09cbc96a78366e6aa1dbbc095afe675b8",
+        "published": "2026-03-26T16:06:27+00:00"
     },
     {
         "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
@@ -54,12 +54,6 @@
         "published": "2026-03-27T04:03:51+00:00"
     },
     {
-        "title": "AI Video traffic before Sora announced the shutdown!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4ad54/ai_video_traffic_before_sora_announced_the/",
-        "image": "https://preview.redd.it/o3ucn0jbperg1.png?width=640&crop=smart&auto=webp&s=4504fd7c0fb60fc2ffb868d6c71ef4fcca3fa7c6",
-        "published": "2026-03-26T15:17:59+00:00"
-    },
-    {
         "title": "Anthropic should rethink this",
         "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
         "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
@@ -78,15 +72,21 @@
         "published": "2026-03-26T21:30:53+00:00"
     },
     {
-        "title": "Why is Claude preferred by lots of professionals compared to GPT?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s49iik/why_is_claude_preferred_by_lots_of_professionals/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T14:47:33+00:00"
-    },
-    {
         "title": "By What Year will AGI Arrive - Poll",
         "link": "https://www.reddit.com/r/singularity/comments/1s4kfhl/by_what_year_will_agi_arrive_poll/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T21:26:24+00:00"
+    },
+    {
+        "title": "Unitree Open\u2011Source: High\u2011Quality Real\u2011Robot Dataset for Humanoid Robots",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4y5dx/unitree_opensource_highquality_realrobot_dataset/",
+        "image": "https://external-preview.redd.it/aXF1cDRuMDJyanJnMaDb8UAdsPXEciWwBWCR-cGlxzymzRQ1yROHhBfsjI1V.png?width=640&crop=smart&auto=webp&s=c18a0211a8a1c88a168f6728b22252ee95a9324f",
+        "published": "2026-03-27T08:17:23+00:00"
+    },
+    {
+        "title": "Meta AI Releases TRIBE v2 a Model Capable of Predicting Brain Responses to a Various Conditions",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4bsse/meta_ai_releases_tribe_v2_a_model_capable_of/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T16:09:20+00:00"
     }
 ]
