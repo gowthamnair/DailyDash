@@ -1,21 +1,9 @@
 [
     {
-        "title": "Incoming utopia for the rich, and a crisis for the rest of us? Do you agree or disagree with this take?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s44hud/incoming_utopia_for_the_rich_and_a_crisis_for_the/",
-        "image": "https://external-preview.redd.it/B8iDB-WaT2bjGYWwCe2DQeoXnNLtm-OgSL6WoHq7UEQ.png?width=640&crop=smart&auto=webp&s=9d4cb1d6cc09f82b7757debdeaf53fbe09c0fc48",
-        "published": "2026-03-26T11:10:17+00:00"
-    },
-    {
         "title": "Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' | Fortune",
         "link": "https://www.reddit.com/r/singularity/comments/1s4t3k7/anthropic_is_testing_mythos_its_most_powerful_ai/",
         "image": "https://external-preview.redd.it/yp0nX-DSLwmIooqu5wTrJzphggJyc-FYuGKJPEv6Iqk.jpeg?width=640&crop=smart&auto=webp&s=9ae6d7292511f9063ea13f166158e4101f042645",
         "published": "2026-03-27T03:31:17+00:00"
-    },
-    {
-        "title": "Reflex robotics places their humanoid robot into a pizzeria, other places",
-        "link": "https://www.reddit.com/r/singularity/comments/1s440z7/reflex_robotics_places_their_humanoid_robot_into/",
-        "image": "https://external-preview.redd.it/dzhkMGtoaDNjZHJnMQ6HoisLD11WLbxdK58_90YxvPUa0jGpF0zJRfqlyFXf.png?width=320&crop=smart&auto=webp&s=edcc9871d5cce05dea2078874c69fb8db75b79f7",
-        "published": "2026-03-26T10:45:26+00:00"
     },
     {
         "title": "Palantir\u2019s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers \u2014 \"or you\u2019re neurodivergent\"",
@@ -84,9 +72,21 @@
         "published": "2026-03-26T15:17:59+00:00"
     },
     {
+        "title": "ARC-AGI 3 Paper alleges that Gemini 3 (and other frontier models) intentionally or not \u201ccheated\u201d their ARC-AGI 1 and 2 scores through memorisation of similar benchmark tasks during training",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4trph/arcagi_3_paper_alleges_that_gemini_3_and_other/",
+        "image": "https://preview.redd.it/fkv1oai0iirg1.jpeg?width=640&crop=smart&auto=webp&s=c30e89bd6d51104aaab136958546b7b2a2d54035",
+        "published": "2026-03-27T04:03:51+00:00"
+    },
+    {
         "title": "1 million tokens per second from a single cluster, what that actually means",
         "link": "https://www.reddit.com/r/singularity/comments/1s4ht5p/1_million_tokens_per_second_from_a_single_cluster/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T19:47:53+00:00"
+    },
+    {
+        "title": "Why is Claude preferred by lots of professionals compared to GPT?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s49iik/why_is_claude_preferred_by_lots_of_professionals/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T14:47:33+00:00"
     }
 ]
