@@ -18,12 +18,6 @@
         "published": "2026-03-27T00:00:10+00:00"
     },
     {
-        "title": "25 years. Multiple specialists. Zero answers. One Claude conversation cracked it.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4570y/25_years_multiple_specialists_zero_answers_one/",
-        "image": "https://preview.redd.it/uuu1gs557crg1.jpeg?width=640&crop=smart&auto=webp&s=e52427d3db7277c9ae7a7288beb7d7f6ab273059",
-        "published": "2026-03-26T11:46:42+00:00"
-    },
-    {
         "title": "Amazon acquires Fauna Robotics, featuring a safe and soft to the touch humanoid robot that is also compliant: its limbs can be adjusted by humans between moves",
         "link": "https://www.reddit.com/r/singularity/comments/1s47wtq/amazon_acquires_fauna_robotics_featuring_a_safe/",
         "image": "https://external-preview.redd.it/NmZuYzMxYXM4ZXJnMYZv69WJVlSHcYtCifa8V0l2XHc9q3xhibVoY3pq5H2O.png?width=640&crop=smart&auto=webp&s=7473b87307c8351aa6ad8c37cc69d5492627bc62",
@@ -48,16 +42,16 @@
         "published": "2026-03-27T00:21:35+00:00"
     },
     {
-        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T13:12:19+00:00"
-    },
-    {
         "title": "Fortune reports Anthropic testing a new model that is a \u201cstep change\u201d and \u201cposes unprecedented cybersecurity risks\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1s4tz0m/fortune_reports_anthropic_testing_a_new_model/",
         "image": "https://preview.redd.it/sqpe969sjirg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=20dfff9387612cf854f06bd612d51a88d4adef06",
         "published": "2026-03-27T04:13:46+00:00"
+    },
+    {
+        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T13:12:19+00:00"
     },
     {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
@@ -66,16 +60,16 @@
         "published": "2026-03-26T19:13:44+00:00"
     },
     {
-        "title": "AI Video traffic before Sora announced the shutdown!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4ad54/ai_video_traffic_before_sora_announced_the/",
-        "image": "https://preview.redd.it/o3ucn0jbperg1.png?width=640&crop=smart&auto=webp&s=4504fd7c0fb60fc2ffb868d6c71ef4fcca3fa7c6",
-        "published": "2026-03-26T15:17:59+00:00"
-    },
-    {
         "title": "ARC-AGI 3 Paper alleges that Gemini 3 (and other frontier models) intentionally or not \u201ccheated\u201d their ARC-AGI 1 and 2 scores through memorisation of similar benchmark tasks during training",
         "link": "https://www.reddit.com/r/singularity/comments/1s4trph/arcagi_3_paper_alleges_that_gemini_3_and_other/",
         "image": "https://preview.redd.it/fkv1oai0iirg1.jpeg?width=640&crop=smart&auto=webp&s=c30e89bd6d51104aaab136958546b7b2a2d54035",
         "published": "2026-03-27T04:03:51+00:00"
+    },
+    {
+        "title": "AI Video traffic before Sora announced the shutdown!",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4ad54/ai_video_traffic_before_sora_announced_the/",
+        "image": "https://preview.redd.it/o3ucn0jbperg1.png?width=640&crop=smart&auto=webp&s=4504fd7c0fb60fc2ffb868d6c71ef4fcca3fa7c6",
+        "published": "2026-03-26T15:17:59+00:00"
     },
     {
         "title": "1 million tokens per second from a single cluster, what that actually means",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s49iik/why_is_claude_preferred_by_lots_of_professionals/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T14:47:33+00:00"
+    },
+    {
+        "title": "OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3 | AIExplained",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4kjoq/openai_spud_a_claude_model_set_to_stir/",
+        "image": "https://external-preview.redd.it/H7I-kOKgNMSh0U1m0gis9e3UFUuJ-UsLx_ztJmBFJUw.jpeg?width=320&crop=smart&auto=webp&s=5e773f4c3e96b8f615a06b93623b4c2fc2afa8b8",
+        "published": "2026-03-26T21:30:53+00:00"
     }
 ]
