@@ -42,16 +42,16 @@
         "published": "2026-03-27T15:12:21+00:00"
     },
     {
-        "title": "Anthropic should rethink this",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
-        "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
-        "published": "2026-03-27T08:27:58+00:00"
-    },
-    {
         "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database",
         "link": "https://www.reddit.com/r/singularity/comments/1s57lqa/exclusive_anthropic_left_details_of_an_unreleased/",
         "image": "https://external-preview.redd.it/szPMZxx1G9uUQxYibmvbKILxvW9MtXlUoxNrJ9teMb8.jpeg?width=640&crop=smart&auto=webp&s=9a369237478ad796881fdda5f7c5d39b1a7afbd9",
         "published": "2026-03-27T15:37:51+00:00"
+    },
+    {
+        "title": "Anthropic should rethink this",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
+        "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
+        "published": "2026-03-27T08:27:58+00:00"
     },
     {
         "title": "ARC-AGI 3 Paper alleges that Gemini 3 (and other frontier models) intentionally or not \u201ccheated\u201d their ARC-AGI 1 and 2 scores through memorisation of similar benchmark tasks during training",
