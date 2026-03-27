@@ -18,16 +18,16 @@
         "published": "2026-03-26T10:45:26+00:00"
     },
     {
-        "title": "Palantir\u2019s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers \u2014 \"or you\u2019re neurodivergent\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s48zmk/palantirs_billionaire_ceo_says_only_two_kinds_of/",
-        "image": "https://external-preview.redd.it/v4oIS_mONGx31PWIN4E68-3lYGYAx05L1XFRUV96mr8.png?width=640&crop=smart&auto=webp&s=a466bb434e856b6c294eec6324b4a71617c1a8e6",
-        "published": "2026-03-26T14:27:39+00:00"
-    },
-    {
         "title": "Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' | Fortune",
         "link": "https://www.reddit.com/r/singularity/comments/1s4t3k7/anthropic_is_testing_mythos_its_most_powerful_ai/",
         "image": "https://external-preview.redd.it/yp0nX-DSLwmIooqu5wTrJzphggJyc-FYuGKJPEv6Iqk.jpeg?width=640&crop=smart&auto=webp&s=9ae6d7292511f9063ea13f166158e4101f042645",
         "published": "2026-03-27T03:31:17+00:00"
+    },
+    {
+        "title": "Palantir\u2019s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers \u2014 \"or you\u2019re neurodivergent\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s48zmk/palantirs_billionaire_ceo_says_only_two_kinds_of/",
+        "image": "https://external-preview.redd.it/v4oIS_mONGx31PWIN4E68-3lYGYAx05L1XFRUV96mr8.png?width=640&crop=smart&auto=webp&s=a466bb434e856b6c294eec6324b4a71617c1a8e6",
+        "published": "2026-03-26T14:27:39+00:00"
     },
     {
         "title": "Federal Judge halts Anthropic supply chain risk designation",
@@ -54,22 +54,16 @@
         "published": "2026-03-26T16:06:27+00:00"
     },
     {
-        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T13:12:19+00:00"
-    },
-    {
-        "title": "People pissed about arc agi 3 are really looking at the purpose of the benchmark wrong",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4115m/people_pissed_about_arc_agi_3_are_really_looking/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T07:42:27+00:00"
-    },
-    {
         "title": "Claude reducing token limits on all tiers during busy hours",
         "link": "https://www.reddit.com/r/singularity/comments/1s4rfd1/claude_reducing_token_limits_on_all_tiers_during/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-27T02:14:57+00:00"
+    },
+    {
+        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T13:12:19+00:00"
     },
     {
         "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s4ad54/ai_video_traffic_before_sora_announced_the/",
         "image": "https://preview.redd.it/o3ucn0jbperg1.png?width=640&crop=smart&auto=webp&s=4504fd7c0fb60fc2ffb868d6c71ef4fcca3fa7c6",
         "published": "2026-03-26T15:17:59+00:00"
+    },
+    {
+        "title": "What ARC AGI-5 should be like (Behavior1k)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s42vyu/what_arc_agi5_should_be_like_behavior1k/",
+        "image": "https://external-preview.redd.it/eGVrbXhiY3gwZHJnMYAozeqVWxtfTte4yuZM4HWZ4Cwoj2azKjwCL98-MCqH.png?width=640&crop=smart&auto=webp&s=1be892cec7fea3dd0cfbf14eb650ac55cec55867",
+        "published": "2026-03-26T09:40:21+00:00"
     }
 ]
