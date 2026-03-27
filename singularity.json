@@ -18,12 +18,6 @@
         "published": "2026-03-27T00:00:10+00:00"
     },
     {
-        "title": "Amazon acquires Fauna Robotics, featuring a safe and soft to the touch humanoid robot that is also compliant: its limbs can be adjusted by humans between moves",
-        "link": "https://www.reddit.com/r/singularity/comments/1s47wtq/amazon_acquires_fauna_robotics_featuring_a_safe/",
-        "image": "https://external-preview.redd.it/NmZuYzMxYXM4ZXJnMYZv69WJVlSHcYtCifa8V0l2XHc9q3xhibVoY3pq5H2O.png?width=640&crop=smart&auto=webp&s=7473b87307c8351aa6ad8c37cc69d5492627bc62",
-        "published": "2026-03-26T13:46:01+00:00"
-    },
-    {
         "title": "Claude reducing token limits on all tiers during busy hours",
         "link": "https://www.reddit.com/r/singularity/comments/1s4rfd1/claude_reducing_token_limits_on_all_tiers_during/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -36,22 +30,16 @@
         "published": "2026-03-26T16:06:27+00:00"
     },
     {
-        "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4ouct/from_0_to_36_on_day_1_of_arcagi3/",
-        "image": "https://external-preview.redd.it/ky2E9t0_m9lHOzS3pbXhjnKPbA7JqZrAnWmrNGw3slk.png?width=640&crop=smart&auto=webp&s=78aa40ed1806e3e792cb8e65643662056d65961a",
-        "published": "2026-03-27T00:21:35+00:00"
-    },
-    {
         "title": "Fortune reports Anthropic testing a new model that is a \u201cstep change\u201d and \u201cposes unprecedented cybersecurity risks\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1s4tz0m/fortune_reports_anthropic_testing_a_new_model/",
         "image": "https://preview.redd.it/sqpe969sjirg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=20dfff9387612cf854f06bd612d51a88d4adef06",
         "published": "2026-03-27T04:13:46+00:00"
     },
     {
-        "title": "A post-transformer architecture just crushed LLMs on Sudoku Extreme. Is the transformer hitting a reasoning wall nobody wants to talk about?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s473es/a_posttransformer_architecture_just_crushed_llms/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-26T13:12:19+00:00"
+        "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4ouct/from_0_to_36_on_day_1_of_arcagi3/",
+        "image": "https://external-preview.redd.it/ky2E9t0_m9lHOzS3pbXhjnKPbA7JqZrAnWmrNGw3slk.png?width=640&crop=smart&auto=webp&s=78aa40ed1806e3e792cb8e65643662056d65961a",
+        "published": "2026-03-27T00:21:35+00:00"
     },
     {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
@@ -72,10 +60,22 @@
         "published": "2026-03-26T15:17:59+00:00"
     },
     {
+        "title": "Anthropic should rethink this",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
+        "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
+        "published": "2026-03-27T08:27:58+00:00"
+    },
+    {
         "title": "1 million tokens per second from a single cluster, what that actually means",
         "link": "https://www.reddit.com/r/singularity/comments/1s4ht5p/1_million_tokens_per_second_from_a_single_cluster/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-26T19:47:53+00:00"
+    },
+    {
+        "title": "OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3 | AIExplained",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4kjoq/openai_spud_a_claude_model_set_to_stir/",
+        "image": "https://external-preview.redd.it/H7I-kOKgNMSh0U1m0gis9e3UFUuJ-UsLx_ztJmBFJUw.jpeg?width=320&crop=smart&auto=webp&s=5e773f4c3e96b8f615a06b93623b4c2fc2afa8b8",
+        "published": "2026-03-26T21:30:53+00:00"
     },
     {
         "title": "Why is Claude preferred by lots of professionals compared to GPT?",
@@ -84,9 +84,9 @@
         "published": "2026-03-26T14:47:33+00:00"
     },
     {
-        "title": "OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3 | AIExplained",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4kjoq/openai_spud_a_claude_model_set_to_stir/",
-        "image": "https://external-preview.redd.it/H7I-kOKgNMSh0U1m0gis9e3UFUuJ-UsLx_ztJmBFJUw.jpeg?width=320&crop=smart&auto=webp&s=5e773f4c3e96b8f615a06b93623b4c2fc2afa8b8",
-        "published": "2026-03-26T21:30:53+00:00"
+        "title": "By What Year will AGI Arrive - Poll",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4kfhl/by_what_year_will_agi_arrive_poll/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-26T21:26:24+00:00"
     }
 ]
