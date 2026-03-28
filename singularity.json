@@ -18,16 +18,16 @@
         "published": "2026-03-27T15:12:21+00:00"
     },
     {
-        "title": "Any Updates on this deleted tweet from Logan Kilpatrick?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5fi9g/any_updates_on_this_deleted_tweet_from_logan/",
-        "image": "https://preview.redd.it/uvynxk7fcnrg1.png?width=640&crop=smart&auto=webp&s=41c1414b82844a21ae74a8f90f3c3a76b1acee7f",
-        "published": "2026-03-27T20:22:19+00:00"
-    },
-    {
         "title": "Webmasters today, left: input, right: output (Google Stitch)",
         "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
         "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
         "published": "2026-03-27T21:26:46+00:00"
+    },
+    {
+        "title": "Any Updates on this deleted tweet from Logan Kilpatrick?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5fi9g/any_updates_on_this_deleted_tweet_from_logan/",
+        "image": "https://preview.redd.it/uvynxk7fcnrg1.png?width=640&crop=smart&auto=webp&s=41c1414b82844a21ae74a8f90f3c3a76b1acee7f",
+        "published": "2026-03-27T20:22:19+00:00"
     },
     {
         "title": "DeepMind\u2019s New AI Just Changed Science Forever",
@@ -46,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/",
         "image": "https://preview.redd.it/nznzk1jdbmrg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04",
         "published": "2026-03-27T16:57:23+00:00"
-    },
-    {
-        "title": "Gemini 3.1 Flash Live: Real time multimodality available in the API and powering Search Live",
-        "link": "https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/",
-        "image": "https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&crop=smart&auto=webp&s=0d807c31f37199cae13902e5f84c73391b5f863b",
-        "published": "2026-03-27T10:51:48+00:00"
     },
     {
         "title": "Instead of giving harnesses for AI models to play arc agi 3, why don't we let it create and decide which harnesses to use for itself?",
@@ -76,6 +70,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s5qm50/are_there_full_ai_youtube_video_editors_now/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T04:23:29+00:00"
+    },
+    {
+        "title": "open source tool that auto configures Claude Code, Cursor, opencode and mcp in one command just hit 100 stars",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5wfgl/open_source_tool_that_auto_configures_claude_code/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T10:06:23+00:00"
     },
     {
         "title": "AGI-induced Comm-unism is coming.",
