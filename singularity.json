@@ -1,15 +1,15 @@
 [
     {
-        "title": "Webmasters today, left: input, right: output (Google Stitch)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
-        "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
-        "published": "2026-03-27T21:26:46+00:00"
-    },
-    {
         "title": "Claude can control your computer now, openclaw and zenmux updated same day",
         "link": "https://www.reddit.com/r/singularity/comments/1s62oms/claude_can_control_your_computer_now_openclaw_and/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T15:02:20+00:00"
+    },
+    {
+        "title": "Taalas rumoured to etch Qwen 3.5 27B into silicon. Which price would you buy their PCIe card for?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6bs6r/taalas_rumoured_to_etch_qwen_35_27b_into_silicon/",
+        "image": "https://preview.redd.it/rvumwwfdmurg1.png?width=320&crop=smart&auto=webp&s=138f56cc4a9cbd2299c079a7d87b37c019ccaf69",
+        "published": "2026-03-28T20:56:15+00:00"
     },
     {
         "title": "Performance of LLMs in USAMO 2025 vs 2026",
@@ -34,5 +34,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s622vd/every_ai_assistant_built_is_reactive_by_design_it/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T14:38:34+00:00"
+    },
+    {
+        "title": "Feeling like I need AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6bwsi/feeling_like_i_need_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T21:01:21+00:00"
+    },
+    {
+        "title": "The SPORE Threshold",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6ckhs/the_spore_threshold/",
+        "image": "https://external-preview.redd.it/edS3RWrzX9JEnCHagz4E7jXOfYtLudnsviKv7yMEOZo.jpeg?width=640&crop=smart&auto=webp&s=d31fdb1e870a863c15e4e474ed722ae809eb49d9",
+        "published": "2026-03-28T21:28:23+00:00"
     }
 ]
