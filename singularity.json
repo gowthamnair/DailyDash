@@ -30,12 +30,6 @@
         "published": "2026-03-27T21:26:46+00:00"
     },
     {
-        "title": "Anthropic should rethink this",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
-        "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
-        "published": "2026-03-27T08:27:58+00:00"
-    },
-    {
         "title": "DeepMind\u2019s New AI Just Changed Science Forever",
         "link": "https://www.reddit.com/r/singularity/comments/1s5a0h1/deepminds_new_ai_just_changed_science_forever/",
         "image": "https://external-preview.redd.it/aFpuhVyghURJtSF2H2wtGANQf-xHNl8zTYbUpZ0NHYE.jpeg?width=320&crop=smart&auto=webp&s=1d4239323a37318cd6edeadddd5629cc4a6d4137",
@@ -48,22 +42,16 @@
         "published": "2026-03-27T16:57:23+00:00"
     },
     {
-        "title": "Gemini 3.1 Flash Live: Real time multimodality available in the API and powering Search Live",
-        "link": "https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/",
-        "image": "https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&crop=smart&auto=webp&s=0d807c31f37199cae13902e5f84c73391b5f863b",
-        "published": "2026-03-27T10:51:48+00:00"
-    },
-    {
-        "title": "Unitree Open\u2011Source: High\u2011Quality Real\u2011Robot Dataset for Humanoid Robots",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4y5dx/unitree_opensource_highquality_realrobot_dataset/",
-        "image": "https://external-preview.redd.it/aXF1cDRuMDJyanJnMaDb8UAdsPXEciWwBWCR-cGlxzymzRQ1yROHhBfsjI1V.png?width=640&crop=smart&auto=webp&s=c18a0211a8a1c88a168f6728b22252ee95a9324f",
-        "published": "2026-03-27T08:17:23+00:00"
-    },
-    {
         "title": "EU votes to ban AI 'nudifier' apps after explicit deepfake outrage",
         "link": "https://www.reddit.com/r/singularity/comments/1s5jpq7/eu_votes_to_ban_ai_nudifier_apps_after_explicit/",
         "image": "https://external-preview.redd.it/fn8XMCL7T1hgREmK_qHQAXcflK-56gwr2skJLZHI-e4.jpeg?width=640&crop=smart&auto=webp&s=b4cfc7bda70369ad36486ca981e6278c1837b8dc",
         "published": "2026-03-27T23:06:01+00:00"
+    },
+    {
+        "title": "Gemini 3.1 Flash Live: Real time multimodality available in the API and powering Search Live",
+        "link": "https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/",
+        "image": "https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&crop=smart&auto=webp&s=0d807c31f37199cae13902e5f84c73391b5f863b",
+        "published": "2026-03-27T10:51:48+00:00"
     },
     {
         "title": "This was the first song ever sung by a computer (1961)",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s5jk6z/seedance_20_finally_available_in_europe_canada/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-27T22:59:51+00:00"
+    },
+    {
+        "title": "Xiaomi's New CyberOne is so human-like",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5f562/xiaomis_new_cyberone_is_so_humanlike/",
+        "image": "https://external-preview.redd.it/eGd1NXUxOTZhbnJnMZIyjgy9G2NAUf1kUR019yFGmUCRx9Fl8mYbq2oHG14Z.png?width=640&crop=smart&auto=webp&s=69813df84a90b3ced4b3d690415401fe04fa7383",
+        "published": "2026-03-27T20:08:51+00:00"
+    },
+    {
+        "title": "Are there full AI YouTube video editors now?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5qm50/are_there_full_ai_youtube_video_editors_now/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T04:23:29+00:00"
     }
 ]
