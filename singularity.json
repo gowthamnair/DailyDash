@@ -6,12 +6,6 @@
         "published": "2026-03-27T14:20:49+00:00"
     },
     {
-        "title": "Fortune reports Anthropic testing a new model that is a \u201cstep change\u201d and \u201cposes unprecedented cybersecurity risks\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4tz0m/fortune_reports_anthropic_testing_a_new_model/",
-        "image": "https://preview.redd.it/sqpe969sjirg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=20dfff9387612cf854f06bd612d51a88d4adef06",
-        "published": "2026-03-27T04:13:46+00:00"
-    },
-    {
         "title": "AI and bots have officially taken over the internet, report finds",
         "link": "https://www.reddit.com/r/singularity/comments/1s56w8x/ai_and_bots_have_officially_taken_over_the/",
         "image": "https://external-preview.redd.it/P7Db5FHUb6GIzK53SzZz0Vvoqszhrh7UM1WACLiszw4.jpeg?width=640&crop=smart&auto=webp&s=825179cf89379a42c1a6808c6f0dae8b56eafbbf",
@@ -54,16 +48,16 @@
         "published": "2026-03-27T16:57:23+00:00"
     },
     {
-        "title": "Unitree Open\u2011Source: High\u2011Quality Real\u2011Robot Dataset for Humanoid Robots",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4y5dx/unitree_opensource_highquality_realrobot_dataset/",
-        "image": "https://external-preview.redd.it/aXF1cDRuMDJyanJnMaDb8UAdsPXEciWwBWCR-cGlxzymzRQ1yROHhBfsjI1V.png?width=640&crop=smart&auto=webp&s=c18a0211a8a1c88a168f6728b22252ee95a9324f",
-        "published": "2026-03-27T08:17:23+00:00"
-    },
-    {
         "title": "Gemini 3.1 Flash Live: Real time multimodality available in the API and powering Search Live",
         "link": "https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/",
         "image": "https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&crop=smart&auto=webp&s=0d807c31f37199cae13902e5f84c73391b5f863b",
         "published": "2026-03-27T10:51:48+00:00"
+    },
+    {
+        "title": "Unitree Open\u2011Source: High\u2011Quality Real\u2011Robot Dataset for Humanoid Robots",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4y5dx/unitree_opensource_highquality_realrobot_dataset/",
+        "image": "https://external-preview.redd.it/aXF1cDRuMDJyanJnMaDb8UAdsPXEciWwBWCR-cGlxzymzRQ1yROHhBfsjI1V.png?width=640&crop=smart&auto=webp&s=c18a0211a8a1c88a168f6728b22252ee95a9324f",
+        "published": "2026-03-27T08:17:23+00:00"
     },
     {
         "title": "EU votes to ban AI 'nudifier' apps after explicit deepfake outrage",
@@ -72,10 +66,10 @@
         "published": "2026-03-27T23:06:01+00:00"
     },
     {
-        "title": "Live AI video generation feels like it's about to become a completely different thing from what most people think it is",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4u7ym/live_ai_video_generation_feels_like_its_about_to/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-27T04:26:37+00:00"
+        "title": "This was the first song ever sung by a computer (1961)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5oo98/this_was_the_first_song_ever_sung_by_a_computer/",
+        "image": "https://external-preview.redd.it/vJuBrKXhP6PNPb9pDCdRXxd3CdY8RUFQRMYpYTCIzaw.png?width=640&crop=smart&auto=webp&s=4ef3eec1f981ebf89e787ead3795cea828044429",
+        "published": "2026-03-28T02:47:45+00:00"
     },
     {
         "title": "Instead of giving harnesses for AI models to play arc agi 3, why don't we let it create and decide which harnesses to use for itself?",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s59gis/npr_ai_affirms_our_own_viewpoints_and_harms/",
         "image": "https://external-preview.redd.it/o8jj975AQ-ixdLep0QMu0kwgvSdsTZHLVNo-MmIhaYY.jpeg?width=640&crop=smart&auto=webp&s=332eb0977cf384c9912d1e9c6037416c61d02b35",
         "published": "2026-03-27T16:42:54+00:00"
+    },
+    {
+        "title": "Xiaomi's New CyberOne is so human-like",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5f562/xiaomis_new_cyberone_is_so_humanlike/",
+        "image": "https://external-preview.redd.it/eGd1NXUxOTZhbnJnMZIyjgy9G2NAUf1kUR019yFGmUCRx9Fl8mYbq2oHG14Z.png?width=640&crop=smart&auto=webp&s=69813df84a90b3ced4b3d690415401fe04fa7383",
+        "published": "2026-03-27T20:08:51+00:00"
     }
 ]
