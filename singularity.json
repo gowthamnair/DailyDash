@@ -6,16 +6,16 @@
         "published": "2026-03-27T14:20:49+00:00"
     },
     {
-        "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database",
-        "link": "https://www.reddit.com/r/singularity/comments/1s57lqa/exclusive_anthropic_left_details_of_an_unreleased/",
-        "image": "https://external-preview.redd.it/szPMZxx1G9uUQxYibmvbKILxvW9MtXlUoxNrJ9teMb8.jpeg?width=640&crop=smart&auto=webp&s=9a369237478ad796881fdda5f7c5d39b1a7afbd9",
-        "published": "2026-03-27T15:37:51+00:00"
-    },
-    {
         "title": "Webmasters today, left: input, right: output (Google Stitch)",
         "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
         "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
         "published": "2026-03-27T21:26:46+00:00"
+    },
+    {
+        "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database",
+        "link": "https://www.reddit.com/r/singularity/comments/1s57lqa/exclusive_anthropic_left_details_of_an_unreleased/",
+        "image": "https://external-preview.redd.it/szPMZxx1G9uUQxYibmvbKILxvW9MtXlUoxNrJ9teMb8.jpeg?width=640&crop=smart&auto=webp&s=9a369237478ad796881fdda5f7c5d39b1a7afbd9",
+        "published": "2026-03-27T15:37:51+00:00"
     },
     {
         "title": "AI and bots have officially taken over the internet, report finds",
@@ -36,12 +36,6 @@
         "published": "2026-03-27T17:02:34+00:00"
     },
     {
-        "title": "EU votes to ban AI 'nudifier' apps after explicit deepfake outrage",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5jpq7/eu_votes_to_ban_ai_nudifier_apps_after_explicit/",
-        "image": "https://external-preview.redd.it/fn8XMCL7T1hgREmK_qHQAXcflK-56gwr2skJLZHI-e4.jpeg?width=640&crop=smart&auto=webp&s=b4cfc7bda70369ad36486ca981e6278c1837b8dc",
-        "published": "2026-03-27T23:06:01+00:00"
-    },
-    {
         "title": "New LLM Persuasion Benchmark: models try to move each other's stated positions in multi-turn conversations. GPT-5.4 (high) is the strongest persuader. Claude Opus 4.6 (high) is second. Xiaomi MiMo V2 Pro and Gemini 3.1 Pro Preview are the softest targets.",
         "link": "https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/",
         "image": "https://preview.redd.it/nznzk1jdbmrg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04",
@@ -60,33 +54,9 @@
         "published": "2026-03-27T20:08:51+00:00"
     },
     {
-        "title": "Are there full AI YouTube video editors now?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5qm50/are_there_full_ai_youtube_video_editors_now/",
+        "title": "People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!!\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5zj2w/people_here_keep_saying_arc_agi_3_is_soo_unfair/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T04:23:29+00:00"
-    },
-    {
-        "title": "open source tool that auto configures Claude Code, Cursor, opencode and mcp in one command just hit 100 stars",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5wfgl/open_source_tool_that_auto_configures_claude_code/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T10:06:23+00:00"
-    },
-    {
-        "title": "AGI-induced Comm-unism is coming.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5on4c/agiinduced_communism_is_coming/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T02:46:12+00:00"
-    },
-    {
-        "title": "What do you think of the HAL 9000 scene from 2001 where he's being unalived?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5rjw2/what_do_you_think_of_the_hal_9000_scene_from_2001/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T05:13:05+00:00"
-    },
-    {
-        "title": "Trade Jobs will get fully automated before screen/paper/desk jobs.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5o4xt/trade_jobs_will_get_fully_automated_before/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T02:21:38+00:00"
+        "published": "2026-03-28T12:52:14+00:00"
     }
 ]
