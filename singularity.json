@@ -30,16 +30,16 @@
         "published": "2026-03-27T08:27:58+00:00"
     },
     {
-        "title": "DeepMind\u2019s New AI Just Changed Science Forever",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5a0h1/deepminds_new_ai_just_changed_science_forever/",
-        "image": "https://external-preview.redd.it/aFpuhVyghURJtSF2H2wtGANQf-xHNl8zTYbUpZ0NHYE.jpeg?width=320&crop=smart&auto=webp&s=1d4239323a37318cd6edeadddd5629cc4a6d4137",
-        "published": "2026-03-27T17:02:34+00:00"
-    },
-    {
         "title": "Webmasters today, left: input, right: output (Google Stitch)",
         "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
         "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
         "published": "2026-03-27T21:26:46+00:00"
+    },
+    {
+        "title": "DeepMind\u2019s New AI Just Changed Science Forever",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5a0h1/deepminds_new_ai_just_changed_science_forever/",
+        "image": "https://external-preview.redd.it/aFpuhVyghURJtSF2H2wtGANQf-xHNl8zTYbUpZ0NHYE.jpeg?width=320&crop=smart&auto=webp&s=1d4239323a37318cd6edeadddd5629cc4a6d4137",
+        "published": "2026-03-27T17:02:34+00:00"
     },
     {
         "title": "New LLM Persuasion Benchmark: models try to move each other's stated positions in multi-turn conversations. GPT-5.4 (high) is the strongest persuader. Claude Opus 4.6 (high) is second. Xiaomi MiMo V2 Pro and Gemini 3.1 Pro Preview are the softest targets.",
