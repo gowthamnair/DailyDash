@@ -12,16 +12,16 @@
         "published": "2026-03-27T15:37:51+00:00"
     },
     {
-        "title": "AI and bots have officially taken over the internet, report finds",
-        "link": "https://www.reddit.com/r/singularity/comments/1s56w8x/ai_and_bots_have_officially_taken_over_the/",
-        "image": "https://external-preview.redd.it/P7Db5FHUb6GIzK53SzZz0Vvoqszhrh7UM1WACLiszw4.jpeg?width=640&crop=smart&auto=webp&s=825179cf89379a42c1a6808c6f0dae8b56eafbbf",
-        "published": "2026-03-27T15:12:21+00:00"
-    },
-    {
         "title": "Webmasters today, left: input, right: output (Google Stitch)",
         "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
         "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
         "published": "2026-03-27T21:26:46+00:00"
+    },
+    {
+        "title": "AI and bots have officially taken over the internet, report finds",
+        "link": "https://www.reddit.com/r/singularity/comments/1s56w8x/ai_and_bots_have_officially_taken_over_the/",
+        "image": "https://external-preview.redd.it/P7Db5FHUb6GIzK53SzZz0Vvoqszhrh7UM1WACLiszw4.jpeg?width=640&crop=smart&auto=webp&s=825179cf89379a42c1a6808c6f0dae8b56eafbbf",
+        "published": "2026-03-27T15:12:21+00:00"
     },
     {
         "title": "Any Updates on this deleted tweet from Logan Kilpatrick?",
@@ -46,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/",
         "image": "https://preview.redd.it/nznzk1jdbmrg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04",
         "published": "2026-03-27T16:57:23+00:00"
-    },
-    {
-        "title": "Instead of giving harnesses for AI models to play arc agi 3, why don't we let it create and decide which harnesses to use for itself?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s52ced/instead_of_giving_harnesses_for_ai_models_to_play/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-27T12:13:04+00:00"
     },
     {
         "title": "NPR: AI affirms our own viewpoints and harms willingness to resolve conflict, study finds",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s5rjw2/what_do_you_think_of_the_hal_9000_scene_from_2001/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T05:13:05+00:00"
+    },
+    {
+        "title": "Trade Jobs will get fully automated before screen/paper/desk jobs.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5o4xt/trade_jobs_will_get_fully_automated_before/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T02:21:38+00:00"
     }
 ]
