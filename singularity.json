@@ -36,28 +36,28 @@
         "published": "2026-03-27T17:02:34+00:00"
     },
     {
-        "title": "New LLM Persuasion Benchmark: models try to move each other's stated positions in multi-turn conversations. GPT-5.4 (high) is the strongest persuader. Claude Opus 4.6 (high) is second. Xiaomi MiMo V2 Pro and Gemini 3.1 Pro Preview are the softest targets.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/",
-        "image": "https://preview.redd.it/nznzk1jdbmrg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04",
-        "published": "2026-03-27T16:57:23+00:00"
-    },
-    {
         "title": "EU votes to ban AI 'nudifier' apps after explicit deepfake outrage",
         "link": "https://www.reddit.com/r/singularity/comments/1s5jpq7/eu_votes_to_ban_ai_nudifier_apps_after_explicit/",
         "image": "https://external-preview.redd.it/fn8XMCL7T1hgREmK_qHQAXcflK-56gwr2skJLZHI-e4.jpeg?width=640&crop=smart&auto=webp&s=b4cfc7bda70369ad36486ca981e6278c1837b8dc",
         "published": "2026-03-27T23:06:01+00:00"
     },
     {
-        "title": "Gemini 3.1 Flash Live: Real time multimodality available in the API and powering Search Live",
-        "link": "https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/",
-        "image": "https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&crop=smart&auto=webp&s=0d807c31f37199cae13902e5f84c73391b5f863b",
-        "published": "2026-03-27T10:51:48+00:00"
-    },
-    {
         "title": "This was the first song ever sung by a computer (1961)",
         "link": "https://www.reddit.com/r/singularity/comments/1s5oo98/this_was_the_first_song_ever_sung_by_a_computer/",
         "image": "https://external-preview.redd.it/vJuBrKXhP6PNPb9pDCdRXxd3CdY8RUFQRMYpYTCIzaw.png?width=640&crop=smart&auto=webp&s=4ef3eec1f981ebf89e787ead3795cea828044429",
         "published": "2026-03-28T02:47:45+00:00"
+    },
+    {
+        "title": "New LLM Persuasion Benchmark: models try to move each other's stated positions in multi-turn conversations. GPT-5.4 (high) is the strongest persuader. Claude Opus 4.6 (high) is second. Xiaomi MiMo V2 Pro and Gemini 3.1 Pro Preview are the softest targets.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/",
+        "image": "https://preview.redd.it/nznzk1jdbmrg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04",
+        "published": "2026-03-27T16:57:23+00:00"
+    },
+    {
+        "title": "Gemini 3.1 Flash Live: Real time multimodality available in the API and powering Search Live",
+        "link": "https://www.reddit.com/r/singularity/comments/1s50q0g/gemini_31_flash_live_real_time_multimodality/",
+        "image": "https://external-preview.redd.it/bHVzaWpwN29pa3JnMTRYdIQeOpHy2QopPNIb2YbaAnnaCwXCFNuPqxinT_PQ.png?width=640&crop=smart&auto=webp&s=0d807c31f37199cae13902e5f84c73391b5f863b",
+        "published": "2026-03-27T10:51:48+00:00"
     },
     {
         "title": "Instead of giving harnesses for AI models to play arc agi 3, why don't we let it create and decide which harnesses to use for itself?",
