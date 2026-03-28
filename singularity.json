@@ -42,12 +42,6 @@
         "published": "2026-03-27T23:06:01+00:00"
     },
     {
-        "title": "This was the first song ever sung by a computer (1961)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5oo98/this_was_the_first_song_ever_sung_by_a_computer/",
-        "image": "https://external-preview.redd.it/vJuBrKXhP6PNPb9pDCdRXxd3CdY8RUFQRMYpYTCIzaw.png?width=640&crop=smart&auto=webp&s=4ef3eec1f981ebf89e787ead3795cea828044429",
-        "published": "2026-03-28T02:47:45+00:00"
-    },
-    {
         "title": "New LLM Persuasion Benchmark: models try to move each other's stated positions in multi-turn conversations. GPT-5.4 (high) is the strongest persuader. Claude Opus 4.6 (high) is second. Xiaomi MiMo V2 Pro and Gemini 3.1 Pro Preview are the softest targets.",
         "link": "https://www.reddit.com/r/singularity/comments/1s59uz7/new_llm_persuasion_benchmark_models_try_to_move/",
         "image": "https://preview.redd.it/nznzk1jdbmrg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a9c58e1e0ae75c8b1197fc04628f77de2e8d9c04",
@@ -72,12 +66,6 @@
         "published": "2026-03-27T16:42:54+00:00"
     },
     {
-        "title": "Seedance 2.0 finally available in Europe, Canada, Australia, New Zealand and more",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5jk6z/seedance_20_finally_available_in_europe_canada/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-27T22:59:51+00:00"
-    },
-    {
         "title": "Xiaomi's New CyberOne is so human-like",
         "link": "https://www.reddit.com/r/singularity/comments/1s5f562/xiaomis_new_cyberone_is_so_humanlike/",
         "image": "https://external-preview.redd.it/eGd1NXUxOTZhbnJnMZIyjgy9G2NAUf1kUR019yFGmUCRx9Fl8mYbq2oHG14Z.png?width=640&crop=smart&auto=webp&s=69813df84a90b3ced4b3d690415401fe04fa7383",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s5qm50/are_there_full_ai_youtube_video_editors_now/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T04:23:29+00:00"
+    },
+    {
+        "title": "AGI-induced Comm-unism is coming.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5on4c/agiinduced_communism_is_coming/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T02:46:12+00:00"
+    },
+    {
+        "title": "What do you think of the HAL 9000 scene from 2001 where he's being unalived?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5rjw2/what_do_you_think_of_the_hal_9000_scene_from_2001/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T05:13:05+00:00"
     }
 ]
