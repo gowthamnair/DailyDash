@@ -1,21 +1,9 @@
 [
     {
-        "title": "Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' | Fortune",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4t3k7/anthropic_is_testing_mythos_its_most_powerful_ai/",
-        "image": "https://external-preview.redd.it/yp0nX-DSLwmIooqu5wTrJzphggJyc-FYuGKJPEv6Iqk.jpeg?width=640&crop=smart&auto=webp&s=9ae6d7292511f9063ea13f166158e4101f042645",
-        "published": "2026-03-27T03:31:17+00:00"
-    },
-    {
         "title": "AGI has arrived",
         "link": "https://www.reddit.com/r/singularity/comments/1s55gs2/agi_has_arrived/",
         "image": "https://external-preview.redd.it/ejI1Y3cxeDBrbHJnMb2FOSkJxCaAq1INcD_4i16FIKWwCG8QsaoGe237KfIO.png?width=640&crop=smart&auto=webp&s=4e62af62b07946d07a7c46ce2dc71baa15b75306",
         "published": "2026-03-27T14:20:49+00:00"
-    },
-    {
-        "title": "Claude reducing token limits on all tiers during busy hours",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4rfd1/claude_reducing_token_limits_on_all_tiers_during/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-27T02:14:57+00:00"
     },
     {
         "title": "Fortune reports Anthropic testing a new model that is a \u201cstep change\u201d and \u201cposes unprecedented cybersecurity risks\u201d",
@@ -36,28 +24,28 @@
         "published": "2026-03-27T15:37:51+00:00"
     },
     {
-        "title": "Anthropic should rethink this",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
-        "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
-        "published": "2026-03-27T08:27:58+00:00"
-    },
-    {
         "title": "Any Updates on this deleted tweet from Logan Kilpatrick?",
         "link": "https://www.reddit.com/r/singularity/comments/1s5fi9g/any_updates_on_this_deleted_tweet_from_logan/",
         "image": "https://preview.redd.it/uvynxk7fcnrg1.png?width=640&crop=smart&auto=webp&s=41c1414b82844a21ae74a8f90f3c3a76b1acee7f",
         "published": "2026-03-27T20:22:19+00:00"
     },
     {
-        "title": "ARC-AGI 3 Paper alleges that Gemini 3 (and other frontier models) intentionally or not \u201ccheated\u201d their ARC-AGI 1 and 2 scores through memorisation of similar benchmark tasks during training",
-        "link": "https://www.reddit.com/r/singularity/comments/1s4trph/arcagi_3_paper_alleges_that_gemini_3_and_other/",
-        "image": "https://preview.redd.it/fkv1oai0iirg1.jpeg?width=640&crop=smart&auto=webp&s=c30e89bd6d51104aaab136958546b7b2a2d54035",
-        "published": "2026-03-27T04:03:51+00:00"
+        "title": "Anthropic should rethink this",
+        "link": "https://www.reddit.com/r/singularity/comments/1s4ybg3/anthropic_should_rethink_this/",
+        "image": "https://preview.redd.it/jf3txmvysjrg1.png?width=320&crop=smart&auto=webp&s=f8c9ec558fa3d0a30acadc1d882debc520e182d1",
+        "published": "2026-03-27T08:27:58+00:00"
     },
     {
         "title": "DeepMind\u2019s New AI Just Changed Science Forever",
         "link": "https://www.reddit.com/r/singularity/comments/1s5a0h1/deepminds_new_ai_just_changed_science_forever/",
         "image": "https://external-preview.redd.it/aFpuhVyghURJtSF2H2wtGANQf-xHNl8zTYbUpZ0NHYE.jpeg?width=320&crop=smart&auto=webp&s=1d4239323a37318cd6edeadddd5629cc4a6d4137",
         "published": "2026-03-27T17:02:34+00:00"
+    },
+    {
+        "title": "Webmasters today, left: input, right: output (Google Stitch)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
+        "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
+        "published": "2026-03-27T21:26:46+00:00"
     },
     {
         "title": "New LLM Persuasion Benchmark: models try to move each other's stated positions in multi-turn conversations. GPT-5.4 (high) is the strongest persuader. Claude Opus 4.6 (high) is second. Xiaomi MiMo V2 Pro and Gemini 3.1 Pro Preview are the softest targets.",
@@ -78,15 +66,27 @@
         "published": "2026-03-27T10:51:48+00:00"
     },
     {
-        "title": "Webmasters today, left: input, right: output (Google Stitch)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
-        "image": "https://preview.redd.it/r5jt3303onrg1.jpeg?width=640&crop=smart&auto=webp&s=42d3b2546843dc14eadcf40792e4186b3eff58fe",
-        "published": "2026-03-27T21:26:46+00:00"
+        "title": "EU votes to ban AI 'nudifier' apps after explicit deepfake outrage",
+        "link": "https://www.reddit.com/r/singularity/comments/1s5jpq7/eu_votes_to_ban_ai_nudifier_apps_after_explicit/",
+        "image": "https://external-preview.redd.it/fn8XMCL7T1hgREmK_qHQAXcflK-56gwr2skJLZHI-e4.jpeg?width=640&crop=smart&auto=webp&s=b4cfc7bda70369ad36486ca981e6278c1837b8dc",
+        "published": "2026-03-27T23:06:01+00:00"
     },
     {
         "title": "Live AI video generation feels like it's about to become a completely different thing from what most people think it is",
         "link": "https://www.reddit.com/r/singularity/comments/1s4u7ym/live_ai_video_generation_feels_like_its_about_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-27T04:26:37+00:00"
+    },
+    {
+        "title": "Instead of giving harnesses for AI models to play arc agi 3, why don't we let it create and decide which harnesses to use for itself?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s52ced/instead_of_giving_harnesses_for_ai_models_to_play/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-27T12:13:04+00:00"
+    },
+    {
+        "title": "NPR: AI affirms our own viewpoints and harms willingness to resolve conflict, study finds",
+        "link": "https://www.reddit.com/r/singularity/comments/1s59gis/npr_ai_affirms_our_own_viewpoints_and_harms/",
+        "image": "https://external-preview.redd.it/o8jj975AQ-ixdLep0QMu0kwgvSdsTZHLVNo-MmIhaYY.jpeg?width=640&crop=smart&auto=webp&s=332eb0977cf384c9912d1e9c6037416c61d02b35",
+        "published": "2026-03-27T16:42:54+00:00"
     }
 ]
