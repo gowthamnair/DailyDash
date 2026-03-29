@@ -18,16 +18,16 @@
         "published": "2026-03-28T22:32:55+00:00"
     },
     {
-        "title": "Taalas rumoured to etch Qwen 3.5 27B into silicon. Which price would you buy their PCIe card for?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6bs6r/taalas_rumoured_to_etch_qwen_35_27b_into_silicon/",
-        "image": "https://preview.redd.it/rvumwwfdmurg1.png?width=320&crop=smart&auto=webp&s=138f56cc4a9cbd2299c079a7d87b37c019ccaf69",
-        "published": "2026-03-28T20:56:15+00:00"
-    },
-    {
         "title": "What even happened to deepseek",
         "link": "https://www.reddit.com/r/singularity/comments/1s6n5xf/what_even_happened_to_deepseek/",
         "image": "https://preview.redd.it/17skm8etbxrg1.jpeg?width=640&crop=smart&auto=webp&s=cf872942670be1febf7f646d9c0841aabd40a62a",
         "published": "2026-03-29T05:55:50+00:00"
+    },
+    {
+        "title": "Taalas rumoured to etch Qwen 3.5 27B into silicon. Which price would you buy their PCIe card for?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6bs6r/taalas_rumoured_to_etch_qwen_35_27b_into_silicon/",
+        "image": "https://preview.redd.it/rvumwwfdmurg1.png?width=320&crop=smart&auto=webp&s=138f56cc4a9cbd2299c079a7d87b37c019ccaf69",
+        "published": "2026-03-28T20:56:15+00:00"
     },
     {
         "title": "Is intelligence optimality bounded? Francois Chollet thinks so",
@@ -48,12 +48,6 @@
         "published": "2026-03-29T07:59:25+00:00"
     },
     {
-        "title": "Performance of LLMs in USAMO 2025 vs 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1s67s02/performance_of_llms_in_usamo_2025_vs_2026/",
-        "image": "https://preview.redd.it/i3xacmm6vtrg1.jpg?width=140&height=67&auto=webp&s=c29be055138b270b07a62056f15054b5d85e11db",
-        "published": "2026-03-28T18:17:18+00:00"
-    },
-    {
         "title": "\"nobody can stop me\"",
         "link": "https://www.reddit.com/r/singularity/comments/1s6oa7w/nobody_can_stop_me/",
         "image": "https://external-preview.redd.it/hcJ6sIhX3cTinCukyYSBQqEDkt-SiQAZIqTuWaotBvk.png?width=320&crop=smart&auto=webp&s=329c53554206a45435f922932fb691a405783d71",
@@ -64,5 +58,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s6wasr/mapping_the_flood_the_proliferation_of_ai_agents/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-29T14:18:28+00:00"
+    },
+    {
+        "title": "The loading screen says 'Clauding...' with a different cute word every time. But what's actually happening during those 6 minutes and 57 seconds?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s70yx8/the_loading_screen_says_clauding_with_a_different/",
+        "image": "https://preview.redd.it/f82bg4ifp0sg1.png?width=140&height=44&auto=webp&s=53a91c075996047539730bfd36a89ba7ff720ca0",
+        "published": "2026-03-29T17:17:42+00:00"
     }
 ]
