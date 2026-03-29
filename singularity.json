@@ -54,6 +54,12 @@
         "published": "2026-03-28T18:17:18+00:00"
     },
     {
+        "title": "Stanford Chair of Medicine: LLMs Are Superhuman Guessers",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6p6iy/stanford_chair_of_medicine_llms_are_superhuman/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T07:59:25+00:00"
+    },
+    {
         "title": "People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!!\"",
         "link": "https://www.reddit.com/r/singularity/comments/1s5zj2w/people_here_keep_saying_arc_agi_3_is_soo_unfair/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -66,12 +72,6 @@
         "published": "2026-03-28T15:34:19+00:00"
     },
     {
-        "title": "Stanford Chair of Medicine: LLMs Are Superhuman Guessers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6p6iy/stanford_chair_of_medicine_llms_are_superhuman/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-29T07:59:25+00:00"
-    },
-    {
         "title": "Every AI assistant built is reactive by design. It waits for you to notice things first. That's already the wrong model for what intelligence should do.",
         "link": "https://www.reddit.com/r/singularity/comments/1s622vd/every_ai_assistant_built_is_reactive_by_design_it/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -82,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s6oa7w/nobody_can_stop_me/",
         "image": "https://external-preview.redd.it/hcJ6sIhX3cTinCukyYSBQqEDkt-SiQAZIqTuWaotBvk.png?width=320&crop=smart&auto=webp&s=329c53554206a45435f922932fb691a405783d71",
         "published": "2026-03-29T07:03:45+00:00"
+    },
+    {
+        "title": "What anthropic is cooking actually",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6r8uz/what_anthropic_is_cooking_actually/",
+        "image": "https://preview.redd.it/un7qu2y1lyrg1.png?width=640&crop=smart&auto=webp&s=2332a96b0ac0d56e17b023b287114dfa483199fb",
+        "published": "2026-03-29T10:09:24+00:00"
     }
 ]
