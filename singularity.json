@@ -24,16 +24,16 @@
         "published": "2026-03-28T20:56:15+00:00"
     },
     {
-        "title": "Claude can control your computer now, openclaw and zenmux updated same day",
-        "link": "https://www.reddit.com/r/singularity/comments/1s62oms/claude_can_control_your_computer_now_openclaw_and/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T15:02:20+00:00"
-    },
-    {
         "title": "What even happened to deepseek",
         "link": "https://www.reddit.com/r/singularity/comments/1s6n5xf/what_even_happened_to_deepseek/",
         "image": "https://preview.redd.it/17skm8etbxrg1.jpeg?width=640&crop=smart&auto=webp&s=cf872942670be1febf7f646d9c0841aabd40a62a",
         "published": "2026-03-29T05:55:50+00:00"
+    },
+    {
+        "title": "Claude can control your computer now, openclaw and zenmux updated same day",
+        "link": "https://www.reddit.com/r/singularity/comments/1s62oms/claude_can_control_your_computer_now_openclaw_and/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T15:02:20+00:00"
     },
     {
         "title": "Is intelligence optimality bounded? Francois Chollet thinks so",
@@ -48,22 +48,16 @@
         "published": "2026-03-28T21:50:16+00:00"
     },
     {
-        "title": "Performance of LLMs in USAMO 2025 vs 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1s67s02/performance_of_llms_in_usamo_2025_vs_2026/",
-        "image": "https://preview.redd.it/i3xacmm6vtrg1.jpg?width=140&height=67&auto=webp&s=c29be055138b270b07a62056f15054b5d85e11db",
-        "published": "2026-03-28T18:17:18+00:00"
-    },
-    {
         "title": "Stanford Chair of Medicine: LLMs Are Superhuman Guessers",
         "link": "https://www.reddit.com/r/singularity/comments/1s6p6iy/stanford_chair_of_medicine_llms_are_superhuman/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-29T07:59:25+00:00"
     },
     {
-        "title": "People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!!\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s5zj2w/people_here_keep_saying_arc_agi_3_is_soo_unfair/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T12:52:14+00:00"
+        "title": "Performance of LLMs in USAMO 2025 vs 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1s67s02/performance_of_llms_in_usamo_2025_vs_2026/",
+        "image": "https://preview.redd.it/i3xacmm6vtrg1.jpg?width=140&height=67&auto=webp&s=c29be055138b270b07a62056f15054b5d85e11db",
+        "published": "2026-03-28T18:17:18+00:00"
     },
     {
         "title": "Convergence Resistant, Continuous Learning, Spiking Neural Network Architecture",
