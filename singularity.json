@@ -42,16 +42,16 @@
         "published": "2026-03-29T04:21:16+00:00"
     },
     {
-        "title": "Performance of LLMs in USAMO 2025 vs 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1s67s02/performance_of_llms_in_usamo_2025_vs_2026/",
-        "image": "https://preview.redd.it/i3xacmm6vtrg1.jpg?width=140&height=67&auto=webp&s=c29be055138b270b07a62056f15054b5d85e11db",
-        "published": "2026-03-28T18:17:18+00:00"
-    },
-    {
         "title": "What even happened to deepseek",
         "link": "https://www.reddit.com/r/singularity/comments/1s6n5xf/what_even_happened_to_deepseek/",
         "image": "https://preview.redd.it/17skm8etbxrg1.jpeg?width=640&crop=smart&auto=webp&s=cf872942670be1febf7f646d9c0841aabd40a62a",
         "published": "2026-03-29T05:55:50+00:00"
+    },
+    {
+        "title": "Performance of LLMs in USAMO 2025 vs 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1s67s02/performance_of_llms_in_usamo_2025_vs_2026/",
+        "image": "https://preview.redd.it/i3xacmm6vtrg1.jpg?width=140&height=67&auto=webp&s=c29be055138b270b07a62056f15054b5d85e11db",
+        "published": "2026-03-28T18:17:18+00:00"
     },
     {
         "title": "People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!!\"",
@@ -70,5 +70,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s622vd/every_ai_assistant_built_is_reactive_by_design_it/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T14:38:34+00:00"
+    },
+    {
+        "title": "\"nobody can stop me\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6oa7w/nobody_can_stop_me/",
+        "image": "https://external-preview.redd.it/hcJ6sIhX3cTinCukyYSBQqEDkt-SiQAZIqTuWaotBvk.png?width=320&crop=smart&auto=webp&s=329c53554206a45435f922932fb691a405783d71",
+        "published": "2026-03-29T07:03:45+00:00"
     }
 ]
