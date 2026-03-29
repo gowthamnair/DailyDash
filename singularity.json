@@ -6,16 +6,16 @@
         "published": "2026-03-28T23:01:33+00:00"
     },
     {
-        "title": "Dario Amodei: OpenAI President Brockman's $25 Million Dollar Donation To Pro-Trump Super PAC Is Evil, Also Compares Altman And Elon To Hitler And Stalin",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6e3y3/dario_amodei_openai_president_brockmans_25/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T22:32:55+00:00"
-    },
-    {
         "title": "Andrew Curran: Anthropic May Have Had An Architectural Breakthrough!",
         "link": "https://www.reddit.com/r/singularity/comments/1s6hj0n/andrew_curran_anthropic_may_have_had_an/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-29T01:05:35+00:00"
+    },
+    {
+        "title": "Dario Amodei: OpenAI President Brockman's $25 Million Dollar Donation To Pro-Trump Super PAC Is Evil, Also Compares Altman And Elon To Hitler And Stalin",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6e3y3/dario_amodei_openai_president_brockmans_25/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T22:32:55+00:00"
     },
     {
         "title": "Taalas rumoured to etch Qwen 3.5 27B into silicon. Which price would you buy their PCIe card for?",
@@ -42,16 +42,22 @@
         "published": "2026-03-28T18:17:18+00:00"
     },
     {
-        "title": "Convergence Resistant, Continuous Learning, Spiking Neural Network Architecture",
-        "link": "https://www.reddit.com/r/singularity/comments/1s63ime/convergence_resistant_continuous_learning_spiking/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T15:34:19+00:00"
+        "title": "Is intelligence optimality bounded? Francois Chollet thinks so",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6lh72/is_intelligence_optimality_bounded_francois/",
+        "image": "https://preview.redd.it/ztu1tjg9swrg1.png?width=320&crop=smart&auto=webp&s=2f383d64f4318855cbc853bf79bdebc4a14951fc",
+        "published": "2026-03-29T04:21:16+00:00"
     },
     {
         "title": "People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!!\"",
         "link": "https://www.reddit.com/r/singularity/comments/1s5zj2w/people_here_keep_saying_arc_agi_3_is_soo_unfair/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-28T12:52:14+00:00"
+    },
+    {
+        "title": "Convergence Resistant, Continuous Learning, Spiking Neural Network Architecture",
+        "link": "https://www.reddit.com/r/singularity/comments/1s63ime/convergence_resistant_continuous_learning_spiking/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-28T15:34:19+00:00"
     },
     {
         "title": "Every AI assistant built is reactive by design. It waits for you to notice things first. That's already the wrong model for what intelligence should do.",
@@ -64,6 +70,18 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s6kx9j/life_is_a_pattern_of_changeaccelerating_change/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-29T03:52:14+00:00"
+    },
+    {
+        "title": "We are running an AI race when it is actually an AI marathon.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6lcqy/we_are_running_an_ai_race_when_it_is_actually_an/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T04:14:38+00:00"
+    },
+    {
+        "title": "I asked GPT-5 mini if the chips and servers that power it are its body",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6mjuv/i_asked_gpt5_mini_if_the_chips_and_servers_that/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T05:20:19+00:00"
     },
     {
         "title": "Chat, is this true? Look what I\u2019ve found on twitter.",
