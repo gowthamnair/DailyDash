@@ -6,18 +6,6 @@
         "published": "2026-03-29T01:05:35+00:00"
     },
     {
-        "title": "Its not sci-fi anymore! A Chinese company, Unipath has launched a household robot",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6eru3/its_not_scifi_anymore_a_chinese_company_unipath/",
-        "image": "https://external-preview.redd.it/HyRiuboZBX1lpOGY6X4C9Xce-nsxQidZVzG5Tmp-Klk.png?width=640&crop=smart&auto=webp&s=7f98302f1f30c933b128efbe85d3147f60c42fe3",
-        "published": "2026-03-28T23:01:33+00:00"
-    },
-    {
-        "title": "Dario Amodei: OpenAI President Brockman's $25 Million Dollar Donation To Pro-Trump Super PAC Is Evil, Also Compares Altman And Elon To Hitler And Stalin",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6e3y3/dario_amodei_openai_president_brockmans_25/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-28T22:32:55+00:00"
-    },
-    {
         "title": "What even happened to deepseek",
         "link": "https://www.reddit.com/r/singularity/comments/1s6n5xf/what_even_happened_to_deepseek/",
         "image": "https://preview.redd.it/17skm8etbxrg1.jpeg?width=640&crop=smart&auto=webp&s=cf872942670be1febf7f646d9c0841aabd40a62a",
@@ -30,22 +18,28 @@
         "published": "2026-03-29T04:21:16+00:00"
     },
     {
-        "title": "Stanford Chair of Medicine: LLMs Are Superhuman Guessers",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6p6iy/stanford_chair_of_medicine_llms_are_superhuman/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-29T07:59:25+00:00"
-    },
-    {
         "title": "Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost",
         "link": "https://www.reddit.com/r/singularity/comments/1s734n6/nicolas_carlini_672k_citations_on_google_scholar/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-29T18:38:11+00:00"
     },
     {
+        "title": "Stanford Chair of Medicine: LLMs Are Superhuman Guessers",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6p6iy/stanford_chair_of_medicine_llms_are_superhuman/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T07:59:25+00:00"
+    },
+    {
         "title": "We may have already paid for AGI. The bill just looks like a bubble. (snippet from short doc)",
         "link": "https://www.reddit.com/r/singularity/comments/1s722t9/we_may_have_already_paid_for_agi_the_bill_just/",
         "image": "https://external-preview.redd.it/bTEyamR6cHF3MHNnMaA6mREHXC6PhbZiUxDxA4VbU0Udur10tyUBMom7h5Vc.png?width=640&crop=smart&auto=webp&s=f3ac8a9f25f2c9d3226ab6e0838c96b976e7a0b4",
         "published": "2026-03-29T17:59:34+00:00"
+    },
+    {
+        "title": "Cursor is continually self improving Composer 2 every 5 hours in real time",
+        "link": "https://www.reddit.com/r/singularity/comments/1s790if/cursor_is_continually_self_improving_composer_2/",
+        "image": "https://preview.redd.it/78rwd9fh82sg1.jpeg?width=640&crop=smart&auto=webp&s=74c5ed7d8f5c1a9ac85969ced11e5b0ab6063e28",
+        "published": "2026-03-29T22:26:28+00:00"
     },
     {
         "title": "My favorite AI agents in 2026 sorted by use case",
@@ -60,15 +54,15 @@
         "published": "2026-03-29T07:03:45+00:00"
     },
     {
-        "title": "This is one of the most impressive AI short films I've seen so far",
-        "link": "https://www.reddit.com/r/singularity/comments/1s76vyc/this_is_one_of_the_most_impressive_ai_short_films/",
-        "image": "https://external-preview.redd.it/aQ5_O0Xv9IlBAfnhNAiuhBTZG9C27fWOxUtJmf186m8.jpeg?width=320&crop=smart&auto=webp&s=316f7968282fa090f25dad2aec2fdc0ed7f04d1e",
-        "published": "2026-03-29T21:02:09+00:00"
-    },
-    {
         "title": "Gaussian splat for 4D scene reconstruction (\"THIS is the Biggest Thing Since CGI\" by Corridor Crew, 27 minutes)",
         "link": "https://www.reddit.com/r/singularity/comments/1s77wy0/gaussian_splat_for_4d_scene_reconstruction_this/",
         "image": "https://external-preview.redd.it/itFdkQzwrn0qhjPDVwuQOVHBNb7Io4k1jwycmXgZins.jpeg?width=320&crop=smart&auto=webp&s=20e37fdb2781188733040f1aaab447066bd93116",
         "published": "2026-03-29T21:41:50+00:00"
+    },
+    {
+        "title": "The AI Doc: Or How I Became an Apocaloptimist impressions",
+        "link": "https://www.reddit.com/r/singularity/comments/1s78aqi/the_ai_doc_or_how_i_became_an_apocaloptimist/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T21:57:12+00:00"
     }
 ]
