@@ -1,15 +1,15 @@
 [
     {
-        "title": "Andrew Curran: Anthropic May Have Had An Architectural Breakthrough!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6hj0n/andrew_curran_anthropic_may_have_had_an/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-29T01:05:35+00:00"
-    },
-    {
         "title": "What even happened to deepseek",
         "link": "https://www.reddit.com/r/singularity/comments/1s6n5xf/what_even_happened_to_deepseek/",
         "image": "https://preview.redd.it/17skm8etbxrg1.jpeg?width=640&crop=smart&auto=webp&s=cf872942670be1febf7f646d9c0841aabd40a62a",
         "published": "2026-03-29T05:55:50+00:00"
+    },
+    {
+        "title": "China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes",
+        "link": "https://www.reddit.com/r/singularity/comments/1s79p8i/china_announces_its_first_automated_manufacturing/",
+        "image": "https://external-preview.redd.it/Njl6eDEyem1kMnNnMat-abzugUFkGsHKy3qja_qpwSx4ebZnOjHwPW8MxiwF.png?width=640&crop=smart&auto=webp&s=2d9ff81b072c9a769180a9999c13688601e7a28f",
+        "published": "2026-03-29T22:55:39+00:00"
     },
     {
         "title": "Is intelligence optimality bounded? Francois Chollet thinks so",
@@ -30,16 +30,16 @@
         "published": "2026-03-29T07:59:25+00:00"
     },
     {
-        "title": "We may have already paid for AGI. The bill just looks like a bubble. (snippet from short doc)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s722t9/we_may_have_already_paid_for_agi_the_bill_just/",
-        "image": "https://external-preview.redd.it/bTEyamR6cHF3MHNnMaA6mREHXC6PhbZiUxDxA4VbU0Udur10tyUBMom7h5Vc.png?width=640&crop=smart&auto=webp&s=f3ac8a9f25f2c9d3226ab6e0838c96b976e7a0b4",
-        "published": "2026-03-29T17:59:34+00:00"
-    },
-    {
         "title": "Cursor is continually self improving Composer 2 every 5 hours in real time",
         "link": "https://www.reddit.com/r/singularity/comments/1s790if/cursor_is_continually_self_improving_composer_2/",
         "image": "https://preview.redd.it/78rwd9fh82sg1.jpeg?width=640&crop=smart&auto=webp&s=74c5ed7d8f5c1a9ac85969ced11e5b0ab6063e28",
         "published": "2026-03-29T22:26:28+00:00"
+    },
+    {
+        "title": "We may have already paid for AGI. The bill just looks like a bubble. (snippet from short doc)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s722t9/we_may_have_already_paid_for_agi_the_bill_just/",
+        "image": "https://external-preview.redd.it/bTEyamR6cHF3MHNnMaA6mREHXC6PhbZiUxDxA4VbU0Udur10tyUBMom7h5Vc.png?width=640&crop=smart&auto=webp&s=f3ac8a9f25f2c9d3226ab6e0838c96b976e7a0b4",
+        "published": "2026-03-29T17:59:34+00:00"
     },
     {
         "title": "My favorite AI agents in 2026 sorted by use case",
@@ -48,16 +48,16 @@
         "published": "2026-03-29T18:56:51+00:00"
     },
     {
-        "title": "\"nobody can stop me\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s6oa7w/nobody_can_stop_me/",
-        "image": "https://external-preview.redd.it/hcJ6sIhX3cTinCukyYSBQqEDkt-SiQAZIqTuWaotBvk.png?width=320&crop=smart&auto=webp&s=329c53554206a45435f922932fb691a405783d71",
-        "published": "2026-03-29T07:03:45+00:00"
-    },
-    {
         "title": "Gaussian splat for 4D scene reconstruction (\"THIS is the Biggest Thing Since CGI\" by Corridor Crew, 27 minutes)",
         "link": "https://www.reddit.com/r/singularity/comments/1s77wy0/gaussian_splat_for_4d_scene_reconstruction_this/",
         "image": "https://external-preview.redd.it/itFdkQzwrn0qhjPDVwuQOVHBNb7Io4k1jwycmXgZins.jpeg?width=320&crop=smart&auto=webp&s=20e37fdb2781188733040f1aaab447066bd93116",
         "published": "2026-03-29T21:41:50+00:00"
+    },
+    {
+        "title": "\"nobody can stop me\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1s6oa7w/nobody_can_stop_me/",
+        "image": "https://external-preview.redd.it/hcJ6sIhX3cTinCukyYSBQqEDkt-SiQAZIqTuWaotBvk.png?width=320&crop=smart&auto=webp&s=329c53554206a45435f922932fb691a405783d71",
+        "published": "2026-03-29T07:03:45+00:00"
     },
     {
         "title": "The AI Doc: Or How I Became an Apocaloptimist impressions",
