@@ -36,16 +36,22 @@
         "published": "2026-03-30T09:07:52+00:00"
     },
     {
-        "title": "My favorite AI agents in 2026 sorted by use case",
-        "link": "https://www.reddit.com/r/singularity/comments/1s73m2h/my_favorite_ai_agents_in_2026_sorted_by_use_case/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-29T18:56:51+00:00"
+        "title": "Voice slop",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7m0ib/voice_slop/",
+        "image": "https://preview.redd.it/klsyp36nl5sg1.jpeg?width=640&crop=smart&auto=webp&s=bce3551bba55b11cc61d5623e006e59dcfacbba7",
+        "published": "2026-03-30T09:45:09+00:00"
     },
     {
         "title": "Are AI robots actually close to being any good?",
         "link": "https://www.reddit.com/r/singularity/comments/1s7g5c9/are_ai_robots_actually_close_to_being_any_good/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-30T03:57:03+00:00"
+    },
+    {
+        "title": "My favorite AI agents in 2026 sorted by use case",
+        "link": "https://www.reddit.com/r/singularity/comments/1s73m2h/my_favorite_ai_agents_in_2026_sorted_by_use_case/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T18:56:51+00:00"
     },
     {
         "title": "What is your 5 year predication?",
@@ -72,21 +78,15 @@
         "published": "2026-03-30T03:12:40+00:00"
     },
     {
-        "title": "Generative-AI drug developer Insilico Medicine secures $2.75 billion drug collaboration with Eli Lilly",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7k3bk/generativeai_drug_developer_insilico_medicine/",
-        "image": "https://external-preview.redd.it/UUrG2WEN8zM_4Cl1MNDhzA0QR3wsqI1AUi70h7PXfxA.jpeg?width=640&crop=smart&auto=webp&s=3a8a6836b50b392148e3793c1913493b522a83e4",
-        "published": "2026-03-30T07:44:47+00:00"
-    },
-    {
-        "title": "Voice slop",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7m0ib/voice_slop/",
-        "image": "https://preview.redd.it/klsyp36nl5sg1.jpeg?width=640&crop=smart&auto=webp&s=bce3551bba55b11cc61d5623e006e59dcfacbba7",
-        "published": "2026-03-30T09:45:09+00:00"
-    },
-    {
         "title": "So, AI is in our books now, and no one can tell it's AI.....",
         "link": "https://www.reddit.com/r/singularity/comments/1s7lvka/so_ai_is_in_our_books_now_and_no_one_can_tell_its/",
         "image": "https://preview.redd.it/8yz6vr7pi5sg1.png?width=640&crop=smart&auto=webp&s=c58c85700402ccec55777a1cef2c73d4b7392bd7",
         "published": "2026-03-30T09:36:32+00:00"
+    },
+    {
+        "title": "Generative-AI drug developer Insilico Medicine secures $2.75 billion drug collaboration with Eli Lilly",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7k3bk/generativeai_drug_developer_insilico_medicine/",
+        "image": "https://external-preview.redd.it/UUrG2WEN8zM_4Cl1MNDhzA0QR3wsqI1AUi70h7PXfxA.jpeg?width=640&crop=smart&auto=webp&s=3a8a6836b50b392148e3793c1913493b522a83e4",
+        "published": "2026-03-30T07:44:47+00:00"
     }
 ]
