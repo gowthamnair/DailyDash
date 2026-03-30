@@ -30,28 +30,10 @@
         "published": "2026-03-29T17:59:34+00:00"
     },
     {
-        "title": "Finally had a play around with Seedance 2.0",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7lerv/finally_had_a_play_around_with_seedance_20/",
-        "image": "https://external-preview.redd.it/aWg3Y3g0bHFlNXNnMSKZHbzGd2wzPWdVfGFdzQujC54Id6VImK60ZRLV88K1.png?width=640&crop=smart&auto=webp&s=038038391ebdc36b45eff434ea5dcca2fd0c01df",
-        "published": "2026-03-30T09:07:52+00:00"
-    },
-    {
-        "title": "Voice slop",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7m0ib/voice_slop/",
-        "image": "https://preview.redd.it/klsyp36nl5sg1.jpeg?width=640&crop=smart&auto=webp&s=bce3551bba55b11cc61d5623e006e59dcfacbba7",
-        "published": "2026-03-30T09:45:09+00:00"
-    },
-    {
         "title": "Are AI robots actually close to being any good?",
         "link": "https://www.reddit.com/r/singularity/comments/1s7g5c9/are_ai_robots_actually_close_to_being_any_good/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-30T03:57:03+00:00"
-    },
-    {
-        "title": "My favorite AI agents in 2026 sorted by use case",
-        "link": "https://www.reddit.com/r/singularity/comments/1s73m2h/my_favorite_ai_agents_in_2026_sorted_by_use_case/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-29T18:56:51+00:00"
     },
     {
         "title": "What is your 5 year predication?",
@@ -60,16 +42,16 @@
         "published": "2026-03-30T04:36:29+00:00"
     },
     {
+        "title": "My favorite AI agents in 2026 sorted by use case",
+        "link": "https://www.reddit.com/r/singularity/comments/1s73m2h/my_favorite_ai_agents_in_2026_sorted_by_use_case/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T18:56:51+00:00"
+    },
+    {
         "title": "Tazbentetol for schizophrenia shows symptom improvement in phase 2 trial. Tazbentetol likely modulates fascin-1/F-actin dynamics, thereby promoting synaptic regeneration in the brain.",
         "link": "https://www.reddit.com/r/singularity/comments/1s7fgt8/tazbentetol_for_schizophrenia_shows_symptom/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-30T03:21:40+00:00"
-    },
-    {
-        "title": "Gaussian splat for 4D scene reconstruction (\"THIS is the Biggest Thing Since CGI\" by Corridor Crew, 27 minutes)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s77wy0/gaussian_splat_for_4d_scene_reconstruction_this/",
-        "image": "https://external-preview.redd.it/itFdkQzwrn0qhjPDVwuQOVHBNb7Io4k1jwycmXgZins.jpeg?width=320&crop=smart&auto=webp&s=20e37fdb2781188733040f1aaab447066bd93116",
-        "published": "2026-03-29T21:41:50+00:00"
     },
     {
         "title": "Neuro-symbolic AI could slash energy use while dramatically improving performance",
@@ -78,15 +60,21 @@
         "published": "2026-03-30T03:12:40+00:00"
     },
     {
-        "title": "So, AI is in our books now, and no one can tell it's AI.....",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7lvka/so_ai_is_in_our_books_now_and_no_one_can_tell_its/",
-        "image": "https://preview.redd.it/8yz6vr7pi5sg1.png?width=640&crop=smart&auto=webp&s=c58c85700402ccec55777a1cef2c73d4b7392bd7",
-        "published": "2026-03-30T09:36:32+00:00"
+        "title": "Gaussian splat for 4D scene reconstruction (\"THIS is the Biggest Thing Since CGI\" by Corridor Crew, 27 minutes)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s77wy0/gaussian_splat_for_4d_scene_reconstruction_this/",
+        "image": "https://external-preview.redd.it/itFdkQzwrn0qhjPDVwuQOVHBNb7Io4k1jwycmXgZins.jpeg?width=320&crop=smart&auto=webp&s=20e37fdb2781188733040f1aaab447066bd93116",
+        "published": "2026-03-29T21:41:50+00:00"
     },
     {
         "title": "Generative-AI drug developer Insilico Medicine secures $2.75 billion drug collaboration with Eli Lilly",
         "link": "https://www.reddit.com/r/singularity/comments/1s7k3bk/generativeai_drug_developer_insilico_medicine/",
         "image": "https://external-preview.redd.it/UUrG2WEN8zM_4Cl1MNDhzA0QR3wsqI1AUi70h7PXfxA.jpeg?width=640&crop=smart&auto=webp&s=3a8a6836b50b392148e3793c1913493b522a83e4",
         "published": "2026-03-30T07:44:47+00:00"
+    },
+    {
+        "title": "The AI Doc: Or How I Became an Apocaloptimist impressions",
+        "link": "https://www.reddit.com/r/singularity/comments/1s78aqi/the_ai_doc_or_how_i_became_an_apocaloptimist/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-29T21:57:12+00:00"
     }
 ]
