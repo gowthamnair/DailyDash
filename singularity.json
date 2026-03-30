@@ -6,28 +6,28 @@
         "published": "2026-03-29T22:55:39+00:00"
     },
     {
-        "title": "Cursor is continually self improving Composer 2 every 5 hours in real time",
-        "link": "https://www.reddit.com/r/singularity/comments/1s790if/cursor_is_continually_self_improving_composer_2/",
-        "image": "https://preview.redd.it/78rwd9fh82sg1.jpeg?width=640&crop=smart&auto=webp&s=74c5ed7d8f5c1a9ac85969ced11e5b0ab6063e28",
-        "published": "2026-03-29T22:26:28+00:00"
-    },
-    {
         "title": "Claude Mythos leaked: \"by far the most powerful AI model we've ever developed\"",
         "link": "https://www.reddit.com/r/singularity/comments/1s7zwjn/claude_mythos_leaked_by_far_the_most_powerful_ai/",
         "image": "https://external-preview.redd.it/NEFQVv9vfM37ZsEmO0_GDsk_LAJoutYrvgraLaUgwdQ.png?width=320&crop=smart&auto=webp&s=2eed29f2bd2c6fbf4fe663b5d14b1ee82fba2518",
         "published": "2026-03-30T19:02:14+00:00"
     },
     {
-        "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Are we sure?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7dt0k/marc_andreessen_the_remaining_human_workers_are/",
-        "image": "https://preview.redd.it/l4w4g4koa3sg1.png?width=640&crop=smart&auto=webp&s=3012b89f63d69554dd335bd232ac488b4f343f33",
-        "published": "2026-03-30T02:00:37+00:00"
+        "title": "Cursor is continually self improving Composer 2 every 5 hours in real time",
+        "link": "https://www.reddit.com/r/singularity/comments/1s790if/cursor_is_continually_self_improving_composer_2/",
+        "image": "https://preview.redd.it/78rwd9fh82sg1.jpeg?width=640&crop=smart&auto=webp&s=74c5ed7d8f5c1a9ac85969ced11e5b0ab6063e28",
+        "published": "2026-03-29T22:26:28+00:00"
     },
     {
         "title": "Figure AI's Humanoid Walks into A Photoshoot By Itself!",
         "link": "https://www.reddit.com/r/singularity/comments/1s7wilx/figure_ais_humanoid_walks_into_a_photoshoot_by/",
         "image": "https://external-preview.redd.it/eHU1ZnZ5Z3dyN3NnMdkxcflIB72v-cB17QEBJv2YezfXdWunG-AeTVNIe8nF.png?width=640&crop=smart&auto=webp&s=a9f9be0bb7060da8235df7fc7d627fcab06e7531",
         "published": "2026-03-30T17:04:05+00:00"
+    },
+    {
+        "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Are we sure?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7dt0k/marc_andreessen_the_remaining_human_workers_are/",
+        "image": "https://preview.redd.it/l4w4g4koa3sg1.png?width=640&crop=smart&auto=webp&s=3012b89f63d69554dd335bd232ac488b4f343f33",
+        "published": "2026-03-30T02:00:37+00:00"
     },
     {
         "title": "Computer use is now in Claude Code",
@@ -66,6 +66,12 @@
         "published": "2026-03-30T03:12:40+00:00"
     },
     {
+        "title": "Stanford Researchers Autonomously Improved A Harness And SIGNIFICANTLY Beat Claude Code on TerminalBench 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1s81vhz/stanford_researchers_autonomously_improved_a/",
+        "image": "https://preview.redd.it/n4klcjjgp8sg1.jpeg?width=640&crop=smart&auto=webp&s=aad583bf57e391a765baf917daa434a1b0df8197",
+        "published": "2026-03-30T20:12:25+00:00"
+    },
+    {
         "title": "Tazbentetol for schizophrenia shows symptom improvement in phase 2 trial. Tazbentetol likely modulates fascin-1/F-actin dynamics, thereby promoting synaptic regeneration in the brain.",
         "link": "https://www.reddit.com/r/singularity/comments/1s7fgt8/tazbentetol_for_schizophrenia_shows_symptom/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -78,15 +84,9 @@
         "published": "2026-03-30T07:44:47+00:00"
     },
     {
-        "title": "Gaussian splat for 4D scene reconstruction (\"THIS is the Biggest Thing Since CGI\" by Corridor Crew, 27 minutes)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s77wy0/gaussian_splat_for_4d_scene_reconstruction_this/",
-        "image": "https://external-preview.redd.it/itFdkQzwrn0qhjPDVwuQOVHBNb7Io4k1jwycmXgZins.jpeg?width=320&crop=smart&auto=webp&s=20e37fdb2781188733040f1aaab447066bd93116",
-        "published": "2026-03-29T21:41:50+00:00"
-    },
-    {
-        "title": "Stanford Researchers Autonomously Improved A Harness And SIGNIFICANTLY Beat Claude Code on TerminalBench 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1s81vhz/stanford_researchers_autonomously_improved_a/",
-        "image": "https://preview.redd.it/n4klcjjgp8sg1.jpeg?width=640&crop=smart&auto=webp&s=aad583bf57e391a765baf917daa434a1b0df8197",
-        "published": "2026-03-30T20:12:25+00:00"
+        "title": "World\u2019s first telerobotic neurosurgery performed on stroke patient 120 miles away",
+        "link": "https://www.reddit.com/r/singularity/comments/1s80gw4/worlds_first_telerobotic_neurosurgery_performed/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-30T19:21:56+00:00"
     }
 ]
