@@ -36,6 +36,12 @@
         "published": "2026-03-30T13:13:53+00:00"
     },
     {
+        "title": "Claude code source code has been leaked via a map file in their npm registry",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8izpi/claude_code_source_code_has_been_leaked_via_a_map/",
+        "image": "https://preview.redd.it/0dsbxr4urcsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27de39bc05be6b4f83b5591ef2aac55f88c3ac12",
+        "published": "2026-03-31T09:52:20+00:00"
+    },
+    {
         "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
         "link": "https://www.reddit.com/r/singularity/comments/1s8574h/new_llm_buyout_game_benchmark_this_compresses/",
         "image": "https://preview.redd.it/mieykw6va9sg1.png?width=140&height=140&auto=webp&s=c3ee1173b96a9928ff0387a14446a958cdf05d82",
@@ -64,5 +70,23 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8fh5t/flexiv_has_officially_unveiled_enlight_the_worlds/",
         "image": "https://external-preview.redd.it/96xN0nkmwYH93TQtZpd6x24EqL24CUvwT3JelF_h1PU.jpeg?width=320&crop=smart&auto=webp&s=d11f005511f230cece9d08f169021269f09a61ac",
         "published": "2026-03-31T06:17:02+00:00"
+    },
+    {
+        "title": "Full interview-Brett Adcock - Shawn Ryan\u2019s First Interview with a Robot | SRS #292",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8ikai/full_interviewbrett_adcock_shawn_ryans_first/",
+        "image": "https://external-preview.redd.it/8rxP65-WHK27Uokyh8BLGvmBD2gpXM_98pGLViaZyt0.jpeg?width=320&crop=smart&auto=webp&s=c02994e6f433b01118be9992031f5f3e34fb4cfb",
+        "published": "2026-03-31T09:26:25+00:00"
+    },
+    {
+        "title": "Machine intelligence can not escape human control and remain functional.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8iup2/machine_intelligence_can_not_escape_human_control/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T09:44:12+00:00"
+    },
+    {
+        "title": "The end of \"Consumer-only\" Omni AI (Qwen3.5-Omni).",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8ifr2/the_end_of_consumeronly_omni_ai_qwen35omni/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T09:18:45+00:00"
     }
 ]
