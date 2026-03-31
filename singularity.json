@@ -6,16 +6,16 @@
         "published": "2026-03-31T09:52:20+00:00"
     },
     {
-        "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8574h/new_llm_buyout_game_benchmark_this_compresses/",
-        "image": "https://preview.redd.it/mieykw6va9sg1.png?width=140&height=140&auto=webp&s=c3ee1173b96a9928ff0387a14446a958cdf05d82",
-        "published": "2026-03-30T22:16:53+00:00"
-    },
-    {
         "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
         "link": "https://www.reddit.com/r/singularity/comments/1s8txf4/quantum_computers_need_just_10000_qubits_to_break/",
         "image": "https://external-preview.redd.it/XmeLDeoVxGVTEunpgZdKiFuGVtwh_tSIiVN3D_oetWs.jpeg?width=640&crop=smart&auto=webp&s=0b1dcdf57941fef3de5f41fb28cac477cc93056e",
         "published": "2026-03-31T17:25:23+00:00"
+    },
+    {
+        "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8574h/new_llm_buyout_game_benchmark_this_compresses/",
+        "image": "https://preview.redd.it/mieykw6va9sg1.png?width=140&height=140&auto=webp&s=c3ee1173b96a9928ff0387a14446a958cdf05d82",
+        "published": "2026-03-30T22:16:53+00:00"
     },
     {
         "title": "Micron reportedly planning HBM-style GDDR stack for future accelerators [might be big for local compute/LLM]",
@@ -30,16 +30,16 @@
         "published": "2026-03-31T16:49:42+00:00"
     },
     {
-        "title": "LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space",
-        "link": "https://www.reddit.com/r/singularity/comments/1s89qxr/longcataudiodit_highfidelity_diffusion/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T01:32:21+00:00"
-    },
-    {
         "title": "Flexiv has officially unveiled Enlight, the world\u2019s first all-sensing adaptive robotic arm that features a breakthrough \"electronic skin\" capable of tactile perception that rivals human sensitivity, achieving a resolution of 2mm.",
         "link": "https://www.reddit.com/r/singularity/comments/1s8fh5t/flexiv_has_officially_unveiled_enlight_the_worlds/",
         "image": "https://external-preview.redd.it/96xN0nkmwYH93TQtZpd6x24EqL24CUvwT3JelF_h1PU.jpeg?width=320&crop=smart&auto=webp&s=d11f005511f230cece9d08f169021269f09a61ac",
         "published": "2026-03-31T06:17:02+00:00"
+    },
+    {
+        "title": "LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space",
+        "link": "https://www.reddit.com/r/singularity/comments/1s89qxr/longcataudiodit_highfidelity_diffusion/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T01:32:21+00:00"
     },
     {
         "title": "KwaiKAT released KAT-Coder-Pro V2 non-reasoning language model. It features good performance for the cost to run it.",
@@ -52,5 +52,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8x8is/if_the_ai_is_self_improving_and_intelligent_how/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T19:21:44+00:00"
+    },
+    {
+        "title": "AITA?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8zk6u/aita/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T20:44:13+00:00"
     }
 ]
