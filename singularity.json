@@ -12,10 +12,10 @@
         "published": "2026-03-31T17:25:23+00:00"
     },
     {
-        "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8574h/new_llm_buyout_game_benchmark_this_compresses/",
-        "image": "https://preview.redd.it/mieykw6va9sg1.png?width=140&height=140&auto=webp&s=c3ee1173b96a9928ff0387a14446a958cdf05d82",
-        "published": "2026-03-30T22:16:53+00:00"
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
+        "image": "https://external-preview.redd.it/VEaAgQglTn7eIXGXsRPxbOSTvipBubL7Lx5o7rd0G58.png?width=640&crop=smart&auto=webp&s=d9088d1152b1476183d20cd845207e6532fa561b",
+        "published": "2026-03-31T21:14:45+00:00"
     },
     {
         "title": "Micron reportedly planning HBM-style GDDR stack for future accelerators [might be big for local compute/LLM]",
@@ -42,16 +42,16 @@
         "published": "2026-03-31T01:32:21+00:00"
     },
     {
-        "title": "KwaiKAT released KAT-Coder-Pro V2 non-reasoning language model. It features good performance for the cost to run it.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8my48/kwaikat_released_katcoderpro_v2_nonreasoning/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T13:08:28+00:00"
-    },
-    {
         "title": "If the AI is self improving and intelligent how can you 'own' it? Doesn't that dissolve the ROI argument for AI company valuations?",
         "link": "https://www.reddit.com/r/singularity/comments/1s8x8is/if_the_ai_is_self_improving_and_intelligent_how/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T19:21:44+00:00"
+    },
+    {
+        "title": "KwaiKAT released KAT-Coder-Pro V2 non-reasoning language model. It features good performance for the cost to run it.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8my48/kwaikat_released_katcoderpro_v2_nonreasoning/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T13:08:28+00:00"
     },
     {
         "title": "AITA?",
