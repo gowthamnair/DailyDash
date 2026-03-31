@@ -36,12 +36,6 @@
         "published": "2026-03-30T13:13:53+00:00"
     },
     {
-        "title": "What is your 5 year predication?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7gwe2/what_is_your_5_year_predication/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-30T04:36:29+00:00"
-    },
-    {
         "title": "Generative-AI drug developer Insilico Medicine secures $2.75 billion drug collaboration with Eli Lilly",
         "link": "https://www.reddit.com/r/singularity/comments/1s7k3bk/generativeai_drug_developer_insilico_medicine/",
         "image": "https://external-preview.redd.it/UUrG2WEN8zM_4Cl1MNDhzA0QR3wsqI1AUi70h7PXfxA.jpeg?width=640&crop=smart&auto=webp&s=3a8a6836b50b392148e3793c1913493b522a83e4",
@@ -60,6 +54,12 @@
         "published": "2026-03-30T22:31:19+00:00"
     },
     {
+        "title": "Anthropic \u2018Mythos\u2019 AI model representing \u2018step change\u2019 in power revealed in data leak",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8dh12/anthropic_mythos_ai_model_representing_step/",
+        "image": "https://external-preview.redd.it/yp0nX-DSLwmIooqu5wTrJzphggJyc-FYuGKJPEv6Iqk.jpeg?width=640&crop=smart&auto=webp&s=9ae6d7292511f9063ea13f166158e4101f042645",
+        "published": "2026-03-31T04:27:40+00:00"
+    },
+    {
         "title": "World\u2019s first telerobotic neurosurgery performed on stroke patient 120 miles away",
         "link": "https://www.reddit.com/r/singularity/comments/1s80gw4/worlds_first_telerobotic_neurosurgery_performed/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -72,6 +72,12 @@
         "published": "2026-03-31T01:32:21+00:00"
     },
     {
+        "title": "Conntour just won a new seed round for building an AI search engine that allows you to search through a database of surveillance videos like you would a search engine.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8dv2c/conntour_just_won_a_new_seed_round_for_building/",
+        "image": "https://external-preview.redd.it/TuHJRQ1XYQXQrB5phFdoV9R_SiBZ_rOCyd4Qz05pgf8.jpeg?width=320&crop=smart&auto=webp&s=15cd19fede34d2b1d5d034d5c25955f6f72cf9c5",
+        "published": "2026-03-31T04:48:02+00:00"
+    },
+    {
         "title": "Is Qwen3.5-Omni \"Vibe Coding\" the future of UI design?",
         "link": "https://www.reddit.com/r/singularity/comments/1s8bg97/is_qwen35omni_vibe_coding_the_future_of_ui_design/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8c5ui/my_ai_spent_last_night_modifying_its_own_codebase/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T03:22:21+00:00"
-    },
-    {
-        "title": "What do you think AI video is going to do to YouTube? I think it's going to destroy independent creators.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8b3zw/what_do_you_think_ai_video_is_going_to_do_to/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T02:33:43+00:00"
     }
 ]
