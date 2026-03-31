@@ -1,11 +1,5 @@
 [
     {
-        "title": "Claude Mythos leaked: \"by far the most powerful AI model we've ever developed\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7zwjn/claude_mythos_leaked_by_far_the_most_powerful_ai/",
-        "image": "https://external-preview.redd.it/NEFQVv9vfM37ZsEmO0_GDsk_LAJoutYrvgraLaUgwdQ.png?width=320&crop=smart&auto=webp&s=2eed29f2bd2c6fbf4fe663b5d14b1ee82fba2518",
-        "published": "2026-03-30T19:02:14+00:00"
-    },
-    {
         "title": "Claude code source code has been leaked via a map file in their npm registry",
         "link": "https://www.reddit.com/r/singularity/comments/1s8izpi/claude_code_source_code_has_been_leaked_via_a_map/",
         "image": "https://preview.redd.it/0dsbxr4urcsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27de39bc05be6b4f83b5591ef2aac55f88c3ac12",
@@ -36,28 +30,22 @@
         "published": "2026-03-31T13:02:28+00:00"
     },
     {
-        "title": "World\u2019s first telerobotic neurosurgery performed on stroke patient 120 miles away",
-        "link": "https://www.reddit.com/r/singularity/comments/1s80gw4/worlds_first_telerobotic_neurosurgery_performed/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-30T19:21:56+00:00"
-    },
-    {
         "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
         "link": "https://www.reddit.com/r/singularity/comments/1s8txf4/quantum_computers_need_just_10000_qubits_to_break/",
         "image": "https://external-preview.redd.it/XmeLDeoVxGVTEunpgZdKiFuGVtwh_tSIiVN3D_oetWs.jpeg?width=640&crop=smart&auto=webp&s=0b1dcdf57941fef3de5f41fb28cac477cc93056e",
         "published": "2026-03-31T17:25:23+00:00"
     },
     {
-        "title": "LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space",
-        "link": "https://www.reddit.com/r/singularity/comments/1s89qxr/longcataudiodit_highfidelity_diffusion/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T01:32:21+00:00"
-    },
-    {
         "title": "Google introduced Veo 3.1 Lite",
         "link": "https://www.reddit.com/r/singularity/comments/1s8swqq/google_introduced_veo_31_lite/",
         "image": "https://preview.redd.it/25oumbi9uesg1.png?width=640&crop=smart&auto=webp&s=7d4687385616f0e82043aa0d308d021f5055c780",
         "published": "2026-03-31T16:49:42+00:00"
+    },
+    {
+        "title": "LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space",
+        "link": "https://www.reddit.com/r/singularity/comments/1s89qxr/longcataudiodit_highfidelity_diffusion/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T01:32:21+00:00"
     },
     {
         "title": "Flexiv has officially unveiled Enlight, the world\u2019s first all-sensing adaptive robotic arm that features a breakthrough \"electronic skin\" capable of tactile perception that rivals human sensitivity, achieving a resolution of 2mm.",
@@ -70,23 +58,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8my48/kwaikat_released_katcoderpro_v2_nonreasoning/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T13:08:28+00:00"
-    },
-    {
-        "title": "Who is using the less mainstream models?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8skid/who_is_using_the_less_mainstream_models/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T16:37:34+00:00"
-    },
-    {
-        "title": "\ud83e\udd16 AI Misidentification Jailed Grandma: Facial match error led to 5 months in jail \ud83d\udc47",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8rnwq/ai_misidentification_jailed_grandma_facial_match/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T16:04:56+00:00"
-    },
-    {
-        "title": "What would be used to make something of this quality?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8pn0m/what_would_be_used_to_make_something_of_this/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T14:52:12+00:00"
     }
 ]
