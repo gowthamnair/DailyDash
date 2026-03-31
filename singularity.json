@@ -6,34 +6,22 @@
         "published": "2026-03-31T09:52:20+00:00"
     },
     {
-        "title": "Stanford Researchers Autonomously Improved A Harness And SIGNIFICANTLY Beat Claude Code on TerminalBench 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1s81vhz/stanford_researchers_autonomously_improved_a/",
-        "image": "https://preview.redd.it/n4klcjjgp8sg1.jpeg?width=640&crop=smart&auto=webp&s=aad583bf57e391a765baf917daa434a1b0df8197",
-        "published": "2026-03-30T20:12:25+00:00"
-    },
-    {
         "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
         "link": "https://www.reddit.com/r/singularity/comments/1s8574h/new_llm_buyout_game_benchmark_this_compresses/",
         "image": "https://preview.redd.it/mieykw6va9sg1.png?width=140&height=140&auto=webp&s=c3ee1173b96a9928ff0387a14446a958cdf05d82",
         "published": "2026-03-30T22:16:53+00:00"
     },
     {
-        "title": "Micron reportedly planning HBM-style GDDR stack for future accelerators [might be big for local compute/LLM]",
-        "link": "https://www.reddit.com/r/singularity/comments/1s85k3l/micron_reportedly_planning_hbmstyle_gddr_stack/",
-        "image": "https://external-preview.redd.it/KqRiPNObDVzqWs9CP_esiUW4ShzdM8bvdnGPcJaMKAc.jpeg?width=640&crop=smart&auto=webp&s=722277b8ac17512f498c2203e99dadd0a50ff3fa",
-        "published": "2026-03-30T22:31:19+00:00"
-    },
-    {
-        "title": "Vibecoded a deep-research tool based on leaked Claude Code's framework",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8msnw/vibecoded_a_deepresearch_tool_based_on_leaked/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T13:02:28+00:00"
-    },
-    {
         "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
         "link": "https://www.reddit.com/r/singularity/comments/1s8txf4/quantum_computers_need_just_10000_qubits_to_break/",
         "image": "https://external-preview.redd.it/XmeLDeoVxGVTEunpgZdKiFuGVtwh_tSIiVN3D_oetWs.jpeg?width=640&crop=smart&auto=webp&s=0b1dcdf57941fef3de5f41fb28cac477cc93056e",
         "published": "2026-03-31T17:25:23+00:00"
+    },
+    {
+        "title": "Micron reportedly planning HBM-style GDDR stack for future accelerators [might be big for local compute/LLM]",
+        "link": "https://www.reddit.com/r/singularity/comments/1s85k3l/micron_reportedly_planning_hbmstyle_gddr_stack/",
+        "image": "https://external-preview.redd.it/KqRiPNObDVzqWs9CP_esiUW4ShzdM8bvdnGPcJaMKAc.jpeg?width=640&crop=smart&auto=webp&s=722277b8ac17512f498c2203e99dadd0a50ff3fa",
+        "published": "2026-03-30T22:31:19+00:00"
     },
     {
         "title": "Google introduced Veo 3.1 Lite",
@@ -58,5 +46,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8my48/kwaikat_released_katcoderpro_v2_nonreasoning/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T13:08:28+00:00"
+    },
+    {
+        "title": "If the AI is self improving and intelligent how can you 'own' it? Doesn't that dissolve the ROI argument for AI company valuations?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8x8is/if_the_ai_is_self_improving_and_intelligent_how/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T19:21:44+00:00"
     }
 ]
