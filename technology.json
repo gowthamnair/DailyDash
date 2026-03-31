@@ -1,11 +1,5 @@
 [
     {
-        "title": "AI is denying health care claims",
-        "link": "https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/",
-        "image": "https://external-preview.redd.it/M9t07uReLfEHWrBSZ5sNUhR3VkiDSYVYOz5kdPzL0Sw.jpeg?width=640&crop=smart&auto=webp&s=eaf2470d643241afd54fbb6b85787c0e5f6953f1",
-        "published": "2026-03-30T12:19:07+00:00"
-    },
-    {
         "title": "YouTube chat logs reveal employees aimed for \u201cviewer addiction\u201d and scrapped safety tools",
         "link": "https://www.reddit.com/r/technology/comments/1s846lp/youtube_chat_logs_reveal_employees_aimed_for/",
         "image": "https://external-preview.redd.it/dlUEmMek1rZ7ASea4F2zeROhd9I39XoHKEbtuoRcBZk.jpeg?width=640&crop=smart&auto=webp&s=80e02c42e9a6b3252ba4ce5c402e906b7139e8f4",
@@ -60,6 +54,12 @@
         "published": "2026-03-30T19:14:36+00:00"
     },
     {
+        "title": "Iran War Chokes Off Helium Supply Critical for AI",
+        "link": "https://www.reddit.com/r/technology/comments/1s8e4m5/iran_war_chokes_off_helium_supply_critical_for_ai/",
+        "image": "https://external-preview.redd.it/-E8KSIbH8a0gE8JTYn_rXOxCX0rWZrtV5IdxBB_irFw.jpeg?width=640&crop=smart&auto=webp&s=953c93b7c8c27750220b1e678c24b426035347e4",
+        "published": "2026-03-31T05:02:02+00:00"
+    },
+    {
         "title": "Battery costs have declined by 99% in the last three decades, making electrified transport a reality",
         "link": "https://www.reddit.com/r/technology/comments/1s7vcvp/battery_costs_have_declined_by_99_in_the_last/",
         "image": "https://external-preview.redd.it/uY8ngtKXVJAtuZSkWfWf9bSeK7x_B9rOUOfHrglFhMg.png?width=640&crop=smart&auto=webp&s=4a42c5a77a6701661a9b03abf69aaa4a99acb7ef",
@@ -72,12 +72,6 @@
         "published": "2026-03-30T19:55:41+00:00"
     },
     {
-        "title": "Iran War Chokes Off Helium Supply Critical for AI",
-        "link": "https://www.reddit.com/r/technology/comments/1s8e4m5/iran_war_chokes_off_helium_supply_critical_for_ai/",
-        "image": "https://external-preview.redd.it/-E8KSIbH8a0gE8JTYn_rXOxCX0rWZrtV5IdxBB_irFw.jpeg?width=640&crop=smart&auto=webp&s=953c93b7c8c27750220b1e678c24b426035347e4",
-        "published": "2026-03-31T05:02:02+00:00"
-    },
-    {
         "title": "Nasa gives go-ahead for historic Moon mission launch",
         "link": "https://www.reddit.com/r/technology/comments/1s7tfvh/nasa_gives_goahead_for_historic_moon_mission/",
         "image": "https://external-preview.redd.it/swbZSRq_JKPXuLzkKkuaEftLMtfAnwoHheyLC4K-F14.jpeg?width=640&crop=smart&auto=webp&s=23121f696fafdfb252a2cb9b5037dbfa1dfab964",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1s7qlx5/chatgpt_isnt_getting_spicier_openai_puts_adult/",
         "image": "https://external-preview.redd.it/8w0Yn1PnN6Vn81f4QjiJijw7LrxZL5O3TUbT79gU7ZI.jpeg?width=640&crop=smart&auto=webp&s=b685f0e3d1f084372d10d53a9552df4e96d23153",
         "published": "2026-03-30T13:28:58+00:00"
+    },
+    {
+        "title": "MSI Warns RAM Shortage Is Reducing GPU Supply by 20%",
+        "link": "https://www.reddit.com/r/technology/comments/1s7qmxl/msi_warns_ram_shortage_is_reducing_gpu_supply_by/",
+        "image": "https://external-preview.redd.it/VCsRIu8MsxJjJ4Qj0oZlX60xRWfmGLi826ITqtfWZb8.jpeg?width=640&crop=smart&auto=webp&s=1301b4b80a86df7412270e5ae44e7b3b8effbb96",
+        "published": "2026-03-30T13:30:08+00:00"
     }
 ]

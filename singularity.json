@@ -12,6 +12,12 @@
         "published": "2026-03-30T17:31:13+00:00"
     },
     {
+        "title": "Claude code source code has been leaked via a map file in their npm registry",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8izpi/claude_code_source_code_has_been_leaked_via_a_map/",
+        "image": "https://preview.redd.it/0dsbxr4urcsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27de39bc05be6b4f83b5591ef2aac55f88c3ac12",
+        "published": "2026-03-31T09:52:20+00:00"
+    },
+    {
         "title": "Figure AI's Humanoid Walks into A Photoshoot By Itself!",
         "link": "https://www.reddit.com/r/singularity/comments/1s7wilx/figure_ais_humanoid_walks_into_a_photoshoot_by/",
         "image": "https://external-preview.redd.it/eHU1ZnZ5Z3dyN3NnMdkxcflIB72v-cB17QEBJv2YezfXdWunG-AeTVNIe8nF.png?width=640&crop=smart&auto=webp&s=a9f9be0bb7060da8235df7fc7d627fcab06e7531",
@@ -22,12 +28,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s81vhz/stanford_researchers_autonomously_improved_a/",
         "image": "https://preview.redd.it/n4klcjjgp8sg1.jpeg?width=640&crop=smart&auto=webp&s=aad583bf57e391a765baf917daa434a1b0df8197",
         "published": "2026-03-30T20:12:25+00:00"
-    },
-    {
-        "title": "Claude code source code has been leaked via a map file in their npm registry",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8izpi/claude_code_source_code_has_been_leaked_via_a_map/",
-        "image": "https://preview.redd.it/0dsbxr4urcsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27de39bc05be6b4f83b5591ef2aac55f88c3ac12",
-        "published": "2026-03-31T09:52:20+00:00"
     },
     {
         "title": "Qwen3.5 Omni - Qwen\u2019s latest generation of fully omnimodal LLM",
@@ -72,21 +72,21 @@
         "published": "2026-03-31T10:42:34+00:00"
     },
     {
-        "title": "Flexiv has officially unveiled Enlight, the world\u2019s first all-sensing adaptive robotic arm that features a breakthrough \"electronic skin\" capable of tactile perception that rivals human sensitivity, achieving a resolution of 2mm.",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8fh5t/flexiv_has_officially_unveiled_enlight_the_worlds/",
-        "image": "https://external-preview.redd.it/96xN0nkmwYH93TQtZpd6x24EqL24CUvwT3JelF_h1PU.jpeg?width=320&crop=smart&auto=webp&s=d11f005511f230cece9d08f169021269f09a61ac",
-        "published": "2026-03-31T06:17:02+00:00"
-    },
-    {
         "title": "Claude Code leaked - this week we will see how other models perform under Claude Code harness",
         "link": "https://www.reddit.com/r/singularity/comments/1s8js97/claude_code_leaked_this_week_we_will_see_how/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T10:36:42+00:00"
     },
     {
-        "title": "Full interview-Brett Adcock - Shawn Ryan\u2019s First Interview with a Robot | SRS #292",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8ikai/full_interviewbrett_adcock_shawn_ryans_first/",
-        "image": "https://external-preview.redd.it/8rxP65-WHK27Uokyh8BLGvmBD2gpXM_98pGLViaZyt0.jpeg?width=320&crop=smart&auto=webp&s=c02994e6f433b01118be9992031f5f3e34fb4cfb",
-        "published": "2026-03-31T09:26:25+00:00"
+        "title": "Flexiv has officially unveiled Enlight, the world\u2019s first all-sensing adaptive robotic arm that features a breakthrough \"electronic skin\" capable of tactile perception that rivals human sensitivity, achieving a resolution of 2mm.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8fh5t/flexiv_has_officially_unveiled_enlight_the_worlds/",
+        "image": "https://external-preview.redd.it/96xN0nkmwYH93TQtZpd6x24EqL24CUvwT3JelF_h1PU.jpeg?width=320&crop=smart&auto=webp&s=d11f005511f230cece9d08f169021269f09a61ac",
+        "published": "2026-03-31T06:17:02+00:00"
+    },
+    {
+        "title": "Is the AI 'codecalypse' real or hyperbole especially in view of recent AI mediated layoffs",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8kqe7/is_the_ai_codecalypse_real_or_hyperbole/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T11:27:09+00:00"
     }
 ]
