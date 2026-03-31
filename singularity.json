@@ -6,16 +6,16 @@
         "published": "2026-03-30T19:02:14+00:00"
     },
     {
-        "title": "Figure AI's Humanoid Walks into A Photoshoot By Itself!",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7wilx/figure_ais_humanoid_walks_into_a_photoshoot_by/",
-        "image": "https://external-preview.redd.it/eHU1ZnZ5Z3dyN3NnMdkxcflIB72v-cB17QEBJv2YezfXdWunG-AeTVNIe8nF.png?width=640&crop=smart&auto=webp&s=a9f9be0bb7060da8235df7fc7d627fcab06e7531",
-        "published": "2026-03-30T17:04:05+00:00"
-    },
-    {
         "title": "Computer use is now in Claude Code",
         "link": "https://www.reddit.com/r/singularity/comments/1s7xb09/computer_use_is_now_in_claude_code/",
         "image": "https://external-preview.redd.it/ZmZsOG55YW93N3NnMSzlyA4AQYFy9Gb0FvxB6-H-HyWWpCiV0lCBHKHpI-y9.png?width=640&crop=smart&auto=webp&s=91a03a8fc6c3f096fde43ed7e27cef65a605680b",
         "published": "2026-03-30T17:31:13+00:00"
+    },
+    {
+        "title": "Figure AI's Humanoid Walks into A Photoshoot By Itself!",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7wilx/figure_ais_humanoid_walks_into_a_photoshoot_by/",
+        "image": "https://external-preview.redd.it/eHU1ZnZ5Z3dyN3NnMdkxcflIB72v-cB17QEBJv2YezfXdWunG-AeTVNIe8nF.png?width=640&crop=smart&auto=webp&s=a9f9be0bb7060da8235df7fc7d627fcab06e7531",
+        "published": "2026-03-30T17:04:05+00:00"
     },
     {
         "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Are we sure?",
@@ -30,16 +30,16 @@
         "published": "2026-03-30T13:58:49+00:00"
     },
     {
-        "title": "AI 2027 current accuracy",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7q8g5/ai_2027_current_accuracy/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-30T13:13:53+00:00"
-    },
-    {
         "title": "Stanford Researchers Autonomously Improved A Harness And SIGNIFICANTLY Beat Claude Code on TerminalBench 2",
         "link": "https://www.reddit.com/r/singularity/comments/1s81vhz/stanford_researchers_autonomously_improved_a/",
         "image": "https://preview.redd.it/n4klcjjgp8sg1.jpeg?width=640&crop=smart&auto=webp&s=aad583bf57e391a765baf917daa434a1b0df8197",
         "published": "2026-03-30T20:12:25+00:00"
+    },
+    {
+        "title": "AI 2027 current accuracy",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7q8g5/ai_2027_current_accuracy/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-30T13:13:53+00:00"
     },
     {
         "title": "Are AI robots actually close to being any good?",
@@ -48,16 +48,16 @@
         "published": "2026-03-30T03:57:03+00:00"
     },
     {
-        "title": "What is your 5 year predication?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7gwe2/what_is_your_5_year_predication/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-30T04:36:29+00:00"
-    },
-    {
         "title": "Neuro-symbolic AI could slash energy use while dramatically improving performance",
         "link": "https://www.reddit.com/r/singularity/comments/1s7faeb/neurosymbolic_ai_could_slash_energy_use_while/",
         "image": "https://external-preview.redd.it/CkcPezykQQXDX31rHu_MxBx9tGPbAkL3FNXlxdrfLek.jpeg?width=640&crop=smart&auto=webp&s=b691304a5283874e56827a72224935df0dedfe7b",
         "published": "2026-03-30T03:12:40+00:00"
+    },
+    {
+        "title": "What is your 5 year predication?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7gwe2/what_is_your_5_year_predication/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-30T04:36:29+00:00"
     },
     {
         "title": "Tazbentetol for schizophrenia shows symptom improvement in phase 2 trial. Tazbentetol likely modulates fascin-1/F-actin dynamics, thereby promoting synaptic regeneration in the brain.",
@@ -72,12 +72,6 @@
         "published": "2026-03-30T07:44:47+00:00"
     },
     {
-        "title": "World\u2019s first telerobotic neurosurgery performed on stroke patient 120 miles away",
-        "link": "https://www.reddit.com/r/singularity/comments/1s80gw4/worlds_first_telerobotic_neurosurgery_performed/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-30T19:21:56+00:00"
-    },
-    {
         "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
         "link": "https://www.reddit.com/r/singularity/comments/1s8574h/new_llm_buyout_game_benchmark_this_compresses/",
         "image": "https://preview.redd.it/mieykw6va9sg1.png?width=140&height=140&auto=webp&s=c3ee1173b96a9928ff0387a14446a958cdf05d82",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s85k3l/micron_reportedly_planning_hbmstyle_gddr_stack/",
         "image": "https://external-preview.redd.it/KqRiPNObDVzqWs9CP_esiUW4ShzdM8bvdnGPcJaMKAc.jpeg?width=640&crop=smart&auto=webp&s=722277b8ac17512f498c2203e99dadd0a50ff3fa",
         "published": "2026-03-30T22:31:19+00:00"
+    },
+    {
+        "title": "World\u2019s first telerobotic neurosurgery performed on stroke patient 120 miles away",
+        "link": "https://www.reddit.com/r/singularity/comments/1s80gw4/worlds_first_telerobotic_neurosurgery_performed/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-30T19:21:56+00:00"
     }
 ]
