@@ -6,16 +6,16 @@
         "published": "2026-03-30T19:02:14+00:00"
     },
     {
-        "title": "Computer use is now in Claude Code",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7xb09/computer_use_is_now_in_claude_code/",
-        "image": "https://external-preview.redd.it/ZmZsOG55YW93N3NnMSzlyA4AQYFy9Gb0FvxB6-H-HyWWpCiV0lCBHKHpI-y9.png?width=640&crop=smart&auto=webp&s=91a03a8fc6c3f096fde43ed7e27cef65a605680b",
-        "published": "2026-03-30T17:31:13+00:00"
-    },
-    {
         "title": "Claude code source code has been leaked via a map file in their npm registry",
         "link": "https://www.reddit.com/r/singularity/comments/1s8izpi/claude_code_source_code_has_been_leaked_via_a_map/",
         "image": "https://preview.redd.it/0dsbxr4urcsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27de39bc05be6b4f83b5591ef2aac55f88c3ac12",
         "published": "2026-03-31T09:52:20+00:00"
+    },
+    {
+        "title": "Computer use is now in Claude Code",
+        "link": "https://www.reddit.com/r/singularity/comments/1s7xb09/computer_use_is_now_in_claude_code/",
+        "image": "https://external-preview.redd.it/ZmZsOG55YW93N3NnMSzlyA4AQYFy9Gb0FvxB6-H-HyWWpCiV0lCBHKHpI-y9.png?width=640&crop=smart&auto=webp&s=91a03a8fc6c3f096fde43ed7e27cef65a605680b",
+        "published": "2026-03-30T17:31:13+00:00"
     },
     {
         "title": "Figure AI's Humanoid Walks into A Photoshoot By Itself!",
@@ -28,18 +28,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s81vhz/stanford_researchers_autonomously_improved_a/",
         "image": "https://preview.redd.it/n4klcjjgp8sg1.jpeg?width=640&crop=smart&auto=webp&s=aad583bf57e391a765baf917daa434a1b0df8197",
         "published": "2026-03-30T20:12:25+00:00"
-    },
-    {
-        "title": "Qwen3.5 Omni - Qwen\u2019s latest generation of fully omnimodal LLM",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7rcwr/qwen35_omni_qwens_latest_generation_of_fully/",
-        "image": "https://preview.redd.it/nj9905diu6sg1.png?width=640&crop=smart&auto=webp&s=ccbf807aa7c9f204c2ad3a3005d74a021f9f38c3",
-        "published": "2026-03-30T13:58:49+00:00"
-    },
-    {
-        "title": "AI 2027 current accuracy",
-        "link": "https://www.reddit.com/r/singularity/comments/1s7q8g5/ai_2027_current_accuracy/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-30T13:13:53+00:00"
     },
     {
         "title": "New: LLM Buyout Game Benchmark. This compresses several abilities into a single game. A model has to read coalition politics, price private deals, decide when survival is worth paying for and manage a buyout endgame. GPT-5.4 (high) is #1. GLM-5 is #2. Opus 4.6 (high) is #3.",
@@ -66,27 +54,21 @@
         "published": "2026-03-31T01:32:21+00:00"
     },
     {
-        "title": "Cops Use AI to Jail Innocent Grandmother for 6 MONTHS - YouTube",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8jwa2/cops_use_ai_to_jail_innocent_grandmother_for_6/",
-        "image": "https://external-preview.redd.it/ia_hBWakte4pL9LxmICdZGIQuG37vO0_Ose-mBK-M1w.jpeg?width=320&crop=smart&auto=webp&s=0c7bd36c187380cb05b6a493dfcdaf708af7d5f0",
-        "published": "2026-03-31T10:42:34+00:00"
-    },
-    {
-        "title": "Claude Code leaked - this week we will see how other models perform under Claude Code harness",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8js97/claude_code_leaked_this_week_we_will_see_how/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T10:36:42+00:00"
-    },
-    {
         "title": "Flexiv has officially unveiled Enlight, the world\u2019s first all-sensing adaptive robotic arm that features a breakthrough \"electronic skin\" capable of tactile perception that rivals human sensitivity, achieving a resolution of 2mm.",
         "link": "https://www.reddit.com/r/singularity/comments/1s8fh5t/flexiv_has_officially_unveiled_enlight_the_worlds/",
         "image": "https://external-preview.redd.it/96xN0nkmwYH93TQtZpd6x24EqL24CUvwT3JelF_h1PU.jpeg?width=320&crop=smart&auto=webp&s=d11f005511f230cece9d08f169021269f09a61ac",
         "published": "2026-03-31T06:17:02+00:00"
     },
     {
-        "title": "Is the AI 'codecalypse' real or hyperbole especially in view of recent AI mediated layoffs",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8kqe7/is_the_ai_codecalypse_real_or_hyperbole/",
+        "title": "Vibecoded a deep-research tool based on leaked Claude Code's framework",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8msnw/vibecoded_a_deepresearch_tool_based_on_leaked/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T11:27:09+00:00"
+        "published": "2026-03-31T13:02:28+00:00"
+    },
+    {
+        "title": "KwaiKAT released KAT-Coder-Pro V2 non-reasoning language model. It features good performance for the cost to run it.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8my48/kwaikat_released_katcoderpro_v2_nonreasoning/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T13:08:28+00:00"
     }
 ]
