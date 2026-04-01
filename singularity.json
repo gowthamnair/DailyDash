@@ -1,11 +1,5 @@
 [
     {
-        "title": "Claude code source code has been leaked via a map file in their npm registry",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8izpi/claude_code_source_code_has_been_leaked_via_a_map/",
-        "image": "https://preview.redd.it/0dsbxr4urcsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=27de39bc05be6b4f83b5591ef2aac55f88c3ac12",
-        "published": "2026-03-31T09:52:20+00:00"
-    },
-    {
         "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
         "link": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
         "image": "https://external-preview.redd.it/VEaAgQglTn7eIXGXsRPxbOSTvipBubL7Lx5o7rd0G58.png?width=640&crop=smart&auto=webp&s=d9088d1152b1476183d20cd845207e6532fa561b",
@@ -36,12 +30,6 @@
         "published": "2026-04-01T01:14:14+00:00"
     },
     {
-        "title": "Promises, promises",
-        "link": "https://www.reddit.com/r/singularity/comments/1s98e8y/promises_promises/",
-        "image": "https://preview.redd.it/2andxa8ithsg1.jpeg?width=640&crop=smart&auto=webp&s=ef900a45f6a20d531455f2fe33e9c73ff8633046",
-        "published": "2026-04-01T02:50:36+00:00"
-    },
-    {
         "title": "Claude rebuilt a working Claude Code executable entirely from leaked sourcemap, then edited its source to add a custom startup animation",
         "link": "https://www.reddit.com/r/singularity/comments/1s939g5/claude_rebuilt_a_working_claude_code_executable/",
         "image": "https://external-preview.redd.it/NG51anBlb2ZwZ3NnMWi-kGk0lWkEdJnxajJ0pGa5a0ZSzqoMF027zTsZHGMe.png?width=640&crop=smart&auto=webp&s=3c3c678106192014de16b17ab4f09d31bebef352",
@@ -52,6 +40,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8swqq/google_introduced_veo_31_lite/",
         "image": "https://preview.redd.it/25oumbi9uesg1.png?width=640&crop=smart&auto=webp&s=7d4687385616f0e82043aa0d308d021f5055c780",
         "published": "2026-03-31T16:49:42+00:00"
+    },
+    {
+        "title": "Sources Indicate Anthropic Internally Expects AGI In 6-12 Months",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8xqpf/sources_indicate_anthropic_internally_expects_agi/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-03-31T19:39:28+00:00"
     },
     {
         "title": "How accurate was AI 2027 in your opinion?",
