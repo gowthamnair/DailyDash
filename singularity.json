@@ -12,22 +12,28 @@
         "published": "2026-03-31T21:14:45+00:00"
     },
     {
-        "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8txf4/quantum_computers_need_just_10000_qubits_to_break/",
-        "image": "https://external-preview.redd.it/XmeLDeoVxGVTEunpgZdKiFuGVtwh_tSIiVN3D_oetWs.jpeg?width=640&crop=smart&auto=webp&s=0b1dcdf57941fef3de5f41fb28cac477cc93056e",
-        "published": "2026-03-31T17:25:23+00:00"
-    },
-    {
         "title": "Neuralink enabling people with ALS to speak again.",
         "link": "https://www.reddit.com/r/singularity/comments/1s97at4/neuralink_enabling_people_with_als_to_speak_again/",
         "image": "https://external-preview.redd.it/Nnd3ZDVxanNraHNnMeKh6CepdrCGykutm2XzwotbFPOSeqr27IXrxipgqcH6.png?width=640&crop=smart&auto=webp&s=7919a55e0a29ce8a96b89e1c6037b340e28b73ed",
         "published": "2026-04-01T02:02:01+00:00"
     },
     {
+        "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8txf4/quantum_computers_need_just_10000_qubits_to_break/",
+        "image": "https://external-preview.redd.it/XmeLDeoVxGVTEunpgZdKiFuGVtwh_tSIiVN3D_oetWs.jpeg?width=640&crop=smart&auto=webp&s=0b1dcdf57941fef3de5f41fb28cac477cc93056e",
+        "published": "2026-03-31T17:25:23+00:00"
+    },
+    {
         "title": "Oracle with about 162K employees, is laying off thousands of workers again to cut costs amid its push into AI",
         "link": "https://www.reddit.com/r/singularity/comments/1s92y01/oracle_with_about_162k_employees_is_laying_off/",
         "image": "https://external-preview.redd.it/eTC-T5YH3HOab2QrZCFTFdFlEtmAveVyRgRAIQTnqDc.jpeg?width=640&crop=smart&auto=webp&s=529fc2976eca9ec80edf6731b6712ff0207b0efc",
         "published": "2026-03-31T22:55:28+00:00"
+    },
+    {
+        "title": "Never thank the internal signals, Claude! (My favorite part from the Claude Code leak)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s967ti/never_thank_the_internal_signals_claude_my/",
+        "image": "https://preview.redd.it/wxz0krd5chsg1.png?width=640&crop=smart&auto=webp&s=216c02ae12dc207696ac82fc1b4044f001cdcba8",
+        "published": "2026-04-01T01:14:14+00:00"
     },
     {
         "title": "Promises, promises",
@@ -40,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s939g5/claude_rebuilt_a_working_claude_code_executable/",
         "image": "https://external-preview.redd.it/NG51anBlb2ZwZ3NnMWi-kGk0lWkEdJnxajJ0pGa5a0ZSzqoMF027zTsZHGMe.png?width=640&crop=smart&auto=webp&s=3c3c678106192014de16b17ab4f09d31bebef352",
         "published": "2026-03-31T23:08:27+00:00"
-    },
-    {
-        "title": "Never thank the internal signals, Claude! (My favorite part from the Claude Code leak)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s967ti/never_thank_the_internal_signals_claude_my/",
-        "image": "https://preview.redd.it/wxz0krd5chsg1.png?width=640&crop=smart&auto=webp&s=216c02ae12dc207696ac82fc1b4044f001cdcba8",
-        "published": "2026-04-01T01:14:14+00:00"
     },
     {
         "title": "Google introduced Veo 3.1 Lite",
@@ -70,11 +70,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8my48/kwaikat_released_katcoderpro_v2_nonreasoning/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T13:08:28+00:00"
-    },
-    {
-        "title": "19 Opus agents were asked if they're conscious. Not one said yes. Not one said no. All said the same in code. (The words of Claude Spinner verb Repo)",
-        "link": "https://www.reddit.com/r/singularity/comments/1s98dyj/19_opus_agents_were_asked_if_theyre_conscious_not/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-01T02:50:16+00:00"
     }
 ]
