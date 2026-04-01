@@ -1,15 +1,15 @@
 [
     {
-        "title": "CEO of America\u2019s largest public hospital system says he\u2019s ready to replace radiologists with AI",
-        "link": "https://www.reddit.com/r/technology/comments/1s942fa/ceo_of_americas_largest_public_hospital_system/",
-        "image": "https://external-preview.redd.it/aPz5rnEAvUHeI-rSBraw9Ob_CBwimECkDOLhQt0rrb0.jpeg?width=640&crop=smart&auto=webp&s=9326efc709bdb04749f57b5c4397770a1047b363",
-        "published": "2026-03-31T23:41:00+00:00"
-    },
-    {
         "title": "US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle | VGC",
         "link": "https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/",
         "image": "https://external-preview.redd.it/nla4j3n7eCGNDLKAT6aZQBB8Q10hzyxB-PJ5AP7j8fw.jpeg?width=640&crop=smart&auto=webp&s=c1b587915c74459f30205ae825d528f1df5231fe",
         "published": "2026-04-01T13:11:32+00:00"
+    },
+    {
+        "title": "CEO of America\u2019s largest public hospital system says he\u2019s ready to replace radiologists with AI",
+        "link": "https://www.reddit.com/r/technology/comments/1s942fa/ceo_of_americas_largest_public_hospital_system/",
+        "image": "https://external-preview.redd.it/aPz5rnEAvUHeI-rSBraw9Ob_CBwimECkDOLhQt0rrb0.jpeg?width=640&crop=smart&auto=webp&s=9326efc709bdb04749f57b5c4397770a1047b363",
+        "published": "2026-03-31T23:41:00+00:00"
     },
     {
         "title": "Gabe Newell \"stepped back\" from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted \"to be part of the team and come up with ideas\"",
@@ -42,22 +42,10 @@
         "published": "2026-03-31T22:58:43+00:00"
     },
     {
-        "title": "Starlink satellite breaks apart into \u201ctens of objects\u201d; SpaceX confirms \u201canomaly\u201d",
-        "link": "https://www.reddit.com/r/technology/comments/1s91kqe/starlink_satellite_breaks_apart_into_tens_of/",
-        "image": "https://external-preview.redd.it/TrlloXiwx47x_ysGWSA4p23KsAQOz9ZA20Uo4KLzw78.jpeg?width=640&crop=smart&auto=webp&s=747a83286f7e9bf44fe305af758dc69620d25ae3",
-        "published": "2026-03-31T22:00:30+00:00"
-    },
-    {
         "title": "Iran War Chokes Off Helium Supply Critical for AI",
         "link": "https://www.reddit.com/r/technology/comments/1s9oz97/iran_war_chokes_off_helium_supply_critical_for_ai/",
         "image": "https://external-preview.redd.it/-E8KSIbH8a0gE8JTYn_rXOxCX0rWZrtV5IdxBB_irFw.jpeg?width=640&crop=smart&auto=webp&s=953c93b7c8c27750220b1e678c24b426035347e4",
         "published": "2026-04-01T16:10:26+00:00"
-    },
-    {
-        "title": "Anthropic accidentally exposes Claude Code source code",
-        "link": "https://www.reddit.com/r/technology/comments/1s967b6/anthropic_accidentally_exposes_claude_code_source/",
-        "image": "https://external-preview.redd.it/-YF48EYS7Agjld6XkY95Y0R_H9EQbdC3ECJMb8TVClE.jpeg?width=640&crop=smart&auto=webp&s=66a9f5f297f66ffd726db849f9fe28ae88a893cd",
-        "published": "2026-04-01T01:13:36+00:00"
     },
     {
         "title": "Apple Removes iPhone Vibe Coding App from App Store",
@@ -72,6 +60,18 @@
         "published": "2026-04-01T14:25:25+00:00"
     },
     {
+        "title": "Anthropic accidentally exposes Claude Code source code",
+        "link": "https://www.reddit.com/r/technology/comments/1s967b6/anthropic_accidentally_exposes_claude_code_source/",
+        "image": "https://external-preview.redd.it/-YF48EYS7Agjld6XkY95Y0R_H9EQbdC3ECJMb8TVClE.jpeg?width=640&crop=smart&auto=webp&s=66a9f5f297f66ffd726db849f9fe28ae88a893cd",
+        "published": "2026-04-01T01:13:36+00:00"
+    },
+    {
+        "title": "Kids groups say they didn\u2019t know OpenAI was behind their child safety coalition. \u201cA very grimy feeling\u201d: The ChatGPT giant quietly helped build the coalition. Some members quit when they found out.",
+        "link": "https://www.reddit.com/r/technology/comments/1s9r1yd/kids_groups_say_they_didnt_know_openai_was_behind/",
+        "image": "https://external-preview.redd.it/xx6Y9l8mMK-DtbtXWPfSG2w8YrLJQtGwsJA1HT49zhc.png?width=640&crop=smart&auto=webp&s=a11dc9c0677e6ac61ee9c811775145d276f355b2",
+        "published": "2026-04-01T17:22:41+00:00"
+    },
+    {
         "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
         "link": "https://www.reddit.com/r/technology/comments/1s97rnf/iran_threatens_to_start_attacking_major_us_tech/",
         "image": "https://external-preview.redd.it/VlFCLB7WGKp6Bv3iTjl96tQ3Qnl4URhJsnBfaCK7BFQ.jpeg?width=640&crop=smart&auto=webp&s=123ef7629584478c4d226911fbc89134c1d9d118",
@@ -84,9 +84,9 @@
         "published": "2026-04-01T12:22:16+00:00"
     },
     {
-        "title": "Kids groups say they didn\u2019t know OpenAI was behind their child safety coalition. \u201cA very grimy feeling\u201d: The ChatGPT giant quietly helped build the coalition. Some members quit when they found out.",
-        "link": "https://www.reddit.com/r/technology/comments/1s9r1yd/kids_groups_say_they_didnt_know_openai_was_behind/",
-        "image": "https://external-preview.redd.it/xx6Y9l8mMK-DtbtXWPfSG2w8YrLJQtGwsJA1HT49zhc.png?width=640&crop=smart&auto=webp&s=a11dc9c0677e6ac61ee9c811775145d276f355b2",
-        "published": "2026-04-01T17:22:41+00:00"
+        "title": "First Western Digital, now Sony: The tech giant suspends SD card sales",
+        "link": "https://www.reddit.com/r/technology/comments/1s9ffcd/first_western_digital_now_sony_the_tech_giant/",
+        "image": "https://external-preview.redd.it/-kx7rR0QXXhVynWm1uBjcslmxm5PPJ74cDmBtUyBZP4.jpeg?width=640&crop=smart&auto=webp&s=d8a430d31698ba77cad033bddd849effeb85c35e",
+        "published": "2026-04-01T09:17:24+00:00"
     }
 ]
