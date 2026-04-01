@@ -1,15 +1,15 @@
 [
     {
-        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
-        "image": "https://external-preview.redd.it/VEaAgQglTn7eIXGXsRPxbOSTvipBubL7Lx5o7rd0G58.png?width=640&crop=smart&auto=webp&s=d9088d1152b1476183d20cd845207e6532fa561b",
-        "published": "2026-03-31T21:14:45+00:00"
-    },
-    {
         "title": "Neuralink enabling people with ALS to speak again.",
         "link": "https://www.reddit.com/r/singularity/comments/1s97at4/neuralink_enabling_people_with_als_to_speak_again/",
         "image": "https://external-preview.redd.it/Nnd3ZDVxanNraHNnMeKh6CepdrCGykutm2XzwotbFPOSeqr27IXrxipgqcH6.png?width=640&crop=smart&auto=webp&s=7919a55e0a29ce8a96b89e1c6037b340e28b73ed",
         "published": "2026-04-01T02:02:01+00:00"
+    },
+    {
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
+        "image": "https://external-preview.redd.it/VEaAgQglTn7eIXGXsRPxbOSTvipBubL7Lx5o7rd0G58.png?width=640&crop=smart&auto=webp&s=d9088d1152b1476183d20cd845207e6532fa561b",
+        "published": "2026-03-31T21:14:45+00:00"
     },
     {
         "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
@@ -30,10 +30,22 @@
         "published": "2026-04-01T01:14:14+00:00"
     },
     {
+        "title": "Chinese state media releases episode 2 of their AI generated Iran war animated series",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9gh9g/chinese_state_media_releases_episode_2_of_their/",
+        "image": "https://external-preview.redd.it/Y2JkMHNnaTQxa3NnMRqzP50UaPq7HdI__L5lGenB0MF1nefksr8uW7SM6HHo.png?width=640&crop=smart&auto=webp&s=e75d3580a817c38f416d212750d14d05e239e30d",
+        "published": "2026-04-01T10:16:54+00:00"
+    },
+    {
         "title": "Claude rebuilt a working Claude Code executable entirely from leaked sourcemap, then edited its source to add a custom startup animation",
         "link": "https://www.reddit.com/r/singularity/comments/1s939g5/claude_rebuilt_a_working_claude_code_executable/",
         "image": "https://external-preview.redd.it/NG51anBlb2ZwZ3NnMWi-kGk0lWkEdJnxajJ0pGa5a0ZSzqoMF027zTsZHGMe.png?width=640&crop=smart&auto=webp&s=3c3c678106192014de16b17ab4f09d31bebef352",
         "published": "2026-03-31T23:08:27+00:00"
+    },
+    {
+        "title": "Had my first day at Anthropic yesterday and was already able to successfully push my first update of Claude Code \ud83e\udd18",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9h3st/had_my_first_day_at_anthropic_yesterday_and_was/",
+        "image": "https://preview.redd.it/u84sb3xu6ksg1.jpeg?width=640&crop=smart&auto=webp&s=b3fb0000d56881249c6be92383bcb6cd471c07db",
+        "published": "2026-04-01T10:51:29+00:00"
     },
     {
         "title": "Sources Indicate Anthropic Internally Expects AGI In 6-12 Months",
@@ -52,6 +64,18 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s92hl9/how_accurate_was_ai_2027_in_your_opinion/",
         "image": "https://preview.redd.it/8b9w5b21kgsg1.png?width=140&height=72&auto=webp&s=aa95a13ce0104608ca49c7f87be7824c6dc5e937",
         "published": "2026-03-31T22:36:47+00:00"
+    },
+    {
+        "title": "Claude Code leak is overrated",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9gm47/claude_code_leak_is_overrated/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-01T10:24:41+00:00"
+    },
+    {
+        "title": "Demis Hassabis secretly built a hedge fund inside DeepMind trying to beat Jim Simons. Google shut it down.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9hca9/demis_hassabis_secretly_built_a_hedge_fund_inside/",
+        "image": "https://preview.redd.it/6aeokjtc9ksg1.png?width=640&crop=smart&auto=webp&s=4446a8e4bcc5406b176fcf6f80b3866e7286d2a4",
+        "published": "2026-04-01T11:03:40+00:00"
     },
     {
         "title": "If the AI is self improving and intelligent how can you 'own' it? Doesn't that dissolve the ROI argument for AI company valuations?",
