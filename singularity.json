@@ -12,16 +12,16 @@
         "published": "2026-04-01T02:02:01+00:00"
     },
     {
-        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
-        "image": "https://external-preview.redd.it/VEaAgQglTn7eIXGXsRPxbOSTvipBubL7Lx5o7rd0G58.png?width=640&crop=smart&auto=webp&s=d9088d1152b1476183d20cd845207e6532fa561b",
-        "published": "2026-03-31T21:14:45+00:00"
-    },
-    {
         "title": "Demis Hassabis secretly built a hedge fund inside DeepMind trying to beat Jim Simons. Google shut it down.",
         "link": "https://www.reddit.com/r/singularity/comments/1s9hca9/demis_hassabis_secretly_built_a_hedge_fund_inside/",
         "image": "https://preview.redd.it/6aeokjtc9ksg1.png?width=640&crop=smart&auto=webp&s=4446a8e4bcc5406b176fcf6f80b3866e7286d2a4",
         "published": "2026-04-01T11:03:40+00:00"
+    },
+    {
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
+        "image": "https://external-preview.redd.it/VEaAgQglTn7eIXGXsRPxbOSTvipBubL7Lx5o7rd0G58.png?width=640&crop=smart&auto=webp&s=d9088d1152b1476183d20cd845207e6532fa561b",
+        "published": "2026-03-31T21:14:45+00:00"
     },
     {
         "title": "Never thank the internal signals, Claude! (My favorite part from the Claude Code leak)",
@@ -54,28 +54,10 @@
         "published": "2026-04-01T10:24:41+00:00"
     },
     {
-        "title": "Sources Indicate Anthropic Internally Expects AGI In 6-12 Months",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8xqpf/sources_indicate_anthropic_internally_expects_agi/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T19:39:28+00:00"
-    },
-    {
         "title": "How accurate was AI 2027 in your opinion?",
         "link": "https://www.reddit.com/r/singularity/comments/1s92hl9/how_accurate_was_ai_2027_in_your_opinion/",
         "image": "https://preview.redd.it/8b9w5b21kgsg1.png?width=140&height=72&auto=webp&s=aa95a13ce0104608ca49c7f87be7824c6dc5e937",
         "published": "2026-03-31T22:36:47+00:00"
-    },
-    {
-        "title": "If the AI is self improving and intelligent how can you 'own' it? Doesn't that dissolve the ROI argument for AI company valuations?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8x8is/if_the_ai_is_self_improving_and_intelligent_how/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T19:21:44+00:00"
-    },
-    {
-        "title": "Figure AI CEO shared that in March they reached a milestone, manufacturing more robots than ever before",
-        "link": "https://www.reddit.com/r/singularity/comments/1s9otxj/figure_ai_ceo_shared_that_in_march_they_reached_a/",
-        "image": "https://external-preview.redd.it/NWplcmpwaTVybHNnMY3VlMPacFv9N_pVVovO2JyspGdXaeIAvAwYCgtfhqLX.png?width=640&crop=smart&auto=webp&s=5cd7affdff0cbf179d55ae74e87b34ad12491362",
-        "published": "2026-04-01T16:05:00+00:00"
     },
     {
         "title": "OpenAI $122B Round: The Numbers Are Absurd",
@@ -84,9 +66,27 @@
         "published": "2026-04-01T16:22:24+00:00"
     },
     {
+        "title": "grandad said calculators were cheating, our prof said google was cheating, tech lead said stack overflow was cheating and now we're surprised the AI meltdown looks exactly the same?",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9t0kl/grandad_said_calculators_were_cheating_our_prof/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-01T18:29:03+00:00"
+    },
+    {
         "title": "Pro-AI group to spend $100mn on US midterm elections as backlash grows",
         "link": "https://www.reddit.com/r/singularity/comments/1s9rl7j/proai_group_to_spend_100mn_on_us_midterm/",
         "image": "https://external-preview.redd.it/8hCuiOzp7gWUv9qWuJsQGi-RXSGgR7XxSQM79L8hINw.jpeg?width=640&crop=smart&auto=webp&s=980e4a7befa10007f50d61c60876ca1cf79d5770",
         "published": "2026-04-01T17:41:09+00:00"
+    },
+    {
+        "title": "Figure AI CEO shared that in March they reached a milestone, manufacturing more robots than ever before",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9otxj/figure_ai_ceo_shared_that_in_march_they_reached_a/",
+        "image": "https://external-preview.redd.it/NWplcmpwaTVybHNnMY3VlMPacFv9N_pVVovO2JyspGdXaeIAvAwYCgtfhqLX.png?width=640&crop=smart&auto=webp&s=5cd7affdff0cbf179d55ae74e87b34ad12491362",
+        "published": "2026-04-01T16:05:00+00:00"
+    },
+    {
+        "title": "SMASH2000, an AI controlled optic that fits on standard military rifles, are being used in Ukraine and Middle East",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9tg98/smash2000_an_ai_controlled_optic_that_fits_on/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-01T18:44:15+00:00"
     }
 ]
