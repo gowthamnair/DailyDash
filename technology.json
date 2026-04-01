@@ -1,15 +1,15 @@
 [
     {
-        "title": "Iran Threatens to Attack U.S. Tech Companies Starting April 1 / Iran says it will target Apple, Google, and Microsoft, among others.",
-        "link": "https://www.reddit.com/r/technology/comments/1s8ua7r/iran_threatens_to_attack_us_tech_companies/",
-        "image": "https://external-preview.redd.it/uhK2UqIjGUAqBQrb8PbvIjD3S_I-PXu8hOB1ZKuHOSQ.jpeg?width=640&crop=smart&auto=webp&s=39e96870a57852e527d6aa1266cfcd88485a98a5",
-        "published": "2026-03-31T17:37:53+00:00"
-    },
-    {
         "title": "CEO of America\u2019s largest public hospital system says he\u2019s ready to replace radiologists with AI",
         "link": "https://www.reddit.com/r/technology/comments/1s942fa/ceo_of_americas_largest_public_hospital_system/",
         "image": "https://external-preview.redd.it/aPz5rnEAvUHeI-rSBraw9Ob_CBwimECkDOLhQt0rrb0.jpeg?width=640&crop=smart&auto=webp&s=9326efc709bdb04749f57b5c4397770a1047b363",
         "published": "2026-03-31T23:41:00+00:00"
+    },
+    {
+        "title": "US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle | VGC",
+        "link": "https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/",
+        "image": "https://external-preview.redd.it/nla4j3n7eCGNDLKAT6aZQBB8Q10hzyxB-PJ5AP7j8fw.jpeg?width=640&crop=smart&auto=webp&s=c1b587915c74459f30205ae825d528f1df5231fe",
+        "published": "2026-04-01T13:11:32+00:00"
     },
     {
         "title": "Judge blocks executive order to end federal funding for PBS and NPR",
@@ -24,16 +24,16 @@
         "published": "2026-04-01T01:00:44+00:00"
     },
     {
-        "title": "US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle | VGC",
-        "link": "https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/",
-        "image": "https://external-preview.redd.it/nla4j3n7eCGNDLKAT6aZQBB8Q10hzyxB-PJ5AP7j8fw.jpeg?width=640&crop=smart&auto=webp&s=c1b587915c74459f30205ae825d528f1df5231fe",
-        "published": "2026-04-01T13:11:32+00:00"
-    },
-    {
         "title": "Iran says will target US firms in West Asia starting Apr 1; Microsoft, Google, Apple on list of 18: 'Expect destruction'",
         "link": "https://www.reddit.com/r/technology/comments/1s8v18p/iran_says_will_target_us_firms_in_west_asia/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T18:03:58+00:00"
+    },
+    {
+        "title": "Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code",
+        "link": "https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/",
+        "image": "https://external-preview.redd.it/Y3JyHihHBLZEbHhb4EPoBNOByGbhKxFx0xHXqoWASUA.jpeg?width=640&crop=smart&auto=webp&s=fb47d76a0726b21c32561de4df2fa8e11f86460e",
+        "published": "2026-04-01T12:48:59+00:00"
     },
     {
         "title": "OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says",
@@ -42,16 +42,16 @@
         "published": "2026-03-31T19:24:27+00:00"
     },
     {
+        "title": "Gabe Newell \"stepped back\" from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted \"to be part of the team and come up with ideas\"",
+        "link": "https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/",
+        "image": "https://external-preview.redd.it/7sm9PH5O-3VWVHzsndW-zocbQGAwhmFhlJ7ZlwiSGAA.jpeg?width=640&crop=smart&auto=webp&s=faa51caf29c916c8adc5a538d10a24a8f83b1a5e",
+        "published": "2026-04-01T14:58:08+00:00"
+    },
+    {
         "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns / Microsoft lost almost a quarter of its value in the first three months of the year, its steepest quarterly drop since the 2008 financial crisis.",
         "link": "https://www.reddit.com/r/technology/comments/1s8z34p/microsoft_closes_worst_quarter_on_wall_street/",
         "image": "https://external-preview.redd.it/WFCsp_CmFdgCTh_oAbtepEX733gbu5_QftHhLfm-TEk.jpeg?width=640&crop=smart&auto=webp&s=a34b30be2690e3c863971cad8c3e53df5d17ddb6",
         "published": "2026-03-31T20:27:05+00:00"
-    },
-    {
-        "title": "Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code",
-        "link": "https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/",
-        "image": "https://external-preview.redd.it/Y3JyHihHBLZEbHhb4EPoBNOByGbhKxFx0xHXqoWASUA.jpeg?width=640&crop=smart&auto=webp&s=fb47d76a0726b21c32561de4df2fa8e11f86460e",
-        "published": "2026-04-01T12:48:59+00:00"
     },
     {
         "title": "Entire Claude Code CLI source code leaks thanks to exposed map file | 512,000 lines of code that competitors and hobbyists will be studying for weeks.",
@@ -66,27 +66,27 @@
         "published": "2026-04-01T06:17:33+00:00"
     },
     {
-        "title": "Jury finds Meta and YouTube negligent in landmark lawsuit on social media safety",
-        "link": "https://www.reddit.com/r/technology/comments/1s8tf8d/jury_finds_meta_and_youtube_negligent_in_landmark/",
-        "image": "https://external-preview.redd.it/e0mDIYCMX6LOgEXp7w9NDs1idjAjqO3QOEv2L8I1f2E.jpeg?width=640&crop=smart&auto=webp&s=0727126f4dfc3e97180129d4c19284556466e163",
-        "published": "2026-03-31T17:07:38+00:00"
-    },
-    {
         "title": "Oracle is cutting up to 30,000 employees to pay for AI data centres",
         "link": "https://www.reddit.com/r/technology/comments/1s930t1/oracle_is_cutting_up_to_30000_employees_to_pay/",
         "image": "https://external-preview.redd.it/trzYHgsGMHj8pCciukra2r8gM9w6sGGJ83oxAi1cgaE.jpeg?width=640&crop=smart&auto=webp&s=897ff6e38aa1f4cefb9d13d5c591ee3a30792f2b",
         "published": "2026-03-31T22:58:43+00:00"
     },
     {
-        "title": "Gabe Newell \"stepped back\" from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted \"to be part of the team and come up with ideas\"",
-        "link": "https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/",
-        "image": "https://external-preview.redd.it/7sm9PH5O-3VWVHzsndW-zocbQGAwhmFhlJ7ZlwiSGAA.jpeg?width=640&crop=smart&auto=webp&s=faa51caf29c916c8adc5a538d10a24a8f83b1a5e",
-        "published": "2026-04-01T14:58:08+00:00"
-    },
-    {
         "title": "Starlink satellite breaks apart into \u201ctens of objects\u201d; SpaceX confirms \u201canomaly\u201d",
         "link": "https://www.reddit.com/r/technology/comments/1s91kqe/starlink_satellite_breaks_apart_into_tens_of/",
         "image": "https://external-preview.redd.it/TrlloXiwx47x_ysGWSA4p23KsAQOz9ZA20Uo4KLzw78.jpeg?width=640&crop=smart&auto=webp&s=747a83286f7e9bf44fe305af758dc69620d25ae3",
         "published": "2026-03-31T22:00:30+00:00"
+    },
+    {
+        "title": "Pro-AI group to spend $100mn on US midterm elections as backlash grows",
+        "link": "https://www.reddit.com/r/technology/comments/1s8uk2j/proai_group_to_spend_100mn_on_us_midterm/",
+        "image": "https://external-preview.redd.it/8hCuiOzp7gWUv9qWuJsQGi-RXSGgR7XxSQM79L8hINw.jpeg?width=640&crop=smart&auto=webp&s=980e4a7befa10007f50d61c60876ca1cf79d5770",
+        "published": "2026-03-31T17:47:26+00:00"
+    },
+    {
+        "title": "Anthropic accidentally exposes Claude Code source code",
+        "link": "https://www.reddit.com/r/technology/comments/1s967b6/anthropic_accidentally_exposes_claude_code_source/",
+        "image": "https://external-preview.redd.it/-YF48EYS7Agjld6XkY95Y0R_H9EQbdC3ECJMb8TVClE.jpeg?width=640&crop=smart&auto=webp&s=66a9f5f297f66ffd726db849f9fe28ae88a893cd",
+        "published": "2026-04-01T01:13:36+00:00"
     }
 ]

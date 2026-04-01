@@ -30,28 +30,22 @@
         "published": "2026-04-01T01:14:14+00:00"
     },
     {
-        "title": "Quantum computers need just 10,000 qubits to break the most secure encryption, scientists warn",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8txf4/quantum_computers_need_just_10000_qubits_to_break/",
-        "image": "https://external-preview.redd.it/XmeLDeoVxGVTEunpgZdKiFuGVtwh_tSIiVN3D_oetWs.jpeg?width=640&crop=smart&auto=webp&s=0b1dcdf57941fef3de5f41fb28cac477cc93056e",
-        "published": "2026-03-31T17:25:23+00:00"
-    },
-    {
         "title": "Oracle with about 162K employees, is laying off thousands of workers again to cut costs amid its push into AI",
         "link": "https://www.reddit.com/r/singularity/comments/1s92y01/oracle_with_about_162k_employees_is_laying_off/",
         "image": "https://external-preview.redd.it/eTC-T5YH3HOab2QrZCFTFdFlEtmAveVyRgRAIQTnqDc.jpeg?width=640&crop=smart&auto=webp&s=529fc2976eca9ec80edf6731b6712ff0207b0efc",
         "published": "2026-03-31T22:55:28+00:00"
     },
     {
-        "title": "Claude rebuilt a working Claude Code executable entirely from leaked sourcemap, then edited its source to add a custom startup animation",
-        "link": "https://www.reddit.com/r/singularity/comments/1s939g5/claude_rebuilt_a_working_claude_code_executable/",
-        "image": "https://external-preview.redd.it/NG51anBlb2ZwZ3NnMWi-kGk0lWkEdJnxajJ0pGa5a0ZSzqoMF027zTsZHGMe.png?width=640&crop=smart&auto=webp&s=3c3c678106192014de16b17ab4f09d31bebef352",
-        "published": "2026-03-31T23:08:27+00:00"
-    },
-    {
         "title": "OpenAI \u201cinternal model\u201d solved 3 more Erd\u0151s problems",
         "link": "https://www.reddit.com/r/singularity/comments/1s9iz2x/openai_internal_model_solved_3_more_erd\u0151s_problems/",
         "image": "https://preview.redd.it/55u1ducdnksg1.jpeg?width=640&crop=smart&auto=webp&s=eba7f72f092c6f14a2bb88e6b51dfd64a9454b84",
         "published": "2026-04-01T12:21:33+00:00"
+    },
+    {
+        "title": "Claude rebuilt a working Claude Code executable entirely from leaked sourcemap, then edited its source to add a custom startup animation",
+        "link": "https://www.reddit.com/r/singularity/comments/1s939g5/claude_rebuilt_a_working_claude_code_executable/",
+        "image": "https://external-preview.redd.it/NG51anBlb2ZwZ3NnMWi-kGk0lWkEdJnxajJ0pGa5a0ZSzqoMF027zTsZHGMe.png?width=640&crop=smart&auto=webp&s=3c3c678106192014de16b17ab4f09d31bebef352",
+        "published": "2026-03-31T23:08:27+00:00"
     },
     {
         "title": "Claude Code leak is overrated",
@@ -64,12 +58,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1s8xqpf/sources_indicate_anthropic_internally_expects_agi/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-03-31T19:39:28+00:00"
-    },
-    {
-        "title": "Google introduced Veo 3.1 Lite",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8swqq/google_introduced_veo_31_lite/",
-        "image": "https://preview.redd.it/25oumbi9uesg1.png?width=640&crop=smart&auto=webp&s=7d4687385616f0e82043aa0d308d021f5055c780",
-        "published": "2026-03-31T16:49:42+00:00"
     },
     {
         "title": "How accurate was AI 2027 in your opinion?",
@@ -85,8 +73,14 @@
     },
     {
         "title": "Figure AI CEO shared that in March they reached a milestone, manufacturing more robots than ever before",
-        "link": "https://www.reddit.com/r/singularity/comments/1s9o805/figure_ai_ceo_shared_that_in_march_they_reached_a/",
-        "image": "https://external-preview.redd.it/ZzV1bG9tNWRubHNnMY3VlMPacFv9N_pVVovO2JyspGdXaeIAvAwYCgtfhqLX.png?width=640&crop=smart&auto=webp&s=15abef38380965c00e4ed6923730a516628cec87",
-        "published": "2026-04-01T15:43:21+00:00"
+        "link": "https://www.reddit.com/r/singularity/comments/1s9otxj/figure_ai_ceo_shared_that_in_march_they_reached_a/",
+        "image": "https://external-preview.redd.it/NWplcmpwaTVybHNnMY3VlMPacFv9N_pVVovO2JyspGdXaeIAvAwYCgtfhqLX.png?width=640&crop=smart&auto=webp&s=5cd7affdff0cbf179d55ae74e87b34ad12491362",
+        "published": "2026-04-01T16:05:00+00:00"
+    },
+    {
+        "title": "OpenAI $122B Round: The Numbers Are Absurd",
+        "link": "https://www.reddit.com/r/singularity/comments/1s9pbus/openai_122b_round_the_numbers_are_absurd/",
+        "image": "https://external-preview.redd.it/j0YeySunEqKWAHdO9KbNlIIwscYvg5ePw-d8w45NP-4.jpeg?width=640&crop=smart&auto=webp&s=cd153e1d4d6e4f9b4dfa39ea8856a791da9e01c0",
+        "published": "2026-04-01T16:22:24+00:00"
     }
 ]
