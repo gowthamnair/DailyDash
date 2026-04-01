@@ -18,16 +18,16 @@
         "published": "2026-03-31T18:44:53+00:00"
     },
     {
-        "title": "Gmail now lets you change your old email name without deleting account",
-        "link": "https://www.reddit.com/r/technology/comments/1s8pxfm/gmail_now_lets_you_change_your_old_email_name/",
-        "image": "https://external-preview.redd.it/KSnbMZ0kYbCkC0KnMBAIHaS9ovRIKeioz5j1R3X2zy4.jpeg?width=640&crop=smart&auto=webp&s=730ccfd779d82f6ed72cdfa22420884e5828dfda",
-        "published": "2026-03-31T15:02:20+00:00"
-    },
-    {
         "title": "Another Starlink satellite has inexplicably exploded",
         "link": "https://www.reddit.com/r/technology/comments/1s95wqn/another_starlink_satellite_has_inexplicably/",
         "image": "https://external-preview.redd.it/Z2zlNSj3AL_CCcS5Za7GT11qHMjlqIE96xfF5SSi0eg.jpeg?width=640&crop=smart&auto=webp&s=0398643b5dbb2dcd16aa01f95766eb546a746038",
         "published": "2026-04-01T01:00:44+00:00"
+    },
+    {
+        "title": "US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle | VGC",
+        "link": "https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/",
+        "image": "https://external-preview.redd.it/nla4j3n7eCGNDLKAT6aZQBB8Q10hzyxB-PJ5AP7j8fw.jpeg?width=640&crop=smart&auto=webp&s=c1b587915c74459f30205ae825d528f1df5231fe",
+        "published": "2026-04-01T13:11:32+00:00"
     },
     {
         "title": "Iran says will target US firms in West Asia starting Apr 1; Microsoft, Google, Apple on list of 18: 'Expect destruction'",
@@ -48,10 +48,22 @@
         "published": "2026-03-31T20:27:05+00:00"
     },
     {
+        "title": "Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code",
+        "link": "https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/",
+        "image": "https://external-preview.redd.it/Y3JyHihHBLZEbHhb4EPoBNOByGbhKxFx0xHXqoWASUA.jpeg?width=640&crop=smart&auto=webp&s=fb47d76a0726b21c32561de4df2fa8e11f86460e",
+        "published": "2026-04-01T12:48:59+00:00"
+    },
+    {
         "title": "Entire Claude Code CLI source code leaks thanks to exposed map file | 512,000 lines of code that competitors and hobbyists will be studying for weeks.",
         "link": "https://www.reddit.com/r/technology/comments/1s8xgm6/entire_claude_code_cli_source_code_leaks_thanks/",
         "image": "https://external-preview.redd.it/NL8s_kSz5O_pLwYOZ74NgPLUKhwf5zvv5eBNE18Hs-A.jpeg?width=640&crop=smart&auto=webp&s=0c40c234e27be38e9a38c3d5e9562dd09cd6bcd7",
         "published": "2026-03-31T19:29:37+00:00"
+    },
+    {
+        "title": "A million new SpaceX satellites will destroy the night sky \u2014 for everyone on Earth",
+        "link": "https://www.reddit.com/r/technology/comments/1s9cfj4/a_million_new_spacex_satellites_will_destroy_the/",
+        "image": "https://external-preview.redd.it/xsPUmvdmAtNnYJo-pzCPHP3xytKk08cVoGzD9osSHtY.jpeg?width=640&crop=smart&auto=webp&s=e40cbc6949ea5253fca368d39a281928055b26d5",
+        "published": "2026-04-01T06:17:33+00:00"
     },
     {
         "title": "Jury finds Meta and YouTube negligent in landmark lawsuit on social media safety",
@@ -66,27 +78,15 @@
         "published": "2026-03-31T22:58:43+00:00"
     },
     {
-        "title": "A million new SpaceX satellites will destroy the night sky \u2014 for everyone on Earth",
-        "link": "https://www.reddit.com/r/technology/comments/1s9cfj4/a_million_new_spacex_satellites_will_destroy_the/",
-        "image": "https://external-preview.redd.it/xsPUmvdmAtNnYJo-pzCPHP3xytKk08cVoGzD9osSHtY.jpeg?width=640&crop=smart&auto=webp&s=e40cbc6949ea5253fca368d39a281928055b26d5",
-        "published": "2026-04-01T06:17:33+00:00"
-    },
-    {
-        "title": "Anthropic issues copyright takedown requests to remove 8,000+ copies of Claude Code source code",
-        "link": "https://www.reddit.com/r/technology/comments/1s9jljp/anthropic_issues_copyright_takedown_requests_to/",
-        "image": "https://external-preview.redd.it/Y3JyHihHBLZEbHhb4EPoBNOByGbhKxFx0xHXqoWASUA.jpeg?width=640&crop=smart&auto=webp&s=fb47d76a0726b21c32561de4df2fa8e11f86460e",
-        "published": "2026-04-01T12:48:59+00:00"
+        "title": "Gabe Newell \"stepped back\" from making games at Valve after Portal 2 because everyone kept agreeing with him when he wanted \"to be part of the team and come up with ideas\"",
+        "link": "https://www.reddit.com/r/technology/comments/1s9mxz1/gabe_newell_stepped_back_from_making_games_at/",
+        "image": "https://external-preview.redd.it/7sm9PH5O-3VWVHzsndW-zocbQGAwhmFhlJ7ZlwiSGAA.jpeg?width=640&crop=smart&auto=webp&s=faa51caf29c916c8adc5a538d10a24a8f83b1a5e",
+        "published": "2026-04-01T14:58:08+00:00"
     },
     {
         "title": "Starlink satellite breaks apart into \u201ctens of objects\u201d; SpaceX confirms \u201canomaly\u201d",
         "link": "https://www.reddit.com/r/technology/comments/1s91kqe/starlink_satellite_breaks_apart_into_tens_of/",
         "image": "https://external-preview.redd.it/TrlloXiwx47x_ysGWSA4p23KsAQOz9ZA20Uo4KLzw78.jpeg?width=640&crop=smart&auto=webp&s=747a83286f7e9bf44fe305af758dc69620d25ae3",
         "published": "2026-03-31T22:00:30+00:00"
-    },
-    {
-        "title": "US patent office revokes Nintendo\u2019s patent on summoning characters to make them battle | VGC",
-        "link": "https://www.reddit.com/r/technology/comments/1s9k5l5/us_patent_office_revokes_nintendos_patent_on/",
-        "image": "https://external-preview.redd.it/nla4j3n7eCGNDLKAT6aZQBB8Q10hzyxB-PJ5AP7j8fw.jpeg?width=640&crop=smart&auto=webp&s=c1b587915c74459f30205ae825d528f1df5231fe",
-        "published": "2026-04-01T13:11:32+00:00"
     }
 ]
