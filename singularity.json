@@ -18,28 +18,46 @@
         "published": "2026-03-31T17:25:23+00:00"
     },
     {
-        "title": "Claude Mythos benchmarks leaked",
-        "link": "https://www.reddit.com/r/singularity/comments/1s93q1j/claude_mythos_benchmarks_leaked/",
-        "image": "https://preview.redd.it/cvfzd959tgsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1c23ef2462e46c1932a09202a383c386700a43d9",
-        "published": "2026-03-31T23:27:24+00:00"
-    },
-    {
         "title": "Oracle with about 162K employees, is laying off thousands of workers again to cut costs amid its push into AI",
         "link": "https://www.reddit.com/r/singularity/comments/1s92y01/oracle_with_about_162k_employees_is_laying_off/",
         "image": "https://external-preview.redd.it/eTC-T5YH3HOab2QrZCFTFdFlEtmAveVyRgRAIQTnqDc.jpeg?width=640&crop=smart&auto=webp&s=529fc2976eca9ec80edf6731b6712ff0207b0efc",
         "published": "2026-03-31T22:55:28+00:00"
     },
     {
-        "title": "Google introduced Veo 3.1 Lite",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8swqq/google_introduced_veo_31_lite/",
-        "image": "https://preview.redd.it/25oumbi9uesg1.png?width=640&crop=smart&auto=webp&s=7d4687385616f0e82043aa0d308d021f5055c780",
-        "published": "2026-03-31T16:49:42+00:00"
+        "title": "Claude Mythos benchmarks leaked",
+        "link": "https://www.reddit.com/r/singularity/comments/1s93q1j/claude_mythos_benchmarks_leaked/",
+        "image": "https://preview.redd.it/cvfzd959tgsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1c23ef2462e46c1932a09202a383c386700a43d9",
+        "published": "2026-03-31T23:27:24+00:00"
+    },
+    {
+        "title": "Neuralink enabling people with ALS to speak again.",
+        "link": "https://www.reddit.com/r/singularity/comments/1s97at4/neuralink_enabling_people_with_als_to_speak_again/",
+        "image": "https://external-preview.redd.it/Nnd3ZDVxanNraHNnMeKh6CepdrCGykutm2XzwotbFPOSeqr27IXrxipgqcH6.png?width=640&crop=smart&auto=webp&s=7919a55e0a29ce8a96b89e1c6037b340e28b73ed",
+        "published": "2026-04-01T02:02:01+00:00"
     },
     {
         "title": "Claude rebuilt a working Claude Code executable entirely from leaked sourcemap, then edited its source to add a custom startup animation",
         "link": "https://www.reddit.com/r/singularity/comments/1s939g5/claude_rebuilt_a_working_claude_code_executable/",
         "image": "https://external-preview.redd.it/NG51anBlb2ZwZ3NnMWi-kGk0lWkEdJnxajJ0pGa5a0ZSzqoMF027zTsZHGMe.png?width=640&crop=smart&auto=webp&s=3c3c678106192014de16b17ab4f09d31bebef352",
         "published": "2026-03-31T23:08:27+00:00"
+    },
+    {
+        "title": "Promises, promises",
+        "link": "https://www.reddit.com/r/singularity/comments/1s98e8y/promises_promises/",
+        "image": "https://preview.redd.it/2andxa8ithsg1.jpeg?width=640&crop=smart&auto=webp&s=ef900a45f6a20d531455f2fe33e9c73ff8633046",
+        "published": "2026-04-01T02:50:36+00:00"
+    },
+    {
+        "title": "Never thank the internal signals, Claude! (My favorite part from the Claude Code leak)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s967ti/never_thank_the_internal_signals_claude_my/",
+        "image": "https://preview.redd.it/wxz0krd5chsg1.png?width=640&crop=smart&auto=webp&s=216c02ae12dc207696ac82fc1b4044f001cdcba8",
+        "published": "2026-04-01T01:14:14+00:00"
+    },
+    {
+        "title": "Google introduced Veo 3.1 Lite",
+        "link": "https://www.reddit.com/r/singularity/comments/1s8swqq/google_introduced_veo_31_lite/",
+        "image": "https://preview.redd.it/25oumbi9uesg1.png?width=640&crop=smart&auto=webp&s=7d4687385616f0e82043aa0d308d021f5055c780",
+        "published": "2026-03-31T16:49:42+00:00"
     },
     {
         "title": "How accurate was AI 2027 in your opinion?",
@@ -54,12 +72,6 @@
         "published": "2026-03-31T06:17:02+00:00"
     },
     {
-        "title": "LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space",
-        "link": "https://www.reddit.com/r/singularity/comments/1s89qxr/longcataudiodit_highfidelity_diffusion/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T01:32:21+00:00"
-    },
-    {
         "title": "If the AI is self improving and intelligent how can you 'own' it? Doesn't that dissolve the ROI argument for AI company valuations?",
         "link": "https://www.reddit.com/r/singularity/comments/1s8x8is/if_the_ai_is_self_improving_and_intelligent_how/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -72,21 +84,9 @@
         "published": "2026-03-31T13:08:28+00:00"
     },
     {
-        "title": "The frontier AI labs have probably already achieved RSI",
-        "link": "https://www.reddit.com/r/singularity/comments/1s93v16/the_frontier_ai_labs_have_probably_already/",
+        "title": "19 Opus agents were asked if they're conscious. Not one said yes. Not one said no. All said the same in code. (The words of Claude Spinner verb Repo)",
+        "link": "https://www.reddit.com/r/singularity/comments/1s98dyj/19_opus_agents_were_asked_if_theyre_conscious_not/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T23:33:21+00:00"
-    },
-    {
-        "title": "Don't miss this once in a lifetime opportunity to hear from far right AI luminaries",
-        "link": "https://www.reddit.com/r/singularity/comments/1s94f10/dont_miss_this_once_in_a_lifetime_opportunity_to/",
-        "image": "https://preview.redd.it/bw2e5uz4ygsg1.png?width=140&height=139&auto=webp&s=98fc1749c4f29b8c68246188af9495e7a43fae03",
-        "published": "2026-03-31T23:56:06+00:00"
-    },
-    {
-        "title": "AITA?",
-        "link": "https://www.reddit.com/r/singularity/comments/1s8zk6u/aita/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-03-31T20:44:13+00:00"
+        "published": "2026-04-01T02:50:16+00:00"
     }
 ]
