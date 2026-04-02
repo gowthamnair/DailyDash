@@ -1,15 +1,15 @@
 [
     {
-        "title": "Man dies in storm as Saharan dust shrouds Crete",
-        "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a393/live/4e7fa9c0-2e65-11f1-9408-ab8675603e32.jpg",
-        "published": "Thu, 02 Apr 2026 07:54:44 GMT"
-    },
-    {
         "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
         "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7f7/live/248b3460-2e9a-11f1-90b9-6ffcd881a7dc.jpg",
         "published": "Thu, 02 Apr 2026 13:41:27 GMT"
+    },
+    {
+        "title": "Iran's two largest steel plants shut down due to strikes, companies say",
+        "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1741/live/01668510-2eaa-11f1-9ffd-4303eb833784.jpg",
+        "published": "Thu, 02 Apr 2026 17:01:08 GMT"
     },
     {
         "title": "Brazil grants joint custody over pets in new law for separated couples",
@@ -18,16 +18,16 @@
         "published": "Thu, 02 Apr 2026 09:38:08 GMT"
     },
     {
+        "title": "Baby shot dead in pram in New York City, police say",
+        "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1f63/live/7805e2a0-2ea1-11f1-a79a-77e93010d956.png",
+        "published": "Thu, 02 Apr 2026 15:20:02 GMT"
+    },
+    {
         "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodr\u00edguez",
         "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7a22/live/f7ec8a60-2e7d-11f1-8dc4-7bd9501845f2.jpg",
         "published": "Thu, 02 Apr 2026 11:55:37 GMT"
-    },
-    {
-        "title": "Infant shot dead on New York street by  men on motorbike, police say",
-        "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1f63/live/7805e2a0-2ea1-11f1-a79a-77e93010d956.png",
-        "published": "Thu, 02 Apr 2026 15:20:02 GMT"
     },
     {
         "title": "Ancient golden helmet recovered more than a year after Dutch heist",
@@ -36,10 +36,22 @@
         "published": "Thu, 02 Apr 2026 14:20:02 GMT"
     },
     {
+        "title": "Man dies in storm near Athens as Saharan dust shrouds Crete",
+        "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fb94/live/ae692d10-2eb6-11f1-934f-036468834728.jpg",
+        "published": "Thu, 02 Apr 2026 17:32:25 GMT"
+    },
+    {
         "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
         "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/89d1/live/c0b9dad0-2e90-11f1-a4cb-179d6842c4b9.jpg",
         "published": "Thu, 02 Apr 2026 16:00:58 GMT"
+    },
+    {
+        "title": "Four toddlers stabbed to death at Ugandan nursery school",
+        "link": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/77cb/live/2728d260-2e89-11f1-98e7-6b639170d418.jpg",
+        "published": "Thu, 02 Apr 2026 15:13:08 GMT"
     },
     {
         "title": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
@@ -52,12 +64,6 @@
         "link": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8970/live/91993720-2e43-11f1-b835-3f8c3a2eefdd.jpg",
         "published": "Thu, 02 Apr 2026 04:00:48 GMT"
-    },
-    {
-        "title": "Four toddlers stabbed to death at Ugandan nursery school",
-        "link": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/77cb/live/2728d260-2e89-11f1-98e7-6b639170d418.jpg",
-        "published": "Thu, 02 Apr 2026 15:13:08 GMT"
     },
     {
         "title": "Australia to crack down on gambling ads after years of criticism",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7dc1/live/42335700-2dfe-11f1-b297-95b0a0a8331e.jpg",
         "published": "Wed, 01 Apr 2026 22:00:17 GMT"
-    },
-    {
-        "title": "Alleged Bondi gunman loses court bid to suppress names of his family",
-        "link": "https://www.bbc.com/news/articles/c4glrnv3qlvo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d3bc/live/38d2e5b0-21c7-11f1-9427-37bf6730c1db.jpg",
-        "published": "Thu, 02 Apr 2026 01:08:59 GMT"
     }
 ]
