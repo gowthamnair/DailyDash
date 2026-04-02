@@ -1,5 +1,11 @@
 [
     {
+        "title": "Trump removes US Attorney General Pam Bondi",
+        "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8b4f/live/f244f0d0-2ec7-11f1-bb7c-976587a5003c.jpg",
+        "published": "Thu, 02 Apr 2026 19:26:56 GMT"
+    },
+    {
         "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
         "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7f7/live/248b3460-2e9a-11f1-90b9-6ffcd881a7dc.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8acc/live/97d49050-2e69-11f1-b297-95b0a0a8331e.jpg",
         "published": "Wed, 01 Apr 2026 22:35:54 GMT"
-    },
-    {
-        "title": "US Supreme Court appears sceptical of Trump plan to limit birthright citizenship",
-        "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7dc1/live/42335700-2dfe-11f1-b297-95b0a0a8331e.jpg",
-        "published": "Wed, 01 Apr 2026 22:00:17 GMT"
     }
 ]
