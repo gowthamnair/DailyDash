@@ -72,12 +72,6 @@
         "published": "2026-04-02T17:34:01+00:00"
     },
     {
-        "title": "'Uncle Larry\u2019s biggest fan' cut by email in early morning Oracle layoff spree",
-        "link": "https://www.reddit.com/r/technology/comments/1sab2h2/uncle_larrys_biggest_fan_cut_by_email_in_early/",
-        "image": "https://external-preview.redd.it/TV5Jfq1mTrblZbvh-gaSvtm_1xVhY9jlzurnJpWt9XY.jpeg?width=640&crop=smart&auto=webp&s=15f5e866fd6676bd620f832ce0ad8d791d230318",
-        "published": "2026-04-02T07:53:45+00:00"
-    },
-    {
         "title": "Solar Balconies Take Europe By Storm",
         "link": "https://www.reddit.com/r/technology/comments/1saf0vb/solar_balconies_take_europe_by_storm/",
         "image": "https://external-preview.redd.it/Zhc-fSz22dWrRVSP1UvCEWyqqvzuiqXF-92ZfCtcqwA.jpeg?width=640&crop=smart&auto=webp&s=6405c24cdaf39526d2382d433db6ebfd307aa13a",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1sahquk/artemis_2_crew_fixes_toilet_can_now_pee_in_it/",
         "image": "https://external-preview.redd.it/nTgas7LgQxwt-BD8AuYXl-Dmu1rcFeTqQj-fMlILWyQ.jpeg?width=640&crop=smart&auto=webp&s=8347bcfe7cb1b9302a17a374c7ae91aced8aa3a1",
         "published": "2026-04-02T13:41:56+00:00"
+    },
+    {
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+        "link": "https://www.reddit.com/r/technology/comments/1saguiz/anthropic_took_down_thousands_of_github_repos/",
+        "image": "https://external-preview.redd.it/fmeJqoj0lFV0C-mpgrzgXp-pmg-levt_PFmsB0wJSVM.jpeg?width=640&crop=smart&auto=webp&s=3f24e0771578d4ad55fdc8bf96bab43f684d5313",
+        "published": "2026-04-02T13:05:05+00:00"
     }
 ]
