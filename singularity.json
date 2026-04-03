@@ -1,11 +1,5 @@
 [
     {
-        "title": "Gemini 4 is coming ??",
-        "link": "https://www.reddit.com/r/singularity/comments/1sa2dmt/gemini_4_is_coming/",
-        "image": "https://preview.redd.it/0xszr7z09osg1.png?width=640&crop=smart&auto=webp&s=9d3147cc914eb71507c90b4afcce2b5e035e1341",
-        "published": "2026-04-02T00:28:35+00:00"
-    },
-    {
         "title": "Generalist | Introducing GEN-1",
         "link": "https://www.reddit.com/r/singularity/comments/1sai9i8/generalist_introducing_gen1/",
         "image": "https://external-preview.redd.it/YXVudzdpeTJhc3NnMVa3r4cotP-fb8B5BZ0OqI42JnonoPkVhSQz10ROTjae.png?width=640&crop=smart&auto=webp&s=69de77402110388fa5728a2746816b9135db6963",
@@ -30,22 +24,22 @@
         "published": "2026-04-02T16:13:49+00:00"
     },
     {
-        "title": "SpaceX is charging a $500B cover for vibes",
-        "link": "https://www.reddit.com/r/singularity/comments/1saivpd/spacex_is_charging_a_500b_cover_for_vibes/",
-        "image": "https://preview.redd.it/elcinvcbessg1.png?width=640&crop=smart&auto=webp&s=77adb8b17c9471fa8864fb6b8ec0d966c3628d34",
-        "published": "2026-04-02T14:26:12+00:00"
-    },
-    {
-        "title": "OpenAI president on AGI: \u2022 \"I'd say I'm basically like 70, 80% there. So I think we're quite close.\" \u2022 \"I think it's extremely clear that we are going to have AGI within the next couple years.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1saf7m8/openai_president_on_agi_id_say_im_basically_like/",
-        "image": "https://external-preview.redd.it/cG01cWtia3FtcnNnMVgNpMyS7ACQnxkVFU9Xp2XkuE0ZkWRPiwddAcnponkx.png?width=640&crop=smart&auto=webp&s=acaa3f1063b97ab4a6374e4db044704f23a40345",
-        "published": "2026-04-02T11:50:55+00:00"
+        "title": "171 emotion vectors found inside Claude. Not metaphors. Actual neuron activation patterns steering behavior.",
+        "link": "https://www.reddit.com/r/singularity/comments/1savtf7/171_emotion_vectors_found_inside_claude_not/",
+        "image": "https://preview.redd.it/kkvvcqr8susg1.jpg?width=140&height=78&auto=webp&s=0a62100a77319fa614f53b129244209b4ac4a4bd",
+        "published": "2026-04-02T22:26:45+00:00"
     },
     {
         "title": "AI-2027 forecasters move their timelines ~1.5 years earlier, predict 2027 or 2028 most likely year for AGI",
         "link": "https://www.reddit.com/r/singularity/comments/1sat07i/ai2027_forecasters_move_their_timelines_15_years/",
         "image": "https://preview.redd.it/xqp1zn5s8usg1.jpeg?width=640&crop=smart&auto=webp&s=10c4dd4201f72c32404f7162f2cc0fe761550153",
         "published": "2026-04-02T20:37:37+00:00"
+    },
+    {
+        "title": "OpenAI president on AGI: \u2022 \"I'd say I'm basically like 70, 80% there. So I think we're quite close.\" \u2022 \"I think it's extremely clear that we are going to have AGI within the next couple years.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1saf7m8/openai_president_on_agi_id_say_im_basically_like/",
+        "image": "https://external-preview.redd.it/cG01cWtia3FtcnNnMVgNpMyS7ACQnxkVFU9Xp2XkuE0ZkWRPiwddAcnponkx.png?width=640&crop=smart&auto=webp&s=acaa3f1063b97ab4a6374e4db044704f23a40345",
+        "published": "2026-04-02T11:50:55+00:00"
     },
     {
         "title": "They are coming for Physical Jobs",
@@ -66,12 +60,6 @@
         "published": "2026-04-02T10:48:20+00:00"
     },
     {
-        "title": "171 emotion vectors found inside Claude. Not metaphors. Actual neuron activation patterns steering behavior.",
-        "link": "https://www.reddit.com/r/singularity/comments/1savtf7/171_emotion_vectors_found_inside_claude_not/",
-        "image": "https://preview.redd.it/kkvvcqr8susg1.jpg?width=140&height=78&auto=webp&s=0a62100a77319fa614f53b129244209b4ac4a4bd",
-        "published": "2026-04-02T22:26:45+00:00"
-    },
-    {
         "title": "\"Paper smartphone\" short film prepared by Li Ting and her team at Shenzhen University for Qingming festival using AI",
         "link": "https://www.reddit.com/r/singularity/comments/1sainkv/paper_smartphone_short_film_prepared_by_li_ting/",
         "image": "https://external-preview.redd.it/bm9wOWZjdmpjc3NnMedzHnWCikYS4LfxG0gG59JDqiZjdrMKlpT-szY3K_cy.png?width=640&crop=smart&auto=webp&s=d979e4aefb98c29bc86ae4c8d12295211be54da8",
@@ -84,9 +72,21 @@
         "published": "2026-04-02T14:49:12+00:00"
     },
     {
+        "title": "Anthropic says Claude has functional emotions that can influence its behavior. In an experiment involving an impossible programming task, desperation led the bot to cheat.",
+        "link": "https://www.reddit.com/r/singularity/comments/1savmzf/anthropic_says_claude_has_functional_emotions/",
+        "image": "https://external-preview.redd.it/eW00M2EwMndxdXNnMRtIM3NHczAGHWkpBUaEpRLn4k2ZfQVV3tRcSTGlstXv.png?width=640&crop=smart&auto=webp&s=8dd0088256571a68079496a4ba4ef6330a7c1c70",
+        "published": "2026-04-02T22:19:34+00:00"
+    },
+    {
         "title": "Useful quantum computers could be built with as few as 10,000 qubits, team finds",
         "link": "https://www.reddit.com/r/singularity/comments/1sanv7u/useful_quantum_computers_could_be_built_with_as/",
         "image": "https://external-preview.redd.it/760sIp9qSChA9Ppo43mMKYvrEbjLc7Xo3Td1EsfsfG8.jpeg?width=640&crop=smart&auto=webp&s=0d4990cd62e3205f1758d7e2533b51b4d0db9256",
         "published": "2026-04-02T17:28:30+00:00"
+    },
+    {
+        "title": "Who shapes your thinking about AI the most?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sabx98/who_shapes_your_thinking_about_ai_the_most/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-02T08:47:24+00:00"
     }
 ]
