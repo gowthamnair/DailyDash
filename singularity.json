@@ -18,12 +18,6 @@
         "published": "2026-04-02T19:18:26+00:00"
     },
     {
-        "title": "Generalist | Introducing GEN-1",
-        "link": "https://www.reddit.com/r/singularity/comments/1sai9i8/generalist_introducing_gen1/",
-        "image": "https://external-preview.redd.it/YXVudzdpeTJhc3NnMVa3r4cotP-fb8B5BZ0OqI42JnonoPkVhSQz10ROTjae.png?width=640&crop=smart&auto=webp&s=69de77402110388fa5728a2746816b9135db6963",
-        "published": "2026-04-02T14:02:39+00:00"
-    },
-    {
         "title": "Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and expect quality of software to be much higher in the future",
         "link": "https://www.reddit.com/r/singularity/comments/1sb5dul/linux_kernel_developers_are_receiving_record_high/",
         "image": "https://preview.redd.it/3i5d9ug41xsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1f5bb3f7904fa855d4b6666f2b74cba8a27e035d",
@@ -36,16 +30,16 @@
         "published": "2026-04-02T16:03:22+00:00"
     },
     {
-        "title": "AI-2027 forecasters move their timelines ~1.5 years earlier, predict 2027 or 2028 most likely year for AGI",
-        "link": "https://www.reddit.com/r/singularity/comments/1sat07i/ai2027_forecasters_move_their_timelines_15_years/",
-        "image": "https://preview.redd.it/xqp1zn5s8usg1.jpeg?width=640&crop=smart&auto=webp&s=10c4dd4201f72c32404f7162f2cc0fe761550153",
-        "published": "2026-04-02T20:37:37+00:00"
-    },
-    {
         "title": "AI will do to our minds what machines did to our bodies",
         "link": "https://www.reddit.com/r/singularity/comments/1sb5wgc/ai_will_do_to_our_minds_what_machines_did_to_our/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-03T06:30:57+00:00"
+    },
+    {
+        "title": "AI-2027 forecasters move their timelines ~1.5 years earlier, predict 2027 or 2028 most likely year for AGI",
+        "link": "https://www.reddit.com/r/singularity/comments/1sat07i/ai2027_forecasters_move_their_timelines_15_years/",
+        "image": "https://preview.redd.it/xqp1zn5s8usg1.jpeg?width=640&crop=smart&auto=webp&s=10c4dd4201f72c32404f7162f2cc0fe761550153",
+        "published": "2026-04-02T20:37:37+00:00"
     },
     {
         "title": "Gemma 4 Benchmarks",
@@ -60,16 +54,16 @@
         "published": "2026-04-02T22:19:34+00:00"
     },
     {
+        "title": "Altman met with astonished physicist using their internal system, \u201cdecades worth of theoretical physics progress in the next couple years\u201d",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbc8c8/altman_met_with_astonished_physicist_using_their/",
+        "image": "https://external-preview.redd.it/cXgzZ25obGh5eXNnMUQlZ5vUmB2MHJh1AdzK3eqgXEaC69qhquNlLBQqxynq.png?width=640&crop=smart&auto=webp&s=7d35e0be9df2bdb3700cfc28097f88d594619a6c",
+        "published": "2026-04-03T12:28:56+00:00"
+    },
+    {
         "title": "Gemma 4",
         "link": "https://www.reddit.com/r/singularity/comments/1salxnx/gemma_4/",
         "image": "https://external-preview.redd.it/20sW9z6CnAjvywsDZcAyvsAP1GGSpXoLhxlUKKxmLq8.png?width=640&crop=smart&auto=webp&s=d37e917d53a258c27c24dc045f9d7beae7ba242f",
         "published": "2026-04-02T16:19:04+00:00"
-    },
-    {
-        "title": "\"Paper smartphone\" short film prepared by Li Ting and her team at Shenzhen University for Qingming festival using AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1sainkv/paper_smartphone_short_film_prepared_by_li_ting/",
-        "image": "https://external-preview.redd.it/bm9wOWZjdmpjc3NnMedzHnWCikYS4LfxG0gG59JDqiZjdrMKlpT-szY3K_cy.png?width=640&crop=smart&auto=webp&s=d979e4aefb98c29bc86ae4c8d12295211be54da8",
-        "published": "2026-04-02T14:17:36+00:00"
     },
     {
         "title": "Anthropic Acquires Biotechnology Startup Coefficient Bio for Approximately $400 Million",
@@ -78,15 +72,21 @@
         "published": "2026-04-03T05:19:05+00:00"
     },
     {
-        "title": "Altman met with astonished physicist using their internal system, \u201cdecades worth of theoretical physics progress in the next couple years\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1sbc8c8/altman_met_with_astonished_physicist_using_their/",
-        "image": "https://external-preview.redd.it/cXgzZ25obGh5eXNnMUQlZ5vUmB2MHJh1AdzK3eqgXEaC69qhquNlLBQqxynq.png?width=640&crop=smart&auto=webp&s=7d35e0be9df2bdb3700cfc28097f88d594619a6c",
-        "published": "2026-04-03T12:28:56+00:00"
-    },
-    {
         "title": "ASIMOV team shares their first DIY assembly video featuring a leg and pelvis, as it moves toward its goal of a full opensource humanoid robot by this year",
         "link": "https://www.reddit.com/r/singularity/comments/1sajhcc/asimov_team_shares_their_first_diy_assembly_video/",
         "image": "https://external-preview.redd.it/eGVvY2o1dGpkc3NnMZGfRtjCc42dmKAJrsCIgoDKFNnFXLmCwdDo6DnT9Zf-.png?width=640&crop=smart&auto=webp&s=9b02f1eeeff6d1b13747c6d5abe7c63668940c9d",
         "published": "2026-04-02T14:49:12+00:00"
+    },
+    {
+        "title": "Useful quantum computers could be built with as few as 10,000 qubits, team finds",
+        "link": "https://www.reddit.com/r/singularity/comments/1sanv7u/useful_quantum_computers_could_be_built_with_as/",
+        "image": "https://external-preview.redd.it/760sIp9qSChA9Ppo43mMKYvrEbjLc7Xo3Td1EsfsfG8.jpeg?width=640&crop=smart&auto=webp&s=0d4990cd62e3205f1758d7e2533b51b4d0db9256",
+        "published": "2026-04-02T17:28:30+00:00"
+    },
+    {
+        "title": "Robot perception just became a $249 commodity. What does that actually change?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sb3zpv/robot_perception_just_became_a_249_commodity_what/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-03T04:44:00+00:00"
     }
 ]
