@@ -12,16 +12,16 @@
         "published": "2026-04-03T12:15:43+00:00"
     },
     {
-        "title": "Reddit is moving on from r/all",
-        "link": "https://www.reddit.com/r/technology/comments/1sauyap/reddit_is_moving_on_from_rall/",
-        "image": "https://external-preview.redd.it/xSYz-TH2FzkAhVHPEw1C28zA1nyc8HyBSWrElU4mBlE.jpeg?width=640&crop=smart&auto=webp&s=83fe5b3eeb51d462fa095df499fc4f49d2a0851c",
-        "published": "2026-04-02T21:52:44+00:00"
-    },
-    {
         "title": "Tesla Is Sitting On A Record 50,000 Unsold EVs",
         "link": "https://www.reddit.com/r/technology/comments/1sbh8c6/tesla_is_sitting_on_a_record_50000_unsold_evs/",
         "image": "https://external-preview.redd.it/qxXJR1j5zG9AVYM_HCOiGPoudybem2XL-TmXWgWGrN0.jpeg?width=640&crop=smart&auto=webp&s=ed14fed68effade5e87d78ed5476bd9d4eb6053d",
         "published": "2026-04-03T15:47:23+00:00"
+    },
+    {
+        "title": "Reddit is moving on from r/all",
+        "link": "https://www.reddit.com/r/technology/comments/1sauyap/reddit_is_moving_on_from_rall/",
+        "image": "https://external-preview.redd.it/xSYz-TH2FzkAhVHPEw1C28zA1nyc8HyBSWrElU4mBlE.jpeg?width=640&crop=smart&auto=webp&s=83fe5b3eeb51d462fa095df499fc4f49d2a0851c",
+        "published": "2026-04-02T21:52:44+00:00"
     },
     {
         "title": "The Feds Say Cutting Fuel With Ethanol Will Bring Down Gas Prices. We're Not Buying It",
@@ -34,6 +34,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1sbcfw1/taketwo_interactive_fires_head_of_ai_weeks_after/",
         "image": "https://external-preview.redd.it/qi5mnLVuAXwGTXR-sv_EQZmSValykk2bTU5GiUblO44.jpeg?width=640&crop=smart&auto=webp&s=af9f3fa0cc45dc8cadb1ad152f24d1adff41cb64",
         "published": "2026-04-03T12:38:04+00:00"
+    },
+    {
+        "title": "Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs",
+        "link": "https://www.reddit.com/r/technology/comments/1sbnpif/oracle_files_thousands_of_h1b_visa_petitions_amid/",
+        "image": "https://external-preview.redd.it/ndEqwr-2trbfFK1WrIztmbJwDDYM5Q0CHrAerMVqArM.jpeg?width=640&crop=smart&auto=webp&s=dd8ff73fdc2e070a7ce866d55b2742c786536b5e",
+        "published": "2026-04-03T19:45:37+00:00"
     },
     {
         "title": "Artemis II Astronauts Have \u2018Two Microsoft Outlooks\u2019 and Neither Work",
@@ -78,15 +84,9 @@
         "published": "2026-04-03T02:38:44+00:00"
     },
     {
-        "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude | Amazon denies violation, says SpaceX caused conflict by lowering Starlink satellites.",
-        "link": "https://www.reddit.com/r/technology/comments/1saw8be/spacex_tries_to_convince_fcc_that_amazon_put/",
-        "image": "https://external-preview.redd.it/FhsquZMb2-4eIHlbsUpwcqbOuqVV89V-T270Y6dfpTI.jpeg?width=640&crop=smart&auto=webp&s=af3ee96b9f6dd738fc155d45d9b9a3ee1e2692f7",
-        "published": "2026-04-02T22:43:51+00:00"
-    },
-    {
-        "title": "The New York Times drops freelance journalist who used AI to write book review",
-        "link": "https://www.reddit.com/r/technology/comments/1say73x/the_new_york_times_drops_freelance_journalist_who/",
-        "image": "https://external-preview.redd.it/c6d0wjVfXor2HTOr4bhZt5TqiWjf7DRc6gGdAc6xepg.jpeg?width=640&crop=smart&auto=webp&s=30ca0cf4b96d4176b30be913771d83b131fe1361",
-        "published": "2026-04-03T00:08:12+00:00"
+        "title": "Colorado\u2019s New Speed Camera System Makes Waze Nearly Useless",
+        "link": "https://www.reddit.com/r/technology/comments/1sblp8s/colorados_new_speed_camera_system_makes_waze/",
+        "image": "https://external-preview.redd.it/Jj3tFgC6BdTM_VixHFLZGb5-jaGo69J6zeD32Q5dFHE.jpeg?width=640&crop=smart&auto=webp&s=c13699bca1864ddbcce48da5c18c2d2128d7205e",
+        "published": "2026-04-03T18:30:59+00:00"
     }
 ]
