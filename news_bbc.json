@@ -1,11 +1,5 @@
 [
     {
-        "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-        "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg",
-        "published": "Fri, 03 Apr 2026 13:16:33 GMT"
-    },
-    {
         "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
         "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
@@ -16,6 +10,12 @@
         "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1667/live/4c676ee0-2f67-11f1-a79a-77e93010d956.jpg",
         "published": "Fri, 03 Apr 2026 12:20:28 GMT"
+    },
+    {
+        "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+        "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg",
+        "published": "Fri, 03 Apr 2026 15:04:39 GMT"
     },
     {
         "title": "Burkina Faso must 'forget' about democracy, military leader says",
@@ -63,7 +63,7 @@
         "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
         "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png",
-        "published": "Thu, 02 Apr 2026 22:47:48 GMT"
+        "published": "Fri, 03 Apr 2026 15:07:43 GMT"
     },
     {
         "title": "US jobs surge unexpectedly in March despite Iran war",
@@ -78,15 +78,15 @@
         "published": "Thu, 02 Apr 2026 23:16:37 GMT"
     },
     {
+        "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+        "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg",
+        "published": "Fri, 03 Apr 2026 13:16:33 GMT"
+    },
+    {
         "title": "Arlo Parks: 'I got out of my head and into my body'",
         "link": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ebe2/live/fa74e950-2e85-11f1-87f5-d72371d79a40.jpg",
         "published": "Thu, 02 Apr 2026 23:11:19 GMT"
-    },
-    {
-        "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
-        "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2f9/live/5b149340-2f45-11f1-934f-036468834728.jpg",
-        "published": "Fri, 03 Apr 2026 10:35:55 GMT"
     }
 ]
