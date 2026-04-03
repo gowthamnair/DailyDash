@@ -42,12 +42,6 @@
         "published": "2026-04-03T12:28:56+00:00"
     },
     {
-        "title": "Anthropic says Claude has functional emotions that can influence its behavior. In an experiment involving an impossible programming task, desperation led the bot to cheat.",
-        "link": "https://www.reddit.com/r/singularity/comments/1savmzf/anthropic_says_claude_has_functional_emotions/",
-        "image": "https://external-preview.redd.it/eW00M2EwMndxdXNnMRtIM3NHczAGHWkpBUaEpRLn4k2ZfQVV3tRcSTGlstXv.png?width=640&crop=smart&auto=webp&s=8dd0088256571a68079496a4ba4ef6330a7c1c70",
-        "published": "2026-04-02T22:19:34+00:00"
-    },
-    {
         "title": "MIT study challenges AI job apocalypse narrative",
         "link": "https://www.reddit.com/r/singularity/comments/1sbfcci/mit_study_challenges_ai_job_apocalypse_narrative/",
         "image": "https://external-preview.redd.it/1jA4D9lbPz1IR8sPoTqUebFQvLNoQrLArbBAHbtPX_Q.jpeg?width=640&crop=smart&auto=webp&s=8f168d88daa2b23523eee5acfcebc057aec44e0f",
@@ -58,6 +52,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sb4n8k/anthropic_acquires_biotechnology_startup/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-03T05:19:05+00:00"
+    },
+    {
+        "title": "Netflix releases Void a video model that can remove objects from video and their physical interactions on the scene",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbpuhp/netflix_releases_void_a_video_model_that_can/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-03T21:06:33+00:00"
     },
     {
         "title": "Robot perception just became a $249 commodity. What does that actually change?",
