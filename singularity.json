@@ -24,16 +24,16 @@
         "published": "2026-04-02T16:03:22+00:00"
     },
     {
-        "title": "AI-2027 forecasters move their timelines ~1.5 years earlier, predict 2027 or 2028 most likely year for AGI",
-        "link": "https://www.reddit.com/r/singularity/comments/1sat07i/ai2027_forecasters_move_their_timelines_15_years/",
-        "image": "https://preview.redd.it/xqp1zn5s8usg1.jpeg?width=640&crop=smart&auto=webp&s=10c4dd4201f72c32404f7162f2cc0fe761550153",
-        "published": "2026-04-02T20:37:37+00:00"
-    },
-    {
         "title": "Altman on shutting down Sora: 'I did not expect 3 or 6 months ago to be at this point we're at now; where something very big and important is about to happen again with this next generation of models and the agents they can power.'",
         "link": "https://www.reddit.com/r/singularity/comments/1sb4hnn/altman_on_shutting_down_sora_i_did_not_expect_3/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-03T05:10:40+00:00"
+    },
+    {
+        "title": "AI-2027 forecasters move their timelines ~1.5 years earlier, predict 2027 or 2028 most likely year for AGI",
+        "link": "https://www.reddit.com/r/singularity/comments/1sat07i/ai2027_forecasters_move_their_timelines_15_years/",
+        "image": "https://preview.redd.it/xqp1zn5s8usg1.jpeg?width=640&crop=smart&auto=webp&s=10c4dd4201f72c32404f7162f2cc0fe761550153",
+        "published": "2026-04-02T20:37:37+00:00"
     },
     {
         "title": "Gemma 4 Benchmarks",
@@ -42,22 +42,28 @@
         "published": "2026-04-02T16:13:49+00:00"
     },
     {
-        "title": "OpenAI president on AGI: \u2022 \"I'd say I'm basically like 70, 80% there. So I think we're quite close.\" \u2022 \"I think it's extremely clear that we are going to have AGI within the next couple years.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1saf7m8/openai_president_on_agi_id_say_im_basically_like/",
-        "image": "https://external-preview.redd.it/cG01cWtia3FtcnNnMVgNpMyS7ACQnxkVFU9Xp2XkuE0ZkWRPiwddAcnponkx.png?width=640&crop=smart&auto=webp&s=acaa3f1063b97ab4a6374e4db044704f23a40345",
-        "published": "2026-04-02T11:50:55+00:00"
-    },
-    {
         "title": "Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and expect quality of software to be much higher in the future",
         "link": "https://www.reddit.com/r/singularity/comments/1sb5dul/linux_kernel_developers_are_receiving_record_high/",
         "image": "https://preview.redd.it/3i5d9ug41xsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1f5bb3f7904fa855d4b6666f2b74cba8a27e035d",
         "published": "2026-04-03T06:00:44+00:00"
     },
     {
+        "title": "OpenAI president on AGI: \u2022 \"I'd say I'm basically like 70, 80% there. So I think we're quite close.\" \u2022 \"I think it's extremely clear that we are going to have AGI within the next couple years.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1saf7m8/openai_president_on_agi_id_say_im_basically_like/",
+        "image": "https://external-preview.redd.it/cG01cWtia3FtcnNnMVgNpMyS7ACQnxkVFU9Xp2XkuE0ZkWRPiwddAcnponkx.png?width=640&crop=smart&auto=webp&s=acaa3f1063b97ab4a6374e4db044704f23a40345",
+        "published": "2026-04-02T11:50:55+00:00"
+    },
+    {
         "title": "AI solves John Conway's bountied math problem (decades old)",
         "link": "https://www.reddit.com/r/singularity/comments/1sb4p9x/ai_solves_john_conways_bountied_math_problem/",
         "image": "https://preview.redd.it/bqqdzcgduwsg1.png?width=320&crop=smart&auto=webp&s=466ffb2e7723fdb6ca2fb790c2df92c872aafc5b",
         "published": "2026-04-03T05:22:13+00:00"
+    },
+    {
+        "title": "AI will do to our minds what machines did to our bodies",
+        "link": "https://www.reddit.com/r/singularity/comments/1sb5wgc/ai_will_do_to_our_minds_what_machines_did_to_our/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-03T06:30:57+00:00"
     },
     {
         "title": "Anthropic says Claude has functional emotions that can influence its behavior. In an experiment involving an impossible programming task, desperation led the bot to cheat.",
@@ -76,12 +82,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sadzrd/how_likely_am_i_to_lose_my_job_to_ai_in_the_next/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-02T10:48:20+00:00"
-    },
-    {
-        "title": "AI will do to our minds what machines did to our bodies",
-        "link": "https://www.reddit.com/r/singularity/comments/1sb5wgc/ai_will_do_to_our_minds_what_machines_did_to_our/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-03T06:30:57+00:00"
     },
     {
         "title": "\"Paper smartphone\" short film prepared by Li Ting and her team at Shenzhen University for Qingming festival using AI",
