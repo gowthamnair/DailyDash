@@ -18,16 +18,16 @@
         "published": "2026-04-02T14:02:39+00:00"
     },
     {
-        "title": "Gemma 4 has been released in Google AI Studio.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sali3d/gemma_4_has_been_released_in_google_ai_studio/",
-        "image": "https://preview.redd.it/1886ac0rvssg1.png?width=640&crop=smart&auto=webp&s=09978ed948ce8e314d5a95d1977173c9884c18ff",
-        "published": "2026-04-02T16:03:22+00:00"
-    },
-    {
         "title": "Altman on shutting down Sora: 'I did not expect 3 or 6 months ago to be at this point we're at now; where something very big and important is about to happen again with this next generation of models and the agents they can power.'",
         "link": "https://www.reddit.com/r/singularity/comments/1sb4hnn/altman_on_shutting_down_sora_i_did_not_expect_3/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-03T05:10:40+00:00"
+    },
+    {
+        "title": "Gemma 4 has been released in Google AI Studio.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sali3d/gemma_4_has_been_released_in_google_ai_studio/",
+        "image": "https://preview.redd.it/1886ac0rvssg1.png?width=640&crop=smart&auto=webp&s=09978ed948ce8e314d5a95d1977173c9884c18ff",
+        "published": "2026-04-02T16:03:22+00:00"
     },
     {
         "title": "AI-2027 forecasters move their timelines ~1.5 years earlier, predict 2027 or 2028 most likely year for AGI",
@@ -36,16 +36,22 @@
         "published": "2026-04-02T20:37:37+00:00"
     },
     {
+        "title": "Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and expect quality of software to be much higher in the future",
+        "link": "https://www.reddit.com/r/singularity/comments/1sb5dul/linux_kernel_developers_are_receiving_record_high/",
+        "image": "https://preview.redd.it/3i5d9ug41xsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1f5bb3f7904fa855d4b6666f2b74cba8a27e035d",
+        "published": "2026-04-03T06:00:44+00:00"
+    },
+    {
         "title": "Gemma 4 Benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1salsf5/gemma_4_benchmarks/",
         "image": "https://preview.redd.it/dp5s5yqnxssg1.png?width=640&crop=smart&auto=webp&s=10711878ce2ce01f3cbc5cf88453663df5f29778",
         "published": "2026-04-02T16:13:49+00:00"
     },
     {
-        "title": "Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and expect quality of software to be much higher in the future",
-        "link": "https://www.reddit.com/r/singularity/comments/1sb5dul/linux_kernel_developers_are_receiving_record_high/",
-        "image": "https://preview.redd.it/3i5d9ug41xsg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1f5bb3f7904fa855d4b6666f2b74cba8a27e035d",
-        "published": "2026-04-03T06:00:44+00:00"
+        "title": "AI will do to our minds what machines did to our bodies",
+        "link": "https://www.reddit.com/r/singularity/comments/1sb5wgc/ai_will_do_to_our_minds_what_machines_did_to_our/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-03T06:30:57+00:00"
     },
     {
         "title": "OpenAI president on AGI: \u2022 \"I'd say I'm basically like 70, 80% there. So I think we're quite close.\" \u2022 \"I think it's extremely clear that we are going to have AGI within the next couple years.\"",
@@ -60,12 +66,6 @@
         "published": "2026-04-03T05:22:13+00:00"
     },
     {
-        "title": "AI will do to our minds what machines did to our bodies",
-        "link": "https://www.reddit.com/r/singularity/comments/1sb5wgc/ai_will_do_to_our_minds_what_machines_did_to_our/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-03T06:30:57+00:00"
-    },
-    {
         "title": "Anthropic says Claude has functional emotions that can influence its behavior. In an experiment involving an impossible programming task, desperation led the bot to cheat.",
         "link": "https://www.reddit.com/r/singularity/comments/1savmzf/anthropic_says_claude_has_functional_emotions/",
         "image": "https://external-preview.redd.it/eW00M2EwMndxdXNnMRtIM3NHczAGHWkpBUaEpRLn4k2ZfQVV3tRcSTGlstXv.png?width=640&crop=smart&auto=webp&s=8dd0088256571a68079496a4ba4ef6330a7c1c70",
@@ -78,15 +78,15 @@
         "published": "2026-04-02T16:19:04+00:00"
     },
     {
-        "title": "How likely am I to lose my job to AI in the next decade?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sadzrd/how_likely_am_i_to_lose_my_job_to_ai_in_the_next/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-02T10:48:20+00:00"
-    },
-    {
         "title": "\"Paper smartphone\" short film prepared by Li Ting and her team at Shenzhen University for Qingming festival using AI",
         "link": "https://www.reddit.com/r/singularity/comments/1sainkv/paper_smartphone_short_film_prepared_by_li_ting/",
         "image": "https://external-preview.redd.it/bm9wOWZjdmpjc3NnMedzHnWCikYS4LfxG0gG59JDqiZjdrMKlpT-szY3K_cy.png?width=640&crop=smart&auto=webp&s=d979e4aefb98c29bc86ae4c8d12295211be54da8",
         "published": "2026-04-02T14:17:36+00:00"
+    },
+    {
+        "title": "ASIMOV team shares their first DIY assembly video featuring a leg and pelvis, as it moves toward its goal of a full opensource humanoid robot by this year",
+        "link": "https://www.reddit.com/r/singularity/comments/1sajhcc/asimov_team_shares_their_first_diy_assembly_video/",
+        "image": "https://external-preview.redd.it/eGVvY2o1dGpkc3NnMZGfRtjCc42dmKAJrsCIgoDKFNnFXLmCwdDo6DnT9Zf-.png?width=640&crop=smart&auto=webp&s=9b02f1eeeff6d1b13747c6d5abe7c63668940c9d",
+        "published": "2026-04-02T14:49:12+00:00"
     }
 ]
