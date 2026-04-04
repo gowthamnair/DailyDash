@@ -18,28 +18,22 @@
         "published": "2026-04-04T04:09:04+00:00"
     },
     {
-        "title": "Netflix releases Void a video model that can remove objects from video and their physical interactions on the scene",
-        "link": "https://www.reddit.com/r/singularity/comments/1sbpuhp/netflix_releases_void_a_video_model_that_can/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-03T21:06:33+00:00"
-    },
-    {
         "title": "Wearable touch-sensing fabrics: the next step for humanoid robots, to feel... and respond accordingly",
         "link": "https://www.reddit.com/r/singularity/comments/1scfyth/wearable_touchsensing_fabrics_the_next_step_for/",
         "image": "https://external-preview.redd.it/aGx6dDVzZXduN3RnMak9CxsaFBVYrrMQMviA36DRgN9iI27d2KJpdTqY_kiQ.png?width=640&crop=smart&auto=webp&s=fb4fff5de5556761ad545b7f8ddb97d55f991479",
         "published": "2026-04-04T17:57:26+00:00"
     },
     {
-        "title": "Google DeepMind's Research Lets an LLM Rewrite Its Own Game Theory Algorithms \u2014 And It Outperformed the Experts",
-        "link": "https://www.reddit.com/r/singularity/comments/1sc3v9z/google_deepminds_research_lets_an_llm_rewrite_its/",
-        "image": "https://external-preview.redd.it/OEiJXbPsPOiZzF7WqY_IhAR_VdSCxUIPNw_sMo00qoQ.png?width=640&crop=smart&auto=webp&s=f314bff94288691c15f1eaaa8a3e0b2bff251525",
-        "published": "2026-04-04T08:30:16+00:00"
-    },
-    {
         "title": "Iran just threatened to blow up stargate",
         "link": "https://www.reddit.com/r/singularity/comments/1sci4c8/iran_just_threatened_to_blow_up_stargate/",
         "image": "https://external-preview.redd.it/qajxd6hab2tg1.png?width=640&crop=smart&auto=webp&s=a2b541be49812efb1eb47c80430fb65e28319ff6",
         "published": "2026-04-04T19:21:40+00:00"
+    },
+    {
+        "title": "Google DeepMind's Research Lets an LLM Rewrite Its Own Game Theory Algorithms \u2014 And It Outperformed the Experts",
+        "link": "https://www.reddit.com/r/singularity/comments/1sc3v9z/google_deepminds_research_lets_an_llm_rewrite_its/",
+        "image": "https://external-preview.redd.it/OEiJXbPsPOiZzF7WqY_IhAR_VdSCxUIPNw_sMo00qoQ.png?width=640&crop=smart&auto=webp&s=f314bff94288691c15f1eaaa8a3e0b2bff251525",
+        "published": "2026-04-04T08:30:16+00:00"
     },
     {
         "title": "Bring state-of-the-art agentic skills to the edge with Gemma 4",
