@@ -60,16 +60,16 @@
         "published": "2026-04-04T00:06:44+00:00"
     },
     {
-        "title": "Colorado\u2019s New Speed Camera System Makes Waze Nearly Useless",
-        "link": "https://www.reddit.com/r/technology/comments/1sblp8s/colorados_new_speed_camera_system_makes_waze/",
-        "image": "https://external-preview.redd.it/Jj3tFgC6BdTM_VixHFLZGb5-jaGo69J6zeD32Q5dFHE.jpeg?width=640&crop=smart&auto=webp&s=c13699bca1864ddbcce48da5c18c2d2128d7205e",
-        "published": "2026-04-03T18:30:59+00:00"
-    },
-    {
         "title": "The White House App Is Riddled With Cybersecurity Vulnerabilities",
         "link": "https://www.reddit.com/r/technology/comments/1sbrrhk/the_white_house_app_is_riddled_with_cybersecurity/",
         "image": "https://external-preview.redd.it/7vtOR3xx74OvtmZZi8X_-DrA6mlbnJtKNiJ62wwDqMA.jpeg?width=640&crop=smart&auto=webp&s=df7e881201ec95932ee16dc70357c997d86e8319",
         "published": "2026-04-03T22:22:59+00:00"
+    },
+    {
+        "title": "Colorado\u2019s New Speed Camera System Makes Waze Nearly Useless",
+        "link": "https://www.reddit.com/r/technology/comments/1sblp8s/colorados_new_speed_camera_system_makes_waze/",
+        "image": "https://external-preview.redd.it/Jj3tFgC6BdTM_VixHFLZGb5-jaGo69J6zeD32Q5dFHE.jpeg?width=640&crop=smart&auto=webp&s=c13699bca1864ddbcce48da5c18c2d2128d7205e",
+        "published": "2026-04-03T18:30:59+00:00"
     },
     {
         "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
@@ -84,9 +84,9 @@
         "published": "2026-04-04T03:27:20+00:00"
     },
     {
-        "title": "Anthropic's Boris Cherny, creator of the $2.5 billion coding tool, makes a \u2018clarification\u2019 on the Claude Code leak: \u2018It's never an individual's fault,",
-        "link": "https://www.reddit.com/r/technology/comments/1sba804/anthropics_boris_cherny_creator_of_the_25_billion/",
-        "image": "https://external-preview.redd.it/AI5CDzfg2Zpz0bftng5eMbb131-BIE8-O4OvvDO-h88.jpeg?width=640&crop=smart&auto=webp&s=ab797a572cf8d53fb19c02a8e61ecf5a2877fa67",
-        "published": "2026-04-03T10:48:51+00:00"
+        "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China \u2014 the AI build-out flips the breakers",
+        "link": "https://www.reddit.com/r/technology/comments/1sbw2p1/half_of_planned_us_data_center_builds_have_been/",
+        "image": "https://external-preview.redd.it/7ZPq1gYK9GjWHBpCmU-J9Huwrp9ehLb8bVfWDtTE5U0.jpeg?width=640&crop=smart&auto=webp&s=216c3ea5c9559af261de4c63e15736b23e730a11",
+        "published": "2026-04-04T01:33:06+00:00"
     }
 ]
