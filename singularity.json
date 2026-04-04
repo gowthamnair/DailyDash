@@ -1,9 +1,9 @@
 [
     {
-        "title": "Altman on shutting down Sora: 'I did not expect 3 or 6 months ago to be at this point we're at now; where something very big and important is about to happen again with this next generation of models and the agents they can power.'",
-        "link": "https://www.reddit.com/r/singularity/comments/1sb4hnn/altman_on_shutting_down_sora_i_did_not_expect_3/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-03T05:10:40+00:00"
+        "title": "Some meatbags are alright",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbtbba/some_meatbags_are_alright/",
+        "image": "https://external-preview.redd.it/bWpzOHhiOGE4MnRnMcuQwKomqDI1scS0sYESiC8zLfn9-HAG--Wq9YdWXniF.png?width=320&crop=smart&auto=webp&s=3a0298e7d7a04196549b278bf77221d837615632",
+        "published": "2026-04-03T23:29:07+00:00"
     },
     {
         "title": "Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and expect quality of software to be much higher in the future",
@@ -16,12 +16,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sbevti/early_anticlankerite_violence_caught_on_film/",
         "image": "https://external-preview.redd.it/ajk2cndzczJpenNnMQqQgwyQsoQKQm1EtyPV3Hlkw7clvpuwGXuFGm5Zs9Kg.png?width=320&crop=smart&auto=webp&s=14cd806a1aaf721b137f914e99b844385be5e34e",
         "published": "2026-04-03T14:18:37+00:00"
-    },
-    {
-        "title": "Some meatbags are alright",
-        "link": "https://www.reddit.com/r/singularity/comments/1sbtbba/some_meatbags_are_alright/",
-        "image": "https://external-preview.redd.it/bWpzOHhiOGE4MnRnMcuQwKomqDI1scS0sYESiC8zLfn9-HAG--Wq9YdWXniF.png?width=320&crop=smart&auto=webp&s=3a0298e7d7a04196549b278bf77221d837615632",
-        "published": "2026-04-03T23:29:07+00:00"
     },
     {
         "title": "AI will do to our minds what machines did to our bodies",
@@ -54,22 +48,16 @@
         "published": "2026-04-03T14:36:27+00:00"
     },
     {
-        "title": "Anthropic Acquires Biotechnology Startup Coefficient Bio for Approximately $400 Million",
-        "link": "https://www.reddit.com/r/singularity/comments/1sb4n8k/anthropic_acquires_biotechnology_startup/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-03T05:19:05+00:00"
-    },
-    {
         "title": "Netflix releases Void a video model that can remove objects from video and their physical interactions on the scene",
         "link": "https://www.reddit.com/r/singularity/comments/1sbpuhp/netflix_releases_void_a_video_model_that_can/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-03T21:06:33+00:00"
     },
     {
-        "title": "Robot perception just became a $249 commodity. What does that actually change?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sb3zpv/robot_perception_just_became_a_249_commodity_what/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-03T04:44:00+00:00"
+        "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China \u2014 the AI build-out flips the breakers",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbza4p/half_of_planned_us_data_center_builds_have_been/",
+        "image": "https://external-preview.redd.it/7ZPq1gYK9GjWHBpCmU-J9Huwrp9ehLb8bVfWDtTE5U0.jpeg?width=640&crop=smart&auto=webp&s=216c3ea5c9559af261de4c63e15736b23e730a11",
+        "published": "2026-04-04T04:09:04+00:00"
     },
     {
         "title": "I got tired of real-life Netrunners scanning my servers, so I coded a working version of \"The Blackwall\" to trap them",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sbxfmx/i_asked_ai_kimi_k2_if_it_thought_without_having_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-04T02:37:47+00:00"
+    },
+    {
+        "title": "Why would Claude give me the same response over and over and give others different replies?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbwiw9/why_would_claude_give_me_the_same_response_over/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-04T01:54:18+00:00"
+    },
+    {
+        "title": "Claude Prompt: \"generate me a random word\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbw122/claude_prompt_generate_me_a_random_word/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-04T01:30:59+00:00"
     }
 ]
