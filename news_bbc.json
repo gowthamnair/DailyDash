@@ -6,6 +6,12 @@
         "published": "Sat, 04 Apr 2026 10:41:38 GMT"
     },
     {
+        "title": "Russian attack on Ukraine market kills five",
+        "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a103/live/c0c0df90-3018-11f1-b297-95b0a0a8331e.jpg",
+        "published": "Sat, 04 Apr 2026 13:13:36 GMT"
+    },
+    {
         "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
         "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9ef8/live/3cb15a10-2f49-11f1-934f-036468834728.jpg",
         "published": "Fri, 03 Apr 2026 11:11:42 GMT"
-    },
-    {
-        "title": "Italy's Uffizi Galleries targeted in cyber-attack but deny security breach",
-        "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg",
-        "published": "Fri, 03 Apr 2026 15:04:39 GMT"
     }
 ]

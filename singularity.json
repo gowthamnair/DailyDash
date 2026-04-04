@@ -42,16 +42,16 @@
         "published": "2026-04-03T21:06:33+00:00"
     },
     {
-        "title": "Bring state-of-the-art agentic skills to the edge with Gemma 4",
-        "link": "https://www.reddit.com/r/singularity/comments/1sc2pe5/bring_stateoftheart_agentic_skills_to_the_edge/",
-        "image": "https://external-preview.redd.it/tXLUKAyYJj5gwcmeiTfFwuYeycgIOBR1MMQxFzp9MLU.jpeg?width=640&crop=smart&auto=webp&s=f42f484b949ee02365cb64206df8d6145ce97c1f",
-        "published": "2026-04-04T07:19:52+00:00"
-    },
-    {
         "title": "Google DeepMind's Research Lets an LLM Rewrite Its Own Game Theory Algorithms \u2014 And It Outperformed the Experts",
         "link": "https://www.reddit.com/r/singularity/comments/1sc3v9z/google_deepminds_research_lets_an_llm_rewrite_its/",
         "image": "https://external-preview.redd.it/OEiJXbPsPOiZzF7WqY_IhAR_VdSCxUIPNw_sMo00qoQ.png?width=640&crop=smart&auto=webp&s=f314bff94288691c15f1eaaa8a3e0b2bff251525",
         "published": "2026-04-04T08:30:16+00:00"
+    },
+    {
+        "title": "Bring state-of-the-art agentic skills to the edge with Gemma 4",
+        "link": "https://www.reddit.com/r/singularity/comments/1sc2pe5/bring_stateoftheart_agentic_skills_to_the_edge/",
+        "image": "https://external-preview.redd.it/tXLUKAyYJj5gwcmeiTfFwuYeycgIOBR1MMQxFzp9MLU.jpeg?width=640&crop=smart&auto=webp&s=f42f484b949ee02365cb64206df8d6145ce97c1f",
+        "published": "2026-04-04T07:19:52+00:00"
     },
     {
         "title": "I got tired of real-life Netrunners scanning my servers, so I coded a working version of \"The Blackwall\" to trap them",
