@@ -18,6 +18,12 @@
         "published": "2026-04-03T14:18:37+00:00"
     },
     {
+        "title": "Some meatbags are alright",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbtbba/some_meatbags_are_alright/",
+        "image": "https://external-preview.redd.it/bWpzOHhiOGE4MnRnMcuQwKomqDI1scS0sYESiC8zLfn9-HAG--Wq9YdWXniF.png?width=320&crop=smart&auto=webp&s=3a0298e7d7a04196549b278bf77221d837615632",
+        "published": "2026-04-03T23:29:07+00:00"
+    },
+    {
         "title": "AI will do to our minds what machines did to our bodies",
         "link": "https://www.reddit.com/r/singularity/comments/1sb5wgc/ai_will_do_to_our_minds_what_machines_did_to_our/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -28,12 +34,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sbflwe/humanoid_robots_are_actively_training/",
         "image": "https://external-preview.redd.it/a2treGMzMTFuenNnMXkuIcQVak_1ES_ia9cTAT-NgZ9OvtQmUHB2LQnD1PFR.png?width=640&crop=smart&auto=webp&s=a168351532fa3b34a107e192dafc8c0059d05ca4",
         "published": "2026-04-03T14:46:47+00:00"
-    },
-    {
-        "title": "Some meatbags are alright",
-        "link": "https://www.reddit.com/r/singularity/comments/1sbtbba/some_meatbags_are_alright/",
-        "image": "https://external-preview.redd.it/bWpzOHhiOGE4MnRnMcuQwKomqDI1scS0sYESiC8zLfn9-HAG--Wq9YdWXniF.png?width=320&crop=smart&auto=webp&s=3a0298e7d7a04196549b278bf77221d837615632",
-        "published": "2026-04-03T23:29:07+00:00"
     },
     {
         "title": "Altman met with astonished physicist using their internal system, \u201cdecades worth of theoretical physics progress in the next couple years\u201d",
@@ -76,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sbgzup/i_got_tired_of_reallife_netrunners_scanning_my/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-03T15:38:46+00:00"
+    },
+    {
+        "title": "Which prompts do all AI models answer the exact same?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbxrat/which_prompts_do_all_ai_models_answer_the_exact/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-04T02:53:20+00:00"
+    },
+    {
+        "title": "I asked AI (kimi k2 ) if it thought without having a question?\u201d The answer really made me think.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sbxfmx/i_asked_ai_kimi_k2_if_it_thought_without_having_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-04T02:37:47+00:00"
     }
 ]
