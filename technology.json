@@ -1,15 +1,15 @@
 [
     {
-        "title": "Italy court rules Netflix unlawfully increased prices. Consumers: 'Refunds up to 500 euros.' The company: we will appeal",
-        "link": "https://www.reddit.com/r/technology/comments/1sbby5s/italy_court_rules_netflix_unlawfully_increased/",
-        "image": "https://external-preview.redd.it/ti_yQBMTMC-WDgWi08MBlR5sR1_c3AMHZB3iI4u99Ro.jpeg?width=640&crop=smart&auto=webp&s=9eb730e65eeb789fbdd948363bfe92a1d281fdb1",
-        "published": "2026-04-03T12:15:43+00:00"
-    },
-    {
         "title": "Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs",
         "link": "https://www.reddit.com/r/technology/comments/1sbnpif/oracle_files_thousands_of_h1b_visa_petitions_amid/",
         "image": "https://external-preview.redd.it/ndEqwr-2trbfFK1WrIztmbJwDDYM5Q0CHrAerMVqArM.jpeg?width=640&crop=smart&auto=webp&s=dd8ff73fdc2e070a7ce866d55b2742c786536b5e",
         "published": "2026-04-03T19:45:37+00:00"
+    },
+    {
+        "title": "Italy court rules Netflix unlawfully increased prices. Consumers: 'Refunds up to 500 euros.' The company: we will appeal",
+        "link": "https://www.reddit.com/r/technology/comments/1sbby5s/italy_court_rules_netflix_unlawfully_increased/",
+        "image": "https://external-preview.redd.it/ti_yQBMTMC-WDgWi08MBlR5sR1_c3AMHZB3iI4u99Ro.jpeg?width=640&crop=smart&auto=webp&s=9eb730e65eeb789fbdd948363bfe92a1d281fdb1",
+        "published": "2026-04-03T12:15:43+00:00"
     },
     {
         "title": "Tesla Is Sitting On A Record 50,000 Unsold EVs",
@@ -54,6 +54,12 @@
         "published": "2026-04-03T21:26:08+00:00"
     },
     {
+        "title": "Wisconsin Governor Vetoes Age-Verification Bill",
+        "link": "https://www.reddit.com/r/technology/comments/1sbu6xm/wisconsin_governor_vetoes_ageverification_bill/",
+        "image": "https://external-preview.redd.it/duL2svKQod-O8-9Gul-NpSG1G-OFeCX4sbKm6n8SvJE.png?width=640&crop=smart&auto=webp&s=c1b68329a68fc8383e20878bcd75d3692013e528",
+        "published": "2026-04-04T00:06:44+00:00"
+    },
+    {
         "title": "Colorado\u2019s New Speed Camera System Makes Waze Nearly Useless",
         "link": "https://www.reddit.com/r/technology/comments/1sblp8s/colorados_new_speed_camera_system_makes_waze/",
         "image": "https://external-preview.redd.it/Jj3tFgC6BdTM_VixHFLZGb5-jaGo69J6zeD32Q5dFHE.jpeg?width=640&crop=smart&auto=webp&s=c13699bca1864ddbcce48da5c18c2d2128d7205e",
@@ -72,21 +78,15 @@
         "published": "2026-04-03T17:02:55+00:00"
     },
     {
-        "title": "Wisconsin Governor Vetoes Age-Verification Bill",
-        "link": "https://www.reddit.com/r/technology/comments/1sbu6xm/wisconsin_governor_vetoes_ageverification_bill/",
-        "image": "https://external-preview.redd.it/duL2svKQod-O8-9Gul-NpSG1G-OFeCX4sbKm6n8SvJE.png?width=640&crop=smart&auto=webp&s=c1b68329a68fc8383e20878bcd75d3692013e528",
-        "published": "2026-04-04T00:06:44+00:00"
+        "title": "Microsoft says Copilot is for entertainment purposes only, not serious use \u2014 firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
+        "link": "https://www.reddit.com/r/technology/comments/1sbyghz/microsoft_says_copilot_is_for_entertainment/",
+        "image": "https://external-preview.redd.it/_RutfTg2JcTXbFd3ZpfId1OG4s3PB3BNBQiYNS25Bm0.jpeg?width=640&crop=smart&auto=webp&s=5b2a5775ae420913dbb508f62b12955d9c7a68fb",
+        "published": "2026-04-04T03:27:20+00:00"
     },
     {
         "title": "Anthropic's Boris Cherny, creator of the $2.5 billion coding tool, makes a \u2018clarification\u2019 on the Claude Code leak: \u2018It's never an individual's fault,",
         "link": "https://www.reddit.com/r/technology/comments/1sba804/anthropics_boris_cherny_creator_of_the_25_billion/",
         "image": "https://external-preview.redd.it/AI5CDzfg2Zpz0bftng5eMbb131-BIE8-O4OvvDO-h88.jpeg?width=640&crop=smart&auto=webp&s=ab797a572cf8d53fb19c02a8e61ecf5a2877fa67",
         "published": "2026-04-03T10:48:51+00:00"
-    },
-    {
-        "title": "Dodge CEO Asks 'Do You Need a Radio' in 'Back-to-Basics' Quest for Entry-Level Cars",
-        "link": "https://www.reddit.com/r/technology/comments/1sbl3vk/dodge_ceo_asks_do_you_need_a_radio_in/",
-        "image": "https://external-preview.redd.it/erHGQYAXioih8qWLB8o3SOa4t82X8GOkXIRdiqC4GnE.jpeg?width=640&crop=smart&auto=webp&s=01210cca002023f2f7cc2a0910ef7f10c351ae24",
-        "published": "2026-04-03T18:09:04+00:00"
     }
 ]
