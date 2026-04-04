@@ -48,12 +48,6 @@
         "published": "2026-04-04T00:06:44+00:00"
     },
     {
-        "title": "The White House App Is Riddled With Cybersecurity Vulnerabilities",
-        "link": "https://www.reddit.com/r/technology/comments/1sbrrhk/the_white_house_app_is_riddled_with_cybersecurity/",
-        "image": "https://external-preview.redd.it/7vtOR3xx74OvtmZZi8X_-DrA6mlbnJtKNiJ62wwDqMA.jpeg?width=640&crop=smart&auto=webp&s=df7e881201ec95932ee16dc70357c997d86e8319",
-        "published": "2026-04-03T22:22:59+00:00"
-    },
-    {
         "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China \u2014 the AI build-out flips the breakers",
         "link": "https://www.reddit.com/r/technology/comments/1sbw2p1/half_of_planned_us_data_center_builds_have_been/",
         "image": "https://external-preview.redd.it/7ZPq1gYK9GjWHBpCmU-J9Huwrp9ehLb8bVfWDtTE5U0.jpeg?width=640&crop=smart&auto=webp&s=216c3ea5c9559af261de4c63e15736b23e730a11",
@@ -72,21 +66,27 @@
         "published": "2026-04-04T19:02:04+00:00"
     },
     {
-        "title": "NHS staff resist using Palantir software",
-        "link": "https://www.reddit.com/r/technology/comments/1sbtk4w/nhs_staff_resist_using_palantir_software/",
-        "image": "https://external-preview.redd.it/1creq2iMi28Vxf_qzEGw3betjgvl5p3oDAgrpCB3-VM.jpeg?width=640&crop=smart&auto=webp&s=97ebcf7ae2f9d433d1aa60c7fc07f602badcaddb",
-        "published": "2026-04-03T23:39:43+00:00"
-    },
-    {
         "title": "Sam Altman\u2019s sister amends lawsuit accusing OpenAI CEO of sexual abuse",
         "link": "https://www.reddit.com/r/technology/comments/1sc3b0j/sam_altmans_sister_amends_lawsuit_accusing_openai/",
         "image": "https://external-preview.redd.it/VCxQKsG1_7ZgoK8S-XoBjzSWsA_SQo7elSLXApaNYWI.jpeg?width=640&crop=smart&auto=webp&s=4e7ed8a5096db4881ab15117e5ae8ca259ac190f",
         "published": "2026-04-04T07:55:49+00:00"
     },
     {
+        "title": "NHS staff resist using Palantir software",
+        "link": "https://www.reddit.com/r/technology/comments/1sbtk4w/nhs_staff_resist_using_palantir_software/",
+        "image": "https://external-preview.redd.it/1creq2iMi28Vxf_qzEGw3betjgvl5p3oDAgrpCB3-VM.jpeg?width=640&crop=smart&auto=webp&s=97ebcf7ae2f9d433d1aa60c7fc07f602badcaddb",
+        "published": "2026-04-03T23:39:43+00:00"
+    },
+    {
         "title": "Reddit adds labeling for non-human accounts, weighs personhood verification methods",
         "link": "https://www.reddit.com/r/technology/comments/1scdpej/reddit_adds_labeling_for_nonhuman_accounts_weighs/",
         "image": "https://external-preview.redd.it/pD02-TKH8jmm_Xlw97niiSU9oSZDYoMmFwreUzauYvQ.jpeg?width=640&crop=smart&auto=webp&s=e07ff7ad2e5f9b15e17b88378adaaf60482559e9",
         "published": "2026-04-04T16:30:18+00:00"
+    },
+    {
+        "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an \"outsized strain\" on systems",
+        "link": "https://www.reddit.com/r/technology/comments/1scjylj/anthropic_says_claude_subscriptions_will_no/",
+        "image": "https://external-preview.redd.it/qRVr0YrbMyzVXCZL0FQxE0nVLXZRcrnskLtkZGLIjn4.jpeg?width=640&crop=smart&auto=webp&s=d300d1de21c894ceb4f4072ab3633f4172e7f7d4",
+        "published": "2026-04-04T20:35:09+00:00"
     }
 ]
