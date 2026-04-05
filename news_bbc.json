@@ -1,11 +1,5 @@
 [
     {
-        "title": "Search for missing airman presents serious test for US",
-        "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4f49/live/002930e0-305c-11f1-a79a-77e93010d956.jpg",
-        "published": "Sat, 04 Apr 2026 20:13:41 GMT"
-    },
-    {
         "title": "Man charged over fatal shooting of baby in pram in New York",
         "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/195b/live/8b2a0c70-307d-11f1-b556-69ab2f69cc04.jpg",
@@ -88,5 +82,11 @@
         "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
         "published": "Sat, 04 Apr 2026 08:34:00 GMT"
+    },
+    {
+        "title": "French-owned ship passes through Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/44ed/live/b4e9e4b0-2f81-11f1-a6f5-1188a52986a4.jpg",
+        "published": "Fri, 03 Apr 2026 17:45:46 GMT"
     }
 ]
