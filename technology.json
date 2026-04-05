@@ -24,12 +24,6 @@
         "published": "2026-04-04T09:46:45+00:00"
     },
     {
-        "title": "Microsoft says Copilot is for entertainment purposes only, not serious use \u2014 firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
-        "link": "https://www.reddit.com/r/technology/comments/1sbyghz/microsoft_says_copilot_is_for_entertainment/",
-        "image": "https://external-preview.redd.it/_RutfTg2JcTXbFd3ZpfId1OG4s3PB3BNBQiYNS25Bm0.jpeg?width=640&crop=smart&auto=webp&s=5b2a5775ae420913dbb508f62b12955d9c7a68fb",
-        "published": "2026-04-04T03:27:20+00:00"
-    },
-    {
         "title": "Iran threatens to bomb 1GW Stargate AI datacenter in Abu Dhabi",
         "link": "https://www.reddit.com/r/technology/comments/1sc9h3g/iran_threatens_to_bomb_1gw_stargate_ai_datacenter/",
         "image": "https://external-preview.redd.it/WoEnjAMNNAmmkbOEBshx_g_fXBBQ503LG0Ttiv57h3A.jpeg?width=640&crop=smart&auto=webp&s=24337ed1221d9fd002d78c8bb15792837fd580c5",
@@ -42,16 +36,16 @@
         "published": "2026-04-04T10:06:09+00:00"
     },
     {
-        "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China \u2014 the AI build-out flips the breakers",
-        "link": "https://www.reddit.com/r/technology/comments/1sbw2p1/half_of_planned_us_data_center_builds_have_been/",
-        "image": "https://external-preview.redd.it/7ZPq1gYK9GjWHBpCmU-J9Huwrp9ehLb8bVfWDtTE5U0.jpeg?width=640&crop=smart&auto=webp&s=216c3ea5c9559af261de4c63e15736b23e730a11",
-        "published": "2026-04-04T01:33:06+00:00"
-    },
-    {
         "title": "Nearly half of US data centers planned for 2026 are facing delays or cancellation",
         "link": "https://www.reddit.com/r/technology/comments/1sc8vxh/nearly_half_of_us_data_centers_planned_for_2026/",
         "image": "https://external-preview.redd.it/mxBbfrxiBCxrzAEKuk7saBzk_MypBnixaqD_3j0zTKQ.jpeg?width=640&crop=smart&auto=webp&s=da7aaf812fc792d5bdaaa7f5aa5266cb23e8a477",
         "published": "2026-04-04T13:11:03+00:00"
+    },
+    {
+        "title": "Satellite Company Halts Distribution of Images That Help Press Cover Iran War, Cites US Government Request",
+        "link": "https://www.reddit.com/r/technology/comments/1scq59s/satellite_company_halts_distribution_of_images/",
+        "image": "https://external-preview.redd.it/WyeeD6IlsFChGd48DeytKmAE3XkFTQF_xVEirUTq_0g.jpeg?width=640&crop=smart&auto=webp&s=925b8d4ddaaa737d41751ec1cf05dcb799f08f58",
+        "published": "2026-04-05T01:06:05+00:00"
     },
     {
         "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
@@ -60,16 +54,16 @@
         "published": "2026-04-04T19:02:04+00:00"
     },
     {
-        "title": "Sam Altman\u2019s sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-        "link": "https://www.reddit.com/r/technology/comments/1sc3b0j/sam_altmans_sister_amends_lawsuit_accusing_openai/",
-        "image": "https://external-preview.redd.it/VCxQKsG1_7ZgoK8S-XoBjzSWsA_SQo7elSLXApaNYWI.jpeg?width=640&crop=smart&auto=webp&s=4e7ed8a5096db4881ab15117e5ae8ca259ac190f",
-        "published": "2026-04-04T07:55:49+00:00"
-    },
-    {
         "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an \"outsized strain\" on systems",
         "link": "https://www.reddit.com/r/technology/comments/1scjylj/anthropic_says_claude_subscriptions_will_no/",
         "image": "https://external-preview.redd.it/qRVr0YrbMyzVXCZL0FQxE0nVLXZRcrnskLtkZGLIjn4.jpeg?width=640&crop=smart&auto=webp&s=d300d1de21c894ceb4f4072ab3633f4172e7f7d4",
         "published": "2026-04-04T20:35:09+00:00"
+    },
+    {
+        "title": "Sam Altman\u2019s sister amends lawsuit accusing OpenAI CEO of sexual abuse",
+        "link": "https://www.reddit.com/r/technology/comments/1sc3b0j/sam_altmans_sister_amends_lawsuit_accusing_openai/",
+        "image": "https://external-preview.redd.it/VCxQKsG1_7ZgoK8S-XoBjzSWsA_SQo7elSLXApaNYWI.jpeg?width=640&crop=smart&auto=webp&s=4e7ed8a5096db4881ab15117e5ae8ca259ac190f",
+        "published": "2026-04-04T07:55:49+00:00"
     },
     {
         "title": "Reddit adds labeling for non-human accounts, weighs personhood verification methods",
@@ -78,15 +72,21 @@
         "published": "2026-04-04T16:30:18+00:00"
     },
     {
-        "title": "Companies Are Laying Off Workers Because of AI\u2019s Potential\u2014Not Its Performance",
-        "link": "https://www.reddit.com/r/technology/comments/1scilqq/companies_are_laying_off_workers_because_of_ais/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-04T19:40:52+00:00"
-    },
-    {
         "title": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
         "link": "https://www.reddit.com/r/technology/comments/1sc8c20/modder_uses_claude_ai_to_rewrite_bios_so_they_can/",
         "image": "https://external-preview.redd.it/5-leCVt7iT2w3Joy1GGczHSYIoFHonYJyLXQuCar3YQ.jpeg?width=640&crop=smart&auto=webp&s=39e3a4e4565ca7e0d57d7d3da2c9189f0dd1e08a",
         "published": "2026-04-04T12:45:54+00:00"
+    },
+    {
+        "title": "Deafness reversed in weeks: One injection restores hearing in 10 patients with genetic deafness",
+        "link": "https://www.reddit.com/r/technology/comments/1sc10vi/deafness_reversed_in_weeks_one_injection_restores/",
+        "image": "https://external-preview.redd.it/h9YLCzxQcFbwpj9_MxiHweVWQ8Xre_nXYB37cdW7RPk.jpeg?width=640&crop=smart&auto=webp&s=d1f6ed5d4ff0d29cc47f7ba6597ed0d729b5ddca",
+        "published": "2026-04-04T05:43:20+00:00"
+    },
+    {
+        "title": "NASA's 1977 computers aboard Voyager are still working in interstellar space",
+        "link": "https://www.reddit.com/r/technology/comments/1scbrtb/nasas_1977_computers_aboard_voyager_are_still/",
+        "image": "https://external-preview.redd.it/8qhapq2e55ElLyBr8GsPMRmeZ9EL5IuAC2iH4TnrkoY.png?width=640&crop=smart&auto=webp&s=6f7648c1037b8bc019987aad9595947bd2dddef0",
+        "published": "2026-04-04T15:13:30+00:00"
     }
 ]
