@@ -42,12 +42,6 @@
         "published": "2026-04-04T10:06:09+00:00"
     },
     {
-        "title": "Wisconsin Governor Vetoes Age-Verification Bill",
-        "link": "https://www.reddit.com/r/technology/comments/1sbu6xm/wisconsin_governor_vetoes_ageverification_bill/",
-        "image": "https://external-preview.redd.it/duL2svKQod-O8-9Gul-NpSG1G-OFeCX4sbKm6n8SvJE.png?width=640&crop=smart&auto=webp&s=c1b68329a68fc8383e20878bcd75d3692013e528",
-        "published": "2026-04-04T00:06:44+00:00"
-    },
-    {
         "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China \u2014 the AI build-out flips the breakers",
         "link": "https://www.reddit.com/r/technology/comments/1sbw2p1/half_of_planned_us_data_center_builds_have_been/",
         "image": "https://external-preview.redd.it/7ZPq1gYK9GjWHBpCmU-J9Huwrp9ehLb8bVfWDtTE5U0.jpeg?width=640&crop=smart&auto=webp&s=216c3ea5c9559af261de4c63e15736b23e730a11",
@@ -72,10 +66,10 @@
         "published": "2026-04-04T07:55:49+00:00"
     },
     {
-        "title": "NHS staff resist using Palantir software",
-        "link": "https://www.reddit.com/r/technology/comments/1sbtk4w/nhs_staff_resist_using_palantir_software/",
-        "image": "https://external-preview.redd.it/1creq2iMi28Vxf_qzEGw3betjgvl5p3oDAgrpCB3-VM.jpeg?width=640&crop=smart&auto=webp&s=97ebcf7ae2f9d433d1aa60c7fc07f602badcaddb",
-        "published": "2026-04-03T23:39:43+00:00"
+        "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an \"outsized strain\" on systems",
+        "link": "https://www.reddit.com/r/technology/comments/1scjylj/anthropic_says_claude_subscriptions_will_no/",
+        "image": "https://external-preview.redd.it/qRVr0YrbMyzVXCZL0FQxE0nVLXZRcrnskLtkZGLIjn4.jpeg?width=640&crop=smart&auto=webp&s=d300d1de21c894ceb4f4072ab3633f4172e7f7d4",
+        "published": "2026-04-04T20:35:09+00:00"
     },
     {
         "title": "Reddit adds labeling for non-human accounts, weighs personhood verification methods",
@@ -84,9 +78,15 @@
         "published": "2026-04-04T16:30:18+00:00"
     },
     {
-        "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an \"outsized strain\" on systems",
-        "link": "https://www.reddit.com/r/technology/comments/1scjylj/anthropic_says_claude_subscriptions_will_no/",
-        "image": "https://external-preview.redd.it/qRVr0YrbMyzVXCZL0FQxE0nVLXZRcrnskLtkZGLIjn4.jpeg?width=640&crop=smart&auto=webp&s=d300d1de21c894ceb4f4072ab3633f4172e7f7d4",
-        "published": "2026-04-04T20:35:09+00:00"
+        "title": "Companies Are Laying Off Workers Because of AI\u2019s Potential\u2014Not Its Performance",
+        "link": "https://www.reddit.com/r/technology/comments/1scilqq/companies_are_laying_off_workers_because_of_ais/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-04T19:40:52+00:00"
+    },
+    {
+        "title": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
+        "link": "https://www.reddit.com/r/technology/comments/1sc8c20/modder_uses_claude_ai_to_rewrite_bios_so_they_can/",
+        "image": "https://external-preview.redd.it/5-leCVt7iT2w3Joy1GGczHSYIoFHonYJyLXQuCar3YQ.jpeg?width=640&crop=smart&auto=webp&s=39e3a4e4565ca7e0d57d7d3da2c9189f0dd1e08a",
+        "published": "2026-04-04T12:45:54+00:00"
     }
 ]
