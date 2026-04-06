@@ -12,12 +12,6 @@
         "published": "2026-04-06T12:45:27+00:00"
     },
     {
-        "title": "'No on-site doctor': Dental student died in ICU overseen by remote 'tele-health' physician who pronounced him dead on a video screen, lawsuit says\u2026",
-        "link": "https://www.reddit.com/r/technology/comments/1sdia1v/no_onsite_doctor_dental_student_died_in_icu/",
-        "image": "https://external-preview.redd.it/G3lfaU5dFQaAU101rrYFWzQ2GvCI70xqrT6d4KN92kk.jpeg?width=640&crop=smart&auto=webp&s=600ff4cd0b2d5d7029a14364e6cc3c76104675ae",
-        "published": "2026-04-05T23:18:54+00:00"
-    },
-    {
         "title": "It\u2019s Not Just You: Six of 10 Drivers Say Headlight Glare Is a Problem",
         "link": "https://www.reddit.com/r/technology/comments/1se8qtu/its_not_just_you_six_of_10_drivers_say_headlight/",
         "image": "https://external-preview.redd.it/Z-7qpzsOF3XJ3uAEhQyXzv9OKMBw6yuyGC02qXFC-7M.jpeg?width=640&crop=smart&auto=webp&s=6cf2994ab9e8b15b8b0a0673844570d736922c07",
@@ -48,6 +42,12 @@
         "published": "2026-04-06T09:48:03+00:00"
     },
     {
+        "title": "\u201cThe problem is Sam Altman\u201d: OpenAI Insiders don\u2019t trust CEO",
+        "link": "https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/",
+        "image": "https://external-preview.redd.it/lJlLtuB45-ZSbX-jcnhmA53BFjR5w1208T0xwmKPPdk.jpeg?width=640&crop=smart&auto=webp&s=63c87f36e1e56f982836d84b76a45ec30b378947",
+        "published": "2026-04-06T21:25:20+00:00"
+    },
+    {
         "title": "Jaguar: We Will Be 'Exclusively Electric'",
         "link": "https://www.reddit.com/r/technology/comments/1se549c/jaguar_we_will_be_exclusively_electric/",
         "image": "https://external-preview.redd.it/EISZZtEH2pRqg51kLQrUjpZ-oqdbc657tW63mGyhP0c.jpeg?width=640&crop=smart&auto=webp&s=51cbf6594fc74899e6006f73191b0a7c1ea38e1a",
@@ -66,6 +66,12 @@
         "published": "2026-04-06T03:01:28+00:00"
     },
     {
+        "title": "Samsung discontinuing its texting app, tells users to switch to Google Messages",
+        "link": "https://www.reddit.com/r/technology/comments/1seaalq/samsung_discontinuing_its_texting_app_tells_users/",
+        "image": "https://external-preview.redd.it/xGAPSxB7TcooT63woMIAnSv5lTVXUDkXLvo_-yXWZuA.jpeg?width=640&crop=smart&auto=webp&s=7b81a053418afb6e73890ab31d8ff435595bc17f",
+        "published": "2026-04-06T20:18:49+00:00"
+    },
+    {
         "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
         "link": "https://www.reddit.com/r/technology/comments/1sdzrmh/critical_vulnerability_in_claude_code_emerges/",
         "image": "https://external-preview.redd.it/oY2dibyUVHH64bAogVgqylhaqvCj-F9CbhUkG71miZo.jpeg?width=640&crop=smart&auto=webp&s=8f9801cd04dd3e10de7ddc8bf92d0c8b409fe94f",
@@ -78,15 +84,9 @@
         "published": "2026-04-06T13:31:22+00:00"
     },
     {
-        "title": "\u201cThe problem is Sam Altman\u201d: OpenAI Insiders don\u2019t trust CEO",
-        "link": "https://www.reddit.com/r/technology/comments/1sec3xx/the_problem_is_sam_altman_openai_insiders_dont/",
-        "image": "https://external-preview.redd.it/lJlLtuB45-ZSbX-jcnhmA53BFjR5w1208T0xwmKPPdk.jpeg?width=640&crop=smart&auto=webp&s=63c87f36e1e56f982836d84b76a45ec30b378947",
-        "published": "2026-04-06T21:25:20+00:00"
-    },
-    {
-        "title": "Samsung discontinuing its texting app, tells users to switch to Google Messages",
-        "link": "https://www.reddit.com/r/technology/comments/1seaalq/samsung_discontinuing_its_texting_app_tells_users/",
-        "image": "https://external-preview.redd.it/xGAPSxB7TcooT63woMIAnSv5lTVXUDkXLvo_-yXWZuA.jpeg?width=640&crop=smart&auto=webp&s=7b81a053418afb6e73890ab31d8ff435595bc17f",
-        "published": "2026-04-06T20:18:49+00:00"
+        "title": "Meta salary data reveals a VP of AI can make $650,000 in base salary",
+        "link": "https://www.reddit.com/r/technology/comments/1sdw8i5/meta_salary_data_reveals_a_vp_of_ai_can_make/",
+        "image": "https://external-preview.redd.it/PuAcj-RGNy0Rlay3eDHy0-bcEwFFi1c1cEfl47Y7AWo.jpeg?width=640&crop=smart&auto=webp&s=f7ca7b8c02dff03011d85e5e34c9621dac76c06d",
+        "published": "2026-04-06T11:31:09+00:00"
     }
 ]
