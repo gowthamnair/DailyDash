@@ -42,12 +42,6 @@
         "published": "2026-04-07T12:27:47+00:00"
     },
     {
-        "title": "Human skull discovered during Easter egg hunt in California",
-        "link": "https://www.reddit.com/r/news/comments/1sed5ht/human_skull_discovered_during_easter_egg_hunt_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-06T22:05:14+00:00"
-    },
-    {
         "title": "Russia and China veto watered-down UN resolution aimed at reopening the Strait of Hormuz",
         "link": "https://www.reddit.com/r/news/comments/1sf4dts/russia_and_china_veto_watereddown_un_resolution/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -66,16 +60,16 @@
         "published": "2026-04-07T13:10:00+00:00"
     },
     {
-        "title": "Man dies in Mesa police custody Saturday night",
-        "link": "https://www.reddit.com/r/news/comments/1sei9e9/man_dies_in_mesa_police_custody_saturday_night/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T01:38:44+00:00"
-    },
-    {
         "title": "Uganda receives first US deportation flight under third-country agreement",
         "link": "https://www.reddit.com/r/news/comments/1sez89r/uganda_receives_first_us_deportation_flight_under/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T15:27:56+00:00"
+    },
+    {
+        "title": "Man dies in Mesa police custody Saturday night",
+        "link": "https://www.reddit.com/r/news/comments/1sei9e9/man_dies_in_mesa_police_custody_saturday_night/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T01:38:44+00:00"
     },
     {
         "title": "Video brings new scrutiny to an ICE shooting in Minneapolis after charges against 2 men collapsed",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/news/comments/1sf123e/nasa_releases_new_earthset_and_eclipse_images/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T16:32:25+00:00"
+    },
+    {
+        "title": "Former Australian soldier charged with committing 5 war crime murders in Afghanistan",
+        "link": "https://www.reddit.com/r/news/comments/1sewden/former_australian_soldier_charged_with_committing/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T13:42:42+00:00"
     }
 ]
