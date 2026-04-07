@@ -18,6 +18,12 @@
         "published": "2026-04-07T16:26:31+00:00"
     },
     {
+        "title": "Data Centers Are Military Targets Now",
+        "link": "https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/",
+        "image": "https://external-preview.redd.it/K1wn6Y1X1g5BM1ZaE60xEGSbZH1gldpFGTW0fVT36UY.jpeg?width=640&crop=smart&auto=webp&s=4c90f60c354ae1c2d6804759d173b9bb3466be3c",
+        "published": "2026-04-07T19:31:07+00:00"
+    },
+    {
         "title": "NIH Scientists Discover Powerful New Opioid That Relieves Pain Without Dangerous Side Effects",
         "link": "https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/",
         "image": "https://external-preview.redd.it/XpHhSyiukYN2ruEaKXx4uakFsUyMp-k-anI40zJaSqU.jpeg?width=640&crop=smart&auto=webp&s=8117cf3d2887b98eb217bf757b93e08f27971cb1",
@@ -36,22 +42,10 @@
         "published": "2026-04-07T17:15:01+00:00"
     },
     {
-        "title": "Data Centers Are Military Targets Now",
-        "link": "https://www.reddit.com/r/technology/comments/1sf65s6/data_centers_are_military_targets_now/",
-        "image": "https://external-preview.redd.it/K1wn6Y1X1g5BM1ZaE60xEGSbZH1gldpFGTW0fVT36UY.jpeg?width=640&crop=smart&auto=webp&s=4c90f60c354ae1c2d6804759d173b9bb3466be3c",
-        "published": "2026-04-07T19:31:07+00:00"
-    },
-    {
         "title": "Target puts customers on the hook for AI shopping assistant errors",
         "link": "https://www.reddit.com/r/technology/comments/1sevte6/target_puts_customers_on_the_hook_for_ai_shopping/",
         "image": "https://external-preview.redd.it/fmkXM8klu28kfOvA53HAr2Ujqt2P-8bBE7Mxuutja2g.jpeg?width=640&crop=smart&auto=webp&s=616c52b5a3f1b33e14638a613cf14f8f8c465df3",
         "published": "2026-04-07T13:20:46+00:00"
-    },
-    {
-        "title": "Amazon strikes deal with USPS that maintains 80% of package volume",
-        "link": "https://www.reddit.com/r/technology/comments/1seeewz/amazon_strikes_deal_with_usps_that_maintains_80/",
-        "image": "https://external-preview.redd.it/Zurn0jZPBxcd8eh1vFL-Rw4SlosDmdpC9Hxz8ltlQAU.jpeg?width=640&crop=smart&auto=webp&s=a430740068f387f8c967dd4750ac477b2495ab83",
-        "published": "2026-04-06T22:55:27+00:00"
     },
     {
         "title": "Americans May Be Losing Trust for AI in Health Care",
@@ -64,12 +58,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1selvrq/scientists_create_healing_gel_that_could_stop/",
         "image": "https://external-preview.redd.it/0FqN-G20dhUUUl1ntlCJ4pH7q1QPtHDfQ6ubgKUeI1Q.jpeg?width=640&crop=smart&auto=webp&s=055697be67b70e0ffd21a7fd33d9dbcf5914ef4d",
         "published": "2026-04-07T04:26:14+00:00"
-    },
-    {
-        "title": "Linux devs start removing support for 37-year-old Intel 486 CPU \u2014 head honcho Linus Torvalds says 'zero real reason' to continue support",
-        "link": "https://www.reddit.com/r/technology/comments/1sedz1o/linux_devs_start_removing_support_for_37yearold/",
-        "image": "https://external-preview.redd.it/y5GdUWE5fsTt9qnk0voTrW2DKMlXBv9XMUjYOl50oec.jpeg?width=640&crop=smart&auto=webp&s=f7af7192eeb0c6c451222fad0bfd7fed772e3fa2",
-        "published": "2026-04-06T22:37:43+00:00"
     },
     {
         "title": "Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1sejha0/nasa_moon_mission_breaks_deep_space_distance/",
         "image": "https://external-preview.redd.it/t7NDG6gbCbnCIY9hyABPIJg533iescaU6yt3seyo2Bo.jpeg?width=640&crop=smart&auto=webp&s=aac153d69048a9dc41b43e7ab4db9eef311cdcb5",
         "published": "2026-04-07T02:32:59+00:00"
+    },
+    {
+        "title": "AMD's AI director slams Claude Code for becoming dumber and lazier since last update",
+        "link": "https://www.reddit.com/r/technology/comments/1segjhe/amds_ai_director_slams_claude_code_for_becoming/",
+        "image": "https://external-preview.redd.it/7Zhz6szdvxr5EbowA-oYCaSidZF39lbA5qFWN0kRaD4.jpeg?width=640&crop=smart&auto=webp&s=8cdb58d231930718d9ba4aefec598f13b2d747a4",
+        "published": "2026-04-07T00:24:05+00:00"
+    },
+    {
+        "title": "Chinese AI satellite intelligence helping Iran target US forces with 'incredible precision', analysts say",
+        "link": "https://www.reddit.com/r/technology/comments/1sf92xk/chinese_ai_satellite_intelligence_helping_iran/",
+        "image": "https://external-preview.redd.it/Xz93O2SPqgJVe-NMx9TRqilrb5XTF9yRe9drI3iW6rM.jpeg?width=640&crop=smart&auto=webp&s=0fdf31db5095007c483f771289b3aecfda25b454",
+        "published": "2026-04-07T21:19:10+00:00"
     }
 ]
