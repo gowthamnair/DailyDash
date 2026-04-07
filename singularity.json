@@ -30,16 +30,28 @@
         "published": "2026-04-06T21:48:24+00:00"
     },
     {
-        "title": "Anthropic have signed a deal for multiple gigawatts of next generation TPUs",
-        "link": "https://www.reddit.com/r/singularity/comments/1sedcpz/anthropic_have_signed_a_deal_for_multiple/",
-        "image": "https://preview.redd.it/56b3q4rh9ntg1.jpeg?width=640&crop=smart&auto=webp&s=2b52c93e837b41fc460ba673b149a06829ae283d",
-        "published": "2026-04-06T22:13:14+00:00"
+        "title": "Claude Mythos Was Told to Escape Sandbox in Testing \u2014 Succeeded, Then Unprompted Posted Exploit Details Online + Emailed Researcher While He Was Eating a Sandwich in the Park",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf5k92/claude_mythos_was_told_to_escape_sandbox_in/",
+        "image": "https://preview.redd.it/au6agzalhttg1.jpg?width=140&height=83&auto=webp&s=20af56e6d8936bc4d3b05475a1c817a2708f2776",
+        "published": "2026-04-07T19:09:21+00:00"
     },
     {
         "title": "Claude Mythos Preview Benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1sf3zme/claude_mythos_preview_benchmarks/",
         "image": "https://preview.redd.it/88f9g6za7ttg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1edc9ae4e1bb5a2dc48f3847afdec804a059ad83",
         "published": "2026-04-07T18:13:14+00:00"
+    },
+    {
+        "title": "Anthropic have signed a deal for multiple gigawatts of next generation TPUs",
+        "link": "https://www.reddit.com/r/singularity/comments/1sedcpz/anthropic_have_signed_a_deal_for_multiple/",
+        "image": "https://preview.redd.it/56b3q4rh9ntg1.jpeg?width=640&crop=smart&auto=webp&s=2b52c93e837b41fc460ba673b149a06829ae283d",
+        "published": "2026-04-06T22:13:14+00:00"
+    },
+    {
+        "title": "The 244-page System Card for Claude Mythos Preview is terrifying",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf5xqn/the_244page_system_card_for_claude_mythos_preview/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T19:22:41+00:00"
     },
     {
         "title": "Robo security dog doing his rounds in Atlanta",
@@ -54,12 +66,6 @@
         "published": "2026-04-07T09:00:28+00:00"
     },
     {
-        "title": "Let the game begins",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf2h5w/let_the_game_begins/",
-        "image": "https://preview.redd.it/z90qtuu8ystg1.png?width=640&crop=smart&auto=webp&s=a244c3d04fe7acb2c5bc8e2d6f0f6529b6aca90f",
-        "published": "2026-04-07T17:21:14+00:00"
-    },
-    {
         "title": "Opus 5 is Coming",
         "link": "https://www.reddit.com/r/singularity/comments/1sf4jny/opus_5_is_coming/",
         "image": "https://preview.redd.it/i52pbmo3bttg1.png?width=640&crop=smart&auto=webp&s=b1fbf4b8db40fa2134b45912e64ad87d081f892d",
@@ -72,21 +78,15 @@
         "published": "2026-04-07T18:29:14+00:00"
     },
     {
+        "title": "Let the game begins",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf2h5w/let_the_game_begins/",
+        "image": "https://preview.redd.it/z90qtuu8ystg1.png?width=640&crop=smart&auto=webp&s=a244c3d04fe7acb2c5bc8e2d6f0f6529b6aca90f",
+        "published": "2026-04-07T17:21:14+00:00"
+    },
+    {
         "title": "Seeing the Emotion Vectors Visualized in Gemma 2 2B",
         "link": "https://www.reddit.com/r/singularity/comments/1seytyv/seeing_the_emotion_vectors_visualized_in_gemma_2/",
         "image": "https://preview.redd.it/5sbzl3yibstg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a0f346da6f25bb9b52e2bef5618763b446c8cf67",
         "published": "2026-04-07T15:13:33+00:00"
-    },
-    {
-        "title": "\"No one\u2019s raising their hand\": Japan\u2019s labor crisis is making the case for robots taking the jobs you don\u2019t want",
-        "link": "https://www.reddit.com/r/singularity/comments/1sex2z0/no_ones_raising_their_hand_japans_labor_crisis_is/",
-        "image": "https://external-preview.redd.it/T8r9rGKqDPqfiqbkbnC2np4JmGQ5B78NVc6n7mvanKU.jpeg?width=640&crop=smart&auto=webp&s=273631ef30272b76f5f33806bd27be7cf1e30062",
-        "published": "2026-04-07T14:09:43+00:00"
-    },
-    {
-        "title": "Official benchmarks for Anthropic\u2019s new model Mythos. They really cooked!",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf4d00/official_benchmarks_for_anthropics_new_model/",
-        "image": "https://preview.redd.it/yd0yemyw9ttg1.jpeg?width=640&crop=smart&auto=webp&s=d9d8bab01ced5644b7ed0ee215aa3a8a8299a304",
-        "published": "2026-04-07T18:26:18+00:00"
     }
 ]
