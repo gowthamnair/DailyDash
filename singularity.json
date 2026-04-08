@@ -18,10 +18,10 @@
         "published": "2026-04-08T16:15:04+00:00"
     },
     {
-        "title": "Insane graph from Anthropic's article on Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf8o3q/insane_graph_from_anthropics_article_on_mythos/",
-        "image": "https://preview.redd.it/5iuovcvz1utg1.png?width=640&crop=smart&auto=webp&s=32bddee55a3f59a98227bd9bfb0cea0562d17e70",
-        "published": "2026-04-07T21:04:09+00:00"
+        "title": "Claude Opus vs Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1sg2wwj/claude_opus_vs_mythos/",
+        "image": "https://preview.redd.it/625vhjj1q0ug1.jpeg?width=640&crop=smart&auto=webp&s=6025907c4a0c36f84a153f15a2870a7dc12b4011",
+        "published": "2026-04-08T19:29:10+00:00"
     },
     {
         "title": "Reset",
@@ -30,16 +30,16 @@
         "published": "2026-04-08T09:14:57+00:00"
     },
     {
-        "title": "7 models in training on Colossus 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfkn26/7_models_in_training_on_colossus_2/",
-        "image": "https://preview.redd.it/4pn15nkuqwtg1.png?width=640&crop=smart&auto=webp&s=719d8d65bb33b50235e64e2e8ad320a56a29c4ef",
-        "published": "2026-04-08T06:07:09+00:00"
-    },
-    {
         "title": "If you ever feel useless, remember this rule exists.",
         "link": "https://www.reddit.com/r/singularity/comments/1sfr02u/if_you_ever_feel_useless_remember_this_rule_exists/",
         "image": "https://preview.redd.it/rsjrapodjytg1.png?width=320&crop=smart&auto=webp&s=1d9e392b7c06a18a6bde7adcb70dc08a0adca1f8",
         "published": "2026-04-08T12:10:13+00:00"
+    },
+    {
+        "title": "7 models in training on Colossus 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfkn26/7_models_in_training_on_colossus_2/",
+        "image": "https://preview.redd.it/4pn15nkuqwtg1.png?width=640&crop=smart&auto=webp&s=719d8d65bb33b50235e64e2e8ad320a56a29c4ef",
+        "published": "2026-04-08T06:07:09+00:00"
     },
     {
         "title": "Sam Altman and Vinod Khosla agree: AI will break the economy. Their fix is no income tax for most Americans",
@@ -48,34 +48,16 @@
         "published": "2026-04-08T13:40:48+00:00"
     },
     {
-        "title": "Anthropic's yet to be released Claude Mythos identified a 16-year-old FFmpeg security flaw. Patches were then submitted to the FFmpeg open source project.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf82pf/anthropics_yet_to_be_released_claude_mythos/",
-        "image": "https://preview.redd.it/0z5b40hsxttg1.png?width=640&crop=smart&auto=webp&s=a2ea2591bc1f97c8bd3f23e4552f3a2221612f6a",
-        "published": "2026-04-07T20:41:49+00:00"
-    },
-    {
         "title": "Is OpenAI about to release a Mythos level AI to the public?",
         "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
         "image": "https://preview.redd.it/2bvgpx9cvwtg1.png?width=320&crop=smart&auto=webp&s=e1ea2ea8a1ea7023d802052ab92588ab76f6433b",
         "published": "2026-04-08T06:36:15+00:00"
     },
     {
-        "title": "Claude Opus vs Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1sg2wwj/claude_opus_vs_mythos/",
-        "image": "https://preview.redd.it/625vhjj1q0ug1.jpeg?width=640&crop=smart&auto=webp&s=6025907c4a0c36f84a153f15a2870a7dc12b4011",
-        "published": "2026-04-08T19:29:10+00:00"
-    },
-    {
         "title": "So, this week claude wiped agentic AI startups with a new update. Also, as they have mythos now, they will ship things very fast without any trouble",
         "link": "https://www.reddit.com/r/singularity/comments/1sg0y6h/so_this_week_claude_wiped_agentic_ai_startups/",
         "image": "https://preview.redd.it/xtb1xz8hd0ug1.jpeg?width=640&crop=smart&auto=webp&s=c12c1d22156466d093934408a909001bc862d24b",
         "published": "2026-04-08T18:18:46+00:00"
-    },
-    {
-        "title": "Is mythos above or beyond agent-1",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf8q7v/is_mythos_above_or_beyond_agent1/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T21:06:17+00:00"
     },
     {
         "title": "Openai directing over $100M to scientists for Alzheimer\u2019s",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sfrr05/gpt_54_gets_owned_by_opus_46_at_monopoly/",
         "image": "https://preview.redd.it/hx9k4ygpoytg1.png?width=640&crop=smart&auto=webp&s=ae0bd2e7c6db4758220d54787fd46cf5fe0487c2",
         "published": "2026-04-08T12:43:01+00:00"
+    },
+    {
+        "title": "A recent study has found that LLMs are worse at giving accurate, truthful answers to people who have lower English proficiency and less formal education, rendering them more unreliable towards the most vulnerable users.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfykt2/a_recent_study_has_found_that_llms_are_worse_at/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T16:54:58+00:00"
+    },
+    {
+        "title": "GPT Image 2 is crazy good.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfgqyg/gpt_image_2_is_crazy_good/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T02:44:59+00:00"
+    },
+    {
+        "title": "Daniel Kokotajlo and Eli Lifland shorten their (already short) timelines to advanced AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfv2cz/daniel_kokotajlo_and_eli_lifland_shorten_their/",
+        "image": "https://external-preview.redd.it/8hAApA7qniw1IXJRvVScsNXthKrBll0DhfEHAi1vzdY.jpeg?width=640&crop=smart&auto=webp&s=850f36c9f6b0c6b585dc05c8f317a5e1acefc4a9",
+        "published": "2026-04-08T14:50:25+00:00"
     }
 ]
