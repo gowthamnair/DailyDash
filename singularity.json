@@ -1,11 +1,5 @@
 [
     {
-        "title": "An actress Milla Jovovich just released a free open-source AI memory system that scored 100% on LongMemEval, beating every paid solution",
-        "link": "https://www.reddit.com/r/singularity/comments/1sexr5v/an_actress_milla_jovovich_just_released_a_free/",
-        "image": "https://external-preview.redd.it/18o8NT1ya3LKO1hJHvyF9nBECPhn77tDG-Ug6tsrEpw.png?width=640&crop=smart&auto=webp&s=980b5519a4775414e8c384fdf22294d32ac4ccee",
-        "published": "2026-04-07T14:34:32+00:00"
-    },
-    {
         "title": "Anthropic's new model, Claude Mythos, is so powerful that it is not releasing it to the public.",
         "link": "https://www.reddit.com/r/singularity/comments/1sf3uhp/anthropics_new_model_claude_mythos_is_so_powerful/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -16,12 +10,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sf5k92/claude_mythos_was_told_to_escape_sandbox_in/",
         "image": "https://preview.redd.it/au6agzalhttg1.jpg?width=140&height=83&auto=webp&s=20af56e6d8936bc4d3b05475a1c817a2708f2776",
         "published": "2026-04-07T19:09:21+00:00"
-    },
-    {
-        "title": "The permanent underclass began today: Claude Mythos won't be available to the public, but only billion dollar companies, governments, researchers",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfoo5r/the_permanent_underclass_began_today_claude/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-08T10:11:32+00:00"
     },
     {
         "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
@@ -66,6 +54,12 @@
         "published": "2026-04-07T20:41:49+00:00"
     },
     {
+        "title": "Sam Altman's Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts: \"\"I think there's a small but real chance he's eventually remembered as a Bernie Madoff- or Sam Bankman-Fried-level scammer.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1sftwg9/sam_altmans_coworkers_say_he_can_barely_code_and/",
+        "image": "https://external-preview.redd.it/jsi5NKr4KCjBWlM2Tzu8FzzZUeyXBPGqQEXDr77Y7xE.jpeg?width=640&crop=smart&auto=webp&s=7953bff0f759e625d9c99677aa746c1c81da1ae0",
+        "published": "2026-04-08T14:08:02+00:00"
+    },
+    {
         "title": "Anthropic just dropped Claude Mythos & kind of quietly showed what cybersecurity AGI could actually look like",
         "link": "https://www.reddit.com/r/singularity/comments/1sf65s1/anthropic_just_dropped_claude_mythos_kind_of/",
         "image": "https://preview.redd.it/aew5cu4hlttg1.jpeg?width=640&crop=smart&auto=webp&s=c3d7e1b491d0ca7388c8afb7702ab0c9df655409",
@@ -78,15 +72,21 @@
         "published": "2026-04-07T19:11:54+00:00"
     },
     {
+        "title": "Reset",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfnpvk/reset/",
+        "image": "https://preview.redd.it/47a15iigoxtg1.jpeg?width=640&crop=smart&auto=webp&s=8504812fe250b02515cc5ad8a92a6749a0e4d826",
+        "published": "2026-04-08T09:14:57+00:00"
+    },
+    {
         "title": "Is OpenAI about to release a Mythos level AI to the public?",
         "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
         "image": "https://preview.redd.it/2bvgpx9cvwtg1.png?width=320&crop=smart&auto=webp&s=e1ea2ea8a1ea7023d802052ab92588ab76f6433b",
         "published": "2026-04-08T06:36:15+00:00"
     },
     {
-        "title": "Reset",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfnpvk/reset/",
-        "image": "https://preview.redd.it/47a15iigoxtg1.jpeg?width=640&crop=smart&auto=webp&s=8504812fe250b02515cc5ad8a92a6749a0e4d826",
-        "published": "2026-04-08T09:14:57+00:00"
+        "title": "If you ever feel useless, remember this rule exists.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfr02u/if_you_ever_feel_useless_remember_this_rule_exists/",
+        "image": "https://preview.redd.it/rsjrapodjytg1.png?width=320&crop=smart&auto=webp&s=1d9e392b7c06a18a6bde7adcb70dc08a0adca1f8",
+        "published": "2026-04-08T12:10:13+00:00"
     }
 ]

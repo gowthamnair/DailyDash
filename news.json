@@ -1,11 +1,5 @@
 [
     {
-        "title": "UK government bans Kanye West from entering country",
-        "link": "https://www.reddit.com/r/news/comments/1sev9p9/uk_government_bans_kanye_west_from_entering/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T12:59:12+00:00"
-    },
-    {
         "title": "Democratic-backed Chris Taylor wins Wisconsin Supreme Court race, growing liberal majority",
         "link": "https://www.reddit.com/r/news/comments/1sffk01/democraticbacked_chris_taylor_wins_wisconsin/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -18,16 +12,16 @@
         "published": "2026-04-07T23:15:17+00:00"
     },
     {
-        "title": "US soldier\u2019s wife released after arrest by ICE agents at military base",
-        "link": "https://www.reddit.com/r/news/comments/1sfbkhh/us_soldiers_wife_released_after_arrest_by_ice/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T22:57:49+00:00"
-    },
-    {
         "title": "ICE agents shoot man in car in northern California",
         "link": "https://www.reddit.com/r/news/comments/1sfg336/ice_agents_shoot_man_in_car_in_northern_california/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-08T02:14:09+00:00"
+    },
+    {
+        "title": "US soldier\u2019s wife released after arrest by ICE agents at military base",
+        "link": "https://www.reddit.com/r/news/comments/1sfbkhh/us_soldiers_wife_released_after_arrest_by_ice/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T22:57:49+00:00"
     },
     {
         "title": "Former FedEx driver pleads guilty to killing 7-year-old girl after making delivery at her Texas home",
@@ -48,16 +42,16 @@
         "published": "2026-04-07T18:27:07+00:00"
     },
     {
+        "title": "Israeli military strikes southern Lebanon after US-Iran ceasefire",
+        "link": "https://www.reddit.com/r/news/comments/1sfqjba/israeli_military_strikes_southern_lebanon_after/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T11:48:59+00:00"
+    },
+    {
         "title": "Deere & Co agrees to pay $99 million to settle \u2018right to repair\u2019 lawsuit",
         "link": "https://www.reddit.com/r/news/comments/1sf1kxj/deere_co_agrees_to_pay_99_million_to_settle_right/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T16:51:03+00:00"
-    },
-    {
-        "title": "Members of neo-Nazi \u2018active clubs\u2019 join combat events at secretive Virginia compound",
-        "link": "https://www.reddit.com/r/news/comments/1sevjii/members_of_neonazi_active_clubs_join_combat/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T13:10:00+00:00"
     },
     {
         "title": "'Mormon Wives' star Taylor Frankie Paul can't have unsupervised visits with toddler son, court rules",
@@ -78,15 +72,21 @@
         "published": "2026-04-07T16:32:25+00:00"
     },
     {
-        "title": "Former Australian soldier charged with committing 5 war crime murders in Afghanistan",
-        "link": "https://www.reddit.com/r/news/comments/1sewden/former_australian_soldier_charged_with_committing/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T13:42:42+00:00"
-    },
-    {
         "title": "Vatican aid convoy to southern Lebanese town forced back by bombardment",
         "link": "https://www.reddit.com/r/news/comments/1sf5kfc/vatican_aid_convoy_to_southern_lebanese_town/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T19:09:31+00:00"
+    },
+    {
+        "title": "Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children",
+        "link": "https://www.reddit.com/r/news/comments/1sfb1h9/bangladesh_conducts_emergency_measles/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T22:36:29+00:00"
+    },
+    {
+        "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+        "link": "https://www.reddit.com/r/news/comments/1sfmyle/oil_prices_plunge_and_shares_jump_on_usiran/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T08:28:27+00:00"
     }
 ]
