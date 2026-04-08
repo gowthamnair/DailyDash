@@ -6,28 +6,10 @@
         "published": "2026-04-07T14:34:32+00:00"
     },
     {
-        "title": "Anthropic has now hit $30b in revenue",
-        "link": "https://www.reddit.com/r/singularity/comments/1segj79/anthropic_has_now_hit_30b_in_revenue/",
-        "image": "https://preview.redd.it/s7b5eccqwntg1.png?width=640&crop=smart&auto=webp&s=f21b6170e79a0ead3ebebc435a495e3fc14cb581",
-        "published": "2026-04-07T00:23:44+00:00"
-    },
-    {
         "title": "Anthropic's new model, Claude Mythos, is so powerful that it is not releasing it to the public.",
         "link": "https://www.reddit.com/r/singularity/comments/1sf3uhp/anthropics_new_model_claude_mythos_is_so_powerful/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T18:08:30+00:00"
-    },
-    {
-        "title": "13 shots fired into home of Indianapolis city councilor; note reading \u201cNo data centers\u201d left at scene.",
-        "link": "https://www.reddit.com/r/singularity/comments/1seflyg/13_shots_fired_into_home_of_indianapolis_city/",
-        "image": "https://preview.redd.it/mhkisc3tontg1.jpeg?width=640&crop=smart&auto=webp&s=9b205c3607e47959672feee862e3288ff40440b3",
-        "published": "2026-04-06T23:44:37+00:00"
-    },
-    {
-        "title": "The 244-page System Card for Claude Mythos Preview is terrifying",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf5xqn/the_244page_system_card_for_claude_mythos_preview/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T19:22:41+00:00"
     },
     {
         "title": "Claude Mythos Was Told to Escape Sandbox in Testing \u2014 Succeeded, Then Unprompted Posted Exploit Details Online + Emailed Researcher While He Was Eating a Sandwich in the Park",
@@ -66,16 +48,22 @@
         "published": "2026-04-07T05:23:45+00:00"
     },
     {
+        "title": "Insane graph from Anthropic's article on Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf8o3q/insane_graph_from_anthropics_article_on_mythos/",
+        "image": "https://preview.redd.it/5iuovcvz1utg1.png?width=640&crop=smart&auto=webp&s=32bddee55a3f59a98227bd9bfb0cea0562d17e70",
+        "published": "2026-04-07T21:04:09+00:00"
+    },
+    {
         "title": "it's happening, recursive self improvement: AI improves AI",
         "link": "https://www.reddit.com/r/singularity/comments/1seqm3k/its_happening_recursive_self_improvement_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T09:00:28+00:00"
     },
     {
-        "title": "Insane graph from Anthropic's article on Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf8o3q/insane_graph_from_anthropics_article_on_mythos/",
-        "image": "https://preview.redd.it/5iuovcvz1utg1.png?width=640&crop=smart&auto=webp&s=32bddee55a3f59a98227bd9bfb0cea0562d17e70",
-        "published": "2026-04-07T21:04:09+00:00"
+        "title": "Antrophic's Mythos Preview is capable of finding and exploiting zero-day vulnerabilities in every major operating system and every major web browser",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf5mtk/antrophics_mythos_preview_is_capable_of_finding/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T19:11:54+00:00"
     },
     {
         "title": "Anthropic just dropped Claude Mythos & kind of quietly showed what cybersecurity AGI could actually look like",
@@ -84,9 +72,21 @@
         "published": "2026-04-07T19:31:07+00:00"
     },
     {
-        "title": "Antrophic's Mythos Preview is capable of finding and exploiting zero-day vulnerabilities in every major operating system and every major web browser",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf5mtk/antrophics_mythos_preview_is_capable_of_finding/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T19:11:54+00:00"
+        "title": "Anthropic's yet to be released Claude Mythos identified a 16-year-old FFmpeg security flaw. Patches were then submitted to the FFmpeg open source project.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf82pf/anthropics_yet_to_be_released_claude_mythos/",
+        "image": "https://preview.redd.it/0z5b40hsxttg1.png?width=640&crop=smart&auto=webp&s=a2ea2591bc1f97c8bd3f23e4552f3a2221612f6a",
+        "published": "2026-04-07T20:41:49+00:00"
+    },
+    {
+        "title": "OpenAI says its new model GPT-2 is too dangerous to release.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfcv1u/openai_says_its_new_model_gpt2_is_too_dangerous/",
+        "image": "https://external-preview.redd.it/fJE5GaLeeYdErvjbn9040fSmm7oM8S-8cCQQwnR1xnc.jpeg?width=640&crop=smart&auto=webp&s=20ed71374d79ca0060fc68c93bfdd869e1b78b37",
+        "published": "2026-04-07T23:51:44+00:00"
+    },
+    {
+        "title": "Seeing the Emotion Vectors Visualized in Gemma 2 2B",
+        "link": "https://www.reddit.com/r/singularity/comments/1seytyv/seeing_the_emotion_vectors_visualized_in_gemma_2/",
+        "image": "https://preview.redd.it/5sbzl3yibstg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a0f346da6f25bb9b52e2bef5618763b446c8cf67",
+        "published": "2026-04-07T15:13:33+00:00"
     }
 ]
