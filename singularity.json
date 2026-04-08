@@ -18,16 +18,16 @@
         "published": "2026-04-07T19:09:21+00:00"
     },
     {
-        "title": "Claude Mythos Preview Benchmarks",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf3zme/claude_mythos_preview_benchmarks/",
-        "image": "https://preview.redd.it/88f9g6za7ttg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1edc9ae4e1bb5a2dc48f3847afdec804a059ad83",
-        "published": "2026-04-07T18:13:14+00:00"
-    },
-    {
         "title": "Putting into perspective what Claude Mythos means, just how much power Anthropic theoretically has",
         "link": "https://www.reddit.com/r/singularity/comments/1sf86jq/putting_into_perspective_what_claude_mythos_means/",
         "image": "https://preview.redd.it/ae5yboeuyttg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0469d7a264113367a5110b4ed126901170e63830",
         "published": "2026-04-07T20:46:02+00:00"
+    },
+    {
+        "title": "Claude Mythos Preview Benchmarks",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf3zme/claude_mythos_preview_benchmarks/",
+        "image": "https://preview.redd.it/88f9g6za7ttg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1edc9ae4e1bb5a2dc48f3847afdec804a059ad83",
+        "published": "2026-04-07T18:13:14+00:00"
     },
     {
         "title": "Opus 5 is Coming",
@@ -42,16 +42,16 @@
         "published": "2026-04-07T18:29:14+00:00"
     },
     {
-        "title": "Robo security dog doing his rounds in Atlanta",
-        "link": "https://www.reddit.com/r/singularity/comments/1semz16/robo_security_dog_doing_his_rounds_in_atlanta/",
-        "image": "https://external-preview.redd.it/aDFlMjRtc2FlcHRnMW9b6TZ26Y4H1N6OvjhBkw_92vd6RjbJSVOYj9ggGTcV.png?width=320&crop=smart&auto=webp&s=7a1bd421316b752990829e0b6db0f6225710bd51",
-        "published": "2026-04-07T05:23:45+00:00"
-    },
-    {
         "title": "Insane graph from Anthropic's article on Mythos",
         "link": "https://www.reddit.com/r/singularity/comments/1sf8o3q/insane_graph_from_anthropics_article_on_mythos/",
         "image": "https://preview.redd.it/5iuovcvz1utg1.png?width=640&crop=smart&auto=webp&s=32bddee55a3f59a98227bd9bfb0cea0562d17e70",
         "published": "2026-04-07T21:04:09+00:00"
+    },
+    {
+        "title": "Robo security dog doing his rounds in Atlanta",
+        "link": "https://www.reddit.com/r/singularity/comments/1semz16/robo_security_dog_doing_his_rounds_in_atlanta/",
+        "image": "https://external-preview.redd.it/aDFlMjRtc2FlcHRnMW9b6TZ26Y4H1N6OvjhBkw_92vd6RjbJSVOYj9ggGTcV.png?width=320&crop=smart&auto=webp&s=7a1bd421316b752990829e0b6db0f6225710bd51",
+        "published": "2026-04-07T05:23:45+00:00"
     },
     {
         "title": "it's happening, recursive self improvement: AI improves AI",
@@ -72,10 +72,10 @@
         "published": "2026-04-07T19:31:07+00:00"
     },
     {
-        "title": "Anthropic's yet to be released Claude Mythos identified a 16-year-old FFmpeg security flaw. Patches were then submitted to the FFmpeg open source project.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf82pf/anthropics_yet_to_be_released_claude_mythos/",
-        "image": "https://preview.redd.it/0z5b40hsxttg1.png?width=640&crop=smart&auto=webp&s=a2ea2591bc1f97c8bd3f23e4552f3a2221612f6a",
-        "published": "2026-04-07T20:41:49+00:00"
+        "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfhvpa/carlini_one_of_the_world_best_ai_security/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T03:39:21+00:00"
     },
     {
         "title": "OpenAI says its new model GPT-2 is too dangerous to release.",
@@ -84,9 +84,9 @@
         "published": "2026-04-07T23:51:44+00:00"
     },
     {
-        "title": "Seeing the Emotion Vectors Visualized in Gemma 2 2B",
-        "link": "https://www.reddit.com/r/singularity/comments/1seytyv/seeing_the_emotion_vectors_visualized_in_gemma_2/",
-        "image": "https://preview.redd.it/5sbzl3yibstg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a0f346da6f25bb9b52e2bef5618763b446c8cf67",
-        "published": "2026-04-07T15:13:33+00:00"
+        "title": "Anthropic's yet to be released Claude Mythos identified a 16-year-old FFmpeg security flaw. Patches were then submitted to the FFmpeg open source project.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf82pf/anthropics_yet_to_be_released_claude_mythos/",
+        "image": "https://preview.redd.it/0z5b40hsxttg1.png?width=640&crop=smart&auto=webp&s=a2ea2591bc1f97c8bd3f23e4552f3a2221612f6a",
+        "published": "2026-04-07T20:41:49+00:00"
     }
 ]
