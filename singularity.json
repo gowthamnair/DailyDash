@@ -66,12 +66,6 @@
         "published": "2026-04-07T20:41:49+00:00"
     },
     {
-        "title": "it's happening, recursive self improvement: AI improves AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1seqm3k/its_happening_recursive_self_improvement_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T09:00:28+00:00"
-    },
-    {
         "title": "7 models in training on Colossus 2",
         "link": "https://www.reddit.com/r/singularity/comments/1sfkn26/7_models_in_training_on_colossus_2/",
         "image": "https://preview.redd.it/4pn15nkuqwtg1.png?width=640&crop=smart&auto=webp&s=719d8d65bb33b50235e64e2e8ad320a56a29c4ef",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sf8q7v/is_mythos_above_or_beyond_agent1/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T21:06:17+00:00"
+    },
+    {
+        "title": "Anthropic Mythos identifies long-overlooked 27-Year critical bug in OpenBSD\u2019s TCP selective acknowledgement (SACK) implementation",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf6lmu/anthropic_mythos_identifies_longoverlooked_27year/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T19:46:50+00:00"
     }
 ]
