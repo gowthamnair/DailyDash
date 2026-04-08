@@ -18,6 +18,12 @@
         "published": "2026-04-07T19:09:21+00:00"
     },
     {
+        "title": "The permanent underclass began today: Claude Mythos won't be available to the public, but only billion dollar companies, governments, researchers",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfoo5r/the_permanent_underclass_began_today_claude/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T10:11:32+00:00"
+    },
+    {
         "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
         "link": "https://www.reddit.com/r/singularity/comments/1sfhvpa/carlini_one_of_the_world_best_ai_security/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -28,12 +34,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sf3zme/claude_mythos_preview_benchmarks/",
         "image": "https://preview.redd.it/88f9g6za7ttg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1edc9ae4e1bb5a2dc48f3847afdec804a059ad83",
         "published": "2026-04-07T18:13:14+00:00"
-    },
-    {
-        "title": "The permanent underclass began today: Claude Mythos won't be available to the public, but only billion dollar companies, governments, researchers",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfoo5r/the_permanent_underclass_began_today_claude/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-08T10:11:32+00:00"
     },
     {
         "title": "Insane graph from Anthropic's article on Mythos",
@@ -66,27 +66,27 @@
         "published": "2026-04-07T20:41:49+00:00"
     },
     {
-        "title": "Antrophic's Mythos Preview is capable of finding and exploiting zero-day vulnerabilities in every major operating system and every major web browser",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf5mtk/antrophics_mythos_preview_is_capable_of_finding/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T19:11:54+00:00"
-    },
-    {
         "title": "Anthropic just dropped Claude Mythos & kind of quietly showed what cybersecurity AGI could actually look like",
         "link": "https://www.reddit.com/r/singularity/comments/1sf65s1/anthropic_just_dropped_claude_mythos_kind_of/",
         "image": "https://preview.redd.it/aew5cu4hlttg1.jpeg?width=640&crop=smart&auto=webp&s=c3d7e1b491d0ca7388c8afb7702ab0c9df655409",
         "published": "2026-04-07T19:31:07+00:00"
     },
     {
-        "title": "What do figures like these tell you about Mythos? Better pretraining?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf6hpl/what_do_figures_like_these_tell_you_about_mythos/",
-        "image": "https://preview.redd.it/e3ppjxflnttg1.jpeg?width=640&crop=smart&auto=webp&s=1d8d422838b34a9c7e3c5ef7fe24d1be753801d2",
-        "published": "2026-04-07T19:42:58+00:00"
+        "title": "Antrophic's Mythos Preview is capable of finding and exploiting zero-day vulnerabilities in every major operating system and every major web browser",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf5mtk/antrophics_mythos_preview_is_capable_of_finding/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T19:11:54+00:00"
     },
     {
         "title": "Is OpenAI about to release a Mythos level AI to the public?",
         "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
         "image": "https://preview.redd.it/2bvgpx9cvwtg1.png?width=320&crop=smart&auto=webp&s=e1ea2ea8a1ea7023d802052ab92588ab76f6433b",
         "published": "2026-04-08T06:36:15+00:00"
+    },
+    {
+        "title": "Reset",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfnpvk/reset/",
+        "image": "https://preview.redd.it/47a15iigoxtg1.jpeg?width=640&crop=smart&auto=webp&s=8504812fe250b02515cc5ad8a92a6749a0e4d826",
+        "published": "2026-04-08T09:14:57+00:00"
     }
 ]
