@@ -18,22 +18,10 @@
         "published": "2026-04-07T19:09:21+00:00"
     },
     {
-        "title": "Putting into perspective what Claude Mythos means, just how much power Anthropic theoretically has",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf86jq/putting_into_perspective_what_claude_mythos_means/",
-        "image": "https://preview.redd.it/ae5yboeuyttg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0469d7a264113367a5110b4ed126901170e63830",
-        "published": "2026-04-07T20:46:02+00:00"
-    },
-    {
         "title": "Claude Mythos Preview Benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1sf3zme/claude_mythos_preview_benchmarks/",
         "image": "https://preview.redd.it/88f9g6za7ttg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1edc9ae4e1bb5a2dc48f3847afdec804a059ad83",
         "published": "2026-04-07T18:13:14+00:00"
-    },
-    {
-        "title": "Opus 5 is Coming",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf4jny/opus_5_is_coming/",
-        "image": "https://preview.redd.it/i52pbmo3bttg1.png?width=640&crop=smart&auto=webp&s=b1fbf4b8db40fa2134b45912e64ad87d081f892d",
-        "published": "2026-04-07T18:32:57+00:00"
     },
     {
         "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
@@ -42,10 +30,10 @@
         "published": "2026-04-08T03:39:21+00:00"
     },
     {
-        "title": "All Claude Mythos Benchmarks",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf4fww/all_claude_mythos_benchmarks/",
-        "image": "https://preview.redd.it/60ufvxsfattg1.png?width=640&crop=smart&auto=webp&s=fc4f94540c01cac05d1fdb3b28c9c0dc696e8933",
-        "published": "2026-04-07T18:29:14+00:00"
+        "title": "Opus 5 is Coming",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf4jny/opus_5_is_coming/",
+        "image": "https://preview.redd.it/i52pbmo3bttg1.png?width=640&crop=smart&auto=webp&s=b1fbf4b8db40fa2134b45912e64ad87d081f892d",
+        "published": "2026-04-07T18:32:57+00:00"
     },
     {
         "title": "Insane graph from Anthropic's article on Mythos",
@@ -54,28 +42,16 @@
         "published": "2026-04-07T21:04:09+00:00"
     },
     {
-        "title": "Ohhhh, I'm sorrrry, AI safety means megacorps only.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfj1e9/ohhhh_im_sorrrry_ai_safety_means_megacorps_only/",
-        "image": "https://preview.redd.it/uynp9dkgawtg1.png?width=640&crop=smart&auto=webp&s=26bd361bcb0ddae87e255252d7aadde0a62103a2",
-        "published": "2026-04-08T04:37:46+00:00"
-    },
-    {
-        "title": "OpenAI says its new model GPT-2 is too dangerous to release.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfcv1u/openai_says_its_new_model_gpt2_is_too_dangerous/",
-        "image": "https://external-preview.redd.it/fJE5GaLeeYdErvjbn9040fSmm7oM8S-8cCQQwnR1xnc.jpeg?width=640&crop=smart&auto=webp&s=20ed71374d79ca0060fc68c93bfdd869e1b78b37",
-        "published": "2026-04-07T23:51:44+00:00"
+        "title": "All Claude Mythos Benchmarks",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf4fww/all_claude_mythos_benchmarks/",
+        "image": "https://preview.redd.it/60ufvxsfattg1.png?width=640&crop=smart&auto=webp&s=fc4f94540c01cac05d1fdb3b28c9c0dc696e8933",
+        "published": "2026-04-07T18:29:14+00:00"
     },
     {
         "title": "Antrophic's Mythos Preview is capable of finding and exploiting zero-day vulnerabilities in every major operating system and every major web browser",
         "link": "https://www.reddit.com/r/singularity/comments/1sf5mtk/antrophics_mythos_preview_is_capable_of_finding/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-07T19:11:54+00:00"
-    },
-    {
-        "title": "it's happening, recursive self improvement: AI improves AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1seqm3k/its_happening_recursive_self_improvement_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T09:00:28+00:00"
     },
     {
         "title": "Anthropic just dropped Claude Mythos & kind of quietly showed what cybersecurity AGI could actually look like",
@@ -88,5 +64,29 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sf82pf/anthropics_yet_to_be_released_claude_mythos/",
         "image": "https://preview.redd.it/0z5b40hsxttg1.png?width=640&crop=smart&auto=webp&s=a2ea2591bc1f97c8bd3f23e4552f3a2221612f6a",
         "published": "2026-04-07T20:41:49+00:00"
+    },
+    {
+        "title": "it's happening, recursive self improvement: AI improves AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1seqm3k/its_happening_recursive_self_improvement_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T09:00:28+00:00"
+    },
+    {
+        "title": "7 models in training on Colossus 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfkn26/7_models_in_training_on_colossus_2/",
+        "image": "https://preview.redd.it/4pn15nkuqwtg1.png?width=640&crop=smart&auto=webp&s=719d8d65bb33b50235e64e2e8ad320a56a29c4ef",
+        "published": "2026-04-08T06:07:09+00:00"
+    },
+    {
+        "title": "What do figures like these tell you about Mythos? Better pretraining?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf6hpl/what_do_figures_like_these_tell_you_about_mythos/",
+        "image": "https://preview.redd.it/e3ppjxflnttg1.jpeg?width=640&crop=smart&auto=webp&s=1d8d422838b34a9c7e3c5ef7fe24d1be753801d2",
+        "published": "2026-04-07T19:42:58+00:00"
+    },
+    {
+        "title": "Is mythos above or beyond agent-1",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf8q7v/is_mythos_above_or_beyond_agent1/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T21:06:17+00:00"
     }
 ]
