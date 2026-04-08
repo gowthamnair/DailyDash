@@ -36,6 +36,12 @@
         "published": "2026-04-07T18:32:57+00:00"
     },
     {
+        "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfhvpa/carlini_one_of_the_world_best_ai_security/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T03:39:21+00:00"
+    },
+    {
         "title": "All Claude Mythos Benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1sf4fww/all_claude_mythos_benchmarks/",
         "image": "https://preview.redd.it/60ufvxsfattg1.png?width=640&crop=smart&auto=webp&s=fc4f94540c01cac05d1fdb3b28c9c0dc696e8933",
@@ -48,16 +54,16 @@
         "published": "2026-04-07T21:04:09+00:00"
     },
     {
-        "title": "Robo security dog doing his rounds in Atlanta",
-        "link": "https://www.reddit.com/r/singularity/comments/1semz16/robo_security_dog_doing_his_rounds_in_atlanta/",
-        "image": "https://external-preview.redd.it/aDFlMjRtc2FlcHRnMW9b6TZ26Y4H1N6OvjhBkw_92vd6RjbJSVOYj9ggGTcV.png?width=320&crop=smart&auto=webp&s=7a1bd421316b752990829e0b6db0f6225710bd51",
-        "published": "2026-04-07T05:23:45+00:00"
+        "title": "Ohhhh, I'm sorrrry, AI safety means megacorps only.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfj1e9/ohhhh_im_sorrrry_ai_safety_means_megacorps_only/",
+        "image": "https://preview.redd.it/uynp9dkgawtg1.png?width=640&crop=smart&auto=webp&s=26bd361bcb0ddae87e255252d7aadde0a62103a2",
+        "published": "2026-04-08T04:37:46+00:00"
     },
     {
-        "title": "it's happening, recursive self improvement: AI improves AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1seqm3k/its_happening_recursive_self_improvement_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T09:00:28+00:00"
+        "title": "OpenAI says its new model GPT-2 is too dangerous to release.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfcv1u/openai_says_its_new_model_gpt2_is_too_dangerous/",
+        "image": "https://external-preview.redd.it/fJE5GaLeeYdErvjbn9040fSmm7oM8S-8cCQQwnR1xnc.jpeg?width=640&crop=smart&auto=webp&s=20ed71374d79ca0060fc68c93bfdd869e1b78b37",
+        "published": "2026-04-07T23:51:44+00:00"
     },
     {
         "title": "Antrophic's Mythos Preview is capable of finding and exploiting zero-day vulnerabilities in every major operating system and every major web browser",
@@ -66,22 +72,16 @@
         "published": "2026-04-07T19:11:54+00:00"
     },
     {
+        "title": "it's happening, recursive self improvement: AI improves AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1seqm3k/its_happening_recursive_self_improvement_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T09:00:28+00:00"
+    },
+    {
         "title": "Anthropic just dropped Claude Mythos & kind of quietly showed what cybersecurity AGI could actually look like",
         "link": "https://www.reddit.com/r/singularity/comments/1sf65s1/anthropic_just_dropped_claude_mythos_kind_of/",
         "image": "https://preview.redd.it/aew5cu4hlttg1.jpeg?width=640&crop=smart&auto=webp&s=c3d7e1b491d0ca7388c8afb7702ab0c9df655409",
         "published": "2026-04-07T19:31:07+00:00"
-    },
-    {
-        "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfhvpa/carlini_one_of_the_world_best_ai_security/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-08T03:39:21+00:00"
-    },
-    {
-        "title": "OpenAI says its new model GPT-2 is too dangerous to release.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfcv1u/openai_says_its_new_model_gpt2_is_too_dangerous/",
-        "image": "https://external-preview.redd.it/fJE5GaLeeYdErvjbn9040fSmm7oM8S-8cCQQwnR1xnc.jpeg?width=640&crop=smart&auto=webp&s=20ed71374d79ca0060fc68c93bfdd869e1b78b37",
-        "published": "2026-04-07T23:51:44+00:00"
     },
     {
         "title": "Anthropic's yet to be released Claude Mythos identified a 16-year-old FFmpeg security flaw. Patches were then submitted to the FFmpeg open source project.",
