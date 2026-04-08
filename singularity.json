@@ -1,33 +1,15 @@
 [
     {
-        "title": "Anthropic's new model, Claude Mythos, is so powerful that it is not releasing it to the public.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf3uhp/anthropics_new_model_claude_mythos_is_so_powerful/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-07T18:08:30+00:00"
-    },
-    {
-        "title": "Claude Mythos Was Told to Escape Sandbox in Testing \u2014 Succeeded, Then Unprompted Posted Exploit Details Online + Emailed Researcher While He Was Eating a Sandwich in the Park",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf5k92/claude_mythos_was_told_to_escape_sandbox_in/",
-        "image": "https://preview.redd.it/au6agzalhttg1.jpg?width=140&height=83&auto=webp&s=20af56e6d8936bc4d3b05475a1c817a2708f2776",
-        "published": "2026-04-07T19:09:21+00:00"
-    },
-    {
         "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
         "link": "https://www.reddit.com/r/singularity/comments/1sfhvpa/carlini_one_of_the_world_best_ai_security/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-08T03:39:21+00:00"
     },
     {
-        "title": "Claude Mythos Preview Benchmarks",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf3zme/claude_mythos_preview_benchmarks/",
-        "image": "https://preview.redd.it/88f9g6za7ttg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1edc9ae4e1bb5a2dc48f3847afdec804a059ad83",
-        "published": "2026-04-07T18:13:14+00:00"
-    },
-    {
-        "title": "Insane graph from Anthropic's article on Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf8o3q/insane_graph_from_anthropics_article_on_mythos/",
-        "image": "https://preview.redd.it/5iuovcvz1utg1.png?width=640&crop=smart&auto=webp&s=32bddee55a3f59a98227bd9bfb0cea0562d17e70",
-        "published": "2026-04-07T21:04:09+00:00"
+        "title": "From Inside the Meat - short film",
+        "link": "https://www.reddit.com/r/singularity/comments/1sg07os/from_inside_the_meat_short_film/",
+        "image": "https://external-preview.redd.it/ZmU2c3YzeHA4MHVnMaVDtYZx4ebp-PE0cNC3pPPYN8semFGiawFkaUdhXvy5.png?width=320&crop=smart&auto=webp&s=ceba998f5b3aa491722882ca3a735840450a10e7",
+        "published": "2026-04-08T17:52:25+00:00"
     },
     {
         "title": "Muse Spark, first model from Meta Superintelligence Labs",
@@ -36,16 +18,10 @@
         "published": "2026-04-08T16:15:04+00:00"
     },
     {
-        "title": "Opus 5 is Coming",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf4jny/opus_5_is_coming/",
-        "image": "https://preview.redd.it/i52pbmo3bttg1.png?width=640&crop=smart&auto=webp&s=b1fbf4b8db40fa2134b45912e64ad87d081f892d",
-        "published": "2026-04-07T18:32:57+00:00"
-    },
-    {
-        "title": "All Claude Mythos Benchmarks",
-        "link": "https://www.reddit.com/r/singularity/comments/1sf4fww/all_claude_mythos_benchmarks/",
-        "image": "https://preview.redd.it/60ufvxsfattg1.png?width=640&crop=smart&auto=webp&s=fc4f94540c01cac05d1fdb3b28c9c0dc696e8933",
-        "published": "2026-04-07T18:29:14+00:00"
+        "title": "Insane graph from Anthropic's article on Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf8o3q/insane_graph_from_anthropics_article_on_mythos/",
+        "image": "https://preview.redd.it/5iuovcvz1utg1.png?width=640&crop=smart&auto=webp&s=32bddee55a3f59a98227bd9bfb0cea0562d17e70",
+        "published": "2026-04-07T21:04:09+00:00"
     },
     {
         "title": "7 models in training on Colossus 2",
@@ -88,5 +64,29 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sf65s1/anthropic_just_dropped_claude_mythos_kind_of/",
         "image": "https://preview.redd.it/aew5cu4hlttg1.jpeg?width=640&crop=smart&auto=webp&s=c3d7e1b491d0ca7388c8afb7702ab0c9df655409",
         "published": "2026-04-07T19:31:07+00:00"
+    },
+    {
+        "title": "What do figures like these tell you about Mythos? Better pretraining?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf6hpl/what_do_figures_like_these_tell_you_about_mythos/",
+        "image": "https://preview.redd.it/e3ppjxflnttg1.jpeg?width=640&crop=smart&auto=webp&s=1d8d422838b34a9c7e3c5ef7fe24d1be753801d2",
+        "published": "2026-04-07T19:42:58+00:00"
+    },
+    {
+        "title": "Is mythos above or beyond agent-1",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf8q7v/is_mythos_above_or_beyond_agent1/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T21:06:17+00:00"
+    },
+    {
+        "title": "Anthropic Mythos identifies long-overlooked 27-Year critical bug in OpenBSD\u2019s TCP selective acknowledgement (SACK) implementation",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf6lmu/anthropic_mythos_identifies_longoverlooked_27year/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-07T19:46:50+00:00"
+    },
+    {
+        "title": "Claude Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1sf6v3e/claude_mythos/",
+        "image": "https://preview.redd.it/d7p9zmt0qttg1.jpeg?width=640&crop=smart&auto=webp&s=b7f9231bf8c003869cc49b8432d0de5377d4c7d4",
+        "published": "2026-04-07T19:56:35+00:00"
     }
 ]
