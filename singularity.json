@@ -12,16 +12,16 @@
         "published": "2026-04-08T19:29:10+00:00"
     },
     {
-        "title": "Carlini, one of the world best AI security researchers: \"I've found more bugs in the last few weeks with Mythos than in the rest of my entire life combined\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfhvpa/carlini_one_of_the_world_best_ai_security/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-08T03:39:21+00:00"
-    },
-    {
         "title": "Muse Spark, first model from Meta Superintelligence Labs",
         "link": "https://www.reddit.com/r/singularity/comments/1sfxfv3/muse_spark_first_model_from_meta/",
         "image": "https://preview.redd.it/f8trceabrztg1.png?width=640&crop=smart&auto=webp&s=42f6b4f83f18861694ca2f414826a28e457642a1",
         "published": "2026-04-08T16:15:04+00:00"
+    },
+    {
+        "title": "Ronan Farrow on Sam Altman: \"We interviewed more than 100 people... a majority did say some variation on the theme of: he's a pathological liar\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgaijv/ronan_farrow_on_sam_altman_we_interviewed_more/",
+        "image": "https://external-preview.redd.it/ODNmM3V3Y3I3MnVnMYWampriKOOSkJNskF4qQCU_Q1JSR4p_PZ924NThE81b.png?width=640&crop=smart&auto=webp&s=d1179b254867508d3f8e3b88d0b24a2164c30555",
+        "published": "2026-04-09T00:31:35+00:00"
     },
     {
         "title": "Reset",
@@ -48,16 +48,16 @@
         "published": "2026-04-08T13:40:48+00:00"
     },
     {
-        "title": "Is OpenAI about to release a Mythos level AI to the public?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
-        "image": "https://preview.redd.it/2bvgpx9cvwtg1.png?width=320&crop=smart&auto=webp&s=e1ea2ea8a1ea7023d802052ab92588ab76f6433b",
-        "published": "2026-04-08T06:36:15+00:00"
-    },
-    {
         "title": "So, this week claude wiped agentic AI startups with a new update. Also, as they have mythos now, they will ship things very fast without any trouble",
         "link": "https://www.reddit.com/r/singularity/comments/1sg0y6h/so_this_week_claude_wiped_agentic_ai_startups/",
         "image": "https://preview.redd.it/xtb1xz8hd0ug1.jpeg?width=640&crop=smart&auto=webp&s=c12c1d22156466d093934408a909001bc862d24b",
         "published": "2026-04-08T18:18:46+00:00"
+    },
+    {
+        "title": "Is OpenAI about to release a Mythos level AI to the public?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
+        "image": "https://preview.redd.it/2bvgpx9cvwtg1.png?width=320&crop=smart&auto=webp&s=e1ea2ea8a1ea7023d802052ab92588ab76f6433b",
+        "published": "2026-04-08T06:36:15+00:00"
     },
     {
         "title": "Openai directing over $100M to scientists for Alzheimer\u2019s",
@@ -66,10 +66,10 @@
         "published": "2026-04-08T16:46:47+00:00"
     },
     {
-        "title": "Ronan Farrow on Sam Altman: \"We interviewed more than 100 people... a majority did say some variation on the theme of: he's a pathological liar\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgaijv/ronan_farrow_on_sam_altman_we_interviewed_more/",
-        "image": "https://external-preview.redd.it/ODNmM3V3Y3I3MnVnMYWampriKOOSkJNskF4qQCU_Q1JSR4p_PZ924NThE81b.png?width=640&crop=smart&auto=webp&s=d1179b254867508d3f8e3b88d0b24a2164c30555",
-        "published": "2026-04-09T00:31:35+00:00"
+        "title": "A hacker has allegedly breached one of China\u2019s supercomputers and is attempting to sell a trove of stolen data",
+        "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
+        "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
+        "published": "2026-04-08T23:26:28+00:00"
     },
     {
         "title": "A recent study has found that LLMs are worse at giving accurate, truthful answers to people who have lower English proficiency and less formal education, rendering them more unreliable towards the most vulnerable users.",
@@ -84,9 +84,9 @@
         "published": "2026-04-08T12:43:01+00:00"
     },
     {
-        "title": "A hacker has allegedly breached one of China\u2019s supercomputers and is attempting to sell a trove of stolen data",
-        "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
-        "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
-        "published": "2026-04-08T23:26:28+00:00"
+        "title": "Meta Muse Spark Artificial Analysis",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfyfvv/meta_muse_spark_artificial_analysis/",
+        "image": "https://preview.redd.it/0cj3gproxztg1.jpg?width=140&height=38&auto=webp&s=7a8a9a7fc3c870dffde6cf068d38b8acc7b995bf",
+        "published": "2026-04-08T16:50:16+00:00"
     }
 ]
