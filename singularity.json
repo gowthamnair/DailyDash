@@ -30,12 +30,6 @@
         "published": "2026-04-09T03:49:44+00:00"
     },
     {
-        "title": "A hacker has allegedly breached one of China\u2019s supercomputers and is attempting to sell a trove of stolen data",
-        "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
-        "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
-        "published": "2026-04-08T23:26:28+00:00"
-    },
-    {
         "title": "What my job feels like now",
         "link": "https://www.reddit.com/r/singularity/comments/1sgu7s6/what_my_job_feels_like_now/",
         "image": "https://preview.redd.it/uvymldlgw6ug1.jpeg?width=640&crop=smart&auto=webp&s=3e1a61fc46622e860132d2e0701d8e7de7ef4185",
@@ -48,16 +42,16 @@
         "published": "2026-04-09T18:33:26+00:00"
     },
     {
-        "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
-        "link": "https://www.reddit.com/r/singularity/comments/1sg7v3l/anthropic_loses_appeals_court_bid_to_temporarily/",
-        "image": "https://external-preview.redd.it/OHUelvdardPaNp4zKfXeXq92i1LztSapr1AUIqnclA8.jpeg?width=640&crop=smart&auto=webp&s=7450e4df5d3e6acd0bedc2e46f4a36119fcfe6cf",
-        "published": "2026-04-08T22:37:43+00:00"
-    },
-    {
         "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
         "link": "https://www.reddit.com/r/singularity/comments/1sgky1r/openai_plans_staggered_rollout_of_new_model_over/",
         "image": "https://external-preview.redd.it/rUd6PdZVA_FDu23l8BgLyM_6qPbkMy0e5w3xez-AVVs.jpeg?width=640&crop=smart&auto=webp&s=ffb52571c759ff2645ecbe909ffac31cdf882c27",
         "published": "2026-04-09T09:39:29+00:00"
+    },
+    {
+        "title": "Cheap Open Models Reportedly Reproduced Much Of Mythos's Showcased Findings",
+        "link": "https://www.reddit.com/r/singularity/comments/1sh2p1r/cheap_open_models_reportedly_reproduced_much_of/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-09T21:19:40+00:00"
     },
     {
         "title": "The New Yorker: We\u2019re Building Portals From Which We\u2019re Genuinely Summoning Aliens,\u201d A Former OpenAI Executive Said",
@@ -72,12 +66,6 @@
         "published": "2026-04-09T14:39:04+00:00"
     },
     {
-        "title": "Cheap Open Models Reportedly Reproduced Much Of Mythos's Showcased Findings",
-        "link": "https://www.reddit.com/r/singularity/comments/1sh2p1r/cheap_open_models_reportedly_reproduced_much_of/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-09T21:19:40+00:00"
-    },
-    {
         "title": "'Ground Robots' Replace Ukrainian Troops in 21,500 Missions in Q1",
         "link": "https://www.reddit.com/r/singularity/comments/1sgoa5a/ground_robots_replace_ukrainian_troops_in_21500/",
         "image": "https://external-preview.redd.it/lNQpPmUZeOr4WnoToIuc7i8cf93UV1sSgNKjToLl9SA.jpeg?width=640&crop=smart&auto=webp&s=e105ca7a99753524b57e9aef2c928c234f084aa3",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sgwm04/maine_set_to_become_first_state_with_data_center/",
         "image": "https://external-preview.redd.it/fjL7RNnDAp8cqRFRdLGESB8qTMF9WWWITRAuFFaNOyE.jpeg?width=640&crop=smart&auto=webp&s=ee77f6f2c1a82ef05c548baf0e62412a5addb5f2",
         "published": "2026-04-09T17:40:49+00:00"
+    },
+    {
+        "title": "I've barely seen anyone talk about the generalist GEN-1 and their demos they've been posting which look incredible",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgul7y/ive_barely_seen_anyone_talk_about_the_generalist/",
+        "image": "https://external-preview.redd.it/K5yCjdHdErw2SKPUHuNrHxFXvgsyAGOP56ZNBGyh9ig.jpeg?width=320&crop=smart&auto=webp&s=e93d27b5e87ca4a67bdedd28afee1f5a49971410",
+        "published": "2026-04-09T16:30:07+00:00"
+    },
+    {
+        "title": "Claude Mythos Preview Is Everyone\u2019s Problem",
+        "link": "https://www.reddit.com/r/singularity/comments/1sh3c7g/claude_mythos_preview_is_everyones_problem/",
+        "image": "https://external-preview.redd.it/rw2BqSGpWQVNtDGPTNp1kH79aSDrV46NjMPjshfr1O8.jpeg?width=640&crop=smart&auto=webp&s=5ce7a15c964fd101fbc3bb6b73134a29646db82a",
+        "published": "2026-04-09T21:44:31+00:00"
     }
 ]
