@@ -24,12 +24,6 @@
         "published": "2026-04-08T16:15:04+00:00"
     },
     {
-        "title": "Reset",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfnpvk/reset/",
-        "image": "https://preview.redd.it/47a15iigoxtg1.jpeg?width=640&crop=smart&auto=webp&s=8504812fe250b02515cc5ad8a92a6749a0e4d826",
-        "published": "2026-04-08T09:14:57+00:00"
-    },
-    {
         "title": "If you ever feel useless, remember this rule exists.",
         "link": "https://www.reddit.com/r/singularity/comments/1sfr02u/if_you_ever_feel_useless_remember_this_rule_exists/",
         "image": "https://preview.redd.it/rsjrapodjytg1.png?width=320&crop=smart&auto=webp&s=1d9e392b7c06a18a6bde7adcb70dc08a0adca1f8",
@@ -54,6 +48,12 @@
         "published": "2026-04-08T16:46:47+00:00"
     },
     {
+        "title": "New York Times: Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
+        "link": "https://www.reddit.com/r/singularity/comments/1sggktf/new_york_times_anthropics_restraint_is_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-09T05:20:55+00:00"
+    },
+    {
         "title": "Internal model at OpenAI solves 5 more Erd\u0151s problems",
         "link": "https://www.reddit.com/r/singularity/comments/1sget0s/internal_model_at_openai_solves_5_more_erd\u0151s/",
         "image": "https://preview.redd.it/htmo2pjc73ug1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=72cd21dd8a7ce9af6c9512202c9dfcb7d2408aeb",
@@ -64,12 +64,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
         "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
         "published": "2026-04-08T23:26:28+00:00"
-    },
-    {
-        "title": "New York Times: Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
-        "link": "https://www.reddit.com/r/singularity/comments/1sggktf/new_york_times_anthropics_restraint_is_a/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-09T05:20:55+00:00"
     },
     {
         "title": "A recent study has found that LLMs are worse at giving accurate, truthful answers to people who have lower English proficiency and less formal education, rendering them more unreliable towards the most vulnerable users.",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sfrr05/gpt_54_gets_owned_by_opus_46_at_monopoly/",
         "image": "https://preview.redd.it/hx9k4ygpoytg1.png?width=640&crop=smart&auto=webp&s=ae0bd2e7c6db4758220d54787fd46cf5fe0487c2",
         "published": "2026-04-08T12:43:01+00:00"
+    },
+    {
+        "title": "We are already in the early stages of recursive self improvement, which will eventually result in superintelligent AI that humans can't control - Roman Yampolskiy",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfwspg/we_are_already_in_the_early_stages_of_recursive/",
+        "image": "https://external-preview.redd.it/GxNDRzNQXmrrhL4wr6X2SOmKeDS8bZPFbY5MJwEy9mw.png?width=640&crop=smart&auto=webp&s=0e52d683eab4e053cc4886e03a0e19a8e4f069d2",
+        "published": "2026-04-08T15:52:23+00:00"
     }
 ]
