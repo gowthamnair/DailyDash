@@ -48,28 +48,10 @@
         "published": "2026-04-08T18:18:46+00:00"
     },
     {
-        "title": "Is OpenAI about to release a Mythos level AI to the public?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfl50i/is_openai_about_to_release_a_mythos_level_ai_to/",
-        "image": "https://preview.redd.it/2bvgpx9cvwtg1.png?width=320&crop=smart&auto=webp&s=e1ea2ea8a1ea7023d802052ab92588ab76f6433b",
-        "published": "2026-04-08T06:36:15+00:00"
-    },
-    {
         "title": "Openai directing over $100M to scientists for Alzheimer\u2019s",
         "link": "https://www.reddit.com/r/singularity/comments/1sfycdx/openai_directing_over_100m_to_scientists_for/",
         "image": "https://external-preview.redd.it/OwETmOhVNcMxG_4P6ul-t0Y9D5uJRo_LfACpvEPKml4.png?width=640&crop=smart&auto=webp&s=de93002d9cc3ae5a63c197b9d4bc77b38619a48d",
         "published": "2026-04-08T16:46:47+00:00"
-    },
-    {
-        "title": "A hacker has allegedly breached one of China\u2019s supercomputers and is attempting to sell a trove of stolen data",
-        "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
-        "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
-        "published": "2026-04-08T23:26:28+00:00"
-    },
-    {
-        "title": "A recent study has found that LLMs are worse at giving accurate, truthful answers to people who have lower English proficiency and less formal education, rendering them more unreliable towards the most vulnerable users.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfykt2/a_recent_study_has_found_that_llms_are_worse_at/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-08T16:54:58+00:00"
     },
     {
         "title": "Internal model at OpenAI solves 5 more Erd\u0151s problems",
@@ -78,15 +60,33 @@
         "published": "2026-04-09T03:49:44+00:00"
     },
     {
-        "title": "GPT 5.4 gets OWNED by Opus 4.6 at Monopoly",
-        "link": "https://www.reddit.com/r/singularity/comments/1sfrr05/gpt_54_gets_owned_by_opus_46_at_monopoly/",
-        "image": "https://preview.redd.it/hx9k4ygpoytg1.png?width=640&crop=smart&auto=webp&s=ae0bd2e7c6db4758220d54787fd46cf5fe0487c2",
-        "published": "2026-04-08T12:43:01+00:00"
+        "title": "A hacker has allegedly breached one of China\u2019s supercomputers and is attempting to sell a trove of stolen data",
+        "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
+        "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
+        "published": "2026-04-08T23:26:28+00:00"
+    },
+    {
+        "title": "New York Times: Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
+        "link": "https://www.reddit.com/r/singularity/comments/1sggktf/new_york_times_anthropics_restraint_is_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-09T05:20:55+00:00"
+    },
+    {
+        "title": "A recent study has found that LLMs are worse at giving accurate, truthful answers to people who have lower English proficiency and less formal education, rendering them more unreliable towards the most vulnerable users.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfykt2/a_recent_study_has_found_that_llms_are_worse_at/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-08T16:54:58+00:00"
     },
     {
         "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
         "link": "https://www.reddit.com/r/singularity/comments/1sg7v3l/anthropic_loses_appeals_court_bid_to_temporarily/",
         "image": "https://external-preview.redd.it/OHUelvdardPaNp4zKfXeXq92i1LztSapr1AUIqnclA8.jpeg?width=640&crop=smart&auto=webp&s=7450e4df5d3e6acd0bedc2e46f4a36119fcfe6cf",
         "published": "2026-04-08T22:37:43+00:00"
+    },
+    {
+        "title": "GPT 5.4 gets OWNED by Opus 4.6 at Monopoly",
+        "link": "https://www.reddit.com/r/singularity/comments/1sfrr05/gpt_54_gets_owned_by_opus_46_at_monopoly/",
+        "image": "https://preview.redd.it/hx9k4ygpoytg1.png?width=640&crop=smart&auto=webp&s=ae0bd2e7c6db4758220d54787fd46cf5fe0487c2",
+        "published": "2026-04-08T12:43:01+00:00"
     }
 ]
