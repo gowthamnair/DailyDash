@@ -12,16 +12,16 @@
         "published": "2026-04-09T00:31:35+00:00"
     },
     {
+        "title": "AI generated cow, 2014",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgve5m/ai_generated_cow_2014/",
+        "image": "https://preview.redd.it/itvcmao147ug1.jpeg?width=320&crop=smart&auto=webp&s=21035cd20e8291ad233f12c4d7eeafe388216637",
+        "published": "2026-04-09T16:58:21+00:00"
+    },
+    {
         "title": "New York Times: Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
         "link": "https://www.reddit.com/r/singularity/comments/1sggktf/new_york_times_anthropics_restraint_is_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-09T05:20:55+00:00"
-    },
-    {
-        "title": "So, this week claude wiped agentic AI startups with a new update. Also, as they have mythos now, they will ship things very fast without any trouble",
-        "link": "https://www.reddit.com/r/singularity/comments/1sg0y6h/so_this_week_claude_wiped_agentic_ai_startups/",
-        "image": "https://preview.redd.it/xtb1xz8hd0ug1.jpeg?width=640&crop=smart&auto=webp&s=c12c1d22156466d093934408a909001bc862d24b",
-        "published": "2026-04-08T18:18:46+00:00"
     },
     {
         "title": "Internal model at OpenAI solves 5 more Erd\u0151s problems",
@@ -36,12 +36,6 @@
         "published": "2026-04-09T12:56:53+00:00"
     },
     {
-        "title": "AI generated cow, 2014",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgve5m/ai_generated_cow_2014/",
-        "image": "https://preview.redd.it/itvcmao147ug1.jpeg?width=320&crop=smart&auto=webp&s=21035cd20e8291ad233f12c4d7eeafe388216637",
-        "published": "2026-04-09T16:58:21+00:00"
-    },
-    {
         "title": "A hacker has allegedly breached one of China\u2019s supercomputers and is attempting to sell a trove of stolen data",
         "link": "https://www.reddit.com/r/singularity/comments/1sg90qc/a_hacker_has_allegedly_breached_one_of_chinas/",
         "image": "https://external-preview.redd.it/rTv6gNFpOt03-7zFL1aC-rrbZgkUcrIHiGt68TYPtL4.jpeg?width=640&crop=smart&auto=webp&s=1709078e3dcac2c75fcc7351fcf26eec17e3cbb5",
@@ -54,16 +48,16 @@
         "published": "2026-04-08T22:37:43+00:00"
     },
     {
-        "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgky1r/openai_plans_staggered_rollout_of_new_model_over/",
-        "image": "https://external-preview.redd.it/rUd6PdZVA_FDu23l8BgLyM_6qPbkMy0e5w3xez-AVVs.jpeg?width=640&crop=smart&auto=webp&s=ffb52571c759ff2645ecbe909ffac31cdf882c27",
-        "published": "2026-04-09T09:39:29+00:00"
-    },
-    {
         "title": "What my job feels like now",
         "link": "https://www.reddit.com/r/singularity/comments/1sgu7s6/what_my_job_feels_like_now/",
         "image": "https://preview.redd.it/uvymldlgw6ug1.jpeg?width=640&crop=smart&auto=webp&s=3e1a61fc46622e860132d2e0701d8e7de7ef4185",
         "published": "2026-04-09T16:16:25+00:00"
+    },
+    {
+        "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgky1r/openai_plans_staggered_rollout_of_new_model_over/",
+        "image": "https://external-preview.redd.it/rUd6PdZVA_FDu23l8BgLyM_6qPbkMy0e5w3xez-AVVs.jpeg?width=640&crop=smart&auto=webp&s=ffb52571c759ff2645ecbe909ffac31cdf882c27",
+        "published": "2026-04-09T09:39:29+00:00"
     },
     {
         "title": "The New Yorker: We\u2019re Building Portals From Which We\u2019re Genuinely Summoning Aliens,\u201d A Former OpenAI Executive Said",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sgoa5a/ground_robots_replace_ukrainian_troops_in_21500/",
         "image": "https://external-preview.redd.it/lNQpPmUZeOr4WnoToIuc7i8cf93UV1sSgNKjToLl9SA.jpeg?width=640&crop=smart&auto=webp&s=e105ca7a99753524b57e9aef2c928c234f084aa3",
         "published": "2026-04-09T12:31:17+00:00"
+    },
+    {
+        "title": "I've barely seen anyone talk about the generalist GEN-1 and their demos they've been posting which look incredible",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgul7y/ive_barely_seen_anyone_talk_about_the_generalist/",
+        "image": "https://external-preview.redd.it/K5yCjdHdErw2SKPUHuNrHxFXvgsyAGOP56ZNBGyh9ig.jpeg?width=320&crop=smart&auto=webp&s=e93d27b5e87ca4a67bdedd28afee1f5a49971410",
+        "published": "2026-04-09T16:30:07+00:00"
     }
 ]
