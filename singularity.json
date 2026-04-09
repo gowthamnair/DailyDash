@@ -24,12 +24,6 @@
         "published": "2026-04-08T16:15:04+00:00"
     },
     {
-        "title": "Sam Altman and Vinod Khosla agree: AI will break the economy. Their fix is no income tax for most Americans",
-        "link": "https://www.reddit.com/r/singularity/comments/1sft6f8/sam_altman_and_vinod_khosla_agree_ai_will_break/",
-        "image": "https://external-preview.redd.it/9PyU-CM-MiGmExPF6Zzs5uygk5x1D5rjHax7jJxXVb8.jpeg?width=640&crop=smart&auto=webp&s=dc61d480a3cb5e79fc25aca3d6e9406433d07beb",
-        "published": "2026-04-08T13:40:48+00:00"
-    },
-    {
         "title": "New York Times: Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
         "link": "https://www.reddit.com/r/singularity/comments/1sggktf/new_york_times_anthropics_restraint_is_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -72,6 +66,18 @@
         "published": "2026-04-08T22:37:43+00:00"
     },
     {
+        "title": "Chinese AI companies are shipping faster and cheaper than anyone expected and I'm not sure the west has a good answer for it",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgov6y/chinese_ai_companies_are_shipping_faster_and/",
+        "image": "https://preview.redd.it/2ps51wlyw5ug1.jpeg?width=640&crop=smart&auto=webp&s=c961e086b678568533a115f27fb165eabf0176e2",
+        "published": "2026-04-09T12:56:53+00:00"
+    },
+    {
+        "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgky1r/openai_plans_staggered_rollout_of_new_model_over/",
+        "image": "https://external-preview.redd.it/rUd6PdZVA_FDu23l8BgLyM_6qPbkMy0e5w3xez-AVVs.jpeg?width=640&crop=smart&auto=webp&s=ffb52571c759ff2645ecbe909ffac31cdf882c27",
+        "published": "2026-04-09T09:39:29+00:00"
+    },
+    {
         "title": "Meta Muse Spark Artificial Analysis",
         "link": "https://www.reddit.com/r/singularity/comments/1sfyfvv/meta_muse_spark_artificial_analysis/",
         "image": "https://preview.redd.it/0cj3gproxztg1.jpg?width=140&height=38&auto=webp&s=7a8a9a7fc3c870dffde6cf068d38b8acc7b995bf",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sfwspg/we_are_already_in_the_early_stages_of_recursive/",
         "image": "https://external-preview.redd.it/GxNDRzNQXmrrhL4wr6X2SOmKeDS8bZPFbY5MJwEy9mw.png?width=640&crop=smart&auto=webp&s=0e52d683eab4e053cc4886e03a0e19a8e4f069d2",
         "published": "2026-04-08T15:52:23+00:00"
-    },
-    {
-        "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgky1r/openai_plans_staggered_rollout_of_new_model_over/",
-        "image": "https://external-preview.redd.it/rUd6PdZVA_FDu23l8BgLyM_6qPbkMy0e5w3xez-AVVs.jpeg?width=640&crop=smart&auto=webp&s=ffb52571c759ff2645ecbe909ffac31cdf882c27",
-        "published": "2026-04-09T09:39:29+00:00"
     }
 ]
