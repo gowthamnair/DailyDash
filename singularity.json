@@ -42,12 +42,6 @@
         "published": "2026-04-10T03:22:22+00:00"
     },
     {
-        "title": "Axios updates its first story as inaccurate, instead Spud sounds like it will still release to public, separate from cybersecurity product for select partners",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgrhq7/axios_updates_its_first_story_as_inaccurate/",
-        "image": "https://preview.redd.it/epu5h147f6ug1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=39e74e37a471bdda38f120879b87325cd0c936d6",
-        "published": "2026-04-09T14:39:04+00:00"
-    },
-    {
         "title": "I've barely seen anyone talk about the generalist GEN-1 and their demos they've been posting which look incredible",
         "link": "https://www.reddit.com/r/singularity/comments/1sgul7y/ive_barely_seen_anyone_talk_about_the_generalist/",
         "image": "https://external-preview.redd.it/K5yCjdHdErw2SKPUHuNrHxFXvgsyAGOP56ZNBGyh9ig.jpeg?width=320&crop=smart&auto=webp&s=e93d27b5e87ca4a67bdedd28afee1f5a49971410",
@@ -64,6 +58,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1shfjsi/i_suddenly_realized_i_have_started_mimicking/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-10T07:23:56+00:00"
+    },
+    {
+        "title": "The Atlantic: Is Schoolwork Optional Now? | Education is on the verge of becoming fully automated.",
+        "link": "https://www.reddit.com/r/singularity/comments/1shn7qq/the_atlantic_is_schoolwork_optional_now_education/",
+        "image": "https://external-preview.redd.it/NQ7Er679gKSPC-UR8W7qA9g_RLuD6uw1TQ3ZbAF3v5k.png?width=640&crop=smart&auto=webp&s=4720342842cf42a58233bd42e323c93469693dd3",
+        "published": "2026-04-10T13:53:58+00:00"
     },
     {
         "title": "Why AI can displace work like the trades/construction/nursing quicker than we think.",
@@ -84,9 +84,9 @@
         "published": "2026-04-09T18:58:16+00:00"
     },
     {
-        "title": "The Atlantic: Is Schoolwork Optional Now? | Education is on the verge of becoming fully automated.",
-        "link": "https://www.reddit.com/r/singularity/comments/1shn7qq/the_atlantic_is_schoolwork_optional_now_education/",
-        "image": "https://external-preview.redd.it/NQ7Er679gKSPC-UR8W7qA9g_RLuD6uw1TQ3ZbAF3v5k.png?width=640&crop=smart&auto=webp&s=4720342842cf42a58233bd42e323c93469693dd3",
-        "published": "2026-04-10T13:53:58+00:00"
+        "title": "Is this really the future of all programmers? Does it make sense to still doing things by hand?",
+        "link": "https://www.reddit.com/r/singularity/comments/1shnp26/is_this_really_the_future_of_all_programmers_does/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-10T14:11:54+00:00"
     }
 ]
