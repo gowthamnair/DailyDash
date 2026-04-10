@@ -1,11 +1,5 @@
 [
     {
-        "title": "YouTube rolls out unskippable long ads to TV users and they\u2019re furious",
-        "link": "https://www.reddit.com/r/technology/comments/1sgpixi/youtube_rolls_out_unskippable_long_ads_to_tv/",
-        "image": "https://external-preview.redd.it/bu_tN7aUT5Cj2sP03ci8r4yPCVb0TWzc1UW9GPRIp60.jpeg?width=640&crop=smart&auto=webp&s=55e6eeac095268ef129af58b29b3773a9a970499",
-        "published": "2026-04-09T13:23:54+00:00"
-    },
-    {
         "title": "Sam Altman\u2019s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts",
         "link": "https://www.reddit.com/r/technology/comments/1sgrp42/sam_altmans_coworkers_say_he_can_barely_code_and/",
         "image": "https://external-preview.redd.it/7HgcDfDTVEJb9zKucuZJ7GvMhk9VOF9O-xRKwXWge8U.jpeg?width=640&crop=smart&auto=webp&s=cd5e3f264b8a49a3dfeb7edb79f11c2cb0d59cab",
@@ -22,6 +16,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1sgwjrb/nsa_warningreboot_your_internet_router_now/",
         "image": "https://external-preview.redd.it/e1Qfk_90JMCTUAFLlhnVXZugOPXdZZgloBkUuaSONZw.jpeg?width=640&crop=smart&auto=webp&s=d85ea13f1fba0412bd5f702946ed1950a67a8b2d",
         "published": "2026-04-09T17:38:41+00:00"
+    },
+    {
+        "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+        "link": "https://www.reddit.com/r/technology/comments/1shj7c3/france_launches_government_linux_desktop_plan_as/",
+        "image": "https://external-preview.redd.it/GUvjZda_yEygz2pZZi4sSwcyXBBCSMAGHf2nJeD_DE8.jpeg?width=640&crop=smart&auto=webp&s=7164bc288525d3e347086f6eb50a7f42e80e9fb5",
+        "published": "2026-04-10T10:56:30+00:00"
     },
     {
         "title": "Microsoft begins removing Copilot from Windows 11, starting with Notepad, Snipping Tool",
@@ -42,28 +42,22 @@
         "published": "2026-04-09T20:41:07+00:00"
     },
     {
-        "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-        "link": "https://www.reddit.com/r/technology/comments/1shj7c3/france_launches_government_linux_desktop_plan_as/",
-        "image": "https://external-preview.redd.it/GUvjZda_yEygz2pZZi4sSwcyXBBCSMAGHf2nJeD_DE8.jpeg?width=640&crop=smart&auto=webp&s=7164bc288525d3e347086f6eb50a7f42e80e9fb5",
-        "published": "2026-04-10T10:56:30+00:00"
-    },
-    {
         "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
         "link": "https://www.reddit.com/r/technology/comments/1shd0fx/openai_backs_bill_that_would_limit_liability_for/",
         "image": "https://external-preview.redd.it/3AwoDatmoDRmsf0HPq36bRrpbZTTrpeUQGeFFl1od0Q.jpeg?width=640&crop=smart&auto=webp&s=55cc95170edcff4e54101cfe28c0ceb73cc9a8d2",
         "published": "2026-04-10T05:00:05+00:00"
     },
     {
-        "title": "EFF is Leaving X",
-        "link": "https://www.reddit.com/r/technology/comments/1sguwdw/eff_is_leaving_x/",
-        "image": "https://external-preview.redd.it/ubVX9n5Mck0q74lomYSFt4DE0Z8f3Tzv9LJAhSeW-Jg.png?width=640&crop=smart&auto=webp&s=f7509131775bd4baf613f148c8c3116128c6d514",
-        "published": "2026-04-09T16:40:56+00:00"
-    },
-    {
         "title": "Excel incorrectly assumes that the year 1900 is a leap year | \"Although it is technically possible to correct this behavior, the disadvantages of doing so outweigh the advantages.\"",
         "link": "https://www.reddit.com/r/technology/comments/1sgy8hv/excel_incorrectly_assumes_that_the_year_1900_is_a/",
         "image": "https://external-preview.redd.it/RCFh0Kid3SAqWEkALMGNW1e9Vu6ayZpftekoayP00hY.png?width=640&crop=smart&auto=webp&s=2592e711888935cd39bcfcac7bce5a913331142d",
         "published": "2026-04-09T18:37:57+00:00"
+    },
+    {
+        "title": "EFF is Leaving X",
+        "link": "https://www.reddit.com/r/technology/comments/1sguwdw/eff_is_leaving_x/",
+        "image": "https://external-preview.redd.it/ubVX9n5Mck0q74lomYSFt4DE0Z8f3Tzv9LJAhSeW-Jg.png?width=640&crop=smart&auto=webp&s=f7509131775bd4baf613f148c8c3116128c6d514",
+        "published": "2026-04-09T16:40:56+00:00"
     },
     {
         "title": "Meta is Pulling Down Ads That Seek to Recruit Clients for Social Media Addiction Litigation",
@@ -78,10 +72,16 @@
         "published": "2026-04-10T02:22:12+00:00"
     },
     {
-        "title": "\u2018Snoopy\u2019, \u2018Adolf\u2019 and \u2018Password\u2019: The Hungarian Government Passwords Exposed Online",
-        "link": "https://www.reddit.com/r/technology/comments/1sgq6vg/snoopy_adolf_and_password_the_hungarian/",
-        "image": "https://external-preview.redd.it/K1K2ho6dngSqeoK_7z5YorKfzXE-A5P82tEx74vXeO4.jpeg?width=640&crop=smart&auto=webp&s=dc15d1132582d285213b96b5e3c54812995f9fad",
-        "published": "2026-04-09T13:50:11+00:00"
+        "title": "Microsoft denies Copilot is only for entertainment purpose, after its own document says do not trust AI",
+        "link": "https://www.reddit.com/r/technology/comments/1shh98f/microsoft_denies_copilot_is_only_for/",
+        "image": "https://external-preview.redd.it/SPaIpvnALs6jVm2o7cmrOybLi5j0hva_P0Lj8X73FOU.jpeg?width=640&crop=smart&auto=webp&s=09a25f3473c0d1535807cc0963c48813d83d4e87",
+        "published": "2026-04-10T09:06:14+00:00"
+    },
+    {
+        "title": "Japan to ban gene-edited embryos aimed at creating \"designer babies\"",
+        "link": "https://www.reddit.com/r/technology/comments/1shg3lh/japan_to_ban_geneedited_embryos_aimed_at_creating/",
+        "image": "https://external-preview.redd.it/ogPM5OTqQ4tWAmfAPEfYiiBnKJjdZrHXLgK30XfpfHE.jpeg?width=640&crop=smart&auto=webp&s=081fba8fc101ad566dcf193f97018ccf9ae87780",
+        "published": "2026-04-10T07:57:02+00:00"
     },
     {
         "title": "Amazon CEO Andy Jassy's pay rose to $2.1 million in 2025 as security and travel costs climbed",
