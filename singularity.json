@@ -6,16 +6,16 @@
         "published": "2026-04-09T16:58:21+00:00"
     },
     {
-        "title": "Chinese AI companies are shipping faster and cheaper than anyone expected and I'm not sure the west has a good answer for it",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgov6y/chinese_ai_companies_are_shipping_faster_and/",
-        "image": "https://preview.redd.it/2ps51wlyw5ug1.jpeg?width=640&crop=smart&auto=webp&s=c961e086b678568533a115f27fb165eabf0176e2",
-        "published": "2026-04-09T12:56:53+00:00"
-    },
-    {
         "title": "What my job feels like now",
         "link": "https://www.reddit.com/r/singularity/comments/1sgu7s6/what_my_job_feels_like_now/",
         "image": "https://preview.redd.it/uvymldlgw6ug1.jpeg?width=640&crop=smart&auto=webp&s=3e1a61fc46622e860132d2e0701d8e7de7ef4185",
         "published": "2026-04-09T16:16:25+00:00"
+    },
+    {
+        "title": "Chinese AI companies are shipping faster and cheaper than anyone expected and I'm not sure the west has a good answer for it",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgov6y/chinese_ai_companies_are_shipping_faster_and/",
+        "image": "https://preview.redd.it/2ps51wlyw5ug1.jpeg?width=640&crop=smart&auto=webp&s=c961e086b678568533a115f27fb165eabf0176e2",
+        "published": "2026-04-09T12:56:53+00:00"
     },
     {
         "title": "Cheap Open Models Reportedly Reproduced Much Of Mythos's Showcased Findings",
@@ -46,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1shb3qg/damn_meta_is_back_meta_muse_spark_ranks_4th_in/",
         "image": "https://preview.redd.it/suxjn23z6aug1.png?width=640&crop=smart&auto=webp&s=9653c19e81cb51d023314a32f4114bf296ffc10c",
         "published": "2026-04-10T03:22:22+00:00"
-    },
-    {
-        "title": "'Ground Robots' Replace Ukrainian Troops in 21,500 Missions in Q1",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgoa5a/ground_robots_replace_ukrainian_troops_in_21500/",
-        "image": "https://external-preview.redd.it/lNQpPmUZeOr4WnoToIuc7i8cf93UV1sSgNKjToLl9SA.jpeg?width=640&crop=smart&auto=webp&s=e105ca7a99753524b57e9aef2c928c234f084aa3",
-        "published": "2026-04-09T12:31:17+00:00"
     },
     {
         "title": "Axios updates its first story as inaccurate, instead Spud sounds like it will still release to public, separate from cybersecurity product for select partners",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sgw9sf/the_risks_of_internal_only_deployment/",
         "image": "https://preview.redd.it/bcso5xa597ug1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=060e7b1f4609c4a8515b3c3c62b33e998519788c",
         "published": "2026-04-09T17:28:52+00:00"
+    },
+    {
+        "title": "You think this will be how we actually get access to the most powerful models like Mythos in the future? Indirectly, through smaller ones that know when to escalate?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgyt26/you_think_this_will_be_how_we_actually_get_access/",
+        "image": "https://preview.redd.it/fddmnbwfp7ug1.jpeg?width=640&crop=smart&auto=webp&s=23015fa9b53e9903237a7f81754db7aea0c6817f",
+        "published": "2026-04-09T18:58:16+00:00"
     }
 ]
