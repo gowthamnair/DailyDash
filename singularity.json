@@ -6,12 +6,6 @@
         "published": "2026-04-09T16:58:21+00:00"
     },
     {
-        "title": "New York Times: Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
-        "link": "https://www.reddit.com/r/singularity/comments/1sggktf/new_york_times_anthropics_restraint_is_a/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-09T05:20:55+00:00"
-    },
-    {
         "title": "Chinese AI companies are shipping faster and cheaper than anyone expected and I'm not sure the west has a good answer for it",
         "link": "https://www.reddit.com/r/singularity/comments/1sgov6y/chinese_ai_companies_are_shipping_faster_and/",
         "image": "https://preview.redd.it/2ps51wlyw5ug1.jpeg?width=640&crop=smart&auto=webp&s=c961e086b678568533a115f27fb165eabf0176e2",
@@ -24,16 +18,16 @@
         "published": "2026-04-09T16:16:25+00:00"
     },
     {
-        "title": "Claude is now adopting the advisor strategy",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgy3v6/claude_is_now_adopting_the_advisor_strategy/",
-        "image": "https://preview.redd.it/z6xa43g0l7ug1.jpeg?width=640&crop=smart&auto=webp&s=5a07400db1a5b3c10f61b38a21def6fc06a07451",
-        "published": "2026-04-09T18:33:26+00:00"
-    },
-    {
         "title": "Cheap Open Models Reportedly Reproduced Much Of Mythos's Showcased Findings",
         "link": "https://www.reddit.com/r/singularity/comments/1sh2p1r/cheap_open_models_reportedly_reproduced_much_of/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-09T21:19:40+00:00"
+    },
+    {
+        "title": "Claude is now adopting the advisor strategy",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgy3v6/claude_is_now_adopting_the_advisor_strategy/",
+        "image": "https://preview.redd.it/z6xa43g0l7ug1.jpeg?width=640&crop=smart&auto=webp&s=5a07400db1a5b3c10f61b38a21def6fc06a07451",
+        "published": "2026-04-09T18:33:26+00:00"
     },
     {
         "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
@@ -72,6 +66,12 @@
         "published": "2026-04-09T12:31:17+00:00"
     },
     {
+        "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+        "link": "https://www.reddit.com/r/singularity/comments/1shapil/openai_backs_bill_that_would_limit_liability_for/",
+        "image": "https://external-preview.redd.it/3AwoDatmoDRmsf0HPq36bRrpbZTTrpeUQGeFFl1od0Q.jpeg?width=640&crop=smart&auto=webp&s=55cc95170edcff4e54101cfe28c0ceb73cc9a8d2",
+        "published": "2026-04-10T03:03:43+00:00"
+    },
+    {
         "title": "I've barely seen anyone talk about the generalist GEN-1 and their demos they've been posting which look incredible",
         "link": "https://www.reddit.com/r/singularity/comments/1sgul7y/ive_barely_seen_anyone_talk_about_the_generalist/",
         "image": "https://external-preview.redd.it/K5yCjdHdErw2SKPUHuNrHxFXvgsyAGOP56ZNBGyh9ig.jpeg?width=320&crop=smart&auto=webp&s=e93d27b5e87ca4a67bdedd28afee1f5a49971410",
@@ -84,9 +84,9 @@
         "published": "2026-04-09T20:58:36+00:00"
     },
     {
-        "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-        "link": "https://www.reddit.com/r/singularity/comments/1shapil/openai_backs_bill_that_would_limit_liability_for/",
-        "image": "https://external-preview.redd.it/3AwoDatmoDRmsf0HPq36bRrpbZTTrpeUQGeFFl1od0Q.jpeg?width=640&crop=smart&auto=webp&s=55cc95170edcff4e54101cfe28c0ceb73cc9a8d2",
-        "published": "2026-04-10T03:03:43+00:00"
+        "title": "Damn Meta is back!! Meta Muse Spark ranks 4th in Artificial Analysis Index!!",
+        "link": "https://www.reddit.com/r/singularity/comments/1shb3qg/damn_meta_is_back_meta_muse_spark_ranks_4th_in/",
+        "image": "https://preview.redd.it/suxjn23z6aug1.png?width=640&crop=smart&auto=webp&s=9653c19e81cb51d023314a32f4114bf296ffc10c",
+        "published": "2026-04-10T03:22:22+00:00"
     }
 ]
