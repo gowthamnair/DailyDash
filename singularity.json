@@ -12,16 +12,16 @@
         "published": "2026-04-10T17:30:46+00:00"
     },
     {
-        "title": "Claude Mythos Preview Is Everyone\u2019s Problem",
-        "link": "https://www.reddit.com/r/singularity/comments/1sh3c7g/claude_mythos_preview_is_everyones_problem/",
-        "image": "https://external-preview.redd.it/rw2BqSGpWQVNtDGPTNp1kH79aSDrV46NjMPjshfr1O8.jpeg?width=640&crop=smart&auto=webp&s=5ce7a15c964fd101fbc3bb6b73134a29646db82a",
-        "published": "2026-04-09T21:44:31+00:00"
-    },
-    {
         "title": "Some of you mfs",
         "link": "https://www.reddit.com/r/singularity/comments/1shsalw/some_of_you_mfs/",
         "image": "https://preview.redd.it/tltn7gxi8eug1.jpeg?width=320&crop=smart&auto=webp&s=0dc536bb6dafc13d70ca4629431e81240222ce96",
         "published": "2026-04-10T16:56:16+00:00"
+    },
+    {
+        "title": "Claude Mythos Preview Is Everyone\u2019s Problem",
+        "link": "https://www.reddit.com/r/singularity/comments/1sh3c7g/claude_mythos_preview_is_everyones_problem/",
+        "image": "https://external-preview.redd.it/rw2BqSGpWQVNtDGPTNp1kH79aSDrV46NjMPjshfr1O8.jpeg?width=640&crop=smart&auto=webp&s=5ce7a15c964fd101fbc3bb6b73134a29646db82a",
+        "published": "2026-04-09T21:44:31+00:00"
     },
     {
         "title": "Damn Meta is back!! Meta Muse Spark ranks 4th in Artificial Analysis Index!!",
@@ -36,6 +36,12 @@
         "published": "2026-04-10T13:53:58+00:00"
     },
     {
+        "title": "George Hotz argues that discovering zero-day vulnerabilities isn\u2019t especially difficult but the financial incentives for doing so are too weak to make it worthwhile for most people.",
+        "link": "https://www.reddit.com/r/singularity/comments/1shum4f/george_hotz_argues_that_discovering_zeroday/",
+        "image": "https://preview.redd.it/clv1yyndmeug1.png?width=140&height=112&auto=webp&s=6a47e4c3f548e42b91841ad1e953dc735fb01eff",
+        "published": "2026-04-10T18:17:25+00:00"
+    },
+    {
         "title": "I suddenly realized I have started mimicking writing style of LLMs.",
         "link": "https://www.reddit.com/r/singularity/comments/1shfjsi/i_suddenly_realized_i_have_started_mimicking/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -46,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sh24wt/my_experience_as_a_complete_noob_trying_to_learn/",
         "image": "https://preview.redd.it/gl4bkqrra8ug1.png?width=640&crop=smart&auto=webp&s=78d2bec1ba5f8dfba7f9ca4a4ef577b5400533ec",
         "published": "2026-04-09T20:58:36+00:00"
-    },
-    {
-        "title": "George Hotz argues that discovering zero-day vulnerabilities isn\u2019t especially difficult but the financial incentives for doing so are too weak to make it worthwhile for most people.",
-        "link": "https://www.reddit.com/r/singularity/comments/1shum4f/george_hotz_argues_that_discovering_zeroday/",
-        "image": "https://preview.redd.it/clv1yyndmeug1.png?width=140&height=112&auto=webp&s=6a47e4c3f548e42b91841ad1e953dc735fb01eff",
-        "published": "2026-04-10T18:17:25+00:00"
     },
     {
         "title": "Is this really the future of all programmers? Does it make sense to still doing things by hand?",
@@ -84,9 +84,9 @@
         "published": "2026-04-10T17:08:18+00:00"
     },
     {
-        "title": "Rhoda AI just showcased its \"FutureVision\" DVA (Direct Video-Action) model tackling the Shell Game",
-        "link": "https://www.reddit.com/r/singularity/comments/1shjzq4/rhoda_ai_just_showcased_its_futurevision_dva/",
-        "image": "https://external-preview.redd.it/I0ff_i6Y17ntmNg6xBoKK2mOCvZkt0F8pwfhdzYV11A.png?width=640&crop=smart&auto=webp&s=9dee16a425e7d86d5375e601ffd6c5c2e4f94527",
-        "published": "2026-04-10T11:36:22+00:00"
+        "title": "Dr Jonathan Birch on AI sentience (starts at 51:50)",
+        "link": "https://www.reddit.com/r/singularity/comments/1shtwmg/dr_jonathan_birch_on_ai_sentience_starts_at_5150/",
+        "image": "https://external-preview.redd.it/jrKijFYeo_RiwBEQa-leFAPKY-shVibih9nxqI1CWvU.jpeg?width=320&crop=smart&auto=webp&s=5471fe4356c9de883b889cb98bc034a49e81e1ca",
+        "published": "2026-04-10T17:52:44+00:00"
     }
 ]
