@@ -30,12 +30,6 @@
         "published": "2026-04-09T18:33:26+00:00"
     },
     {
-        "title": "OpenAI plans staggered rollout of new model over cybersecurity risk",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgky1r/openai_plans_staggered_rollout_of_new_model_over/",
-        "image": "https://external-preview.redd.it/rUd6PdZVA_FDu23l8BgLyM_6qPbkMy0e5w3xez-AVVs.jpeg?width=640&crop=smart&auto=webp&s=ffb52571c759ff2645ecbe909ffac31cdf882c27",
-        "published": "2026-04-09T09:39:29+00:00"
-    },
-    {
         "title": "Claude Mythos Preview Is Everyone\u2019s Problem",
         "link": "https://www.reddit.com/r/singularity/comments/1sh3c7g/claude_mythos_preview_is_everyones_problem/",
         "image": "https://external-preview.redd.it/rw2BqSGpWQVNtDGPTNp1kH79aSDrV46NjMPjshfr1O8.jpeg?width=640&crop=smart&auto=webp&s=5ce7a15c964fd101fbc3bb6b73134a29646db82a",
@@ -46,6 +40,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sgwm04/maine_set_to_become_first_state_with_data_center/",
         "image": "https://external-preview.redd.it/fjL7RNnDAp8cqRFRdLGESB8qTMF9WWWITRAuFFaNOyE.jpeg?width=640&crop=smart&auto=webp&s=ee77f6f2c1a82ef05c548baf0e62412a5addb5f2",
         "published": "2026-04-09T17:40:49+00:00"
+    },
+    {
+        "title": "Damn Meta is back!! Meta Muse Spark ranks 4th in Artificial Analysis Index!!",
+        "link": "https://www.reddit.com/r/singularity/comments/1shb3qg/damn_meta_is_back_meta_muse_spark_ranks_4th_in/",
+        "image": "https://preview.redd.it/suxjn23z6aug1.png?width=640&crop=smart&auto=webp&s=9653c19e81cb51d023314a32f4114bf296ffc10c",
+        "published": "2026-04-10T03:22:22+00:00"
     },
     {
         "title": "'Ground Robots' Replace Ukrainian Troops in 21,500 Missions in Q1",
@@ -60,12 +60,6 @@
         "published": "2026-04-09T14:39:04+00:00"
     },
     {
-        "title": "Damn Meta is back!! Meta Muse Spark ranks 4th in Artificial Analysis Index!!",
-        "link": "https://www.reddit.com/r/singularity/comments/1shb3qg/damn_meta_is_back_meta_muse_spark_ranks_4th_in/",
-        "image": "https://preview.redd.it/suxjn23z6aug1.png?width=640&crop=smart&auto=webp&s=9653c19e81cb51d023314a32f4114bf296ffc10c",
-        "published": "2026-04-10T03:22:22+00:00"
-    },
-    {
         "title": "I've barely seen anyone talk about the generalist GEN-1 and their demos they've been posting which look incredible",
         "link": "https://www.reddit.com/r/singularity/comments/1sgul7y/ive_barely_seen_anyone_talk_about_the_generalist/",
         "image": "https://external-preview.redd.it/K5yCjdHdErw2SKPUHuNrHxFXvgsyAGOP56ZNBGyh9ig.jpeg?width=320&crop=smart&auto=webp&s=e93d27b5e87ca4a67bdedd28afee1f5a49971410",
@@ -78,15 +72,21 @@
         "published": "2026-04-09T20:58:36+00:00"
     },
     {
+        "title": "Why AI can displace work like the trades/construction/nursing quicker than we think.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sha85l/why_ai_can_displace_work_like_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-10T02:41:39+00:00"
+    },
+    {
         "title": "The risks of 'internal only' deployment",
         "link": "https://www.reddit.com/r/singularity/comments/1sgw9sf/the_risks_of_internal_only_deployment/",
         "image": "https://preview.redd.it/bcso5xa597ug1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=060e7b1f4609c4a8515b3c3c62b33e998519788c",
         "published": "2026-04-09T17:28:52+00:00"
     },
     {
-        "title": "Why AI can displace work like the trades/construction/nursing quicker than we think.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sha85l/why_ai_can_displace_work_like_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-10T02:41:39+00:00"
+        "title": "You think this will be how we actually get access to the most powerful models like Mythos in the future? Indirectly, through smaller ones that know when to escalate?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sgyt26/you_think_this_will_be_how_we_actually_get_access/",
+        "image": "https://preview.redd.it/fddmnbwfp7ug1.jpeg?width=640&crop=smart&auto=webp&s=23015fa9b53e9903237a7f81754db7aea0c6817f",
+        "published": "2026-04-09T18:58:16+00:00"
     }
 ]
