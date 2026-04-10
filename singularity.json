@@ -1,11 +1,5 @@
 [
     {
-        "title": "AI generated cow, 2014",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgve5m/ai_generated_cow_2014/",
-        "image": "https://preview.redd.it/itvcmao147ug1.jpeg?width=320&crop=smart&auto=webp&s=21035cd20e8291ad233f12c4d7eeafe388216637",
-        "published": "2026-04-09T16:58:21+00:00"
-    },
-    {
         "title": "Cheap Open Models Reportedly Reproduced Much Of Mythos's Showcased Findings",
         "link": "https://www.reddit.com/r/singularity/comments/1sh2p1r/cheap_open_models_reportedly_reproduced_much_of/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -42,28 +36,28 @@
         "published": "2026-04-10T13:53:58+00:00"
     },
     {
-        "title": "My Experience As A Complete Noob Trying To Learn How AI And The Singularity Works For The First Time",
-        "link": "https://www.reddit.com/r/singularity/comments/1sh24wt/my_experience_as_a_complete_noob_trying_to_learn/",
-        "image": "https://preview.redd.it/gl4bkqrra8ug1.png?width=640&crop=smart&auto=webp&s=78d2bec1ba5f8dfba7f9ca4a4ef577b5400533ec",
-        "published": "2026-04-09T20:58:36+00:00"
-    },
-    {
         "title": "I suddenly realized I have started mimicking writing style of LLMs.",
         "link": "https://www.reddit.com/r/singularity/comments/1shfjsi/i_suddenly_realized_i_have_started_mimicking/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-10T07:23:56+00:00"
     },
     {
+        "title": "My Experience As A Complete Noob Trying To Learn How AI And The Singularity Works For The First Time",
+        "link": "https://www.reddit.com/r/singularity/comments/1sh24wt/my_experience_as_a_complete_noob_trying_to_learn/",
+        "image": "https://preview.redd.it/gl4bkqrra8ug1.png?width=640&crop=smart&auto=webp&s=78d2bec1ba5f8dfba7f9ca4a4ef577b5400533ec",
+        "published": "2026-04-09T20:58:36+00:00"
+    },
+    {
+        "title": "Some of you mfs",
+        "link": "https://www.reddit.com/r/singularity/comments/1shsalw/some_of_you_mfs/",
+        "image": "https://preview.redd.it/tltn7gxi8eug1.jpeg?width=320&crop=smart&auto=webp&s=0dc536bb6dafc13d70ca4629431e81240222ce96",
+        "published": "2026-04-10T16:56:16+00:00"
+    },
+    {
         "title": "Why AI can displace work like the trades/construction/nursing quicker than we think.",
         "link": "https://www.reddit.com/r/singularity/comments/1sha85l/why_ai_can_displace_work_like_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-10T02:41:39+00:00"
-    },
-    {
-        "title": "The risks of 'internal only' deployment",
-        "link": "https://www.reddit.com/r/singularity/comments/1sgw9sf/the_risks_of_internal_only_deployment/",
-        "image": "https://preview.redd.it/bcso5xa597ug1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=060e7b1f4609c4a8515b3c3c62b33e998519788c",
-        "published": "2026-04-09T17:28:52+00:00"
     },
     {
         "title": "Is this really the future of all programmers? Does it make sense to still doing things by hand?",
@@ -78,15 +72,21 @@
         "published": "2026-04-09T18:58:16+00:00"
     },
     {
+        "title": "Someone threw a Molotov cocktail at Sam Altman\u2019s home and then made threats outside OAI. (No injuries, only minimal damage)",
+        "link": "https://www.reddit.com/r/singularity/comments/1shtaau/someone_threw_a_molotov_cocktail_at_sam_altmans/",
+        "image": "https://preview.redd.it/bcaki7sqeeug1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bf1d77446d997c89465d3414e37ba4e75618e552",
+        "published": "2026-04-10T17:30:46+00:00"
+    },
+    {
         "title": "Human Gene Editing Has Begun | George Church",
         "link": "https://www.reddit.com/r/singularity/comments/1shoqff/human_gene_editing_has_begun_george_church/",
         "image": "https://external-preview.redd.it/3O4ulqOcen6KOHmg7V2O6SJ0tuYlBlhSIhcV-nRW5Fg.jpeg?width=320&crop=smart&auto=webp&s=eae66fc41e2aec6cf3bcbd4a39e08899624771c7",
         "published": "2026-04-10T14:50:28+00:00"
     },
     {
-        "title": "Rhoda AI just showcased its \"FutureVision\" DVA (Direct Video-Action) model tackling the Shell Game",
-        "link": "https://www.reddit.com/r/singularity/comments/1shjzq4/rhoda_ai_just_showcased_its_futurevision_dva/",
-        "image": "https://external-preview.redd.it/I0ff_i6Y17ntmNg6xBoKK2mOCvZkt0F8pwfhdzYV11A.png?width=640&crop=smart&auto=webp&s=9dee16a425e7d86d5375e601ffd6c5c2e4f94527",
-        "published": "2026-04-10T11:36:22+00:00"
+        "title": "We Can Predict Which Layer Will Matter Most for Changing a Model's Next-Token Answer Before Running Any Intervention Sweep | Research Paper",
+        "link": "https://www.reddit.com/r/singularity/comments/1shsnbn/we_can_predict_which_layer_will_matter_most_for/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-10T17:08:18+00:00"
     }
 ]
