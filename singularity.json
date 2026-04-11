@@ -1,15 +1,15 @@
 [
     {
-        "title": "Someone threw a Molotov cocktail at Sam Altman\u2019s home and then made threats outside OAI. (No injuries, only minimal damage)",
-        "link": "https://www.reddit.com/r/singularity/comments/1shtaau/someone_threw_a_molotov_cocktail_at_sam_altmans/",
-        "image": "https://preview.redd.it/bcaki7sqeeug1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bf1d77446d997c89465d3414e37ba4e75618e552",
-        "published": "2026-04-10T17:30:46+00:00"
-    },
-    {
         "title": "Clanker crime rates are rising",
         "link": "https://www.reddit.com/r/singularity/comments/1si8ytw/clanker_crime_rates_are_rising/",
         "image": "https://external-preview.redd.it/eHp6M3pkbDVtaHVnMf4-hUvK891KpsjBkE6DNtlEpdb_iOHZ7fSLOjSb8r0s.png?width=320&crop=smart&auto=webp&s=68fd5ccb2a333db546594ebc851910c6ac617022",
         "published": "2026-04-11T04:17:41+00:00"
+    },
+    {
+        "title": "Someone threw a Molotov cocktail at Sam Altman\u2019s home and then made threats outside OAI. (No injuries, only minimal damage)",
+        "link": "https://www.reddit.com/r/singularity/comments/1shtaau/someone_threw_a_molotov_cocktail_at_sam_altmans/",
+        "image": "https://preview.redd.it/bcaki7sqeeug1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bf1d77446d997c89465d3414e37ba4e75618e552",
+        "published": "2026-04-10T17:30:46+00:00"
     },
     {
         "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
@@ -48,10 +48,10 @@
         "published": "2026-04-11T13:13:28+00:00"
     },
     {
-        "title": "We Can Predict Which Layer Will Matter Most for Changing a Model's Next-Token Answer Before Running Any Intervention Sweep | Research Paper",
-        "link": "https://www.reddit.com/r/singularity/comments/1shsnbn/we_can_predict_which_layer_will_matter_most_for/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-10T17:08:18+00:00"
+        "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
+        "link": "https://www.reddit.com/r/singularity/comments/1simfsz/openai_says_not_to_worry_about_ubi_because_it_has/",
+        "image": "https://external-preview.redd.it/ouOMyhf7QHIgcQwqcY55nmLJ2R0xxg9BIiz840_cwIM.jpeg?width=640&crop=smart&auto=webp&s=8fb37393f627960eb2dbca8662a715529dab00f7",
+        "published": "2026-04-11T15:42:39+00:00"
     },
     {
         "title": "Dr Jonathan Birch on AI sentience (starts at 51:50)",
@@ -64,6 +64,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1shtjqe/what_did_gary_marcus_mean_by_this/",
         "image": "https://preview.redd.it/j8dd6w19geug1.jpeg?width=640&crop=smart&auto=webp&s=0c0768c9c93c311906e65bb2460c60892df68398",
         "published": "2026-04-10T17:40:04+00:00"
+    },
+    {
+        "title": "We Can Predict Which Layer Will Matter Most for Changing a Model's Next-Token Answer Before Running Any Intervention Sweep | Research Paper",
+        "link": "https://www.reddit.com/r/singularity/comments/1shsnbn/we_can_predict_which_layer_will_matter_most_for/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-10T17:08:18+00:00"
     },
     {
         "title": "Which is the strongest reasoning model according to you?",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1siiy6j/you_know_something_weird_that_few_people_bring_up/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T13:21:07+00:00"
-    },
-    {
-        "title": "AI alignment is a temporary state of resource dependency",
-        "link": "https://www.reddit.com/r/singularity/comments/1sihsix/ai_alignment_is_a_temporary_state_of_resource/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T12:29:35+00:00"
     }
 ]
