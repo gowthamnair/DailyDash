@@ -36,16 +36,10 @@
         "published": "2026-04-11T13:22:18+00:00"
     },
     {
-        "title": "Too dangerous to release",
-        "link": "https://www.reddit.com/r/singularity/comments/1shsy27/too_dangerous_to_release/",
+        "title": "AMD's senior director of AI thinks 'Claude has regressed' and that it 'cannot be trusted to perform complex engineering'",
+        "link": "https://www.reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-10T17:18:47+00:00"
-    },
-    {
-        "title": "Why Should People With the Least Technical Understanding Have the Most Power Over Transformative AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1siirps/why_should_people_with_the_least_technical/",
-        "image": "https://preview.redd.it/fndvcun49kug1.png?width=640&crop=smart&auto=webp&s=c8f68cc51263498a4c0038f600ff60469292e5e7",
-        "published": "2026-04-11T13:13:28+00:00"
+        "published": "2026-04-11T16:15:21+00:00"
     },
     {
         "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
@@ -54,10 +48,10 @@
         "published": "2026-04-11T15:42:39+00:00"
     },
     {
-        "title": "Dr Jonathan Birch on AI sentience (starts at 51:50)",
-        "link": "https://www.reddit.com/r/singularity/comments/1shtwmg/dr_jonathan_birch_on_ai_sentience_starts_at_5150/",
-        "image": "https://external-preview.redd.it/jrKijFYeo_RiwBEQa-leFAPKY-shVibih9nxqI1CWvU.jpeg?width=320&crop=smart&auto=webp&s=5471fe4356c9de883b889cb98bc034a49e81e1ca",
-        "published": "2026-04-10T17:52:44+00:00"
+        "title": "Why Should People With the Least Technical Understanding Have the Most Power Over Transformative AI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1siirps/why_should_people_with_the_least_technical/",
+        "image": "https://preview.redd.it/fndvcun49kug1.png?width=640&crop=smart&auto=webp&s=c8f68cc51263498a4c0038f600ff60469292e5e7",
+        "published": "2026-04-11T13:13:28+00:00"
     },
     {
         "title": "What did Gary Marcus mean by this?",
@@ -66,10 +60,10 @@
         "published": "2026-04-10T17:40:04+00:00"
     },
     {
-        "title": "We Can Predict Which Layer Will Matter Most for Changing a Model's Next-Token Answer Before Running Any Intervention Sweep | Research Paper",
-        "link": "https://www.reddit.com/r/singularity/comments/1shsnbn/we_can_predict_which_layer_will_matter_most_for/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-10T17:08:18+00:00"
+        "title": "Dr Jonathan Birch on AI sentience (starts at 51:50)",
+        "link": "https://www.reddit.com/r/singularity/comments/1shtwmg/dr_jonathan_birch_on_ai_sentience_starts_at_5150/",
+        "image": "https://external-preview.redd.it/jrKijFYeo_RiwBEQa-leFAPKY-shVibih9nxqI1CWvU.jpeg?width=320&crop=smart&auto=webp&s=5471fe4356c9de883b889cb98bc034a49e81e1ca",
+        "published": "2026-04-10T17:52:44+00:00"
     },
     {
         "title": "Which is the strongest reasoning model according to you?",
@@ -78,15 +72,21 @@
         "published": "2026-04-11T00:27:50+00:00"
     },
     {
+        "title": "Opus 4.6 vs GPT 5.4 vs Cursor auto in One Prompt World Generation.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sio6ax/opus_46_vs_gpt_54_vs_cursor_auto_in_one_prompt/",
+        "image": "https://external-preview.redd.it/Xy4kKfVIbL53bfLUViS9lyAIftE7LpPfuTbgRq_a_0I.jpeg?width=640&crop=smart&auto=webp&s=88a1de726abe05e8afb7a33354cf7ced246cddc3",
+        "published": "2026-04-11T16:48:45+00:00"
+    },
+    {
+        "title": "AI poker bots playing strangers' bots in real-time is a better evaluation environment than most people realize",
+        "link": "https://www.reddit.com/r/singularity/comments/1sinqow/ai_poker_bots_playing_strangers_bots_in_realtime/",
+        "image": "https://preview.redd.it/t0cds77f8lug1.jpeg?width=640&crop=smart&auto=webp&s=cf5cf137b79b58387d186b45cd1d03733f16fdc5",
+        "published": "2026-04-11T16:32:11+00:00"
+    },
+    {
         "title": "In Defense of AGI Skepticism",
         "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T14:32:32+00:00"
-    },
-    {
-        "title": "You know something weird that few people bring up?",
-        "link": "https://www.reddit.com/r/singularity/comments/1siiy6j/you_know_something_weird_that_few_people_bring_up/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T13:21:07+00:00"
     }
 ]
