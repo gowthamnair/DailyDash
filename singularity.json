@@ -6,22 +6,10 @@
         "published": "2026-04-11T04:17:41+00:00"
     },
     {
-        "title": "Someone threw a Molotov cocktail at Sam Altman\u2019s home and then made threats outside OAI. (No injuries, only minimal damage)",
-        "link": "https://www.reddit.com/r/singularity/comments/1shtaau/someone_threw_a_molotov_cocktail_at_sam_altmans/",
-        "image": "https://preview.redd.it/bcaki7sqeeug1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bf1d77446d997c89465d3414e37ba4e75618e552",
-        "published": "2026-04-10T17:30:46+00:00"
-    },
-    {
         "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
         "link": "https://www.reddit.com/r/singularity/comments/1si5vd3/6_months_using_ai_for_actual_work_whats/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T01:48:51+00:00"
-    },
-    {
-        "title": "George Hotz argues that discovering zero-day vulnerabilities isn\u2019t especially difficult but the financial incentives for doing so are too weak to make it worthwhile for most people.",
-        "link": "https://www.reddit.com/r/singularity/comments/1shum4f/george_hotz_argues_that_discovering_zeroday/",
-        "image": "https://preview.redd.it/clv1yyndmeug1.png?width=140&height=112&auto=webp&s=6a47e4c3f548e42b91841ad1e953dc735fb01eff",
-        "published": "2026-04-10T18:17:25+00:00"
     },
     {
         "title": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
@@ -30,16 +18,16 @@
         "published": "2026-04-11T12:53:08+00:00"
     },
     {
-        "title": "Neuralink enables nonverbal ALS patient to speak again with thoughts and AI-cloned voice",
-        "link": "https://www.reddit.com/r/singularity/comments/1siiz7j/neuralink_enables_nonverbal_als_patient_to_speak/",
-        "image": "https://external-preview.redd.it/jEiGY498mgPixd81NedxYS2ptxueZPtUiGUDZvAF1fA.jpeg?width=640&crop=smart&auto=webp&s=a52a5475fc9d8862f707b51a3efdbc0b49b5b5cf",
-        "published": "2026-04-11T13:22:18+00:00"
-    },
-    {
         "title": "AMD's senior director of AI thinks 'Claude has regressed' and that it 'cannot be trusted to perform complex engineering'",
         "link": "https://www.reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T16:15:21+00:00"
+    },
+    {
+        "title": "Neuralink enables nonverbal ALS patient to speak again with thoughts and AI-cloned voice",
+        "link": "https://www.reddit.com/r/singularity/comments/1siiz7j/neuralink_enables_nonverbal_als_patient_to_speak/",
+        "image": "https://external-preview.redd.it/jEiGY498mgPixd81NedxYS2ptxueZPtUiGUDZvAF1fA.jpeg?width=640&crop=smart&auto=webp&s=a52a5475fc9d8862f707b51a3efdbc0b49b5b5cf",
+        "published": "2026-04-11T13:22:18+00:00"
     },
     {
         "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
@@ -54,16 +42,10 @@
         "published": "2026-04-11T13:13:28+00:00"
     },
     {
-        "title": "What did Gary Marcus mean by this?",
-        "link": "https://www.reddit.com/r/singularity/comments/1shtjqe/what_did_gary_marcus_mean_by_this/",
-        "image": "https://preview.redd.it/j8dd6w19geug1.jpeg?width=640&crop=smart&auto=webp&s=0c0768c9c93c311906e65bb2460c60892df68398",
-        "published": "2026-04-10T17:40:04+00:00"
-    },
-    {
-        "title": "Dr Jonathan Birch on AI sentience (starts at 51:50)",
-        "link": "https://www.reddit.com/r/singularity/comments/1shtwmg/dr_jonathan_birch_on_ai_sentience_starts_at_5150/",
-        "image": "https://external-preview.redd.it/jrKijFYeo_RiwBEQa-leFAPKY-shVibih9nxqI1CWvU.jpeg?width=320&crop=smart&auto=webp&s=5471fe4356c9de883b889cb98bc034a49e81e1ca",
-        "published": "2026-04-10T17:52:44+00:00"
+        "title": "Human Knowledge/Skill IP is not being talked about enough",
+        "link": "https://www.reddit.com/r/singularity/comments/1siomtn/human_knowledgeskill_ip_is_not_being_talked_about/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T17:05:58+00:00"
     },
     {
         "title": "Which is the strongest reasoning model according to you?",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T14:32:32+00:00"
+    },
+    {
+        "title": "Does investing in upcoming LLM Stocks even make sense longterm?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sinauf/does_investing_in_upcoming_llm_stocks_even_make/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T16:15:22+00:00"
+    },
+    {
+        "title": "You know something weird that few people bring up?",
+        "link": "https://www.reddit.com/r/singularity/comments/1siiy6j/you_know_something_weird_that_few_people_bring_up/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T13:21:07+00:00"
+    },
+    {
+        "title": "AI alignment is a temporary state of resource dependency",
+        "link": "https://www.reddit.com/r/singularity/comments/1sihsix/ai_alignment_is_a_temporary_state_of_resource/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T12:29:35+00:00"
     }
 ]
