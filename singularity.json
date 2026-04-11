@@ -12,12 +12,6 @@
         "published": "2026-04-10T18:17:25+00:00"
     },
     {
-        "title": "Damn Meta is back!! Meta Muse Spark ranks 4th in Artificial Analysis Index!!",
-        "link": "https://www.reddit.com/r/singularity/comments/1shb3qg/damn_meta_is_back_meta_muse_spark_ranks_4th_in/",
-        "image": "https://preview.redd.it/suxjn23z6aug1.png?width=640&crop=smart&auto=webp&s=9653c19e81cb51d023314a32f4114bf296ffc10c",
-        "published": "2026-04-10T03:22:22+00:00"
-    },
-    {
         "title": "The Atlantic: Is Schoolwork Optional Now? | Education is on the verge of becoming fully automated.",
         "link": "https://www.reddit.com/r/singularity/comments/1shn7qq/the_atlantic_is_schoolwork_optional_now_education/",
         "image": "https://external-preview.redd.it/NQ7Er679gKSPC-UR8W7qA9g_RLuD6uw1TQ3ZbAF3v5k.png?width=640&crop=smart&auto=webp&s=4720342842cf42a58233bd42e323c93469693dd3",
@@ -30,16 +24,16 @@
         "published": "2026-04-10T07:23:56+00:00"
     },
     {
+        "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
+        "link": "https://www.reddit.com/r/singularity/comments/1si5vd3/6_months_using_ai_for_actual_work_whats/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T01:48:51+00:00"
+    },
+    {
         "title": "Is this really the future of all programmers? Does it make sense to still doing things by hand?",
         "link": "https://www.reddit.com/r/singularity/comments/1shnp26/is_this_really_the_future_of_all_programmers_does/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-10T14:11:54+00:00"
-    },
-    {
-        "title": "Why AI can displace work like the trades/construction/nursing quicker than we think.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sha85l/why_ai_can_displace_work_like_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-10T02:41:39+00:00"
     },
     {
         "title": "Human Gene Editing Has Begun | George Church",
@@ -82,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1si43ai/which_is_the_strongest_reasoning_model_according/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T00:27:50+00:00"
+    },
+    {
+        "title": "Gemini 3.1 Pro (knowledge cutoff date: Jan 2025, Grounding OFF) warned about Iran blocking the Strait of Hormuz and targeting Saudi and Emirati oil infrastructure",
+        "link": "https://www.reddit.com/r/singularity/comments/1si67xp/gemini_31_pro_knowledge_cutoff_date_jan_2025/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T02:04:59+00:00"
     }
 ]
