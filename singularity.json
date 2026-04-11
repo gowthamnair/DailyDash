@@ -6,16 +6,16 @@
         "published": "2026-04-10T17:30:46+00:00"
     },
     {
-        "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
-        "link": "https://www.reddit.com/r/singularity/comments/1si5vd3/6_months_using_ai_for_actual_work_whats/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T01:48:51+00:00"
-    },
-    {
         "title": "Clanker crime rates are rising",
         "link": "https://www.reddit.com/r/singularity/comments/1si8ytw/clanker_crime_rates_are_rising/",
         "image": "https://external-preview.redd.it/eHp6M3pkbDVtaHVnMf4-hUvK891KpsjBkE6DNtlEpdb_iOHZ7fSLOjSb8r0s.png?width=320&crop=smart&auto=webp&s=68fd5ccb2a333db546594ebc851910c6ac617022",
         "published": "2026-04-11T04:17:41+00:00"
+    },
+    {
+        "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
+        "link": "https://www.reddit.com/r/singularity/comments/1si5vd3/6_months_using_ai_for_actual_work_whats/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T01:48:51+00:00"
     },
     {
         "title": "George Hotz argues that discovering zero-day vulnerabilities isn\u2019t especially difficult but the financial incentives for doing so are too weak to make it worthwhile for most people.",
@@ -28,6 +28,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1shn7qq/the_atlantic_is_schoolwork_optional_now_education/",
         "image": "https://external-preview.redd.it/NQ7Er679gKSPC-UR8W7qA9g_RLuD6uw1TQ3ZbAF3v5k.png?width=640&crop=smart&auto=webp&s=4720342842cf42a58233bd42e323c93469693dd3",
         "published": "2026-04-10T13:53:58+00:00"
+    },
+    {
+        "title": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
+        "link": "https://www.reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
+        "image": "https://external-preview.redd.it/ZG90YnNkdzA2a3VnMaZIpVNCR4h5-OCEuPJvrtzzWdc2ba89r0ShNOOg4Nbh.png?width=640&crop=smart&auto=webp&s=f815f0059c4ec722dc0cbca03facd976134e5327",
+        "published": "2026-04-11T12:53:08+00:00"
     },
     {
         "title": "Is this really the future of all programmers? Does it make sense to still doing things by hand?",
@@ -70,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1si43ai/which_is_the_strongest_reasoning_model_according/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T00:27:50+00:00"
+    },
+    {
+        "title": "AI alignment is a temporary state of resource dependency",
+        "link": "https://www.reddit.com/r/singularity/comments/1sihsix/ai_alignment_is_a_temporary_state_of_resource/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T12:29:35+00:00"
     }
 ]
