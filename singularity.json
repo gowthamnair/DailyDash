@@ -18,16 +18,16 @@
         "published": "2026-04-10T13:53:58+00:00"
     },
     {
-        "title": "I suddenly realized I have started mimicking writing style of LLMs.",
-        "link": "https://www.reddit.com/r/singularity/comments/1shfjsi/i_suddenly_realized_i_have_started_mimicking/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-10T07:23:56+00:00"
-    },
-    {
         "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
         "link": "https://www.reddit.com/r/singularity/comments/1si5vd3/6_months_using_ai_for_actual_work_whats/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T01:48:51+00:00"
+    },
+    {
+        "title": "I suddenly realized I have started mimicking writing style of LLMs.",
+        "link": "https://www.reddit.com/r/singularity/comments/1shfjsi/i_suddenly_realized_i_have_started_mimicking/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-10T07:23:56+00:00"
     },
     {
         "title": "Is this really the future of all programmers? Does it make sense to still doing things by hand?",
@@ -40,6 +40,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1shoqff/human_gene_editing_has_begun_george_church/",
         "image": "https://external-preview.redd.it/3O4ulqOcen6KOHmg7V2O6SJ0tuYlBlhSIhcV-nRW5Fg.jpeg?width=320&crop=smart&auto=webp&s=eae66fc41e2aec6cf3bcbd4a39e08899624771c7",
         "published": "2026-04-10T14:50:28+00:00"
+    },
+    {
+        "title": "Clanker crime rates are rising",
+        "link": "https://www.reddit.com/r/singularity/comments/1si8ytw/clanker_crime_rates_are_rising/",
+        "image": "https://external-preview.redd.it/eHp6M3pkbDVtaHVnMf4-hUvK891KpsjBkE6DNtlEpdb_iOHZ7fSLOjSb8r0s.png?width=320&crop=smart&auto=webp&s=68fd5ccb2a333db546594ebc851910c6ac617022",
+        "published": "2026-04-11T04:17:41+00:00"
     },
     {
         "title": "Too dangerous to release",
@@ -78,9 +84,9 @@
         "published": "2026-04-11T00:27:50+00:00"
     },
     {
-        "title": "Gemini 3.1 Pro (knowledge cutoff date: Jan 2025, Grounding OFF) warned about Iran blocking the Strait of Hormuz and targeting Saudi and Emirati oil infrastructure",
-        "link": "https://www.reddit.com/r/singularity/comments/1si67xp/gemini_31_pro_knowledge_cutoff_date_jan_2025/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T02:04:59+00:00"
+        "title": "r/claude and r/chatgpt are fighting",
+        "link": "https://www.reddit.com/r/singularity/comments/1si9h7t/rclaude_and_rchatgpt_are_fighting/",
+        "image": "https://preview.redd.it/bc78nyfvqhug1.jpeg?width=640&crop=smart&auto=webp&s=a8d15886bf87db33e8e245d2aa77b0601c343006",
+        "published": "2026-04-11T04:44:07+00:00"
     }
 ]
