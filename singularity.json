@@ -12,12 +12,6 @@
         "published": "2026-04-11T16:15:21+00:00"
     },
     {
-        "title": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
-        "link": "https://www.reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
-        "image": "https://external-preview.redd.it/ZG90YnNkdzA2a3VnMaZIpVNCR4h5-OCEuPJvrtzzWdc2ba89r0ShNOOg4Nbh.png?width=640&crop=smart&auto=webp&s=f815f0059c4ec722dc0cbca03facd976134e5327",
-        "published": "2026-04-11T12:53:08+00:00"
-    },
-    {
         "title": "I made a site that uses Anthropic and OpenAI data to calculate how soon your job will be replaced by AI",
         "link": "https://www.reddit.com/r/singularity/comments/1sj0mcw/i_made_a_site_that_uses_anthropic_and_openai_data/",
         "image": "https://external-preview.redd.it/CzIv1O3NV2C53T1ALzWiPJoscaeFcGefdXJWztaB9ZU.png?width=640&crop=smart&auto=webp&s=4fad66a429faece8611d14ae91980115db7bd585",
@@ -30,22 +24,10 @@
         "published": "2026-04-11T15:42:39+00:00"
     },
     {
-        "title": "Neuralink enables nonverbal ALS patient to speak again with thoughts and AI-cloned voice",
-        "link": "https://www.reddit.com/r/singularity/comments/1siiz7j/neuralink_enables_nonverbal_als_patient_to_speak/",
-        "image": "https://external-preview.redd.it/jEiGY498mgPixd81NedxYS2ptxueZPtUiGUDZvAF1fA.jpeg?width=640&crop=smart&auto=webp&s=a52a5475fc9d8862f707b51a3efdbc0b49b5b5cf",
-        "published": "2026-04-11T13:22:18+00:00"
-    },
-    {
         "title": "Meta started rolling out Contemplating mode for Muse Spark, where 16 agents will work on your prompt to synthesize a consolidated answer!",
         "link": "https://www.reddit.com/r/singularity/comments/1sj7wbg/meta_started_rolling_out_contemplating_mode_for/",
         "image": "https://preview.redd.it/984is9hpppug1.jpeg?width=640&crop=smart&auto=webp&s=1e2c275a84a56358702a4ae13ff693ba8fc2a52a",
         "published": "2026-04-12T07:31:50+00:00"
-    },
-    {
-        "title": "Why Should People With the Least Technical Understanding Have the Most Power Over Transformative AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1siirps/why_should_people_with_the_least_technical/",
-        "image": "https://preview.redd.it/fndvcun49kug1.png?width=640&crop=smart&auto=webp&s=c8f68cc51263498a4c0038f600ff60469292e5e7",
-        "published": "2026-04-11T13:13:28+00:00"
     },
     {
         "title": "The Netherlands certifies Tesla FSD Supervised.",
@@ -66,22 +48,28 @@
         "published": "2026-04-12T07:46:06+00:00"
     },
     {
-        "title": "In Defense of AGI Skepticism",
-        "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T14:32:32+00:00"
-    },
-    {
         "title": "AI-generated survey responses look real\u2026 but are they actually reliable?",
         "link": "https://www.reddit.com/r/singularity/comments/1siqb4t/aigenerated_survey_responses_look_real_but_are/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T18:08:09+00:00"
     },
     {
+        "title": "In Defense of AGI Skepticism",
+        "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T14:32:32+00:00"
+    },
+    {
         "title": "Human Knowledge/Skill IP is not being talked about enough",
         "link": "https://www.reddit.com/r/singularity/comments/1siomtn/human_knowledgeskill_ip_is_not_being_talked_about/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T17:05:58+00:00"
+    },
+    {
+        "title": "We Almost Have the Tech to Live Forever - David Friedberg",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjdmg2/we_almost_have_the_tech_to_live_forever_david/",
+        "image": "https://external-preview.redd.it/RTqDpGx50FnwfhpTaVmoe7h5AcMIRgX7mC9DwrciAgk.jpeg?width=320&crop=smart&auto=webp&s=f2fe81880da5ae16e89231f9413ade9dae364e84",
+        "published": "2026-04-12T12:47:22+00:00"
     },
     {
         "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
