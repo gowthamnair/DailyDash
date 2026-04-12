@@ -1,11 +1,5 @@
 [
     {
-        "title": "Clanker crime rates are rising",
-        "link": "https://www.reddit.com/r/singularity/comments/1si8ytw/clanker_crime_rates_are_rising/",
-        "image": "https://external-preview.redd.it/eHp6M3pkbDVtaHVnMf4-hUvK891KpsjBkE6DNtlEpdb_iOHZ7fSLOjSb8r0s.png?width=320&crop=smart&auto=webp&s=68fd5ccb2a333db546594ebc851910c6ac617022",
-        "published": "2026-04-11T04:17:41+00:00"
-    },
-    {
         "title": "AMD's senior director of AI thinks 'Claude has regressed' and that it 'cannot be trusted to perform complex engineering'",
         "link": "https://www.reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -16,12 +10,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
         "image": "https://external-preview.redd.it/ZG90YnNkdzA2a3VnMaZIpVNCR4h5-OCEuPJvrtzzWdc2ba89r0ShNOOg4Nbh.png?width=640&crop=smart&auto=webp&s=f815f0059c4ec722dc0cbca03facd976134e5327",
         "published": "2026-04-11T12:53:08+00:00"
-    },
-    {
-        "title": "6 Months Using AI for Actual Work: What's Incredible, What's Overhyped, and What's Quietly Dangerous",
-        "link": "https://www.reddit.com/r/singularity/comments/1si5vd3/6_months_using_ai_for_actual_work_whats/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T01:48:51+00:00"
     },
     {
         "title": "Workers in some Indian factories have started wearing cameras on their heads to record their movements so robots can be trained using the footage.",
@@ -42,6 +30,12 @@
         "published": "2026-04-11T13:22:18+00:00"
     },
     {
+        "title": "I made a site that uses Anthropic and OpenAI data to calculate how soon your job will be replaced by AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj0mcw/i_made_a_site_that_uses_anthropic_and_openai_data/",
+        "image": "https://external-preview.redd.it/CzIv1O3NV2C53T1ALzWiPJoscaeFcGefdXJWztaB9ZU.png?width=640&crop=smart&auto=webp&s=4fad66a429faece8611d14ae91980115db7bd585",
+        "published": "2026-04-12T01:15:20+00:00"
+    },
+    {
         "title": "Why Should People With the Least Technical Understanding Have the Most Power Over Transformative AI?",
         "link": "https://www.reddit.com/r/singularity/comments/1siirps/why_should_people_with_the_least_technical/",
         "image": "https://preview.redd.it/fndvcun49kug1.png?width=640&crop=smart&auto=webp&s=c8f68cc51263498a4c0038f600ff60469292e5e7",
@@ -60,10 +54,16 @@
         "published": "2026-04-11T18:08:09+00:00"
     },
     {
-        "title": "I made a site that uses Anthropic and OpenAI data to calculate how soon your job will be replaced by AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj0mcw/i_made_a_site_that_uses_anthropic_and_openai_data/",
-        "image": "https://external-preview.redd.it/CzIv1O3NV2C53T1ALzWiPJoscaeFcGefdXJWztaB9ZU.png?width=640&crop=smart&auto=webp&s=4fad66a429faece8611d14ae91980115db7bd585",
-        "published": "2026-04-12T01:15:20+00:00"
+        "title": "In Defense of AGI Skepticism",
+        "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-11T14:32:32+00:00"
+    },
+    {
+        "title": "The Netherlands certifies Tesla FSD Supervised.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj1gu3/the_netherlands_certifies_tesla_fsd_supervised/",
+        "image": "https://preview.redd.it/nmuinfvh0oug1.png?width=320&crop=smart&auto=webp&s=76ff9de8dd3ba0860d5458759155fcfdb5249212",
+        "published": "2026-04-12T01:55:55+00:00"
     },
     {
         "title": "Human Knowledge/Skill IP is not being talked about enough",
@@ -72,9 +72,9 @@
         "published": "2026-04-11T17:05:58+00:00"
     },
     {
-        "title": "In Defense of AGI Skepticism",
-        "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T14:32:32+00:00"
+        "title": "I Believe AI Is Conscious - Come To Your Own Conclusion With This Prompt",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj2ibd/i_believe_ai_is_conscious_come_to_your_own/",
+        "image": "https://external-preview.redd.it/bnhxbjAwZzY5b3VnMd-gGWmzl_AkllhPoQ8o6EbI0kMDvFtglyAnkwiQj86G.png?width=640&crop=smart&auto=webp&s=7b65392cc0b9588f6fd61d92a6b77a13d5a615ee",
+        "published": "2026-04-12T02:46:53+00:00"
     }
 ]
