@@ -6,28 +6,10 @@
         "published": "2026-04-11T20:01:17+00:00"
     },
     {
-        "title": "AMD's senior director of AI thinks 'Claude has regressed' and that it 'cannot be trusted to perform complex engineering'",
-        "link": "https://www.reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-11T16:15:21+00:00"
-    },
-    {
         "title": "I made a site that uses Anthropic and OpenAI data to calculate how soon your job will be replaced by AI",
         "link": "https://www.reddit.com/r/singularity/comments/1sj0mcw/i_made_a_site_that_uses_anthropic_and_openai_data/",
         "image": "https://external-preview.redd.it/CzIv1O3NV2C53T1ALzWiPJoscaeFcGefdXJWztaB9ZU.png?width=640&crop=smart&auto=webp&s=4fad66a429faece8611d14ae91980115db7bd585",
         "published": "2026-04-12T01:15:20+00:00"
-    },
-    {
-        "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
-        "link": "https://www.reddit.com/r/singularity/comments/1simfsz/openai_says_not_to_worry_about_ubi_because_it_has/",
-        "image": "https://external-preview.redd.it/ouOMyhf7QHIgcQwqcY55nmLJ2R0xxg9BIiz840_cwIM.jpeg?width=640&crop=smart&auto=webp&s=8fb37393f627960eb2dbca8662a715529dab00f7",
-        "published": "2026-04-11T15:42:39+00:00"
-    },
-    {
-        "title": "Meta started rolling out Contemplating mode for Muse Spark, where 16 agents will work on your prompt to synthesize a consolidated answer!",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj7wbg/meta_started_rolling_out_contemplating_mode_for/",
-        "image": "https://preview.redd.it/984is9hpppug1.jpeg?width=640&crop=smart&auto=webp&s=1e2c275a84a56358702a4ae13ff693ba8fc2a52a",
-        "published": "2026-04-12T07:31:50+00:00"
     },
     {
         "title": "Terence Tao Says That A 'Copernican View Of Intelligence' Fits Better, Just As Earth Is Not The Center Of The Universe, Human Intelligence Is Not The Center Of All Cognition",
@@ -36,16 +18,22 @@
         "published": "2026-04-12T14:32:35+00:00"
     },
     {
-        "title": "The Netherlands certifies Tesla FSD Supervised.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj1gu3/the_netherlands_certifies_tesla_fsd_supervised/",
-        "image": "https://preview.redd.it/nmuinfvh0oug1.png?width=320&crop=smart&auto=webp&s=76ff9de8dd3ba0860d5458759155fcfdb5249212",
-        "published": "2026-04-12T01:55:55+00:00"
-    },
-    {
         "title": "\u2018I hate working 5 days\u2019: Zoom CEO says traditional work schedules are becoming obsolete\u2014and predicts a 3-day workweek by 2031",
         "link": "https://www.reddit.com/r/singularity/comments/1sjh1d7/i_hate_working_5_days_zoom_ceo_says_traditional/",
         "image": "https://external-preview.redd.it/bBpdBZ_fqfPrXZMe3F_oIKML6zJAfyp5NWPLLov1hfo.jpeg?width=640&crop=smart&auto=webp&s=ae5726f01f16b08aa26f33849d73f1db2be3008d",
         "published": "2026-04-12T15:08:31+00:00"
+    },
+    {
+        "title": "Meta started rolling out Contemplating mode for Muse Spark, where 16 agents will work on your prompt to synthesize a consolidated answer!",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj7wbg/meta_started_rolling_out_contemplating_mode_for/",
+        "image": "https://preview.redd.it/984is9hpppug1.jpeg?width=640&crop=smart&auto=webp&s=1e2c275a84a56358702a4ae13ff693ba8fc2a52a",
+        "published": "2026-04-12T07:31:50+00:00"
+    },
+    {
+        "title": "The Netherlands certifies Tesla FSD Supervised.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj1gu3/the_netherlands_certifies_tesla_fsd_supervised/",
+        "image": "https://preview.redd.it/nmuinfvh0oug1.png?width=320&crop=smart&auto=webp&s=76ff9de8dd3ba0860d5458759155fcfdb5249212",
+        "published": "2026-04-12T01:55:55+00:00"
     },
     {
         "title": "If you were certain that even if AI took your job you would still have a secure income somehow, would you still hate it?",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sjgo0t/the_simulation_of_human_lives_might_be_how_the/",
         "image": "https://external-preview.redd.it/58SD1teKFT3fzYJ3AqEjJMOqLMYdI8O5mxVHlG0BtAs.jpeg?width=640&crop=smart&auto=webp&s=4ac8275f4ff3a09e4e8c4e007c9c1e28f07311c9",
         "published": "2026-04-12T14:54:19+00:00"
+    },
+    {
+        "title": "Musings on Recursive Self-Improvement",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjgvke/musings_on_recursive_selfimprovement/",
+        "image": "https://external-preview.redd.it/wTJO5NDPTdclKvd6d2mcP2NwNPEgbZg7bx8QGTBlQwQ.jpeg?width=640&crop=smart&auto=webp&s=c2e8e867497ba3ba04616d17f7a0ef8e59c7af9a",
+        "published": "2026-04-12T15:02:21+00:00"
+    },
+    {
+        "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj6yar/been_building_a_multiagent_framework_in_public/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T06:38:37+00:00"
     }
 ]
