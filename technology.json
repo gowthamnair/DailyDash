@@ -18,12 +18,6 @@
         "published": "2026-04-12T13:14:50+00:00"
     },
     {
-        "title": "Microsoft confirms Windows 11 KB5077212, KB5079420 break PC reset on 25H2 and 24H2 systems",
-        "link": "https://www.reddit.com/r/technology/comments/1siwupm/microsoft_confirms_windows_11_kb5077212_kb5079420/",
-        "image": "https://external-preview.redd.it/rk5U1633X_wW8Dm__DVLlaQ9nA1m3F1PF6qaMhvP6f4.jpeg?width=640&crop=smart&auto=webp&s=3ed1e522b9508f19795b86dfba5cd3b22344ebc6",
-        "published": "2026-04-11T22:25:29+00:00"
-    },
-    {
         "title": "Rockstar Games confirms it was hacked by malicious group \u2014 'ShinyHunters' takes credit, gives until April 14 to pay ransom or it will release confidential data",
         "link": "https://www.reddit.com/r/technology/comments/1sj2v3m/rockstar_games_confirms_it_was_hacked_by/",
         "image": "https://external-preview.redd.it/MwO4ccsldi0IJtUzKINmTrJAG1rRmAYo6yqitISEBhQ.png?width=640&crop=smart&auto=webp&s=7fa9a2595c989d9cb47085817c6bffc4915e9b88",
@@ -42,22 +36,16 @@
         "published": "2026-04-12T15:15:26+00:00"
     },
     {
+        "title": "Oracle's new CFO got $26M in stock after layoffs. Employee says an 'algorithm' targeted workers with stock options first",
+        "link": "https://www.reddit.com/r/technology/comments/1sjqoi7/oracles_new_cfo_got_26m_in_stock_after_layoffs/",
+        "image": "https://external-preview.redd.it/ulvEqS0Xl0YZH2-KVxtQXmBmILP7ArsG-VTc6yNrii0.png?width=640&crop=smart&auto=webp&s=68f8c5fbd1706b639440e06e0ab209676d9c1b24",
+        "published": "2026-04-12T21:08:07+00:00"
+    },
+    {
         "title": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows",
         "link": "https://www.reddit.com/r/technology/comments/1siz6ya/experimental_drug_can_reverse_osteoarthritis_in/",
         "image": "https://external-preview.redd.it/dgLbkiWH-uRmdYJnhMOG2klFS9oZFLlIqVnf313yd_A.jpeg?width=640&crop=smart&auto=webp&s=d085a8b4a6d57f99b9ef3250b7559615ff39e621",
         "published": "2026-04-12T00:07:38+00:00"
-    },
-    {
-        "title": "The shuffle is not random. Spotify's patents show how the recommendation engine works.",
-        "link": "https://www.reddit.com/r/technology/comments/1sjd5tc/the_shuffle_is_not_random_spotifys_patents_show/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-12T12:25:32+00:00"
-    },
-    {
-        "title": "Oxygen made from Moon dust for first time | Jeff Bezos\u2019s Blue Origin says it has developed reactor that can release breathable air from lunar soil",
-        "link": "https://www.reddit.com/r/technology/comments/1sixuwk/oxygen_made_from_moon_dust_for_first_time_jeff/",
-        "image": "https://external-preview.redd.it/jaUhBU_i4K1W7pWuUJ501YG2uwo3oGQ07yi5v8NxZVA.jpeg?width=640&crop=smart&auto=webp&s=d5c530460f9175cfaa1e09a53a094e2bf42797ff",
-        "published": "2026-04-11T23:08:23+00:00"
     },
     {
         "title": "Microsoft starts removing unnecessary Copilot buttons in Windows 11",
@@ -72,12 +60,6 @@
         "published": "2026-04-12T11:26:23+00:00"
     },
     {
-        "title": "Oracle's new CFO got $26M in stock after layoffs. Employee says an 'algorithm' targeted workers with stock options first",
-        "link": "https://www.reddit.com/r/technology/comments/1sjqoi7/oracles_new_cfo_got_26m_in_stock_after_layoffs/",
-        "image": "https://external-preview.redd.it/ulvEqS0Xl0YZH2-KVxtQXmBmILP7ArsG-VTc6yNrii0.png?width=640&crop=smart&auto=webp&s=68f8c5fbd1706b639440e06e0ab209676d9c1b24",
-        "published": "2026-04-12T21:08:07+00:00"
-    },
-    {
         "title": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes \u2014 after months of fierce debate, Torvalds and maintainers come to an agreement",
         "link": "https://www.reddit.com/r/technology/comments/1sjlncs/linux_lays_down_the_law_on_aigenerated_code_says/",
         "image": "https://external-preview.redd.it/wzrUaf_1zk81ad292DtLbl5b1G625jobJ3tbutBSoHI.jpeg?width=640&crop=smart&auto=webp&s=4f8864190ba7b3de89b5d46377560afcdc461e27",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/technology/comments/1sjcijm/cia_reportedly_used_pegasus_software_for/",
         "image": "https://external-preview.redd.it/w9YvwAqCP8_e58TbnETp32jMosSK3DRdmPYAvgidWss.jpeg?width=640&crop=smart&auto=webp&s=5a89a1b437d83badf773bf69e5748e5a05d8c460",
         "published": "2026-04-12T11:54:54+00:00"
+    },
+    {
+        "title": "Mozilla says Microsoft is using Copilot and Edge to tighten its grip on Windows",
+        "link": "https://www.reddit.com/r/technology/comments/1sjeqb8/mozilla_says_microsoft_is_using_copilot_and_edge/",
+        "image": "https://external-preview.redd.it/fDJw4p3KLMaCQPjO2M9tZ-Hl3TpMHRrcyKX7dM1ksMk.jpeg?width=640&crop=smart&auto=webp&s=470beb464fc5e43f6d636492bb1e6447ecca38ac",
+        "published": "2026-04-12T13:35:19+00:00"
+    },
+    {
+        "title": "User anger as Amazon ends support for some older Kindles",
+        "link": "https://www.reddit.com/r/technology/comments/1sjkmqv/user_anger_as_amazon_ends_support_for_some_older/",
+        "image": "https://external-preview.redd.it/F1Kj9DtvAZuxluLt6kqAsyb5zwVxjyA-8d_D_vpaTRg.jpeg?width=640&crop=smart&auto=webp&s=0286146fc323911ca79b4d35e7c1da76ca559552",
+        "published": "2026-04-12T17:23:29+00:00"
+    },
+    {
+        "title": "Former Bethesda exec thinks the studio should get more respect for the complex, open worlds it creates: \"Go try that s**t in Red Dead Redemption 2\" | Despite retiring 3 years ago, Pete Hines remains one of the studio's staunchest defenders.",
+        "link": "https://www.reddit.com/r/technology/comments/1sjosfl/former_bethesda_exec_thinks_the_studio_should_get/",
+        "image": "https://external-preview.redd.it/3MIxVCX4ULyvY2xXrImUNHNvMNDSee5kDCsoh5Iz8js.jpeg?width=640&crop=smart&auto=webp&s=72cbce90452abd853279f444952da95ba02a7a11",
+        "published": "2026-04-12T19:57:19+00:00"
     }
 ]
