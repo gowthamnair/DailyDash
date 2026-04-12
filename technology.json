@@ -36,28 +36,28 @@
         "published": "2026-04-12T00:07:38+00:00"
     },
     {
-        "title": "The shuffle is not random. Spotify's patents show how the recommendation engine works.",
-        "link": "https://www.reddit.com/r/technology/comments/1sjd5tc/the_shuffle_is_not_random_spotifys_patents_show/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-12T12:25:32+00:00"
-    },
-    {
         "title": "\u2018I feel helpless\u2019: college graduates can\u2019t find entry-level roles in shrinking market amid rise of AI",
         "link": "https://www.reddit.com/r/technology/comments/1sjh7wn/i_feel_helpless_college_graduates_cant_find/",
         "image": "https://external-preview.redd.it/oBTgY9tgB5dGo25yCKF26J0iwMDYlrtl8OZhTx09K3k.jpeg?width=640&crop=smart&auto=webp&s=25f52161d56e02cf446785d8be77642fa1a3f2fd",
         "published": "2026-04-12T15:15:26+00:00"
     },
     {
-        "title": "Oxygen made from Moon dust for first time | Jeff Bezos\u2019s Blue Origin says it has developed reactor that can release breathable air from lunar soil",
-        "link": "https://www.reddit.com/r/technology/comments/1sixuwk/oxygen_made_from_moon_dust_for_first_time_jeff/",
-        "image": "https://external-preview.redd.it/jaUhBU_i4K1W7pWuUJ501YG2uwo3oGQ07yi5v8NxZVA.jpeg?width=640&crop=smart&auto=webp&s=d5c530460f9175cfaa1e09a53a094e2bf42797ff",
-        "published": "2026-04-11T23:08:23+00:00"
-    },
-    {
         "title": "Veteran Microsoft engineer says original Task Manager was only 80KB so it could run smoothly on 90s computers \u2014 original utility used a smart technique to determine whether it was the only running instance",
         "link": "https://www.reddit.com/r/technology/comments/1sjle2j/veteran_microsoft_engineer_says_original_task/",
         "image": "https://external-preview.redd.it/YG3WaUfFzJxTri1v5T66OYLwiBqf7yR5cC-8owMHsJc.png?width=640&crop=smart&auto=webp&s=0be509b6cca89fef301f3c0faa4c61eaba8b6eec",
         "published": "2026-04-12T17:51:53+00:00"
+    },
+    {
+        "title": "The shuffle is not random. Spotify's patents show how the recommendation engine works.",
+        "link": "https://www.reddit.com/r/technology/comments/1sjd5tc/the_shuffle_is_not_random_spotifys_patents_show/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T12:25:32+00:00"
+    },
+    {
+        "title": "Oxygen made from Moon dust for first time | Jeff Bezos\u2019s Blue Origin says it has developed reactor that can release breathable air from lunar soil",
+        "link": "https://www.reddit.com/r/technology/comments/1sixuwk/oxygen_made_from_moon_dust_for_first_time_jeff/",
+        "image": "https://external-preview.redd.it/jaUhBU_i4K1W7pWuUJ501YG2uwo3oGQ07yi5v8NxZVA.jpeg?width=640&crop=smart&auto=webp&s=d5c530460f9175cfaa1e09a53a094e2bf42797ff",
+        "published": "2026-04-11T23:08:23+00:00"
     },
     {
         "title": "Microsoft starts removing unnecessary Copilot buttons in Windows 11",
@@ -84,9 +84,9 @@
         "published": "2026-04-12T18:01:23+00:00"
     },
     {
-        "title": "Rockstar Games has confirmed it was hit by third-party data breach",
-        "link": "https://www.reddit.com/r/technology/comments/1siybjd/rockstar_games_has_confirmed_it_was_hit_by/",
-        "image": "https://external-preview.redd.it/-132DRRYFvjvVC_bnO89sjZDRqrj3IYfos5IEEkcHXc.jpeg?width=640&crop=smart&auto=webp&s=4bd6651c3c89baca0cff8891819687e74292133a",
-        "published": "2026-04-11T23:29:02+00:00"
+        "title": "Mozilla says Microsoft is using Copilot and Edge to tighten its grip on Windows",
+        "link": "https://www.reddit.com/r/technology/comments/1sjeqb8/mozilla_says_microsoft_is_using_copilot_and_edge/",
+        "image": "https://external-preview.redd.it/fDJw4p3KLMaCQPjO2M9tZ-Hl3TpMHRrcyKX7dM1ksMk.jpeg?width=640&crop=smart&auto=webp&s=470beb464fc5e43f6d636492bb1e6447ecca38ac",
+        "published": "2026-04-12T13:35:19+00:00"
     }
 ]
