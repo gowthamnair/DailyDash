@@ -12,16 +12,16 @@
         "published": "2026-04-11T15:18:16+00:00"
     },
     {
-        "title": "Microsoft confirms Windows 11 KB5077212, KB5079420 break PC reset on 25H2 and 24H2 systems",
-        "link": "https://www.reddit.com/r/technology/comments/1siwupm/microsoft_confirms_windows_11_kb5077212_kb5079420/",
-        "image": "https://external-preview.redd.it/rk5U1633X_wW8Dm__DVLlaQ9nA1m3F1PF6qaMhvP6f4.jpeg?width=640&crop=smart&auto=webp&s=3ed1e522b9508f19795b86dfba5cd3b22344ebc6",
-        "published": "2026-04-11T22:25:29+00:00"
-    },
-    {
         "title": "Palantir CEO says AI 'will destroy' humanities jobs",
         "link": "https://www.reddit.com/r/technology/comments/1sj4l63/palantir_ceo_says_ai_will_destroy_humanities_jobs/",
         "image": "https://external-preview.redd.it/GdRROjdUwHz5yU_xpcvWGXXLyu336QNsT-x_lRPq88Q.jpeg?width=640&crop=smart&auto=webp&s=09d7b9b5534ff2bb7c7417440836cebad50ec3a3",
         "published": "2026-04-12T04:29:45+00:00"
+    },
+    {
+        "title": "Microsoft confirms Windows 11 KB5077212, KB5079420 break PC reset on 25H2 and 24H2 systems",
+        "link": "https://www.reddit.com/r/technology/comments/1siwupm/microsoft_confirms_windows_11_kb5077212_kb5079420/",
+        "image": "https://external-preview.redd.it/rk5U1633X_wW8Dm__DVLlaQ9nA1m3F1PF6qaMhvP6f4.jpeg?width=640&crop=smart&auto=webp&s=3ed1e522b9508f19795b86dfba5cd3b22344ebc6",
+        "published": "2026-04-11T22:25:29+00:00"
     },
     {
         "title": "Two manufacturers commit to keep Blu-ray alive after others quit manufacturing \u2014 Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market",
@@ -36,6 +36,12 @@
         "published": "2026-04-11T14:03:12+00:00"
     },
     {
+        "title": "Rockstar Games confirms it was hacked by malicious group \u2014 'ShinyHunters' takes credit, gives until April 14 to pay ransom or it will release confidential data",
+        "link": "https://www.reddit.com/r/technology/comments/1sj2v3m/rockstar_games_confirms_it_was_hacked_by/",
+        "image": "https://external-preview.redd.it/MwO4ccsldi0IJtUzKINmTrJAG1rRmAYo6yqitISEBhQ.png?width=640&crop=smart&auto=webp&s=7fa9a2595c989d9cb47085817c6bffc4915e9b88",
+        "published": "2026-04-12T03:03:41+00:00"
+    },
+    {
         "title": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows",
         "link": "https://www.reddit.com/r/technology/comments/1siz6ya/experimental_drug_can_reverse_osteoarthritis_in/",
         "image": "https://external-preview.redd.it/dgLbkiWH-uRmdYJnhMOG2klFS9oZFLlIqVnf313yd_A.jpeg?width=640&crop=smart&auto=webp&s=d085a8b4a6d57f99b9ef3250b7559615ff39e621",
@@ -46,12 +52,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1siicxk/fbi_recovers_deleted_signal_messages_through/",
         "image": "https://external-preview.redd.it/-91uaSmZoSMKkqq-NR-b2qgsBVa-5gQ8rpsv5wUyGIw.jpeg?width=640&crop=smart&auto=webp&s=cb6f29e250fdbb8e709bcf74ac497db240daa7a6",
         "published": "2026-04-11T12:55:46+00:00"
-    },
-    {
-        "title": "Rockstar Games confirms it was hacked by malicious group \u2014 'ShinyHunters' takes credit, gives until April 14 to pay ransom or it will release confidential data",
-        "link": "https://www.reddit.com/r/technology/comments/1sj2v3m/rockstar_games_confirms_it_was_hacked_by/",
-        "image": "https://external-preview.redd.it/MwO4ccsldi0IJtUzKINmTrJAG1rRmAYo6yqitISEBhQ.png?width=640&crop=smart&auto=webp&s=7fa9a2595c989d9cb47085817c6bffc4915e9b88",
-        "published": "2026-04-12T03:03:41+00:00"
     },
     {
         "title": "Oxygen made from Moon dust for first time | Jeff Bezos\u2019s Blue Origin says it has developed reactor that can release breathable air from lunar soil",
@@ -78,15 +78,15 @@
         "published": "2026-04-12T03:57:04+00:00"
     },
     {
+        "title": "Universe expected to decay in 10\u2077\u2078 years, much sooner than previously thought",
+        "link": "https://www.reddit.com/r/technology/comments/1sjaqdl/universe_expected_to_decay_in_10\u2077\u2078_years_much/",
+        "image": "https://external-preview.redd.it/BdShcd_5D3pYonZGLWZ1i-grz2_dRKiMHD-DdiIU-dk.jpeg?width=640&crop=smart&auto=webp&s=2ab4adab9918010320a4e095b571bd3f49e7b613",
+        "published": "2026-04-12T10:17:58+00:00"
+    },
+    {
         "title": "Rockstar Games has confirmed it was hit by third-party data breach",
         "link": "https://www.reddit.com/r/technology/comments/1siybjd/rockstar_games_has_confirmed_it_was_hit_by/",
         "image": "https://external-preview.redd.it/-132DRRYFvjvVC_bnO89sjZDRqrj3IYfos5IEEkcHXc.jpeg?width=640&crop=smart&auto=webp&s=4bd6651c3c89baca0cff8891819687e74292133a",
         "published": "2026-04-11T23:29:02+00:00"
-    },
-    {
-        "title": "The Crown Jewel of Dentistry? Breakthrough Tech Could Transform Tooth Repair",
-        "link": "https://www.reddit.com/r/technology/comments/1sih3cx/the_crown_jewel_of_dentistry_breakthrough_tech/",
-        "image": "https://external-preview.redd.it/CGZg8YFM6hgHhkzkKn7mCZl_Gl4lHHMt7MG1_1uBfBA.jpeg?width=640&crop=smart&auto=webp&s=8c3732e0efd7e210393b590dda79960d6acfb05a",
-        "published": "2026-04-11T11:56:04+00:00"
     }
 ]
