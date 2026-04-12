@@ -6,16 +6,16 @@
         "published": "2026-04-11T16:15:21+00:00"
     },
     {
-        "title": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
-        "link": "https://www.reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
-        "image": "https://external-preview.redd.it/ZG90YnNkdzA2a3VnMaZIpVNCR4h5-OCEuPJvrtzzWdc2ba89r0ShNOOg4Nbh.png?width=640&crop=smart&auto=webp&s=f815f0059c4ec722dc0cbca03facd976134e5327",
-        "published": "2026-04-11T12:53:08+00:00"
-    },
-    {
         "title": "Workers in some Indian factories have started wearing cameras on their heads to record their movements so robots can be trained using the footage.",
         "link": "https://www.reddit.com/r/singularity/comments/1sitb37/workers_in_some_indian_factories_have_started/",
         "image": "https://external-preview.redd.it/NHR2amtscGZhbXVnMTMGJlLUg4z4_hKATr8rz8ifbZymgM1oLW2d7VnWGiox.png?width=320&crop=smart&auto=webp&s=7b85553b4908a2f705cdec0839ff1d89c3d25768",
         "published": "2026-04-11T20:01:17+00:00"
+    },
+    {
+        "title": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
+        "link": "https://www.reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
+        "image": "https://external-preview.redd.it/ZG90YnNkdzA2a3VnMaZIpVNCR4h5-OCEuPJvrtzzWdc2ba89r0ShNOOg4Nbh.png?width=640&crop=smart&auto=webp&s=f815f0059c4ec722dc0cbca03facd976134e5327",
+        "published": "2026-04-11T12:53:08+00:00"
     },
     {
         "title": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
@@ -60,6 +60,12 @@
         "published": "2026-04-12T01:55:55+00:00"
     },
     {
+        "title": "We're Learning Backwards: LLMs build intelligence in reverse",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj859f/were_learning_backwards_llms_build_intelligence/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T07:46:06+00:00"
+    },
+    {
         "title": "In Defense of AGI Skepticism",
         "link": "https://www.reddit.com/r/singularity/comments/1siknng/in_defense_of_agi_skepticism/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -76,12 +82,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1siomtn/human_knowledgeskill_ip_is_not_being_talked_about/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-11T17:05:58+00:00"
-    },
-    {
-        "title": "We're Learning Backwards: LLMs build intelligence in reverse",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj859f/were_learning_backwards_llms_build_intelligence/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-12T07:46:06+00:00"
     },
     {
         "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
