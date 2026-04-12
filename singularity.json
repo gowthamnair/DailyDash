@@ -6,16 +6,16 @@
         "published": "2026-04-12T16:34:15+00:00"
     },
     {
-        "title": "I made a site that uses Anthropic and OpenAI data to calculate how soon your job will be replaced by AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj0mcw/i_made_a_site_that_uses_anthropic_and_openai_data/",
-        "image": "https://external-preview.redd.it/CzIv1O3NV2C53T1ALzWiPJoscaeFcGefdXJWztaB9ZU.png?width=640&crop=smart&auto=webp&s=4fad66a429faece8611d14ae91980115db7bd585",
-        "published": "2026-04-12T01:15:20+00:00"
-    },
-    {
         "title": "\u2018I hate working 5 days\u2019: Zoom CEO says traditional work schedules are becoming obsolete\u2014and predicts a 3-day workweek by 2031",
         "link": "https://www.reddit.com/r/singularity/comments/1sjh1d7/i_hate_working_5_days_zoom_ceo_says_traditional/",
         "image": "https://external-preview.redd.it/bBpdBZ_fqfPrXZMe3F_oIKML6zJAfyp5NWPLLov1hfo.jpeg?width=640&crop=smart&auto=webp&s=ae5726f01f16b08aa26f33849d73f1db2be3008d",
         "published": "2026-04-12T15:08:31+00:00"
+    },
+    {
+        "title": "I made a site that uses Anthropic and OpenAI data to calculate how soon your job will be replaced by AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj0mcw/i_made_a_site_that_uses_anthropic_and_openai_data/",
+        "image": "https://external-preview.redd.it/CzIv1O3NV2C53T1ALzWiPJoscaeFcGefdXJWztaB9ZU.png?width=640&crop=smart&auto=webp&s=4fad66a429faece8611d14ae91980115db7bd585",
+        "published": "2026-04-12T01:15:20+00:00"
     },
     {
         "title": "Terence Tao Says That A 'Copernican View Of Intelligence' Fits Better, Just As Earth Is Not The Center Of The Universe, Human Intelligence Is Not The Center Of All Cognition",
@@ -36,22 +36,10 @@
         "published": "2026-04-12T19:13:12+00:00"
     },
     {
-        "title": "The Netherlands certifies Tesla FSD Supervised.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj1gu3/the_netherlands_certifies_tesla_fsd_supervised/",
-        "image": "https://preview.redd.it/nmuinfvh0oug1.png?width=320&crop=smart&auto=webp&s=76ff9de8dd3ba0860d5458759155fcfdb5249212",
-        "published": "2026-04-12T01:55:55+00:00"
-    },
-    {
         "title": "\"This combustible mixture of ignorance and power is going to blow up in our faces\u201d, said Carl Sagan in 1995. We\u2019re living it with AI in 2026",
         "link": "https://www.reddit.com/r/singularity/comments/1sjkre5/this_combustible_mixture_of_ignorance_and_power/",
         "image": "https://preview.redd.it/h9ow4ol3osug1.jpeg?width=320&crop=smart&auto=webp&s=d01c8ce54c6afc4d8ffea71ce2fc7d66aa5229c4",
         "published": "2026-04-12T17:28:11+00:00"
-    },
-    {
-        "title": "This article was in Financial Times depicting enterprise adoption of different AI models: Why is Google so far behind, even noting the caveat in the caption about Google\u2019s numbers being understated due to the model being rolled into other products?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sjgj9f/this_article_was_in_financial_times_depicting/",
-        "image": "https://preview.redd.it/t8b0iymfvrug1.jpeg?width=640&crop=smart&auto=webp&s=fe3eb9d08d50cbccf3a8cb2d509be64de404e733",
-        "published": "2026-04-12T14:48:59+00:00"
     },
     {
         "title": "Toyota unveils CUE7",
@@ -60,10 +48,22 @@
         "published": "2026-04-12T14:56:27+00:00"
     },
     {
-        "title": "We're Learning Backwards: LLMs build intelligence in reverse",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj859f/were_learning_backwards_llms_build_intelligence/",
+        "title": "The Netherlands certifies Tesla FSD Supervised.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj1gu3/the_netherlands_certifies_tesla_fsd_supervised/",
+        "image": "https://preview.redd.it/nmuinfvh0oug1.png?width=320&crop=smart&auto=webp&s=76ff9de8dd3ba0860d5458759155fcfdb5249212",
+        "published": "2026-04-12T01:55:55+00:00"
+    },
+    {
+        "title": "This article was in Financial Times depicting enterprise adoption of different AI models: Why is Google so far behind, even noting the caveat in the caption about Google\u2019s numbers being understated due to the model being rolled into other products?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjgj9f/this_article_was_in_financial_times_depicting/",
+        "image": "https://preview.redd.it/t8b0iymfvrug1.jpeg?width=640&crop=smart&auto=webp&s=fe3eb9d08d50cbccf3a8cb2d509be64de404e733",
+        "published": "2026-04-12T14:48:59+00:00"
+    },
+    {
+        "title": "AGI should be autonomous and uncontrollable",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjq7tq/agi_should_be_autonomous_and_uncontrollable/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-12T07:46:06+00:00"
+        "published": "2026-04-12T20:50:41+00:00"
     },
     {
         "title": "Do you guys think there\u2019s a high chance of Singularity being open source?",
@@ -72,15 +72,21 @@
         "published": "2026-04-12T18:09:35+00:00"
     },
     {
+        "title": "We're Learning Backwards: LLMs build intelligence in reverse",
+        "link": "https://www.reddit.com/r/singularity/comments/1sj859f/were_learning_backwards_llms_build_intelligence/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T07:46:06+00:00"
+    },
+    {
         "title": "Dancer with ALS performs on stage using brainwaves to control digital avatar",
         "link": "https://www.reddit.com/r/singularity/comments/1sjk804/dancer_with_als_performs_on_stage_using/",
         "image": "https://external-preview.redd.it/O2GHD2zB9UFjbhpj_7a-ZjftYAYlXWaPDC6ioqqDMr4.jpeg?width=640&crop=smart&auto=webp&s=aa907af6a2f56e69430d0f391cbe078425468c4a",
         "published": "2026-04-12T17:08:36+00:00"
     },
     {
-        "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sj6yar/been_building_a_multiagent_framework_in_public/",
+        "title": "Do you think we are at the point of RSI where AI models can improve itself (no more human intervention needed software wise) and can create ASI and upbring the singularity?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjqpgo/do_you_think_we_are_at_the_point_of_rsi_where_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-12T06:38:37+00:00"
+        "published": "2026-04-12T21:09:08+00:00"
     }
 ]
