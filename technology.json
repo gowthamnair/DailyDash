@@ -18,12 +18,6 @@
         "published": "2026-04-13T13:51:07+00:00"
     },
     {
-        "title": "Veteran Microsoft engineer says original Task Manager was only 80KB so it could run smoothly on 90s computers \u2014 original utility used a smart technique to determine whether it was the only running instance",
-        "link": "https://www.reddit.com/r/technology/comments/1sjle2j/veteran_microsoft_engineer_says_original_task/",
-        "image": "https://external-preview.redd.it/YG3WaUfFzJxTri1v5T66OYLwiBqf7yR5cC-8owMHsJc.png?width=640&crop=smart&auto=webp&s=0be509b6cca89fef301f3c0faa4c61eaba8b6eec",
-        "published": "2026-04-12T17:51:53+00:00"
-    },
-    {
         "title": "Microsoft exec suggests AI agents will need to buy software licenses, just like employees",
         "link": "https://www.reddit.com/r/technology/comments/1sjyvfd/microsoft_exec_suggests_ai_agents_will_need_to/",
         "image": "https://external-preview.redd.it/MkEmpxrUehNU1sW9LCCmkRztT_YTCyIfyQSyxcsfxTw.jpeg?width=640&crop=smart&auto=webp&s=9a421e630adf9c2b5df80d5d66de5678346e8f4f",
@@ -42,10 +36,10 @@
         "published": "2026-04-13T01:49:21+00:00"
     },
     {
-        "title": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes \u2014 after months of fierce debate, Torvalds and maintainers come to an agreement",
-        "link": "https://www.reddit.com/r/technology/comments/1sjlncs/linux_lays_down_the_law_on_aigenerated_code_says/",
-        "image": "https://external-preview.redd.it/wzrUaf_1zk81ad292DtLbl5b1G625jobJ3tbutBSoHI.jpeg?width=640&crop=smart&auto=webp&s=4f8864190ba7b3de89b5d46377560afcdc461e27",
-        "published": "2026-04-12T18:01:23+00:00"
+        "title": "France is replacing 2.5 million Windows desktops with Linux",
+        "link": "https://www.reddit.com/r/technology/comments/1skg0ai/france_is_replacing_25_million_windows_desktops/",
+        "image": "https://external-preview.redd.it/Hcn-kSZaJsLn1qyMsCxn9eHGuqwgD3jMr9A0bV1b9G8.jpeg?width=640&crop=smart&auto=webp&s=6e1f2b9c49eb102d92e06eb7e472d2888bd6c590",
+        "published": "2026-04-13T16:29:58+00:00"
     },
     {
         "title": "Polestar Wants Tesla Owners To Jump Ship With A Massive $21,000 Discount",
@@ -66,12 +60,6 @@
         "published": "2026-04-12T19:57:19+00:00"
     },
     {
-        "title": "France is replacing 2.5 million Windows desktops with Linux",
-        "link": "https://www.reddit.com/r/technology/comments/1skg0ai/france_is_replacing_25_million_windows_desktops/",
-        "image": "https://external-preview.redd.it/Hcn-kSZaJsLn1qyMsCxn9eHGuqwgD3jMr9A0bV1b9G8.jpeg?width=640&crop=smart&auto=webp&s=6e1f2b9c49eb102d92e06eb7e472d2888bd6c590",
-        "published": "2026-04-13T16:29:58+00:00"
-    },
-    {
         "title": "'Most People Don't Enjoy Their Jobs Anyway' \u2014 Perplexity AI CEO Says Getting Fired By AI Is Part Of A 'Glorious Future'",
         "link": "https://www.reddit.com/r/technology/comments/1sjzjuk/most_people_dont_enjoy_their_jobs_anyway/",
         "image": "https://external-preview.redd.it/K1h0lCCtdhKbstjZWjAthHHbRDHLELUEYxn-jWPvpJE.jpeg?width=640&crop=smart&auto=webp&s=249bdd6deca418e34b13f0a19627db04bb235eaa",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1sjyfa2/scientists_recover_90_of_lithium_from_old/",
         "image": "https://external-preview.redd.it/G1WqVX907YziqP8wIa2aW-oH2KmEUdwBbYuh1GANgN8.jpeg?width=640&crop=smart&auto=webp&s=3a3b10b69cd1f2a2a0f0af073ed59d0b9f369597",
         "published": "2026-04-13T02:44:35+00:00"
+    },
+    {
+        "title": "Karpathy says developers have \u2018AI Psychosis.\u2019 Everyone else is next.",
+        "link": "https://www.reddit.com/r/technology/comments/1sjyyrx/karpathy_says_developers_have_ai_psychosis/",
+        "image": "https://external-preview.redd.it/Nvq7FiV4rMzdUpOX1N54N698UdoXB2NG-m8myILBU7w.jpeg?width=640&crop=smart&auto=webp&s=24425209eb71cb2c9386c7b41a20708194798f32",
+        "published": "2026-04-13T03:10:01+00:00"
+    },
+    {
+        "title": "Subscription fees for YouTube Premium, Music are increasing",
+        "link": "https://www.reddit.com/r/technology/comments/1sju0od/subscription_fees_for_youtube_premium_music_are/",
+        "image": "https://external-preview.redd.it/1s7l2XTDqbbxI4ZhMXECgfR95fKZPud9rBByoPvyKxM.jpeg?width=640&crop=smart&auto=webp&s=8ddb40e3abee7307041e2d2ae504ae3b7ecce704",
+        "published": "2026-04-12T23:23:41+00:00"
     }
 ]
