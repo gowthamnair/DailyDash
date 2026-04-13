@@ -12,12 +12,6 @@
         "published": "2026-04-13T14:29:53+00:00"
     },
     {
-        "title": "40% unemployment and a 3-day work week: they're the same thing, top economist says",
-        "link": "https://www.reddit.com/r/singularity/comments/1sjnlhr/40_unemployment_and_a_3day_work_week_theyre_the/",
-        "image": "https://external-preview.redd.it/RK2gZdhrgsSsPp135zqgvHeqqGoiifMOMVNcPO_w5o0.jpeg?width=640&crop=smart&auto=webp&s=f7be395a0f80183b45cf755732cec4d94189b3f8",
-        "published": "2026-04-12T19:13:12+00:00"
-    },
-    {
         "title": "Why is nobody talking about these Ilya Sutskever predictions that are now visible in the hindsight",
         "link": "https://www.reddit.com/r/singularity/comments/1skaau5/why_is_nobody_talking_about_these_ilya_sutskever/",
         "image": "https://external-preview.redd.it/NzltcTI0bDNpeXVnMZL5kMsuQ5_FQFXYjK0xX_UOKCjGv9Yh_ukJQwDIi7NY.png?width=640&crop=smart&auto=webp&s=288cc82792e2d4dccbfde4b2d5782992edeb4e54",
@@ -48,28 +42,34 @@
         "published": "2026-04-13T14:03:51+00:00"
     },
     {
-        "title": "Does anyone get amazed by LLM performance on benchmarks but incredibly disappointed by its performance on mundane tasks, specifically those involving data lookup?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sjt12q/does_anyone_get_amazed_by_llm_performance_on/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-12T22:41:28+00:00"
-    },
-    {
         "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial",
         "link": "https://www.reddit.com/r/singularity/comments/1skgqed/revolution_medicines_says_its_potential/",
         "image": "https://external-preview.redd.it/zt2RqIqeLy0Q7ob_Xj6hvx960YI8ZvF40jcMcEHCZNU.jpeg?width=640&crop=smart&auto=webp&s=9a30bfa997939849a64c456ff772cda836ce2fdc",
         "published": "2026-04-13T16:54:39+00:00"
     },
     {
-        "title": "Mitrix Bio successfully completed preliminary Phase 1 safety trials of mitochondria transplantation in a group of two elderly patients. Also launching a small network of clinics offering the experimental intervention under Right to Try frameworks. Efficacy trials in a larger group mid-2026.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sk3li3/mitrix_bio_successfully_completed_preliminary/",
-        "image": "https://external-preview.redd.it/rs38IJ1BgkO-ye3TqpBqo9koeoxFA-c-lxpJYNYs2tc.jpeg?width=640&crop=smart&auto=webp&s=c5e3d224b80f255dfb69516e09736fee2f46eae6",
-        "published": "2026-04-13T07:18:04+00:00"
+        "title": "Does anyone get amazed by LLM performance on benchmarks but incredibly disappointed by its performance on mundane tasks, specifically those involving data lookup?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjt12q/does_anyone_get_amazed_by_llm_performance_on/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T22:41:28+00:00"
     },
     {
         "title": "MIT Tech Review: current state of AI in charts",
         "link": "https://www.reddit.com/r/singularity/comments/1ski084/mit_tech_review_current_state_of_ai_in_charts/",
         "image": "https://preview.redd.it/pfl3skjquzug1.jpg?width=140&height=74&auto=webp&s=33e37d0d016bb2e0de05bfebd0617afe0458a5b0",
         "published": "2026-04-13T17:37:53+00:00"
+    },
+    {
+        "title": "Ai skepticism sounds a lot like internet skepticism from the 90s",
+        "link": "https://www.reddit.com/r/singularity/comments/1skl8r1/ai_skepticism_sounds_a_lot_like_internet/",
+        "image": "https://external-preview.redd.it/8YR1iMRuwoUACMbcr8CEsap7CP_N77CpbRnAM8PTKH4.jpeg?width=320&crop=smart&auto=webp&s=69453d3dd975877adf9478b65734b50d79c4cc7e",
+        "published": "2026-04-13T19:28:45+00:00"
+    },
+    {
+        "title": "Mitrix Bio successfully completed preliminary Phase 1 safety trials of mitochondria transplantation in a group of two elderly patients. Also launching a small network of clinics offering the experimental intervention under Right to Try frameworks. Efficacy trials in a larger group mid-2026.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sk3li3/mitrix_bio_successfully_completed_preliminary/",
+        "image": "https://external-preview.redd.it/rs38IJ1BgkO-ye3TqpBqo9koeoxFA-c-lxpJYNYs2tc.jpeg?width=640&crop=smart&auto=webp&s=c5e3d224b80f255dfb69516e09736fee2f46eae6",
+        "published": "2026-04-13T07:18:04+00:00"
     },
     {
         "title": "we are at the point models can substantially code portions of new models and speed up AI development which may compound into a traditional RSI paradigm?",
