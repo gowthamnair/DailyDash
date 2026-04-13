@@ -1,27 +1,21 @@
 [
     {
-        "title": "What is my purpose? \"You chase pigs.\" Oh my God.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sjjayz/what_is_my_purpose_you_chase_pigs_oh_my_god/",
-        "image": "https://external-preview.redd.it/YWw0eWwzY2hlc3VnMYqd5e5DtlOsHakks_3Xs6SpFgSivsBLeGvYMis21skN.png?width=320&crop=smart&auto=webp&s=912ecb7906cd664a68c4fc3bfb9434f0682336af",
-        "published": "2026-04-12T16:34:15+00:00"
-    },
-    {
         "title": "Sam Altman\u2019s home targeted in second attack",
         "link": "https://www.reddit.com/r/singularity/comments/1sjtebt/sam_altmans_home_targeted_in_second_attack/",
         "image": "https://external-preview.redd.it/fvc1iLF-T1E8Rl89NsPiFm3rTKfIZ-Ke_Oj-9MgGDbM.png?width=640&crop=smart&auto=webp&s=8e3021f2910f136c8edbcb3f2101df4579f86472",
         "published": "2026-04-12T22:57:19+00:00"
     },
     {
-        "title": "\u2018I hate working 5 days\u2019: Zoom CEO says traditional work schedules are becoming obsolete\u2014and predicts a 3-day workweek by 2031",
-        "link": "https://www.reddit.com/r/singularity/comments/1sjh1d7/i_hate_working_5_days_zoom_ceo_says_traditional/",
-        "image": "https://external-preview.redd.it/bBpdBZ_fqfPrXZMe3F_oIKML6zJAfyp5NWPLLov1hfo.jpeg?width=640&crop=smart&auto=webp&s=ae5726f01f16b08aa26f33849d73f1db2be3008d",
-        "published": "2026-04-12T15:08:31+00:00"
-    },
-    {
         "title": "40% unemployment and a 3-day work week: they're the same thing, top economist says",
         "link": "https://www.reddit.com/r/singularity/comments/1sjnlhr/40_unemployment_and_a_3day_work_week_theyre_the/",
         "image": "https://external-preview.redd.it/RK2gZdhrgsSsPp135zqgvHeqqGoiifMOMVNcPO_w5o0.jpeg?width=640&crop=smart&auto=webp&s=f7be395a0f80183b45cf755732cec4d94189b3f8",
         "published": "2026-04-12T19:13:12+00:00"
+    },
+    {
+        "title": "New robotic hand by Chinese tech company",
+        "link": "https://www.reddit.com/r/singularity/comments/1skcikl/new_robotic_hand_by_chinese_tech_company/",
+        "image": "https://external-preview.redd.it/bjA2ZDlyNjd4eXVnMRxal5vJHDrzkoc1dSeaZ51UnXaTwr7leSlPXo2eis41.png?width=640&crop=smart&auto=webp&s=fd0b302526d137f78464263ef51873f60d2153bd",
+        "published": "2026-04-13T14:29:53+00:00"
     },
     {
         "title": "Why is nobody talking about these Ilya Sutskever predictions that are now visible in the hindsight",
@@ -42,6 +36,12 @@
         "published": "2026-04-12T17:28:11+00:00"
     },
     {
+        "title": "AI Security Institute Findings on Claude Mythos Preview",
+        "link": "https://www.reddit.com/r/singularity/comments/1skc04d/ai_security_institute_findings_on_claude_mythos/",
+        "image": "https://preview.redd.it/xrjbs8nptyug1.png?width=640&crop=smart&auto=webp&s=63ee58f80896b3a6ea06a5fa7a25e8e36f33384a",
+        "published": "2026-04-13T14:11:22+00:00"
+    },
+    {
         "title": "AGI should be autonomous and uncontrollable",
         "link": "https://www.reddit.com/r/singularity/comments/1sjq7tq/agi_should_be_autonomous_and_uncontrollable/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -60,16 +60,10 @@
         "published": "2026-04-12T18:09:35+00:00"
     },
     {
-        "title": "AI Security Institute Findings on Claude Mythos Preview",
-        "link": "https://www.reddit.com/r/singularity/comments/1skc04d/ai_security_institute_findings_on_claude_mythos/",
-        "image": "https://preview.redd.it/xrjbs8nptyug1.png?width=640&crop=smart&auto=webp&s=63ee58f80896b3a6ea06a5fa7a25e8e36f33384a",
-        "published": "2026-04-13T14:11:22+00:00"
-    },
-    {
-        "title": "New robotic hand by Chinese tech company",
-        "link": "https://www.reddit.com/r/singularity/comments/1skcikl/new_robotic_hand_by_chinese_tech_company/",
-        "image": "https://external-preview.redd.it/bjA2ZDlyNjd4eXVnMRxal5vJHDrzkoc1dSeaZ51UnXaTwr7leSlPXo2eis41.png?width=640&crop=smart&auto=webp&s=fd0b302526d137f78464263ef51873f60d2153bd",
-        "published": "2026-04-13T14:29:53+00:00"
+        "title": "More than 70 robot teams are gearing up for China's 100-humanoid robot half-marathon on April 19; this second year, nearly half of them will use autonomous navigation.",
+        "link": "https://www.reddit.com/r/singularity/comments/1skbsk1/more_than_70_robot_teams_are_gearing_up_for/",
+        "image": "https://external-preview.redd.it/azMwdzQxZGlzeXVnMTs6LQCz2G4lgm9_DuUiTGaQ_05pkI1RQHC_N45-lG-2.png?width=320&crop=smart&auto=webp&s=004cc3a88805372a260f2117f577dc63edb66a2a",
+        "published": "2026-04-13T14:03:51+00:00"
     },
     {
         "title": "Mitrix Bio successfully completed preliminary Phase 1 safety trials of mitochondria transplantation in a group of two elderly patients. Also launching a small network of clinics offering the experimental intervention under Right to Try frameworks. Efficacy trials in a larger group mid-2026.",
@@ -84,9 +78,15 @@
         "published": "2026-04-12T17:08:36+00:00"
     },
     {
-        "title": "More than 70 robot teams are gearing up for China's 100-humanoid robot half-marathon on April 19; this second year, nearly half of them will use autonomous navigation.",
-        "link": "https://www.reddit.com/r/singularity/comments/1skbsk1/more_than_70_robot_teams_are_gearing_up_for/",
-        "image": "https://external-preview.redd.it/azMwdzQxZGlzeXVnMTs6LQCz2G4lgm9_DuUiTGaQ_05pkI1RQHC_N45-lG-2.png?width=320&crop=smart&auto=webp&s=004cc3a88805372a260f2117f577dc63edb66a2a",
-        "published": "2026-04-13T14:03:51+00:00"
+        "title": "Do you think we are at the point of RSI where AI models can improve itself (no more human intervention needed software wise) and can create ASI and upbring the singularity?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjqpgo/do_you_think_we_are_at_the_point_of_rsi_where_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T21:09:08+00:00"
+    },
+    {
+        "title": "we are at the point models can substantially code portions of new models and speed up AI development which may compound into a traditional RSI paradigm?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sjt7as/we_are_at_the_point_models_can_substantially_code/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-12T22:48:56+00:00"
     }
 ]
