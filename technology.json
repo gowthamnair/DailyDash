@@ -1,11 +1,5 @@
 [
     {
-        "title": "Palantir CEO says AI 'will destroy' humanities jobs",
-        "link": "https://www.reddit.com/r/technology/comments/1sj4l63/palantir_ceo_says_ai_will_destroy_humanities_jobs/",
-        "image": "https://external-preview.redd.it/GdRROjdUwHz5yU_xpcvWGXXLyu336QNsT-x_lRPq88Q.jpeg?width=640&crop=smart&auto=webp&s=09d7b9b5534ff2bb7c7417440836cebad50ec3a3",
-        "published": "2026-04-12T04:29:45+00:00"
-    },
-    {
         "title": "Hacker Uses Claude and ChatGPT to Breach Multiple Government Agencies",
         "link": "https://www.reddit.com/r/technology/comments/1sjja5u/hacker_uses_claude_and_chatgpt_to_breach_multiple/",
         "image": "https://external-preview.redd.it/V3nQ7BIik9CozZ-4iFgsUrOBSTmzJxdA0iMCRH2Dr1E.jpeg?width=640&crop=smart&auto=webp&s=e76923878731dccb6adf7f871ec7244d6eb968e5",
@@ -18,16 +12,16 @@
         "published": "2026-04-12T21:08:07+00:00"
     },
     {
+        "title": "Sam Altman\u2019s home targeted in second attack",
+        "link": "https://www.reddit.com/r/technology/comments/1sjtlic/sam_altmans_home_targeted_in_second_attack/",
+        "image": "https://external-preview.redd.it/fvc1iLF-T1E8Rl89NsPiFm3rTKfIZ-Ke_Oj-9MgGDbM.png?width=640&crop=smart&auto=webp&s=8e3021f2910f136c8edbcb3f2101df4579f86472",
+        "published": "2026-04-12T23:05:45+00:00"
+    },
+    {
         "title": "Politico survey finds 84% of EU people distrust US tech companies to handle their personal data responsibly, rising to 93% distrust for Chinese tech firms",
         "link": "https://www.reddit.com/r/technology/comments/1sje945/politico_survey_finds_84_of_eu_people_distrust_us/",
         "image": "https://external-preview.redd.it/oW0pCrOEI5gYJBgb0qywmrHkBGCd0-xRHCZO3v1XwT8.jpeg?width=640&crop=smart&auto=webp&s=cc3c1acaa3ca78b14fc3f21a0575d05f5522535a",
         "published": "2026-04-12T13:14:50+00:00"
-    },
-    {
-        "title": "Rockstar Games confirms it was hacked by malicious group \u2014 'ShinyHunters' takes credit, gives until April 14 to pay ransom or it will release confidential data",
-        "link": "https://www.reddit.com/r/technology/comments/1sj2v3m/rockstar_games_confirms_it_was_hacked_by/",
-        "image": "https://external-preview.redd.it/MwO4ccsldi0IJtUzKINmTrJAG1rRmAYo6yqitISEBhQ.png?width=640&crop=smart&auto=webp&s=7fa9a2595c989d9cb47085817c6bffc4915e9b88",
-        "published": "2026-04-12T03:03:41+00:00"
     },
     {
         "title": "Veteran Microsoft engineer says original Task Manager was only 80KB so it could run smoothly on 90s computers \u2014 original utility used a smart technique to determine whether it was the only running instance",
@@ -36,22 +30,10 @@
         "published": "2026-04-12T17:51:53+00:00"
     },
     {
-        "title": "Sam Altman\u2019s home targeted in second attack",
-        "link": "https://www.reddit.com/r/technology/comments/1sjtlic/sam_altmans_home_targeted_in_second_attack/",
-        "image": "https://external-preview.redd.it/fvc1iLF-T1E8Rl89NsPiFm3rTKfIZ-Ke_Oj-9MgGDbM.png?width=640&crop=smart&auto=webp&s=8e3021f2910f136c8edbcb3f2101df4579f86472",
-        "published": "2026-04-12T23:05:45+00:00"
-    },
-    {
         "title": "\u2018I feel helpless\u2019: college graduates can\u2019t find entry-level roles in shrinking market amid rise of AI",
         "link": "https://www.reddit.com/r/technology/comments/1sjh7wn/i_feel_helpless_college_graduates_cant_find/",
         "image": "https://external-preview.redd.it/oBTgY9tgB5dGo25yCKF26J0iwMDYlrtl8OZhTx09K3k.jpeg?width=640&crop=smart&auto=webp&s=25f52161d56e02cf446785d8be77642fa1a3f2fd",
         "published": "2026-04-12T15:15:26+00:00"
-    },
-    {
-        "title": "Microsoft starts removing unnecessary Copilot buttons in Windows 11",
-        "link": "https://www.reddit.com/r/technology/comments/1sj3xwp/microsoft_starts_removing_unnecessary_copilot/",
-        "image": "https://external-preview.redd.it/8x-9aKnqB47LnguZ-hGmmpXqbROJUuTB3YEj-zftPyc.jpeg?width=640&crop=smart&auto=webp&s=bdb98a1a4b53e33146d5171b2238471779055a96",
-        "published": "2026-04-12T03:57:04+00:00"
     },
     {
         "title": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes \u2014 after months of fierce debate, Torvalds and maintainers come to an agreement",
@@ -66,6 +48,12 @@
         "published": "2026-04-12T11:26:23+00:00"
     },
     {
+        "title": "Iran's forced nationwide internet blackout becomes second-longest on record as it passes 1,000 hours offline \u2014 possessing Starlink terminals punishable by death, country using 'military-grade jamming' against service",
+        "link": "https://www.reddit.com/r/technology/comments/1sjw2ys/irans_forced_nationwide_internet_blackout_becomes/",
+        "image": "https://external-preview.redd.it/bIEYsvIeS96jK_WbncADKEuN18qNxj7-DlQCnAzMmqY.png?width=640&crop=smart&auto=webp&s=0582a8375c6e1840d7540fdea95dd72963f30d3a",
+        "published": "2026-04-13T00:56:16+00:00"
+    },
+    {
         "title": "CIA reportedly used Pegasus software for deception op during rescue of airman in Iran",
         "link": "https://www.reddit.com/r/technology/comments/1sjcijm/cia_reportedly_used_pegasus_software_for/",
         "image": "https://external-preview.redd.it/w9YvwAqCP8_e58TbnETp32jMosSK3DRdmPYAvgidWss.jpeg?width=640&crop=smart&auto=webp&s=5a89a1b437d83badf773bf69e5748e5a05d8c460",
@@ -78,6 +66,12 @@
         "published": "2026-04-12T19:57:19+00:00"
     },
     {
+        "title": "Microsoft exec suggests AI agents will need to buy software licenses, just like employees",
+        "link": "https://www.reddit.com/r/technology/comments/1sjyvfd/microsoft_exec_suggests_ai_agents_will_need_to/",
+        "image": "https://external-preview.redd.it/MkEmpxrUehNU1sW9LCCmkRztT_YTCyIfyQSyxcsfxTw.jpeg?width=640&crop=smart&auto=webp&s=9a421e630adf9c2b5df80d5d66de5678346e8f4f",
+        "published": "2026-04-13T03:05:28+00:00"
+    },
+    {
         "title": "User anger as Amazon ends support for some older Kindles",
         "link": "https://www.reddit.com/r/technology/comments/1sjkmqv/user_anger_as_amazon_ends_support_for_some_older/",
         "image": "https://external-preview.redd.it/F1Kj9DtvAZuxluLt6kqAsyb5zwVxjyA-8d_D_vpaTRg.jpeg?width=640&crop=smart&auto=webp&s=0286146fc323911ca79b4d35e7c1da76ca559552",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1sjeqb8/mozilla_says_microsoft_is_using_copilot_and_edge/",
         "image": "https://external-preview.redd.it/fDJw4p3KLMaCQPjO2M9tZ-Hl3TpMHRrcyKX7dM1ksMk.jpeg?width=640&crop=smart&auto=webp&s=470beb464fc5e43f6d636492bb1e6447ecca38ac",
         "published": "2026-04-12T13:35:19+00:00"
+    },
+    {
+        "title": "Google is now letting you change your Gmail address",
+        "link": "https://www.reddit.com/r/technology/comments/1sjifnw/google_is_now_letting_you_change_your_gmail/",
+        "image": "https://external-preview.redd.it/FdCYqaUkUufkZZCVV7GLSsaKYYDMuR1aK5_OyxRzRUo.jpeg?width=640&crop=smart&auto=webp&s=7ab24e75df57a4295776eb6b156243e25c57f7aa",
+        "published": "2026-04-12T16:01:51+00:00"
     }
 ]
