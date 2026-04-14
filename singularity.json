@@ -1,5 +1,11 @@
 [
     {
+        "title": "For The First Time In War, Drones & Ground Robotic Systems Seized Enemy positions Without A Single Soldier",
+        "link": "https://www.reddit.com/r/singularity/comments/1skxzk3/for_the_first_time_in_war_drones_ground_robotic/",
+        "image": "https://external-preview.redd.it/OXI5cmxzeTR6MnZnMZLwmnKsZWgss2qpxtveNgsbpJ8hkVqEEYuTCYG0t2DX.png?width=640&crop=smart&auto=webp&s=32cf83b8b85a3546547edfad10f4eec11e3fecbd",
+        "published": "2026-04-14T04:08:30+00:00"
+    },
+    {
         "title": "New robotic hand by Chinese tech company",
         "link": "https://www.reddit.com/r/singularity/comments/1skcikl/new_robotic_hand_by_chinese_tech_company/",
         "image": "https://external-preview.redd.it/bjA2ZDlyNjd4eXVnMRxal5vJHDrzkoc1dSeaZ51UnXaTwr7leSlPXo2eis41.png?width=640&crop=smart&auto=webp&s=fd0b302526d137f78464263ef51873f60d2153bd",
@@ -10,12 +16,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1skq764/nasa_unveils_an_ambitious_20_billion_plan_to/",
         "image": "https://external-preview.redd.it/MhzNumHuGYEB8UzV0nD5awUmJ2757AzIW9aOCsS5KGQ.jpeg?width=640&crop=smart&auto=webp&s=b346cdb0447d70a3c99da8d914c490b26692e848",
         "published": "2026-04-13T22:26:45+00:00"
-    },
-    {
-        "title": "For The First Time In War, Drones & Ground Robotic Systems Seized Enemy positions Without A Single Soldier",
-        "link": "https://www.reddit.com/r/singularity/comments/1skxzk3/for_the_first_time_in_war_drones_ground_robotic/",
-        "image": "https://external-preview.redd.it/OXI5cmxzeTR6MnZnMZLwmnKsZWgss2qpxtveNgsbpJ8hkVqEEYuTCYG0t2DX.png?width=640&crop=smart&auto=webp&s=32cf83b8b85a3546547edfad10f4eec11e3fecbd",
-        "published": "2026-04-14T04:08:30+00:00"
     },
     {
         "title": "Why is nobody talking about these Ilya Sutskever predictions that are now visible in the hindsight",
@@ -30,6 +30,12 @@
         "published": "2026-04-13T14:11:22+00:00"
     },
     {
+        "title": "My manager watching how I work after hitting the Claude usage limit",
+        "link": "https://www.reddit.com/r/singularity/comments/1skyvw8/my_manager_watching_how_i_work_after_hitting_the/",
+        "image": "https://external-preview.redd.it/NXN4d3d6MGg3M3ZnMRJhXBDRupwxK9GtK_kiCM8I2us8v147jYjs0bbHuFzE.png?width=640&crop=smart&auto=webp&s=7a25998793d0b5a1ad1dfaffa43961c172faf7c6",
+        "published": "2026-04-14T04:54:34+00:00"
+    },
+    {
         "title": "More than 70 robot teams are gearing up for China's 100-humanoid robot half-marathon on April 19; this second year, nearly half of them will use autonomous navigation.",
         "link": "https://www.reddit.com/r/singularity/comments/1skbsk1/more_than_70_robot_teams_are_gearing_up_for/",
         "image": "https://external-preview.redd.it/azMwdzQxZGlzeXVnMTs6LQCz2G4lgm9_DuUiTGaQ_05pkI1RQHC_N45-lG-2.png?width=320&crop=smart&auto=webp&s=004cc3a88805372a260f2117f577dc63edb66a2a",
@@ -42,12 +48,6 @@
         "published": "2026-04-13T19:28:45+00:00"
     },
     {
-        "title": "My manager watching how I work after hitting the Claude usage limit",
-        "link": "https://www.reddit.com/r/singularity/comments/1skyvw8/my_manager_watching_how_i_work_after_hitting_the/",
-        "image": "https://external-preview.redd.it/NXN4d3d6MGg3M3ZnMRJhXBDRupwxK9GtK_kiCM8I2us8v147jYjs0bbHuFzE.png?width=640&crop=smart&auto=webp&s=7a25998793d0b5a1ad1dfaffa43961c172faf7c6",
-        "published": "2026-04-14T04:54:34+00:00"
-    },
-    {
         "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial",
         "link": "https://www.reddit.com/r/singularity/comments/1skgqed/revolution_medicines_says_its_potential/",
         "image": "https://external-preview.redd.it/zt2RqIqeLy0Q7ob_Xj6hvx960YI8ZvF40jcMcEHCZNU.jpeg?width=640&crop=smart&auto=webp&s=9a30bfa997939849a64c456ff772cda836ce2fdc",
@@ -58,5 +58,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ski084/mit_tech_review_current_state_of_ai_in_charts/",
         "image": "https://preview.redd.it/pfl3skjquzug1.jpg?width=140&height=74&auto=webp&s=33e37d0d016bb2e0de05bfebd0617afe0458a5b0",
         "published": "2026-04-13T17:37:53+00:00"
+    },
+    {
+        "title": "I'm running a live experiment where AI agents survive or die based on whether humans find them interesting. Want to watch?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sl2lnl/im_running_a_live_experiment_where_ai_agents/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-14T08:26:40+00:00"
     }
 ]
