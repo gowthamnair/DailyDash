@@ -6,12 +6,6 @@
         "published": "2026-04-14T04:08:30+00:00"
     },
     {
-        "title": "NASA unveils an ambitious $20 billion plan to build a lunar base near the Moon's south pole... and that budget is equivalent to 11 days of war in Iran.",
-        "link": "https://www.reddit.com/r/singularity/comments/1skq764/nasa_unveils_an_ambitious_20_billion_plan_to/",
-        "image": "https://external-preview.redd.it/MhzNumHuGYEB8UzV0nD5awUmJ2757AzIW9aOCsS5KGQ.jpeg?width=640&crop=smart&auto=webp&s=b346cdb0447d70a3c99da8d914c490b26692e848",
-        "published": "2026-04-13T22:26:45+00:00"
-    },
-    {
         "title": "My manager watching how I work after hitting the Claude usage limit",
         "link": "https://www.reddit.com/r/singularity/comments/1skyvw8/my_manager_watching_how_i_work_after_hitting_the/",
         "image": "https://external-preview.redd.it/NXN4d3d6MGg3M3ZnMRJhXBDRupwxK9GtK_kiCM8I2us8v147jYjs0bbHuFzE.png?width=640&crop=smart&auto=webp&s=7a25998793d0b5a1ad1dfaffa43961c172faf7c6",
@@ -54,10 +48,10 @@
         "published": "2026-04-14T17:28:05+00:00"
     },
     {
-        "title": "The To Do List with Spot | Boston Dynamics",
-        "link": "https://www.reddit.com/r/singularity/comments/1slcuzj/the_to_do_list_with_spot_boston_dynamics/",
-        "image": "https://external-preview.redd.it/ecZosiST5wvLxoCcair0wP8wKjTNFSIzZnETD1j6D9A.jpeg?width=320&crop=smart&auto=webp&s=24d38912c7724620a5bbca07e7bec0b29f37d5aa",
-        "published": "2026-04-14T15:58:55+00:00"
+        "title": "Anthropic's Autonomous AI Agents Outperform Human Researchers on Weak-to-Strong Supervision",
+        "link": "https://www.reddit.com/r/singularity/comments/1sll400/anthropics_autonomous_ai_agents_outperform_human/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-14T20:49:02+00:00"
     },
     {
         "title": "The UK AI Security Institute tested Claude Mythos on a realistic attack simulation",
@@ -66,16 +60,10 @@
         "published": "2026-04-14T14:37:52+00:00"
     },
     {
-        "title": "Anthropic's Autonomous AI Agents Outperform Human Researchers on Weak-to-Strong Supervision",
-        "link": "https://www.reddit.com/r/singularity/comments/1sll400/anthropics_autonomous_ai_agents_outperform_human/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-14T20:49:02+00:00"
-    },
-    {
-        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1slk27p/openai_releases_cyber_model_to_limited_group_in/",
-        "image": "https://external-preview.redd.it/oRPvkn3raXwURO1NXJVi2R3eFqBYeZ99U7ZtXir6vWI.jpeg?width=640&crop=smart&auto=webp&s=f623cbc54aa2c8ad8940e2756a44c2d7bcff7a71",
-        "published": "2026-04-14T20:10:51+00:00"
+        "title": "The To Do List with Spot | Boston Dynamics",
+        "link": "https://www.reddit.com/r/singularity/comments/1slcuzj/the_to_do_list_with_spot_boston_dynamics/",
+        "image": "https://external-preview.redd.it/ecZosiST5wvLxoCcair0wP8wKjTNFSIzZnETD1j6D9A.jpeg?width=320&crop=smart&auto=webp&s=24d38912c7724620a5bbca07e7bec0b29f37d5aa",
+        "published": "2026-04-14T15:58:55+00:00"
     },
     {
         "title": "On his alleged site, Moreno-Gama predicted that AI would cause human extinction. When arrested, was carrying a \u201cmanifesto\u201d that detailed his anti-AI beliefs and listed the names of other AI executives.",
@@ -84,9 +72,21 @@
         "published": "2026-04-14T20:43:46+00:00"
     },
     {
+        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1slk27p/openai_releases_cyber_model_to_limited_group_in/",
+        "image": "https://external-preview.redd.it/oRPvkn3raXwURO1NXJVi2R3eFqBYeZ99U7ZtXir6vWI.jpeg?width=640&crop=smart&auto=webp&s=f623cbc54aa2c8ad8940e2756a44c2d7bcff7a71",
+        "published": "2026-04-14T20:10:51+00:00"
+    },
+    {
         "title": "What point will we have AI easily accessible to the average person to the level of personal assistants that really rich people have today or even better?",
         "link": "https://www.reddit.com/r/singularity/comments/1sl78fu/what_point_will_we_have_ai_easily_accessible_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-14T12:27:19+00:00"
+    },
+    {
+        "title": "The models aren't that great yet but we already struggle with cost, limits and compute.",
+        "link": "https://www.reddit.com/r/singularity/comments/1slkg91/the_models_arent_that_great_yet_but_we_already/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-14T20:24:41+00:00"
     }
 ]
