@@ -12,12 +12,6 @@
         "published": "2026-04-15T06:28:31+00:00"
     },
     {
-        "title": "The Human Baseline for ARC-AGI-3 has been updated",
-        "link": "https://www.reddit.com/r/singularity/comments/1slnt5e/the_human_baseline_for_arcagi3_has_been_updated/",
-        "image": "https://preview.redd.it/lk8rxv24g8vg1.png?width=640&crop=smart&auto=webp&s=c8c102c0b9d575e5a44a1c5113205109ef693f0a",
-        "published": "2026-04-14T22:31:54+00:00"
-    },
-    {
         "title": "GPT-IMAGE-2 is back on LMarena",
         "link": "https://www.reddit.com/r/singularity/comments/1slqwpy/gptimage2_is_back_on_lmarena/",
         "image": "https://preview.redd.it/j58pryzo29vg1.png?width=140&height=78&auto=webp&s=709e4dd1e27f6e3cfe6a3933ae7c24707c5acdaa",
@@ -60,22 +54,16 @@
         "published": "2026-04-15T10:05:40+00:00"
     },
     {
-        "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1slz21l/gemini_robotics_er16_enhances_reasoning_to_help/",
-        "image": "https://external-preview.redd.it/S4glgdjqGmxxUq0hScAk-PKI1wsK0LzyW6VgXoLUJq8.png?width=640&crop=smart&auto=webp&s=5626580cdaa9def285c1ed2bb91123c844252543",
-        "published": "2026-04-15T07:29:37+00:00"
-    },
-    {
         "title": "Artificial neurons are getting closer to speaking the brain\u2019s language",
         "link": "https://www.reddit.com/r/singularity/comments/1sm4xxv/artificial_neurons_are_getting_closer_to_speaking/",
         "image": "https://preview.redd.it/d7zbh3i7kcvg1.jpeg?width=640&crop=smart&auto=webp&s=f977632af6a435c77ff6604cd164f454aa1741d5",
         "published": "2026-04-15T12:40:54+00:00"
     },
     {
-        "title": "Bionic Humanoid Robot: Origin F1 \u2014 Has the Uncanny Valley been crossed?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sltalj/bionic_humanoid_robot_origin_f1_has_the_uncanny/",
-        "image": "https://external-preview.redd.it/6wF_Elke-KJT0NrMjUiSBpuy4yr0Wfb5F9OxPa5UGT4.jpeg?width=320&crop=smart&auto=webp&s=6f6d147ae7d624c8b2ba82f4ea517d3eff53027f",
-        "published": "2026-04-15T02:30:50+00:00"
+        "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1slz21l/gemini_robotics_er16_enhances_reasoning_to_help/",
+        "image": "https://external-preview.redd.it/S4glgdjqGmxxUq0hScAk-PKI1wsK0LzyW6VgXoLUJq8.png?width=640&crop=smart&auto=webp&s=5626580cdaa9def285c1ed2bb91123c844252543",
+        "published": "2026-04-15T07:29:37+00:00"
     },
     {
         "title": "Google Launches Gemini 3.1 Flash TTS Text-to-Speech Model",
@@ -84,9 +72,21 @@
         "published": "2026-04-15T16:41:28+00:00"
     },
     {
+        "title": "Bionic Humanoid Robot: Origin F1 \u2014 Has the Uncanny Valley been crossed?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sltalj/bionic_humanoid_robot_origin_f1_has_the_uncanny/",
+        "image": "https://external-preview.redd.it/6wF_Elke-KJT0NrMjUiSBpuy4yr0Wfb5F9OxPa5UGT4.jpeg?width=320&crop=smart&auto=webp&s=6f6d147ae7d624c8b2ba82f4ea517d3eff53027f",
+        "published": "2026-04-15T02:30:50+00:00"
+    },
+    {
         "title": "Jensen Huang \u2013 TPU competition, why we should sell chips to China, & Nvidia\u2019s supply chain moat",
         "link": "https://www.reddit.com/r/singularity/comments/1smfl21/jensen_huang_tpu_competition_why_we_should_sell/",
         "image": "https://external-preview.redd.it/PJqJmblxT_bSLC0wX9ubQoohDKnvdVwHy4bj26auytA.jpeg?width=320&crop=smart&auto=webp&s=0f5d371852ec5f1153c6c61355d0a9acd4d03c5d",
         "published": "2026-04-15T19:05:14+00:00"
+    },
+    {
+        "title": "Guys we have to change the pelican test",
+        "link": "https://www.reddit.com/r/singularity/comments/1slz4hh/guys_we_have_to_change_the_pelican_test/",
+        "image": "https://preview.redd.it/leye1l1cvavg1.png?width=140&height=80&auto=webp&s=f16d6d54a2c7af93915a7fcbc2cd00c21af12193",
+        "published": "2026-04-15T07:33:45+00:00"
     }
 ]
