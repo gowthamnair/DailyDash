@@ -24,10 +24,10 @@
         "published": "2026-04-15T00:43:33+00:00"
     },
     {
-        "title": "Nvidia says AI cuts 10-month, 8-engineer GPU design task to overnight job - company is still 'a long way' from AI designing chips without human input",
-        "link": "https://www.reddit.com/r/singularity/comments/1sl5r0x/nvidia_says_ai_cuts_10month_8engineer_gpu_design/",
-        "image": "https://external-preview.redd.it/M0Sl3x8W2TfWbk5cKTXNDh5Z7_eNCkW90S9AiwQpxQ0.jpeg?width=640&crop=smart&auto=webp&s=000124391d6479d039c924750a0ec7a8a7bca758",
-        "published": "2026-04-14T11:20:04+00:00"
+        "title": "Anthropic has come out against a proposed Illinois law backed by OpenAI that would shield AI labs from liability if their systems are used to cause large-scale harm, like mass casualties or more than $1 billion in property damage.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sly077/anthropic_has_come_out_against_a_proposed/",
+        "image": "https://external-preview.redd.it/WYV0OaWTQGKjqqxpMmGXEMyJ9r9ONydMNDMR7Je7Tww.jpeg?width=640&crop=smart&auto=webp&s=3398b55511049aee13ebffe9bbfbf3dab51228eb",
+        "published": "2026-04-15T06:28:31+00:00"
     },
     {
         "title": "NVIDIA introduces Ising, the world\u2019s first open AI models to accelerate the path to useful quantum computers.",
@@ -40,12 +40,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sll400/anthropics_autonomous_ai_agents_outperform_human/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-14T20:49:02+00:00"
-    },
-    {
-        "title": "Anthropic has come out against a proposed Illinois law backed by OpenAI that would shield AI labs from liability if their systems are used to cause large-scale harm, like mass casualties or more than $1 billion in property damage.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sly077/anthropic_has_come_out_against_a_proposed/",
-        "image": "https://external-preview.redd.it/WYV0OaWTQGKjqqxpMmGXEMyJ9r9ONydMNDMR7Je7Tww.jpeg?width=640&crop=smart&auto=webp&s=3398b55511049aee13ebffe9bbfbf3dab51228eb",
-        "published": "2026-04-15T06:28:31+00:00"
     },
     {
         "title": "Who is Elephant-Alpha??? Why has it suddenly become so popular?",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1slal4u/the_uk_ai_security_institute_tested_claude_mythos/",
         "image": "https://preview.redd.it/5xzsjzrgt5vg1.jpg?width=140&height=87&auto=webp&s=8dc4603da5ca85fe44524d16e8cbf28200711e35",
         "published": "2026-04-14T14:37:52+00:00"
+    },
+    {
+        "title": "Bionic Humanoid Robot: Origin F1 \u2014 Has the Uncanny Valley been crossed?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sltalj/bionic_humanoid_robot_origin_f1_has_the_uncanny/",
+        "image": "https://external-preview.redd.it/6wF_Elke-KJT0NrMjUiSBpuy4yr0Wfb5F9OxPa5UGT4.jpeg?width=320&crop=smart&auto=webp&s=6f6d147ae7d624c8b2ba82f4ea517d3eff53027f",
+        "published": "2026-04-15T02:30:50+00:00"
     }
 ]
