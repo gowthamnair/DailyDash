@@ -1,11 +1,5 @@
 [
     {
-        "title": "For The First Time In War, Drones & Ground Robotic Systems Seized Enemy positions Without A Single Soldier",
-        "link": "https://www.reddit.com/r/singularity/comments/1skxzk3/for_the_first_time_in_war_drones_ground_robotic/",
-        "image": "https://external-preview.redd.it/OXI5cmxzeTR6MnZnMZLwmnKsZWgss2qpxtveNgsbpJ8hkVqEEYuTCYG0t2DX.png?width=640&crop=smart&auto=webp&s=32cf83b8b85a3546547edfad10f4eec11e3fecbd",
-        "published": "2026-04-14T04:08:30+00:00"
-    },
-    {
         "title": "My manager watching how I work after hitting the Claude usage limit",
         "link": "https://www.reddit.com/r/singularity/comments/1skyvw8/my_manager_watching_how_i_work_after_hitting_the/",
         "image": "https://external-preview.redd.it/NXN4d3d6MGg3M3ZnMRJhXBDRupwxK9GtK_kiCM8I2us8v147jYjs0bbHuFzE.png?width=640&crop=smart&auto=webp&s=7a25998793d0b5a1ad1dfaffa43961c172faf7c6",
@@ -30,16 +24,16 @@
         "published": "2026-04-14T09:27:06+00:00"
     },
     {
-        "title": "Nvidia says AI cuts 10-month, 8-engineer GPU design task to overnight job - company is still 'a long way' from AI designing chips without human input",
-        "link": "https://www.reddit.com/r/singularity/comments/1sl5r0x/nvidia_says_ai_cuts_10month_8engineer_gpu_design/",
-        "image": "https://external-preview.redd.it/M0Sl3x8W2TfWbk5cKTXNDh5Z7_eNCkW90S9AiwQpxQ0.jpeg?width=640&crop=smart&auto=webp&s=000124391d6479d039c924750a0ec7a8a7bca758",
-        "published": "2026-04-14T11:20:04+00:00"
-    },
-    {
         "title": "The Human Baseline for ARC-AGI-3 has been updated",
         "link": "https://www.reddit.com/r/singularity/comments/1slnt5e/the_human_baseline_for_arcagi3_has_been_updated/",
         "image": "https://preview.redd.it/lk8rxv24g8vg1.png?width=640&crop=smart&auto=webp&s=c8c102c0b9d575e5a44a1c5113205109ef693f0a",
         "published": "2026-04-14T22:31:54+00:00"
+    },
+    {
+        "title": "Nvidia says AI cuts 10-month, 8-engineer GPU design task to overnight job - company is still 'a long way' from AI designing chips without human input",
+        "link": "https://www.reddit.com/r/singularity/comments/1sl5r0x/nvidia_says_ai_cuts_10month_8engineer_gpu_design/",
+        "image": "https://external-preview.redd.it/M0Sl3x8W2TfWbk5cKTXNDh5Z7_eNCkW90S9AiwQpxQ0.jpeg?width=640&crop=smart&auto=webp&s=000124391d6479d039c924750a0ec7a8a7bca758",
+        "published": "2026-04-14T11:20:04+00:00"
     },
     {
         "title": "NVIDIA introduces Ising, the world\u2019s first open AI models to accelerate the path to useful quantum computers.",
@@ -52,6 +46,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sll400/anthropics_autonomous_ai_agents_outperform_human/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-14T20:49:02+00:00"
+    },
+    {
+        "title": "GPT-IMAGE-2 is back on LMarena",
+        "link": "https://www.reddit.com/r/singularity/comments/1slqwpy/gptimage2_is_back_on_lmarena/",
+        "image": "https://preview.redd.it/j58pryzo29vg1.png?width=140&height=78&auto=webp&s=709e4dd1e27f6e3cfe6a3933ae7c24707c5acdaa",
+        "published": "2026-04-15T00:43:33+00:00"
     },
     {
         "title": "New chart: Cost per Puzzle vs Performance on the Extended NYT Connections Benchmark",
@@ -72,6 +72,12 @@
         "published": "2026-04-14T20:10:51+00:00"
     },
     {
+        "title": "Who is Elephant-Alpha??? Why has it suddenly become so popular?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sltmyx/who_is_elephantalpha_why_has_it_suddenly_become/",
+        "image": "https://preview.redd.it/ps27bljgp9vg1.png?width=640&crop=smart&auto=webp&s=ca85e9a0e4e8e4401ebff6af5e314b359f1980bd",
+        "published": "2026-04-15T02:46:05+00:00"
+    },
+    {
         "title": "The To Do List with Spot | Boston Dynamics",
         "link": "https://www.reddit.com/r/singularity/comments/1slcuzj/the_to_do_list_with_spot_boston_dynamics/",
         "image": "https://external-preview.redd.it/ecZosiST5wvLxoCcair0wP8wKjTNFSIzZnETD1j6D9A.jpeg?width=320&crop=smart&auto=webp&s=24d38912c7724620a5bbca07e7bec0b29f37d5aa",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1slal4u/the_uk_ai_security_institute_tested_claude_mythos/",
         "image": "https://preview.redd.it/5xzsjzrgt5vg1.jpg?width=140&height=87&auto=webp&s=8dc4603da5ca85fe44524d16e8cbf28200711e35",
         "published": "2026-04-14T14:37:52+00:00"
-    },
-    {
-        "title": "GPT-IMAGE-2 is back on LMarena",
-        "link": "https://www.reddit.com/r/singularity/comments/1slqwpy/gptimage2_is_back_on_lmarena/",
-        "image": "https://preview.redd.it/j58pryzo29vg1.png?width=140&height=78&auto=webp&s=709e4dd1e27f6e3cfe6a3933ae7c24707c5acdaa",
-        "published": "2026-04-15T00:43:33+00:00"
     }
 ]
