@@ -6,6 +6,12 @@
         "published": "2026-04-16T14:25:23+00:00"
     },
     {
+        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
+        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
+        "published": "2026-04-16T15:58:26+00:00"
+    },
+    {
         "title": "Opus 4.7 has been spotted on Google Vertex",
         "link": "https://www.reddit.com/r/singularity/comments/1smrk5p/opus_47_has_been_spotted_on_google_vertex/",
         "image": "https://preview.redd.it/7wzrvlczxgvg1.png?width=640&crop=smart&auto=webp&s=20470be11652fcfbc5a2564ad79b3eb51d8cc2b1",
@@ -16,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
         "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
         "published": "2026-04-16T07:08:47+00:00"
-    },
-    {
-        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
-        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
-        "published": "2026-04-16T15:58:26+00:00"
     },
     {
         "title": "Claude Opus 4.7",
@@ -42,16 +42,16 @@
         "published": "2026-04-16T08:47:26+00:00"
     },
     {
-        "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
-        "link": "https://www.reddit.com/r/singularity/comments/1smzu0i/anthropic_unveils_plans_for_major_uk_expansion/",
-        "image": "https://external-preview.redd.it/svCMDIkc3qfLKGVxvZnwVFWhrfCmpb9KtmkgPB8IhD8.jpeg?width=640&crop=smart&auto=webp&s=111af03d3ddf7a900a65da58698edca574a4b0c5",
-        "published": "2026-04-16T10:42:31+00:00"
-    },
-    {
         "title": "Introducing GPT-Rosalind for life sciences research",
         "link": "https://www.reddit.com/r/singularity/comments/1sne2e7/introducing_gptrosalind_for_life_sciences_research/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-16T19:39:45+00:00"
+    },
+    {
+        "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
+        "link": "https://www.reddit.com/r/singularity/comments/1smzu0i/anthropic_unveils_plans_for_major_uk_expansion/",
+        "image": "https://external-preview.redd.it/svCMDIkc3qfLKGVxvZnwVFWhrfCmpb9KtmkgPB8IhD8.jpeg?width=640&crop=smart&auto=webp&s=111af03d3ddf7a900a65da58698edca574a4b0c5",
+        "published": "2026-04-16T10:42:31+00:00"
     },
     {
         "title": "OpenAI continues to lose market share in GenAI website traffic, while Gemini, and Claude are gaining:",
@@ -78,15 +78,15 @@
         "published": "2026-04-16T15:02:44+00:00"
     },
     {
-        "title": "How is upwards mobility maintained in an age where real AGI is achieved?",
-        "link": "https://www.reddit.com/r/singularity/comments/1smlv6a/how_is_upwards_mobility_maintained_in_an_age/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-15T22:57:51+00:00"
-    },
-    {
         "title": "The anti-AI talking heads slurp up the most idiotic slop study I've seen yet",
         "link": "https://www.reddit.com/r/singularity/comments/1sn6fyg/the_antiai_talking_heads_slurp_up_the_most/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-16T15:13:16+00:00"
+    },
+    {
+        "title": "OpenAI: Codex for Almost Everything",
+        "link": "https://www.reddit.com/r/singularity/comments/1snegq5/openai_codex_for_almost_everything/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-16T19:54:19+00:00"
     }
 ]
