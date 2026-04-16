@@ -6,12 +6,6 @@
         "published": "2026-04-15T14:48:51+00:00"
     },
     {
-        "title": "Anthropic has come out against a proposed Illinois law backed by OpenAI that would shield AI labs from liability if their systems are used to cause large-scale harm, like mass casualties or more than $1 billion in property damage.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sly077/anthropic_has_come_out_against_a_proposed/",
-        "image": "https://external-preview.redd.it/WYV0OaWTQGKjqqxpMmGXEMyJ9r9ONydMNDMR7Je7Tww.jpeg?width=640&crop=smart&auto=webp&s=3398b55511049aee13ebffe9bbfbf3dab51228eb",
-        "published": "2026-04-15T06:28:31+00:00"
-    },
-    {
         "title": "\u2018I miss you\u2019: Mother speaks to AI son regularly, unaware he died last year",
         "link": "https://www.reddit.com/r/singularity/comments/1sm5522/i_miss_you_mother_speaks_to_ai_son_regularly/",
         "image": "https://external-preview.redd.it/weofxwn5kyqRJTLoGIBIxeZep-t4DAxJDDzX2Vk-spw.jpeg?width=640&crop=smart&auto=webp&s=b1a0353ca8ca2a864c6013d711df10666079fd96",
@@ -54,16 +48,16 @@
         "published": "2026-04-15T19:05:14+00:00"
     },
     {
+        "title": "Opus 4.7 seems to rolled out to Claude Web",
+        "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
+        "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
+        "published": "2026-04-16T07:08:47+00:00"
+    },
+    {
         "title": "Google Launches Gemini 3.1 Flash TTS Text-to-Speech Model",
         "link": "https://www.reddit.com/r/singularity/comments/1smbgcw/google_launches_gemini_31_flash_tts_texttospeech/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-15T16:41:28+00:00"
-    },
-    {
-        "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1slz21l/gemini_robotics_er16_enhances_reasoning_to_help/",
-        "image": "https://external-preview.redd.it/S4glgdjqGmxxUq0hScAk-PKI1wsK0LzyW6VgXoLUJq8.png?width=640&crop=smart&auto=webp&s=5626580cdaa9def285c1ed2bb91123c844252543",
-        "published": "2026-04-15T07:29:37+00:00"
     },
     {
         "title": "How is upwards mobility maintained in an age where real AGI is achieved?",
@@ -78,15 +72,9 @@
         "published": "2026-04-15T16:15:15+00:00"
     },
     {
-        "title": "Guys we have to change the pelican test",
-        "link": "https://www.reddit.com/r/singularity/comments/1slz4hh/guys_we_have_to_change_the_pelican_test/",
-        "image": "https://preview.redd.it/leye1l1cvavg1.png?width=140&height=80&auto=webp&s=f16d6d54a2c7af93915a7fcbc2cd00c21af12193",
-        "published": "2026-04-15T07:33:45+00:00"
-    },
-    {
-        "title": "An interview with the man who tried to kill Sam Altman",
-        "link": "https://www.reddit.com/r/singularity/comments/1smraxe/an_interview_with_the_man_who_tried_to_kill_sam/",
-        "image": "https://external-preview.redd.it/0W9MLX7E5EOnGUi5QGaQ4ZOJC-Xc8gxkSh9AUu4dWuI.jpeg?width=320&crop=smart&auto=webp&s=1b3a82cea6eced8d247596a397724a54199036a9",
-        "published": "2026-04-16T02:54:56+00:00"
+        "title": "People who dream of a workless AI utopia - why would it not turn out like Wall-E?",
+        "link": "https://www.reddit.com/r/singularity/comments/1smp2gf/people_who_dream_of_a_workless_ai_utopia_why/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-16T01:15:22+00:00"
     }
 ]
