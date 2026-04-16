@@ -1,11 +1,5 @@
 [
     {
-        "title": "Leju Robotics unveils the world's first automated factory for humanoid robots, 1 robot every 30 minutes",
-        "link": "https://www.reddit.com/r/singularity/comments/1smexhf/leju_robotics_unveils_the_worlds_first_automated/",
-        "image": "https://external-preview.redd.it/bHVkbzN2Y3dmZXZnMcFVvh6KTk5jQ4PTMC2kA8YPv7j0rNKfVBGDYMuuSJAP.png?width=640&crop=smart&auto=webp&s=3ed74cb11c768d694d736b6a9e9b9f65d68e715c",
-        "published": "2026-04-15T18:42:12+00:00"
-    },
-    {
         "title": "Claude Opus 4.7 benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1sn52vp/claude_opus_47_benchmarks/",
         "image": "https://preview.redd.it/e0equiu3bkvg1.png?width=640&crop=smart&auto=webp&s=c9df0db1bb969f6d39af3c8afa0afb4874dd4186",
@@ -24,10 +18,16 @@
         "published": "2026-04-16T07:08:47+00:00"
     },
     {
-        "title": "Opus 4.7 Benchmarks",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn54vc/opus_47_benchmarks/",
-        "image": "https://preview.redd.it/wa7cfeeibkvg1.jpeg?width=640&crop=smart&auto=webp&s=62f1e6e3b1fa14cc02fe68ed13c1333da4cb8176",
-        "published": "2026-04-16T14:27:28+00:00"
+        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
+        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
+        "published": "2026-04-16T15:58:26+00:00"
+    },
+    {
+        "title": "Claude Opus 4.7",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn8qfp/claude_opus_47/",
+        "image": "https://preview.redd.it/nm0y6tp1ykvg1.jpeg?width=640&crop=smart&auto=webp&s=505b5ebe57f859d5d7d222d36b41f7e390bf933b",
+        "published": "2026-04-16T16:33:48+00:00"
     },
     {
         "title": "Gemini 3.1 Pro #1 at METR Timeline 80% Success Rate (1.5H)",
@@ -36,28 +36,22 @@
         "published": "2026-04-16T08:47:26+00:00"
     },
     {
-        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
-        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
-        "published": "2026-04-16T15:58:26+00:00"
-    },
-    {
         "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
         "link": "https://www.reddit.com/r/singularity/comments/1smzu0i/anthropic_unveils_plans_for_major_uk_expansion/",
         "image": "https://external-preview.redd.it/svCMDIkc3qfLKGVxvZnwVFWhrfCmpb9KtmkgPB8IhD8.jpeg?width=640&crop=smart&auto=webp&s=111af03d3ddf7a900a65da58698edca574a4b0c5",
         "published": "2026-04-16T10:42:31+00:00"
     },
     {
+        "title": "OpenAI continues to lose market share in GenAI website traffic, while Gemini, and Claude are gaining:",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn3td3/openai_continues_to_lose_market_share_in_genai/",
+        "image": "https://preview.redd.it/rbpwyanm2kvg1.png?width=320&crop=smart&auto=webp&s=90fa5e699beea8ca8778a35fa69c7c182a85c401",
+        "published": "2026-04-16T13:38:42+00:00"
+    },
+    {
         "title": "Jensen Huang \u2013 TPU competition, why we should sell chips to China, & Nvidia\u2019s supply chain moat",
         "link": "https://www.reddit.com/r/singularity/comments/1smfl21/jensen_huang_tpu_competition_why_we_should_sell/",
         "image": "https://external-preview.redd.it/PJqJmblxT_bSLC0wX9ubQoohDKnvdVwHy4bj26auytA.jpeg?width=320&crop=smart&auto=webp&s=0f5d371852ec5f1153c6c61355d0a9acd4d03c5d",
         "published": "2026-04-15T19:05:14+00:00"
-    },
-    {
-        "title": "How is upwards mobility maintained in an age where real AGI is achieved?",
-        "link": "https://www.reddit.com/r/singularity/comments/1smlv6a/how_is_upwards_mobility_maintained_in_an_age/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-15T22:57:51+00:00"
     },
     {
         "title": "Qwen3.6-35B-A3B released!",
@@ -72,10 +66,10 @@
         "published": "2026-04-16T14:42:44+00:00"
     },
     {
-        "title": "OpenAI continues to lose market share in GenAI website traffic, while Gemini, and Claude are gaining:",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn3td3/openai_continues_to_lose_market_share_in_genai/",
-        "image": "https://preview.redd.it/rbpwyanm2kvg1.png?width=320&crop=smart&auto=webp&s=90fa5e699beea8ca8778a35fa69c7c182a85c401",
-        "published": "2026-04-16T13:38:42+00:00"
+        "title": "How is upwards mobility maintained in an age where real AGI is achieved?",
+        "link": "https://www.reddit.com/r/singularity/comments/1smlv6a/how_is_upwards_mobility_maintained_in_an_age/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-15T22:57:51+00:00"
     },
     {
         "title": "Opus 4.7 Vals.ai benchmarks",
@@ -84,9 +78,15 @@
         "published": "2026-04-16T15:02:44+00:00"
     },
     {
-        "title": "Claude Opus 4.7",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn8qfp/claude_opus_47/",
-        "image": "https://preview.redd.it/nm0y6tp1ykvg1.jpeg?width=640&crop=smart&auto=webp&s=505b5ebe57f859d5d7d222d36b41f7e390bf933b",
-        "published": "2026-04-16T16:33:48+00:00"
+        "title": "The anti-AI talking heads slurp up the most idiotic slop study I've seen yet",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn6fyg/the_antiai_talking_heads_slurp_up_the_most/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-16T15:13:16+00:00"
+    },
+    {
+        "title": "White House Moves to Give US Agencies Anthropic Mythos Access",
+        "link": "https://www.reddit.com/r/singularity/comments/1snbv4m/white_house_moves_to_give_us_agencies_anthropic/",
+        "image": "https://external-preview.redd.it/9TxyfNwrsgLL8KQpuPWqBvXpEv7A_9XQxAqnQ-5WmYE.jpeg?width=640&crop=smart&auto=webp&s=71fe52b3d71adf8942dc4d5d8a753362b4b973be",
+        "published": "2026-04-16T18:22:03+00:00"
     }
 ]
