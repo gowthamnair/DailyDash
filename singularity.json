@@ -6,16 +6,16 @@
         "published": "2026-04-15T14:48:51+00:00"
     },
     {
-        "title": "\u2018I miss you\u2019: Mother speaks to AI son regularly, unaware he died last year",
-        "link": "https://www.reddit.com/r/singularity/comments/1sm5522/i_miss_you_mother_speaks_to_ai_son_regularly/",
-        "image": "https://external-preview.redd.it/weofxwn5kyqRJTLoGIBIxeZep-t4DAxJDDzX2Vk-spw.jpeg?width=640&crop=smart&auto=webp&s=b1a0353ca8ca2a864c6013d711df10666079fd96",
-        "published": "2026-04-15T12:48:58+00:00"
-    },
-    {
         "title": "Leju Robotics unveils the world's first automated factory for humanoid robots, 1 robot every 30 minutes",
         "link": "https://www.reddit.com/r/singularity/comments/1smexhf/leju_robotics_unveils_the_worlds_first_automated/",
         "image": "https://external-preview.redd.it/bHVkbzN2Y3dmZXZnMcFVvh6KTk5jQ4PTMC2kA8YPv7j0rNKfVBGDYMuuSJAP.png?width=640&crop=smart&auto=webp&s=3ed74cb11c768d694d736b6a9e9b9f65d68e715c",
         "published": "2026-04-15T18:42:12+00:00"
+    },
+    {
+        "title": "\u2018I miss you\u2019: Mother speaks to AI son regularly, unaware he died last year",
+        "link": "https://www.reddit.com/r/singularity/comments/1sm5522/i_miss_you_mother_speaks_to_ai_son_regularly/",
+        "image": "https://external-preview.redd.it/weofxwn5kyqRJTLoGIBIxeZep-t4DAxJDDzX2Vk-spw.jpeg?width=640&crop=smart&auto=webp&s=b1a0353ca8ca2a864c6013d711df10666079fd96",
+        "published": "2026-04-15T12:48:58+00:00"
     },
     {
         "title": "Opus 4.7 has been spotted on Google Vertex",
@@ -30,10 +30,10 @@
         "published": "2026-04-15T16:14:02+00:00"
     },
     {
-        "title": "Unitree claims to internally do a half marathon in a little over 50 minutes preparing for the humanoid marathon in 4 days (average speed: <7.0325m/s). The Human best is Jacob Kiplimo 57m30s (average speed: 6.115m/s)",
-        "link": "https://www.reddit.com/r/singularity/comments/1sm1otr/unitree_claims_to_internally_do_a_half_marathon/",
-        "image": "https://preview.redd.it/6ddwdl70ubvg1.jpeg?width=640&crop=smart&auto=webp&s=b74e33eada52966d6eca710c8faa61c2e10b31b0",
-        "published": "2026-04-15T10:05:40+00:00"
+        "title": "Opus 4.7 seems to rolled out to Claude Web",
+        "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
+        "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
+        "published": "2026-04-16T07:08:47+00:00"
     },
     {
         "title": "Artificial neurons are getting closer to speaking the brain\u2019s language",
@@ -48,12 +48,6 @@
         "published": "2026-04-15T19:05:14+00:00"
     },
     {
-        "title": "Opus 4.7 seems to rolled out to Claude Web",
-        "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
-        "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
-        "published": "2026-04-16T07:08:47+00:00"
-    },
-    {
         "title": "Google Launches Gemini 3.1 Flash TTS Text-to-Speech Model",
         "link": "https://www.reddit.com/r/singularity/comments/1smbgcw/google_launches_gemini_31_flash_tts_texttospeech/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -64,6 +58,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1smlv6a/how_is_upwards_mobility_maintained_in_an_age/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-15T22:57:51+00:00"
+    },
+    {
+        "title": "Gemini 3.1 Pro #1 at METR Timeline 80% Success Rate (1.5H)",
+        "link": "https://www.reddit.com/r/singularity/comments/1smxtzg/gemini_31_pro_1_at_metr_timeline_80_success_rate/",
+        "image": "https://preview.redd.it/ibewvxcumivg1.jpeg?width=640&crop=smart&auto=webp&s=a6c2a6242e855e75fb9f740e13d416470237233c",
+        "published": "2026-04-16T08:47:26+00:00"
     },
     {
         "title": "Allbirds, Inc. Executes $50M Convertible Financing Facility Agreement; Announces Expansion into AI Compute Infrastructure",
