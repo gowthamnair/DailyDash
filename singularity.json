@@ -54,6 +54,12 @@
         "published": "2026-04-16T13:38:42+00:00"
     },
     {
+        "title": "Introducing GPT-Rosalind for life sciences research",
+        "link": "https://www.reddit.com/r/singularity/comments/1sne2e7/introducing_gptrosalind_for_life_sciences_research/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-16T19:39:45+00:00"
+    },
+    {
         "title": "Extra Benchmarks Opus 4.7",
         "link": "https://www.reddit.com/r/singularity/comments/1sn5jv6/extra_benchmarks_opus_47/",
         "image": "https://preview.redd.it/3pkbq8d8ekvg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4e594559a138e7115372e291c806c5cb460f03ed",
@@ -64,12 +70,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sn3ugb/qwen3635ba3b_released/",
         "image": "https://preview.redd.it/g6edjlxt0kvg1.jpeg?width=640&crop=smart&auto=webp&s=70f04bae14d0359790b5964a3af6ad55dc5354b5",
         "published": "2026-04-16T13:39:55+00:00"
-    },
-    {
-        "title": "Introducing GPT-Rosalind for life sciences research",
-        "link": "https://www.reddit.com/r/singularity/comments/1sne2e7/introducing_gptrosalind_for_life_sciences_research/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-16T19:39:45+00:00"
     },
     {
         "title": "Opus 4.7 Vals.ai benchmarks",
