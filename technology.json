@@ -18,16 +18,16 @@
         "published": "2026-04-16T12:03:28+00:00"
     },
     {
-        "title": "Clicking \"reject cookies\" might not actually do anything",
-        "link": "https://www.reddit.com/r/technology/comments/1sn3rbn/clicking_reject_cookies_might_not_actually_do/",
-        "image": "https://external-preview.redd.it/-RYuVWKPLsItSV3pHLz1c6aPdsY4hJi2ufFjnhR9DwY.jpeg?width=640&crop=smart&auto=webp&s=c3caf0960b7796978165b6e5ee92e61c38f291cb",
-        "published": "2026-04-16T13:36:21+00:00"
-    },
-    {
         "title": "China Has \u2018Nearly Erased\u2019 America\u2019s Lead in AI - and the Flow of Tech Experts Moving to the U.S. is Slowing to a Trickle, Stanford Report Says",
         "link": "https://www.reddit.com/r/technology/comments/1snkcsw/china_has_nearly_erased_americas_lead_in_ai_and/",
         "image": "https://external-preview.redd.it/Q_Z2YGDI0dI2q37mZ2MAIiKZA1xq1xSAwJCKeNF7kxI.jpeg?width=640&crop=smart&auto=webp&s=a86f9066ddc4d45a4559ecec9bbee2dbd74b1103",
         "published": "2026-04-16T23:42:03+00:00"
+    },
+    {
+        "title": "Clicking \"reject cookies\" might not actually do anything",
+        "link": "https://www.reddit.com/r/technology/comments/1sn3rbn/clicking_reject_cookies_might_not_actually_do/",
+        "image": "https://external-preview.redd.it/-RYuVWKPLsItSV3pHLz1c6aPdsY4hJi2ufFjnhR9DwY.jpeg?width=640&crop=smart&auto=webp&s=c3caf0960b7796978165b6e5ee92e61c38f291cb",
+        "published": "2026-04-16T13:36:21+00:00"
     },
     {
         "title": "Attempted fire-bombing has tech titans worried about AI backlash",
@@ -60,16 +60,10 @@
         "published": "2026-04-16T14:08:00+00:00"
     },
     {
-        "title": "Where the DOGE Operatives Are Now",
-        "link": "https://www.reddit.com/r/technology/comments/1sn1brc/where_the_doge_operatives_are_now/",
-        "image": "https://external-preview.redd.it/MhqUQwlcuCeo9HdmdB8jRSE3awlxll1fHd9bYQSj630.jpeg?width=640&crop=smart&auto=webp&s=bee946122577d0f10448eb0e4dedf6acd0d00d54",
-        "published": "2026-04-16T11:55:50+00:00"
-    },
-    {
-        "title": "Back to books - Sweden's schools cutting back on digital learning",
-        "link": "https://www.reddit.com/r/technology/comments/1smx8f4/back_to_books_swedens_schools_cutting_back_on/",
-        "image": "https://external-preview.redd.it/AuddQpvlOy5StdW5Rh_2hThGpD0mBt9FDSTH-0VJ49M.jpeg?width=640&crop=smart&auto=webp&s=6cfe0269870ba7e62eb57c522bd1cd249f80478c",
-        "published": "2026-04-16T08:10:57+00:00"
+        "title": "Engineer open-sources DIY radar system that's 95% cheaper than $250,000 commercial offerings, has 20 kilometer range \u2014 Moroccan engineer designs Aeris-10 radar, shares it on GitHub",
+        "link": "https://www.reddit.com/r/technology/comments/1snko60/engineer_opensources_diy_radar_system_thats_95/",
+        "image": "https://external-preview.redd.it/gdd4PeMl3nKVg78aOYQBGWxU9Tn6YbWCIH74FpErQPI.png?width=640&crop=smart&auto=webp&s=9a967b9421b1337b6a045f2ecb45132dfb3c894a",
+        "published": "2026-04-16T23:55:53+00:00"
     },
     {
         "title": "Operating System Verify your Age for other purposes, proposed to Federal Level",
@@ -78,15 +72,21 @@
         "published": "2026-04-17T01:19:15+00:00"
     },
     {
-        "title": "Engineer open-sources DIY radar system that's 95% cheaper than $250,000 commercial offerings, has 20 kilometer range \u2014 Moroccan engineer designs Aeris-10 radar, shares it on GitHub",
-        "link": "https://www.reddit.com/r/technology/comments/1snko60/engineer_opensources_diy_radar_system_thats_95/",
-        "image": "https://external-preview.redd.it/gdd4PeMl3nKVg78aOYQBGWxU9Tn6YbWCIH74FpErQPI.png?width=640&crop=smart&auto=webp&s=9a967b9421b1337b6a045f2ecb45132dfb3c894a",
-        "published": "2026-04-16T23:55:53+00:00"
+        "title": "Where the DOGE Operatives Are Now",
+        "link": "https://www.reddit.com/r/technology/comments/1sn1brc/where_the_doge_operatives_are_now/",
+        "image": "https://external-preview.redd.it/MhqUQwlcuCeo9HdmdB8jRSE3awlxll1fHd9bYQSj630.jpeg?width=640&crop=smart&auto=webp&s=bee946122577d0f10448eb0e4dedf6acd0d00d54",
+        "published": "2026-04-16T11:55:50+00:00"
     },
     {
         "title": "Billionaire Netflix cofounder Reed Hastings is leaving the company",
         "link": "https://www.reddit.com/r/technology/comments/1snlx7g/billionaire_netflix_cofounder_reed_hastings_is/",
         "image": "https://external-preview.redd.it/NB0uk6fhz2rFNWxbaa94U6yGayzV2-Tec6wFfMH4Iec.jpeg?width=640&crop=smart&auto=webp&s=bec5f59c703b1aeb9ae76c87b37b287704bc59a2",
         "published": "2026-04-17T00:50:51+00:00"
+    },
+    {
+        "title": "Indiana city ends Flock Safety deal after backlash over license plate cameras",
+        "link": "https://www.reddit.com/r/technology/comments/1sn3q4s/indiana_city_ends_flock_safety_deal_after/",
+        "image": "https://external-preview.redd.it/nsy5Dtz2h6R5XxbHsxOrAylY4CI4t-bAq-pj06fA7SU.jpeg?width=640&crop=smart&auto=webp&s=3dfa92ee4b896214491d53a1dbb9f8d6d5ad6ed2",
+        "published": "2026-04-16T13:35:02+00:00"
     }
 ]
