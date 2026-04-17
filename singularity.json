@@ -54,12 +54,6 @@
         "published": "2026-04-17T20:24:27+00:00"
     },
     {
-        "title": "Impressive robotics demo from Physical Intelligence (pi). Includes generalizing to new tasks and language-based steering of the robot",
-        "link": "https://www.reddit.com/r/singularity/comments/1snhzt3/impressive_robotics_demo_from_physical/",
-        "image": "https://external-preview.redd.it/cnl2NzE5dTBsbXZnMX_MfSW7nvVTv2xdSay4NUWSjXtbTSKO-WcyLog1c4LE.png?width=640&crop=smart&auto=webp&s=de15c82f845e1a9d8aed128a4fc94efb5adecff7",
-        "published": "2026-04-16T22:04:45+00:00"
-    },
-    {
         "title": "Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to Claude.",
         "link": "https://www.reddit.com/r/singularity/comments/1so5hmk/introducing_claude_design_by_anthropic_labs_make/",
         "image": "https://external-preview.redd.it/cmMwdW55cHd5cnZnMa4d0dNGuEbl3ej7r_BrKbjEkrmDNRgicvnIasSW3zpC.png?width=640&crop=smart&auto=webp&s=308928f4158582f00caa0e164d8a27f04fe6b977",
@@ -78,15 +72,21 @@
         "published": "2026-04-16T23:17:17+00:00"
     },
     {
+        "title": "FrontierMath: Opus 4.7 improves over Opus 4.6 and Gemini 3.1 but still trails GPT-5.4-xHigh and GPT-5.4-Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1so88jj/frontiermath_opus_47_improves_over_opus_46_and/",
+        "image": "https://preview.redd.it/a5ofoouigsvg1.png?width=640&crop=smart&auto=webp&s=bf8926a20633ee4e26eb2522a734c22bca4e52f6",
+        "published": "2026-04-17T17:49:49+00:00"
+    },
+    {
         "title": "Extended NYT Connections Benchmark: Model Introduction Date vs. Performance by Lab since 2024",
         "link": "https://www.reddit.com/r/singularity/comments/1so3zyu/extended_nyt_connections_benchmark_model/",
         "image": "https://preview.redd.it/to9idrfnorvg1.png?width=140&height=107&auto=webp&s=1ed4b3967a67bad412f347ba9fef83de6894e1d9",
         "published": "2026-04-17T15:18:24+00:00"
     },
     {
-        "title": "FrontierMath: Opus 4.7 improves over Opus 4.6 and Gemini 3.1 but still trails GPT-5.4-xHigh and GPT-5.4-Pro",
-        "link": "https://www.reddit.com/r/singularity/comments/1so88jj/frontiermath_opus_47_improves_over_opus_46_and/",
-        "image": "https://preview.redd.it/a5ofoouigsvg1.png?width=640&crop=smart&auto=webp&s=bf8926a20633ee4e26eb2522a734c22bca4e52f6",
-        "published": "2026-04-17T17:49:49+00:00"
+        "title": "Lets say we reach LEV within our lifetimes. How would life be? (Discussion)",
+        "link": "https://www.reddit.com/r/singularity/comments/1snr34o/lets_say_we_reach_lev_within_our_lifetimes_how/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-17T04:52:19+00:00"
     }
 ]
