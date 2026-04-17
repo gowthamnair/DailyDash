@@ -18,16 +18,16 @@
         "published": "2026-04-16T18:22:03+00:00"
     },
     {
-        "title": "Opus 4.7 seems to rolled out to Claude Web",
-        "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
-        "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
-        "published": "2026-04-16T07:08:47+00:00"
-    },
-    {
         "title": "Claude Opus 4.7",
         "link": "https://www.reddit.com/r/singularity/comments/1sn8qfp/claude_opus_47/",
         "image": "https://preview.redd.it/nm0y6tp1ykvg1.jpeg?width=640&crop=smart&auto=webp&s=505b5ebe57f859d5d7d222d36b41f7e390bf933b",
         "published": "2026-04-16T16:33:48+00:00"
+    },
+    {
+        "title": "Opus 4.7 seems to rolled out to Claude Web",
+        "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
+        "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
+        "published": "2026-04-16T07:08:47+00:00"
     },
     {
         "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
@@ -66,6 +66,12 @@
         "published": "2026-04-16T19:54:19+00:00"
     },
     {
+        "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
+        "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
+        "published": "2026-04-16T23:48:57+00:00"
+    },
+    {
         "title": "Extra Benchmarks Opus 4.7",
         "link": "https://www.reddit.com/r/singularity/comments/1sn5jv6/extra_benchmarks_opus_47/",
         "image": "https://preview.redd.it/3pkbq8d8ekvg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4e594559a138e7115372e291c806c5cb460f03ed",
@@ -78,15 +84,9 @@
         "published": "2026-04-16T13:39:55+00:00"
     },
     {
-        "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
-        "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
-        "published": "2026-04-16T23:48:57+00:00"
-    },
-    {
-        "title": "Opus 4.7 Vals.ai benchmarks",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn64u1/opus_47_valsai_benchmarks/",
-        "image": "https://preview.redd.it/b3yyhhushkvg1.jpeg?width=640&crop=smart&auto=webp&s=eab9034caf195977d0b8d8dc4373b9a284269192",
-        "published": "2026-04-16T15:02:44+00:00"
+        "title": "Humanoid Robots\u2019 88% Fail Rate: Completing Home Tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1snf218/humanoid_robots_88_fail_rate_completing_home_tasks/",
+        "image": "https://external-preview.redd.it/-TaiLrKXkVGIW_UyN_BqVC6xZvQicNNeBJBqxE-emY4.jpeg?width=640&crop=smart&auto=webp&s=cd0a372bc542e54603e65d86b5cfaff31db63a1a",
+        "published": "2026-04-16T20:15:34+00:00"
     }
 ]
