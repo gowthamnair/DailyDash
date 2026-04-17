@@ -12,16 +12,16 @@
         "published": "2026-04-16T15:58:26+00:00"
     },
     {
-        "title": "Opus 4.7 has been spotted on Google Vertex",
-        "link": "https://www.reddit.com/r/singularity/comments/1smrk5p/opus_47_has_been_spotted_on_google_vertex/",
-        "image": "https://preview.redd.it/7wzrvlczxgvg1.png?width=640&crop=smart&auto=webp&s=20470be11652fcfbc5a2564ad79b3eb51d8cc2b1",
-        "published": "2026-04-16T03:06:18+00:00"
-    },
-    {
         "title": "Opus 4.7 seems to rolled out to Claude Web",
         "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
         "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
         "published": "2026-04-16T07:08:47+00:00"
+    },
+    {
+        "title": "Opus 4.7 has been spotted on Google Vertex",
+        "link": "https://www.reddit.com/r/singularity/comments/1smrk5p/opus_47_has_been_spotted_on_google_vertex/",
+        "image": "https://preview.redd.it/7wzrvlczxgvg1.png?width=640&crop=smart&auto=webp&s=20470be11652fcfbc5a2564ad79b3eb51d8cc2b1",
+        "published": "2026-04-16T03:06:18+00:00"
     },
     {
         "title": "Claude Opus 4.7",
@@ -36,16 +36,16 @@
         "published": "2026-04-16T18:22:03+00:00"
     },
     {
-        "title": "Gemini 3.1 Pro #1 at METR Timeline 80% Success Rate (1.5H)",
-        "link": "https://www.reddit.com/r/singularity/comments/1smxtzg/gemini_31_pro_1_at_metr_timeline_80_success_rate/",
-        "image": "https://preview.redd.it/ibewvxcumivg1.jpeg?width=640&crop=smart&auto=webp&s=a6c2a6242e855e75fb9f740e13d416470237233c",
-        "published": "2026-04-16T08:47:26+00:00"
-    },
-    {
         "title": "Introducing GPT-Rosalind for life sciences research",
         "link": "https://www.reddit.com/r/singularity/comments/1sne2e7/introducing_gptrosalind_for_life_sciences_research/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-16T19:39:45+00:00"
+    },
+    {
+        "title": "Gemini 3.1 Pro #1 at METR Timeline 80% Success Rate (1.5H)",
+        "link": "https://www.reddit.com/r/singularity/comments/1smxtzg/gemini_31_pro_1_at_metr_timeline_80_success_rate/",
+        "image": "https://preview.redd.it/ibewvxcumivg1.jpeg?width=640&crop=smart&auto=webp&s=a6c2a6242e855e75fb9f740e13d416470237233c",
+        "published": "2026-04-16T08:47:26+00:00"
     },
     {
         "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
@@ -78,15 +78,15 @@
         "published": "2026-04-16T15:02:44+00:00"
     },
     {
-        "title": "The anti-AI talking heads slurp up the most idiotic slop study I've seen yet",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn6fyg/the_antiai_talking_heads_slurp_up_the_most/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-16T15:13:16+00:00"
-    },
-    {
         "title": "OpenAI: Codex for Almost Everything",
         "link": "https://www.reddit.com/r/singularity/comments/1snegq5/openai_codex_for_almost_everything/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-16T19:54:19+00:00"
+    },
+    {
+        "title": "Humanoid Robots\u2019 88% Fail Rate: Completing Home Tasks",
+        "link": "https://www.reddit.com/r/singularity/comments/1snf218/humanoid_robots_88_fail_rate_completing_home_tasks/",
+        "image": "https://external-preview.redd.it/-TaiLrKXkVGIW_UyN_BqVC6xZvQicNNeBJBqxE-emY4.jpeg?width=640&crop=smart&auto=webp&s=cd0a372bc542e54603e65d86b5cfaff31db63a1a",
+        "published": "2026-04-16T20:15:34+00:00"
     }
 ]
