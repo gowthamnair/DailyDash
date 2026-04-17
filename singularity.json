@@ -12,16 +12,16 @@
         "published": "2026-04-17T14:38:06+00:00"
     },
     {
-        "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
-        "link": "https://www.reddit.com/r/singularity/comments/1snlp29/claude_opus_47_high_unexpectedly_performs/",
-        "image": "https://preview.redd.it/w43fpw3sbnvg1.png?width=640&crop=smart&auto=webp&s=f1e8f5d65cf8ae45702a8e2650663619ca1ea306",
-        "published": "2026-04-17T00:40:58+00:00"
-    },
-    {
         "title": "Unitree H1 accelerating from jogging to running",
         "link": "https://www.reddit.com/r/singularity/comments/1snzh84/unitree_h1_accelerating_from_jogging_to_running/",
         "image": "https://external-preview.redd.it/NnU0Y2FtMW91cXZnMVLpPlHb9NBxJV7Ygw0aXmy1afRRI9UR3x7N5K9qFxbS.png?width=640&crop=smart&auto=webp&s=21ea6efa639e7eda5545a1ef9f11b3567b1f3e9e",
         "published": "2026-04-17T12:25:34+00:00"
+    },
+    {
+        "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
+        "link": "https://www.reddit.com/r/singularity/comments/1snlp29/claude_opus_47_high_unexpectedly_performs/",
+        "image": "https://preview.redd.it/w43fpw3sbnvg1.png?width=640&crop=smart&auto=webp&s=f1e8f5d65cf8ae45702a8e2650663619ca1ea306",
+        "published": "2026-04-17T00:40:58+00:00"
     },
     {
         "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
@@ -48,6 +48,12 @@
         "published": "2026-04-17T07:27:05+00:00"
     },
     {
+        "title": "OpenAI Executive Kevin Weil Is Leaving the Company As Science Division Dissolved",
+        "link": "https://www.reddit.com/r/singularity/comments/1soci91/openai_executive_kevin_weil_is_leaving_the/",
+        "image": "https://external-preview.redd.it/-Q6MUS5bRl53SUDp8q6w6zCqcrxx4sLtXKNMLjPXrG0.jpeg?width=640&crop=smart&auto=webp&s=cd1623de2856cbf84fa5369fba3c92578f929c96",
+        "published": "2026-04-17T20:24:27+00:00"
+    },
+    {
         "title": "Impressive robotics demo from Physical Intelligence (pi). Includes generalizing to new tasks and language-based steering of the robot",
         "link": "https://www.reddit.com/r/singularity/comments/1snhzt3/impressive_robotics_demo_from_physical/",
         "image": "https://external-preview.redd.it/cnl2NzE5dTBsbXZnMX_MfSW7nvVTv2xdSay4NUWSjXtbTSKO-WcyLog1c4LE.png?width=640&crop=smart&auto=webp&s=de15c82f845e1a9d8aed128a4fc94efb5adecff7",
@@ -60,28 +66,22 @@
         "published": "2026-04-17T16:11:49+00:00"
     },
     {
-        "title": "Running a RunLobster (OpenClaw) agent since launch changed how i think about takeoff timelines",
-        "link": "https://www.reddit.com/r/singularity/comments/1snjs88/running_a_runlobster_openclaw_agent_since_launch/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-16T23:17:17+00:00"
-    },
-    {
         "title": "Claude Opus 4.7 Text Category Rankings",
         "link": "https://www.reddit.com/r/singularity/comments/1so997h/claude_opus_47_text_category_rankings/",
         "image": "https://preview.redd.it/mzh4kvu7fsvg1.jpeg?width=640&crop=smart&auto=webp&s=966e698c444749e5cfcdd3f0e88e0bc16146c63b",
         "published": "2026-04-17T18:26:33+00:00"
     },
     {
+        "title": "Running a RunLobster (OpenClaw) agent since launch changed how i think about takeoff timelines",
+        "link": "https://www.reddit.com/r/singularity/comments/1snjs88/running_a_runlobster_openclaw_agent_since_launch/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-16T23:17:17+00:00"
+    },
+    {
         "title": "Extended NYT Connections Benchmark: Model Introduction Date vs. Performance by Lab since 2024",
         "link": "https://www.reddit.com/r/singularity/comments/1so3zyu/extended_nyt_connections_benchmark_model/",
         "image": "https://preview.redd.it/to9idrfnorvg1.png?width=140&height=107&auto=webp&s=1ed4b3967a67bad412f347ba9fef83de6894e1d9",
         "published": "2026-04-17T15:18:24+00:00"
-    },
-    {
-        "title": "Lets say we reach LEV within our lifetimes. How would life be? (Discussion)",
-        "link": "https://www.reddit.com/r/singularity/comments/1snr34o/lets_say_we_reach_lev_within_our_lifetimes_how/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-17T04:52:19+00:00"
     },
     {
         "title": "FrontierMath: Opus 4.7 improves over Opus 4.6 and Gemini 3.1 but still trails GPT-5.4-xHigh and GPT-5.4-Pro",
