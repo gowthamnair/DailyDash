@@ -12,16 +12,16 @@
         "published": "2026-04-16T15:58:26+00:00"
     },
     {
+        "title": "White House Moves to Give US Agencies Anthropic Mythos Access",
+        "link": "https://www.reddit.com/r/singularity/comments/1snbv4m/white_house_moves_to_give_us_agencies_anthropic/",
+        "image": "https://external-preview.redd.it/9TxyfNwrsgLL8KQpuPWqBvXpEv7A_9XQxAqnQ-5WmYE.jpeg?width=640&crop=smart&auto=webp&s=71fe52b3d71adf8942dc4d5d8a753362b4b973be",
+        "published": "2026-04-16T18:22:03+00:00"
+    },
+    {
         "title": "Opus 4.7 seems to rolled out to Claude Web",
         "link": "https://www.reddit.com/r/singularity/comments/1smw74e/opus_47_seems_to_rolled_out_to_claude_web/",
         "image": "https://preview.redd.it/q5jz52s85ivg1.jpeg?width=640&crop=smart&auto=webp&s=17edb7ee6c97a75d14ee7f10f42955c5988df2db",
         "published": "2026-04-16T07:08:47+00:00"
-    },
-    {
-        "title": "Opus 4.7 has been spotted on Google Vertex",
-        "link": "https://www.reddit.com/r/singularity/comments/1smrk5p/opus_47_has_been_spotted_on_google_vertex/",
-        "image": "https://preview.redd.it/7wzrvlczxgvg1.png?width=640&crop=smart&auto=webp&s=20470be11652fcfbc5a2564ad79b3eb51d8cc2b1",
-        "published": "2026-04-16T03:06:18+00:00"
     },
     {
         "title": "Claude Opus 4.7",
@@ -30,10 +30,10 @@
         "published": "2026-04-16T16:33:48+00:00"
     },
     {
-        "title": "White House Moves to Give US Agencies Anthropic Mythos Access",
-        "link": "https://www.reddit.com/r/singularity/comments/1snbv4m/white_house_moves_to_give_us_agencies_anthropic/",
-        "image": "https://external-preview.redd.it/9TxyfNwrsgLL8KQpuPWqBvXpEv7A_9XQxAqnQ-5WmYE.jpeg?width=640&crop=smart&auto=webp&s=71fe52b3d71adf8942dc4d5d8a753362b4b973be",
-        "published": "2026-04-16T18:22:03+00:00"
+        "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
+        "link": "https://www.reddit.com/r/singularity/comments/1snlp29/claude_opus_47_high_unexpectedly_performs/",
+        "image": "https://preview.redd.it/w43fpw3sbnvg1.png?width=640&crop=smart&auto=webp&s=f1e8f5d65cf8ae45702a8e2650663619ca1ea306",
+        "published": "2026-04-17T00:40:58+00:00"
     },
     {
         "title": "Introducing GPT-Rosalind for life sciences research",
@@ -48,16 +48,22 @@
         "published": "2026-04-16T08:47:26+00:00"
     },
     {
+        "title": "OpenAI continues to lose market share in GenAI website traffic, while Gemini, and Claude are gaining:",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn3td3/openai_continues_to_lose_market_share_in_genai/",
+        "image": "https://preview.redd.it/rbpwyanm2kvg1.png?width=320&crop=smart&auto=webp&s=90fa5e699beea8ca8778a35fa69c7c182a85c401",
+        "published": "2026-04-16T13:38:42+00:00"
+    },
+    {
         "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
         "link": "https://www.reddit.com/r/singularity/comments/1smzu0i/anthropic_unveils_plans_for_major_uk_expansion/",
         "image": "https://external-preview.redd.it/svCMDIkc3qfLKGVxvZnwVFWhrfCmpb9KtmkgPB8IhD8.jpeg?width=640&crop=smart&auto=webp&s=111af03d3ddf7a900a65da58698edca574a4b0c5",
         "published": "2026-04-16T10:42:31+00:00"
     },
     {
-        "title": "OpenAI continues to lose market share in GenAI website traffic, while Gemini, and Claude are gaining:",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn3td3/openai_continues_to_lose_market_share_in_genai/",
-        "image": "https://preview.redd.it/rbpwyanm2kvg1.png?width=320&crop=smart&auto=webp&s=90fa5e699beea8ca8778a35fa69c7c182a85c401",
-        "published": "2026-04-16T13:38:42+00:00"
+        "title": "OpenAI: Codex for Almost Everything",
+        "link": "https://www.reddit.com/r/singularity/comments/1snegq5/openai_codex_for_almost_everything/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-16T19:54:19+00:00"
     },
     {
         "title": "Extra Benchmarks Opus 4.7",
@@ -72,21 +78,15 @@
         "published": "2026-04-16T13:39:55+00:00"
     },
     {
+        "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
+        "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
+        "published": "2026-04-16T23:48:57+00:00"
+    },
+    {
         "title": "Opus 4.7 Vals.ai benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1sn64u1/opus_47_valsai_benchmarks/",
         "image": "https://preview.redd.it/b3yyhhushkvg1.jpeg?width=640&crop=smart&auto=webp&s=eab9034caf195977d0b8d8dc4373b9a284269192",
         "published": "2026-04-16T15:02:44+00:00"
-    },
-    {
-        "title": "OpenAI: Codex for Almost Everything",
-        "link": "https://www.reddit.com/r/singularity/comments/1snegq5/openai_codex_for_almost_everything/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-16T19:54:19+00:00"
-    },
-    {
-        "title": "Humanoid Robots\u2019 88% Fail Rate: Completing Home Tasks",
-        "link": "https://www.reddit.com/r/singularity/comments/1snf218/humanoid_robots_88_fail_rate_completing_home_tasks/",
-        "image": "https://external-preview.redd.it/-TaiLrKXkVGIW_UyN_BqVC6xZvQicNNeBJBqxE-emY4.jpeg?width=640&crop=smart&auto=webp&s=cd0a372bc542e54603e65d86b5cfaff31db63a1a",
-        "published": "2026-04-16T20:15:34+00:00"
     }
 ]
