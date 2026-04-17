@@ -6,18 +6,6 @@
         "published": "2026-04-17T04:34:08+00:00"
     },
     {
-        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
-        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
-        "published": "2026-04-16T15:58:26+00:00"
-    },
-    {
-        "title": "Claude Opus 4.7",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn8qfp/claude_opus_47/",
-        "image": "https://preview.redd.it/nm0y6tp1ykvg1.jpeg?width=640&crop=smart&auto=webp&s=505b5ebe57f859d5d7d222d36b41f7e390bf933b",
-        "published": "2026-04-16T16:33:48+00:00"
-    },
-    {
         "title": "White House Moves to Give US Agencies Anthropic Mythos Access",
         "link": "https://www.reddit.com/r/singularity/comments/1snbv4m/white_house_moves_to_give_us_agencies_anthropic/",
         "image": "https://external-preview.redd.it/9TxyfNwrsgLL8KQpuPWqBvXpEv7A_9XQxAqnQ-5WmYE.jpeg?width=640&crop=smart&auto=webp&s=71fe52b3d71adf8942dc4d5d8a753362b4b973be",
@@ -36,6 +24,12 @@
         "published": "2026-04-17T14:38:06+00:00"
     },
     {
+        "title": "Unitree H1 accelerating from jogging to running",
+        "link": "https://www.reddit.com/r/singularity/comments/1snzh84/unitree_h1_accelerating_from_jogging_to_running/",
+        "image": "https://external-preview.redd.it/NnU0Y2FtMW91cXZnMVLpPlHb9NBxJV7Ygw0aXmy1afRRI9UR3x7N5K9qFxbS.png?width=640&crop=smart&auto=webp&s=21ea6efa639e7eda5545a1ef9f11b3567b1f3e9e",
+        "published": "2026-04-17T12:25:34+00:00"
+    },
+    {
         "title": "Introducing GPT-Rosalind for life sciences research",
         "link": "https://www.reddit.com/r/singularity/comments/1sne2e7/introducing_gptrosalind_for_life_sciences_research/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -46,12 +40,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
         "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
         "published": "2026-04-16T23:48:57+00:00"
-    },
-    {
-        "title": "Unitree H1 accelerating from jogging to running",
-        "link": "https://www.reddit.com/r/singularity/comments/1snzh84/unitree_h1_accelerating_from_jogging_to_running/",
-        "image": "https://external-preview.redd.it/NnU0Y2FtMW91cXZnMVLpPlHb9NBxJV7Ygw0aXmy1afRRI9UR3x7N5K9qFxbS.png?width=640&crop=smart&auto=webp&s=21ea6efa639e7eda5545a1ef9f11b3567b1f3e9e",
-        "published": "2026-04-17T12:25:34+00:00"
     },
     {
         "title": "I wonder how Mythos would answer this",
@@ -72,6 +60,12 @@
         "published": "2026-04-16T19:54:19+00:00"
     },
     {
+        "title": "Forbes: Elon Musk States Universal High Income Via Government Issued Checks Is The Best Way To Deal With Unemployment By AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1so3qti/forbes_elon_musk_states_universal_high_income_via/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-17T15:09:14+00:00"
+    },
+    {
         "title": "Humanoid Robots\u2019 88% Fail Rate: Completing Home Tasks",
         "link": "https://www.reddit.com/r/singularity/comments/1snf218/humanoid_robots_88_fail_rate_completing_home_tasks/",
         "image": "https://external-preview.redd.it/-TaiLrKXkVGIW_UyN_BqVC6xZvQicNNeBJBqxE-emY4.jpeg?width=640&crop=smart&auto=webp&s=cd0a372bc542e54603e65d86b5cfaff31db63a1a",
@@ -84,9 +78,15 @@
         "published": "2026-04-17T07:27:05+00:00"
     },
     {
-        "title": "Forbes: Elon Musk States Universal High Income Via Government Issued Checks Is The Best Way To Deal With Unemployment By AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1so3qti/forbes_elon_musk_states_universal_high_income_via/",
+        "title": "Impressive robotics demo from Physical Intelligence (pi). Includes generalizing to new tasks and language-based steering of the robot",
+        "link": "https://www.reddit.com/r/singularity/comments/1snhzt3/impressive_robotics_demo_from_physical/",
+        "image": "https://external-preview.redd.it/cnl2NzE5dTBsbXZnMX_MfSW7nvVTv2xdSay4NUWSjXtbTSKO-WcyLog1c4LE.png?width=640&crop=smart&auto=webp&s=de15c82f845e1a9d8aed128a4fc94efb5adecff7",
+        "published": "2026-04-16T22:04:45+00:00"
+    },
+    {
+        "title": "Running a RunLobster (OpenClaw) agent since launch changed how i think about takeoff timelines",
+        "link": "https://www.reddit.com/r/singularity/comments/1snjs88/running_a_runlobster_openclaw_agent_since_launch/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-17T15:09:14+00:00"
+        "published": "2026-04-16T23:17:17+00:00"
     }
 ]
