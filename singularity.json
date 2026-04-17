@@ -24,16 +24,16 @@
         "published": "2026-04-16T16:33:48+00:00"
     },
     {
-        "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
-        "link": "https://www.reddit.com/r/singularity/comments/1snlp29/claude_opus_47_high_unexpectedly_performs/",
-        "image": "https://preview.redd.it/w43fpw3sbnvg1.png?width=640&crop=smart&auto=webp&s=f1e8f5d65cf8ae45702a8e2650663619ca1ea306",
-        "published": "2026-04-17T00:40:58+00:00"
-    },
-    {
         "title": "Claude Power Users Unanimously Agree That Opus 4.7 Is A Serious Regression",
         "link": "https://www.reddit.com/r/singularity/comments/1snqqj5/claude_power_users_unanimously_agree_that_opus_47/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-17T04:34:08+00:00"
+    },
+    {
+        "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
+        "link": "https://www.reddit.com/r/singularity/comments/1snlp29/claude_opus_47_high_unexpectedly_performs/",
+        "image": "https://preview.redd.it/w43fpw3sbnvg1.png?width=640&crop=smart&auto=webp&s=f1e8f5d65cf8ae45702a8e2650663619ca1ea306",
+        "published": "2026-04-17T00:40:58+00:00"
     },
     {
         "title": "Introducing GPT-Rosalind for life sciences research",
@@ -48,22 +48,16 @@
         "published": "2026-04-16T13:38:42+00:00"
     },
     {
-        "title": "Gemini 3.1 Pro #1 at METR Timeline 80% Success Rate (1.5H)",
-        "link": "https://www.reddit.com/r/singularity/comments/1smxtzg/gemini_31_pro_1_at_metr_timeline_80_success_rate/",
-        "image": "https://preview.redd.it/ibewvxcumivg1.jpeg?width=640&crop=smart&auto=webp&s=a6c2a6242e855e75fb9f740e13d416470237233c",
-        "published": "2026-04-16T08:47:26+00:00"
+        "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
+        "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
+        "published": "2026-04-16T23:48:57+00:00"
     },
     {
         "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
         "link": "https://www.reddit.com/r/singularity/comments/1smzu0i/anthropic_unveils_plans_for_major_uk_expansion/",
         "image": "https://external-preview.redd.it/svCMDIkc3qfLKGVxvZnwVFWhrfCmpb9KtmkgPB8IhD8.jpeg?width=640&crop=smart&auto=webp&s=111af03d3ddf7a900a65da58698edca574a4b0c5",
         "published": "2026-04-16T10:42:31+00:00"
-    },
-    {
-        "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
-        "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
-        "published": "2026-04-16T23:48:57+00:00"
     },
     {
         "title": "OpenAI: Codex for Almost Everything",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1snf218/humanoid_robots_88_fail_rate_completing_home_tasks/",
         "image": "https://external-preview.redd.it/-TaiLrKXkVGIW_UyN_BqVC6xZvQicNNeBJBqxE-emY4.jpeg?width=640&crop=smart&auto=webp&s=cd0a372bc542e54603e65d86b5cfaff31db63a1a",
         "published": "2026-04-16T20:15:34+00:00"
+    },
+    {
+        "title": "Qwen3.6-35B-A3B released!",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn3ugb/qwen3635ba3b_released/",
+        "image": "https://preview.redd.it/g6edjlxt0kvg1.jpeg?width=640&crop=smart&auto=webp&s=70f04bae14d0359790b5964a3af6ad55dc5354b5",
+        "published": "2026-04-16T13:39:55+00:00"
     }
 ]
