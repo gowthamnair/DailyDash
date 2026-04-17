@@ -6,16 +6,16 @@
         "published": "2026-04-16T14:25:23+00:00"
     },
     {
-        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
-        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
-        "published": "2026-04-16T15:58:26+00:00"
-    },
-    {
         "title": "Claude Power Users Unanimously Agree That Opus 4.7 Is A Serious Regression",
         "link": "https://www.reddit.com/r/singularity/comments/1snqqj5/claude_power_users_unanimously_agree_that_opus_47/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-17T04:34:08+00:00"
+    },
+    {
+        "title": "Figure.AI new balance policy allows their 03 humanoid robot to keep its balance even if some low-body actuators are lost",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn7pm3/figureai_new_balance_policy_allows_their_03/",
+        "image": "https://external-preview.redd.it/Y3AyaHN3cG9ya3ZnMQhBkuE8ffPxq1wSW-e0Wa8O7k9NZ-BINJ6xC-D6yxQ-.png?width=320&crop=smart&auto=webp&s=6575f71463103c37db27e234c15eb23aaf6c098b",
+        "published": "2026-04-16T15:58:26+00:00"
     },
     {
         "title": "Claude Opus 4.7",
@@ -48,12 +48,6 @@
         "published": "2026-04-16T23:48:57+00:00"
     },
     {
-        "title": "OpenAI continues to lose market share in GenAI website traffic, while Gemini, and Claude are gaining:",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn3td3/openai_continues_to_lose_market_share_in_genai/",
-        "image": "https://preview.redd.it/rbpwyanm2kvg1.png?width=320&crop=smart&auto=webp&s=90fa5e699beea8ca8778a35fa69c7c182a85c401",
-        "published": "2026-04-16T13:38:42+00:00"
-    },
-    {
         "title": "I wonder how Mythos would answer this",
         "link": "https://www.reddit.com/r/singularity/comments/1sniweu/i_wonder_how_mythos_would_answer_this/",
         "image": "https://preview.redd.it/8xnoe2n7rmvg1.png?width=640&crop=smart&auto=webp&s=2a857a22d6a7233905090b20c43482bcb3db27d1",
@@ -84,9 +78,15 @@
         "published": "2026-04-16T14:42:44+00:00"
     },
     {
-        "title": "Qwen3.6-35B-A3B released!",
-        "link": "https://www.reddit.com/r/singularity/comments/1sn3ugb/qwen3635ba3b_released/",
-        "image": "https://preview.redd.it/g6edjlxt0kvg1.jpeg?width=640&crop=smart&auto=webp&s=70f04bae14d0359790b5964a3af6ad55dc5354b5",
-        "published": "2026-04-16T13:39:55+00:00"
+        "title": "Unitree H1 accelerating from jogging to running",
+        "link": "https://www.reddit.com/r/singularity/comments/1snzh84/unitree_h1_accelerating_from_jogging_to_running/",
+        "image": "https://external-preview.redd.it/NnU0Y2FtMW91cXZnMVLpPlHb9NBxJV7Ygw0aXmy1afRRI9UR3x7N5K9qFxbS.png?width=640&crop=smart&auto=webp&s=21ea6efa639e7eda5545a1ef9f11b3567b1f3e9e",
+        "published": "2026-04-17T12:25:34+00:00"
+    },
+    {
+        "title": "Opus 4.7 Vals.ai benchmarks",
+        "link": "https://www.reddit.com/r/singularity/comments/1sn64u1/opus_47_valsai_benchmarks/",
+        "image": "https://preview.redd.it/b3yyhhushkvg1.jpeg?width=640&crop=smart&auto=webp&s=eab9034caf195977d0b8d8dc4373b9a284269192",
+        "published": "2026-04-16T15:02:44+00:00"
     }
 ]
