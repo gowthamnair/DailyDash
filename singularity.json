@@ -18,34 +18,22 @@
         "published": "2026-04-17T12:25:34+00:00"
     },
     {
-        "title": "Claude Opus 4.7 (high) unexpectedly performs significantly worse than Opus 4.6 (high) on the Thematic Generalization Benchmark: 80.6 \u2192 72.8.",
-        "link": "https://www.reddit.com/r/singularity/comments/1snlp29/claude_opus_47_high_unexpectedly_performs/",
-        "image": "https://preview.redd.it/w43fpw3sbnvg1.png?width=640&crop=smart&auto=webp&s=f1e8f5d65cf8ae45702a8e2650663619ca1ea306",
-        "published": "2026-04-17T00:40:58+00:00"
-    },
-    {
-        "title": "Jensen Huang: \"Doomers are describing the end of work and killing of jobs.. same prediction ten years ago, some of the doomers were telling people not to become radiologists.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1snkiib/jensen_huang_doomers_are_describing_the_end_of/",
-        "image": "https://preview.redd.it/6i4p3rmk3nvg1.jpeg?width=640&crop=smart&auto=webp&s=fceb4393d0c9a349ed06034ea099d834cf1fd32d",
-        "published": "2026-04-16T23:48:57+00:00"
-    },
-    {
         "title": "Usain Volt. Who ready for the Robolympics?",
         "link": "https://www.reddit.com/r/singularity/comments/1sns4c6/usain_volt_who_ready_for_the_robolympics/",
         "image": "https://external-preview.redd.it/ZDRjMmNsZnB2b3ZnMfkg61IIbjG3YHD2bo9Zl-oXo8lICP8ONAAN76zViUYk.png?width=320&crop=smart&auto=webp&s=c91645346541e021f590548afa133b1076023ca8",
         "published": "2026-04-17T05:47:55+00:00"
     },
     {
-        "title": "Researchers Induce Smells With Ultrasound, No Chemical Cartridges Required",
-        "link": "https://www.reddit.com/r/singularity/comments/1sntwcg/researchers_induce_smells_with_ultrasound_no/",
-        "image": "https://external-preview.redd.it/ISJRbzZL7hsVmnFPxfLkroR44GvhKWQWuSXlzAlunoQ.png?width=640&crop=smart&auto=webp&s=ad48a0aebe2e6d37216ab5f19c5e18646aebe6f7",
-        "published": "2026-04-17T07:27:05+00:00"
-    },
-    {
         "title": "OpenAI Executive Kevin Weil Is Leaving the Company As Science Division Dissolved",
         "link": "https://www.reddit.com/r/singularity/comments/1soci91/openai_executive_kevin_weil_is_leaving_the/",
         "image": "https://external-preview.redd.it/-Q6MUS5bRl53SUDp8q6w6zCqcrxx4sLtXKNMLjPXrG0.jpeg?width=640&crop=smart&auto=webp&s=cd1623de2856cbf84fa5369fba3c92578f929c96",
         "published": "2026-04-17T20:24:27+00:00"
+    },
+    {
+        "title": "Researchers Induce Smells With Ultrasound, No Chemical Cartridges Required",
+        "link": "https://www.reddit.com/r/singularity/comments/1sntwcg/researchers_induce_smells_with_ultrasound_no/",
+        "image": "https://external-preview.redd.it/ISJRbzZL7hsVmnFPxfLkroR44GvhKWQWuSXlzAlunoQ.png?width=640&crop=smart&auto=webp&s=ad48a0aebe2e6d37216ab5f19c5e18646aebe6f7",
+        "published": "2026-04-17T07:27:05+00:00"
     },
     {
         "title": "Differences Between Opus 4.6 and Opus 4.7 on MineBench",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sobbj7/19_claude_opus_47_insights_you_wouldnt_get_from/",
         "image": "https://external-preview.redd.it/EPJHPF9CKZKr7oF5eThXTU0hYOJnSSD4NFC5NLwRdYE.jpeg?width=320&crop=smart&auto=webp&s=b82d0361cf42bd4987600ccb84ab602bd966b956",
         "published": "2026-04-17T19:40:35+00:00"
+    },
+    {
+        "title": "X Square is teasing a new humanoid robot and brain model for next Tuesday. NY Square billboards reads \u2018A real brain. It works around the house. You can simply live.\u2019",
+        "link": "https://www.reddit.com/r/singularity/comments/1soalu6/x_square_is_teasing_a_new_humanoid_robot_and/",
+        "image": "https://external-preview.redd.it/ZGE1bGhieG92c3ZnMYPEsa_MgZgNz5LCrKK5rciqErkuMsXMJzLnaM5KRtH4.png?width=320&crop=smart&auto=webp&s=c22d1d0590be79e47f3232c0b192b974f2a22e38",
+        "published": "2026-04-17T19:14:53+00:00"
+    },
+    {
+        "title": "How is work on eliminating hallucinations going?",
+        "link": "https://www.reddit.com/r/singularity/comments/1sogxck/how_is_work_on_eliminating_hallucinations_going/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-17T23:18:04+00:00"
     }
 ]
