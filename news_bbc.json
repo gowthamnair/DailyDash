@@ -1,11 +1,5 @@
 [
     {
-        "title": "Oil prices plunge as Iran says Strait 'open'",
-        "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0790/live/5a41eb90-3a6a-11f1-b0ed-870299e8b290.jpg",
-        "published": "Sat, 18 Apr 2026 06:06:38 GMT"
-    },
-    {
         "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
         "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5627/live/697f3bd0-3a65-11f1-9d5c-8ba507d7dbde.jpg",
@@ -14,7 +8,7 @@
     {
         "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
         "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3b12/live/a384fdc0-3af0-11f1-9961-936cc21d3655.jpg",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bde5/live/defa68d0-3b19-11f1-8606-05fe34b06e1b.jpg",
         "published": "Sat, 18 Apr 2026 10:32:54 GMT"
     },
     {
@@ -24,22 +18,34 @@
         "published": "Fri, 17 Apr 2026 18:25:12 GMT"
     },
     {
+        "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+        "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/12ca/live/8615c350-3ab9-11f1-9c22-11807b89f7b9.jpg",
+        "published": "Sat, 18 Apr 2026 00:37:06 GMT"
+    },
+    {
+        "title": "French film star Nathalie Baye dies aged 77, media report",
+        "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bf54/live/786c3500-3b17-11f1-b1b8-59274407f83c.jpg",
+        "published": "Sat, 18 Apr 2026 12:31:16 GMT"
+    },
+    {
         "title": "DR Congo accepts first set of deportees from the US",
         "link": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f8c8/live/1ec1c020-3b07-11f1-874b-f17c73d2ecbd.jpg",
         "published": "Sat, 18 Apr 2026 09:18:16 GMT"
     },
     {
-        "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
-        "link": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/320e/live/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg",
-        "published": "Fri, 17 Apr 2026 16:17:54 GMT"
-    },
-    {
         "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
         "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ce3/live/7537af70-3a7e-11f1-850e-07c4418cf86c.jpg",
         "published": "Fri, 17 Apr 2026 18:19:43 GMT"
+    },
+    {
+        "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
+        "link": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/320e/live/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg",
+        "published": "Fri, 17 Apr 2026 16:17:54 GMT"
     },
     {
         "title": "Kanye West concert in Poland cancelled over antisemitic comments",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7807/live/7e20fa90-39f4-11f1-b36c-918395f808bb.jpg",
         "published": "Fri, 17 Apr 2026 00:30:38 GMT"
-    },
-    {
-        "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-        "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
-        "published": "Fri, 17 Apr 2026 10:22:46 GMT"
     }
 ]
