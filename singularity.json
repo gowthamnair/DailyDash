@@ -30,16 +30,16 @@
         "published": "2026-04-18T00:33:22+00:00"
     },
     {
-        "title": "INSANELY ACCURATE New Image Model",
-        "link": "https://www.reddit.com/r/singularity/comments/1sotj83/insanely_accurate_new_image_model/",
-        "image": "https://preview.redd.it/4if4o3ju9xvg1.jpeg?width=640&crop=smart&auto=webp&s=4138e01a0a4f3a2ffd9cdd265e973ad66c0df0d1",
-        "published": "2026-04-18T10:01:21+00:00"
-    },
-    {
         "title": "Organic vs Non-Organic interaction (beluga whale vs spot)",
         "link": "https://www.reddit.com/r/singularity/comments/1sp3gpd/organic_vs_nonorganic_interaction_beluga_whale_vs/",
         "image": "https://external-preview.redd.it/bHQ2NXNwb2FmenZnMZFBN_kb0sM4g-P6p8tnWAdrAkUD2uyJQUNj1Q4Dzb7p.png?width=320&crop=smart&auto=webp&s=8632b8477d86fac74917df6fe5be2538ae8494a7",
         "published": "2026-04-18T17:15:43+00:00"
+    },
+    {
+        "title": "INSANELY ACCURATE New Image Model",
+        "link": "https://www.reddit.com/r/singularity/comments/1sotj83/insanely_accurate_new_image_model/",
+        "image": "https://preview.redd.it/4if4o3ju9xvg1.jpeg?width=640&crop=smart&auto=webp&s=4138e01a0a4f3a2ffd9cdd265e973ad66c0df0d1",
+        "published": "2026-04-18T10:01:21+00:00"
     },
     {
         "title": "So... has anyone actually figured out whose model Elephant Alpha is yet?",
@@ -72,12 +72,6 @@
         "published": "2026-04-18T18:45:35+00:00"
     },
     {
-        "title": "I spent 2 months and $600 building a cognitive system on top of Claude because the product I actually need doesn't exist. Here's what I learned.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sp80r9/i_spent_2_months_and_600_building_a_cognitive/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-18T20:09:56+00:00"
-    },
-    {
         "title": "AGI might not be the horror some say - personal observations from an interesting personal project.",
         "link": "https://www.reddit.com/r/singularity/comments/1sp61ra/agi_might_not_be_the_horror_some_say_personal/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sp7abc/what_happens_when_90_of_humanity_is_no_longer_an/",
         "image": "https://preview.redd.it/66qp1lue50wg1.jpeg?width=640&crop=smart&auto=webp&s=c28ea9d8c58e6e40973f502739d141a9511445d1",
         "published": "2026-04-18T19:41:54+00:00"
+    },
+    {
+        "title": "I spent 2 months and $600 building a cognitive system on top of Claude because the product I actually need doesn't exist. Here's what I learned.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sp80r9/i_spent_2_months_and_600_building_a_cognitive/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-18T20:09:56+00:00"
     }
 ]
