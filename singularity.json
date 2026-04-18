@@ -1,11 +1,5 @@
 [
     {
-        "title": "Claude Power Users Unanimously Agree That Opus 4.7 Is A Serious Regression",
-        "link": "https://www.reddit.com/r/singularity/comments/1snqqj5/claude_power_users_unanimously_agree_that_opus_47/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-17T04:34:08+00:00"
-    },
-    {
         "title": "opus 4.7 (high) scores a 41.0% on the nyt connections extended benchmark. opus 4.6 scored 94.7%.",
         "link": "https://www.reddit.com/r/singularity/comments/1so2vmc/opus_47_high_scores_a_410_on_the_nyt_connections/",
         "image": "https://external-preview.redd.it/HlL1IAo6LMNAbMjs22pKs3VD78YwJAD0FYgB1SaIx_U.png?width=640&crop=smart&auto=webp&s=00a2bf8a3dc3327c8514b5ed126db0454a612516",
@@ -30,12 +24,6 @@
         "published": "2026-04-17T20:24:27+00:00"
     },
     {
-        "title": "Usain Volt. Who ready for the Robolympics?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sns4c6/usain_volt_who_ready_for_the_robolympics/",
-        "image": "https://external-preview.redd.it/ZDRjMmNsZnB2b3ZnMfkg61IIbjG3YHD2bo9Zl-oXo8lICP8ONAAN76zViUYk.png?width=320&crop=smart&auto=webp&s=c91645346541e021f590548afa133b1076023ca8",
-        "published": "2026-04-17T05:47:55+00:00"
-    },
-    {
         "title": "Researchers Induce Smells With Ultrasound, No Chemical Cartridges Required",
         "link": "https://www.reddit.com/r/singularity/comments/1sntwcg/researchers_induce_smells_with_ultrasound_no/",
         "image": "https://external-preview.redd.it/ISJRbzZL7hsVmnFPxfLkroR44GvhKWQWuSXlzAlunoQ.png?width=640&crop=smart&auto=webp&s=ad48a0aebe2e6d37216ab5f19c5e18646aebe6f7",
@@ -54,16 +42,16 @@
         "published": "2026-04-17T18:26:33+00:00"
     },
     {
-        "title": "FrontierMath: Opus 4.7 improves over Opus 4.6 and Gemini 3.1 but still trails GPT-5.4-xHigh and GPT-5.4-Pro",
-        "link": "https://www.reddit.com/r/singularity/comments/1so88jj/frontiermath_opus_47_improves_over_opus_46_and/",
-        "image": "https://preview.redd.it/a5ofoouigsvg1.png?width=640&crop=smart&auto=webp&s=bf8926a20633ee4e26eb2522a734c22bca4e52f6",
-        "published": "2026-04-17T17:49:49+00:00"
-    },
-    {
         "title": "Opus 4.7 Narrowly leads Artificial Analysis using significantly less tokens than Opus 4.6",
         "link": "https://www.reddit.com/r/singularity/comments/1soin1j/opus_47_narrowly_leads_artificial_analysis_using/",
         "image": "https://preview.redd.it/oxy8goqiguvg1.jpeg?width=640&crop=smart&auto=webp&s=43c15d5d8ecb2efd6e0141ddc5bd0d955161500f",
         "published": "2026-04-18T00:33:22+00:00"
+    },
+    {
+        "title": "FrontierMath: Opus 4.7 improves over Opus 4.6 and Gemini 3.1 but still trails GPT-5.4-xHigh and GPT-5.4-Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1so88jj/frontiermath_opus_47_improves_over_opus_46_and/",
+        "image": "https://preview.redd.it/a5ofoouigsvg1.png?width=640&crop=smart&auto=webp&s=bf8926a20633ee4e26eb2522a734c22bca4e52f6",
+        "published": "2026-04-17T17:49:49+00:00"
     },
     {
         "title": "Extended NYT Connections Benchmark: Model Introduction Date vs. Performance by Lab since 2024",
@@ -72,10 +60,10 @@
         "published": "2026-04-17T15:18:24+00:00"
     },
     {
-        "title": "Lets say we reach LEV within our lifetimes. How would life be? (Discussion)",
-        "link": "https://www.reddit.com/r/singularity/comments/1snr34o/lets_say_we_reach_lev_within_our_lifetimes_how/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-17T04:52:19+00:00"
+        "title": "Hesai releases world's first full-color LiDAR chip, supporting up to 4,320 laser channels",
+        "link": "https://www.reddit.com/r/singularity/comments/1somugr/hesai_releases_worlds_first_fullcolor_lidar_chip/",
+        "image": "https://external-preview.redd.it/8iCgCDQtok-qukmfzykT1_P0B4vXJRoGJQ53cHq5hoo.jpeg?width=640&crop=smart&auto=webp&s=e1801ecc169e4bac29f4588a6b0366b096a54561",
+        "published": "2026-04-18T03:52:56+00:00"
     },
     {
         "title": "19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines | AIExplained",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sogxck/how_is_work_on_eliminating_hallucinations_going/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-17T23:18:04+00:00"
+    },
+    {
+        "title": "X Square is teasing a new humanoid robot and brain model for next Tuesday. NY Square billboards reads \u2018A real brain. It works around the house. You can simply live.\u2019",
+        "link": "https://www.reddit.com/r/singularity/comments/1soalu6/x_square_is_teasing_a_new_humanoid_robot_and/",
+        "image": "https://external-preview.redd.it/ZGE1bGhieG92c3ZnMYPEsa_MgZgNz5LCrKK5rciqErkuMsXMJzLnaM5KRtH4.png?width=320&crop=smart&auto=webp&s=c22d1d0590be79e47f3232c0b192b974f2a22e38",
+        "published": "2026-04-17T19:14:53+00:00"
+    },
+    {
+        "title": "The next big AI shift in science may be search, not analysis",
+        "link": "https://www.reddit.com/r/singularity/comments/1so9ibr/the_next_big_ai_shift_in_science_may_be_search/",
+        "image": "https://preview.redd.it/rz3fbacs3rvg1.jpeg?width=640&crop=smart&auto=webp&s=01ce029c19ba5d1e056f2b8fbb18377d37079d73",
+        "published": "2026-04-17T18:35:25+00:00"
     }
 ]
