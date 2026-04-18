@@ -1,11 +1,5 @@
 [
     {
-        "title": "opus 4.7 (high) scores a 41.0% on the nyt connections extended benchmark. opus 4.6 scored 94.7%.",
-        "link": "https://www.reddit.com/r/singularity/comments/1so2vmc/opus_47_high_scores_a_410_on_the_nyt_connections/",
-        "image": "https://external-preview.redd.it/HlL1IAo6LMNAbMjs22pKs3VD78YwJAD0FYgB1SaIx_U.png?width=640&crop=smart&auto=webp&s=00a2bf8a3dc3327c8514b5ed126db0454a612516",
-        "published": "2026-04-17T14:38:06+00:00"
-    },
-    {
         "title": "Differences Between Opus 4.6 and Opus 4.7 on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1sofehv/differences_between_opus_46_and_opus_47_on/",
         "image": "https://preview.redd.it/r8bxahdmotvg1.gif?frame=1&width=140&height=78&auto=webp&s=48df1c45d185f24781a07735042c6d58dd015203",
@@ -42,16 +36,16 @@
         "published": "2026-04-17T16:11:49+00:00"
     },
     {
-        "title": "Claude Opus 4.7 Text Category Rankings",
-        "link": "https://www.reddit.com/r/singularity/comments/1so997h/claude_opus_47_text_category_rankings/",
-        "image": "https://preview.redd.it/mzh4kvu7fsvg1.jpeg?width=640&crop=smart&auto=webp&s=966e698c444749e5cfcdd3f0e88e0bc16146c63b",
-        "published": "2026-04-17T18:26:33+00:00"
-    },
-    {
         "title": "INSANELY ACCURATE New Image Model",
         "link": "https://www.reddit.com/r/singularity/comments/1sotj83/insanely_accurate_new_image_model/",
         "image": "https://preview.redd.it/4if4o3ju9xvg1.jpeg?width=640&crop=smart&auto=webp&s=4138e01a0a4f3a2ffd9cdd265e973ad66c0df0d1",
         "published": "2026-04-18T10:01:21+00:00"
+    },
+    {
+        "title": "Claude Opus 4.7 Text Category Rankings",
+        "link": "https://www.reddit.com/r/singularity/comments/1so997h/claude_opus_47_text_category_rankings/",
+        "image": "https://preview.redd.it/mzh4kvu7fsvg1.jpeg?width=640&crop=smart&auto=webp&s=966e698c444749e5cfcdd3f0e88e0bc16146c63b",
+        "published": "2026-04-17T18:26:33+00:00"
     },
     {
         "title": "FrontierMath: Opus 4.7 improves over Opus 4.6 and Gemini 3.1 but still trails GPT-5.4-xHigh and GPT-5.4-Pro",
@@ -72,12 +66,6 @@
         "published": "2026-04-17T19:40:35+00:00"
     },
     {
-        "title": "Extended NYT Connections Benchmark: Model Introduction Date vs. Performance by Lab since 2024",
-        "link": "https://www.reddit.com/r/singularity/comments/1so3zyu/extended_nyt_connections_benchmark_model/",
-        "image": "https://preview.redd.it/to9idrfnorvg1.png?width=140&height=107&auto=webp&s=1ed4b3967a67bad412f347ba9fef83de6894e1d9",
-        "published": "2026-04-17T15:18:24+00:00"
-    },
-    {
         "title": "The Future of Recreational Drugs",
         "link": "https://www.reddit.com/r/singularity/comments/1sop86c/the_future_of_recreational_drugs/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1soalu6/x_square_is_teasing_a_new_humanoid_robot_and/",
         "image": "https://external-preview.redd.it/ZGE1bGhieG92c3ZnMYPEsa_MgZgNz5LCrKK5rciqErkuMsXMJzLnaM5KRtH4.png?width=320&crop=smart&auto=webp&s=c22d1d0590be79e47f3232c0b192b974f2a22e38",
         "published": "2026-04-17T19:14:53+00:00"
+    },
+    {
+        "title": "Beijing E-Town humanoid robot half-marathon LIVE stream, April 18 7:30PM ET",
+        "link": "https://www.reddit.com/r/singularity/comments/1sowanx/beijing_etown_humanoid_robot_halfmarathon_live/",
+        "image": "https://external-preview.redd.it/i_HjvegUkLKzC6oKBKSebcLAWL87hisePamaVsr9UQA.jpeg?width=640&crop=smart&auto=webp&s=b06ffff3be7efbe36925b038a15eba2be57d02cd",
+        "published": "2026-04-18T12:27:03+00:00"
     }
 ]
