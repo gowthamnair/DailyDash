@@ -24,16 +24,16 @@
         "published": "2026-04-17T09:33:44+00:00"
     },
     {
-        "title": "Joaquin Phoenix, Ben Stiller, Kristen Stewart and 1,000-Plus Hollywood Names Oppose Paramount-Warner Deal in Open Letter: \"Block the Merger\"",
-        "link": "https://www.reddit.com/r/technology/comments/1snqfhl/joaquin_phoenix_ben_stiller_kristen_stewart_and/",
-        "image": "https://external-preview.redd.it/_Iq21C230MojTSNVbpYvAZaz9bqmtwLVeda0LyzSSfw.jpeg?width=640&crop=smart&auto=webp&s=ec4471141b80b11ec07d1c8005f82b4a0626e10e",
-        "published": "2026-04-17T04:18:23+00:00"
-    },
-    {
         "title": "SpaceX Bought Nearly 20% Of Tesla Cybertrucks Sold In Q4",
         "link": "https://www.reddit.com/r/technology/comments/1so3yjf/spacex_bought_nearly_20_of_tesla_cybertrucks_sold/",
         "image": "https://external-preview.redd.it/uuV14VljcReyJDHzmXAZ2Pjaa4sN6SBQfkd_Su9zDlQ.jpeg?width=640&crop=smart&auto=webp&s=e5d61db6a80eb8b25873b1d2d1472a7ad04d9bf9",
         "published": "2026-04-17T15:16:55+00:00"
+    },
+    {
+        "title": "'If I am going to advocate for others to kill and commit crimes, then I must lead by example': OpenAI suspect's chilling manifesto",
+        "link": "https://www.reddit.com/r/technology/comments/1so4img/if_i_am_going_to_advocate_for_others_to_kill_and/",
+        "image": "https://external-preview.redd.it/_4vpC92ngyW8l9JZV1E8neA5j8KxAwWAdxCNGN_MTUU.jpeg?width=640&crop=smart&auto=webp&s=22501e71a607bfced0ad5bb127103316a0f9ddd3",
+        "published": "2026-04-17T15:37:03+00:00"
     },
     {
         "title": "The creative software industry has declared war on Adobe / \ufeffIf you can\u2019t beat them, undercut them on price.",
@@ -48,12 +48,6 @@
         "published": "2026-04-17T06:58:03+00:00"
     },
     {
-        "title": "'If I am going to advocate for others to kill and commit crimes, then I must lead by example': OpenAI suspect's chilling manifesto",
-        "link": "https://www.reddit.com/r/technology/comments/1so4img/if_i_am_going_to_advocate_for_others_to_kill_and/",
-        "image": "https://external-preview.redd.it/_4vpC92ngyW8l9JZV1E8neA5j8KxAwWAdxCNGN_MTUU.jpeg?width=640&crop=smart&auto=webp&s=22501e71a607bfced0ad5bb127103316a0f9ddd3",
-        "published": "2026-04-17T15:37:03+00:00"
-    },
-    {
         "title": "Congress Should Start Planning for a Potential AI Crash Now, New Vanderbilt Report Says",
         "link": "https://www.reddit.com/r/technology/comments/1so0xaz/congress_should_start_planning_for_a_potential_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -66,16 +60,16 @@
         "published": "2026-04-17T14:48:27+00:00"
     },
     {
-        "title": "FAA Scraps Civil and Criminal Penalties for Flying Drones Near ICE Vehicles",
-        "link": "https://www.reddit.com/r/technology/comments/1so4sn0/faa_scraps_civil_and_criminal_penalties_for/",
-        "image": "https://external-preview.redd.it/vtVEPk-PO2W_khSf4fKQB2B_4pfegN_22e9UlL3b3IM.jpeg?width=640&crop=smart&auto=webp&s=b12b9e51cd145bcf96d1d4e4892708be61207f77",
-        "published": "2026-04-17T15:47:05+00:00"
-    },
-    {
         "title": "It Is Time to Ban the Sale of Precise Geolocation",
         "link": "https://www.reddit.com/r/technology/comments/1so7k5p/it_is_time_to_ban_the_sale_of_precise_geolocation/",
         "image": "https://external-preview.redd.it/whxWR-ah8Sjdf2mckrTy4f6oqqAuxYfucVPmJNmpTv8.jpeg?width=640&crop=smart&auto=webp&s=d2182557f2dda038c6824e270c7cd860678b2b07",
         "published": "2026-04-17T17:25:29+00:00"
+    },
+    {
+        "title": "FAA Scraps Civil and Criminal Penalties for Flying Drones Near ICE Vehicles",
+        "link": "https://www.reddit.com/r/technology/comments/1so4sn0/faa_scraps_civil_and_criminal_penalties_for/",
+        "image": "https://external-preview.redd.it/vtVEPk-PO2W_khSf4fKQB2B_4pfegN_22e9UlL3b3IM.jpeg?width=640&crop=smart&auto=webp&s=b12b9e51cd145bcf96d1d4e4892708be61207f77",
+        "published": "2026-04-17T15:47:05+00:00"
     },
     {
         "title": "Brendan Carr Cooking Up New Sham Investigation Of Jimmy Kimmel",
@@ -84,9 +78,15 @@
         "published": "2026-04-17T19:46:31+00:00"
     },
     {
-        "title": "Largest US renewable project begins generating electricity",
-        "link": "https://www.reddit.com/r/technology/comments/1snq8lo/largest_us_renewable_project_begins_generating/",
-        "image": "https://external-preview.redd.it/sTgZESRbzUIH9Q4RV04SW_P676JS72XjeqzfMqV7nVg.jpeg?width=320&crop=smart&auto=webp&s=35ca544fc45fc6627eb83975c8bf6b50ae87af45",
-        "published": "2026-04-17T04:08:51+00:00"
+        "title": "OpenAI loses 3 top executives as it cuts back on 'side quests'",
+        "link": "https://www.reddit.com/r/technology/comments/1solesv/openai_loses_3_top_executives_as_it_cuts_back_on/",
+        "image": "https://external-preview.redd.it/Lu8Zyke39w6N1ZWmvYCQRgPqGYJDpww2-PisXCA5uDo.jpeg?width=640&crop=smart&auto=webp&s=7e26d8a26807cc8562e9692664428e911a7b5ab9",
+        "published": "2026-04-18T02:42:36+00:00"
+    },
+    {
+        "title": "Nasal Spray Reverses Brain Aging and Inflammation - Neuroscience News",
+        "link": "https://www.reddit.com/r/technology/comments/1so58wi/nasal_spray_reverses_brain_aging_and_inflammation/",
+        "image": "https://external-preview.redd.it/b6h4cjJnt50Omszcb9EfKV4GuxukN7_a1nOhPbz2M1Y.jpeg?width=640&crop=smart&auto=webp&s=1b0b93f999ed4e830a30bca8591853a9935b0750",
+        "published": "2026-04-17T16:03:10+00:00"
     }
 ]
