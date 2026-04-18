@@ -1,11 +1,5 @@
 [
     {
-        "title": "Anti-AI sentiment is on the rise\u2014and it\u2019s starting to turn violent",
-        "link": "https://www.reddit.com/r/technology/comments/1soe5wg/antiai_sentiment_is_on_the_riseand_its_starting/",
-        "image": "https://external-preview.redd.it/Bh5TY_7ui2Ann1Zaag_XAkqD-tKOF9yTsQavk8k9Zfg.jpeg?width=640&crop=smart&auto=webp&s=9d93f6f4f6acde30fe96a1b464b135467dc3cabe",
-        "published": "2026-04-17T21:26:33+00:00"
-    },
-    {
         "title": "Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location \u2014 $5 gadget put a $585 million Dutch ship at risk for 24 hours",
         "link": "https://www.reddit.com/r/technology/comments/1sp3cwj/bluetooth_tracker_hidden_in_a_postcard_and_mailed/",
         "image": "https://external-preview.redd.it/cTV_mTQ6r-4VIVaOMMnl476xzqCpMKpBS6xmbVs-7nQ.jpeg?width=640&crop=smart&auto=webp&s=f977842846f3886fd99cdfeaffd9dca2d1a7e0be",
@@ -18,6 +12,12 @@
         "published": "2026-04-18T09:34:33+00:00"
     },
     {
+        "title": "Tech CEO accused of running $420M AI business scam",
+        "link": "https://www.reddit.com/r/technology/comments/1sp578a/tech_ceo_accused_of_running_420m_ai_business_scam/",
+        "image": "https://external-preview.redd.it/pRMA3qNf9zOENpZ-lLYwQIa5dH-6t8OtXapxUbPrAKg.jpeg?width=640&crop=smart&auto=webp&s=d71a8268092e8b260ebe3b22d3af561d262ea4ac",
+        "published": "2026-04-18T18:21:15+00:00"
+    },
+    {
         "title": "OpenAI loses 3 top executives as it cuts back on 'side quests'",
         "link": "https://www.reddit.com/r/technology/comments/1solesv/openai_loses_3_top_executives_as_it_cuts_back_on/",
         "image": "https://external-preview.redd.it/Lu8Zyke39w6N1ZWmvYCQRgPqGYJDpww2-PisXCA5uDo.jpeg?width=640&crop=smart&auto=webp&s=7e26d8a26807cc8562e9692664428e911a7b5ab9",
@@ -28,12 +28,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1soi43m/eu_age_verification_app_hacked_with_little_to_no/",
         "image": "https://external-preview.redd.it/vu1un2mI28QKzYCc8y0yMdVRE5-IbiVolsAqNAvOS58.jpeg?width=640&crop=smart&auto=webp&s=6c1afa794879f6b2968ea85d4de9d85cd980708e",
         "published": "2026-04-18T00:09:00+00:00"
-    },
-    {
-        "title": "Tech CEO accused of running $420M AI business scam",
-        "link": "https://www.reddit.com/r/technology/comments/1sp578a/tech_ceo_accused_of_running_420m_ai_business_scam/",
-        "image": "https://external-preview.redd.it/pRMA3qNf9zOENpZ-lLYwQIa5dH-6t8OtXapxUbPrAKg.jpeg?width=640&crop=smart&auto=webp&s=d71a8268092e8b260ebe3b22d3af561d262ea4ac",
-        "published": "2026-04-18T18:21:15+00:00"
     },
     {
         "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
@@ -54,16 +48,16 @@
         "published": "2026-04-18T05:14:18+00:00"
     },
     {
-        "title": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment",
-        "link": "https://www.reddit.com/r/technology/comments/1sow0ej/nasa_plans_to_start_a_fire_on_the_moon_in/",
-        "image": "https://external-preview.redd.it/lz8SaFhS-E2HGMyM-ZgZuatcbR3VDnmR_yH6tzChpvs.jpeg?width=640&crop=smart&auto=webp&s=0789593d6b573e25a4dbac15fcf595d4134756e7",
-        "published": "2026-04-18T12:13:34+00:00"
-    },
-    {
         "title": "ICE monitoring app takedowns violated the First Amendment",
         "link": "https://www.reddit.com/r/technology/comments/1sp5lik/ice_monitoring_app_takedowns_violated_the_first/",
         "image": "https://external-preview.redd.it/rLZXDABIdiOOR-N_sUZKkSH6TdDdvNejY54DpPuRfk8.jpeg?width=640&crop=smart&auto=webp&s=16199a72f43e8b161d5685ab87368a626edd163a",
         "published": "2026-04-18T18:36:06+00:00"
+    },
+    {
+        "title": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment",
+        "link": "https://www.reddit.com/r/technology/comments/1sow0ej/nasa_plans_to_start_a_fire_on_the_moon_in/",
+        "image": "https://external-preview.redd.it/lz8SaFhS-E2HGMyM-ZgZuatcbR3VDnmR_yH6tzChpvs.jpeg?width=640&crop=smart&auto=webp&s=0789593d6b573e25a4dbac15fcf595d4134756e7",
+        "published": "2026-04-18T12:13:34+00:00"
     },
     {
         "title": "Will AI agents need to buy their own software licenses? Microsoft sure hopes so",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1sorsj4/salesforce_launches_headless_360_to_turn_its/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-18T08:17:58+00:00"
+    },
+    {
+        "title": "Scientists Discover Game-Changing New Way To Treat High Cholesterol",
+        "link": "https://www.reddit.com/r/technology/comments/1sohrcx/scientists_discover_gamechanging_new_way_to_treat/",
+        "image": "https://external-preview.redd.it/BF052Ia45KzjGJ_8xwZKHJicnVG58qQ7I0BFqdPDHBQ.jpeg?width=640&crop=smart&auto=webp&s=c10c1d3fa817a142a13c9a2721c4359ec8b461af",
+        "published": "2026-04-17T23:53:23+00:00"
     }
 ]

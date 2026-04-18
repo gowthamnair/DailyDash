@@ -6,12 +6,6 @@
         "published": "2026-04-18T10:26:42+00:00"
     },
     {
-        "title": "Differences Between Opus 4.6 and Opus 4.7 on MineBench",
-        "link": "https://www.reddit.com/r/singularity/comments/1sofehv/differences_between_opus_46_and_opus_47_on/",
-        "image": "https://preview.redd.it/r8bxahdmotvg1.gif?frame=1&width=140&height=78&auto=webp&s=48df1c45d185f24781a07735042c6d58dd015203",
-        "published": "2026-04-17T22:15:05+00:00"
-    },
-    {
         "title": "grok 4.3 beta: musk's ($300/month) megaphone",
         "link": "https://www.reddit.com/r/singularity/comments/1sozic7/grok_43_beta_musks_300month_megaphone/",
         "image": "https://preview.redd.it/62iqe4upnyvg1.png?width=640&crop=smart&auto=webp&s=71f3b09b0275130c45f957211bb29e157f13b4f2",
@@ -24,16 +18,16 @@
         "published": "2026-04-18T03:52:56+00:00"
     },
     {
-        "title": "Opus 4.7 Narrowly leads Artificial Analysis using significantly less tokens than Opus 4.6",
-        "link": "https://www.reddit.com/r/singularity/comments/1soin1j/opus_47_narrowly_leads_artificial_analysis_using/",
-        "image": "https://preview.redd.it/oxy8goqiguvg1.jpeg?width=640&crop=smart&auto=webp&s=43c15d5d8ecb2efd6e0141ddc5bd0d955161500f",
-        "published": "2026-04-18T00:33:22+00:00"
-    },
-    {
         "title": "Organic vs Non-Organic interaction (beluga whale vs spot)",
         "link": "https://www.reddit.com/r/singularity/comments/1sp3gpd/organic_vs_nonorganic_interaction_beluga_whale_vs/",
         "image": "https://external-preview.redd.it/bHQ2NXNwb2FmenZnMZFBN_kb0sM4g-P6p8tnWAdrAkUD2uyJQUNj1Q4Dzb7p.png?width=320&crop=smart&auto=webp&s=8632b8477d86fac74917df6fe5be2538ae8494a7",
         "published": "2026-04-18T17:15:43+00:00"
+    },
+    {
+        "title": "Opus 4.7 Narrowly leads Artificial Analysis using significantly less tokens than Opus 4.6",
+        "link": "https://www.reddit.com/r/singularity/comments/1soin1j/opus_47_narrowly_leads_artificial_analysis_using/",
+        "image": "https://preview.redd.it/oxy8goqiguvg1.jpeg?width=640&crop=smart&auto=webp&s=43c15d5d8ecb2efd6e0141ddc5bd0d955161500f",
+        "published": "2026-04-18T00:33:22+00:00"
     },
     {
         "title": "INSANELY ACCURATE New Image Model",
@@ -70,23 +64,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sp5uds/the_special_bro_fallacy_a_refutation_of_substrate/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-18T18:45:35+00:00"
-    },
-    {
-        "title": "AGI might not be the horror some say - personal observations from an interesting personal project.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sp61ra/agi_might_not_be_the_horror_some_say_personal/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-18T18:53:30+00:00"
-    },
-    {
-        "title": "What happens when 90% of humanity is no longer an economic asset, but a liability?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sp7abc/what_happens_when_90_of_humanity_is_no_longer_an/",
-        "image": "https://preview.redd.it/66qp1lue50wg1.jpeg?width=640&crop=smart&auto=webp&s=c28ea9d8c58e6e40973f502739d141a9511445d1",
-        "published": "2026-04-18T19:41:54+00:00"
-    },
-    {
-        "title": "I spent 2 months and $600 building a cognitive system on top of Claude because the product I actually need doesn't exist. Here's what I learned.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sp80r9/i_spent_2_months_and_600_building_a_cognitive/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-18T20:09:56+00:00"
     }
 ]
