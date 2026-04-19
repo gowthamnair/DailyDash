@@ -18,16 +18,16 @@
         "published": "2026-04-18T17:15:43+00:00"
     },
     {
-        "title": "INSANELY ACCURATE New Image Model",
-        "link": "https://www.reddit.com/r/singularity/comments/1sotj83/insanely_accurate_new_image_model/",
-        "image": "https://preview.redd.it/4if4o3ju9xvg1.jpeg?width=640&crop=smart&auto=webp&s=4138e01a0a4f3a2ffd9cdd265e973ad66c0df0d1",
-        "published": "2026-04-18T10:01:21+00:00"
-    },
-    {
         "title": "Beijing: First humanoid robot crossing the 20KM line (audio translated)",
         "link": "https://www.reddit.com/r/singularity/comments/1spermq/beijing_first_humanoid_robot_crossing_the_20km/",
         "image": "https://external-preview.redd.it/dmkzbnVqdmFxMXdnMdGgA-9YjMMja_wtdu6jfpe3yny_un45EGZujX2rGVCy.png?width=640&crop=smart&auto=webp&s=249b43e341c677dd63da2ca9d86f86a3424f778f",
         "published": "2026-04-19T01:01:13+00:00"
+    },
+    {
+        "title": "INSANELY ACCURATE New Image Model",
+        "link": "https://www.reddit.com/r/singularity/comments/1sotj83/insanely_accurate_new_image_model/",
+        "image": "https://preview.redd.it/4if4o3ju9xvg1.jpeg?width=640&crop=smart&auto=webp&s=4138e01a0a4f3a2ffd9cdd265e973ad66c0df0d1",
+        "published": "2026-04-18T10:01:21+00:00"
     },
     {
         "title": "So... has anyone actually figured out whose model Elephant Alpha is yet?",
@@ -42,12 +42,6 @@
         "published": "2026-04-18T23:28:15+00:00"
     },
     {
-        "title": "The Future of Recreational Drugs",
-        "link": "https://www.reddit.com/r/singularity/comments/1sop86c/the_future_of_recreational_drugs/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-18T05:54:10+00:00"
-    },
-    {
         "title": "Saw this posted by the official Unitree account",
         "link": "https://www.reddit.com/r/singularity/comments/1spe0je/saw_this_posted_by_the_official_unitree_account/",
         "image": "https://preview.redd.it/a659igonj1wg1.png?width=640&crop=smart&auto=webp&s=16870ae98c73f8561d1ec31e6e7c1c93663e8c09",
@@ -60,16 +54,16 @@
         "published": "2026-04-18T23:53:29+00:00"
     },
     {
-        "title": "Beijing E-Town humanoid robot half-marathon LIVE stream, April 18 7:30PM ET",
-        "link": "https://www.reddit.com/r/singularity/comments/1sowanx/beijing_etown_humanoid_robot_halfmarathon_live/",
-        "image": "https://external-preview.redd.it/i_HjvegUkLKzC6oKBKSebcLAWL87hisePamaVsr9UQA.jpeg?width=640&crop=smart&auto=webp&s=b06ffff3be7efbe36925b038a15eba2be57d02cd",
-        "published": "2026-04-18T12:27:03+00:00"
-    },
-    {
         "title": "Beijing E-Town humanoid robot half-marathon is starting, more than 70 teams and more than 300 robots - LIVE STREAM [2 links]",
         "link": "https://www.reddit.com/r/singularity/comments/1spcx66/beijing_etown_humanoid_robot_halfmarathon_is/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-18T23:34:30+00:00"
+    },
+    {
+        "title": "Beijing E-Town humanoid robot half-marathon LIVE stream, April 18 7:30PM ET",
+        "link": "https://www.reddit.com/r/singularity/comments/1sowanx/beijing_etown_humanoid_robot_halfmarathon_live/",
+        "image": "https://external-preview.redd.it/i_HjvegUkLKzC6oKBKSebcLAWL87hisePamaVsr9UQA.jpeg?width=640&crop=smart&auto=webp&s=b06ffff3be7efbe36925b038a15eba2be57d02cd",
+        "published": "2026-04-18T12:27:03+00:00"
     },
     {
         "title": "The Special Bro Fallacy: A Refutation of Substrate Exceptionalism",
