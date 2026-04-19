@@ -6,22 +6,16 @@
         "published": "2026-04-19T01:01:13+00:00"
     },
     {
-        "title": "Organic vs Non-Organic interaction (beluga whale vs spot)",
-        "link": "https://www.reddit.com/r/singularity/comments/1sp3gpd/organic_vs_nonorganic_interaction_beluga_whale_vs/",
-        "image": "https://external-preview.redd.it/bHQ2NXNwb2FmenZnMZFBN_kb0sM4g-P6p8tnWAdrAkUD2uyJQUNj1Q4Dzb7p.png?width=320&crop=smart&auto=webp&s=8632b8477d86fac74917df6fe5be2538ae8494a7",
-        "published": "2026-04-18T17:15:43+00:00"
-    },
-    {
-        "title": "grok 4.3 beta: musk's ($300/month) megaphone",
-        "link": "https://www.reddit.com/r/singularity/comments/1sozic7/grok_43_beta_musks_300month_megaphone/",
-        "image": "https://preview.redd.it/62iqe4upnyvg1.png?width=640&crop=smart&auto=webp&s=71f3b09b0275130c45f957211bb29e157f13b4f2",
-        "published": "2026-04-18T14:44:23+00:00"
-    },
-    {
         "title": "Pit stop at Robot half marathon in Beijing. Ice to cool down the battery and lubricant for the joints",
         "link": "https://www.reddit.com/r/singularity/comments/1spqd7z/pit_stop_at_robot_half_marathon_in_beijing_ice_to/",
         "image": "https://external-preview.redd.it/ZGZ4eXp3OHd0NHdnMfVPR4geJevY8_cknmkl0D4N_JYkk7Wdn6z_1kiZ0iOL.png?width=640&crop=smart&auto=webp&s=eea100ead0c8b083ca0d2492e6909cf72f3fd331",
         "published": "2026-04-19T11:26:09+00:00"
+    },
+    {
+        "title": "Organic vs Non-Organic interaction (beluga whale vs spot)",
+        "link": "https://www.reddit.com/r/singularity/comments/1sp3gpd/organic_vs_nonorganic_interaction_beluga_whale_vs/",
+        "image": "https://external-preview.redd.it/bHQ2NXNwb2FmenZnMZFBN_kb0sM4g-P6p8tnWAdrAkUD2uyJQUNj1Q4Dzb7p.png?width=320&crop=smart&auto=webp&s=8632b8477d86fac74917df6fe5be2538ae8494a7",
+        "published": "2026-04-18T17:15:43+00:00"
     },
     {
         "title": "Unitree H1 fall and recovery",
@@ -40,18 +34,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1spcs6v/us_tech_firms_successfully_lobbied_eu_to_keep/",
         "image": "https://external-preview.redd.it/y8E9F8747QZdz81JruosTnuKFEAca2z_8lk7oQwk1AI.jpeg?width=640&crop=smart&auto=webp&s=969d30ebf4ff5c4ad44b3940b804c80d809c8aa4",
         "published": "2026-04-18T23:28:15+00:00"
-    },
-    {
-        "title": "This Humanoid Robot just finished a Half-Marathon in 50 minutes and 26 seconds",
-        "link": "https://www.reddit.com/r/singularity/comments/1spqjei/this_humanoid_robot_just_finished_a_halfmarathon/",
-        "image": "https://external-preview.redd.it/eW9meWZodmZ2NHdnMV-K2n8VCUBzfWwgHFs2TxLGxpxFdSUXKizu1Etgi7Fv.png?width=640&crop=smart&auto=webp&s=c3a1e4dbe728ea4a8b57ffb0ba5b3a67b87df02d",
-        "published": "2026-04-19T11:34:55+00:00"
-    },
-    {
-        "title": "So... has anyone actually figured out whose model Elephant Alpha is yet?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sozgmm/so_has_anyone_actually_figured_out_whose_model/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-18T14:42:26+00:00"
     },
     {
         "title": "Saw this posted by the official Unitree account",
@@ -88,5 +70,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1spkqr6/darpa_for_quantum_computing_different_qubits_are/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-19T06:04:42+00:00"
+    },
+    {
+        "title": "The Special Bro Fallacy: A Refutation of Substrate Exceptionalism",
+        "link": "https://www.reddit.com/r/singularity/comments/1sp5uds/the_special_bro_fallacy_a_refutation_of_substrate/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-18T18:45:35+00:00"
     }
 ]
