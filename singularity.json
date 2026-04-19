@@ -1,11 +1,5 @@
 [
     {
-        "title": "Google DeepMind's Senior Scientist Alexander Lerchner challenges the idea that large language models can ever achieve consciousness(not even in 100years), calling it the 'Abstraction Fallacy.'",
-        "link": "https://www.reddit.com/r/singularity/comments/1sotz9t/google_deepminds_senior_scientist_alexander/",
-        "image": "https://preview.redd.it/8d2a6hv13xvg1.png?width=640&crop=smart&auto=webp&s=4cec013812c31eeb0a03c2591a30f8851d3bf56e",
-        "published": "2026-04-18T10:26:42+00:00"
-    },
-    {
         "title": "Organic vs Non-Organic interaction (beluga whale vs spot)",
         "link": "https://www.reddit.com/r/singularity/comments/1sp3gpd/organic_vs_nonorganic_interaction_beluga_whale_vs/",
         "image": "https://external-preview.redd.it/bHQ2NXNwb2FmenZnMZFBN_kb0sM4g-P6p8tnWAdrAkUD2uyJQUNj1Q4Dzb7p.png?width=320&crop=smart&auto=webp&s=8632b8477d86fac74917df6fe5be2538ae8494a7",
@@ -22,12 +16,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1spermq/beijing_first_humanoid_robot_crossing_the_20km/",
         "image": "https://external-preview.redd.it/dmkzbnVqdmFxMXdnMdGgA-9YjMMja_wtdu6jfpe3yny_un45EGZujX2rGVCy.png?width=640&crop=smart&auto=webp&s=249b43e341c677dd63da2ca9d86f86a3424f778f",
         "published": "2026-04-19T01:01:13+00:00"
-    },
-    {
-        "title": "INSANELY ACCURATE New Image Model",
-        "link": "https://www.reddit.com/r/singularity/comments/1sotj83/insanely_accurate_new_image_model/",
-        "image": "https://preview.redd.it/4if4o3ju9xvg1.jpeg?width=640&crop=smart&auto=webp&s=4138e01a0a4f3a2ffd9cdd265e973ad66c0df0d1",
-        "published": "2026-04-18T10:01:21+00:00"
     },
     {
         "title": "So... has anyone actually figured out whose model Elephant Alpha is yet?",
@@ -88,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1spkqr6/darpa_for_quantum_computing_different_qubits_are/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-19T06:04:42+00:00"
+    },
+    {
+        "title": "Elon claims Grok 5 will be AGI",
+        "link": "https://www.reddit.com/r/singularity/comments/1spmtu5/elon_claims_grok_5_will_be_agi/",
+        "image": "https://preview.redd.it/x5t044ygt3wg1.jpeg?width=640&crop=smart&auto=webp&s=07fffde39769255bea71ff23b77ed690f6f4f494",
+        "published": "2026-04-19T08:02:01+00:00"
     }
 ]
