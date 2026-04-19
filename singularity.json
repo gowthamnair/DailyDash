@@ -6,16 +6,16 @@
         "published": "2026-04-18T10:26:42+00:00"
     },
     {
-        "title": "grok 4.3 beta: musk's ($300/month) megaphone",
-        "link": "https://www.reddit.com/r/singularity/comments/1sozic7/grok_43_beta_musks_300month_megaphone/",
-        "image": "https://preview.redd.it/62iqe4upnyvg1.png?width=640&crop=smart&auto=webp&s=71f3b09b0275130c45f957211bb29e157f13b4f2",
-        "published": "2026-04-18T14:44:23+00:00"
-    },
-    {
         "title": "Organic vs Non-Organic interaction (beluga whale vs spot)",
         "link": "https://www.reddit.com/r/singularity/comments/1sp3gpd/organic_vs_nonorganic_interaction_beluga_whale_vs/",
         "image": "https://external-preview.redd.it/bHQ2NXNwb2FmenZnMZFBN_kb0sM4g-P6p8tnWAdrAkUD2uyJQUNj1Q4Dzb7p.png?width=320&crop=smart&auto=webp&s=8632b8477d86fac74917df6fe5be2538ae8494a7",
         "published": "2026-04-18T17:15:43+00:00"
+    },
+    {
+        "title": "grok 4.3 beta: musk's ($300/month) megaphone",
+        "link": "https://www.reddit.com/r/singularity/comments/1sozic7/grok_43_beta_musks_300month_megaphone/",
+        "image": "https://preview.redd.it/62iqe4upnyvg1.png?width=640&crop=smart&auto=webp&s=71f3b09b0275130c45f957211bb29e157f13b4f2",
+        "published": "2026-04-18T14:44:23+00:00"
     },
     {
         "title": "Beijing: First humanoid robot crossing the 20KM line (audio translated)",
@@ -54,6 +54,12 @@
         "published": "2026-04-18T23:53:29+00:00"
     },
     {
+        "title": "Anthropic isn\u2019t vibing with me today \ud83d\ude22",
+        "link": "https://www.reddit.com/r/singularity/comments/1splo2w/anthropic_isnt_vibing_with_me_today/",
+        "image": "https://preview.redd.it/2risdyvid3wg1.jpeg?width=640&crop=smart&auto=webp&s=1f546c48e948e22fa9878ac2b4b65766eb8d0bbf",
+        "published": "2026-04-19T06:56:11+00:00"
+    },
+    {
         "title": "Beijing E-Town humanoid robot half-marathon is starting, more than 70 teams and more than 300 robots - LIVE STREAM [2 links]",
         "link": "https://www.reddit.com/r/singularity/comments/1spcx66/beijing_etown_humanoid_robot_halfmarathon_is/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -76,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1spfwlr/i_made_8_ais_play_pokemon_in_a_doubles_tournament/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-19T01:55:59+00:00"
+    },
+    {
+        "title": "DARPA: For quantum computing, different qubits are better together",
+        "link": "https://www.reddit.com/r/singularity/comments/1spkqr6/darpa_for_quantum_computing_different_qubits_are/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-19T06:04:42+00:00"
     }
 ]
