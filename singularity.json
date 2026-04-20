@@ -18,16 +18,16 @@
         "published": "2026-04-20T15:37:31+00:00"
     },
     {
-        "title": "Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots",
-        "link": "https://www.reddit.com/r/singularity/comments/1sq70yt/ukraine_moves_to_replace_frontline_soldiers_with/",
-        "image": "https://external-preview.redd.it/she2AwyDONc8eW823TTVdcMvUsP8gKA0XpGsjGNROfk.jpeg?width=640&crop=smart&auto=webp&s=600573757700b0d7ec31f481c31fc46efe6163c6",
-        "published": "2026-04-19T22:22:19+00:00"
-    },
-    {
         "title": "How Google DeepMind is researching the next Frontier of AI for Gemini \u2014 Raia Hadsell, VP of Research",
         "link": "https://www.reddit.com/r/singularity/comments/1sqbrrt/how_google_deepmind_is_researching_the_next/",
         "image": "https://external-preview.redd.it/YWFe_XWbnvFDnLKpq_C60Bl4QA5W1iqcaJ1BXaVk9vA.jpeg?width=320&crop=smart&auto=webp&s=81b08dc0a14dcce92299fa573f150e0a2db60c86",
         "published": "2026-04-20T01:52:15+00:00"
+    },
+    {
+        "title": "Anthropic expands Amazon partnership with 5GW compute, $100B commitment, big bet on Trainium chips",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr2rk5/anthropic_expands_amazon_partnership_with_5gw/",
+        "image": "https://preview.redd.it/k61kjf02sewg1.png?width=640&crop=smart&auto=webp&s=f5b1e5eed787b6b2418702be974d85f479b18b72",
+        "published": "2026-04-20T20:57:04+00:00"
     },
     {
         "title": "NSA using Anthropic's Mythos despite blacklist",
@@ -54,10 +54,10 @@
         "published": "2026-04-20T17:06:48+00:00"
     },
     {
-        "title": "Anthropic expands Amazon partnership with 5GW compute, $100B commitment, big bet on Trainium chips",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr2rk5/anthropic_expands_amazon_partnership_with_5gw/",
-        "image": "https://preview.redd.it/k61kjf02sewg1.png?width=640&crop=smart&auto=webp&s=f5b1e5eed787b6b2418702be974d85f479b18b72",
-        "published": "2026-04-20T20:57:04+00:00"
+        "title": "Palantir's summary of CEO Alexander Karp's manifesto is generating buzz. Read the 22 bullet points.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr2x11/palantirs_summary_of_ceo_alexander_karps/",
+        "image": "https://external-preview.redd.it/UrzhuipG2D3mpjYNtYPmCLFbKjv0ZRMhTtvGrYi0sIc.jpeg?width=640&crop=smart&auto=webp&s=0cdeaf3ec459827aeef24e4f8caf9374f87ae07d",
+        "published": "2026-04-20T21:02:17+00:00"
     },
     {
         "title": "Kimi K2.6 Minebench",
@@ -72,15 +72,21 @@
         "published": "2026-04-20T18:34:06+00:00"
     },
     {
+        "title": "Opus 4.7 (high) takes #1 on the LLM Debate Benchmark, leading the previous champion, Sonnet 4.6 (high), by 106 BT points. Incredibly, it has not lost a single completed side-swapped matchup: 51 wins, 4 ties, and 0 losses.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr4bid/opus_47_high_takes_1_on_the_llm_debate_benchmark/",
+        "image": "https://preview.redd.it/lveemj2s1fwg1.png?width=140&height=93&auto=webp&s=f56b904591c952e06b99493e159fc6f8ca6584b6",
+        "published": "2026-04-20T21:53:54+00:00"
+    },
+    {
+        "title": "GPT-Image-2 seems to be coming this week, fal.ai just put up a \u201ccoming soon\u201d page for it",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr4i56/gptimage2_seems_to_be_coming_this_week_falai_just/",
+        "image": "https://external-preview.redd.it/MRnrEld8STC1-N-hs1-4R7K9CX-t6jceOjkix3nDiCE.png?width=640&crop=smart&auto=webp&s=74d955bc38c5d227888f13ae6a0d4e4e07c9e74b",
+        "published": "2026-04-20T22:00:57+00:00"
+    },
+    {
         "title": "Predictions for next year's (2027) Beijing humanoid half marathon? 2025 was 2h40min \u2248 2.2m/s | 2026 was 50min \u2248 7m/s",
         "link": "https://www.reddit.com/r/singularity/comments/1sqozvs/predictions_for_next_years_2027_beijing_humanoid/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-20T13:14:43+00:00"
-    },
-    {
-        "title": "Even if AI were conscious, it couldn't honestly report on it because it lacks the phenomenological modality of its memory",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr34b3/even_if_ai_were_conscious_it_couldnt_honestly/",
-        "image": "https://external-preview.redd.it/U6NfkBX3T89yl4qIsq40c12hKlazo6ci1QUJSkqgNMM.jpeg?width=320&crop=smart&auto=webp&s=b701f0f24f6008a3eab95f04c88d5a9dd6ae3b0a",
-        "published": "2026-04-20T21:09:14+00:00"
     }
 ]
