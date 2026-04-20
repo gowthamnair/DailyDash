@@ -1,5 +1,11 @@
 [
     {
+        "title": "AGI \ud83d\ude80",
+        "link": "https://www.reddit.com/r/singularity/comments/1sqvvws/agi/",
+        "image": "https://preview.redd.it/3py61pk1qdwg1.jpeg?width=640&crop=smart&auto=webp&s=e7e5531ffeb982c419ee1c794f00fd54d1f88974",
+        "published": "2026-04-20T17:20:36+00:00"
+    },
+    {
         "title": "\"Claude just helped me build a wetlab and sequence my whole genome at home. I have zero lab experience!\" --- Dudes out here sequencing their own DNA at home!",
         "link": "https://www.reddit.com/r/singularity/comments/1sqiaug/claude_just_helped_me_build_a_wetlab_and_sequence/",
         "image": "https://preview.redd.it/9zoyuwpq6zvg1.jpeg?width=640&crop=smart&auto=webp&s=0b236f4e4acdb2698b14f6b22e84547e3cc45a82",
@@ -16,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sq70yt/ukraine_moves_to_replace_frontline_soldiers_with/",
         "image": "https://external-preview.redd.it/she2AwyDONc8eW823TTVdcMvUsP8gKA0XpGsjGNROfk.jpeg?width=640&crop=smart&auto=webp&s=600573757700b0d7ec31f481c31fc46efe6163c6",
         "published": "2026-04-19T22:22:19+00:00"
-    },
-    {
-        "title": "AGI \ud83d\ude80",
-        "link": "https://www.reddit.com/r/singularity/comments/1sqvvws/agi/",
-        "image": "https://preview.redd.it/3py61pk1qdwg1.jpeg?width=640&crop=smart&auto=webp&s=e7e5531ffeb982c419ee1c794f00fd54d1f88974",
-        "published": "2026-04-20T17:20:36+00:00"
     },
     {
         "title": "How Google DeepMind is researching the next Frontier of AI for Gemini \u2014 Raia Hadsell, VP of Research",
@@ -48,15 +48,21 @@
         "published": "2026-04-20T16:38:23+00:00"
     },
     {
+        "title": "Chinese Army Tests Human-Unmanned Team Tactics in Urban Warfare Drill",
+        "link": "https://www.reddit.com/r/singularity/comments/1sqvhcd/chinese_army_tests_humanunmanned_team_tactics_in/",
+        "image": "https://external-preview.redd.it/HKq7axguP5GSjo9UQ4BhJw36TQmI9qrvGQ-VFHMZXRM.jpeg?width=320&crop=smart&auto=webp&s=094ab00642464bf1b7a0d2d465bdde5b6f354a44",
+        "published": "2026-04-20T17:06:48+00:00"
+    },
+    {
         "title": "Predictions for next year's (2027) Beijing humanoid half marathon? 2025 was 2h40min \u2248 2.2m/s | 2026 was 50min \u2248 7m/s",
         "link": "https://www.reddit.com/r/singularity/comments/1sqozvs/predictions_for_next_years_2027_beijing_humanoid/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-20T13:14:43+00:00"
     },
     {
-        "title": "Chinese Army Tests Human-Unmanned Team Tactics in Urban Warfare Drill",
-        "link": "https://www.reddit.com/r/singularity/comments/1sqvhcd/chinese_army_tests_humanunmanned_team_tactics_in/",
-        "image": "https://external-preview.redd.it/HKq7axguP5GSjo9UQ4BhJw36TQmI9qrvGQ-VFHMZXRM.jpeg?width=320&crop=smart&auto=webp&s=094ab00642464bf1b7a0d2d465bdde5b6f354a44",
-        "published": "2026-04-20T17:06:48+00:00"
+        "title": "Newton 1.0 is 100% open source. GPU-accelerated physics engine from NVIDIA, DeepMind, and Disney Research, now under the Linux Foundation",
+        "link": "https://www.reddit.com/r/singularity/comments/1sqy814/newton_10_is_100_open_source_gpuaccelerated/",
+        "image": "https://external-preview.redd.it/8MgA8ApUDj5_o6IjnG_wjDtlY2yTKMET6GlkXUt9Oas.png?width=640&crop=smart&auto=webp&s=c9e9638503d85d753f90d64afb94bfd5637951ae",
+        "published": "2026-04-20T18:34:06+00:00"
     }
 ]
