@@ -12,12 +12,6 @@
         "published": "2026-04-19T20:56:03+00:00"
     },
     {
-        "title": "Students are speeding through their online degrees in weeks, alarming educators",
-        "link": "https://www.reddit.com/r/technology/comments/1spxr9q/students_are_speeding_through_their_online/",
-        "image": "https://external-preview.redd.it/soNpjXubz94RTbYUg-b3w4BjiTgtwbe2wcwANVvqYYY.jpeg?width=640&crop=smart&auto=webp&s=5af04422a9cfc0ed8ea395a9c84313eb67b1e840",
-        "published": "2026-04-19T16:32:19+00:00"
-    },
-    {
         "title": "EU Declared Age App \u201cReady\u201d While GitHub Flagged it Unfit, Then Hackers Bypassed It in 2 Minutes",
         "link": "https://www.reddit.com/r/technology/comments/1sqhnyo/eu_declared_age_app_ready_while_github_flagged_it/",
         "image": "https://external-preview.redd.it/ys_QCNALDd6KofUYe_PAQFzidh2sdb8iJ-XI5i8NiJg.jpeg?width=640&crop=smart&auto=webp&s=85db700c07f4336f86eb9592f67bf54eebf05ada",
@@ -34,6 +28,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1spygt1/this_tariffrefund_portal_is_about_to_be_americas/",
         "image": "https://external-preview.redd.it/apShYjYUb6fLjkClTQYzR7Gd1HTkk7C37MkR51rvGxk.jpeg?width=640&crop=smart&auto=webp&s=bcba9efd01745033a667848ff0830f5ece5b9b62",
         "published": "2026-04-19T16:59:14+00:00"
+    },
+    {
+        "title": "The UK government is considering ending Palantir's involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners",
+        "link": "https://www.reddit.com/r/technology/comments/1sqnp9e/the_uk_government_is_considering_ending_palantirs/",
+        "image": "https://external-preview.redd.it/1creq2iMi28Vxf_qzEGw3betjgvl5p3oDAgrpCB3-VM.jpeg?width=640&crop=smart&auto=webp&s=97ebcf7ae2f9d433d1aa60c7fc07f602badcaddb",
+        "published": "2026-04-20T12:21:02+00:00"
     },
     {
         "title": "US Draft Update: Major Tech Company Urges Universal National Service",
@@ -54,22 +54,10 @@
         "published": "2026-04-20T02:18:59+00:00"
     },
     {
-        "title": "The UK government is considering ending Palantir's involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners",
-        "link": "https://www.reddit.com/r/technology/comments/1sqnp9e/the_uk_government_is_considering_ending_palantirs/",
-        "image": "https://external-preview.redd.it/1creq2iMi28Vxf_qzEGw3betjgvl5p3oDAgrpCB3-VM.jpeg?width=640&crop=smart&auto=webp&s=97ebcf7ae2f9d433d1aa60c7fc07f602badcaddb",
-        "published": "2026-04-20T12:21:02+00:00"
-    },
-    {
-        "title": "Russian-made Shahed drones are \"disintegrating in the air before reaching their targets\" due to shoddy manufacturing, video shows \u2014 commentators call Russian clones of Iran's drones \"flying garbage\"",
-        "link": "https://www.reddit.com/r/technology/comments/1spvnu8/russianmade_shahed_drones_are_disintegrating_in/",
-        "image": "https://external-preview.redd.it/u6x6wNpZsn8Crdno99hbCIxeKnxzgsqKwG8STKDRj70.jpeg?width=640&crop=smart&auto=webp&s=bbcce627ad367848a2067d7ff8908fecb6e0805d",
-        "published": "2026-04-19T15:13:39+00:00"
-    },
-    {
-        "title": "The Pentagon wants GM, Ford to build weapons and bombs",
-        "link": "https://www.reddit.com/r/technology/comments/1spzmd3/the_pentagon_wants_gm_ford_to_build_weapons_and/",
-        "image": "https://external-preview.redd.it/ZtgEsZ9K7og-IjQk_ox04oOPzdD0I7D3SM6z3VtorJU.jpeg?width=640&crop=smart&auto=webp&s=da05238498095a1de7f814b155ba832686d74453",
-        "published": "2026-04-19T17:41:17+00:00"
+        "title": "He spreads hate online \u2014 and fans pay him hundreds of thousands of dollars",
+        "link": "https://www.reddit.com/r/technology/comments/1sqp2o8/he_spreads_hate_online_and_fans_pay_him_hundreds/",
+        "image": "https://external-preview.redd.it/4Ei0V8R5H7UY_8Ac8sA_qZ2PjYbopJKmWAtcWWHYj8M.jpeg?width=640&crop=smart&auto=webp&s=1f896ea7a38805f2d49576e7bd804bc5de85edd5",
+        "published": "2026-04-20T13:17:38+00:00"
     },
     {
         "title": "Blue Origin\u2019s New Glenn put a customer satellite in the wrong orbit during its third launch",
@@ -78,15 +66,27 @@
         "published": "2026-04-20T02:36:09+00:00"
     },
     {
+        "title": "The Pentagon wants GM, Ford to build weapons and bombs",
+        "link": "https://www.reddit.com/r/technology/comments/1spzmd3/the_pentagon_wants_gm_ford_to_build_weapons_and/",
+        "image": "https://external-preview.redd.it/ZtgEsZ9K7og-IjQk_ox04oOPzdD0I7D3SM6z3VtorJU.jpeg?width=640&crop=smart&auto=webp&s=da05238498095a1de7f814b155ba832686d74453",
+        "published": "2026-04-19T17:41:17+00:00"
+    },
+    {
         "title": "Scoop: NSA using Anthropic's Mythos despite blacklist",
         "link": "https://www.reddit.com/r/technology/comments/1sq1mgi/scoop_nsa_using_anthropics_mythos_despite/",
         "image": "https://external-preview.redd.it/jPQi01nM1XeOHKlVX5j0CopNITr6cOmH0N2HqfsjfV4.jpeg?width=640&crop=smart&auto=webp&s=add03955ac441618bc8dbc019e8759749788e4f6",
         "published": "2026-04-19T18:53:37+00:00"
     },
     {
-        "title": "He spreads hate online \u2014 and fans pay him hundreds of thousands of dollars",
-        "link": "https://www.reddit.com/r/technology/comments/1sqp2o8/he_spreads_hate_online_and_fans_pay_him_hundreds/",
-        "image": "https://external-preview.redd.it/4Ei0V8R5H7UY_8Ac8sA_qZ2PjYbopJKmWAtcWWHYj8M.jpeg?width=640&crop=smart&auto=webp&s=1f896ea7a38805f2d49576e7bd804bc5de85edd5",
-        "published": "2026-04-20T13:17:38+00:00"
+        "title": "Pancreatic cancer mRNA vaccine shows lasting results in an early trial",
+        "link": "https://www.reddit.com/r/technology/comments/1sq7wg3/pancreatic_cancer_mrna_vaccine_shows_lasting/",
+        "image": "https://external-preview.redd.it/ije_uhcL5HHrYM-3sjUt0CmGWHvkO4dTnRexI-4B0H4.jpeg?width=640&crop=smart&auto=webp&s=57fd600d0d13a85e8572ae1024f11ffb2e54faea",
+        "published": "2026-04-19T22:59:39+00:00"
+    },
+    {
+        "title": "High Gas Prices Are Boosting EV Sales Around The World. Will The U.S. Be Left Out?",
+        "link": "https://www.reddit.com/r/technology/comments/1sq0ufn/high_gas_prices_are_boosting_ev_sales_around_the/",
+        "image": "https://external-preview.redd.it/_7RqmsyGUCRHKbVvKKZIVgDpWubzpVXWjAxERM-OCNo.jpeg?width=640&crop=smart&auto=webp&s=0c4f41c88397fcfc13aed974275a9137c9f12dd8",
+        "published": "2026-04-19T18:25:01+00:00"
     }
 ]

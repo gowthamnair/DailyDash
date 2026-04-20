@@ -1,11 +1,5 @@
 [
     {
-        "title": "50m26s, the human half-marathon record (57m20s) was borken by a robot today",
-        "link": "https://www.reddit.com/r/singularity/comments/1spwegr/50m26s_the_human_halfmarathon_record_57m20s_was/",
-        "image": "https://external-preview.redd.it/OW1hOHZ0bjIzNndnMbINVqLq-uTIhCEugwdMnGj6m_Fld9If84Fo7xvchwiA.png?width=320&crop=smart&auto=webp&s=a3e8fd3f698d7d7943c937f189c3a8e2dabefea3",
-        "published": "2026-04-19T15:41:22+00:00"
-    },
-    {
         "title": "\"Claude just helped me build a wetlab and sequence my whole genome at home. I have zero lab experience!\" --- Dudes out here sequencing their own DNA at home!",
         "link": "https://www.reddit.com/r/singularity/comments/1sqiaug/claude_just_helped_me_build_a_wetlab_and_sequence/",
         "image": "https://preview.redd.it/9zoyuwpq6zvg1.jpeg?width=640&crop=smart&auto=webp&s=0b236f4e4acdb2698b14f6b22e84547e3cc45a82",
@@ -16,6 +10,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sq70yt/ukraine_moves_to_replace_frontline_soldiers_with/",
         "image": "https://external-preview.redd.it/she2AwyDONc8eW823TTVdcMvUsP8gKA0XpGsjGNROfk.jpeg?width=640&crop=smart&auto=webp&s=600573757700b0d7ec31f481c31fc46efe6163c6",
         "published": "2026-04-19T22:22:19+00:00"
+    },
+    {
+        "title": "Kimi 2.6 has been released",
+        "link": "https://www.reddit.com/r/singularity/comments/1sqsvrt/kimi_26_has_been_released/",
+        "image": "https://preview.redd.it/9wf36xjn7dwg1.jpeg?width=640&crop=smart&auto=webp&s=125e44257b8f414ea9ce3f457a760b0da00f16b3",
+        "published": "2026-04-20T15:37:31+00:00"
     },
     {
         "title": "How Google DeepMind is researching the next Frontier of AI for Gemini \u2014 Raia Hadsell, VP of Research",
@@ -46,5 +46,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sqozvs/predictions_for_next_years_2027_beijing_humanoid/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-20T13:14:43+00:00"
+    },
+    {
+        "title": "Kimi K2.6 Minebench",
+        "link": "https://www.reddit.com/r/singularity/comments/1squnmf/kimi_k26_minebench/",
+        "image": "https://preview.redd.it/2gsqbli6idwg1.gif?frame=1&width=140&height=78&auto=webp&s=6fa66246a7eaad95696e26cbef1186e3972454d3",
+        "published": "2026-04-20T16:38:23+00:00"
     }
 ]
