@@ -54,6 +54,12 @@
         "published": "2026-04-20T16:38:23+00:00"
     },
     {
+        "title": "Google ramps up agentic AI efforts amid pressure from Anthropic",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr1fr6/google_ramps_up_agentic_ai_efforts_amid_pressure/",
+        "image": "https://preview.redd.it/zasseurhkewg1.png?width=640&crop=smart&auto=webp&s=e01f68f0d94896d70543e9eaeac70c1d7cb719f2",
+        "published": "2026-04-20T20:11:38+00:00"
+    },
+    {
         "title": "Newton 1.0 is 100% open source. GPU-accelerated physics engine from NVIDIA, DeepMind, and Disney Research, now under the Linux Foundation",
         "link": "https://www.reddit.com/r/singularity/comments/1sqy814/newton_10_is_100_open_source_gpuaccelerated/",
         "image": "https://external-preview.redd.it/8MgA8ApUDj5_o6IjnG_wjDtlY2yTKMET6GlkXUt9Oas.png?width=640&crop=smart&auto=webp&s=c9e9638503d85d753f90d64afb94bfd5637951ae",
@@ -64,6 +70,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sqozvs/predictions_for_next_years_2027_beijing_humanoid/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-20T13:14:43+00:00"
+    },
+    {
+        "title": "Local LLMs can now paint interactive visualizations directly into the chat, live as they generate. Watch your AI draw in real time.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr1uk7/local_llms_can_now_paint_interactive/",
+        "image": "https://external-preview.redd.it/bXN6ajZqc3FtZXdnMbc3czDSvU0hmqpIEn27yceRd7yhTrAmmqf0gB0K6kGF.png?width=640&crop=smart&auto=webp&s=42416efe85b6ed6913b35a91ee2b0800d64631b8",
+        "published": "2026-04-20T20:25:03+00:00"
     },
     {
         "title": "Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameters Match a 1.3B Transformer",
