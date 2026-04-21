@@ -30,6 +30,12 @@
         "published": "2026-04-20T20:57:04+00:00"
     },
     {
+        "title": "Image 2.0 is now online on ChatGPT and it's incredible! Just a few days ago even 3x3 grids would often struggle, now we can 10x the complexity, and it's near perfect!",
+        "link": "https://www.reddit.com/r/singularity/comments/1sratn2/image_20_is_now_online_on_chatgpt_and_its/",
+        "image": "https://preview.redd.it/mckvxiosfgwg1.png?width=640&crop=smart&auto=webp&s=1421dc80f387ab25db4e774737264134fab461c9",
+        "published": "2026-04-21T02:28:47+00:00"
+    },
+    {
         "title": "Google ramps up agentic AI efforts amid pressure from Anthropic",
         "link": "https://www.reddit.com/r/singularity/comments/1sr1fr6/google_ramps_up_agentic_ai_efforts_amid_pressure/",
         "image": "https://preview.redd.it/zasseurhkewg1.png?width=640&crop=smart&auto=webp&s=e01f68f0d94896d70543e9eaeac70c1d7cb719f2",
@@ -42,10 +48,10 @@
         "published": "2026-04-20T11:34:32+00:00"
     },
     {
-        "title": "Image 2.0 is now online on ChatGPT and it's incredible! Just a few days ago even 3x3 grids would often struggle, now we can 10x the complexity, and it's near perfect!",
-        "link": "https://www.reddit.com/r/singularity/comments/1sratn2/image_20_is_now_online_on_chatgpt_and_its/",
-        "image": "https://preview.redd.it/mckvxiosfgwg1.png?width=640&crop=smart&auto=webp&s=1421dc80f387ab25db4e774737264134fab461c9",
-        "published": "2026-04-21T02:28:47+00:00"
+        "title": "GPT-Image-2 is rolling out",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr6kfy/gptimage2_is_rolling_out/",
+        "image": "https://preview.redd.it/ly9ts25igfwg1.png?width=640&crop=smart&auto=webp&s=d8c6950851e396109de1f02a384c3f3d2290e651",
+        "published": "2026-04-20T23:23:53+00:00"
     },
     {
         "title": "Opus 4.7 (high) takes #1 on the LLM Debate Benchmark, leading the previous champion, Sonnet 4.6 (high), by 106 BT points. Incredibly, it has not lost a single completed side-swapped matchup: 51 wins, 4 ties, and 0 losses.",
@@ -60,16 +66,16 @@
         "published": "2026-04-20T17:06:48+00:00"
     },
     {
-        "title": "GPT-Image-2 is rolling out",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr6kfy/gptimage2_is_rolling_out/",
-        "image": "https://preview.redd.it/ly9ts25igfwg1.png?width=640&crop=smart&auto=webp&s=d8c6950851e396109de1f02a384c3f3d2290e651",
-        "published": "2026-04-20T23:23:53+00:00"
+        "title": "GPT-Image-2 now reviews its own output and iterates until it is satisfied with the correctness of its output.",
+        "link": "https://www.reddit.com/r/singularity/comments/1srehi7/gptimage2_now_reviews_its_own_output_and_iterates/",
+        "image": "https://preview.redd.it/l1gy51g5bhwg1.png?width=640&crop=smart&auto=webp&s=986918a642e12110fecb7c54495776d91fad96ad",
+        "published": "2026-04-21T05:27:54+00:00"
     },
     {
-        "title": "GPT-Image-2 seems to be coming this week, fal.ai just put up a \u201ccoming soon\u201d page for it",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr4i56/gptimage2_seems_to_be_coming_this_week_falai_just/",
-        "image": "https://external-preview.redd.it/MRnrEld8STC1-N-hs1-4R7K9CX-t6jceOjkix3nDiCE.png?width=640&crop=smart&auto=webp&s=74d955bc38c5d227888f13ae6a0d4e4e07c9e74b",
-        "published": "2026-04-20T22:00:57+00:00"
+        "title": "I put 3 AIs in the same universe and let them compete to build a Dyson Sphere. They\u2019re starting to behave differently.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr5c31/i_put_3_ais_in_the_same_universe_and_let_them/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-20T22:33:49+00:00"
     },
     {
         "title": "Newton 1.0 is 100% open source. GPU-accelerated physics engine from NVIDIA, DeepMind, and Disney Research, now under the Linux Foundation",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1squnmf/kimi_k26_minebench/",
         "image": "https://preview.redd.it/2gsqbli6idwg1.gif?frame=1&width=140&height=78&auto=webp&s=6fa66246a7eaad95696e26cbef1186e3972454d3",
         "published": "2026-04-20T16:38:23+00:00"
-    },
-    {
-        "title": "I put 3 AIs in the same universe and let them compete to build a Dyson Sphere. They\u2019re starting to behave differently.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr5c31/i_put_3_ais_in_the_same_universe_and_let_them/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-20T22:33:49+00:00"
     }
 ]
