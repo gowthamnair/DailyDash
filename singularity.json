@@ -72,12 +72,6 @@
         "published": "2026-04-21T14:03:19+00:00"
     },
     {
-        "title": "Opus 4.7 (high) takes #1 on the LLM Debate Benchmark, leading the previous champion, Sonnet 4.6 (high), by 106 BT points. Incredibly, it has not lost a single completed side-swapped matchup: 51 wins, 4 ties, and 0 losses.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr4bid/opus_47_high_takes_1_on_the_llm_debate_benchmark/",
-        "image": "https://preview.redd.it/lveemj2s1fwg1.png?width=140&height=93&auto=webp&s=f56b904591c952e06b99493e159fc6f8ca6584b6",
-        "published": "2026-04-20T21:53:54+00:00"
-    },
-    {
         "title": "Curious: what makes Claude more human to talk to than ChatGPT?",
         "link": "https://www.reddit.com/r/singularity/comments/1srg98g/curious_what_makes_claude_more_human_to_talk_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1srp9x9/openai_teases_livestream_with_this_aigenerated/",
         "image": "https://preview.redd.it/wjlc12uvzjwg1.jpeg?width=640&crop=smart&auto=webp&s=bbfb7af5dfec7dbd626084f952ea90b38eaf7f74",
         "published": "2026-04-21T14:27:19+00:00"
+    },
+    {
+        "title": "I put 3 AIs in the same universe and let them compete to build a Dyson Sphere. They\u2019re starting to behave differently.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sr5c31/i_put_3_ais_in_the_same_universe_and_let_them/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-20T22:33:49+00:00"
     }
 ]
