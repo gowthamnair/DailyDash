@@ -30,6 +30,12 @@
         "published": "2026-04-21T02:28:47+00:00"
     },
     {
+        "title": "The new ChatGPT images model is the new standard in photorealistic image generation",
+        "link": "https://www.reddit.com/r/singularity/comments/1srvo8i/the_new_chatgpt_images_model_is_the_new_standard/",
+        "image": "https://preview.redd.it/p1k0uadm2lwg1.png?width=140&height=93&auto=webp&s=35ad3ebeab5985ec8fa57b3add7a3b8684018b4b",
+        "published": "2026-04-21T18:05:31+00:00"
+    },
+    {
         "title": "Anthropic expands Amazon partnership with 5GW compute, $100B commitment, big bet on Trainium chips",
         "link": "https://www.reddit.com/r/singularity/comments/1sr2rk5/anthropic_expands_amazon_partnership_with_5gw/",
         "image": "https://preview.redd.it/k61kjf02sewg1.png?width=640&crop=smart&auto=webp&s=f5b1e5eed787b6b2418702be974d85f479b18b72",
@@ -60,33 +66,27 @@
         "published": "2026-04-20T23:23:53+00:00"
     },
     {
-        "title": "OpenAI teases gpt-image 2? Livestream at 12pm PT",
-        "link": "https://www.reddit.com/r/singularity/comments/1srom61/openai_teases_gptimage_2_livestream_at_12pm_pt/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-21T14:03:19+00:00"
-    },
-    {
         "title": "Differences Between Kimi K2.5 and Kimi K2.6 on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1srs29t/differences_between_kimi_k25_and_kimi_k26_on/",
         "image": "https://preview.redd.it/m08t2dyagkwg1.gif?frame=1&width=140&height=78&auto=webp&s=ca86930cc7e18f936d49ffb17f4942ee715efbd5",
         "published": "2026-04-21T16:02:52+00:00"
     },
     {
-        "title": "Opus 4.7 (high) takes #1 on the LLM Debate Benchmark, leading the previous champion, Sonnet 4.6 (high), by 106 BT points. Incredibly, it has not lost a single completed side-swapped matchup: 51 wins, 4 ties, and 0 losses.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr4bid/opus_47_high_takes_1_on_the_llm_debate_benchmark/",
-        "image": "https://preview.redd.it/lveemj2s1fwg1.png?width=140&height=93&auto=webp&s=f56b904591c952e06b99493e159fc6f8ca6584b6",
-        "published": "2026-04-20T21:53:54+00:00"
-    },
-    {
-        "title": "The new ChatGPT images model is the new standard in photorealistic image generation",
-        "link": "https://www.reddit.com/r/singularity/comments/1srvo8i/the_new_chatgpt_images_model_is_the_new_standard/",
-        "image": "https://preview.redd.it/p1k0uadm2lwg1.png?width=140&height=93&auto=webp&s=35ad3ebeab5985ec8fa57b3add7a3b8684018b4b",
-        "published": "2026-04-21T18:05:31+00:00"
-    },
-    {
-        "title": "Curious: what makes Claude more human to talk to than ChatGPT?",
-        "link": "https://www.reddit.com/r/singularity/comments/1srg98g/curious_what_makes_claude_more_human_to_talk_to/",
+        "title": "OpenAI teases gpt-image 2? Livestream at 12pm PT",
+        "link": "https://www.reddit.com/r/singularity/comments/1srom61/openai_teases_gptimage_2_livestream_at_12pm_pt/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-21T07:06:27+00:00"
+        "published": "2026-04-21T14:03:19+00:00"
+    },
+    {
+        "title": "Gpt image 2 has the biggest jump in quality ever recorded",
+        "link": "https://www.reddit.com/r/singularity/comments/1sry7k9/gpt_image_2_has_the_biggest_jump_in_quality_ever/",
+        "image": "https://preview.redd.it/gq2zlv0rilwg1.png?width=640&crop=smart&auto=webp&s=d9b368abe5b736c0c972e632f66758eac92afa1a",
+        "published": "2026-04-21T19:33:59+00:00"
+    },
+    {
+        "title": "Introducing Deep Research and Deep Research Max",
+        "link": "https://www.reddit.com/r/singularity/comments/1srsxvs/introducing_deep_research_and_deep_research_max/",
+        "image": "https://external-preview.redd.it/bbG3Npvwxr9l74eK03d6Y7WF8wvqyayAsA0gAd8_CQA.png?width=640&crop=smart&auto=webp&s=c11d7b52a5a12295792dda5fd50eab9c11e838b7",
+        "published": "2026-04-21T16:32:48+00:00"
     }
 ]
