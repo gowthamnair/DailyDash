@@ -6,12 +6,6 @@
         "published": "2026-04-20T17:20:36+00:00"
     },
     {
-        "title": "Kimi 2.6 has been released",
-        "link": "https://www.reddit.com/r/singularity/comments/1sqsvrt/kimi_26_has_been_released/",
-        "image": "https://preview.redd.it/9wf36xjn7dwg1.jpeg?width=640&crop=smart&auto=webp&s=125e44257b8f414ea9ce3f457a760b0da00f16b3",
-        "published": "2026-04-20T15:37:31+00:00"
-    },
-    {
         "title": "Palantir's summary of CEO Alexander Karp's manifesto is generating buzz. Read the 22 bullet points.",
         "link": "https://www.reddit.com/r/singularity/comments/1sr2x11/palantirs_summary_of_ceo_alexander_karps/",
         "image": "https://external-preview.redd.it/UrzhuipG2D3mpjYNtYPmCLFbKjv0ZRMhTtvGrYi0sIc.jpeg?width=640&crop=smart&auto=webp&s=0cdeaf3ec459827aeef24e4f8caf9374f87ae07d",
@@ -72,21 +66,27 @@
         "published": "2026-04-20T21:53:54+00:00"
     },
     {
+        "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+        "link": "https://www.reddit.com/r/singularity/comments/1srlgc6/deezer_says_44_of_new_music_uploads_are/",
+        "image": "https://external-preview.redd.it/o9y-4euuorypbKYQjxalrDhROGnaISkKkSOt8jKJTrA.jpeg?width=640&crop=smart&auto=webp&s=d130b649345ba1e2ab06d4801cbf5f92a0c9d15b",
+        "published": "2026-04-21T11:55:37+00:00"
+    },
+    {
         "title": "Chinese Army Tests Human-Unmanned Team Tactics in Urban Warfare Drill",
         "link": "https://www.reddit.com/r/singularity/comments/1sqvhcd/chinese_army_tests_humanunmanned_team_tactics_in/",
         "image": "https://external-preview.redd.it/HKq7axguP5GSjo9UQ4BhJw36TQmI9qrvGQ-VFHMZXRM.jpeg?width=320&crop=smart&auto=webp&s=094ab00642464bf1b7a0d2d465bdde5b6f354a44",
         "published": "2026-04-20T17:06:48+00:00"
     },
     {
-        "title": "I put 3 AIs in the same universe and let them compete to build a Dyson Sphere. They\u2019re starting to behave differently.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sr5c31/i_put_3_ais_in_the_same_universe_and_let_them/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-20T22:33:49+00:00"
-    },
-    {
         "title": "Curious: what makes Claude more human to talk to than ChatGPT?",
         "link": "https://www.reddit.com/r/singularity/comments/1srg98g/curious_what_makes_claude_more_human_to_talk_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-21T07:06:27+00:00"
+    },
+    {
+        "title": "OpenAI teases gpt-image 2? Livestream at 12pm PT",
+        "link": "https://www.reddit.com/r/singularity/comments/1srom61/openai_teases_gptimage_2_livestream_at_12pm_pt/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-21T14:03:19+00:00"
     }
 ]
