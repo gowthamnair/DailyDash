@@ -18,22 +18,28 @@
         "published": "2026-04-22T05:17:15+00:00"
     },
     {
-        "title": "Anthropic has appeared to begin testing removing Claude Code from their $20 plan for new users signing up. OpenAI employees have already begun to make fun of them for this.",
-        "link": "https://www.reddit.com/r/singularity/comments/1ss4qsb/anthropic_has_appeared_to_begin_testing_removing/",
-        "image": "https://preview.redd.it/hp8lqltkqmwg1.png?width=140&height=62&auto=webp&s=5e98c79f5f4883196d40c991e0c36bede3ad583f",
-        "published": "2026-04-21T23:41:02+00:00"
-    },
-    {
         "title": "A Chinese startup sells a $3 companion AI device that generates interactive holograms of deceased loved by uploading their photos, voice recordings, and chat histories.",
         "link": "https://www.reddit.com/r/singularity/comments/1sshu40/a_chinese_startup_sells_a_3_companion_ai_device/",
         "image": "https://external-preview.redd.it/eGg1Nm9xdDkxcXdnMZuBt4I8_2FZF_5-gCf4D0BrAzgpNePDkxxIbZaNT8DZ.png?width=320&crop=smart&auto=webp&s=c8872cb9f602b3ce664903075a914d2b09b05520",
         "published": "2026-04-22T10:45:03+00:00"
     },
     {
+        "title": "Anthropic has appeared to begin testing removing Claude Code from their $20 plan for new users signing up. OpenAI employees have already begun to make fun of them for this.",
+        "link": "https://www.reddit.com/r/singularity/comments/1ss4qsb/anthropic_has_appeared_to_begin_testing_removing/",
+        "image": "https://preview.redd.it/hp8lqltkqmwg1.png?width=140&height=62&auto=webp&s=5e98c79f5f4883196d40c991e0c36bede3ad583f",
+        "published": "2026-04-21T23:41:02+00:00"
+    },
+    {
         "title": "AheadForm Origin F1 returns with new look",
         "link": "https://www.reddit.com/r/singularity/comments/1ss836q/aheadform_origin_f1_returns_with_new_look/",
         "image": "https://external-preview.redd.it/MXc2YjUwY3pnbndnMZQStkAI-YNL7szB0VHZkvgwgza0hmA5iqDvJ46vLkyx.png?width=640&crop=smart&auto=webp&s=5415d93ae58da637b6d6bcab264264665b850342",
         "published": "2026-04-22T02:07:39+00:00"
+    },
+    {
+        "title": "Google introduces TPU 8t and TPU 8i",
+        "link": "https://www.reddit.com/r/singularity/comments/1ssjlk4/google_introduces_tpu_8t_and_tpu_8i/",
+        "image": "https://preview.redd.it/fgfzthxbgqwg1.jpeg?width=320&crop=smart&auto=webp&s=bbcc1adff6349ab321c2c9131efdfad9fca8076c",
+        "published": "2026-04-22T12:09:20+00:00"
     },
     {
         "title": "How an Artificial Neural Network Works - GPT IMAGE 2",
@@ -48,28 +54,16 @@
         "published": "2026-04-21T19:29:37+00:00"
     },
     {
-        "title": "Introducing Deep Research and Deep Research Max",
-        "link": "https://www.reddit.com/r/singularity/comments/1srsxvs/introducing_deep_research_and_deep_research_max/",
-        "image": "https://external-preview.redd.it/bbG3Npvwxr9l74eK03d6Y7WF8wvqyayAsA0gAd8_CQA.png?width=640&crop=smart&auto=webp&s=c11d7b52a5a12295792dda5fd50eab9c11e838b7",
-        "published": "2026-04-21T16:32:48+00:00"
-    },
-    {
         "title": "GPT image 2 is insane",
         "link": "https://www.reddit.com/r/singularity/comments/1ss7lkh/gpt_image_2_is_insane/",
         "image": "https://preview.redd.it/1mtu14z3dnwg1.jpeg?width=640&crop=smart&auto=webp&s=341672243989d86f3475142c3137e314a8321920",
         "published": "2026-04-22T01:45:55+00:00"
     },
     {
-        "title": "Google introduces TPU 8t and TPU 8i",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssjlk4/google_introduces_tpu_8t_and_tpu_8i/",
-        "image": "https://preview.redd.it/fgfzthxbgqwg1.jpeg?width=320&crop=smart&auto=webp&s=bbcc1adff6349ab321c2c9131efdfad9fca8076c",
-        "published": "2026-04-22T12:09:20+00:00"
-    },
-    {
-        "title": "Differences Between Kimi K2.5 and Kimi K2.6 on MineBench",
-        "link": "https://www.reddit.com/r/singularity/comments/1srs29t/differences_between_kimi_k25_and_kimi_k26_on/",
-        "image": "https://preview.redd.it/m08t2dyagkwg1.gif?frame=1&width=140&height=78&auto=webp&s=ca86930cc7e18f936d49ffb17f4942ee715efbd5",
-        "published": "2026-04-21T16:02:52+00:00"
+        "title": "Opus 4.7 scores lower than 4.6 and 4.5 on SimpleBench",
+        "link": "https://www.reddit.com/r/singularity/comments/1sskwbf/opus_47_scores_lower_than_46_and_45_on_simplebench/",
+        "image": "https://preview.redd.it/2uxelaazpqwg1.png?width=640&crop=smart&auto=webp&s=908bf1d6b6c15e267e338fac6c0ebf479ff781d6",
+        "published": "2026-04-22T13:03:43+00:00"
     },
     {
         "title": "Images 2 is (so far) okay with copyrighted characters and public figures!",
@@ -78,15 +72,21 @@
         "published": "2026-04-21T19:35:46+00:00"
     },
     {
-        "title": "OpenAI cooked with the new Images 2 Model, the characters can stay extremely consistent, while text is clear and stays the same",
-        "link": "https://www.reddit.com/r/singularity/comments/1srzisz/openai_cooked_with_the_new_images_2_model_the/",
-        "image": "https://preview.redd.it/wukfb99xqlwg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=16228f2f7165433a34c7f6f13eb8dd1e26f1c4df",
-        "published": "2026-04-21T20:21:11+00:00"
-    },
-    {
         "title": "The game specific meme potential on gpt image 2 is insane",
         "link": "https://www.reddit.com/r/singularity/comments/1sryt3g/the_game_specific_meme_potential_on_gpt_image_2/",
         "image": "https://preview.redd.it/4u10u9ylmlwg1.jpg?width=140&height=112&auto=webp&s=24d5bdac11251679db6e4fbf04bbc23520dd05bb",
         "published": "2026-04-21T19:55:42+00:00"
+    },
+    {
+        "title": "Caught the massive OpenAI Codex model leak on video before it was patched! (GPT-5.5, Arcanine, Glacier-alpha)",
+        "link": "https://www.reddit.com/r/singularity/comments/1ssb7mz/caught_the_massive_openai_codex_model_leak_on/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-22T04:32:55+00:00"
+    },
+    {
+        "title": "OpenAI cooked with the new Images 2 Model, the characters can stay extremely consistent, while text is clear and stays the same",
+        "link": "https://www.reddit.com/r/singularity/comments/1srzisz/openai_cooked_with_the_new_images_2_model_the/",
+        "image": "https://preview.redd.it/wukfb99xqlwg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=16228f2f7165433a34c7f6f13eb8dd1e26f1c4df",
+        "published": "2026-04-21T20:21:11+00:00"
     }
 ]
