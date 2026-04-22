@@ -24,16 +24,16 @@
         "published": "2026-04-21T17:02:12+00:00"
     },
     {
-        "title": "Iran claims US used backdoors in networking equipment",
-        "link": "https://www.reddit.com/r/technology/comments/1ss0gi4/iran_claims_us_used_backdoors_in_networking/",
-        "image": "https://external-preview.redd.it/9NZiTMLAHSx8jqt4xm_EFLDvcU2AlN5iBOv4YXMMM88.jpeg?width=640&crop=smart&auto=webp&s=f70a3406281e524296d61c76e692fdb203154d14",
-        "published": "2026-04-21T20:54:22+00:00"
-    },
-    {
         "title": "Monterey Park, California has banned any data centers within its city limits",
         "link": "https://www.reddit.com/r/technology/comments/1ss24pv/monterey_park_california_has_banned_any_data/",
         "image": "https://external-preview.redd.it/6UNsVEIRlkuTerN8cpJf8eQLYvx_j__FR1RVXCI10rE.jpeg?width=640&crop=smart&auto=webp&s=ee2685ae1ed7e48ad31f79d4224b91e38bf6ed84",
         "published": "2026-04-21T21:56:15+00:00"
+    },
+    {
+        "title": "Iran claims US used backdoors in networking equipment",
+        "link": "https://www.reddit.com/r/technology/comments/1ss0gi4/iran_claims_us_used_backdoors_in_networking/",
+        "image": "https://external-preview.redd.it/9NZiTMLAHSx8jqt4xm_EFLDvcU2AlN5iBOv4YXMMM88.jpeg?width=640&crop=smart&auto=webp&s=f70a3406281e524296d61c76e692fdb203154d14",
+        "published": "2026-04-21T20:54:22+00:00"
     },
     {
         "title": "Microsoft cuts Game Pass subscription prices after new Xbox CEO promises to 'recommit' to gamers / But the subscriptions won't have new \"Call of Duty\" games at launch time.",
@@ -60,16 +60,22 @@
         "published": "2026-04-22T03:27:55+00:00"
     },
     {
+        "title": "Pentagon wants $54B for drones, more than most nations\u2019 military budgets",
+        "link": "https://www.reddit.com/r/technology/comments/1sscmju/pentagon_wants_54b_for_drones_more_than_most/",
+        "image": "https://external-preview.redd.it/3OgSwufLRaRKtCex3AfzqM7o5tEWR7NXfvafXj94LC4.jpeg?width=640&crop=smart&auto=webp&s=af2babdbed527b2523caf6f0398802c38086258f",
+        "published": "2026-04-22T05:48:19+00:00"
+    },
+    {
         "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
         "link": "https://www.reddit.com/r/technology/comments/1ss4caw/mozilla_used_anthropics_mythos_to_find_and_fix/",
         "image": "https://external-preview.redd.it/ayP8DdPJBqDhLmum65qE52qEqwPYiMllS_uOmsHLBRo.jpeg?width=640&crop=smart&auto=webp&s=b4c3852b7c8f7fbaa3902b902785aa8e3c028347",
         "published": "2026-04-21T23:23:57+00:00"
     },
     {
-        "title": "Pentagon wants $54B for drones, more than most nations\u2019 military budgets",
-        "link": "https://www.reddit.com/r/technology/comments/1sscmju/pentagon_wants_54b_for_drones_more_than_most/",
-        "image": "https://external-preview.redd.it/3OgSwufLRaRKtCex3AfzqM7o5tEWR7NXfvafXj94LC4.jpeg?width=640&crop=smart&auto=webp&s=af2babdbed527b2523caf6f0398802c38086258f",
-        "published": "2026-04-22T05:48:19+00:00"
+        "title": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims",
+        "link": "https://www.reddit.com/r/technology/comments/1ssguib/unauthorized_group_has_gained_access_to/",
+        "image": "https://external-preview.redd.it/ZBMC9LSgZqay523t5c0bgTxeTEDs8MB1-6nty7mEF4k.jpeg?width=640&crop=smart&auto=webp&s=5c3f02db9437793a120941481b6668e61112b623",
+        "published": "2026-04-22T09:51:10+00:00"
     },
     {
         "title": "In the face of rampant AI, is \u2018data poisoning\u2019 a new form of civil disobedience?",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1ss12gg/sauce_company_prego_reveals_limited_edition_20/",
         "image": "https://external-preview.redd.it/AC7HAP9AZL89oK3Jjpo4BDNm_0qpKzDFDALHb7dxmFg.jpeg?width=640&crop=smart&auto=webp&s=2d317567d68b2a62daa816a71ad0e92ce8489316",
         "published": "2026-04-21T21:15:44+00:00"
-    },
-    {
-        "title": "Clean energy pushes fossil-fuel power into reverse for \u2018first time ever\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1srlp7z/clean_energy_pushes_fossilfuel_power_into_reverse/",
-        "image": "https://external-preview.redd.it/nzs6YSCuYjiefNA8Ipp2m_KXpcc4KxvfwN5kWaPNsTk.jpeg?width=640&crop=smart&auto=webp&s=89a0955274ff378a1757d6e13f6aec0e3b58909c",
-        "published": "2026-04-21T12:06:30+00:00"
     }
 ]
