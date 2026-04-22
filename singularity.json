@@ -12,16 +12,16 @@
         "published": "2026-04-21T19:33:59+00:00"
     },
     {
-        "title": "Another CyberNani face spotted",
-        "link": "https://www.reddit.com/r/singularity/comments/1srhkn0/another_cybernani_face_spotted/",
-        "image": "https://external-preview.redd.it/anhvazNud2s3aXdnMf8V8l7K-go39deyKH7YUbGHXyWnhG35ZUx-sHNi5_2D.png?width=320&crop=smart&auto=webp&s=ea76007f322f98d877136d4878da5ab217706139",
-        "published": "2026-04-21T08:26:02+00:00"
-    },
-    {
         "title": "Anthropic has appeared to begin testing removing Claude Code from their $20 plan for new users signing up. OpenAI employees have already begun to make fun of them for this.",
         "link": "https://www.reddit.com/r/singularity/comments/1ss4qsb/anthropic_has_appeared_to_begin_testing_removing/",
         "image": "https://preview.redd.it/hp8lqltkqmwg1.png?width=140&height=62&auto=webp&s=5e98c79f5f4883196d40c991e0c36bede3ad583f",
         "published": "2026-04-21T23:41:02+00:00"
+    },
+    {
+        "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
+        "link": "https://www.reddit.com/r/singularity/comments/1ssc2cv/mozilla_used_anthropics_mythos_to_find_and_fix/",
+        "image": "https://external-preview.redd.it/ayP8DdPJBqDhLmum65qE52qEqwPYiMllS_uOmsHLBRo.jpeg?width=640&crop=smart&auto=webp&s=b4c3852b7c8f7fbaa3902b902785aa8e3c028347",
+        "published": "2026-04-22T05:17:15+00:00"
     },
     {
         "title": "AheadForm Origin F1 returns with new look",
@@ -54,22 +54,16 @@
         "published": "2026-04-21T20:41:42+00:00"
     },
     {
-        "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssc2cv/mozilla_used_anthropics_mythos_to_find_and_fix/",
-        "image": "https://external-preview.redd.it/ayP8DdPJBqDhLmum65qE52qEqwPYiMllS_uOmsHLBRo.jpeg?width=640&crop=smart&auto=webp&s=b4c3852b7c8f7fbaa3902b902785aa8e3c028347",
-        "published": "2026-04-22T05:17:15+00:00"
+        "title": "GPT image 2 is insane",
+        "link": "https://www.reddit.com/r/singularity/comments/1ss7lkh/gpt_image_2_is_insane/",
+        "image": "https://preview.redd.it/1mtu14z3dnwg1.jpeg?width=640&crop=smart&auto=webp&s=341672243989d86f3475142c3137e314a8321920",
+        "published": "2026-04-22T01:45:55+00:00"
     },
     {
         "title": "Differences Between Kimi K2.5 and Kimi K2.6 on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1srs29t/differences_between_kimi_k25_and_kimi_k26_on/",
         "image": "https://preview.redd.it/m08t2dyagkwg1.gif?frame=1&width=140&height=78&auto=webp&s=ca86930cc7e18f936d49ffb17f4942ee715efbd5",
         "published": "2026-04-21T16:02:52+00:00"
-    },
-    {
-        "title": "GPT image 2 is insane",
-        "link": "https://www.reddit.com/r/singularity/comments/1ss7lkh/gpt_image_2_is_insane/",
-        "image": "https://preview.redd.it/1mtu14z3dnwg1.jpeg?width=640&crop=smart&auto=webp&s=341672243989d86f3475142c3137e314a8321920",
-        "published": "2026-04-22T01:45:55+00:00"
     },
     {
         "title": "Images 2 is (so far) okay with copyrighted characters and public figures!",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1srzisz/openai_cooked_with_the_new_images_2_model_the/",
         "image": "https://preview.redd.it/wukfb99xqlwg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=16228f2f7165433a34c7f6f13eb8dd1e26f1c4df",
         "published": "2026-04-21T20:21:11+00:00"
+    },
+    {
+        "title": "The game specific meme potential on gpt image 2 is insane",
+        "link": "https://www.reddit.com/r/singularity/comments/1sryt3g/the_game_specific_meme_potential_on_gpt_image_2/",
+        "image": "https://preview.redd.it/4u10u9ylmlwg1.jpg?width=140&height=112&auto=webp&s=24d5bdac11251679db6e4fbf04bbc23520dd05bb",
+        "published": "2026-04-21T19:55:42+00:00"
     }
 ]
