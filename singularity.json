@@ -24,16 +24,16 @@
         "published": "2026-04-21T23:41:02+00:00"
     },
     {
-        "title": "AheadForm Origin F1 returns with new look",
-        "link": "https://www.reddit.com/r/singularity/comments/1ss836q/aheadform_origin_f1_returns_with_new_look/",
-        "image": "https://external-preview.redd.it/MXc2YjUwY3pnbndnMZQStkAI-YNL7szB0VHZkvgwgza0hmA5iqDvJ46vLkyx.png?width=640&crop=smart&auto=webp&s=5415d93ae58da637b6d6bcab264264665b850342",
-        "published": "2026-04-22T02:07:39+00:00"
-    },
-    {
         "title": "A Chinese startup sells a $3 companion AI device that generates interactive holograms of deceased loved by uploading their photos, voice recordings, and chat histories.",
         "link": "https://www.reddit.com/r/singularity/comments/1sshu40/a_chinese_startup_sells_a_3_companion_ai_device/",
         "image": "https://external-preview.redd.it/eGg1Nm9xdDkxcXdnMZuBt4I8_2FZF_5-gCf4D0BrAzgpNePDkxxIbZaNT8DZ.png?width=320&crop=smart&auto=webp&s=c8872cb9f602b3ce664903075a914d2b09b05520",
         "published": "2026-04-22T10:45:03+00:00"
+    },
+    {
+        "title": "AheadForm Origin F1 returns with new look",
+        "link": "https://www.reddit.com/r/singularity/comments/1ss836q/aheadform_origin_f1_returns_with_new_look/",
+        "image": "https://external-preview.redd.it/MXc2YjUwY3pnbndnMZQStkAI-YNL7szB0VHZkvgwgza0hmA5iqDvJ46vLkyx.png?width=640&crop=smart&auto=webp&s=5415d93ae58da637b6d6bcab264264665b850342",
+        "published": "2026-04-22T02:07:39+00:00"
     },
     {
         "title": "How an Artificial Neural Network Works - GPT IMAGE 2",
@@ -60,6 +60,12 @@
         "published": "2026-04-22T01:45:55+00:00"
     },
     {
+        "title": "Google introduces TPU 8t and TPU 8i",
+        "link": "https://www.reddit.com/r/singularity/comments/1ssjlk4/google_introduces_tpu_8t_and_tpu_8i/",
+        "image": "https://preview.redd.it/fgfzthxbgqwg1.jpeg?width=320&crop=smart&auto=webp&s=bbcc1adff6349ab321c2c9131efdfad9fca8076c",
+        "published": "2026-04-22T12:09:20+00:00"
+    },
+    {
         "title": "Differences Between Kimi K2.5 and Kimi K2.6 on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1srs29t/differences_between_kimi_k25_and_kimi_k26_on/",
         "image": "https://preview.redd.it/m08t2dyagkwg1.gif?frame=1&width=140&height=78&auto=webp&s=ca86930cc7e18f936d49ffb17f4942ee715efbd5",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sryt3g/the_game_specific_meme_potential_on_gpt_image_2/",
         "image": "https://preview.redd.it/4u10u9ylmlwg1.jpg?width=140&height=112&auto=webp&s=24d5bdac11251679db6e4fbf04bbc23520dd05bb",
         "published": "2026-04-21T19:55:42+00:00"
-    },
-    {
-        "title": "OpenAI teases gpt-image 2? Livestream at 12pm PT",
-        "link": "https://www.reddit.com/r/singularity/comments/1srom61/openai_teases_gptimage_2_livestream_at_12pm_pt/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-21T14:03:19+00:00"
     }
 ]
