@@ -12,6 +12,12 @@
         "published": "2026-04-23T11:23:51+00:00"
     },
     {
+        "title": "Introducing GPT-5.5",
+        "link": "https://www.reddit.com/r/singularity/comments/1stqev3/introducing_gpt55/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-23T18:02:46+00:00"
+    },
+    {
         "title": "Still coding? Google says 75% of the company\u2019s new code is AI-generated. In previous years, it was around 50% in 2025 and 25% in 2024.",
         "link": "https://www.reddit.com/r/singularity/comments/1stfbtv/still_coding_google_says_75_of_the_companys_new/",
         "image": "https://external-preview.redd.it/9ugybAWok_B3wmgwZXEUQE_TkdqIl5-1HxxM7eYvOJ0.jpeg?width=640&crop=smart&auto=webp&s=a702a3d288c6d366284768cb27f862364001d786",
@@ -30,10 +36,10 @@
         "published": "2026-04-23T14:42:02+00:00"
     },
     {
-        "title": "Introducing GPT-5.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1stqev3/introducing_gpt55/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-23T18:02:46+00:00"
+        "title": "GPT-5.5 benchmark results have been released",
+        "link": "https://www.reddit.com/r/singularity/comments/1stqk81/gpt55_benchmark_results_have_been_released/",
+        "image": "https://preview.redd.it/e6e1dca4dzwg1.png?width=640&crop=smart&auto=webp&s=b77a3393ccb2e15d38093b06fd5272cc94cf4ba3",
+        "published": "2026-04-23T18:07:48+00:00"
     },
     {
         "title": "Tesla has officially confirmed that this will be the new Optimus factory at Giga Texas. Long term, this new factory will have an annual production capacity of 10 million robots.",
@@ -42,22 +48,16 @@
         "published": "2026-04-23T07:46:35+00:00"
     },
     {
-        "title": "GPT-5.5 benchmark results have been released",
-        "link": "https://www.reddit.com/r/singularity/comments/1stqk81/gpt55_benchmark_results_have_been_released/",
-        "image": "https://preview.redd.it/e6e1dca4dzwg1.png?width=640&crop=smart&auto=webp&s=b77a3393ccb2e15d38093b06fd5272cc94cf4ba3",
-        "published": "2026-04-23T18:07:48+00:00"
-    },
-    {
         "title": "Anthropic Mythos shaping up as nothingburger",
         "link": "https://www.reddit.com/r/singularity/comments/1stofgg/anthropic_mythos_shaping_up_as_nothingburger/",
         "image": "https://external-preview.redd.it/Mg9EVRhgvlkcOHZ8c6bOn6cl-pzZEbEo3PXXBU_QqGc.jpeg?width=640&crop=smart&auto=webp&s=e16ab2f2280c2373f15f479bf039569b8280dee7",
         "published": "2026-04-23T16:53:52+00:00"
     },
     {
-        "title": "Happy smarter base model day",
-        "link": "https://www.reddit.com/r/singularity/comments/1stn4iv/happy_smarter_base_model_day/",
-        "image": "https://preview.redd.it/j4jvkuoerywg1.jpg?width=140&height=107&auto=webp&s=30092d8e63164184e2b8fcbccedbb74ce97483a2",
-        "published": "2026-04-23T16:06:51+00:00"
+        "title": "Chat GPT 5.5 got launched and we got some really bold words by Sam Altman. Thoughts?",
+        "link": "https://www.reddit.com/r/singularity/comments/1str6al/chat_gpt_55_got_launched_and_we_got_some_really/",
+        "image": "https://preview.redd.it/b9un7m61hzwg1.jpeg?width=640&crop=smart&auto=webp&s=dc67ad3e3349c4de8efaa30b798f70a314744e7e",
+        "published": "2026-04-23T18:29:18+00:00"
     },
     {
         "title": "Figure AI video suggests 03 production is ramping up",
@@ -66,16 +66,10 @@
         "published": "2026-04-23T17:09:04+00:00"
     },
     {
-        "title": "China isn\u2019t just making AI software anymore they are building the hardware to go with it.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sth00m/china_isnt_just_making_ai_software_anymore_they/",
-        "image": "https://external-preview.redd.it/cnZydTVyMndreHdnMc8xaeFd65JojSbB3ypMLPtTzvcM6UONcS7y6JjI7jXL.png?width=640&crop=smart&auto=webp&s=463157b3a8be55b5d7927cfdee43fec58483f2ac",
-        "published": "2026-04-23T12:13:54+00:00"
-    },
-    {
-        "title": "Generated some scp style documentation by using gpt image 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1stjn6l/generated_some_scp_style_documentation_by_using/",
-        "image": "https://preview.redd.it/8v4j7uy95ywg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7394e38e1dc00bddcafdc2f98cc38611527f3ce6",
-        "published": "2026-04-23T14:01:43+00:00"
+        "title": "Happy smarter base model day",
+        "link": "https://www.reddit.com/r/singularity/comments/1stn4iv/happy_smarter_base_model_day/",
+        "image": "https://preview.redd.it/j4jvkuoerywg1.jpg?width=140&height=107&auto=webp&s=30092d8e63164184e2b8fcbccedbb74ce97483a2",
+        "published": "2026-04-23T16:06:51+00:00"
     },
     {
         "title": "Dungeon Game made by 5.5. It seems like they're focusing on improving model capabilities over benchmaxxing.",
@@ -84,9 +78,15 @@
         "published": "2026-04-23T18:16:06+00:00"
     },
     {
-        "title": "Anthropic's Mythos system card reveals AI carries functional emotional states that influence behavior even when not reflected in outputs. We're still calling it a tool.",
-        "link": "https://www.reddit.com/r/singularity/comments/1st8ho3/anthropics_mythos_system_card_reveals_ai_carries/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-23T04:28:52+00:00"
+        "title": "Generated some scp style documentation by using gpt image 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1stjn6l/generated_some_scp_style_documentation_by_using/",
+        "image": "https://preview.redd.it/8v4j7uy95ywg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7394e38e1dc00bddcafdc2f98cc38611527f3ce6",
+        "published": "2026-04-23T14:01:43+00:00"
+    },
+    {
+        "title": "China isn\u2019t just making AI software anymore they are building the hardware to go with it.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sth00m/china_isnt_just_making_ai_software_anymore_they/",
+        "image": "https://external-preview.redd.it/cnZydTVyMndreHdnMc8xaeFd65JojSbB3ypMLPtTzvcM6UONcS7y6JjI7jXL.png?width=640&crop=smart&auto=webp&s=463157b3a8be55b5d7927cfdee43fec58483f2ac",
+        "published": "2026-04-23T12:13:54+00:00"
     }
 ]
