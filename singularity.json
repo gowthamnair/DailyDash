@@ -6,10 +6,10 @@
         "published": "2026-04-22T10:45:03+00:00"
     },
     {
-        "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssc2cv/mozilla_used_anthropics_mythos_to_find_and_fix/",
-        "image": "https://external-preview.redd.it/ayP8DdPJBqDhLmum65qE52qEqwPYiMllS_uOmsHLBRo.jpeg?width=640&crop=smart&auto=webp&s=b4c3852b7c8f7fbaa3902b902785aa8e3c028347",
-        "published": "2026-04-22T05:17:15+00:00"
+        "title": "OpenAI preparing for a big launch",
+        "link": "https://www.reddit.com/r/singularity/comments/1st3i4q/openai_preparing_for_a_big_launch/",
+        "image": "https://preview.redd.it/zpxqzpxz5uwg1.png?width=640&crop=smart&auto=webp&s=f714c1719a3311a311e8aa58965c982a13e8e37f",
+        "published": "2026-04-23T00:38:46+00:00"
     },
     {
         "title": "Google introduces TPU 8t and TPU 8i",
@@ -22,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ssp3bw/uber_blows_through_its_it_budget_for_ai_for_2026/",
         "image": "https://external-preview.redd.it/kIJoQhhfoFP7CJjNCxbfsUufcSZ8Vw2A31HZk8g5snA.jpeg?width=640&crop=smart&auto=webp&s=b7ec641f489eb670596471ea34fa7bdc6c674a70",
         "published": "2026-04-22T15:38:23+00:00"
-    },
-    {
-        "title": "OpenAI preparing for a big launch",
-        "link": "https://www.reddit.com/r/singularity/comments/1st3i4q/openai_preparing_for_a_big_launch/",
-        "image": "https://preview.redd.it/zpxqzpxz5uwg1.png?width=640&crop=smart&auto=webp&s=f714c1719a3311a311e8aa58965c982a13e8e37f",
-        "published": "2026-04-23T00:38:46+00:00"
     },
     {
         "title": "GPT Image 2 is the first image ai that\u2019s blown my mind (prompted for a screenshot from a combined GTA 6-Cyberpunk 2077 game)",
@@ -54,22 +48,28 @@
         "published": "2026-04-22T16:32:34+00:00"
     },
     {
-        "title": "Google introduces Gemini Enterprise Agent Platform",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssk0w3/google_introduces_gemini_enterprise_agent_platform/",
-        "image": "https://preview.redd.it/pmwwuejmjqwg1.jpeg?width=640&crop=smart&auto=webp&s=2c76c82fefe1dd81ac390b6b40d209eb404f683d",
-        "published": "2026-04-22T12:27:49+00:00"
-    },
-    {
         "title": "SONY AI | Project Ace, for the first time AI/robotics is competitive against pro table tennis players.",
         "link": "https://www.reddit.com/r/singularity/comments/1st3uoq/sony_ai_project_ace_for_the_first_time_airobotics/",
         "image": "https://external-preview.redd.it/djV0MjlqMHc4dXdnMdZ71IP_RoBb3N8RMhmZ16-9KvzQ7pEjr0L3b8YBKTtr.png?width=640&crop=smart&auto=webp&s=9aaff9c0a366bb328ccb7eacf3cae6f5f166cf3d",
         "published": "2026-04-23T00:54:50+00:00"
     },
     {
+        "title": "Google introduces Gemini Enterprise Agent Platform",
+        "link": "https://www.reddit.com/r/singularity/comments/1ssk0w3/google_introduces_gemini_enterprise_agent_platform/",
+        "image": "https://preview.redd.it/pmwwuejmjqwg1.jpeg?width=640&crop=smart&auto=webp&s=2c76c82fefe1dd81ac390b6b40d209eb404f683d",
+        "published": "2026-04-22T12:27:49+00:00"
+    },
+    {
         "title": "Xiaomi released their SOTA model, MiMo-V2.5-Pro.",
         "link": "https://www.reddit.com/r/singularity/comments/1ssryws/xiaomi_released_their_sota_model_mimov25pro/",
         "image": "https://preview.redd.it/dfw53tzpzrwg1.jpeg?width=640&crop=smart&auto=webp&s=cd8661b8a5942d642474af96ae90452fa9776a32",
         "published": "2026-04-22T17:19:48+00:00"
+    },
+    {
+        "title": "Anthropic's Mythos system card reveals AI carries functional emotional states that influence behavior even when not reflected in outputs. We're still calling it a tool.",
+        "link": "https://www.reddit.com/r/singularity/comments/1st8ho3/anthropics_mythos_system_card_reveals_ai_carries/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-23T04:28:52+00:00"
     },
     {
         "title": "[Researcher] Wasn't there a case where the AI agent tried to hire a human to get past captchas? I can't find the proper piece, did I hallucinate this?",
