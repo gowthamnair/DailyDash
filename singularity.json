@@ -42,16 +42,16 @@
         "published": "2026-04-22T10:01:24+00:00"
     },
     {
-        "title": "Feel like people here are sprinting to plug themselves in lol",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssqma5/feel_like_people_here_are_sprinting_to_plug/",
-        "image": "https://preview.redd.it/o57u0o27rrwg1.jpeg?width=640&crop=smart&auto=webp&s=75ae2a3d298602cbb088d798735ea528a2b8dbb7",
-        "published": "2026-04-22T16:32:34+00:00"
-    },
-    {
         "title": "SONY AI | Project Ace, for the first time AI/robotics is competitive against pro table tennis players.",
         "link": "https://www.reddit.com/r/singularity/comments/1st3uoq/sony_ai_project_ace_for_the_first_time_airobotics/",
         "image": "https://external-preview.redd.it/djV0MjlqMHc4dXdnMdZ71IP_RoBb3N8RMhmZ16-9KvzQ7pEjr0L3b8YBKTtr.png?width=640&crop=smart&auto=webp&s=9aaff9c0a366bb328ccb7eacf3cae6f5f166cf3d",
         "published": "2026-04-23T00:54:50+00:00"
+    },
+    {
+        "title": "Feel like people here are sprinting to plug themselves in lol",
+        "link": "https://www.reddit.com/r/singularity/comments/1ssqma5/feel_like_people_here_are_sprinting_to_plug/",
+        "image": "https://preview.redd.it/o57u0o27rrwg1.jpeg?width=640&crop=smart&auto=webp&s=75ae2a3d298602cbb088d798735ea528a2b8dbb7",
+        "published": "2026-04-22T16:32:34+00:00"
     },
     {
         "title": "Google introduces Gemini Enterprise Agent Platform",
@@ -72,12 +72,6 @@
         "published": "2026-04-23T04:28:52+00:00"
     },
     {
-        "title": "[Researcher] Wasn't there a case where the AI agent tried to hire a human to get past captchas? I can't find the proper piece, did I hallucinate this?",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssenqc/researcher_wasnt_there_a_case_where_the_ai_agent/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-22T07:43:49+00:00"
-    },
-    {
         "title": "World models: how close are we to something usable in a real product?",
         "link": "https://www.reddit.com/r/singularity/comments/1ssfsz6/world_models_how_close_are_we_to_something_usable/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ssgouh/gptimage2_vs_gemini3proimage/",
         "image": "https://preview.redd.it/uit4dc50qpwg1.jpg?width=140&height=93&auto=webp&s=9381bf94bb153df7b40ee9e5b3c74d2d0fe319c3",
         "published": "2026-04-22T09:41:51+00:00"
+    },
+    {
+        "title": "India 3 crore rupees AI defence push sarvam to build indigenous system for future welfare",
+        "link": "https://www.reddit.com/r/singularity/comments/1stbfbw/india_3_crore_rupees_ai_defence_push_sarvam_to/",
+        "image": "https://preview.redd.it/hlfvjkrt1wwg1.png?width=216&crop=smart&auto=webp&s=05540bf65a134dd978a4c6f09e77818531639f9f",
+        "published": "2026-04-23T07:07:17+00:00"
     }
 ]
