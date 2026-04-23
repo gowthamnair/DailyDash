@@ -6,12 +6,6 @@
         "published": "2026-04-23T00:38:46+00:00"
     },
     {
-        "title": "Google introduces TPU 8t and TPU 8i",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssjlk4/google_introduces_tpu_8t_and_tpu_8i/",
-        "image": "https://preview.redd.it/fgfzthxbgqwg1.jpeg?width=320&crop=smart&auto=webp&s=bbcc1adff6349ab321c2c9131efdfad9fca8076c",
-        "published": "2026-04-22T12:09:20+00:00"
-    },
-    {
         "title": "Uber blows through its IT budget for AI for 2026 and it's only April citing rising costs of Claude Code",
         "link": "https://www.reddit.com/r/singularity/comments/1ssp3bw/uber_blows_through_its_it_budget_for_ai_for_2026/",
         "image": "https://external-preview.redd.it/kIJoQhhfoFP7CJjNCxbfsUufcSZ8Vw2A31HZk8g5snA.jpeg?width=640&crop=smart&auto=webp&s=b7ec641f489eb670596471ea34fa7bdc6c674a70",
@@ -36,16 +30,16 @@
         "published": "2026-04-23T00:54:50+00:00"
     },
     {
+        "title": "Unitree unveils a version of the G1 with wheels",
+        "link": "https://www.reddit.com/r/singularity/comments/1stfwyf/unitree_unveils_a_version_of_the_g1_with_wheels/",
+        "image": "https://external-preview.redd.it/azQ5dnlsbjBkeHdnMXvuoZw_host_qYnNP0jxq9mhMod_kVNWx4FT0Q2kbP6.png?width=640&crop=smart&auto=webp&s=f8aea6decd513acba8ab2db6e80a7cae0b1bbd3d",
+        "published": "2026-04-23T11:23:51+00:00"
+    },
+    {
         "title": "Feel like people here are sprinting to plug themselves in lol",
         "link": "https://www.reddit.com/r/singularity/comments/1ssqma5/feel_like_people_here_are_sprinting_to_plug/",
         "image": "https://preview.redd.it/o57u0o27rrwg1.jpeg?width=640&crop=smart&auto=webp&s=75ae2a3d298602cbb088d798735ea528a2b8dbb7",
         "published": "2026-04-22T16:32:34+00:00"
-    },
-    {
-        "title": "Google introduces Gemini Enterprise Agent Platform",
-        "link": "https://www.reddit.com/r/singularity/comments/1ssk0w3/google_introduces_gemini_enterprise_agent_platform/",
-        "image": "https://preview.redd.it/pmwwuejmjqwg1.jpeg?width=640&crop=smart&auto=webp&s=2c76c82fefe1dd81ac390b6b40d209eb404f683d",
-        "published": "2026-04-22T12:27:49+00:00"
     },
     {
         "title": "Xiaomi released their SOTA model, MiMo-V2.5-Pro.",
@@ -60,12 +54,6 @@
         "published": "2026-04-23T07:46:35+00:00"
     },
     {
-        "title": "Unitree unveils a version of the G1 with wheels",
-        "link": "https://www.reddit.com/r/singularity/comments/1stfwyf/unitree_unveils_a_version_of_the_g1_with_wheels/",
-        "image": "https://external-preview.redd.it/azQ5dnlsbjBkeHdnMXvuoZw_host_qYnNP0jxq9mhMod_kVNWx4FT0Q2kbP6.png?width=640&crop=smart&auto=webp&s=f8aea6decd513acba8ab2db6e80a7cae0b1bbd3d",
-        "published": "2026-04-23T11:23:51+00:00"
-    },
-    {
         "title": "Still coding? Google says 75% of the company\u2019s new code is AI-generated. In previous years, it was around 50% in 2025 and 25% in 2024.",
         "link": "https://www.reddit.com/r/singularity/comments/1stfbtv/still_coding_google_says_75_of_the_companys_new/",
         "image": "https://external-preview.redd.it/9ugybAWok_B3wmgwZXEUQE_TkdqIl5-1HxxM7eYvOJ0.jpeg?width=640&crop=smart&auto=webp&s=a702a3d288c6d366284768cb27f862364001d786",
@@ -78,10 +66,22 @@
         "published": "2026-04-23T04:28:52+00:00"
     },
     {
-        "title": "India 3 crore rupees AI defence push sarvam to build indigenous system for future welfare",
-        "link": "https://www.reddit.com/r/singularity/comments/1stbfbw/india_3_crore_rupees_ai_defence_push_sarvam_to/",
-        "image": "https://preview.redd.it/hlfvjkrt1wwg1.png?width=216&crop=smart&auto=webp&s=05540bf65a134dd978a4c6f09e77818531639f9f",
-        "published": "2026-04-23T07:07:17+00:00"
+        "title": "Two open-sourced models from china just blew claude opus 4.6 out of water. (Kimi 2.6 and xiaomi mimo v2.5 pro)",
+        "link": "https://www.reddit.com/r/singularity/comments/1stgvk2/two_opensourced_models_from_china_just_blew/",
+        "image": "https://preview.redd.it/746okqz3lxwg1.jpeg?width=640&crop=smart&auto=webp&s=62f29b91caf2bd28edd149111a268582f08d757a",
+        "published": "2026-04-23T12:08:39+00:00"
+    },
+    {
+        "title": "China isn\u2019t just making AI software anymore they are building the hardware to go with it.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sth00m/china_isnt_just_making_ai_software_anymore_they/",
+        "image": "https://external-preview.redd.it/cnZydTVyMndreHdnMc8xaeFd65JojSbB3ypMLPtTzvcM6UONcS7y6JjI7jXL.png?width=640&crop=smart&auto=webp&s=463157b3a8be55b5d7927cfdee43fec58483f2ac",
+        "published": "2026-04-23T12:13:54+00:00"
+    },
+    {
+        "title": "A bit of irony from Gemini",
+        "link": "https://www.reddit.com/r/singularity/comments/1sthh73/a_bit_of_irony_from_gemini/",
+        "image": "https://preview.redd.it/64a4toiqpxwg1.jpeg?width=640&crop=smart&auto=webp&s=b00e1d2e68bbb83f9e8d1c2d031267ced2e62757",
+        "published": "2026-04-23T12:34:30+00:00"
     },
     {
         "title": "LLMs and data privacy: the machine knows too much",
