@@ -6,12 +6,6 @@
         "published": "2026-04-22T15:01:24+00:00"
     },
     {
-        "title": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims",
-        "link": "https://www.reddit.com/r/technology/comments/1ssguib/unauthorized_group_has_gained_access_to/",
-        "image": "https://external-preview.redd.it/ZBMC9LSgZqay523t5c0bgTxeTEDs8MB1-6nty7mEF4k.jpeg?width=640&crop=smart&auto=webp&s=5c3f02db9437793a120941481b6668e61112b623",
-        "published": "2026-04-22T09:51:10+00:00"
-    },
-    {
         "title": "Nintendo sued by players who say they should get any tariff refunds received by the US government",
         "link": "https://www.reddit.com/r/technology/comments/1sso7r2/nintendo_sued_by_players_who_say_they_should_get/",
         "image": "https://external-preview.redd.it/upxRykIiA_Y82iBXyLY_4ipK0n6YaUmCLpsDbPywoQA.jpeg?width=640&crop=smart&auto=webp&s=7e09569f259eb46ecc4c1478b74c3c1d8ebc75d6",
@@ -72,12 +66,6 @@
         "published": "2026-04-22T21:16:43+00:00"
     },
     {
-        "title": "Claude Desktop changes software permissions without consent",
-        "link": "https://www.reddit.com/r/technology/comments/1ssfwmb/claude_desktop_changes_software_permissions/",
-        "image": "https://external-preview.redd.it/Z2YeGYcPLQDvHxs-ePJhc6RybdFYQGEz0NnwhwR6-F4.jpeg?width=640&crop=smart&auto=webp&s=6a72e66db2a2639e6dfd441f80620a53d434e87d",
-        "published": "2026-04-22T08:57:11+00:00"
-    },
-    {
         "title": "France confirms data breach at government agency that manages citizens' IDs",
         "link": "https://www.reddit.com/r/technology/comments/1sswqm4/france_confirms_data_breach_at_government_agency/",
         "image": "https://external-preview.redd.it/veLyRTfqBZ909kBwhjLnKaDW2QYdr81u_3U8vyTeq3I.jpeg?width=640&crop=smart&auto=webp&s=39199928af7ab23b3943d94d025a4e0cf89f38a8",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1st3wzi/a_woman_spent_months_in_maryland_jails_because_of/",
         "image": "https://external-preview.redd.it/bl9fmc9jELs1Mm7j7NQy-SPmEU8OfjcIEQH9alFLuQE.jpeg?width=640&crop=smart&auto=webp&s=1b56a8c2a2aab1ae612bddb2535de52a9ee4229a",
         "published": "2026-04-23T00:57:47+00:00"
+    },
+    {
+        "title": "City of Oshkosh, WI rescinds Flock camera contract renewal after company rep makes false statements to City Council",
+        "link": "https://www.reddit.com/r/technology/comments/1sta0aq/city_of_oshkosh_wi_rescinds_flock_camera_contract/",
+        "image": "https://external-preview.redd.it/fSMNCaljtcZpebyl2j_xt4HgVn0K8KkyuTqsc4dHGEc.jpeg?width=640&crop=smart&auto=webp&s=c767cb8f6f562f1a2b203e3c60f56d4b90cd59f4",
+        "published": "2026-04-23T05:48:14+00:00"
+    },
+    {
+        "title": "ServiceNow stock sinks 14% as subscription revenue takes hit from Iran war",
+        "link": "https://www.reddit.com/r/technology/comments/1ssy37n/servicenow_stock_sinks_14_as_subscription_revenue/",
+        "image": "https://external-preview.redd.it/7gT6sOOi-gjdUfzb5qrQMKnwYFy5uxpfKHe-42Emeec.jpeg?width=640&crop=smart&auto=webp&s=29ee859e5bd2094370b46e63b79af2d9631f4961",
+        "published": "2026-04-22T20:58:58+00:00"
     }
 ]
