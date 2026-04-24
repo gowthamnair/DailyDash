@@ -1,11 +1,5 @@
 [
     {
-        "title": "OpenAI preparing for a big launch",
-        "link": "https://www.reddit.com/r/singularity/comments/1st3i4q/openai_preparing_for_a_big_launch/",
-        "image": "https://preview.redd.it/zpxqzpxz5uwg1.png?width=640&crop=smart&auto=webp&s=f714c1719a3311a311e8aa58965c982a13e8e37f",
-        "published": "2026-04-23T00:38:46+00:00"
-    },
-    {
         "title": "Unitree unveils a version of the G1 with wheels",
         "link": "https://www.reddit.com/r/singularity/comments/1stfwyf/unitree_unveils_a_version_of_the_g1_with_wheels/",
         "image": "https://external-preview.redd.it/azQ5dnlsbjBkeHdnMXvuoZw_host_qYnNP0jxq9mhMod_kVNWx4FT0Q2kbP6.png?width=640&crop=smart&auto=webp&s=f8aea6decd513acba8ab2db6e80a7cae0b1bbd3d",
@@ -28,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1stqk81/gpt55_benchmark_results_have_been_released/",
         "image": "https://preview.redd.it/e6e1dca4dzwg1.png?width=640&crop=smart&auto=webp&s=b77a3393ccb2e15d38093b06fd5272cc94cf4ba3",
         "published": "2026-04-23T18:07:48+00:00"
-    },
-    {
-        "title": "SONY AI | Project Ace, for the first time AI/robotics is competitive against pro table tennis players.",
-        "link": "https://www.reddit.com/r/singularity/comments/1st3uoq/sony_ai_project_ace_for_the_first_time_airobotics/",
-        "image": "https://external-preview.redd.it/djV0MjlqMHc4dXdnMdZ71IP_RoBb3N8RMhmZ16-9KvzQ7pEjr0L3b8YBKTtr.png?width=640&crop=smart&auto=webp&s=9aaff9c0a366bb328ccb7eacf3cae6f5f166cf3d",
-        "published": "2026-04-23T00:54:50+00:00"
     },
     {
         "title": "Spud time is nigh!",
@@ -84,9 +72,21 @@
         "published": "2026-04-23T19:11:18+00:00"
     },
     {
-        "title": "Generated some scp style documentation by using gpt image 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1stjn6l/generated_some_scp_style_documentation_by_using/",
-        "image": "https://preview.redd.it/8v4j7uy95ywg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7394e38e1dc00bddcafdc2f98cc38611527f3ce6",
-        "published": "2026-04-23T14:01:43+00:00"
+        "title": "GPT images 2.0 in genuinely insane at the variety it can do and still look just as real",
+        "link": "https://www.reddit.com/r/singularity/comments/1stt5b1/gpt_images_20_in_genuinely_insane_at_the_variety/",
+        "image": "https://preview.redd.it/3g3nuhotszwg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1252915904905d2db1c648747afa574620f4aa23",
+        "published": "2026-04-23T19:40:55+00:00"
+    },
+    {
+        "title": "GPT 5.5 scores 1.7% on OpenAI-proof Q&A\u2014an internal benchmark testing performance on real ML problems encountered during the process of research and engineering",
+        "link": "https://www.reddit.com/r/singularity/comments/1stumgg/gpt_55_scores_17_on_openaiproof_qaan_internal/",
+        "image": "https://preview.redd.it/nxwstygg30xg1.png?width=640&crop=smart&auto=webp&s=729a09eb53cd4adb23f9f6e03d52e84f174ee4ce",
+        "published": "2026-04-23T20:35:00+00:00"
+    },
+    {
+        "title": "GPT-5.5's Unicorn",
+        "link": "https://www.reddit.com/r/singularity/comments/1sts7we/gpt55s_unicorn/",
+        "image": "https://preview.redd.it/u51ko5klnzwg1.png?width=640&crop=smart&auto=webp&s=dc59a8ceea0d85a1fea56ec73f9604513603386f",
+        "published": "2026-04-23T19:06:54+00:00"
     }
 ]
