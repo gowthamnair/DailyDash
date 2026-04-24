@@ -1,15 +1,15 @@
 [
     {
-        "title": "Introducing GPT-5.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1stqev3/introducing_gpt55/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-23T18:02:46+00:00"
-    },
-    {
         "title": "DeepSeek V4 has released",
         "link": "https://www.reddit.com/r/singularity/comments/1su3lj9/deepseek_v4_has_released/",
         "image": "https://preview.redd.it/agrh57n602xg1.jpg?width=140&height=75&auto=webp&s=1de57b642587c8cbd28ac537169425e9f0d16e53",
         "published": "2026-04-24T03:00:12+00:00"
+    },
+    {
+        "title": "Introducing GPT-5.5",
+        "link": "https://www.reddit.com/r/singularity/comments/1stqev3/introducing_gpt55/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-23T18:02:46+00:00"
     },
     {
         "title": "GPT-5.5 benchmark results have been released",
@@ -24,10 +24,10 @@
         "published": "2026-04-23T18:29:18+00:00"
     },
     {
-        "title": "Spud time is nigh!",
-        "link": "https://www.reddit.com/r/singularity/comments/1stkquj/spud_time_is_nigh/",
-        "image": "https://preview.redd.it/sc853h3hcywg1.png?width=640&crop=smart&auto=webp&s=87f261f457ebf1e2a80394ab60e75dc124bbc3ed",
-        "published": "2026-04-23T14:42:02+00:00"
+        "title": "Exactly 1 year ago, Anthropic said fully AI employees were just 1 year away",
+        "link": "https://www.reddit.com/r/singularity/comments/1sudjx3/exactly_1_year_ago_anthropic_said_fully_ai/",
+        "image": "https://external-preview.redd.it/7P6zcovpR2UisOA1nvI8b7iK6ZjPeH67qy_HijESxag.jpg?width=640&crop=smart&auto=webp&s=99c4cf26b7d9ea479f173e121a51535b7f5480cf",
+        "published": "2026-04-24T11:54:31+00:00"
     },
     {
         "title": "DeepSeek V4 Benchmarks!",
@@ -42,6 +42,12 @@
         "published": "2026-04-23T17:09:04+00:00"
     },
     {
+        "title": "DeepSeek confirms Huawei-based V4 inference: \"After the 950 supernodes are launched at scale in the second half of this year, the price of Pro is expected to be reduced significantly.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1su5f0k/deepseek_confirms_huaweibased_v4_inference_after/",
+        "image": "https://preview.redd.it/vsc7u4tlf2xg1.png?width=640&crop=smart&auto=webp&s=13ba714b8d5fcd91a8813029a7a61f039142b93b",
+        "published": "2026-04-24T04:27:09+00:00"
+    },
+    {
         "title": "GPT images 2.0 in genuinely insane at the variety it can do and still look just as real",
         "link": "https://www.reddit.com/r/singularity/comments/1stt5b1/gpt_images_20_in_genuinely_insane_at_the_variety/",
         "image": "https://preview.redd.it/3g3nuhotszwg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1252915904905d2db1c648747afa574620f4aa23",
@@ -54,10 +60,10 @@
         "published": "2026-04-23T18:16:06+00:00"
     },
     {
-        "title": "DeepSeek confirms Huawei-based V4 inference: \"After the 950 supernodes are launched at scale in the second half of this year, the price of Pro is expected to be reduced significantly.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1su5f0k/deepseek_confirms_huaweibased_v4_inference_after/",
-        "image": "https://preview.redd.it/vsc7u4tlf2xg1.png?width=640&crop=smart&auto=webp&s=13ba714b8d5fcd91a8813029a7a61f039142b93b",
-        "published": "2026-04-24T04:27:09+00:00"
+        "title": "Big model feel with GPT 5.5",
+        "link": "https://www.reddit.com/r/singularity/comments/1su7tas/big_model_feel_with_gpt_55/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-24T06:34:48+00:00"
     },
     {
         "title": "Mythos destroys GPT 5.5 on shared benchmarks",
@@ -70,12 +76,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1stn4iv/happy_smarter_base_model_day/",
         "image": "https://preview.redd.it/j4jvkuoerywg1.jpg?width=140&height=107&auto=webp&s=30092d8e63164184e2b8fcbccedbb74ce97483a2",
         "published": "2026-04-23T16:06:51+00:00"
-    },
-    {
-        "title": "Big model feel with GPT 5.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1su7tas/big_model_feel_with_gpt_55/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-24T06:34:48+00:00"
     },
     {
         "title": "DeepSeek V4 Pro is out",
