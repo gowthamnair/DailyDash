@@ -12,12 +12,6 @@
         "published": "2026-04-23T17:53:37+00:00"
     },
     {
-        "title": "Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI.",
-        "link": "https://www.reddit.com/r/technology/comments/1st6fxr/anthropic_has_surged_to_a_trilliondollar/",
-        "image": "https://external-preview.redd.it/sq3naVe5VJVoZvqm8o1IwndbwIeT6Iwqpoi0x9tB730.jpeg?width=640&crop=smart&auto=webp&s=1e6f90fae331a2e20d4eea2d54113ee920ea6199",
-        "published": "2026-04-23T02:51:45+00:00"
-    },
-    {
         "title": "Google says 75% of the company's new code is AI-generated",
         "link": "https://www.reddit.com/r/technology/comments/1stdvof/google_says_75_of_the_companys_new_code_is/",
         "image": "https://external-preview.redd.it/9ugybAWok_B3wmgwZXEUQE_TkdqIl5-1HxxM7eYvOJ0.jpeg?width=640&crop=smart&auto=webp&s=a702a3d288c6d366284768cb27f862364001d786",
@@ -28,6 +22,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1sta0aq/city_of_oshkosh_wi_rescinds_flock_camera_contract/",
         "image": "https://external-preview.redd.it/fSMNCaljtcZpebyl2j_xt4HgVn0K8KkyuTqsc4dHGEc.jpeg?width=640&crop=smart&auto=webp&s=c767cb8f6f562f1a2b203e3c60f56d4b90cd59f4",
         "published": "2026-04-23T05:48:14+00:00"
+    },
+    {
+        "title": "\u2018Don\u2019t leave\u2019: Jensen Huang challenges billionaire class as he insists \u2018highest taxes in the world\u2019 are OK with him",
+        "link": "https://www.reddit.com/r/technology/comments/1su13pe/dont_leave_jensen_huang_challenges_billionaire/",
+        "image": "https://external-preview.redd.it/1dUTwkBniBXvLrDsyMsTKLlEtxrShHCR6-pu1_9SJVA.jpeg?width=640&crop=smart&auto=webp&s=20e9f8ad1b09048757f2bf9f1ed9b4b74dac7fd2",
+        "published": "2026-04-24T01:04:51+00:00"
     },
     {
         "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
@@ -42,22 +42,16 @@
         "published": "2026-04-23T15:17:03+00:00"
     },
     {
-        "title": "Tinder is making users scan their eyes using Sam Altman's identity verification project as \u201cproof of humanity\u201d and to combat AI bot profiles",
-        "link": "https://www.reddit.com/r/technology/comments/1stsoii/tinder_is_making_users_scan_their_eyes_using_sam/",
-        "image": "https://external-preview.redd.it/fXIRPWQ6kF2udojT5weqv0tGt-JAnr1sf0mSV9BHDUY.jpeg?width=640&crop=smart&auto=webp&s=69a4af75ed975fe118566ae964d8867f2f4c6eb7",
-        "published": "2026-04-23T19:23:51+00:00"
-    },
-    {
         "title": "More than 30,000 Samsung union members take to the streets to demand an average bonus of $400,000 per worker \u2014 want a slice of the company's massive AI-driven profits.",
         "link": "https://www.reddit.com/r/technology/comments/1sts09u/more_than_30000_samsung_union_members_take_to_the/",
         "image": "https://external-preview.redd.it/P4sk5QKggmC5SnNCYSpvlsiDcdBdW5iJIF2YkpBi0yU.png?width=640&crop=smart&auto=webp&s=11e497cdfc00bdb28516d1e6040be0755956b654",
         "published": "2026-04-23T18:59:19+00:00"
     },
     {
-        "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-        "link": "https://www.reddit.com/r/technology/comments/1stfae8/apple_fixes_bug_that_let_the_fbi_recover_deleted/",
-        "image": "https://external-preview.redd.it/foLqSzcrc8Wi9f3E_J63IkXdG_YvzKELnvKGnkUf3Q0.jpeg?width=640&crop=smart&auto=webp&s=775cb9acbd1f95a606ec99d5714e03f80a178ea3",
-        "published": "2026-04-23T10:52:16+00:00"
+        "title": "Tinder is making users scan their eyes using Sam Altman's identity verification project as \u201cproof of humanity\u201d and to combat AI bot profiles",
+        "link": "https://www.reddit.com/r/technology/comments/1stsoii/tinder_is_making_users_scan_their_eyes_using_sam/",
+        "image": "https://external-preview.redd.it/fXIRPWQ6kF2udojT5weqv0tGt-JAnr1sf0mSV9BHDUY.jpeg?width=640&crop=smart&auto=webp&s=69a4af75ed975fe118566ae964d8867f2f4c6eb7",
+        "published": "2026-04-23T19:23:51+00:00"
     },
     {
         "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
@@ -66,16 +60,22 @@
         "published": "2026-04-23T20:43:46+00:00"
     },
     {
+        "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
+        "link": "https://www.reddit.com/r/technology/comments/1stfae8/apple_fixes_bug_that_let_the_fbi_recover_deleted/",
+        "image": "https://external-preview.redd.it/foLqSzcrc8Wi9f3E_J63IkXdG_YvzKELnvKGnkUf3Q0.jpeg?width=640&crop=smart&auto=webp&s=775cb9acbd1f95a606ec99d5714e03f80a178ea3",
+        "published": "2026-04-23T10:52:16+00:00"
+    },
+    {
         "title": "Why the Anti-Data Center Movement Is Succeeding Where Others Have Struggled",
         "link": "https://www.reddit.com/r/technology/comments/1sthcb2/why_the_antidata_center_movement_is_succeeding/",
         "image": "https://external-preview.redd.it/LLfNRijeHbJ5q3AC1ADz-bRTeN_nnT-L1vmVFs0BUOg.jpeg?width=640&crop=smart&auto=webp&s=68294a50232087727b067855ecbf90e708c9514b",
         "published": "2026-04-23T12:28:28+00:00"
     },
     {
-        "title": "Anthropic tested removing Claude Code from the Pro plan",
-        "link": "https://www.reddit.com/r/technology/comments/1st67ts/anthropic_tested_removing_claude_code_from_the/",
-        "image": "https://external-preview.redd.it/NL8s_kSz5O_pLwYOZ74NgPLUKhwf5zvv5eBNE18Hs-A.jpeg?width=640&crop=smart&auto=webp&s=0c40c234e27be38e9a38c3d5e9562dd09cd6bcd7",
-        "published": "2026-04-23T02:41:23+00:00"
+        "title": "Teen boys are choosing AI girlfriends over real ones for \u2018maximum control, zero rejection\u2019\u2014experts say it could make them unemployable",
+        "link": "https://www.reddit.com/r/technology/comments/1su3pad/teen_boys_are_choosing_ai_girlfriends_over_real/",
+        "image": "https://external-preview.redd.it/KY19QvxgS7_PyfES8SymidrEbq07HabfjUXxiWKvzWg.jpeg?width=640&crop=smart&auto=webp&s=a9a636ba2e78545fa57addb2d3da4573d5a609a1",
+        "published": "2026-04-24T03:04:50+00:00"
     },
     {
         "title": "DOJ arrests soldier who made $400,000 betting on Maduro's removal: Sources",
@@ -84,9 +84,9 @@
         "published": "2026-04-23T22:00:26+00:00"
     },
     {
-        "title": "ChatGPT Confessed to a Crime It Couldn\u2019t Possibly Have Committed | A renown criminologist\u2019s experiment with ChatGPT demonstrates the destructive power of police to elicit false confessions",
-        "link": "https://www.reddit.com/r/technology/comments/1stjaba/chatgpt_confessed_to_a_crime_it_couldnt_possibly/",
-        "image": "https://external-preview.redd.it/PjoZN2RCw-BheleZR3CxOL1OVV7Nveyg2iCl0cXwo1Y.jpeg?width=640&crop=smart&auto=webp&s=83533f960f9b257a6796fa029f01d88571b38e3d",
-        "published": "2026-04-23T13:47:54+00:00"
+        "title": "Tim Cook Calls Apple Maps Launch His \"First Really Big Mistake\" as CEO",
+        "link": "https://www.reddit.com/r/technology/comments/1strmqq/tim_cook_calls_apple_maps_launch_his_first_really/",
+        "image": "https://external-preview.redd.it/qR-STRsNODHIJSHFB1kK0SGNv30hP-WtUz1SWA6Y0F8.jpeg?width=640&crop=smart&auto=webp&s=6b02019554f46a495890821650cb60c2ac96e5f7",
+        "published": "2026-04-23T18:45:35+00:00"
     }
 ]
