@@ -36,12 +36,6 @@
         "published": "2026-04-24T06:34:48+00:00"
     },
     {
-        "title": "Google just committed $40 billion to Anthropic, the company it directly competes with. Here is the full breakdown",
-        "link": "https://www.reddit.com/r/singularity/comments/1supois/google_just_committed_40_billion_to_anthropic_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-24T19:30:21+00:00"
-    },
-    {
         "title": "DeepSeek V4 Pro is out",
         "link": "https://www.reddit.com/r/singularity/comments/1su3l61/deepseek_v4_pro_is_out/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -60,6 +54,12 @@
         "published": "2026-04-24T12:50:17+00:00"
     },
     {
+        "title": "It has genuinely been a terrible week for Luddites",
+        "link": "https://www.reddit.com/r/singularity/comments/1susb7m/it_has_genuinely_been_a_terrible_week_for_luddites/",
+        "image": "https://preview.redd.it/qqrfqxv7e7xg1.jpeg?width=640&crop=smart&auto=webp&s=2b2599858e2f2f08b7a1370a885bc93eb3168698",
+        "published": "2026-04-24T21:08:40+00:00"
+    },
+    {
         "title": "DeepSeek V4 Pro underwhelms on Arena (crowdsourced user preference benchmark, not a capability benchmark)",
         "link": "https://www.reddit.com/r/singularity/comments/1suci24/deepseek_v4_pro_underwhelms_on_arena_crowdsourced/",
         "image": "https://preview.redd.it/m2mawpqec4xg1.png?width=140&height=140&auto=webp&s=f5a8fcc4e1730f1af5f9d49771da402e687c0391",
@@ -72,21 +72,21 @@
         "published": "2026-04-23T22:57:40+00:00"
     },
     {
-        "title": "Optimism has stepped out for a quick cigarette",
-        "link": "https://www.reddit.com/r/singularity/comments/1stwrl6/optimism_has_stepped_out_for_a_quick_cigarette/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-23T21:57:19+00:00"
-    },
-    {
         "title": "More messing around with GPT image 2.0",
         "link": "https://www.reddit.com/r/singularity/comments/1stybr7/more_messing_around_with_gpt_image_20/",
         "image": "https://preview.redd.it/h775yrefm0xg1.png?width=140&height=105&auto=webp&s=fdf87225f6e8abf1ad288acc2a8dc19885b97863",
         "published": "2026-04-23T23:01:08+00:00"
     },
     {
-        "title": "My favorite ChatGPT Images 2.0 infographic so far",
-        "link": "https://www.reddit.com/r/singularity/comments/1suid3a/my_favorite_chatgpt_images_20_infographic_so_far/",
-        "image": "https://preview.redd.it/0qp9dxjhl5xg1.png?width=640&crop=smart&auto=webp&s=590e68f312c6c34d47a5906afd5a786f2d4b11c6",
-        "published": "2026-04-24T15:06:14+00:00"
+        "title": "Bolt by MirrorMe | Claims speeds of 11m/s indoors, 10.09 m/s outdoor so far (Usain Bolt's top speed is 12.42 m/s)",
+        "link": "https://www.reddit.com/r/singularity/comments/1supkew/bolt_by_mirrorme_claims_speeds_of_11ms_indoors/",
+        "image": "https://external-preview.redd.it/YjhseDJ1dTJ3NnhnMeo9KIpm_rTO7bWimgG0wgFvlIKw5jozvMT1wf75wDNp.png?width=640&crop=smart&auto=webp&s=3127575e7fb5794ae359f184b7632b7352c5b48a",
+        "published": "2026-04-24T19:26:08+00:00"
+    },
+    {
+        "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1sur3km/deepseek_v4_pro_is_15x_cost_to_run_artificial/",
+        "image": "https://preview.redd.it/v4mv7r2067xg1.png?width=640&crop=smart&auto=webp&s=fe9cd548c88d19497e966ad5d1135142e7bce992",
+        "published": "2026-04-24T20:23:15+00:00"
     }
 ]
