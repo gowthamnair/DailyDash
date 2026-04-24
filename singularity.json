@@ -1,11 +1,5 @@
 [
     {
-        "title": "Unitree unveils a version of the G1 with wheels",
-        "link": "https://www.reddit.com/r/singularity/comments/1stfwyf/unitree_unveils_a_version_of_the_g1_with_wheels/",
-        "image": "https://external-preview.redd.it/azQ5dnlsbjBkeHdnMXvuoZw_host_qYnNP0jxq9mhMod_kVNWx4FT0Q2kbP6.png?width=640&crop=smart&auto=webp&s=f8aea6decd513acba8ab2db6e80a7cae0b1bbd3d",
-        "published": "2026-04-23T11:23:51+00:00"
-    },
-    {
         "title": "Introducing GPT-5.5",
         "link": "https://www.reddit.com/r/singularity/comments/1stqev3/introducing_gpt55/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -24,12 +18,6 @@
         "published": "2026-04-23T18:07:48+00:00"
     },
     {
-        "title": "Still coding? Google says 75% of the company\u2019s new code is AI-generated. In previous years, it was around 50% in 2025 and 25% in 2024.",
-        "link": "https://www.reddit.com/r/singularity/comments/1stfbtv/still_coding_google_says_75_of_the_companys_new/",
-        "image": "https://external-preview.redd.it/9ugybAWok_B3wmgwZXEUQE_TkdqIl5-1HxxM7eYvOJ0.jpeg?width=640&crop=smart&auto=webp&s=a702a3d288c6d366284768cb27f862364001d786",
-        "published": "2026-04-23T10:54:21+00:00"
-    },
-    {
         "title": "Chat GPT 5.5 got launched and we got some really bold words by Sam Altman. Thoughts?",
         "link": "https://www.reddit.com/r/singularity/comments/1str6al/chat_gpt_55_got_launched_and_we_got_some_really/",
         "image": "https://preview.redd.it/b9un7m61hzwg1.jpeg?width=640&crop=smart&auto=webp&s=dc67ad3e3349c4de8efaa30b798f70a314744e7e",
@@ -42,16 +30,16 @@
         "published": "2026-04-23T14:42:02+00:00"
     },
     {
-        "title": "Figure AI video suggests 03 production is ramping up",
-        "link": "https://www.reddit.com/r/singularity/comments/1stov8g/figure_ai_video_suggests_03_production_is_ramping/",
-        "image": "https://external-preview.redd.it/em5xYmwxd3AyendnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=da21b8cd6e4034d60a0c3733c76dd962464ff524",
-        "published": "2026-04-23T17:09:04+00:00"
-    },
-    {
         "title": "DeepSeek V4 Benchmarks!",
         "link": "https://www.reddit.com/r/singularity/comments/1su5bwp/deepseek_v4_benchmarks/",
         "image": "https://preview.redd.it/bqa50y7xe2xg1.jpeg?width=640&crop=smart&auto=webp&s=b91608750db3557cb362aad2839966211e16b885",
         "published": "2026-04-24T04:22:50+00:00"
+    },
+    {
+        "title": "Figure AI video suggests 03 production is ramping up",
+        "link": "https://www.reddit.com/r/singularity/comments/1stov8g/figure_ai_video_suggests_03_production_is_ramping/",
+        "image": "https://external-preview.redd.it/em5xYmwxd3AyendnMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=da21b8cd6e4034d60a0c3733c76dd962464ff524",
+        "published": "2026-04-23T17:09:04+00:00"
     },
     {
         "title": "GPT images 2.0 in genuinely insane at the variety it can do and still look just as real",
@@ -66,6 +54,12 @@
         "published": "2026-04-23T18:16:06+00:00"
     },
     {
+        "title": "DeepSeek confirms Huawei-based V4 inference: \"After the 950 supernodes are launched at scale in the second half of this year, the price of Pro is expected to be reduced significantly.\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1su5f0k/deepseek_confirms_huaweibased_v4_inference_after/",
+        "image": "https://preview.redd.it/vsc7u4tlf2xg1.png?width=640&crop=smart&auto=webp&s=13ba714b8d5fcd91a8813029a7a61f039142b93b",
+        "published": "2026-04-24T04:27:09+00:00"
+    },
+    {
         "title": "Mythos destroys GPT 5.5 on shared benchmarks",
         "link": "https://www.reddit.com/r/singularity/comments/1stsg9d/mythos_destroys_gpt_55_on_shared_benchmarks/",
         "image": "https://preview.redd.it/rlhl0t7ylzwg1.jpeg?width=640&crop=smart&auto=webp&s=bd5ee6c8d6d6f7e446fbaef0016342f177bc8cc9",
@@ -78,15 +72,21 @@
         "published": "2026-04-23T16:06:51+00:00"
     },
     {
-        "title": "DeepSeek confirms Huawei-based V4 inference: \"After the 950 supernodes are launched at scale in the second half of this year, the price of Pro is expected to be reduced significantly.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1su5f0k/deepseek_confirms_huaweibased_v4_inference_after/",
-        "image": "https://preview.redd.it/vsc7u4tlf2xg1.png?width=640&crop=smart&auto=webp&s=13ba714b8d5fcd91a8813029a7a61f039142b93b",
-        "published": "2026-04-24T04:27:09+00:00"
+        "title": "DeepSeek V4 Pro is out",
+        "link": "https://www.reddit.com/r/singularity/comments/1su3l61/deepseek_v4_pro_is_out/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-24T02:59:46+00:00"
     },
     {
         "title": "GPT 5.5 scores 1.7% on OpenAI-proof Q&A\u2014an internal benchmark testing performance on real ML problems encountered during the process of research and engineering",
         "link": "https://www.reddit.com/r/singularity/comments/1stumgg/gpt_55_scores_17_on_openaiproof_qaan_internal/",
         "image": "https://preview.redd.it/nxwstygg30xg1.png?width=640&crop=smart&auto=webp&s=729a09eb53cd4adb23f9f6e03d52e84f174ee4ce",
         "published": "2026-04-23T20:35:00+00:00"
+    },
+    {
+        "title": "GPT 5.5 xHigh, high, and medium Artificial Analysis Index results",
+        "link": "https://www.reddit.com/r/singularity/comments/1stsc23/gpt_55_xhigh_high_and_medium_artificial_analysis/",
+        "image": "https://preview.redd.it/tg7l6i9eozwg1.png?width=640&crop=smart&auto=webp&s=668a9cb87c8656c53da1dda8384ce50d8baa2a6c",
+        "published": "2026-04-23T19:11:18+00:00"
     }
 ]
