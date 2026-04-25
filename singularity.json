@@ -6,12 +6,6 @@
         "published": "2026-04-25T05:52:38+00:00"
     },
     {
-        "title": "Definitive proof shows we are indeed accelerating towards singularity",
-        "link": "https://www.reddit.com/r/singularity/comments/1suv8h5/definitive_proof_shows_we_are_indeed_accelerating/",
-        "image": "https://preview.redd.it/q34d3lkoy7xg1.png?width=640&crop=smart&auto=webp&s=df1a7b9de1c3a45564836315538fcf1c11dcf4bc",
-        "published": "2026-04-24T23:06:48+00:00"
-    },
-    {
         "title": "Did everyone suddenly forget how much white-collar work used to be described as bullshit?",
         "link": "https://www.reddit.com/r/singularity/comments/1suys3t/did_everyone_suddenly_forget_how_much_whitecollar/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -28,6 +22,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sv25m7/openai_scores_on_artificial_analysis_over_time/",
         "image": "https://preview.redd.it/a9s2ydexk9xg1.jpeg?width=640&crop=smart&auto=webp&s=80f0286a49342beb0fe5a867b67a926fdfaa9aac",
         "published": "2026-04-25T04:28:56+00:00"
+    },
+    {
+        "title": "How it feels this month",
+        "link": "https://www.reddit.com/r/singularity/comments/1svkfu9/how_it_feels_this_month/",
+        "image": "https://preview.redd.it/5af86rkgudxg1.jpeg?width=640&crop=smart&auto=webp&s=26e279a6f6c213033d8d7095bf2030589d32aa63",
+        "published": "2026-04-25T18:50:25+00:00"
     },
     {
         "title": "GPT-5.5's SimpeBench scores are out",
@@ -48,12 +48,6 @@
         "published": "2026-04-25T10:40:38+00:00"
     },
     {
-        "title": "How it feels this month",
-        "link": "https://www.reddit.com/r/singularity/comments/1svkfu9/how_it_feels_this_month/",
-        "image": "https://preview.redd.it/5af86rkgudxg1.jpeg?width=640&crop=smart&auto=webp&s=26e279a6f6c213033d8d7095bf2030589d32aa63",
-        "published": "2026-04-25T18:50:25+00:00"
-    },
-    {
         "title": "Roko's Basilisk got a reskin",
         "link": "https://www.reddit.com/r/singularity/comments/1sv06jv/rokos_basilisk_got_a_reskin/",
         "image": "https://preview.redd.it/s3znk8gu29xg1.png?width=320&crop=smart&auto=webp&s=cfe76e25b28adb529fc96d86dce5b280ba0b6b6b",
@@ -72,21 +66,27 @@
         "published": "2026-04-25T15:40:47+00:00"
     },
     {
-        "title": "This is where we are right now, LocalLLaMA",
-        "link": "https://www.reddit.com/r/singularity/comments/1suv0zr/this_is_where_we_are_right_now_localllama/",
-        "image": "https://preview.redd.it/44f42a2n17xg1.png?width=640&crop=smart&auto=webp&s=80f5fbe21f2ffbd09efd33d13aeb1f61a1e7cc42",
-        "published": "2026-04-24T22:58:14+00:00"
-    },
-    {
         "title": "Don\u2019t tell me that we have to wait until google i/o for a new gemini/nano banana model?",
         "link": "https://www.reddit.com/r/singularity/comments/1svnk01/dont_tell_me_that_we_have_to_wait_until_google_io/",
         "image": "https://preview.redd.it/5k69kirxfexg1.jpeg?width=640&crop=smart&auto=webp&s=59fc8197ff7e3ed2658e0940769743b758594784",
         "published": "2026-04-25T20:49:55+00:00"
     },
     {
-        "title": "Xiaomi has released a MiMo V2.5 Pro model. It's apparently about as good as Deepseek V4 (but at different tasks) but is significantly cheaper.",
-        "link": "https://www.reddit.com/r/singularity/comments/1suvcnr/xiaomi_has_released_a_mimo_v25_pro_model_its/",
+        "title": "Found online: \"Suspiciously precise floats, or, how I got Claude's real limits\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1svbj0u/found_online_suspiciously_precise_floats_or_how_i/",
+        "image": "https://external-preview.redd.it/Fl0YUsq9jTPGWaV6H-EYZiBp4WfAttnYhsqNiG6a6Kw.png?width=640&crop=smart&auto=webp&s=20fef8465625d9e7a30200be5bf9e92d10c1de18",
+        "published": "2026-04-25T12:58:53+00:00"
+    },
+    {
+        "title": "The Singularity Is Always Near - Kevin Kelly",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv97o1/the_singularity_is_always_near_kevin_kelly/",
+        "image": "https://external-preview.redd.it/xPaAbcLIxVc1eWF_qiIyrLr_CYbU97-aEtKGv9KGiMY.jpeg?width=320&crop=smart&auto=webp&s=aa0d1c503be4f07125163f56d9213ab6b20707fa",
+        "published": "2026-04-25T11:06:30+00:00"
+    },
+    {
+        "title": "GPT 5.5 vs Opus 4.6/7 vs Gemini 3.1 Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1svplbs/gpt_55_vs_opus_467_vs_gemini_31_pro/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-24T23:11:50+00:00"
+        "published": "2026-04-25T22:13:30+00:00"
     }
 ]
