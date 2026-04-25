@@ -30,12 +30,6 @@
         "published": "2026-04-25T11:14:24+00:00"
     },
     {
-        "title": "Bolt by MirrorMe | Claims speeds of 11m/s indoors, 10.09 m/s outdoor so far (Usain Bolt's top speed is 12.42 m/s)",
-        "link": "https://www.reddit.com/r/singularity/comments/1supkew/bolt_by_mirrorme_claims_speeds_of_11ms_indoors/",
-        "image": "https://external-preview.redd.it/YjhseDJ1dTJ3NnhnMeo9KIpm_rTO7bWimgG0wgFvlIKw5jozvMT1wf75wDNp.png?width=640&crop=smart&auto=webp&s=3127575e7fb5794ae359f184b7632b7352c5b48a",
-        "published": "2026-04-24T19:26:08+00:00"
-    },
-    {
         "title": "OpenAI scores on artificial analysis over time",
         "link": "https://www.reddit.com/r/singularity/comments/1sv25m7/openai_scores_on_artificial_analysis_over_time/",
         "image": "https://preview.redd.it/a9s2ydexk9xg1.jpeg?width=640&crop=smart&auto=webp&s=80f0286a49342beb0fe5a867b67a926fdfaa9aac",
@@ -54,16 +48,16 @@
         "published": "2026-04-25T00:55:39+00:00"
     },
     {
-        "title": "[Demo] Real-time EEG analysis-driven guided-meditation system",
-        "link": "https://www.reddit.com/r/singularity/comments/1sve74q/demo_realtime_eeg_analysisdriven_guidedmeditation/",
-        "image": "https://external-preview.redd.it/cm1kem5vcmNuY3hnMZFc4tp9Bi_eocVnso6mk-kVQcdlmbd8J7GUeHJ45JSg.png?width=640&crop=smart&auto=webp&s=c0c2134cd377899a989506bb119f3fe73b811d91",
-        "published": "2026-04-25T14:49:06+00:00"
-    },
-    {
         "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
         "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
         "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
         "published": "2026-04-25T10:40:38+00:00"
+    },
+    {
+        "title": "[Demo] Real-time EEG analysis-driven guided-meditation system",
+        "link": "https://www.reddit.com/r/singularity/comments/1sve74q/demo_realtime_eeg_analysisdriven_guidedmeditation/",
+        "image": "https://external-preview.redd.it/cm1kem5vcmNuY3hnMZFc4tp9Bi_eocVnso6mk-kVQcdlmbd8J7GUeHJ45JSg.png?width=640&crop=smart&auto=webp&s=c0c2134cd377899a989506bb119f3fe73b811d91",
+        "published": "2026-04-25T14:49:06+00:00"
     },
     {
         "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1suv0zr/this_is_where_we_are_right_now_localllama/",
         "image": "https://preview.redd.it/44f42a2n17xg1.png?width=640&crop=smart&auto=webp&s=80f5fbe21f2ffbd09efd33d13aeb1f61a1e7cc42",
         "published": "2026-04-24T22:58:14+00:00"
+    },
+    {
+        "title": "Gas power projects for just 11 US data center 'campuses' could emit more greenhouse gases than entire countries, according to report",
+        "link": "https://www.reddit.com/r/singularity/comments/1svfi6u/gas_power_projects_for_just_11_us_data_center/",
+        "image": "https://external-preview.redd.it/uuJJ7W4bqBzQkjnO0saLk_hvk_84YJhIL37q4MpOTmI.jpeg?width=640&crop=smart&auto=webp&s=a1ed2daccc2bf40cf74778e6de11e0a803489ae4",
+        "published": "2026-04-25T15:40:47+00:00"
     },
     {
         "title": "Xiaomi has released a MiMo V2.5 Pro model. It's apparently about as good as Deepseek V4 (but at different tasks) but is significantly cheaper.",
