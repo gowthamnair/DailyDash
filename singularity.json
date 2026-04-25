@@ -18,12 +18,6 @@
         "published": "2026-04-25T01:47:56+00:00"
     },
     {
-        "title": "It has genuinely been a terrible week for Luddites",
-        "link": "https://www.reddit.com/r/singularity/comments/1susb7m/it_has_genuinely_been_a_terrible_week_for_luddites/",
-        "image": "https://preview.redd.it/qqrfqxv7e7xg1.jpeg?width=640&crop=smart&auto=webp&s=2b2599858e2f2f08b7a1370a885bc93eb3168698",
-        "published": "2026-04-24T21:08:40+00:00"
-    },
-    {
         "title": "The mysterious smile... of your replacement.",
         "link": "https://www.reddit.com/r/singularity/comments/1sv9cym/the_mysterious_smile_of_your_replacement/",
         "image": "https://preview.redd.it/ui89st00lbxg1.jpeg?width=640&crop=smart&auto=webp&s=0a58a608faaeb30f14e7c551851029ff010567f5",
@@ -54,16 +48,22 @@
         "published": "2026-04-25T10:40:38+00:00"
     },
     {
+        "title": "Roko's Basilisk got a reskin",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv06jv/rokos_basilisk_got_a_reskin/",
+        "image": "https://preview.redd.it/s3znk8gu29xg1.png?width=320&crop=smart&auto=webp&s=cfe76e25b28adb529fc96d86dce5b280ba0b6b6b",
+        "published": "2026-04-25T02:53:38+00:00"
+    },
+    {
         "title": "[Demo] Real-time EEG analysis-driven guided-meditation system",
         "link": "https://www.reddit.com/r/singularity/comments/1sve74q/demo_realtime_eeg_analysisdriven_guidedmeditation/",
         "image": "https://external-preview.redd.it/cm1kem5vcmNuY3hnMZFc4tp9Bi_eocVnso6mk-kVQcdlmbd8J7GUeHJ45JSg.png?width=640&crop=smart&auto=webp&s=c0c2134cd377899a989506bb119f3fe73b811d91",
         "published": "2026-04-25T14:49:06+00:00"
     },
     {
-        "title": "Roko's Basilisk got a reskin",
-        "link": "https://www.reddit.com/r/singularity/comments/1sv06jv/rokos_basilisk_got_a_reskin/",
-        "image": "https://preview.redd.it/s3znk8gu29xg1.png?width=320&crop=smart&auto=webp&s=cfe76e25b28adb529fc96d86dce5b280ba0b6b6b",
-        "published": "2026-04-25T02:53:38+00:00"
+        "title": "How it feels this month",
+        "link": "https://www.reddit.com/r/singularity/comments/1svkfu9/how_it_feels_this_month/",
+        "image": "https://preview.redd.it/5af86rkgudxg1.jpeg?width=640&crop=smart&auto=webp&s=26e279a6f6c213033d8d7095bf2030589d32aa63",
+        "published": "2026-04-25T18:50:25+00:00"
     },
     {
         "title": "This is where we are right now, LocalLLaMA",
@@ -78,15 +78,15 @@
         "published": "2026-04-25T15:40:47+00:00"
     },
     {
-        "title": "How it feels this month",
-        "link": "https://www.reddit.com/r/singularity/comments/1svkfu9/how_it_feels_this_month/",
-        "image": "https://preview.redd.it/5af86rkgudxg1.jpeg?width=640&crop=smart&auto=webp&s=26e279a6f6c213033d8d7095bf2030589d32aa63",
-        "published": "2026-04-25T18:50:25+00:00"
-    },
-    {
         "title": "Xiaomi has released a MiMo V2.5 Pro model. It's apparently about as good as Deepseek V4 (but at different tasks) but is significantly cheaper.",
         "link": "https://www.reddit.com/r/singularity/comments/1suvcnr/xiaomi_has_released_a_mimo_v25_pro_model_its/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-24T23:11:50+00:00"
+    },
+    {
+        "title": "The Singularity Is Always Near - Kevin Kelly",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv97o1/the_singularity_is_always_near_kevin_kelly/",
+        "image": "https://external-preview.redd.it/xPaAbcLIxVc1eWF_qiIyrLr_CYbU97-aEtKGv9KGiMY.jpeg?width=320&crop=smart&auto=webp&s=aa0d1c503be4f07125163f56d9213ab6b20707fa",
+        "published": "2026-04-25T11:06:30+00:00"
     }
 ]
