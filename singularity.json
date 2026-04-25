@@ -36,10 +36,10 @@
         "published": "2026-04-24T19:26:08+00:00"
     },
     {
-        "title": "GPT-5.5's SimpeBench scores are out",
-        "link": "https://www.reddit.com/r/singularity/comments/1suwieo/gpt55s_simpebench_scores_are_out/",
-        "image": "https://preview.redd.it/5bi26t8b98xg1.png?width=640&crop=smart&auto=webp&s=29e1263ba1e7f741394bca15d43e057192b32370",
-        "published": "2026-04-25T00:03:06+00:00"
+        "title": "The mysterious smile... of your replacement.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv9cym/the_mysterious_smile_of_your_replacement/",
+        "image": "https://preview.redd.it/ui89st00lbxg1.jpeg?width=640&crop=smart&auto=webp&s=0a58a608faaeb30f14e7c551851029ff010567f5",
+        "published": "2026-04-25T11:14:24+00:00"
     },
     {
         "title": "OpenAI scores on artificial analysis over time",
@@ -48,10 +48,10 @@
         "published": "2026-04-25T04:28:56+00:00"
     },
     {
-        "title": "This is getting insane (image gen 2)",
-        "link": "https://www.reddit.com/r/singularity/comments/1suetw1/this_is_getting_insane_image_gen_2/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-24T12:50:17+00:00"
+        "title": "GPT-5.5's SimpeBench scores are out",
+        "link": "https://www.reddit.com/r/singularity/comments/1suwieo/gpt55s_simpebench_scores_are_out/",
+        "image": "https://preview.redd.it/5bi26t8b98xg1.png?width=640&crop=smart&auto=webp&s=29e1263ba1e7f741394bca15d43e057192b32370",
+        "published": "2026-04-25T00:03:06+00:00"
     },
     {
         "title": "Deepseek V4 flash (high) rivals Gemini 3 flash at 1/5th the cost",
@@ -66,12 +66,6 @@
         "published": "2026-04-24T20:23:15+00:00"
     },
     {
-        "title": "The mysterious smile... of your replacement.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sv9cym/the_mysterious_smile_of_your_replacement/",
-        "image": "https://preview.redd.it/ui89st00lbxg1.jpeg?width=640&crop=smart&auto=webp&s=0a58a608faaeb30f14e7c551851029ff010567f5",
-        "published": "2026-04-25T11:14:24+00:00"
-    },
-    {
         "title": "Roko's Basilisk got a reskin",
         "link": "https://www.reddit.com/r/singularity/comments/1sv06jv/rokos_basilisk_got_a_reskin/",
         "image": "https://preview.redd.it/s3znk8gu29xg1.png?width=320&crop=smart&auto=webp&s=cfe76e25b28adb529fc96d86dce5b280ba0b6b6b",
@@ -84,9 +78,15 @@
         "published": "2026-04-24T22:58:14+00:00"
     },
     {
-        "title": "ChatGPT generated research paper summaries are here",
-        "link": "https://www.reddit.com/r/singularity/comments/1suhb2w/chatgpt_generated_research_paper_summaries_are/",
-        "image": "https://preview.redd.it/zurmnmhge5xg1.png?width=640&crop=smart&auto=webp&s=9f34adf0b081c2624a7bf872b5c94ff862106e69",
-        "published": "2026-04-24T14:27:24+00:00"
+        "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
+        "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
+        "published": "2026-04-25T10:40:38+00:00"
+    },
+    {
+        "title": "Xiaomi has released a MiMo V2.5 Pro model. It's apparently about as good as Deepseek V4 (but at different tasks) but is significantly cheaper.",
+        "link": "https://www.reddit.com/r/singularity/comments/1suvcnr/xiaomi_has_released_a_mimo_v25_pro_model_its/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-24T23:11:50+00:00"
     }
 ]

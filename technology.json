@@ -1,11 +1,5 @@
 [
     {
-        "title": "How the Tech World Turned Evil | Once upon a time, they were counterculture idealists bringing power to the people. Today they\u2019re greedy monopolists who\u2019d sooner destroy our democracy than be reined in by government in any way\u2014and they have to be stopped",
-        "link": "https://www.reddit.com/r/technology/comments/1sug1a1/how_the_tech_world_turned_evil_once_upon_a_time/",
-        "image": "https://external-preview.redd.it/W-69MyUaR_b_WcTCoW-x2JVLY1pnrXUpY5K00KUesuY.jpeg?width=640&crop=smart&auto=webp&s=98666cd99faa7027d4092af9c9864f9b03342e73",
-        "published": "2026-04-24T13:38:06+00:00"
-    },
-    {
         "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
         "link": "https://www.reddit.com/r/technology/comments/1suuk7c/federal_surveillance_tech_becomes_mandatory_in/",
         "image": "https://external-preview.redd.it/aYT7vlBCX_N54sh4BoYDvq1ad7k3eG2SO2zN5IV8B8E.jpeg?width=640&crop=smart&auto=webp&s=41b59b3e9efc5d3418d3dfcf215952f6682da28d",
@@ -30,10 +24,10 @@
         "published": "2026-04-24T18:36:40+00:00"
     },
     {
-        "title": "Maine said no to new data centers. Other states are racing to follow.",
-        "link": "https://www.reddit.com/r/technology/comments/1suf05r/maine_said_no_to_new_data_centers_other_states/",
-        "image": "https://external-preview.redd.it/5_DcVgoIyAPELxUpyULv-H64oIknO_VI1OQ26t9fj6Y.jpeg?width=640&crop=smart&auto=webp&s=086ac2d00f73453882658c99ceb23c4e908979e6",
-        "published": "2026-04-24T12:57:31+00:00"
+        "title": "France ditches Windows for Linux to move away from American tools, mirroring a shift in India",
+        "link": "https://www.reddit.com/r/technology/comments/1sv2758/france_ditches_windows_for_linux_to_move_away/",
+        "image": "https://external-preview.redd.it/uZBXTq9-wmzUp1vSsZ08fJuagWK1GHGoRPTaTroQWrE.jpeg?width=640&crop=smart&auto=webp&s=0bf300c565fddfa690a3e4c6fdf2879145824fa6",
+        "published": "2026-04-25T04:30:59+00:00"
     },
     {
         "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
@@ -42,10 +36,10 @@
         "published": "2026-04-24T17:05:54+00:00"
     },
     {
-        "title": "France ditches Windows for Linux to move away from American tools, mirroring a shift in India",
-        "link": "https://www.reddit.com/r/technology/comments/1sv2758/france_ditches_windows_for_linux_to_move_away/",
-        "image": "https://external-preview.redd.it/uZBXTq9-wmzUp1vSsZ08fJuagWK1GHGoRPTaTroQWrE.jpeg?width=640&crop=smart&auto=webp&s=0bf300c565fddfa690a3e4c6fdf2879145824fa6",
-        "published": "2026-04-25T04:30:59+00:00"
+        "title": "\u201cAge limits on social media are a dead end\u201d: public authorities should focus on regulating algorithms and imposing stricter controls on data collection instead, argues researcher",
+        "link": "https://www.reddit.com/r/technology/comments/1sva7qv/age_limits_on_social_media_are_a_dead_end_public/",
+        "image": "https://external-preview.redd.it/-82uFUqsda-cWU-0Yiays0YJkmbE7z4VQuCQFqXwBtg.jpeg?width=640&crop=smart&auto=webp&s=b0b469e128d56841b6863697f19f1854f83960df",
+        "published": "2026-04-25T11:58:37+00:00"
     },
     {
         "title": "Utah medical board calls for immediate suspension of state's AI doctor experiment",
@@ -66,16 +60,16 @@
         "published": "2026-04-24T15:40:38+00:00"
     },
     {
-        "title": "Ticketmaster to cap resale prices in Ontario starting next week / fans won\u2019t be able to resell their tickets for more than the original cost.",
-        "link": "https://www.reddit.com/r/technology/comments/1suhjrc/ticketmaster_to_cap_resale_prices_in_ontario/",
-        "image": "https://external-preview.redd.it/VSmUTPcwl_yBTlDFtpVuSnYslrSRQfn0XrnLIlYx0MQ.jpeg?width=640&crop=smart&auto=webp&s=b8a8f0ef0594d679a70637819efb6534a60d98a6",
-        "published": "2026-04-24T14:36:42+00:00"
-    },
-    {
         "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
         "link": "https://www.reddit.com/r/technology/comments/1suuqe3/novoice_android_malware_on_google_play_infected/",
         "image": "https://external-preview.redd.it/qJBNivRcteT1g0PMWjJHwZqbbhetwZvwRuU8eQmW7H8.jpeg?width=640&crop=smart&auto=webp&s=28cff9e88e40cd9df1e467777dcdb1b6784be2b1",
         "published": "2026-04-24T22:45:52+00:00"
+    },
+    {
+        "title": "Ticketmaster to cap resale prices in Ontario starting next week / fans won\u2019t be able to resell their tickets for more than the original cost.",
+        "link": "https://www.reddit.com/r/technology/comments/1suhjrc/ticketmaster_to_cap_resale_prices_in_ontario/",
+        "image": "https://external-preview.redd.it/VSmUTPcwl_yBTlDFtpVuSnYslrSRQfn0XrnLIlYx0MQ.jpeg?width=640&crop=smart&auto=webp&s=b8a8f0ef0594d679a70637819efb6534a60d98a6",
+        "published": "2026-04-24T14:36:42+00:00"
     },
     {
         "title": "Top Republican pushes party to shun $300mn AI lobby - Senator Josh Hawley warns of \u2018political cost\u2019 if Washington fails to rein in Big Tech and artificial intelligence",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1suqotc/microsoft_and_meta_announce_large_staff/",
         "image": "https://external-preview.redd.it/7UY4QRDLI44v60zfPsD6EHZ3zii2TXdBsvFWGQLOzBM.jpeg?width=640&crop=smart&auto=webp&s=70b9866a463b3f81ce56e3bf49e7615a8bc7858e",
         "published": "2026-04-24T20:08:01+00:00"
+    },
+    {
+        "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time\ufeff / Windows users will also have options to shut down and restart without running updates.",
+        "link": "https://www.reddit.com/r/technology/comments/1surrw0/microsoft_will_let_you_pause_windows_updates/",
+        "image": "https://external-preview.redd.it/wX4l74h2DCeSuDr5AXMHB5chOUxvb9YYLCj6tdvcPQY.jpeg?width=640&crop=smart&auto=webp&s=a8c34cd8efd1b2d452ede6e991f2d801e5fa6c64",
+        "published": "2026-04-24T20:48:31+00:00"
     }
 ]
