@@ -6,12 +6,6 @@
         "published": "2026-04-24T11:54:31+00:00"
     },
     {
-        "title": "DeepSeek V4 has released",
-        "link": "https://www.reddit.com/r/singularity/comments/1su3lj9/deepseek_v4_has_released/",
-        "image": "https://preview.redd.it/agrh57n602xg1.jpg?width=140&height=75&auto=webp&s=1de57b642587c8cbd28ac537169425e9f0d16e53",
-        "published": "2026-04-24T03:00:12+00:00"
-    },
-    {
         "title": "Nature-published Chinese semiconductor researcher fell to his death at U of Michigan. Cops investigating Danhao Wang's death as \"possible act of self-harm\". The Chinese Ministry of Foreign Affairs calls for a \"full investigation\", the death following \"hostile questioning by US law enforcement\".",
         "link": "https://www.reddit.com/r/singularity/comments/1sujisg/naturepublished_chinese_semiconductor_researcher/",
         "image": "https://preview.redd.it/a2wm6j95l5xg1.png?width=640&crop=smart&auto=webp&s=5de1173c5f6403dd466960a7a4f9460f9a51a653",
@@ -24,16 +18,10 @@
         "published": "2026-04-24T23:06:48+00:00"
     },
     {
-        "title": "DeepSeek V4 Benchmarks!",
-        "link": "https://www.reddit.com/r/singularity/comments/1su5bwp/deepseek_v4_benchmarks/",
-        "image": "https://preview.redd.it/bqa50y7xe2xg1.jpeg?width=640&crop=smart&auto=webp&s=b91608750db3557cb362aad2839966211e16b885",
-        "published": "2026-04-24T04:22:50+00:00"
-    },
-    {
-        "title": "DeepSeek confirms Huawei-based V4 inference: \"After the 950 supernodes are launched at scale in the second half of this year, the price of Pro is expected to be reduced significantly.\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1su5f0k/deepseek_confirms_huaweibased_v4_inference_after/",
-        "image": "https://preview.redd.it/vsc7u4tlf2xg1.png?width=640&crop=smart&auto=webp&s=13ba714b8d5fcd91a8813029a7a61f039142b93b",
-        "published": "2026-04-24T04:27:09+00:00"
+        "title": "It has genuinely been a terrible week for Luddites",
+        "link": "https://www.reddit.com/r/singularity/comments/1susb7m/it_has_genuinely_been_a_terrible_week_for_luddites/",
+        "image": "https://preview.redd.it/qqrfqxv7e7xg1.jpeg?width=640&crop=smart&auto=webp&s=2b2599858e2f2f08b7a1370a885bc93eb3168698",
+        "published": "2026-04-24T21:08:40+00:00"
     },
     {
         "title": "Big model feel with GPT 5.5",
@@ -42,16 +30,10 @@
         "published": "2026-04-24T06:34:48+00:00"
     },
     {
-        "title": "It has genuinely been a terrible week for Luddites",
-        "link": "https://www.reddit.com/r/singularity/comments/1susb7m/it_has_genuinely_been_a_terrible_week_for_luddites/",
-        "image": "https://preview.redd.it/qqrfqxv7e7xg1.jpeg?width=640&crop=smart&auto=webp&s=2b2599858e2f2f08b7a1370a885bc93eb3168698",
-        "published": "2026-04-24T21:08:40+00:00"
-    },
-    {
-        "title": "DeepSeek V4 Pro is out",
-        "link": "https://www.reddit.com/r/singularity/comments/1su3l61/deepseek_v4_pro_is_out/",
+        "title": "Did everyone suddenly forget how much white-collar work used to be described as bullshit?",
+        "link": "https://www.reddit.com/r/singularity/comments/1suys3t/did_everyone_suddenly_forget_how_much_whitecollar/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-24T02:59:46+00:00"
+        "published": "2026-04-25T01:47:56+00:00"
     },
     {
         "title": "DeepSeek-V4 Drops: Open-Source Push Toward Cheaper, Long-Context AI.",
@@ -78,10 +60,28 @@
         "published": "2026-04-24T11:03:02+00:00"
     },
     {
+        "title": "GPT-5.5's SimpeBench scores are out",
+        "link": "https://www.reddit.com/r/singularity/comments/1suwieo/gpt55s_simpebench_scores_are_out/",
+        "image": "https://preview.redd.it/5bi26t8b98xg1.png?width=640&crop=smart&auto=webp&s=29e1263ba1e7f741394bca15d43e057192b32370",
+        "published": "2026-04-25T00:03:06+00:00"
+    },
+    {
         "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
         "link": "https://www.reddit.com/r/singularity/comments/1sur3km/deepseek_v4_pro_is_15x_cost_to_run_artificial/",
         "image": "https://preview.redd.it/v4mv7r2067xg1.png?width=640&crop=smart&auto=webp&s=fe9cd548c88d19497e966ad5d1135142e7bce992",
         "published": "2026-04-24T20:23:15+00:00"
+    },
+    {
+        "title": "Deepseek V4 flash (high) rivals Gemini 3 flash at 1/5th the cost",
+        "link": "https://www.reddit.com/r/singularity/comments/1suxnmw/deepseek_v4_flash_high_rivals_gemini_3_flash_at/",
+        "image": "https://preview.redd.it/m5fh00kvi8xg1.jpeg?width=640&crop=smart&auto=webp&s=8c7966a1ae3b0d21a21c93bd3b559f37f61944d4",
+        "published": "2026-04-25T00:55:39+00:00"
+    },
+    {
+        "title": "This is where we are right now, LocalLLaMA",
+        "link": "https://www.reddit.com/r/singularity/comments/1suv0zr/this_is_where_we_are_right_now_localllama/",
+        "image": "https://preview.redd.it/44f42a2n17xg1.png?width=640&crop=smart&auto=webp&s=80f5fbe21f2ffbd09efd33d13aeb1f61a1e7cc42",
+        "published": "2026-04-24T22:58:14+00:00"
     },
     {
         "title": "ChatGPT generated research paper summaries are here",
