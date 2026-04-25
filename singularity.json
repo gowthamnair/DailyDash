@@ -12,12 +12,6 @@
         "published": "2026-04-25T05:52:38+00:00"
     },
     {
-        "title": "Nature-published Chinese semiconductor researcher fell to his death at U of Michigan. Cops investigating Danhao Wang's death as \"possible act of self-harm\". The Chinese Ministry of Foreign Affairs calls for a \"full investigation\", the death following \"hostile questioning by US law enforcement\".",
-        "link": "https://www.reddit.com/r/singularity/comments/1sujisg/naturepublished_chinese_semiconductor_researcher/",
-        "image": "https://preview.redd.it/a2wm6j95l5xg1.png?width=640&crop=smart&auto=webp&s=5de1173c5f6403dd466960a7a4f9460f9a51a653",
-        "published": "2026-04-24T15:48:15+00:00"
-    },
-    {
         "title": "Did everyone suddenly forget how much white-collar work used to be described as bullshit?",
         "link": "https://www.reddit.com/r/singularity/comments/1suys3t/did_everyone_suddenly_forget_how_much_whitecollar/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -60,6 +54,12 @@
         "published": "2026-04-25T00:55:39+00:00"
     },
     {
+        "title": "[Demo] Real-time EEG analysis-driven guided-meditation system",
+        "link": "https://www.reddit.com/r/singularity/comments/1sve74q/demo_realtime_eeg_analysisdriven_guidedmeditation/",
+        "image": "https://external-preview.redd.it/cm1kem5vcmNuY3hnMZFc4tp9Bi_eocVnso6mk-kVQcdlmbd8J7GUeHJ45JSg.png?width=640&crop=smart&auto=webp&s=c0c2134cd377899a989506bb119f3fe73b811d91",
+        "published": "2026-04-25T14:49:06+00:00"
+    },
+    {
         "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
         "link": "https://www.reddit.com/r/singularity/comments/1sur3km/deepseek_v4_pro_is_15x_cost_to_run_artificial/",
         "image": "https://preview.redd.it/v4mv7r2067xg1.png?width=640&crop=smart&auto=webp&s=fe9cd548c88d19497e966ad5d1135142e7bce992",
@@ -72,16 +72,16 @@
         "published": "2026-04-25T02:53:38+00:00"
     },
     {
-        "title": "This is where we are right now, LocalLLaMA",
-        "link": "https://www.reddit.com/r/singularity/comments/1suv0zr/this_is_where_we_are_right_now_localllama/",
-        "image": "https://preview.redd.it/44f42a2n17xg1.png?width=640&crop=smart&auto=webp&s=80f5fbe21f2ffbd09efd33d13aeb1f61a1e7cc42",
-        "published": "2026-04-24T22:58:14+00:00"
-    },
-    {
         "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
         "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
         "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
         "published": "2026-04-25T10:40:38+00:00"
+    },
+    {
+        "title": "This is where we are right now, LocalLLaMA",
+        "link": "https://www.reddit.com/r/singularity/comments/1suv0zr/this_is_where_we_are_right_now_localllama/",
+        "image": "https://preview.redd.it/44f42a2n17xg1.png?width=640&crop=smart&auto=webp&s=80f5fbe21f2ffbd09efd33d13aeb1f61a1e7cc42",
+        "published": "2026-04-24T22:58:14+00:00"
     },
     {
         "title": "Xiaomi has released a MiMo V2.5 Pro model. It's apparently about as good as Deepseek V4 (but at different tasks) but is significantly cheaper.",
