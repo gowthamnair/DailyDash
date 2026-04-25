@@ -1,15 +1,15 @@
 [
     {
-        "title": "Definitive proof shows we are indeed accelerating towards singularity",
-        "link": "https://www.reddit.com/r/singularity/comments/1suv8h5/definitive_proof_shows_we_are_indeed_accelerating/",
-        "image": "https://preview.redd.it/q34d3lkoy7xg1.png?width=640&crop=smart&auto=webp&s=df1a7b9de1c3a45564836315538fcf1c11dcf4bc",
-        "published": "2026-04-24T23:06:48+00:00"
-    },
-    {
         "title": "The recent news just feels like this.",
         "link": "https://www.reddit.com/r/singularity/comments/1sv3r7p/the_recent_news_just_feels_like_this/",
         "image": "https://preview.redd.it/lit27cpuz9xg1.jpeg?width=640&crop=smart&auto=webp&s=6b68da85a895ea5b2a72391b4536f9fd0b5481bb",
         "published": "2026-04-25T05:52:38+00:00"
+    },
+    {
+        "title": "Definitive proof shows we are indeed accelerating towards singularity",
+        "link": "https://www.reddit.com/r/singularity/comments/1suv8h5/definitive_proof_shows_we_are_indeed_accelerating/",
+        "image": "https://preview.redd.it/q34d3lkoy7xg1.png?width=640&crop=smart&auto=webp&s=df1a7b9de1c3a45564836315538fcf1c11dcf4bc",
+        "published": "2026-04-24T23:06:48+00:00"
     },
     {
         "title": "Did everyone suddenly forget how much white-collar work used to be described as bullshit?",
@@ -60,6 +60,12 @@
         "published": "2026-04-25T14:49:06+00:00"
     },
     {
+        "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
+        "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
+        "published": "2026-04-25T10:40:38+00:00"
+    },
+    {
         "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
         "link": "https://www.reddit.com/r/singularity/comments/1sur3km/deepseek_v4_pro_is_15x_cost_to_run_artificial/",
         "image": "https://preview.redd.it/v4mv7r2067xg1.png?width=640&crop=smart&auto=webp&s=fe9cd548c88d19497e966ad5d1135142e7bce992",
@@ -70,12 +76,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sv06jv/rokos_basilisk_got_a_reskin/",
         "image": "https://preview.redd.it/s3znk8gu29xg1.png?width=320&crop=smart&auto=webp&s=cfe76e25b28adb529fc96d86dce5b280ba0b6b6b",
         "published": "2026-04-25T02:53:38+00:00"
-    },
-    {
-        "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
-        "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
-        "published": "2026-04-25T10:40:38+00:00"
     },
     {
         "title": "This is where we are right now, LocalLLaMA",
