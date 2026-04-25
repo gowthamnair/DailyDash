@@ -1,15 +1,15 @@
 [
     {
-        "title": "Exactly 1 year ago, Anthropic said fully AI employees were just 1 year away",
-        "link": "https://www.reddit.com/r/singularity/comments/1sudjx3/exactly_1_year_ago_anthropic_said_fully_ai/",
-        "image": "https://external-preview.redd.it/7P6zcovpR2UisOA1nvI8b7iK6ZjPeH67qy_HijESxag.jpg?width=640&crop=smart&auto=webp&s=99c4cf26b7d9ea479f173e121a51535b7f5480cf",
-        "published": "2026-04-24T11:54:31+00:00"
-    },
-    {
         "title": "Definitive proof shows we are indeed accelerating towards singularity",
         "link": "https://www.reddit.com/r/singularity/comments/1suv8h5/definitive_proof_shows_we_are_indeed_accelerating/",
         "image": "https://preview.redd.it/q34d3lkoy7xg1.png?width=640&crop=smart&auto=webp&s=df1a7b9de1c3a45564836315538fcf1c11dcf4bc",
         "published": "2026-04-24T23:06:48+00:00"
+    },
+    {
+        "title": "Exactly 1 year ago, Anthropic said fully AI employees were just 1 year away",
+        "link": "https://www.reddit.com/r/singularity/comments/1sudjx3/exactly_1_year_ago_anthropic_said_fully_ai/",
+        "image": "https://external-preview.redd.it/7P6zcovpR2UisOA1nvI8b7iK6ZjPeH67qy_HijESxag.jpg?width=640&crop=smart&auto=webp&s=99c4cf26b7d9ea479f173e121a51535b7f5480cf",
+        "published": "2026-04-24T11:54:31+00:00"
     },
     {
         "title": "Nature-published Chinese semiconductor researcher fell to his death at U of Michigan. Cops investigating Danhao Wang's death as \"possible act of self-harm\". The Chinese Ministry of Foreign Affairs calls for a \"full investigation\", the death following \"hostile questioning by US law enforcement\".",
@@ -54,16 +54,16 @@
         "published": "2026-04-25T00:03:06+00:00"
     },
     {
-        "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
-        "link": "https://www.reddit.com/r/singularity/comments/1sur3km/deepseek_v4_pro_is_15x_cost_to_run_artificial/",
-        "image": "https://preview.redd.it/v4mv7r2067xg1.png?width=640&crop=smart&auto=webp&s=fe9cd548c88d19497e966ad5d1135142e7bce992",
-        "published": "2026-04-24T20:23:15+00:00"
-    },
-    {
         "title": "OpenAI scores on artificial analysis over time",
         "link": "https://www.reddit.com/r/singularity/comments/1sv25m7/openai_scores_on_artificial_analysis_over_time/",
         "image": "https://preview.redd.it/a9s2ydexk9xg1.jpeg?width=640&crop=smart&auto=webp&s=80f0286a49342beb0fe5a867b67a926fdfaa9aac",
         "published": "2026-04-25T04:28:56+00:00"
+    },
+    {
+        "title": "Deepseek V4 Pro is 15x cost to run Artificial Analysis bench from V3.2, higher than Gemini 3.1 Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1sur3km/deepseek_v4_pro_is_15x_cost_to_run_artificial/",
+        "image": "https://preview.redd.it/v4mv7r2067xg1.png?width=640&crop=smart&auto=webp&s=fe9cd548c88d19497e966ad5d1135142e7bce992",
+        "published": "2026-04-24T20:23:15+00:00"
     },
     {
         "title": "Deepseek V4 flash (high) rivals Gemini 3 flash at 1/5th the cost",
