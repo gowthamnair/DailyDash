@@ -1,11 +1,5 @@
 [
     {
-        "title": "The recent news just feels like this.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sv3r7p/the_recent_news_just_feels_like_this/",
-        "image": "https://preview.redd.it/lit27cpuz9xg1.jpeg?width=640&crop=smart&auto=webp&s=6b68da85a895ea5b2a72391b4536f9fd0b5481bb",
-        "published": "2026-04-25T05:52:38+00:00"
-    },
-    {
         "title": "The mysterious smile... of your replacement.",
         "link": "https://www.reddit.com/r/singularity/comments/1sv9cym/the_mysterious_smile_of_your_replacement/",
         "image": "https://preview.redd.it/ui89st00lbxg1.jpeg?width=640&crop=smart&auto=webp&s=0a58a608faaeb30f14e7c551851029ff010567f5",
@@ -18,16 +12,16 @@
         "published": "2026-04-25T18:50:25+00:00"
     },
     {
-        "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
-        "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
-        "published": "2026-04-25T10:40:38+00:00"
-    },
-    {
         "title": "Don\u2019t tell me that we have to wait until google i/o for a new gemini/nano banana model?",
         "link": "https://www.reddit.com/r/singularity/comments/1svnk01/dont_tell_me_that_we_have_to_wait_until_google_io/",
         "image": "https://preview.redd.it/5k69kirxfexg1.jpeg?width=640&crop=smart&auto=webp&s=59fc8197ff7e3ed2658e0940769743b758594784",
         "published": "2026-04-25T20:49:55+00:00"
+    },
+    {
+        "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv8qn7/gpt_55_xhigh_voxelbench_test_minecraft_builders/",
+        "image": "https://preview.redd.it/vi8ufwp8fbxg1.jpg?width=140&height=82&auto=webp&s=67f024a3df3900786deafb28fd830fb6cba2e453",
+        "published": "2026-04-25T10:40:38+00:00"
     },
     {
         "title": "Gas power projects for just 11 US data center 'campuses' could emit more greenhouse gases than entire countries, according to report",
@@ -60,16 +54,16 @@
         "published": "2026-04-25T11:06:30+00:00"
     },
     {
+        "title": "Someone made a website that generates the internet as a stream of images",
+        "link": "https://www.reddit.com/r/singularity/comments/1svq665/someone_made_a_website_that_generates_the/",
+        "image": "https://external-preview.redd.it/WPN7AhvkVE1GC1IEAV0B2J904HnPvE715evmD949v5I.jpeg?width=640&crop=smart&auto=webp&s=a6c033cf5f660b78f0de5295acd0b0631bbf89b5",
+        "published": "2026-04-25T22:38:15+00:00"
+    },
+    {
         "title": "Trump alum helps Israel mount AI influence campaign",
         "link": "https://www.reddit.com/r/singularity/comments/1svkbko/trump_alum_helps_israel_mount_ai_influence/",
         "image": "https://external-preview.redd.it/GymT0c0g-s7hZr-titd9klq6q-eT7rjxQ_VGWc54uWs.jpeg?width=640&crop=smart&auto=webp&s=d3eb009d4fdb99e6f3a9210a2ba322ff145bf9e4",
         "published": "2026-04-25T18:45:55+00:00"
-    },
-    {
-        "title": "Memory systems with vector objects as relationships instead of strict labels",
-        "link": "https://www.reddit.com/r/singularity/comments/1svasld/memory_systems_with_vector_objects_as/",
-        "image": "https://external-preview.redd.it/pWPi8c6X4Q2q0tqivNXj9jNrzylXH2rq-U08sdCzVUE.jpeg?width=320&crop=smart&auto=webp&s=480a1766fe79b570cf295a6848334f20886cc98b",
-        "published": "2026-04-25T12:25:11+00:00"
     },
     {
         "title": "New 3D device harnesses living brain cells for computing",
@@ -78,15 +72,21 @@
         "published": "2026-04-25T16:34:51+00:00"
     },
     {
-        "title": "Someone made a website that generates the internet as a stream of images",
-        "link": "https://www.reddit.com/r/singularity/comments/1svq665/someone_made_a_website_that_generates_the/",
-        "image": "https://external-preview.redd.it/WPN7AhvkVE1GC1IEAV0B2J904HnPvE715evmD949v5I.jpeg?width=640&crop=smart&auto=webp&s=a6c033cf5f660b78f0de5295acd0b0631bbf89b5",
-        "published": "2026-04-25T22:38:15+00:00"
+        "title": "Memory systems with vector objects as relationships instead of strict labels",
+        "link": "https://www.reddit.com/r/singularity/comments/1svasld/memory_systems_with_vector_objects_as/",
+        "image": "https://external-preview.redd.it/pWPi8c6X4Q2q0tqivNXj9jNrzylXH2rq-U08sdCzVUE.jpeg?width=320&crop=smart&auto=webp&s=480a1766fe79b570cf295a6848334f20886cc98b",
+        "published": "2026-04-25T12:25:11+00:00"
     },
     {
         "title": "AGI: the Architecture of Goodness and Intelligence",
         "link": "https://www.reddit.com/r/singularity/comments/1svbtfg/agi_the_architecture_of_goodness_and_intelligence/",
         "image": "https://preview.redd.it/jparv1os6cxg1.jpg?width=140&height=140&auto=webp&s=e3a04dce42e7754b11d8b9a5c37dbeb9d93439fd",
         "published": "2026-04-25T13:10:52+00:00"
+    },
+    {
+        "title": "Self designed, coded, directed, narrated, recorded - human beta tested",
+        "link": "https://www.reddit.com/r/singularity/comments/1svmzod/self_designed_coded_directed_narrated_recorded/",
+        "image": "https://external-preview.redd.it/as_2VQQNPYkVFVdOQdQ_3Ors_Ch7bWMo4y_gO3GjYjI.png?width=640&crop=smart&auto=webp&s=71f551f810be6d0e77dd7cea2ee4afe990f3fb5b",
+        "published": "2026-04-25T20:28:16+00:00"
     }
 ]
