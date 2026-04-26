@@ -30,16 +30,16 @@
         "published": "2026-04-26T11:31:43+00:00"
     },
     {
-        "title": "GPT 5.5 vs Opus 4.6/7 vs Gemini 3.1 Pro",
-        "link": "https://www.reddit.com/r/singularity/comments/1svplbs/gpt_55_vs_opus_467_vs_gemini_31_pro/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-25T22:13:30+00:00"
-    },
-    {
         "title": "Kinetix AI teases a human like humanoid robot with a \"superinteligence model\" that blends vision, touch, language, action, emotions",
         "link": "https://www.reddit.com/r/singularity/comments/1sw6k1x/kinetix_ai_teases_a_human_like_humanoid_robot/",
         "image": "https://external-preview.redd.it/YnFoMnlmNTg0anhnMaYNyBPVQvPs2Hpq3bTc5ukwEb7bgyUBbxDjunv3ap6Y.png?width=640&crop=smart&auto=webp&s=a57afca8b9d391beb40508166fd71dc694fcb1a9",
         "published": "2026-04-26T12:43:33+00:00"
+    },
+    {
+        "title": "GPT 5.5 vs Opus 4.6/7 vs Gemini 3.1 Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1svplbs/gpt_55_vs_opus_467_vs_gemini_31_pro/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-25T22:13:30+00:00"
     },
     {
         "title": "The Comeback Chatgpt Did with Image 2 Is Insane",
@@ -60,6 +60,12 @@
         "published": "2026-04-25T16:34:51+00:00"
     },
     {
+        "title": "Hit 90.4% on LongMemEval-S with structured storage - no embeddings, ~half the tokens, 98% retrieval accuracy",
+        "link": "https://www.reddit.com/r/singularity/comments/1sw7w6d/hit_904_on_longmemevals_with_structured_storage/",
+        "image": "https://preview.redd.it/tvvre34egjxg1.png?width=640&crop=smart&auto=webp&s=3ee8028beb42769da9fd11334e1c950fab2be247",
+        "published": "2026-04-26T13:42:49+00:00"
+    },
+    {
         "title": "I think the singularity is evolution replacing us, just like it did before",
         "link": "https://www.reddit.com/r/singularity/comments/1sw4zto/i_think_the_singularity_is_evolution_replacing_us/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -76,11 +82,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sw52gz/deleting_an_ai_should_be_considered_ending_a_life/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-26T11:29:45+00:00"
-    },
-    {
-        "title": "anyone tried this?",
-        "link": "https://www.reddit.com/r/singularity/comments/1sw4y5a/anyone_tried_this/",
-        "image": "https://preview.redd.it/ofumo4y9qixg1.png?width=640&crop=smart&auto=webp&s=34665b0be4071ecd8c436638d91fa8649c314eb8",
-        "published": "2026-04-26T11:23:13+00:00"
     }
 ]
