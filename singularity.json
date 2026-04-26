@@ -18,28 +18,16 @@
         "published": "2026-04-25T11:14:24+00:00"
     },
     {
-        "title": "OpenAI scores on artificial analysis over time",
-        "link": "https://www.reddit.com/r/singularity/comments/1sv25m7/openai_scores_on_artificial_analysis_over_time/",
-        "image": "https://preview.redd.it/a9s2ydexk9xg1.jpeg?width=640&crop=smart&auto=webp&s=80f0286a49342beb0fe5a867b67a926fdfaa9aac",
-        "published": "2026-04-25T04:28:56+00:00"
-    },
-    {
         "title": "How it feels this month",
         "link": "https://www.reddit.com/r/singularity/comments/1svkfu9/how_it_feels_this_month/",
         "image": "https://preview.redd.it/5af86rkgudxg1.jpeg?width=640&crop=smart&auto=webp&s=26e279a6f6c213033d8d7095bf2030589d32aa63",
         "published": "2026-04-25T18:50:25+00:00"
     },
     {
-        "title": "GPT-5.5's SimpeBench scores are out",
-        "link": "https://www.reddit.com/r/singularity/comments/1suwieo/gpt55s_simpebench_scores_are_out/",
-        "image": "https://preview.redd.it/5bi26t8b98xg1.png?width=640&crop=smart&auto=webp&s=29e1263ba1e7f741394bca15d43e057192b32370",
-        "published": "2026-04-25T00:03:06+00:00"
-    },
-    {
-        "title": "Deepseek V4 flash (high) rivals Gemini 3 flash at 1/5th the cost",
-        "link": "https://www.reddit.com/r/singularity/comments/1suxnmw/deepseek_v4_flash_high_rivals_gemini_3_flash_at/",
-        "image": "https://preview.redd.it/m5fh00kvi8xg1.jpeg?width=640&crop=smart&auto=webp&s=8c7966a1ae3b0d21a21c93bd3b559f37f61944d4",
-        "published": "2026-04-25T00:55:39+00:00"
+        "title": "OpenAI scores on artificial analysis over time",
+        "link": "https://www.reddit.com/r/singularity/comments/1sv25m7/openai_scores_on_artificial_analysis_over_time/",
+        "image": "https://preview.redd.it/a9s2ydexk9xg1.jpeg?width=640&crop=smart&auto=webp&s=80f0286a49342beb0fe5a867b67a926fdfaa9aac",
+        "published": "2026-04-25T04:28:56+00:00"
     },
     {
         "title": "GPT 5.5 Xhigh VoxelBench test. Minecraft builders got automated.",
@@ -54,16 +42,16 @@
         "published": "2026-04-25T02:53:38+00:00"
     },
     {
-        "title": "[Demo] Real-time EEG analysis-driven guided-meditation system",
-        "link": "https://www.reddit.com/r/singularity/comments/1sve74q/demo_realtime_eeg_analysisdriven_guidedmeditation/",
-        "image": "https://external-preview.redd.it/cm1kem5vcmNuY3hnMZFc4tp9Bi_eocVnso6mk-kVQcdlmbd8J7GUeHJ45JSg.png?width=640&crop=smart&auto=webp&s=c0c2134cd377899a989506bb119f3fe73b811d91",
-        "published": "2026-04-25T14:49:06+00:00"
-    },
-    {
         "title": "Gas power projects for just 11 US data center 'campuses' could emit more greenhouse gases than entire countries, according to report",
         "link": "https://www.reddit.com/r/singularity/comments/1svfi6u/gas_power_projects_for_just_11_us_data_center/",
         "image": "https://external-preview.redd.it/uuJJ7W4bqBzQkjnO0saLk_hvk_84YJhIL37q4MpOTmI.jpeg?width=640&crop=smart&auto=webp&s=a1ed2daccc2bf40cf74778e6de11e0a803489ae4",
         "published": "2026-04-25T15:40:47+00:00"
+    },
+    {
+        "title": "[Demo] Real-time EEG analysis-driven guided-meditation system",
+        "link": "https://www.reddit.com/r/singularity/comments/1sve74q/demo_realtime_eeg_analysisdriven_guidedmeditation/",
+        "image": "https://external-preview.redd.it/cm1kem5vcmNuY3hnMZFc4tp9Bi_eocVnso6mk-kVQcdlmbd8J7GUeHJ45JSg.png?width=640&crop=smart&auto=webp&s=c0c2134cd377899a989506bb119f3fe73b811d91",
+        "published": "2026-04-25T14:49:06+00:00"
     },
     {
         "title": "Don\u2019t tell me that we have to wait until google i/o for a new gemini/nano banana model?",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1svplbs/gpt_55_vs_opus_467_vs_gemini_31_pro/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-25T22:13:30+00:00"
+    },
+    {
+        "title": "Trump alum helps Israel mount AI influence campaign",
+        "link": "https://www.reddit.com/r/singularity/comments/1svkbko/trump_alum_helps_israel_mount_ai_influence/",
+        "image": "https://external-preview.redd.it/GymT0c0g-s7hZr-titd9klq6q-eT7rjxQ_VGWc54uWs.jpeg?width=640&crop=smart&auto=webp&s=d3eb009d4fdb99e6f3a9210a2ba322ff145bf9e4",
+        "published": "2026-04-25T18:45:55+00:00"
+    },
+    {
+        "title": "Memory systems with vector objects as relationships instead of strict labels",
+        "link": "https://www.reddit.com/r/singularity/comments/1svasld/memory_systems_with_vector_objects_as/",
+        "image": "https://external-preview.redd.it/pWPi8c6X4Q2q0tqivNXj9jNrzylXH2rq-U08sdCzVUE.jpeg?width=320&crop=smart&auto=webp&s=480a1766fe79b570cf295a6848334f20886cc98b",
+        "published": "2026-04-25T12:25:11+00:00"
     }
 ]
