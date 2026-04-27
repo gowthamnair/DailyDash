@@ -6,16 +6,16 @@
         "published": "2026-04-26T22:09:43+00:00"
     },
     {
-        "title": "Kinetix AI teases KAI its humanoid robot, featuring more DoF along its body than any humanoid robot to date, plus a hybrid dexterous hand, and 18,000 sensors distributed throughout its soft, flexible body, making it the most human-like clone so far.",
-        "link": "https://www.reddit.com/r/singularity/comments/1swo47m/kinetix_ai_teases_kai_its_humanoid_robot/",
-        "image": "https://external-preview.redd.it/OHlxY29waXpsbXhnMXxjsBFDgK7wEBGJOzRzhi1msE_LAiCabmx7yhSZaxWI.png?width=640&crop=smart&auto=webp&s=a7bf534a0d43b5628a1a5aca23d30654d150ee6a",
-        "published": "2026-04-27T00:18:22+00:00"
-    },
-    {
         "title": "Differences Between GPT 5.4 and GPT 5.5 on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1sxapqb/differences_between_gpt_54_and_gpt_55_on_minebench/",
         "image": "https://preview.redd.it/uw1og1dwirxg1.gif?frame=1&width=140&height=78&auto=webp&s=e4d14a09bb96e92e52c120f7cb131f96e2ef5b1a",
         "published": "2026-04-27T17:35:53+00:00"
+    },
+    {
+        "title": "Kinetix AI teases KAI its humanoid robot, featuring more DoF along its body than any humanoid robot to date, plus a hybrid dexterous hand, and 18,000 sensors distributed throughout its soft, flexible body, making it the most human-like clone so far.",
+        "link": "https://www.reddit.com/r/singularity/comments/1swo47m/kinetix_ai_teases_kai_its_humanoid_robot/",
+        "image": "https://external-preview.redd.it/OHlxY29waXpsbXhnMXxjsBFDgK7wEBGJOzRzhi1msE_LAiCabmx7yhSZaxWI.png?width=640&crop=smart&auto=webp&s=a7bf534a0d43b5628a1a5aca23d30654d150ee6a",
+        "published": "2026-04-27T00:18:22+00:00"
     },
     {
         "title": "Noetix, the humanoid robot maker, joins the race for stunning biomimetic robot faces",
@@ -48,28 +48,16 @@
         "published": "2026-04-26T22:49:38+00:00"
     },
     {
-        "title": "Pen-Testing Company XBOW on GPT-5.5: Mythos-like Cyber-Sec",
-        "link": "https://www.reddit.com/r/singularity/comments/1sx3jej/pentesting_company_xbow_on_gpt55_mythoslike/",
-        "image": "https://preview.redd.it/emfazevahqxg1.png?width=140&height=107&auto=webp&s=b31314992fce5421c5450a1f721ee277d1c2a68c",
-        "published": "2026-04-27T13:22:06+00:00"
-    },
-    {
         "title": "Meta energy investments: \"Overview Energy\" laser beams energy from a satellite to solar panels 24/7 (reduced heat burden compared to space compute); Noon Energy can store energy longer than lithium-ion batteries -- 100 hours using \"modular, reversible solid oxide fuel cells and carbon-based storage\"",
         "link": "https://www.reddit.com/r/singularity/comments/1sx763v/meta_energy_investments_overview_energy_laser/",
         "image": "https://external-preview.redd.it/kJR81U0Wbh593ZzVSBJrXperLxzAhS0WyQ7TQ_ie9vE.png?width=640&crop=smart&auto=webp&s=e9b74f780a11e4600947961d73c02f7082a2bcdc",
         "published": "2026-04-27T15:32:15+00:00"
     },
     {
-        "title": "Opus 4.7 - \"Build starcraft II in the browser. Make no mistake\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxd393/opus_47_build_starcraft_ii_in_the_browser_make_no/",
-        "image": "https://preview.redd.it/y080exsp5sxg1.png?width=140&height=92&auto=webp&s=e00f0531d000bb6594f13459ad03afe29a9a88f0",
-        "published": "2026-04-27T18:57:54+00:00"
-    },
-    {
-        "title": "How Fast Does AI Really Make Developers? The Evidence so far",
-        "link": "https://www.reddit.com/r/singularity/comments/1sx02gv/how_fast_does_ai_really_make_developers_the/",
-        "image": "https://external-preview.redd.it/E2KPOleWXbcU5dKCggdZ97cSOlLf5453boDqIwIclNI.jpeg?width=320&crop=smart&auto=webp&s=d49a2fab78c2851ae2373c2dcdacf21119cdda85",
-        "published": "2026-04-27T10:48:50+00:00"
+        "title": "Pen-Testing Company XBOW on GPT-5.5: Mythos-like Cyber-Sec",
+        "link": "https://www.reddit.com/r/singularity/comments/1sx3jej/pentesting_company_xbow_on_gpt55_mythoslike/",
+        "image": "https://preview.redd.it/emfazevahqxg1.png?width=140&height=107&auto=webp&s=b31314992fce5421c5450a1f721ee277d1c2a68c",
+        "published": "2026-04-27T13:22:06+00:00"
     },
     {
         "title": "DEEP Robotics | Introducing Lynx M20S \u2014 The Next-Generation All-Terrain Champion ! - YouTube",
@@ -78,15 +66,27 @@
         "published": "2026-04-27T19:11:06+00:00"
     },
     {
-        "title": "GPT\u2019s new image gen is top notch.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxcozh/gpts_new_image_gen_is_top_notch/",
-        "image": "https://external-preview.redd.it/yGu-VEHo0d-50Vg8bpPeU6NPONCd2iVY79bsza7OCNE.jpeg?width=640&crop=smart&auto=webp&s=b6c9c61e71b8d9aebe29c088dc5de4ae9b6bf384",
-        "published": "2026-04-27T18:44:13+00:00"
+        "title": "How Fast Does AI Really Make Developers? The Evidence so far",
+        "link": "https://www.reddit.com/r/singularity/comments/1sx02gv/how_fast_does_ai_really_make_developers_the/",
+        "image": "https://external-preview.redd.it/E2KPOleWXbcU5dKCggdZ97cSOlLf5453boDqIwIclNI.jpeg?width=320&crop=smart&auto=webp&s=d49a2fab78c2851ae2373c2dcdacf21119cdda85",
+        "published": "2026-04-27T10:48:50+00:00"
     },
     {
         "title": "Alignment Makes Models More Decisive Without Making Them More Truthful",
         "link": "https://www.reddit.com/r/singularity/comments/1sxbt1v/alignment_makes_models_more_decisive_without/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-27T18:12:58+00:00"
+    },
+    {
+        "title": "OpenAI could be making a phone with AI agents replacing apps",
+        "link": "https://www.reddit.com/r/singularity/comments/1sx9ki4/openai_could_be_making_a_phone_with_ai_agents/",
+        "image": "https://external-preview.redd.it/YAot5SBuCwTVFG_djytxN-ZOqcDiu3h1IU8HjGyTCeY.jpeg?width=640&crop=smart&auto=webp&s=84b43e60f8a95f316b057aedaf4cd3781f8ce19b",
+        "published": "2026-04-27T16:56:25+00:00"
+    },
+    {
+        "title": "We're all Clankers",
+        "link": "https://www.reddit.com/r/singularity/comments/1swlq7r/were_all_clankers/",
+        "image": "https://external-preview.redd.it/4wJht_UrFxILYLCEHcvr8PPJc3S6zW7mhhu-Jd7vPs0.jpeg?width=320&crop=smart&auto=webp&s=38c02a7666460cb49bbd32d399c1570890930abe",
+        "published": "2026-04-26T22:32:38+00:00"
     }
 ]
