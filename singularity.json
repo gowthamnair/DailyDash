@@ -18,6 +18,18 @@
         "published": "2026-04-27T10:49:26+00:00"
     },
     {
+        "title": "Anthropic states Pro users can only access Opus models in Claude Code after enabling and purchasing extra usage",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/",
+        "image": "https://preview.redd.it/ghpqfe4oysxg1.png?width=640&crop=smart&auto=webp&s=993e5d985de8d9ba13317995e90268a03493bad9",
+        "published": "2026-04-27T21:40:02+00:00"
+    },
+    {
+        "title": "Chat GPT 5.4 solved a 60+ years unsolved erdos problems in a single shot",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxixck/chat_gpt_54_solved_a_60_years_unsolved_erdos/",
+        "image": "https://preview.redd.it/zops0m9g7txg1.png?width=640&crop=smart&auto=webp&s=56b70322e758adec2201acc61eceace3f7361b3a",
+        "published": "2026-04-27T22:29:03+00:00"
+    },
+    {
         "title": "\"We're open-sourcing Asimov v1, a humanoid robot\"",
         "link": "https://www.reddit.com/r/singularity/comments/1sx6nzi/were_opensourcing_asimov_v1_a_humanoid_robot/",
         "image": "https://external-preview.redd.it/mm9My9qlstgaV6R9b1eRgp5Z9jJkJUWD7VBQQHgcuf8.png?width=640&crop=smart&auto=webp&s=52cbe3c411f96b4381e24d3c7d1072fbdaf828e4",
@@ -28,18 +40,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sxe3bs/gpt55_improves_over_gpt54_and_overtakes_opus_46/",
         "image": "https://preview.redd.it/7heof5dhasxg1.png?width=140&height=89&auto=webp&s=8bae5517fea246ac81ab2ec25a54047a2f3458e4",
         "published": "2026-04-27T19:32:58+00:00"
-    },
-    {
-        "title": "Anthropic states Pro users can only access Opus models in Claude Code after enabling and purchasing extra usage",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/",
-        "image": "https://preview.redd.it/ghpqfe4oysxg1.png?width=640&crop=smart&auto=webp&s=993e5d985de8d9ba13317995e90268a03493bad9",
-        "published": "2026-04-27T21:40:02+00:00"
-    },
-    {
-        "title": "Keeping purpose in soon-to-be AI dominated fields",
-        "link": "https://www.reddit.com/r/singularity/comments/1swm4mt/keeping_purpose_in_soontobe_ai_dominated_fields/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-26T22:49:38+00:00"
     },
     {
         "title": "Meta energy investments: \"Overview Energy\" laser beams energy from a satellite to solar panels 24/7 (reduced heat burden compared to space compute); Noon Energy can store energy longer than lithium-ion batteries -- 100 hours using \"modular, reversible solid oxide fuel cells and carbon-based storage\"",
@@ -66,6 +66,12 @@
         "published": "2026-04-27T10:48:50+00:00"
     },
     {
+        "title": "I think over the next 4 month, we are going to see much more progress in AI than we have seen in the past years",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxi2o5/i_think_over_the_next_4_month_we_are_going_to_see/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-27T21:55:37+00:00"
+    },
+    {
         "title": "Alignment Makes Models More Decisive Without Making Them More Truthful",
         "link": "https://www.reddit.com/r/singularity/comments/1sxbt1v/alignment_makes_models_more_decisive_without/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -76,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sx9ki4/openai_could_be_making_a_phone_with_ai_agents/",
         "image": "https://external-preview.redd.it/YAot5SBuCwTVFG_djytxN-ZOqcDiu3h1IU8HjGyTCeY.jpeg?width=640&crop=smart&auto=webp&s=84b43e60f8a95f316b057aedaf4cd3781f8ce19b",
         "published": "2026-04-27T16:56:25+00:00"
+    },
+    {
+        "title": "In-depth comparison of GPT 5.5 vs Opus 4.7 in coding reasoning",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxjq46/indepth_comparison_of_gpt_55_vs_opus_47_in_coding/",
+        "image": "https://preview.redd.it/gjszxx6yctxg1.png?width=640&crop=smart&auto=webp&s=1eeb25b9ab9b0a6d247dd1e1ea0cfcbde51e5ca4",
+        "published": "2026-04-27T23:01:22+00:00"
     }
 ]
