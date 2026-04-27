@@ -1,5 +1,11 @@
 [
     {
+        "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds \u2014 backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
+        "link": "https://www.reddit.com/r/technology/comments/1sxaa7a/claudepowered_ai_coding_agent_deletes_entire/",
+        "image": "https://external-preview.redd.it/Fm6buU-AX7KeegRqofL5hDPf1-twSaUDAG8yAc1Qld0.jpeg?width=640&crop=smart&auto=webp&s=62df921e9c16962d9df3bb886d99601543fdb8bf",
+        "published": "2026-04-27T17:20:58+00:00"
+    },
+    {
         "title": "\u2018Hyperscale\u2019 data center project in Utah \u2014 expected to generate and consume more power than entire state \u2014 nears final approval",
         "link": "https://www.reddit.com/r/technology/comments/1swqqpr/hyperscale_data_center_project_in_utah_expected/",
         "image": "https://external-preview.redd.it/lJQ2MYnrVTT3GCaEP52PxS4ZN-NdggqGZ1PsPQdLcvc.jpeg?width=640&crop=smart&auto=webp&s=f01a6294ed21c1924e09013b7acd7c0d3132debc",
@@ -10,12 +16,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1swsnn6/ai_can_cost_more_than_human_workers_now/",
         "image": "https://external-preview.redd.it/PjSi4HZxzzmFrZ-0hUk_JRwHyU94EQ_STd5ijlTo5yc.jpeg?width=640&crop=smart&auto=webp&s=11abcbd19befd20320e3d802472b777e697cd476",
         "published": "2026-04-27T03:53:29+00:00"
-    },
-    {
-        "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds \u2014 backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
-        "link": "https://www.reddit.com/r/technology/comments/1sxaa7a/claudepowered_ai_coding_agent_deletes_entire/",
-        "image": "https://external-preview.redd.it/Fm6buU-AX7KeegRqofL5hDPf1-twSaUDAG8yAc1Qld0.jpeg?width=640&crop=smart&auto=webp&s=62df921e9c16962d9df3bb886d99601543fdb8bf",
-        "published": "2026-04-27T17:20:58+00:00"
     },
     {
         "title": "Apple CEO Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs",
@@ -36,16 +36,16 @@
         "published": "2026-04-27T04:45:23+00:00"
     },
     {
+        "title": "Apple, Google crushed California bill that helped smaller rivals",
+        "link": "https://www.reddit.com/r/technology/comments/1sx91db/apple_google_crushed_california_bill_that_helped/",
+        "image": "https://external-preview.redd.it/arsuJu_aaYRkwv9b3XReXjJVHNp0GxdtYhqwjEYRdLc.jpeg?width=640&crop=smart&auto=webp&s=b5f850bae7dded5729a62d4f090d62608261955d",
+        "published": "2026-04-27T16:38:08+00:00"
+    },
+    {
         "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs \u2014 customers more willing to accept lesser chips due to overwhelming CPU demand",
         "link": "https://www.reddit.com/r/technology/comments/1swmn3f/intel_reportedly_says_it_boosted_yields_by/",
         "image": "https://external-preview.redd.it/TY3nTPjt5WaDiSOkNb1TQVfAlPQWzl4y34FhWSdPDEY.jpeg?width=640&crop=smart&auto=webp&s=522ab98f9101e842a694e26d2566f6cffc815ec8",
         "published": "2026-04-26T23:11:53+00:00"
-    },
-    {
-        "title": "The best way to protect your phone from a warrantless search in 2026",
-        "link": "https://www.reddit.com/r/technology/comments/1swmso3/the_best_way_to_protect_your_phone_from_a/",
-        "image": "https://external-preview.redd.it/z4cT1vwFY6rX7KwxpM3bkHvS5Mv9Ce5HKurL3J0AOSU.jpeg?width=640&crop=smart&auto=webp&s=bc3bc6af7e84b58fe59c40b38e1d4bc7b76e3007",
-        "published": "2026-04-26T23:18:44+00:00"
     },
     {
         "title": "White House Pressures Republican States to Kill or Neuter AI Bills - \u2018I am disappointed that states are being told to wait to address this critical issue,\u2019 one GOP state senator said",
@@ -54,10 +54,10 @@
         "published": "2026-04-27T09:27:14+00:00"
     },
     {
-        "title": "Apple, Google crushed California bill that helped smaller rivals",
-        "link": "https://www.reddit.com/r/technology/comments/1sx91db/apple_google_crushed_california_bill_that_helped/",
-        "image": "https://external-preview.redd.it/arsuJu_aaYRkwv9b3XReXjJVHNp0GxdtYhqwjEYRdLc.jpeg?width=640&crop=smart&auto=webp&s=b5f850bae7dded5729a62d4f090d62608261955d",
-        "published": "2026-04-27T16:38:08+00:00"
+        "title": "The best way to protect your phone from a warrantless search in 2026",
+        "link": "https://www.reddit.com/r/technology/comments/1swmso3/the_best_way_to_protect_your_phone_from_a/",
+        "image": "https://external-preview.redd.it/z4cT1vwFY6rX7KwxpM3bkHvS5Mv9Ce5HKurL3J0AOSU.jpeg?width=640&crop=smart&auto=webp&s=bc3bc6af7e84b58fe59c40b38e1d4bc7b76e3007",
+        "published": "2026-04-26T23:18:44+00:00"
     },
     {
         "title": "China blocks Meta's acquisition of AI startup Manus",
@@ -66,10 +66,10 @@
         "published": "2026-04-27T10:45:48+00:00"
     },
     {
-        "title": "An OpenAI-linked news outlet appears to be entirely AI-generated - The site uses AI agents to reach out to sources and is openly critical of AI skeptics.",
-        "link": "https://www.reddit.com/r/technology/comments/1swv2e4/an_openailinked_news_outlet_appears_to_be/",
-        "image": "https://external-preview.redd.it/mxDLXpRMHSU1ZpOTQ6AuzxLNu8ofhGBf0X0clNKPX2U.png?width=640&crop=smart&auto=webp&s=39c33648be2f0c61f0099bae27e21a6cfe6980b2",
-        "published": "2026-04-27T05:59:33+00:00"
+        "title": "Microsoft says Outlook.com outage is causing sign\u2011in failures",
+        "link": "https://www.reddit.com/r/technology/comments/1sx65zn/microsoft_says_outlookcom_outage_is_causing/",
+        "image": "https://external-preview.redd.it/GkwDVICW0HC7w1IdMI5MpyGori6-LRdi3J-FtIntMJo.jpeg?width=640&crop=smart&auto=webp&s=c9f411947ea1bba987c56382c6932704ff40a968",
+        "published": "2026-04-27T14:57:39+00:00"
     },
     {
         "title": "Canada Just Cracked Cleaner Lithium\u2014Can the U.S. Keep Up?",
@@ -78,15 +78,15 @@
         "published": "2026-04-27T11:44:47+00:00"
     },
     {
+        "title": "An OpenAI-linked news outlet appears to be entirely AI-generated - The site uses AI agents to reach out to sources and is openly critical of AI skeptics.",
+        "link": "https://www.reddit.com/r/technology/comments/1swv2e4/an_openailinked_news_outlet_appears_to_be/",
+        "image": "https://external-preview.redd.it/mxDLXpRMHSU1ZpOTQ6AuzxLNu8ofhGBf0X0clNKPX2U.png?width=640&crop=smart&auto=webp&s=39c33648be2f0c61f0099bae27e21a6cfe6980b2",
+        "published": "2026-04-27T05:59:33+00:00"
+    },
+    {
         "title": "Framework claims Dell is trying to derail Framework's marketing by sending influencers Dell XPS laptops",
         "link": "https://www.reddit.com/r/technology/comments/1sx3fuu/framework_claims_dell_is_trying_to_derail/",
         "image": "https://external-preview.redd.it/sindmHDNX1xPmHcS86KpbGvRYhCy_PxawFAEDILn3Gg.jpeg?width=640&crop=smart&auto=webp&s=0f5af02b58a4ebb6a2a71467fa827c183a632525",
         "published": "2026-04-27T13:18:10+00:00"
-    },
-    {
-        "title": "Microsoft says Outlook.com outage is causing sign\u2011in failures",
-        "link": "https://www.reddit.com/r/technology/comments/1sx65zn/microsoft_says_outlookcom_outage_is_causing/",
-        "image": "https://external-preview.redd.it/GkwDVICW0HC7w1IdMI5MpyGori6-LRdi3J-FtIntMJo.jpeg?width=640&crop=smart&auto=webp&s=c9f411947ea1bba987c56382c6932704ff40a968",
-        "published": "2026-04-27T14:57:39+00:00"
     }
 ]
