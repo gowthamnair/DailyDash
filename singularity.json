@@ -1,11 +1,5 @@
 [
     {
-        "title": "White collar employment is sharply declining: The number of the S&P 500 employees fell -400,000 in 2025, to 28.1 million, posting its first annual decline since 2016.",
-        "link": "https://www.reddit.com/r/singularity/comments/1swl6he/white_collar_employment_is_sharply_declining_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-26T22:09:43+00:00"
-    },
-    {
         "title": "Differences Between GPT 5.4 and GPT 5.5 on MineBench",
         "link": "https://www.reddit.com/r/singularity/comments/1sxapqb/differences_between_gpt_54_and_gpt_55_on_minebench/",
         "image": "https://preview.redd.it/uw1og1dwirxg1.gif?frame=1&width=140&height=78&auto=webp&s=e4d14a09bb96e92e52c120f7cb131f96e2ef5b1a",
@@ -24,12 +18,6 @@
         "published": "2026-04-27T10:49:26+00:00"
     },
     {
-        "title": "Vision banana!!!!",
-        "link": "https://www.reddit.com/r/singularity/comments/1swl96i/vision_banana/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-26T22:12:49+00:00"
-    },
-    {
         "title": "\"We're open-sourcing Asimov v1, a humanoid robot\"",
         "link": "https://www.reddit.com/r/singularity/comments/1sx6nzi/were_opensourcing_asimov_v1_a_humanoid_robot/",
         "image": "https://external-preview.redd.it/mm9My9qlstgaV6R9b1eRgp5Z9jJkJUWD7VBQQHgcuf8.png?width=640&crop=smart&auto=webp&s=52cbe3c411f96b4381e24d3c7d1072fbdaf828e4",
@@ -40,6 +28,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sxe3bs/gpt55_improves_over_gpt54_and_overtakes_opus_46/",
         "image": "https://preview.redd.it/7heof5dhasxg1.png?width=140&height=89&auto=webp&s=8bae5517fea246ac81ab2ec25a54047a2f3458e4",
         "published": "2026-04-27T19:32:58+00:00"
+    },
+    {
+        "title": "Anthropic states Pro users can only access Opus models in Claude Code after enabling and purchasing extra usage",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/",
+        "image": "https://preview.redd.it/ghpqfe4oysxg1.png?width=640&crop=smart&auto=webp&s=993e5d985de8d9ba13317995e90268a03493bad9",
+        "published": "2026-04-27T21:40:02+00:00"
     },
     {
         "title": "Keeping purpose in soon-to-be AI dominated fields",
@@ -82,11 +76,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sx9ki4/openai_could_be_making_a_phone_with_ai_agents/",
         "image": "https://external-preview.redd.it/YAot5SBuCwTVFG_djytxN-ZOqcDiu3h1IU8HjGyTCeY.jpeg?width=640&crop=smart&auto=webp&s=84b43e60f8a95f316b057aedaf4cd3781f8ce19b",
         "published": "2026-04-27T16:56:25+00:00"
-    },
-    {
-        "title": "We're all Clankers",
-        "link": "https://www.reddit.com/r/singularity/comments/1swlq7r/were_all_clankers/",
-        "image": "https://external-preview.redd.it/4wJht_UrFxILYLCEHcvr8PPJc3S6zW7mhhu-Jd7vPs0.jpeg?width=320&crop=smart&auto=webp&s=38c02a7666460cb49bbd32d399c1570890930abe",
-        "published": "2026-04-26T22:32:38+00:00"
     }
 ]
