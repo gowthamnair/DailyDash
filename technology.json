@@ -1,11 +1,5 @@
 [
     {
-        "title": "Samsung workers threaten strike, demand share of $38 billion AI memory windfall",
-        "link": "https://www.reddit.com/r/technology/comments/1sw7qq1/samsung_workers_threaten_strike_demand_share_of/",
-        "image": "https://external-preview.redd.it/jI7P6kk2fEZDiC4o0P7R-_R_fQYwN2SBjmgyieANG4s.jpeg?width=640&crop=smart&auto=webp&s=ceccf9ef9847530c66d2736cbe06e27aa8d63b59",
-        "published": "2026-04-26T13:36:20+00:00"
-    },
-    {
         "title": "\u2018Hyperscale\u2019 data center project in Utah \u2014 expected to generate and consume more power than entire state \u2014 nears final approval",
         "link": "https://www.reddit.com/r/technology/comments/1swqqpr/hyperscale_data_center_project_in_utah_expected/",
         "image": "https://external-preview.redd.it/lJQ2MYnrVTT3GCaEP52PxS4ZN-NdggqGZ1PsPQdLcvc.jpeg?width=640&crop=smart&auto=webp&s=f01a6294ed21c1924e09013b7acd7c0d3132debc",
@@ -24,28 +18,10 @@
         "published": "2026-04-26T23:01:01+00:00"
     },
     {
-        "title": "We translated the Palantir manifesto for actual human beings | What happens when an all-seeing eye looks in the mirror?",
-        "link": "https://www.reddit.com/r/technology/comments/1sw6r75/we_translated_the_palantir_manifesto_for_actual/",
-        "image": "https://external-preview.redd.it/3c6j34_qdrlwefNFZcwcG7jkxWzY5BSGeyhuovWEGlw.jpeg?width=640&crop=smart&auto=webp&s=5490a5e65dae1cca7ad93f9eef05ad743d73bbaa",
-        "published": "2026-04-26T12:52:54+00:00"
-    },
-    {
         "title": "After three months on Linux, I don\u2019t miss Windows at all",
         "link": "https://www.reddit.com/r/technology/comments/1swg80d/after_three_months_on_linux_i_dont_miss_windows/",
         "image": "https://external-preview.redd.it/r9IX13pHgEE1x_QX_aabIqKUKctVMAzyLXoGfo4NUjI.png?width=640&crop=smart&auto=webp&s=3ebfbf4b63cab513edcddf12ca26616a180df8ec",
         "published": "2026-04-26T18:58:05+00:00"
-    },
-    {
-        "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
-        "link": "https://www.reddit.com/r/technology/comments/1swcv4s/the_internets_most_powerful_archiving_tool_is_in/",
-        "image": "https://external-preview.redd.it/nZd6S_S7N-sXrsTekXWCYp4RfNqnAHZcKvNRbpp71OM.jpeg?width=640&crop=smart&auto=webp&s=a9340097f3b0e92d01c4f53848d217d7476ddab5",
-        "published": "2026-04-26T16:54:08+00:00"
-    },
-    {
-        "title": "Microsoft drops Copilot branding in Notepad for Windows 11 for everyone, but it\u2019s really just a rename",
-        "link": "https://www.reddit.com/r/technology/comments/1sw7h81/microsoft_drops_copilot_branding_in_notepad_for/",
-        "image": "https://external-preview.redd.it/pYzSjkRVFBCZec7zcZAidf76QIfn4XCoV0iE9HY_PYA.jpeg?width=640&crop=smart&auto=webp&s=828f5a945e8de2aea79224e0cff52536adb71c2c",
-        "published": "2026-04-26T13:25:04+00:00"
     },
     {
         "title": "AI swarms could hijack democracy without anyone noticing",
@@ -54,16 +30,22 @@
         "published": "2026-04-27T01:38:25+00:00"
     },
     {
+        "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+        "link": "https://www.reddit.com/r/technology/comments/1swcv4s/the_internets_most_powerful_archiving_tool_is_in/",
+        "image": "https://external-preview.redd.it/nZd6S_S7N-sXrsTekXWCYp4RfNqnAHZcKvNRbpp71OM.jpeg?width=640&crop=smart&auto=webp&s=a9340097f3b0e92d01c4f53848d217d7476ddab5",
+        "published": "2026-04-26T16:54:08+00:00"
+    },
+    {
         "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs \u2014 customers more willing to accept lesser chips due to overwhelming CPU demand",
         "link": "https://www.reddit.com/r/technology/comments/1swmn3f/intel_reportedly_says_it_boosted_yields_by/",
         "image": "https://external-preview.redd.it/TY3nTPjt5WaDiSOkNb1TQVfAlPQWzl4y34FhWSdPDEY.jpeg?width=640&crop=smart&auto=webp&s=522ab98f9101e842a694e26d2566f6cffc815ec8",
         "published": "2026-04-26T23:11:53+00:00"
     },
     {
-        "title": "Inside Windows K2: Microsoft's major plan to save Windows 11 and win back users before it's too late",
-        "link": "https://www.reddit.com/r/technology/comments/1sw65bq/inside_windows_k2_microsofts_major_plan_to_save/",
-        "image": "https://external-preview.redd.it/w5wEROwHYx02O_o7vc-52I7sgIramCKy2NO1j5nV09I.jpeg?width=640&crop=smart&auto=webp&s=32865e35b99151c086ffbd2714e08921b0653804",
-        "published": "2026-04-26T12:24:00+00:00"
+        "title": "Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices \u2014 blaster blocked 911 calls, stole cellphone data",
+        "link": "https://www.reddit.com/r/technology/comments/1swtoo5/mobile_sms_blasters_in_vehicles_prowled_canadian/",
+        "image": "https://external-preview.redd.it/hgD-wOgmfO7YbHZVKrR-E1GZUOv2gTJOF4TEYXsTwYs.png?width=640&crop=smart&auto=webp&s=522adfb3f34986538c4272b565500fa83a3c4508",
+        "published": "2026-04-27T04:45:23+00:00"
     },
     {
         "title": "The best way to protect your phone from a warrantless search in 2026",
@@ -78,15 +60,33 @@
         "published": "2026-04-26T17:28:40+00:00"
     },
     {
-        "title": "Someone built working RAM in a shed and the next project is somehow even more ambitious",
-        "link": "https://www.reddit.com/r/technology/comments/1sw62jj/someone_built_working_ram_in_a_shed_and_the_next/",
-        "image": "https://external-preview.redd.it/fHNB7CePro2d9wDlZnzgH7G5g4mYq42ZI48WU8p4Auo.jpeg?width=640&crop=smart&auto=webp&s=687f0eaadb2044ccbbfc277bf5d24724fd2e2ed0",
-        "published": "2026-04-26T12:20:14+00:00"
+        "title": "China blocks Meta's acquisition of AI startup Manus",
+        "link": "https://www.reddit.com/r/technology/comments/1sx00cj/china_blocks_metas_acquisition_of_ai_startup_manus/",
+        "image": "https://external-preview.redd.it/uWuUExbERdfJgBE8yluOLEZHvyx1FdsjvFncLaSPOd8.jpeg?width=640&crop=smart&auto=webp&s=f27461d36681b2ae8776b0889ff13c80fe623574",
+        "published": "2026-04-27T10:45:48+00:00"
     },
     {
-        "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
-        "link": "https://www.reddit.com/r/technology/comments/1sw809a/google_to_invest_up_to_40_billion_in_anthropic_as/",
-        "image": "https://external-preview.redd.it/vu9xY2H5BhW1U1F7EJ9rOhHc7QQyxBJvYdqEJuDAfcs.jpeg?width=640&crop=smart&auto=webp&s=1c260665b1a93d31d77f14d60773d1c183060ae0",
-        "published": "2026-04-26T13:47:30+00:00"
+        "title": "Artificial intelligence flatters users into bad behavior",
+        "link": "https://www.reddit.com/r/technology/comments/1swhiwp/artificial_intelligence_flatters_users_into_bad/",
+        "image": "https://external-preview.redd.it/gdrB0N7_g2aveXJZJcCJdLyOhlxKJgGlT6y6NUiPDR0.jpeg?width=640&crop=smart&auto=webp&s=ab1c5818294b8037e5d46f0916b730ac4e52e784",
+        "published": "2026-04-26T19:46:11+00:00"
+    },
+    {
+        "title": "An OpenAI-linked news outlet appears to be entirely AI-generated - The site uses AI agents to reach out to sources and is openly critical of AI skeptics.",
+        "link": "https://www.reddit.com/r/technology/comments/1swv2e4/an_openailinked_news_outlet_appears_to_be/",
+        "image": "https://external-preview.redd.it/mxDLXpRMHSU1ZpOTQ6AuzxLNu8ofhGBf0X0clNKPX2U.png?width=640&crop=smart&auto=webp&s=39c33648be2f0c61f0099bae27e21a6cfe6980b2",
+        "published": "2026-04-27T05:59:33+00:00"
+    },
+    {
+        "title": "White House Pressures Republican States to Kill or Neuter AI Bills - \u2018I am disappointed that states are being told to wait to address this critical issue,\u2019 one GOP state senator said",
+        "link": "https://www.reddit.com/r/technology/comments/1swylyb/white_house_pressures_republican_states_to_kill/",
+        "image": "https://external-preview.redd.it/8AG2v7gM9KbG7yLZGj5oLMcY9O7kBRczhiMw3FVCP28.jpeg?width=640&crop=smart&auto=webp&s=ca4e789f60296fcca918ce51ae50a24de2622beb",
+        "published": "2026-04-27T09:27:14+00:00"
+    },
+    {
+        "title": "The Supreme Court case that could redefine your digital privacy",
+        "link": "https://www.reddit.com/r/technology/comments/1swm97o/the_supreme_court_case_that_could_redefine_your/",
+        "image": "https://external-preview.redd.it/6nYGTlGxMiSqh8Y6k09EoxDMXC8rxJLMtXd0vhN6w2U.jpeg?width=640&crop=smart&auto=webp&s=b7029a5f3922f40a79319f1124620c65606a8f61",
+        "published": "2026-04-26T22:55:12+00:00"
     }
 ]
