@@ -42,12 +42,6 @@
         "published": "2026-04-28T05:22:20+00:00"
     },
     {
-        "title": "In-depth comparison of GPT 5.5 vs Opus 4.7 in coding reasoning",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxjq46/indepth_comparison_of_gpt_55_vs_opus_47_in_coding/",
-        "image": "https://preview.redd.it/gjszxx6yctxg1.png?width=640&crop=smart&auto=webp&s=1eeb25b9ab9b0a6d247dd1e1ea0cfcbde51e5ca4",
-        "published": "2026-04-27T23:01:22+00:00"
-    },
-    {
         "title": "DeepSeek temporarily slashing prices on V4-Pro by 75%",
         "link": "https://www.reddit.com/r/singularity/comments/1sxmhph/deepseek_temporarily_slashing_prices_on_v4pro_by/",
         "image": "https://preview.redd.it/1558xtv7ytxg1.png?width=640&crop=smart&auto=webp&s=0cf3db82ddac2f669c909632554be80e5cdefddb",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sydq4a/i_ran_deepseek_v4flash_internals_on_8x_h100s/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-28T20:45:41+00:00"
+    },
+    {
+        "title": "Introducing the War Map Framework. A Causal-Operational Formalism for Disease Reversal, Sub-Regressor Architecture, and Mechanistic Cure Verification",
+        "link": "https://www.reddit.com/r/singularity/comments/1sygfmp/introducing_the_war_map_framework_a/",
+        "image": "https://preview.redd.it/crh3x7ngc0yg1.png?width=140&height=87&auto=webp&s=3a43d3fff53c52b65070d2a478e5f3886c2b3ae2",
+        "published": "2026-04-28T22:29:53+00:00"
     }
 ]
