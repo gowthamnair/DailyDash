@@ -1,15 +1,15 @@
 [
     {
-        "title": "Chat GPT 5.4 solved a 60+ years unsolved erdos problems in a single shot",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxixck/chat_gpt_54_solved_a_60_years_unsolved_erdos/",
-        "image": "https://preview.redd.it/zops0m9g7txg1.png?width=640&crop=smart&auto=webp&s=56b70322e758adec2201acc61eceace3f7361b3a",
-        "published": "2026-04-27T22:29:03+00:00"
-    },
-    {
         "title": "Talkie, a 13B LM trained exclusively on pre-1931 data",
         "link": "https://www.reddit.com/r/singularity/comments/1sxp4ha/talkie_a_13b_lm_trained_exclusively_on_pre1931/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-28T02:56:35+00:00"
+    },
+    {
+        "title": "Chat GPT 5.4 solved a 60+ years unsolved erdos problems in a single shot",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxixck/chat_gpt_54_solved_a_60_years_unsolved_erdos/",
+        "image": "https://preview.redd.it/zops0m9g7txg1.png?width=640&crop=smart&auto=webp&s=56b70322e758adec2201acc61eceace3f7361b3a",
+        "published": "2026-04-27T22:29:03+00:00"
     },
     {
         "title": "Differences Between GPT 5.4 and GPT 5.5 on MineBench",
@@ -18,16 +18,16 @@
         "published": "2026-04-27T17:35:53+00:00"
     },
     {
-        "title": "Anthropic states Pro users can only access Opus models in Claude Code after enabling and purchasing extra usage",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/",
-        "image": "https://preview.redd.it/ghpqfe4oysxg1.png?width=640&crop=smart&auto=webp&s=993e5d985de8d9ba13317995e90268a03493bad9",
-        "published": "2026-04-27T21:40:02+00:00"
-    },
-    {
         "title": "The Crowded Interior Of A Cell, Simulated --- An accurate chemical cell simulation will one day allow humanity to master our biology.",
         "link": "https://www.reddit.com/r/singularity/comments/1sxq4ey/the_crowded_interior_of_a_cell_simulated_an/",
         "image": "https://external-preview.redd.it/bnI5aXM1aWdydXhnMYagqnuJNFlleGOA0Edc0f4mBsvk6Ig6AhkZEBPXVgIT.png?width=320&crop=smart&auto=webp&s=f45c34faf8752efd37e06c6107bc3d5ce1feceae",
         "published": "2026-04-28T03:42:57+00:00"
+    },
+    {
+        "title": "Anthropic states Pro users can only access Opus models in Claude Code after enabling and purchasing extra usage",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/",
+        "image": "https://preview.redd.it/ghpqfe4oysxg1.png?width=640&crop=smart&auto=webp&s=993e5d985de8d9ba13317995e90268a03493bad9",
+        "published": "2026-04-27T21:40:02+00:00"
     },
     {
         "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
@@ -84,9 +84,9 @@
         "published": "2026-04-27T13:22:06+00:00"
     },
     {
-        "title": "I think over the next 4 month, we are going to see much more progress in AI than we have seen in the past years",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxi2o5/i_think_over_the_next_4_month_we_are_going_to_see/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-27T21:55:37+00:00"
+        "title": "OpenAI ends its exclusive partnership with Microsoft",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxynbi/openai_ends_its_exclusive_partnership_with/",
+        "image": "https://external-preview.redd.it/5ad_Ri3-JjUmxlMxpGK4O7Gg50WO40nX78eTYpaKxsc.jpeg?width=640&crop=smart&auto=webp&s=c969bfdb3e27caadb714ca7fa030f5db0f1bcc98",
+        "published": "2026-04-28T11:29:05+00:00"
     }
 ]
