@@ -6,12 +6,6 @@
         "published": "2026-04-28T02:56:35+00:00"
     },
     {
-        "title": "Chat GPT 5.4 solved a 60+ years unsolved erdos problems in a single shot",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxixck/chat_gpt_54_solved_a_60_years_unsolved_erdos/",
-        "image": "https://preview.redd.it/zops0m9g7txg1.png?width=640&crop=smart&auto=webp&s=56b70322e758adec2201acc61eceace3f7361b3a",
-        "published": "2026-04-27T22:29:03+00:00"
-    },
-    {
         "title": "Thousands of RobotEra L7 humanoid robots to enter service across 10+ logistics centers performing sorting tasks",
         "link": "https://www.reddit.com/r/singularity/comments/1sy3bne/thousands_of_robotera_l7_humanoid_robots_to_enter/",
         "image": "https://external-preview.redd.it/bXpmdng3NmoweXhnMVG9wxjqsS0t33wx1XnaA5QtHzYbSZ7fIfjnXA1RDxbM.png?width=640&crop=smart&auto=webp&s=d22a192e61632e38822881d43487166b5152475f",
@@ -36,16 +30,16 @@
         "published": "2026-04-28T11:29:05+00:00"
     },
     {
-        "title": "Xiaomi has open-sourced mimo v2.5 pro and it\u2019s interesting",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxs37k/xiaomi_has_opensourced_mimo_v25_pro_and_its/",
-        "image": "https://preview.redd.it/hjdtqzs69vxg1.jpeg?width=640&crop=smart&auto=webp&s=8ecca566f4944cda2a0652f246075d7e9da6803a",
-        "published": "2026-04-28T05:22:20+00:00"
-    },
-    {
         "title": "What jobs are mostly affected by AI according to a Microsoft study?",
         "link": "https://www.reddit.com/r/singularity/comments/1sy19vn/what_jobs_are_mostly_affected_by_ai_according_to/",
         "image": "https://preview.redd.it/v16awhdemxxg1.jpeg?width=640&crop=smart&auto=webp&s=3310f7bc88c22460548d38e147453f8b22a8ae25",
         "published": "2026-04-28T13:20:49+00:00"
+    },
+    {
+        "title": "Xiaomi has open-sourced mimo v2.5 pro and it\u2019s interesting",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxs37k/xiaomi_has_opensourced_mimo_v25_pro_and_its/",
+        "image": "https://preview.redd.it/hjdtqzs69vxg1.jpeg?width=640&crop=smart&auto=webp&s=8ecca566f4944cda2a0652f246075d7e9da6803a",
+        "published": "2026-04-28T05:22:20+00:00"
     },
     {
         "title": "In-depth comparison of GPT 5.5 vs Opus 4.7 in coding reasoning",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sydcym/poolside_ai_launches_laguna_xs2_and_laguna_m1/",
         "image": "https://external-preview.redd.it/HVXtvNeYvq76dLAnu6llp1AhqLdlJnko3HaDHtxaYm0.png?width=640&crop=smart&auto=webp&s=d0896e05403f6e01cee267d945daa603b6916f58",
         "published": "2026-04-28T20:32:34+00:00"
+    },
+    {
+        "title": "I ran DeepSeek V4-Flash internals on 8x H100s \u2014 here\u2019s what mHC actually does",
+        "link": "https://www.reddit.com/r/singularity/comments/1sydq4a/i_ran_deepseek_v4flash_internals_on_8x_h100s/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-28T20:45:41+00:00"
     }
 ]
