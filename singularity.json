@@ -12,16 +12,16 @@
         "published": "2026-04-27T22:29:03+00:00"
     },
     {
-        "title": "The Crowded Interior Of A Cell, Simulated --- An accurate chemical cell simulation will one day allow humanity to master our biology.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxq4ey/the_crowded_interior_of_a_cell_simulated_an/",
-        "image": "https://external-preview.redd.it/bnI5aXM1aWdydXhnMYagqnuJNFlleGOA0Edc0f4mBsvk6Ig6AhkZEBPXVgIT.png?width=320&crop=smart&auto=webp&s=f45c34faf8752efd37e06c6107bc3d5ce1feceae",
-        "published": "2026-04-28T03:42:57+00:00"
-    },
-    {
         "title": "Thousands of RobotEra L7 humanoid robots to enter service across 10+ logistics centers performing sorting tasks",
         "link": "https://www.reddit.com/r/singularity/comments/1sy3bne/thousands_of_robotera_l7_humanoid_robots_to_enter/",
         "image": "https://external-preview.redd.it/bXpmdng3NmoweXhnMVG9wxjqsS0t33wx1XnaA5QtHzYbSZ7fIfjnXA1RDxbM.png?width=640&crop=smart&auto=webp&s=d22a192e61632e38822881d43487166b5152475f",
         "published": "2026-04-28T14:39:21+00:00"
+    },
+    {
+        "title": "The Crowded Interior Of A Cell, Simulated --- An accurate chemical cell simulation will one day allow humanity to master our biology.",
+        "link": "https://www.reddit.com/r/singularity/comments/1sxq4ey/the_crowded_interior_of_a_cell_simulated_an/",
+        "image": "https://external-preview.redd.it/bnI5aXM1aWdydXhnMYagqnuJNFlleGOA0Edc0f4mBsvk6Ig6AhkZEBPXVgIT.png?width=320&crop=smart&auto=webp&s=f45c34faf8752efd37e06c6107bc3d5ce1feceae",
+        "published": "2026-04-28T03:42:57+00:00"
     },
     {
         "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
@@ -40,12 +40,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1sxynbi/openai_ends_its_exclusive_partnership_with/",
         "image": "https://external-preview.redd.it/5ad_Ri3-JjUmxlMxpGK4O7Gg50WO40nX78eTYpaKxsc.jpeg?width=640&crop=smart&auto=webp&s=c969bfdb3e27caadb714ca7fa030f5db0f1bcc98",
         "published": "2026-04-28T11:29:05+00:00"
-    },
-    {
-        "title": "GPT-5.5 improves over GPT-5.4 and overtakes Opus 4.6 to take the 2nd place behind Gemini 3.1 Pro on the Extended NYT Connections Benchmark",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxe3bs/gpt55_improves_over_gpt54_and_overtakes_opus_46/",
-        "image": "https://preview.redd.it/7heof5dhasxg1.png?width=140&height=89&auto=webp&s=8bae5517fea246ac81ab2ec25a54047a2f3458e4",
-        "published": "2026-04-27T19:32:58+00:00"
     },
     {
         "title": "Xiaomi has open-sourced mimo v2.5 pro and it\u2019s interesting",
@@ -78,15 +72,21 @@
         "published": "2026-04-28T14:47:05+00:00"
     },
     {
+        "title": "Caltech researchers claim radical compression of high-fidelity AI models",
+        "link": "https://www.reddit.com/r/singularity/comments/1sy85tn/caltech_researchers_claim_radical_compression_of/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-28T17:29:44+00:00"
+    },
+    {
         "title": "I think over the next 4 month, we are going to see much more progress in AI than we have seen in the past years",
         "link": "https://www.reddit.com/r/singularity/comments/1sxi2o5/i_think_over_the_next_4_month_we_are_going_to_see/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-27T21:55:37+00:00"
     },
     {
-        "title": "Caltech researchers claim radical compression of high-fidelity AI models",
-        "link": "https://www.reddit.com/r/singularity/comments/1sy85tn/caltech_researchers_claim_radical_compression_of/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-28T17:29:44+00:00"
+        "title": "China blocks Meta from acquiring AI startup Manus",
+        "link": "https://www.reddit.com/r/singularity/comments/1syadl9/china_blocks_meta_from_acquiring_ai_startup_manus/",
+        "image": "https://external-preview.redd.it/35Sa1CisxHnqA-p9O2PAGVkTNRjdIjHzSWIbmKby-Ks.jpeg?width=640&crop=smart&auto=webp&s=f03b52166f73c4eddc2c5091da3a04736fc0338b",
+        "published": "2026-04-28T18:45:59+00:00"
     }
 ]
