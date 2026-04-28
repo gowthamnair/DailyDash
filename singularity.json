@@ -30,12 +30,6 @@
         "published": "2026-04-28T06:59:57+00:00"
     },
     {
-        "title": "Anthropic states Pro users can only access Opus models in Claude Code after enabling and purchasing extra usage",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxho7l/anthropic_states_pro_users_can_only_access_opus/",
-        "image": "https://preview.redd.it/ghpqfe4oysxg1.png?width=640&crop=smart&auto=webp&s=993e5d985de8d9ba13317995e90268a03493bad9",
-        "published": "2026-04-27T21:40:02+00:00"
-    },
-    {
         "title": "OpenAI ends its exclusive partnership with Microsoft",
         "link": "https://www.reddit.com/r/singularity/comments/1sxynbi/openai_ends_its_exclusive_partnership_with/",
         "image": "https://external-preview.redd.it/5ad_Ri3-JjUmxlMxpGK4O7Gg50WO40nX78eTYpaKxsc.jpeg?width=640&crop=smart&auto=webp&s=c969bfdb3e27caadb714ca7fa030f5db0f1bcc98",
@@ -78,15 +72,21 @@
         "published": "2026-04-28T17:29:44+00:00"
     },
     {
-        "title": "I think over the next 4 month, we are going to see much more progress in AI than we have seen in the past years",
-        "link": "https://www.reddit.com/r/singularity/comments/1sxi2o5/i_think_over_the_next_4_month_we_are_going_to_see/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-27T21:55:37+00:00"
-    },
-    {
         "title": "China blocks Meta from acquiring AI startup Manus",
         "link": "https://www.reddit.com/r/singularity/comments/1syadl9/china_blocks_meta_from_acquiring_ai_startup_manus/",
         "image": "https://external-preview.redd.it/35Sa1CisxHnqA-p9O2PAGVkTNRjdIjHzSWIbmKby-Ks.jpeg?width=640&crop=smart&auto=webp&s=f03b52166f73c4eddc2c5091da3a04736fc0338b",
         "published": "2026-04-28T18:45:59+00:00"
+    },
+    {
+        "title": "OpenAI GPT images 2.0 flexing!",
+        "link": "https://www.reddit.com/r/singularity/comments/1syen8c/openai_gpt_images_20_flexing/",
+        "image": "https://preview.redd.it/ruba6mkxzzxg1.jpeg?width=640&crop=smart&auto=webp&s=a22c7b136d719cdcb2b6dede92c42e198546c827",
+        "published": "2026-04-28T21:19:29+00:00"
+    },
+    {
+        "title": "Poolside AI launches Laguna XS.2 and Laguna M.1",
+        "link": "https://www.reddit.com/r/singularity/comments/1sydcym/poolside_ai_launches_laguna_xs2_and_laguna_m1/",
+        "image": "https://external-preview.redd.it/HVXtvNeYvq76dLAnu6llp1AhqLdlJnko3HaDHtxaYm0.png?width=640&crop=smart&auto=webp&s=d0896e05403f6e01cee267d945daa603b6916f58",
+        "published": "2026-04-28T20:32:34+00:00"
     }
 ]
