@@ -18,16 +18,16 @@
         "published": "2026-04-29T10:57:29+00:00"
     },
     {
-        "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
-        "link": "https://www.reddit.com/r/technology/comments/1sz00f2/sam_altman_is_the_face_of_evil_for_not_reporting/",
-        "image": "https://external-preview.redd.it/-vVxoREQmRMdcPMpH3euXz7qRPt2TD4heESL5EdPvFo.jpeg?width=640&crop=smart&auto=webp&s=ce0bbf9048e28523b1c788ef34a77860f94066cc",
-        "published": "2026-04-29T14:12:12+00:00"
-    },
-    {
         "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
         "link": "https://www.reddit.com/r/technology/comments/1sz41mb/maryland_becomes_first_state_to_ban_surveillance/",
         "image": "https://external-preview.redd.it/WpuingsvIna-l2dtjfz8MQ6byFOSZkbpDxnX34VTC-Q.jpeg?width=640&crop=smart&auto=webp&s=e335c4b9f3b950aba31978564a494ad3fcca0345",
         "published": "2026-04-29T16:36:06+00:00"
+    },
+    {
+        "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
+        "link": "https://www.reddit.com/r/technology/comments/1sz00f2/sam_altman_is_the_face_of_evil_for_not_reporting/",
+        "image": "https://external-preview.redd.it/-vVxoREQmRMdcPMpH3euXz7qRPt2TD4heESL5EdPvFo.jpeg?width=640&crop=smart&auto=webp&s=ce0bbf9048e28523b1c788ef34a77860f94066cc",
+        "published": "2026-04-29T14:12:12+00:00"
     },
     {
         "title": "The U.S. Wants to Ban China\u2019s High-Tech Cars, but They\u2019re Already Here in El Paso",
@@ -66,6 +66,18 @@
         "published": "2026-04-29T06:10:54+00:00"
     },
     {
+        "title": "Meta\u2019s Reality Labs lost over $4 billion in first quarter / The Reality Labs unit has now accumulated over $80 billion in total operating losses since late 2020.",
+        "link": "https://www.reddit.com/r/technology/comments/1szajmt/metas_reality_labs_lost_over_4_billion_in_first/",
+        "image": "https://external-preview.redd.it/nc0N3nhNt6Kh_-G2exJ7YakfP-npwQDvOPzsQC1cawk.jpeg?width=640&crop=smart&auto=webp&s=b0dcb4e0ac1faffae71f63b40e040793f83c5550",
+        "published": "2026-04-29T20:24:46+00:00"
+    },
+    {
+        "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption \u2014 VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
+        "link": "https://www.reddit.com/r/technology/comments/1sz4y1w/ransomware_accidentally_destroys_all_files_larger/",
+        "image": "https://external-preview.redd.it/w3-VQx7ZYmbkPLJ2UHWYnDt-xB_XU2h6Q4JNfqKuA3g.jpeg?width=640&crop=smart&auto=webp&s=5fc0826f7d669834a0152f15938bddc740fb8135",
+        "published": "2026-04-29T17:08:07+00:00"
+    },
+    {
         "title": "A Supreme Court case could decide whether your phone can be used to find you first and suspect you later",
         "link": "https://www.reddit.com/r/technology/comments/1syysx6/a_supreme_court_case_could_decide_whether_your/",
         "image": "https://external-preview.redd.it/uceO1WXvyRDu-Xd-VMrWZdVShpYvLPzQCQwreb5R9po.jpeg?width=640&crop=smart&auto=webp&s=320d7dccc67029120202d2a84e1a9be1048f2d79",
@@ -76,17 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1syvexu/the_mobile_drivein_new_chinese_evs_can_project/",
         "image": "https://external-preview.redd.it/Xb3JCwxGJpi3naeqTWRcwnM0OvTAkGRgKqHaZY3qX4Q.jpeg?width=640&crop=smart&auto=webp&s=6ad315a9eeeed9e8fd56de3fef7be760b236646e",
         "published": "2026-04-29T10:58:08+00:00"
-    },
-    {
-        "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption \u2014 VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
-        "link": "https://www.reddit.com/r/technology/comments/1sz4y1w/ransomware_accidentally_destroys_all_files_larger/",
-        "image": "https://external-preview.redd.it/w3-VQx7ZYmbkPLJ2UHWYnDt-xB_XU2h6Q4JNfqKuA3g.jpeg?width=640&crop=smart&auto=webp&s=5fc0826f7d669834a0152f15938bddc740fb8135",
-        "published": "2026-04-29T17:08:07+00:00"
-    },
-    {
-        "title": "A founder says Cursor's AI agent deleted his startup's database, causing chaos for customers",
-        "link": "https://www.reddit.com/r/technology/comments/1syshv5/a_founder_says_cursors_ai_agent_deleted_his/",
-        "image": "https://external-preview.redd.it/mkv5txlMHON-hF3xmsC7Ev4OXO0xAInywEFTt41_Hzc.jpeg?width=640&crop=smart&auto=webp&s=e5f2039b16d15f52818c0ea7d415fe7d1506f7b3",
-        "published": "2026-04-29T08:11:58+00:00"
     }
 ]
