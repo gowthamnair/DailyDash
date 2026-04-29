@@ -18,16 +18,16 @@
         "published": "2026-04-28T22:55:27+00:00"
     },
     {
-        "title": "OpenAI's Sebastien Bubeck: [LLM] models are able to surpass humans [researchers] and ask [research] questions",
-        "link": "https://www.reddit.com/r/singularity/comments/1sys1nd/openais_sebastien_bubeck_llm_models_are_able_to/",
-        "image": "https://preview.redd.it/pnbn0jv733yg1.png?width=640&crop=smart&auto=webp&s=d1f725135026f95c952aa431b91eef30748d562f",
-        "published": "2026-04-29T07:45:44+00:00"
-    },
-    {
         "title": "engineering teams celebrating agentic workflows that returned the same result two runs in a row",
         "link": "https://www.reddit.com/r/singularity/comments/1sz4h4g/engineering_teams_celebrating_agentic_workflows/",
         "image": "https://external-preview.redd.it/anllcWV4c3FzNXlnMUtLWrlnI-CBzByrlshtRvNi9PNK-rcA-8JdCKyA9mXv.png?width=640&crop=smart&auto=webp&s=873137db899d78099e4517da50807a743ede4553",
         "published": "2026-04-29T16:51:52+00:00"
+    },
+    {
+        "title": "OpenAI's Sebastien Bubeck: [LLM] models are able to surpass humans [researchers] and ask [research] questions",
+        "link": "https://www.reddit.com/r/singularity/comments/1sys1nd/openais_sebastien_bubeck_llm_models_are_able_to/",
+        "image": "https://preview.redd.it/pnbn0jv733yg1.png?width=640&crop=smart&auto=webp&s=d1f725135026f95c952aa431b91eef30748d562f",
+        "published": "2026-04-29T07:45:44+00:00"
     },
     {
         "title": "Sketch to HTML works now",
@@ -42,10 +42,22 @@
         "published": "2026-04-29T09:25:42+00:00"
     },
     {
+        "title": "\u2018The cost of compute is far beyond the costs of the employees\u2019: Nvidia exec says right now AI is more expensive than paying human workers",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz87m1/the_cost_of_compute_is_far_beyond_the_costs_of/",
+        "image": "https://external-preview.redd.it/e2XhII2GP_xk2vpnAdC6AvgeL6Jp4GiEPB0ypYp9-z4.jpeg?width=640&crop=smart&auto=webp&s=4dfe1e7c5c0a55a5ec12e7875ba1a6fe4e0b3fcf",
+        "published": "2026-04-29T19:01:06+00:00"
+    },
+    {
         "title": "The Significance of Google's recent TPU 8t and TPU 8i",
         "link": "https://www.reddit.com/r/singularity/comments/1syqmhl/the_significance_of_googles_recent_tpu_8t_and_tpu/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-29T06:26:20+00:00"
+    },
+    {
+        "title": "Mistral Medium 3.5 128B is launched",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz95za/mistral_medium_35_128b_is_launched/",
+        "image": "https://external-preview.redd.it/KaOYMEDdsghOL1VAlwe5jqGy3uvXgcbl5z0st_4p90k.png?width=640&crop=smart&auto=webp&s=44f23ca67a800a8dc2b449fa5c138278161e88ee",
+        "published": "2026-04-29T19:34:50+00:00"
     },
     {
         "title": "Collecting training data for handling packages with a RobotEra L7",
@@ -66,27 +78,15 @@
         "published": "2026-04-29T02:29:34+00:00"
     },
     {
-        "title": "Poolside AI launches Laguna XS.2 and Laguna M.1",
-        "link": "https://www.reddit.com/r/singularity/comments/1sydcym/poolside_ai_launches_laguna_xs2_and_laguna_m1/",
-        "image": "https://external-preview.redd.it/HVXtvNeYvq76dLAnu6llp1AhqLdlJnko3HaDHtxaYm0.png?width=640&crop=smart&auto=webp&s=d0896e05403f6e01cee267d945daa603b6916f58",
-        "published": "2026-04-28T20:32:34+00:00"
+        "title": "I've Covered Robots for Years. This One Is Different | WIRED",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz90q3/ive_covered_robots_for_years_this_one_is/",
+        "image": "https://external-preview.redd.it/Dh4rVAQ7NFIwdjPiP6miF9KK41GQiYvonE1G0rXOJQM.jpeg?width=640&crop=smart&auto=webp&s=95744bc2ea51c30a2aaa554649aa87333b6c2ca8",
+        "published": "2026-04-29T19:29:28+00:00"
     },
     {
-        "title": "The writing rules I give every AI before it writes for me",
-        "link": "https://www.reddit.com/r/singularity/comments/1sz0o0y/the_writing_rules_i_give_every_ai_before_it/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-29T14:36:24+00:00"
-    },
-    {
-        "title": "3 of TIME's top 10 AI companies are Chinese and I only knew one by name",
-        "link": "https://www.reddit.com/r/singularity/comments/1syxggu/3_of_times_top_10_ai_companies_are_chinese_and_i/",
-        "image": "https://preview.redd.it/0c6zmgqsi4yg1.jpeg?width=640&crop=smart&auto=webp&s=43116f0a83a2f378ac4d53cc4c8050dbee3ca836",
-        "published": "2026-04-29T12:32:17+00:00"
-    },
-    {
-        "title": "AI era 'not all doom and gloom' for graduates, say analysts. Who to believe? 1. AI will create a dystopian future due to unemployment. 2. AI-powered brainwashing.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sydsv5/ai_era_not_all_doom_and_gloom_for_graduates_say/",
-        "image": "https://external-preview.redd.it/rTY_AasNKu0TWASqmEmCpcvZ2SR2cdXxHrJDKsTYC5I.png?width=640&crop=smart&auto=webp&s=68143dfc39fe1dfd670d1acdfdf16c81103d76dd",
-        "published": "2026-04-28T20:48:25+00:00"
+        "title": "Converting Claude Code into the most intelligent Deep Research Agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz9o4g/converting_claude_code_into_the_most_intelligent/",
+        "image": "https://preview.redd.it/xa1z0p0fp6yg1.png?width=640&crop=smart&auto=webp&s=e30649ababbf23bbd271378fd829c8a59486237e",
+        "published": "2026-04-29T19:53:32+00:00"
     }
 ]
