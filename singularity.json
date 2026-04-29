@@ -12,12 +12,6 @@
         "published": "2026-04-29T11:02:50+00:00"
     },
     {
-        "title": "An IBM training manual from 1979.",
-        "link": "https://www.reddit.com/r/singularity/comments/1syh22p/an_ibm_training_manual_from_1979/",
-        "image": "https://preview.redd.it/1v6o9xzl8zxg1.jpeg?width=640&crop=smart&auto=webp&s=7279674ea325bcb84c0c9816d4cabded4d2fa9cb",
-        "published": "2026-04-28T22:55:27+00:00"
-    },
-    {
         "title": "engineering teams celebrating agentic workflows that returned the same result two runs in a row",
         "link": "https://www.reddit.com/r/singularity/comments/1sz4h4g/engineering_teams_celebrating_agentic_workflows/",
         "image": "https://external-preview.redd.it/anllcWV4c3FzNXlnMUtLWrlnI-CBzByrlshtRvNi9PNK-rcA-8JdCKyA9mXv.png?width=640&crop=smart&auto=webp&s=873137db899d78099e4517da50807a743ede4553",
@@ -72,21 +66,27 @@
         "published": "2026-04-29T19:29:28+00:00"
     },
     {
-        "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
-        "link": "https://www.reddit.com/r/singularity/comments/1syx0s6/the_mitibm_computing_research_lab_launches_to/",
-        "image": "https://external-preview.redd.it/YAIP2yftzPzzsO4Y-AGt7zoEq6ztvYC-K3nVdRPqyUI.png?width=640&crop=smart&auto=webp&s=7559f0eaf442216cfdae90a9e57e33d548e78b8a",
-        "published": "2026-04-29T12:13:33+00:00"
-    },
-    {
         "title": "Why so soon?",
         "link": "https://www.reddit.com/r/singularity/comments/1sza99w/why_so_soon/",
         "image": "https://preview.redd.it/om8jkox9t6yg1.jpeg?width=640&crop=smart&auto=webp&s=896d7861fe0edc887b0664758f308c952e86180e",
         "published": "2026-04-29T20:14:31+00:00"
     },
     {
+        "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+        "link": "https://www.reddit.com/r/singularity/comments/1syx0s6/the_mitibm_computing_research_lab_launches_to/",
+        "image": "https://external-preview.redd.it/YAIP2yftzPzzsO4Y-AGt7zoEq6ztvYC-K3nVdRPqyUI.png?width=640&crop=smart&auto=webp&s=7559f0eaf442216cfdae90a9e57e33d548e78b8a",
+        "published": "2026-04-29T12:13:33+00:00"
+    },
+    {
         "title": "Anthropic Joins Blender Development Fund as a Corporate Patron",
         "link": "https://www.reddit.com/r/singularity/comments/1sylw3n/anthropic_joins_blender_development_fund_as_a/",
         "image": "https://external-preview.redd.it/M4cmx4ytL-klpxwY3O04FWeu72RGdw3rpTIFMCnnnNY.png?width=640&crop=smart&auto=webp&s=3b526859eef4e0133df7b2a8a249bd4571e7e2e1",
         "published": "2026-04-29T02:29:34+00:00"
+    },
+    {
+        "title": "Converting Claude Code into the most intelligent Deep Research Agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz9o4g/converting_claude_code_into_the_most_intelligent/",
+        "image": "https://preview.redd.it/xa1z0p0fp6yg1.png?width=640&crop=smart&auto=webp&s=e30649ababbf23bbd271378fd829c8a59486237e",
+        "published": "2026-04-29T19:53:32+00:00"
     }
 ]
