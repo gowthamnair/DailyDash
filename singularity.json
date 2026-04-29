@@ -1,15 +1,21 @@
 [
     {
+        "title": "That robot demo almost turned into a nightmare",
+        "link": "https://www.reddit.com/r/singularity/comments/1syvihl/that_robot_demo_almost_turned_into_a_nightmare/",
+        "image": "https://external-preview.redd.it/dzM3YmV6ZXMyNHlnMVdUE-MUY1j3RpzS3lmKOL0tSFxiuxtB3NP4nVO9V_jM.png?width=640&crop=smart&auto=webp&s=0c1ba4e9685d4245507a0e69cb58dae3c7d89abd",
+        "published": "2026-04-29T11:02:50+00:00"
+    },
+    {
         "title": "An IBM training manual from 1979.",
         "link": "https://www.reddit.com/r/singularity/comments/1syh22p/an_ibm_training_manual_from_1979/",
         "image": "https://preview.redd.it/1v6o9xzl8zxg1.jpeg?width=640&crop=smart&auto=webp&s=7279674ea325bcb84c0c9816d4cabded4d2fa9cb",
         "published": "2026-04-28T22:55:27+00:00"
     },
     {
-        "title": "That robot demo almost turned into a nightmare",
-        "link": "https://www.reddit.com/r/singularity/comments/1syvihl/that_robot_demo_almost_turned_into_a_nightmare/",
-        "image": "https://external-preview.redd.it/dzM3YmV6ZXMyNHlnMVdUE-MUY1j3RpzS3lmKOL0tSFxiuxtB3NP4nVO9V_jM.png?width=640&crop=smart&auto=webp&s=0c1ba4e9685d4245507a0e69cb58dae3c7d89abd",
-        "published": "2026-04-29T11:02:50+00:00"
+        "title": "Figure AI hits 24x production scale, producing 1 robot per hour, teases its fleet",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz3sdg/figure_ai_hits_24x_production_scale_producing_1/",
+        "image": "https://external-preview.redd.it/bmZvZW83MjZvNXlnMYV_-a5pttazDGhYrFAmJZc-P7qKh6lb2ZlsSCvjxPpy.png?width=640&crop=smart&auto=webp&s=dc2bfbb7430d6692b2388ee45526246c537673cc",
+        "published": "2026-04-29T16:26:53+00:00"
     },
     {
         "title": "OpenAI's Sebastien Bubeck: [LLM] models are able to surpass humans [researchers] and ask [research] questions",
@@ -54,12 +60,6 @@
         "published": "2026-04-29T07:55:29+00:00"
     },
     {
-        "title": "Someone reverse engineered Claude's exact usage limits",
-        "link": "https://www.reddit.com/r/singularity/comments/1sz0ip9/someone_reverse_engineered_claudes_exact_usage/",
-        "image": "https://preview.redd.it/g2gbutgt35yg1.png?width=640&crop=smart&auto=webp&s=4db7e83de7e1e6bbb5a4704613e6cfecec57d801",
-        "published": "2026-04-29T14:30:51+00:00"
-    },
-    {
         "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
         "link": "https://www.reddit.com/r/singularity/comments/1syx0s6/the_mitibm_computing_research_lab_launches_to/",
         "image": "https://external-preview.redd.it/YAIP2yftzPzzsO4Y-AGt7zoEq6ztvYC-K3nVdRPqyUI.png?width=640&crop=smart&auto=webp&s=7559f0eaf442216cfdae90a9e57e33d548e78b8a",
@@ -78,15 +78,15 @@
         "published": "2026-04-28T20:32:34+00:00"
     },
     {
+        "title": "100 years from now : The Allowance",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz2bm7/100_years_from_now_the_allowance/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-29T15:35:36+00:00"
+    },
+    {
         "title": "The writing rules I give every AI before it writes for me",
         "link": "https://www.reddit.com/r/singularity/comments/1sz0o0y/the_writing_rules_i_give_every_ai_before_it/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-29T14:36:24+00:00"
-    },
-    {
-        "title": "3 of TIME's top 10 AI companies are Chinese and I only knew one by name",
-        "link": "https://www.reddit.com/r/singularity/comments/1syxggu/3_of_times_top_10_ai_companies_are_chinese_and_i/",
-        "image": "https://preview.redd.it/0c6zmgqsi4yg1.jpeg?width=640&crop=smart&auto=webp&s=43116f0a83a2f378ac4d53cc4c8050dbee3ca836",
-        "published": "2026-04-29T12:32:17+00:00"
     }
 ]
