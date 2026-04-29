@@ -12,16 +12,16 @@
         "published": "2026-04-29T07:19:45+00:00"
     },
     {
-        "title": "China's new iron battery hits 99.4 percent efficiency over 6000 cycles",
-        "link": "https://www.reddit.com/r/technology/comments/1syvehk/chinas_new_iron_battery_hits_994_percent/",
-        "image": "https://external-preview.redd.it/PYtnhkdVMQLris1Ti6lQxrKttYMDGpjwS-5nVxA3HJw.jpeg?width=640&crop=smart&auto=webp&s=aa0991da4f458cfad8c5ce932a0dc0aaae24ad01",
-        "published": "2026-04-29T10:57:29+00:00"
-    },
-    {
         "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
         "link": "https://www.reddit.com/r/technology/comments/1sz41mb/maryland_becomes_first_state_to_ban_surveillance/",
         "image": "https://external-preview.redd.it/WpuingsvIna-l2dtjfz8MQ6byFOSZkbpDxnX34VTC-Q.jpeg?width=640&crop=smart&auto=webp&s=e335c4b9f3b950aba31978564a494ad3fcca0345",
         "published": "2026-04-29T16:36:06+00:00"
+    },
+    {
+        "title": "China's new iron battery hits 99.4 percent efficiency over 6000 cycles",
+        "link": "https://www.reddit.com/r/technology/comments/1syvehk/chinas_new_iron_battery_hits_994_percent/",
+        "image": "https://external-preview.redd.it/PYtnhkdVMQLris1Ti6lQxrKttYMDGpjwS-5nVxA3HJw.jpeg?width=640&crop=smart&auto=webp&s=aa0991da4f458cfad8c5ce932a0dc0aaae24ad01",
+        "published": "2026-04-29T10:57:29+00:00"
     },
     {
         "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
@@ -60,12 +60,6 @@
         "published": "2026-04-29T18:37:17+00:00"
     },
     {
-        "title": "PlayStation has seemingly added a 30-day DRM check to all newly purchased digital PS4 and PS5 games",
-        "link": "https://www.reddit.com/r/technology/comments/1syqchk/playstation_has_seemingly_added_a_30day_drm_check/",
-        "image": "https://external-preview.redd.it/Kly43h8YcFABHYmv3MYR_-erqO6RXTJE5IEhIXDpKIo.jpeg?width=640&crop=smart&auto=webp&s=b0fe58d64ec9ed0c2f6768aebab2f539a534cf0c",
-        "published": "2026-04-29T06:10:54+00:00"
-    },
-    {
         "title": "Meta\u2019s Reality Labs lost over $4 billion in first quarter / The Reality Labs unit has now accumulated over $80 billion in total operating losses since late 2020.",
         "link": "https://www.reddit.com/r/technology/comments/1szajmt/metas_reality_labs_lost_over_4_billion_in_first/",
         "image": "https://external-preview.redd.it/nc0N3nhNt6Kh_-G2exJ7YakfP-npwQDvOPzsQC1cawk.jpeg?width=640&crop=smart&auto=webp&s=b0dcb4e0ac1faffae71f63b40e040793f83c5550",
@@ -76,6 +70,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1sz4y1w/ransomware_accidentally_destroys_all_files_larger/",
         "image": "https://external-preview.redd.it/w3-VQx7ZYmbkPLJ2UHWYnDt-xB_XU2h6Q4JNfqKuA3g.jpeg?width=640&crop=smart&auto=webp&s=5fc0826f7d669834a0152f15938bddc740fb8135",
         "published": "2026-04-29T17:08:07+00:00"
+    },
+    {
+        "title": "PlayStation has seemingly added a 30-day DRM check to all newly purchased digital PS4 and PS5 games",
+        "link": "https://www.reddit.com/r/technology/comments/1syqchk/playstation_has_seemingly_added_a_30day_drm_check/",
+        "image": "https://external-preview.redd.it/Kly43h8YcFABHYmv3MYR_-erqO6RXTJE5IEhIXDpKIo.jpeg?width=640&crop=smart&auto=webp&s=b0fe58d64ec9ed0c2f6768aebab2f539a534cf0c",
+        "published": "2026-04-29T06:10:54+00:00"
     },
     {
         "title": "A Supreme Court case could decide whether your phone can be used to find you first and suspect you later",
