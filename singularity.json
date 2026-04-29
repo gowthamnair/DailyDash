@@ -30,6 +30,12 @@
         "published": "2026-04-28T14:47:05+00:00"
     },
     {
+        "title": "OpenAI's Sebastien Bubeck: [LLM] models are able to surpass humans [researchers] and ask [research] questions",
+        "link": "https://www.reddit.com/r/singularity/comments/1sys1nd/openais_sebastien_bubeck_llm_models_are_able_to/",
+        "image": "https://preview.redd.it/pnbn0jv733yg1.png?width=640&crop=smart&auto=webp&s=d1f725135026f95c952aa431b91eef30748d562f",
+        "published": "2026-04-29T07:45:44+00:00"
+    },
+    {
         "title": "Caltech researchers claim radical compression of high-fidelity AI models",
         "link": "https://www.reddit.com/r/singularity/comments/1sy85tn/caltech_researchers_claim_radical_compression_of/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -48,10 +54,10 @@
         "published": "2026-04-28T18:45:59+00:00"
     },
     {
-        "title": "Poolside AI launches Laguna XS.2 and Laguna M.1",
-        "link": "https://www.reddit.com/r/singularity/comments/1sydcym/poolside_ai_launches_laguna_xs2_and_laguna_m1/",
-        "image": "https://external-preview.redd.it/HVXtvNeYvq76dLAnu6llp1AhqLdlJnko3HaDHtxaYm0.png?width=640&crop=smart&auto=webp&s=d0896e05403f6e01cee267d945daa603b6916f58",
-        "published": "2026-04-28T20:32:34+00:00"
+        "title": "Collecting training data for handling packages with a RobotEra L7",
+        "link": "https://www.reddit.com/r/singularity/comments/1sys7u1/collecting_training_data_for_handling_packages/",
+        "image": "https://external-preview.redd.it/y2sJeE-ZkhuydKxTwW4B4DzxuGb3ij2_o2BqO263xIc.png?width=320&crop=smart&auto=webp&s=5aad6b1192dff159e63b8410caf0908abe34d39e",
+        "published": "2026-04-29T07:55:29+00:00"
     },
     {
         "title": "The Significance of Google's recent TPU 8t and TPU 8i",
@@ -60,15 +66,27 @@
         "published": "2026-04-29T06:26:20+00:00"
     },
     {
+        "title": "Poolside AI launches Laguna XS.2 and Laguna M.1",
+        "link": "https://www.reddit.com/r/singularity/comments/1sydcym/poolside_ai_launches_laguna_xs2_and_laguna_m1/",
+        "image": "https://external-preview.redd.it/HVXtvNeYvq76dLAnu6llp1AhqLdlJnko3HaDHtxaYm0.png?width=640&crop=smart&auto=webp&s=d0896e05403f6e01cee267d945daa603b6916f58",
+        "published": "2026-04-28T20:32:34+00:00"
+    },
+    {
+        "title": "Just let one of my robots \"test\" the other robot. The loop is closing!",
+        "link": "https://www.reddit.com/r/singularity/comments/1sytqpe/just_let_one_of_my_robots_test_the_other_robot/",
+        "image": "https://external-preview.redd.it/d3o5NG1ieTVqM3lnMW2qPvkLXdScYJvCbbmQmMmT6A7wrx7God4McO8HO_1_.png?width=640&crop=smart&auto=webp&s=79e96cd4ec07747210d3f8ca7cfec74f90fb77b9",
+        "published": "2026-04-29T09:25:42+00:00"
+    },
+    {
         "title": "Anthropic Joins Blender Development Fund as a Corporate Patron",
         "link": "https://www.reddit.com/r/singularity/comments/1sylw3n/anthropic_joins_blender_development_fund_as_a/",
         "image": "https://external-preview.redd.it/M4cmx4ytL-klpxwY3O04FWeu72RGdw3rpTIFMCnnnNY.png?width=640&crop=smart&auto=webp&s=3b526859eef4e0133df7b2a8a249bd4571e7e2e1",
         "published": "2026-04-29T02:29:34+00:00"
     },
     {
-        "title": "AI era 'not all doom and gloom' for graduates, say analysts. Who to believe? 1. AI will create a dystopian future due to unemployment. 2. AI-powered brainwashing.",
-        "link": "https://www.reddit.com/r/singularity/comments/1sydsv5/ai_era_not_all_doom_and_gloom_for_graduates_say/",
-        "image": "https://external-preview.redd.it/rTY_AasNKu0TWASqmEmCpcvZ2SR2cdXxHrJDKsTYC5I.png?width=640&crop=smart&auto=webp&s=68143dfc39fe1dfd670d1acdfdf16c81103d76dd",
-        "published": "2026-04-28T20:48:25+00:00"
+        "title": "GPT 5.5 passes the cup test",
+        "link": "https://www.reddit.com/r/singularity/comments/1syu8ym/gpt_55_passes_the_cup_test/",
+        "image": "https://preview.redd.it/l7j6anrnq3yg1.jpeg?width=640&crop=smart&auto=webp&s=a90001b8cb14a26b07a2a1654d6f0fdb56b236e0",
+        "published": "2026-04-29T09:55:05+00:00"
     }
 ]
