@@ -18,12 +18,6 @@
         "published": "2026-04-29T16:51:52+00:00"
     },
     {
-        "title": "OpenAI's Sebastien Bubeck: [LLM] models are able to surpass humans [researchers] and ask [research] questions",
-        "link": "https://www.reddit.com/r/singularity/comments/1sys1nd/openais_sebastien_bubeck_llm_models_are_able_to/",
-        "image": "https://preview.redd.it/pnbn0jv733yg1.png?width=640&crop=smart&auto=webp&s=d1f725135026f95c952aa431b91eef30748d562f",
-        "published": "2026-04-29T07:45:44+00:00"
-    },
-    {
         "title": "Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month",
         "link": "https://www.reddit.com/r/singularity/comments/1szizg3/japan_airlines_is_officially_deploying_humanoid/",
         "image": "https://external-preview.redd.it/MHZnNzRmbGxsOHlnMSWF7RFl23SAeppHchAe-UmP0-BMn-e69J3ljX3cYivK.png?width=640&crop=smart&auto=webp&s=e72a27d6c9754197502c1c873438e5ef06f4180e",
@@ -54,22 +48,16 @@
         "published": "2026-04-29T19:29:28+00:00"
     },
     {
-        "title": "Collecting training data for handling packages with a RobotEra L7",
-        "link": "https://www.reddit.com/r/singularity/comments/1sys7u1/collecting_training_data_for_handling_packages/",
-        "image": "https://external-preview.redd.it/y2sJeE-ZkhuydKxTwW4B4DzxuGb3ij2_o2BqO263xIc.png?width=320&crop=smart&auto=webp&s=5aad6b1192dff159e63b8410caf0908abe34d39e",
-        "published": "2026-04-29T07:55:29+00:00"
-    },
-    {
-        "title": "The Significance of Google's recent TPU 8t and TPU 8i",
-        "link": "https://www.reddit.com/r/singularity/comments/1syqmhl/the_significance_of_googles_recent_tpu_8t_and_tpu/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-29T06:26:20+00:00"
-    },
-    {
         "title": "Why so soon?",
         "link": "https://www.reddit.com/r/singularity/comments/1sza99w/why_so_soon/",
         "image": "https://preview.redd.it/om8jkox9t6yg1.jpeg?width=640&crop=smart&auto=webp&s=896d7861fe0edc887b0664758f308c952e86180e",
         "published": "2026-04-29T20:14:31+00:00"
+    },
+    {
+        "title": "Mistral Medium 3.5: A reliability first open source model from Europe",
+        "link": "https://www.reddit.com/r/singularity/comments/1szno73/mistral_medium_35_a_reliability_first_open_source/",
+        "image": "https://preview.redd.it/nbw5rjndr9yg1.png?width=640&crop=smart&auto=webp&s=3730ad72e0947ffdfe9b00fd9b446d9af6d3245f",
+        "published": "2026-04-30T06:09:47+00:00"
     },
     {
         "title": "Converting Claude Code into the most intelligent Deep Research Agent",
@@ -84,9 +72,21 @@
         "published": "2026-04-29T12:13:33+00:00"
     },
     {
+        "title": "Where the goblins came from",
+        "link": "https://www.reddit.com/r/singularity/comments/1sznni7/where_the_goblins_came_from/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-30T06:08:45+00:00"
+    },
+    {
         "title": "3 of TIME's top 10 AI companies are Chinese and I only knew one by name",
         "link": "https://www.reddit.com/r/singularity/comments/1syxggu/3_of_times_top_10_ai_companies_are_chinese_and_i/",
         "image": "https://preview.redd.it/0c6zmgqsi4yg1.jpeg?width=640&crop=smart&auto=webp&s=43116f0a83a2f378ac4d53cc4c8050dbee3ca836",
         "published": "2026-04-29T12:32:17+00:00"
+    },
+    {
+        "title": "The writing rules I give every AI before it writes for me",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz0o0y/the_writing_rules_i_give_every_ai_before_it/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-29T14:36:24+00:00"
     }
 ]
