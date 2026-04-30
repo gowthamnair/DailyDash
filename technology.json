@@ -12,16 +12,16 @@
         "published": "2026-04-29T23:05:36+00:00"
     },
     {
-        "title": "The more young people use AI, the more they hate it",
-        "link": "https://www.reddit.com/r/technology/comments/1szusu6/the_more_young_people_use_ai_the_more_they_hate_it/",
-        "image": "https://external-preview.redd.it/NPzYKZZKpn4uwUeRMUHx4wL4P4ymGQ3nsnQqKyF9QPs.jpeg?width=640&crop=smart&auto=webp&s=13665c18e46c7786b88d928e4f8fb78724fc954e",
-        "published": "2026-04-30T12:34:21+00:00"
-    },
-    {
         "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them With AI",
         "link": "https://www.reddit.com/r/technology/comments/1t01wsk/chinese_courts_rule_companies_cannot_fire_workers/",
         "image": "https://external-preview.redd.it/CDMh2rDLTO2DvjZujf21IC4Bo0wFAhptxr-0CNy9s5c.jpeg?width=320&crop=smart&auto=webp&s=19c85c5a443945f1ec595dec136fd709f270398a",
         "published": "2026-04-30T16:49:49+00:00"
+    },
+    {
+        "title": "The more young people use AI, the more they hate it",
+        "link": "https://www.reddit.com/r/technology/comments/1szusu6/the_more_young_people_use_ai_the_more_they_hate_it/",
+        "image": "https://external-preview.redd.it/NPzYKZZKpn4uwUeRMUHx4wL4P4ymGQ3nsnQqKyF9QPs.jpeg?width=640&crop=smart&auto=webp&s=13665c18e46c7786b88d928e4f8fb78724fc954e",
+        "published": "2026-04-30T12:34:21+00:00"
     },
     {
         "title": "U.S. Senators Banned From Prediction Markets Trading",
@@ -36,18 +36,6 @@
         "published": "2026-04-29T23:19:42+00:00"
     },
     {
-        "title": "Meta\u2019s Reality Labs lost over $4 billion in first quarter / The Reality Labs unit has now accumulated over $80 billion in total operating losses since late 2020.",
-        "link": "https://www.reddit.com/r/technology/comments/1szajmt/metas_reality_labs_lost_over_4_billion_in_first/",
-        "image": "https://external-preview.redd.it/nc0N3nhNt6Kh_-G2exJ7YakfP-npwQDvOPzsQC1cawk.jpeg?width=640&crop=smart&auto=webp&s=b0dcb4e0ac1faffae71f63b40e040793f83c5550",
-        "published": "2026-04-29T20:24:46+00:00"
-    },
-    {
-        "title": "Google signs classified Pentagon AI deal but exits $100 million drone swarm program \u2014 report claims employees revolted over ethical fears, delivered letter to CEO Pichai",
-        "link": "https://www.reddit.com/r/technology/comments/1szcl5i/google_signs_classified_pentagon_ai_deal_but/",
-        "image": "https://external-preview.redd.it/_-3giQjkW3DPDWmO_gDWomdg_ioX_Py68LYPOxmesuo.jpeg?width=640&crop=smart&auto=webp&s=eac1125846e01cd23c5976e6f65f47f568e39556",
-        "published": "2026-04-29T21:41:35+00:00"
-    },
-    {
         "title": "Ted Cruz Rips FCC Over ABC Broadcast License Review Following Kimmel Joke: \"It Is Not Government\u2019s Job to Censor Speech\" | GOP senator previously compared agency chairman Brendan Carr to a \"mafioso\" for threats to revoke broadcasters' licenses over disfavored speed",
         "link": "https://www.reddit.com/r/technology/comments/1szqa7d/ted_cruz_rips_fcc_over_abc_broadcast_license/",
         "image": "https://external-preview.redd.it/23Mfxn24cBwlZBP0sOVk7WiBp3AUNyq-VnGrWe1XHMo.jpeg?width=640&crop=smart&auto=webp&s=f4eb30d30d9481d52c44ba6fa80fdf62b3c8957e",
@@ -60,22 +48,16 @@
         "published": "2026-04-30T01:20:54+00:00"
     },
     {
-        "title": "Mitchell Hashimoto says GitHub \u2018no longer for serious work'",
-        "link": "https://www.reddit.com/r/technology/comments/1szqxyi/mitchell_hashimoto_says_github_no_longer_for/",
-        "image": "https://external-preview.redd.it/LojOtw757oUb8daSw8OWCxheEfHGqbOnhC8vbvXS41w.jpeg?width=640&crop=smart&auto=webp&s=7e2c260affd729146721b33f3e013c30f948ac38",
-        "published": "2026-04-30T09:18:22+00:00"
-    },
-    {
         "title": "Copy Fail: Newly Discovered Vulnerability Allows Privilege Escalation To Root On All Major Linux Distros Since 2017",
         "link": "https://www.reddit.com/r/technology/comments/1szxjmi/copy_fail_newly_discovered_vulnerability_allows/",
         "image": "https://external-preview.redd.it/LmtPv5Wpo6rjcruBfDx3v6m_sx3akUP6xsXbb2FU4r4.jpeg?width=640&crop=smart&auto=webp&s=bd9fbafb842bcdf378013321ae5a71ef72be2824",
         "published": "2026-04-30T14:23:19+00:00"
     },
     {
-        "title": "China's Gen Z Turns Dead Shopping Malls Into Real-Life Battle Royale Arenas",
-        "link": "https://www.reddit.com/r/technology/comments/1szad1k/chinas_gen_z_turns_dead_shopping_malls_into/",
-        "image": "https://external-preview.redd.it/36Da0Vx2Vk0Ya-_hGYsZ3Z9QK0tKrAb56iiHGTcb1rI.jpeg?width=640&crop=smart&auto=webp&s=583a9ce51415ab64dfcb639890bed8adcf01cad3",
-        "published": "2026-04-29T20:18:22+00:00"
+        "title": "Mitchell Hashimoto says GitHub \u2018no longer for serious work'",
+        "link": "https://www.reddit.com/r/technology/comments/1szqxyi/mitchell_hashimoto_says_github_no_longer_for/",
+        "image": "https://external-preview.redd.it/LojOtw757oUb8daSw8OWCxheEfHGqbOnhC8vbvXS41w.jpeg?width=640&crop=smart&auto=webp&s=7e2c260affd729146721b33f3e013c30f948ac38",
+        "published": "2026-04-30T09:18:22+00:00"
     },
     {
         "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Pitch Demo, Renews Contract Anyway | Residents of Dunwoody, Georgia are furious about the city's surveillance contract with Flock. Do their elected officials care?",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/technology/comments/1szxnv4/microsoft_hints_at_workforce_reduction_despite_18/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-30T14:27:46+00:00"
+    },
+    {
+        "title": "Latest round of tech layoffs at Microsoft and Meta shows need for a working class movement to defend jobs",
+        "link": "https://www.reddit.com/r/technology/comments/1szwjt6/latest_round_of_tech_layoffs_at_microsoft_and/",
+        "image": "https://external-preview.redd.it/8z4N_CPQOOcedqraSx2lPKJgUu9t6WtH5IqXcdbJTJc.jpeg?width=640&crop=smart&auto=webp&s=7ca5f473a116be31793aa6a9cabbc03c21180c9a",
+        "published": "2026-04-30T13:45:52+00:00"
+    },
+    {
+        "title": "Big Tech is about to spend $700 billion on AI this year. No one knows where the buildout ends.",
+        "link": "https://www.reddit.com/r/technology/comments/1t08d76/big_tech_is_about_to_spend_700_billion_on_ai_this/",
+        "image": "https://external-preview.redd.it/SpIAbugBRgJZGFm6ZC_IyjWKgOvPMk8xZU5Kkbkwx8Q.jpeg?width=640&crop=smart&auto=webp&s=a1ccd2929c86d190dcc7be8b3f42acbca04d5782",
+        "published": "2026-04-30T20:40:57+00:00"
+    },
+    {
+        "title": "Attorney general says Meta issues threat to shut down products in New Mexico",
+        "link": "https://www.reddit.com/r/technology/comments/1t05mkn/attorney_general_says_meta_issues_threat_to_shut/",
+        "image": "https://external-preview.redd.it/M8t7TgTKrp9HjDpBmZMYUqQTh3iEJ2P7Ho2ldAtRvVQ.jpeg?width=640&crop=smart&auto=webp&s=8527ede88de02056ec7acdd2b2eac18829bf6b46",
+        "published": "2026-04-30T19:02:16+00:00"
     }
 ]
