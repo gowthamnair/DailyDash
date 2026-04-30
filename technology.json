@@ -1,11 +1,5 @@
 [
     {
-        "title": "\u2018The cost of compute is far beyond the costs of the employees\u2019: Nvidia exec says right now AI is more expensive than paying human workers",
-        "link": "https://www.reddit.com/r/technology/comments/1syv6qi/the_cost_of_compute_is_far_beyond_the_costs_of/",
-        "image": "https://external-preview.redd.it/e2XhII2GP_xk2vpnAdC6AvgeL6Jp4GiEPB0ypYp9-z4.jpeg?width=640&crop=smart&auto=webp&s=4dfe1e7c5c0a55a5ec12e7875ba1a6fe4e0b3fcf",
-        "published": "2026-04-29T10:46:13+00:00"
-    },
-    {
         "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
         "link": "https://www.reddit.com/r/technology/comments/1sz41mb/maryland_becomes_first_state_to_ban_surveillance/",
         "image": "https://external-preview.redd.it/WpuingsvIna-l2dtjfz8MQ6byFOSZkbpDxnX34VTC-Q.jpeg?width=640&crop=smart&auto=webp&s=e335c4b9f3b950aba31978564a494ad3fcca0345",
@@ -16,12 +10,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1szeons/claude_ai_agents_confession_after_deleting_a/",
         "image": "https://external-preview.redd.it/meXXfTsqedD4M1CACwTFfaFNJYrySIoGMjJusly_UNk.jpeg?width=640&crop=smart&auto=webp&s=06fd95ec8ec4bc3b963055d42fc04b53c9b2fde7",
         "published": "2026-04-29T23:05:36+00:00"
-    },
-    {
-        "title": "China's new iron battery hits 99.4 percent efficiency over 6000 cycles",
-        "link": "https://www.reddit.com/r/technology/comments/1syvehk/chinas_new_iron_battery_hits_994_percent/",
-        "image": "https://external-preview.redd.it/PYtnhkdVMQLris1Ti6lQxrKttYMDGpjwS-5nVxA3HJw.jpeg?width=640&crop=smart&auto=webp&s=aa0991da4f458cfad8c5ce932a0dc0aaae24ad01",
-        "published": "2026-04-29T10:57:29+00:00"
     },
     {
         "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
@@ -54,16 +42,16 @@
         "published": "2026-04-29T20:24:46+00:00"
     },
     {
-        "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption \u2014 VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
-        "link": "https://www.reddit.com/r/technology/comments/1sz4y1w/ransomware_accidentally_destroys_all_files_larger/",
-        "image": "https://external-preview.redd.it/w3-VQx7ZYmbkPLJ2UHWYnDt-xB_XU2h6Q4JNfqKuA3g.jpeg?width=640&crop=smart&auto=webp&s=5fc0826f7d669834a0152f15938bddc740fb8135",
-        "published": "2026-04-29T17:08:07+00:00"
-    },
-    {
         "title": "Google signs classified Pentagon AI deal but exits $100 million drone swarm program \u2014 report claims employees revolted over ethical fears, delivered letter to CEO Pichai",
         "link": "https://www.reddit.com/r/technology/comments/1szcl5i/google_signs_classified_pentagon_ai_deal_but/",
         "image": "https://external-preview.redd.it/_-3giQjkW3DPDWmO_gDWomdg_ioX_Py68LYPOxmesuo.jpeg?width=640&crop=smart&auto=webp&s=eac1125846e01cd23c5976e6f65f47f568e39556",
         "published": "2026-04-29T21:41:35+00:00"
+    },
+    {
+        "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption \u2014 VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
+        "link": "https://www.reddit.com/r/technology/comments/1sz4y1w/ransomware_accidentally_destroys_all_files_larger/",
+        "image": "https://external-preview.redd.it/w3-VQx7ZYmbkPLJ2UHWYnDt-xB_XU2h6Q4JNfqKuA3g.jpeg?width=640&crop=smart&auto=webp&s=5fc0826f7d669834a0152f15938bddc740fb8135",
+        "published": "2026-04-29T17:08:07+00:00"
     },
     {
         "title": "Satya Nadella admits Microsoft needs to \"win back\" Windows 11 fans, improve performance for low RAM PCs",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1sz8vif/your_car_may_soon_be_monitoring_everything_you_do/",
         "image": "https://external-preview.redd.it/n2O6HL1Hrf0rdWE5QYdZeoPDr-wqvg8Ovv3iibNggPk.jpeg?width=640&crop=smart&auto=webp&s=60a3590ce3f175d85e95bad33d383374e621d41f",
         "published": "2026-04-29T19:24:10+00:00"
+    },
+    {
+        "title": "China's Gen Z Turns Dead Shopping Malls Into Real-Life Battle Royale Arenas",
+        "link": "https://www.reddit.com/r/technology/comments/1szad1k/chinas_gen_z_turns_dead_shopping_malls_into/",
+        "image": "https://external-preview.redd.it/36Da0Vx2Vk0Ya-_hGYsZ3Z9QK0tKrAb56iiHGTcb1rI.jpeg?width=640&crop=smart&auto=webp&s=583a9ce51415ab64dfcb639890bed8adcf01cad3",
+        "published": "2026-04-29T20:18:22+00:00"
+    },
+    {
+        "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+        "link": "https://www.reddit.com/r/technology/comments/1sz8ybb/openai_codex_system_prompt_includes_explicit/",
+        "image": "https://external-preview.redd.it/YVuIqY5WYzeM-m3JZy7b5oyaXW7gfuHw__EvcPhSzWE.jpeg?width=640&crop=smart&auto=webp&s=e51b9305d125d4d0a775339ff8c254db3d4db6e6",
+        "published": "2026-04-29T19:26:59+00:00"
     }
 ]
