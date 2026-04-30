@@ -1,17 +1,5 @@
 [
     {
-        "title": "Figure AI hits 24x production scale, producing 1 robot per hour, teases its fleet",
-        "link": "https://www.reddit.com/r/singularity/comments/1sz3sdg/figure_ai_hits_24x_production_scale_producing_1/",
-        "image": "https://external-preview.redd.it/bmZvZW83MjZvNXlnMYV_-a5pttazDGhYrFAmJZc-P7qKh6lb2ZlsSCvjxPpy.png?width=640&crop=smart&auto=webp&s=dc2bfbb7430d6692b2388ee45526246c537673cc",
-        "published": "2026-04-29T16:26:53+00:00"
-    },
-    {
-        "title": "engineering teams celebrating agentic workflows that returned the same result two runs in a row",
-        "link": "https://www.reddit.com/r/singularity/comments/1sz4h4g/engineering_teams_celebrating_agentic_workflows/",
-        "image": "https://external-preview.redd.it/anllcWV4c3FzNXlnMUtLWrlnI-CBzByrlshtRvNi9PNK-rcA-8JdCKyA9mXv.png?width=640&crop=smart&auto=webp&s=873137db899d78099e4517da50807a743ede4553",
-        "published": "2026-04-29T16:51:52+00:00"
-    },
-    {
         "title": "Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month",
         "link": "https://www.reddit.com/r/singularity/comments/1szizg3/japan_airlines_is_officially_deploying_humanoid/",
         "image": "https://external-preview.redd.it/MHZnNzRmbGxsOHlnMSWF7RFl23SAeppHchAe-UmP0-BMn-e69J3ljX3cYivK.png?width=640&crop=smart&auto=webp&s=e72a27d6c9754197502c1c873438e5ef06f4180e",
@@ -48,10 +36,28 @@
         "published": "2026-04-29T19:34:50+00:00"
     },
     {
+        "title": "Elon Musk Admits xAi is Distilling OpenAI Models",
+        "link": "https://www.reddit.com/r/singularity/comments/1t01wm1/elon_musk_admits_xai_is_distilling_openai_models/",
+        "image": "https://preview.redd.it/pzgk7q1ixcyg1.png?width=140&height=98&auto=webp&s=1e7c1875d42eacd2ccf38f59764436337b7a8fa0",
+        "published": "2026-04-30T16:49:38+00:00"
+    },
+    {
         "title": "Where the goblins came from",
         "link": "https://www.reddit.com/r/singularity/comments/1sznni7/where_the_goblins_came_from/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-30T06:08:45+00:00"
+    },
+    {
+        "title": "GPT5.5 slightly outperformed Mythos on a multi-step cyber-attack simulation. One challenge that took a human expert 12 hrs took GPT-5.5 only 11 min at a $1.73 cost",
+        "link": "https://www.reddit.com/r/singularity/comments/1t02oxw/gpt55_slightly_outperformed_mythos_on_a_multistep/",
+        "image": "https://preview.redd.it/gd3h9sso2dyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b6df69d065375010bb12a0deeb3e370b905270b4",
+        "published": "2026-04-30T17:17:58+00:00"
+    },
+    {
+        "title": "Claude Mythos supports Image outputs - Anthropic's first image gen model",
+        "link": "https://www.reddit.com/r/singularity/comments/1szzz9e/claude_mythos_supports_image_outputs_anthropics/",
+        "image": "https://preview.redd.it/u1ik0uejlcyg1.png?width=140&height=85&auto=webp&s=68be668f88e81e28569d71ad1d0df5473009087f",
+        "published": "2026-04-30T15:42:36+00:00"
     },
     {
         "title": "Why so soon?",
@@ -60,16 +66,16 @@
         "published": "2026-04-29T20:14:31+00:00"
     },
     {
-        "title": "Converting Claude Code into the most intelligent Deep Research Agent",
-        "link": "https://www.reddit.com/r/singularity/comments/1sz9o4g/converting_claude_code_into_the_most_intelligent/",
-        "image": "https://preview.redd.it/xa1z0p0fp6yg1.png?width=640&crop=smart&auto=webp&s=e30649ababbf23bbd271378fd829c8a59486237e",
-        "published": "2026-04-29T19:53:32+00:00"
-    },
-    {
         "title": "Justice for the Goblins #SaveTheGoblins",
         "link": "https://www.reddit.com/r/singularity/comments/1szuh87/justice_for_the_goblins_savethegoblins/",
         "image": "https://preview.redd.it/jphfrkfjlbyg1.jpeg?width=640&crop=smart&auto=webp&s=29c60a5596c5aebd5d71c14fb7af2526d57371ca",
         "published": "2026-04-30T12:20:03+00:00"
+    },
+    {
+        "title": "Converting Claude Code into the most intelligent Deep Research Agent",
+        "link": "https://www.reddit.com/r/singularity/comments/1sz9o4g/converting_claude_code_into_the_most_intelligent/",
+        "image": "https://preview.redd.it/xa1z0p0fp6yg1.png?width=640&crop=smart&auto=webp&s=e30649ababbf23bbd271378fd829c8a59486237e",
+        "published": "2026-04-29T19:53:32+00:00"
     },
     {
         "title": "Brain-inspired approach can teach AI to doubt itself just enough to avoid overconfidence",
@@ -78,15 +84,9 @@
         "published": "2026-04-30T13:01:15+00:00"
     },
     {
-        "title": "Hey everyone, I\u2019m a student currently working on a dissertation that explores how AI affects Consumer perception. If you have 10 mins to spare I would really appreciate it if you give your input via filling out my survey. It\u2019s anonymous. Thank you so much!",
-        "link": "https://www.reddit.com/r/singularity/comments/1szwv4q/hey_everyone_im_a_student_currently_working_on_a/",
-        "image": "https://external-preview.redd.it/81QaY9fTHrGtXUafskNRsi4F6757P8F7KD9CNVZnUc4.png?width=640&crop=smart&auto=webp&s=179b15e8aea4a33bb860279c21b919e02ad70df1",
-        "published": "2026-04-30T13:58:01+00:00"
-    },
-    {
-        "title": "Is AI Safety Becoming a Procurement Badge?",
-        "link": "https://www.reddit.com/r/singularity/comments/1szz5z7/is_ai_safety_becoming_a_procurement_badge/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-30T15:19:39+00:00"
+        "title": "Amid the race to build humanoid robots, it\u2019s now 1X's turn to showcase its NEO factory",
+        "link": "https://www.reddit.com/r/singularity/comments/1t02aj5/amid_the_race_to_build_humanoid_robots_its_now/",
+        "image": "https://external-preview.redd.it/dGhwejNvNzMwZHlnMdhkDgCiouOnE3QrvHcGVi1CbrT434k74pqOesuP42Js.png?width=640&crop=smart&auto=webp&s=e3e5555863aa26f8d02baef1d101877d7b741054",
+        "published": "2026-04-30T17:03:32+00:00"
     }
 ]
