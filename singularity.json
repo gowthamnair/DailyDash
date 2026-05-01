@@ -6,16 +6,16 @@
         "published": "2026-04-30T17:17:58+00:00"
     },
     {
-        "title": "Claude Mythos supports Image outputs - Anthropic's first image gen model",
-        "link": "https://www.reddit.com/r/singularity/comments/1szzz9e/claude_mythos_supports_image_outputs_anthropics/",
-        "image": "https://preview.redd.it/u1ik0uejlcyg1.png?width=140&height=85&auto=webp&s=68be668f88e81e28569d71ad1d0df5473009087f",
-        "published": "2026-04-30T15:42:36+00:00"
-    },
-    {
         "title": "Anthropic's Head of Product: Anthropic's Head of Product (summary here), she is stating that \"The timelines for a lot of our product features have gone down from six month to one month and sometimes to even one day\"",
         "link": "https://www.reddit.com/r/singularity/comments/1t0e97a/anthropics_head_of_product_anthropics_head_of/",
         "image": "https://preview.redd.it/qsi6neyf9fyg1.jpeg?width=640&crop=smart&auto=webp&s=644cf28f6ed5ad24063ebdf9eb6c0730fe9f0dc2",
         "published": "2026-05-01T00:43:31+00:00"
+    },
+    {
+        "title": "Claude Mythos supports Image outputs - Anthropic's first image gen model",
+        "link": "https://www.reddit.com/r/singularity/comments/1szzz9e/claude_mythos_supports_image_outputs_anthropics/",
+        "image": "https://preview.redd.it/u1ik0uejlcyg1.png?width=140&height=85&auto=webp&s=68be668f88e81e28569d71ad1d0df5473009087f",
+        "published": "2026-04-30T15:42:36+00:00"
     },
     {
         "title": "Amid the race to build humanoid robots, it\u2019s now 1X's turn to showcase its NEO factory",
@@ -30,6 +30,12 @@
         "published": "2026-04-30T17:47:55+00:00"
     },
     {
+        "title": "AI Outperforms ER Doctors in Diagnostic Cases, Study Points to Collaborative Care",
+        "link": "https://www.reddit.com/r/singularity/comments/1t0o0pr/ai_outperforms_er_doctors_in_diagnostic_cases/",
+        "image": "https://external-preview.redd.it/tol9av2U970oxYy-M3fdQmPLxQX1yJdoEjJDwUuS9tM.jpeg?width=640&crop=smart&auto=webp&s=a887ac092e8edbca0ae47c0089e25bb6e2ff0891",
+        "published": "2026-05-01T09:02:07+00:00"
+    },
+    {
         "title": "Brain-inspired approach can teach AI to doubt itself just enough to avoid overconfidence",
         "link": "https://www.reddit.com/r/singularity/comments/1szvfo2/braininspired_approach_can_teach_ai_to_doubt/",
         "image": "https://external-preview.redd.it/F45IxsSZ4WXlf0lOf1g8C-v0RYuQ9JEPfCqSCs5gIm8.jpeg?width=640&crop=smart&auto=webp&s=e9e6b8e66fc103846fbd1ad594d1ed1c3ab85f79",
@@ -40,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t0m9yt/grok_43_achieves_higher_overall_intelligence_over/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-01T07:21:26+00:00"
-    },
-    {
-        "title": "AI Outperforms ER Doctors in Diagnostic Cases, Study Points to Collaborative Care",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0o0pr/ai_outperforms_er_doctors_in_diagnostic_cases/",
-        "image": "https://external-preview.redd.it/tol9av2U970oxYy-M3fdQmPLxQX1yJdoEjJDwUuS9tM.jpeg?width=640&crop=smart&auto=webp&s=a887ac092e8edbca0ae47c0089e25bb6e2ff0891",
-        "published": "2026-05-01T09:02:07+00:00"
     },
     {
         "title": "Grok 4.3 is out in the API",
