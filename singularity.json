@@ -1,11 +1,5 @@
 [
     {
-        "title": "This is exactly what I feel whenever I need to explain the task over and over again",
-        "link": "https://www.reddit.com/r/singularity/comments/1szsnc7/this_is_exactly_what_i_feel_whenever_i_need_to/",
-        "image": "https://external-preview.redd.it/d3drbWpxdzA2YnlnMUI0GbJ9Pr_NPkgXSzQsgPRM_0niEdnMWkF62ceHjU9J.png?width=640&crop=smart&auto=webp&s=9281fd63e2f20c98e28db8a044f5bc123beb5b11",
-        "published": "2026-04-30T10:53:07+00:00"
-    },
-    {
         "title": "GPT5.5 slightly outperformed Mythos on a multi-step cyber-attack simulation. One challenge that took a human expert 12 hrs took GPT-5.5 only 11 min at a $1.73 cost",
         "link": "https://www.reddit.com/r/singularity/comments/1t02oxw/gpt55_slightly_outperformed_mythos_on_a_multistep/",
         "image": "https://preview.redd.it/gd3h9sso2dyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b6df69d065375010bb12a0deeb3e370b905270b4",
@@ -48,15 +42,15 @@
         "published": "2026-05-01T07:21:26+00:00"
     },
     {
-        "title": "Grok 4.3 is out in the API",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0bdh3/grok_43_is_out_in_the_api/",
-        "image": "https://preview.redd.it/nlkcsyc1oeyg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cf4f9208f390ad1722c86e4ea2334ab5175f8c56",
-        "published": "2026-04-30T22:38:54+00:00"
-    },
-    {
         "title": "AI Outperforms ER Doctors in Diagnostic Cases, Study Points to Collaborative Care",
         "link": "https://www.reddit.com/r/singularity/comments/1t0o0pr/ai_outperforms_er_doctors_in_diagnostic_cases/",
         "image": "https://external-preview.redd.it/tol9av2U970oxYy-M3fdQmPLxQX1yJdoEjJDwUuS9tM.jpeg?width=640&crop=smart&auto=webp&s=a887ac092e8edbca0ae47c0089e25bb6e2ff0891",
         "published": "2026-05-01T09:02:07+00:00"
+    },
+    {
+        "title": "Grok 4.3 is out in the API",
+        "link": "https://www.reddit.com/r/singularity/comments/1t0bdh3/grok_43_is_out_in_the_api/",
+        "image": "https://preview.redd.it/nlkcsyc1oeyg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cf4f9208f390ad1722c86e4ea2334ab5175f8c56",
+        "published": "2026-04-30T22:38:54+00:00"
     }
 ]

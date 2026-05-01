@@ -6,12 +6,6 @@
         "published": "2026-04-30T16:49:49+00:00"
     },
     {
-        "title": "Meta lost 20 million users last quarter",
-        "link": "https://www.reddit.com/r/technology/comments/1sztnuv/meta_lost_20_million_users_last_quarter/",
-        "image": "https://external-preview.redd.it/_7MtjUkt3nFeTTlWoynLq54ZCgJq_XePNzdYYQbqVSM.jpeg?width=640&crop=smart&auto=webp&s=4046851e8251bd8e8275bec7f045de6f1775f9cd",
-        "published": "2026-04-30T11:43:07+00:00"
-    },
-    {
         "title": "The more young people use AI, the more they hate it",
         "link": "https://www.reddit.com/r/technology/comments/1szusu6/the_more_young_people_use_ai_the_more_they_hate_it/",
         "image": "https://external-preview.redd.it/NPzYKZZKpn4uwUeRMUHx4wL4P4ymGQ3nsnQqKyF9QPs.jpeg?width=640&crop=smart&auto=webp&s=13665c18e46c7786b88d928e4f8fb78724fc954e",
@@ -60,16 +54,16 @@
         "published": "2026-04-30T22:48:42+00:00"
     },
     {
-        "title": "Microsoft hints at workforce reduction despite 18% revenue hike in Q3 FY26",
-        "link": "https://www.reddit.com/r/technology/comments/1szxnv4/microsoft_hints_at_workforce_reduction_despite_18/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-04-30T14:27:46+00:00"
-    },
-    {
         "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
         "link": "https://www.reddit.com/r/technology/comments/1t08mm1/reddit_reports_69_jump_in_revenue_topping_analyst/",
         "image": "https://external-preview.redd.it/uTGFTumXlVrToR7GEVuX76kar8CmzRnI5tC2bIVxnAo.jpeg?width=640&crop=smart&auto=webp&s=82964a88c3e0f7c0641e4a38d65868450ed29d66",
         "published": "2026-04-30T20:50:47+00:00"
+    },
+    {
+        "title": "Microsoft hints at workforce reduction despite 18% revenue hike in Q3 FY26",
+        "link": "https://www.reddit.com/r/technology/comments/1szxnv4/microsoft_hints_at_workforce_reduction_despite_18/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-04-30T14:27:46+00:00"
     },
     {
         "title": "Utah\u2019s New Law Targeting VPNs Goes Into Effect Next Week",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1t05mkn/attorney_general_says_meta_issues_threat_to_shut/",
         "image": "https://external-preview.redd.it/M8t7TgTKrp9HjDpBmZMYUqQTh3iEJ2P7Ho2ldAtRvVQ.jpeg?width=640&crop=smart&auto=webp&s=8527ede88de02056ec7acdd2b2eac18829bf6b46",
         "published": "2026-04-30T19:02:16+00:00"
+    },
+    {
+        "title": "Ex-Meta manager says just 2% of engineers know how to use AI 'very effectively'",
+        "link": "https://www.reddit.com/r/technology/comments/1t0g92c/exmeta_manager_says_just_2_of_engineers_know_how/",
+        "image": "https://external-preview.redd.it/jrfoodYs_iuhRWTR78fRZAhPWV3ycxtdb0BiNWBG5K0.jpeg?width=640&crop=smart&auto=webp&s=54511bb683ba0f6163f50da12d4fddadc31d6c9e",
+        "published": "2026-05-01T02:14:28+00:00"
     }
 ]
