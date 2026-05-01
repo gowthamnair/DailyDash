@@ -1,9 +1,33 @@
 [
     {
+        "title": "Violence in Australian town after arrest of man over girl's murder",
+        "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7443/live/e4c26360-44da-11f1-ac78-2112837ce2aa.jpg",
+        "published": "Thu, 30 Apr 2026 22:46:34 GMT"
+    },
+    {
         "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
         "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2031/live/852957f0-44b3-11f1-ac78-2112837ce2aa.jpg",
         "published": "Thu, 30 Apr 2026 16:38:58 GMT"
+    },
+    {
+        "title": "Venice Biennale jury resigns days before start of exhibition",
+        "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bad6/live/0773d1f0-44e0-11f1-bd52-e755d604ece4.jpg",
+        "published": "Thu, 30 Apr 2026 23:44:00 GMT"
+    },
+    {
+        "title": "Britney Spears charged in California with driving under influence",
+        "link": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d14/live/28616b10-44d2-11f1-8de1-593a7bb5acaa.jpg",
+        "published": "Thu, 30 Apr 2026 21:46:18 GMT"
+    },
+    {
+        "title": "China scraps tariffs for all but one African nation",
+        "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc2b/live/32624640-4480-11f1-86c2-d17d046f16a4.jpg",
+        "published": "Fri, 01 May 2026 00:02:57 GMT"
     },
     {
         "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
@@ -12,22 +36,16 @@
         "published": "Thu, 30 Apr 2026 18:05:26 GMT"
     },
     {
-        "title": "US House votes to end record shutdown over immigration enforcement",
-        "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7833/live/d58e74e0-44d2-11f1-8de1-593a7bb5acaa.jpg",
-        "published": "Thu, 30 Apr 2026 20:53:36 GMT"
-    },
-    {
         "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
         "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0dba/live/9d4a5520-44c0-11f1-ac78-2112837ce2aa.jpg",
         "published": "Thu, 30 Apr 2026 20:14:48 GMT"
     },
     {
-        "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-        "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb90/live/a5b0c260-443b-11f1-adcb-799f507df11c.jpg",
-        "published": "Thu, 30 Apr 2026 20:15:20 GMT"
+        "title": "Trainee driver crashes bus into River Seine",
+        "link": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/92f2/live/92b58250-4499-11f1-bd52-e755d604ece4.jpg",
+        "published": "Thu, 30 Apr 2026 15:34:09 GMT"
     },
     {
         "title": "Belgium plans to nationalise nuclear power plants",
@@ -36,10 +54,16 @@
         "published": "Thu, 30 Apr 2026 19:50:29 GMT"
     },
     {
-        "title": "Britney Spears charged in California with driving under influence",
-        "link": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d14/live/28616b10-44d2-11f1-8de1-593a7bb5acaa.jpg",
-        "published": "Thu, 30 Apr 2026 21:46:18 GMT"
+        "title": "US House votes to end record shutdown over immigration enforcement",
+        "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7833/live/d58e74e0-44d2-11f1-8de1-593a7bb5acaa.jpg",
+        "published": "Thu, 30 Apr 2026 20:53:36 GMT"
+    },
+    {
+        "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+        "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb90/live/a5b0c260-443b-11f1-adcb-799f507df11c.jpg",
+        "published": "Thu, 30 Apr 2026 20:15:20 GMT"
     },
     {
         "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
@@ -60,33 +84,9 @@
         "published": "Thu, 30 Apr 2026 14:32:23 GMT"
     },
     {
-        "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-        "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2720/live/47c46aa0-4416-11f1-9fe7-21f79f0ffc75.jpg",
-        "published": "Thu, 30 Apr 2026 03:20:04 GMT"
-    },
-    {
-        "title": "China to ban drone sales in Beijing citing security concerns",
-        "link": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2f08/live/5a122fc0-4480-11f1-bd52-e755d604ece4.jpg",
-        "published": "Thu, 30 Apr 2026 05:45:54 GMT"
-    },
-    {
-        "title": "Police say they believe abducted child was murdered as body found in Outback",
-        "link": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/62a8/live/bc847540-44db-11f1-bd52-e755d604ece4.jpg",
-        "published": "Thu, 30 Apr 2026 06:29:55 GMT"
-    },
-    {
         "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
         "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1fb3/live/aa703ff0-3e8d-11f1-93dd-c79ff08bbda8.jpg",
         "published": "Thu, 30 Apr 2026 22:51:57 GMT"
-    },
-    {
-        "title": "Christchurch mass killer loses bid to overturn conviction",
-        "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5653/live/f71452a0-4451-11f1-87a4-bb86886cd70a.jpg",
-        "published": "Thu, 30 Apr 2026 04:10:54 GMT"
     }
 ]

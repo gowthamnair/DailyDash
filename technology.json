@@ -1,15 +1,15 @@
 [
     {
-        "title": "Meta lost 20 million users last quarter",
-        "link": "https://www.reddit.com/r/technology/comments/1sztnuv/meta_lost_20_million_users_last_quarter/",
-        "image": "https://external-preview.redd.it/_7MtjUkt3nFeTTlWoynLq54ZCgJq_XePNzdYYQbqVSM.jpeg?width=640&crop=smart&auto=webp&s=4046851e8251bd8e8275bec7f045de6f1775f9cd",
-        "published": "2026-04-30T11:43:07+00:00"
-    },
-    {
         "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them With AI",
         "link": "https://www.reddit.com/r/technology/comments/1t01wsk/chinese_courts_rule_companies_cannot_fire_workers/",
         "image": "https://external-preview.redd.it/CDMh2rDLTO2DvjZujf21IC4Bo0wFAhptxr-0CNy9s5c.jpeg?width=320&crop=smart&auto=webp&s=19c85c5a443945f1ec595dec136fd709f270398a",
         "published": "2026-04-30T16:49:49+00:00"
+    },
+    {
+        "title": "Meta lost 20 million users last quarter",
+        "link": "https://www.reddit.com/r/technology/comments/1sztnuv/meta_lost_20_million_users_last_quarter/",
+        "image": "https://external-preview.redd.it/_7MtjUkt3nFeTTlWoynLq54ZCgJq_XePNzdYYQbqVSM.jpeg?width=640&crop=smart&auto=webp&s=4046851e8251bd8e8275bec7f045de6f1775f9cd",
+        "published": "2026-04-30T11:43:07+00:00"
     },
     {
         "title": "The more young people use AI, the more they hate it",
@@ -24,16 +24,16 @@
         "published": "2026-04-30T17:41:21+00:00"
     },
     {
+        "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online.",
+        "link": "https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/",
+        "image": "https://external-preview.redd.it/SJm-1FrbkEq2QzYFvtsbhKWrpsFyPcyJu3jf6cClWy4.png?width=640&crop=smart&auto=webp&s=b5fc5ace66967bc1dbc8cb3e613a8670ae2b4eb2",
+        "published": "2026-04-30T22:54:09+00:00"
+    },
+    {
         "title": "Ted Cruz Rips FCC Over ABC Broadcast License Review Following Kimmel Joke: \"It Is Not Government\u2019s Job to Censor Speech\" | GOP senator previously compared agency chairman Brendan Carr to a \"mafioso\" for threats to revoke broadcasters' licenses over disfavored speed",
         "link": "https://www.reddit.com/r/technology/comments/1szqa7d/ted_cruz_rips_fcc_over_abc_broadcast_license/",
         "image": "https://external-preview.redd.it/23Mfxn24cBwlZBP0sOVk7WiBp3AUNyq-VnGrWe1XHMo.jpeg?width=640&crop=smart&auto=webp&s=f4eb30d30d9481d52c44ba6fa80fdf62b3c8957e",
         "published": "2026-04-30T08:39:51+00:00"
-    },
-    {
-        "title": "Satya Nadella admits Microsoft needs to \"win back\" Windows 11 fans, improve performance for low RAM PCs",
-        "link": "https://www.reddit.com/r/technology/comments/1szhrgw/satya_nadella_admits_microsoft_needs_to_win_back/",
-        "image": "https://external-preview.redd.it/sNG9nCS2ItlJbnY2vYYpM0xh0mHH31pqjzCwD3vLUjU.jpeg?width=640&crop=smart&auto=webp&s=8925e3d81569d607d6e116fb984c1c996575170f",
-        "published": "2026-04-30T01:20:54+00:00"
     },
     {
         "title": "Copy Fail: Newly Discovered Vulnerability Allows Privilege Escalation To Root On All Major Linux Distros Since 2017",
@@ -42,10 +42,10 @@
         "published": "2026-04-30T14:23:19+00:00"
     },
     {
-        "title": "Mitchell Hashimoto says GitHub \u2018no longer for serious work'",
-        "link": "https://www.reddit.com/r/technology/comments/1szqxyi/mitchell_hashimoto_says_github_no_longer_for/",
-        "image": "https://external-preview.redd.it/LojOtw757oUb8daSw8OWCxheEfHGqbOnhC8vbvXS41w.jpeg?width=640&crop=smart&auto=webp&s=7e2c260affd729146721b33f3e013c30f948ac38",
-        "published": "2026-04-30T09:18:22+00:00"
+        "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
+        "link": "https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/",
+        "image": "https://external-preview.redd.it/Wt5JcUFyQnpWwFzJq5DP81pHrThmQzZwjsnQAVKhq2I.jpeg?width=640&crop=smart&auto=webp&s=61067eb8ddb9cf8127f87ccbc5bc3f95d3519c57",
+        "published": "2026-04-30T23:25:38+00:00"
     },
     {
         "title": "Big Tech is about to spend $700 billion on AI this year. No one knows where the buildout ends.",
@@ -54,22 +54,28 @@
         "published": "2026-04-30T20:40:57+00:00"
     },
     {
+        "title": "Mitchell Hashimoto says GitHub \u2018no longer for serious work'",
+        "link": "https://www.reddit.com/r/technology/comments/1szqxyi/mitchell_hashimoto_says_github_no_longer_for/",
+        "image": "https://external-preview.redd.it/LojOtw757oUb8daSw8OWCxheEfHGqbOnhC8vbvXS41w.jpeg?width=640&crop=smart&auto=webp&s=7e2c260affd729146721b33f3e013c30f948ac38",
+        "published": "2026-04-30T09:18:22+00:00"
+    },
+    {
         "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Pitch Demo, Renews Contract Anyway | Residents of Dunwoody, Georgia are furious about the city's surveillance contract with Flock. Do their elected officials care?",
         "link": "https://www.reddit.com/r/technology/comments/1t01tsn/city_learns_flock_accessed_cameras_in_childrens/",
         "image": "https://external-preview.redd.it/Ki3IBHZ8ntX0LdO23xQAeF0EycAT8rOMs2si0j0vh6c.png?width=640&crop=smart&auto=webp&s=957ce277c5933e03dfed91d8617c3e56cd0367db",
         "published": "2026-04-30T16:46:46+00:00"
     },
     {
-        "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online.",
-        "link": "https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/",
-        "image": "https://external-preview.redd.it/SJm-1FrbkEq2QzYFvtsbhKWrpsFyPcyJu3jf6cClWy4.png?width=640&crop=smart&auto=webp&s=b5fc5ace66967bc1dbc8cb3e613a8670ae2b4eb2",
-        "published": "2026-04-30T22:54:09+00:00"
-    },
-    {
         "title": "Microsoft hints at workforce reduction despite 18% revenue hike in Q3 FY26",
         "link": "https://www.reddit.com/r/technology/comments/1szxnv4/microsoft_hints_at_workforce_reduction_despite_18/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-04-30T14:27:46+00:00"
+    },
+    {
+        "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
+        "link": "https://www.reddit.com/r/technology/comments/1t08mm1/reddit_reports_69_jump_in_revenue_topping_analyst/",
+        "image": "https://external-preview.redd.it/uTGFTumXlVrToR7GEVuX76kar8CmzRnI5tC2bIVxnAo.jpeg?width=640&crop=smart&auto=webp&s=82964a88c3e0f7c0641e4a38d65868450ed29d66",
+        "published": "2026-04-30T20:50:47+00:00"
     },
     {
         "title": "Latest round of tech layoffs at Microsoft and Meta shows need for a working class movement to defend jobs",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1t05mkn/attorney_general_says_meta_issues_threat_to_shut/",
         "image": "https://external-preview.redd.it/M8t7TgTKrp9HjDpBmZMYUqQTh3iEJ2P7Ho2ldAtRvVQ.jpeg?width=640&crop=smart&auto=webp&s=8527ede88de02056ec7acdd2b2eac18829bf6b46",
         "published": "2026-04-30T19:02:16+00:00"
-    },
-    {
-        "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-        "link": "https://www.reddit.com/r/technology/comments/1t08mm1/reddit_reports_69_jump_in_revenue_topping_analyst/",
-        "image": "https://external-preview.redd.it/uTGFTumXlVrToR7GEVuX76kar8CmzRnI5tC2bIVxnAo.jpeg?width=640&crop=smart&auto=webp&s=82964a88c3e0f7c0641e4a38d65868450ed29d66",
-        "published": "2026-04-30T20:50:47+00:00"
     }
 ]
