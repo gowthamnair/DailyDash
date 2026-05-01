@@ -12,12 +12,6 @@
         "published": "2026-04-30T17:17:58+00:00"
     },
     {
-        "title": "Mistral Medium 3.5: A reliability first open source model from Europe",
-        "link": "https://www.reddit.com/r/singularity/comments/1szno73/mistral_medium_35_a_reliability_first_open_source/",
-        "image": "https://preview.redd.it/nbw5rjndr9yg1.png?width=640&crop=smart&auto=webp&s=3730ad72e0947ffdfe9b00fd9b446d9af6d3245f",
-        "published": "2026-04-30T06:09:47+00:00"
-    },
-    {
         "title": "Claude Mythos supports Image outputs - Anthropic's first image gen model",
         "link": "https://www.reddit.com/r/singularity/comments/1szzz9e/claude_mythos_supports_image_outputs_anthropics/",
         "image": "https://preview.redd.it/u1ik0uejlcyg1.png?width=140&height=85&auto=webp&s=68be668f88e81e28569d71ad1d0df5473009087f",
@@ -28,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t0e97a/anthropics_head_of_product_anthropics_head_of/",
         "image": "https://preview.redd.it/qsi6neyf9fyg1.jpeg?width=640&crop=smart&auto=webp&s=644cf28f6ed5ad24063ebdf9eb6c0730fe9f0dc2",
         "published": "2026-05-01T00:43:31+00:00"
-    },
-    {
-        "title": "Elon Musk confirms xAI \"partly\" distilled OpenAI\u2019s models to train Grok",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0i9ve/elon_musk_confirms_xai_partly_distilled_openais/",
-        "image": "https://external-preview.redd.it/xzlz-x_HAcYq1JjFJsql4FjNhPKjEiwcYLrf_NJHLFU.jpeg?width=640&crop=smart&auto=webp&s=4442d2fda928ecead5f4efe4e50d5d4c27e18eb5",
-        "published": "2026-05-01T03:50:06+00:00"
     },
     {
         "title": "Amid the race to build humanoid robots, it\u2019s now 1X's turn to showcase its NEO factory",
@@ -58,5 +46,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t0bdh3/grok_43_is_out_in_the_api/",
         "image": "https://preview.redd.it/nlkcsyc1oeyg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cf4f9208f390ad1722c86e4ea2334ab5175f8c56",
         "published": "2026-04-30T22:38:54+00:00"
+    },
+    {
+        "title": "Grok 4.3 achieves higher overall intelligence over 4.20 with less of a cost, at the price of slightly higher hallucination rate.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t0m9yt/grok_43_achieves_higher_overall_intelligence_over/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-01T07:21:26+00:00"
     }
 ]
