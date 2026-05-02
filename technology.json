@@ -1,11 +1,5 @@
 [
     {
-        "title": "Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage",
-        "link": "https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/",
-        "image": "https://external-preview.redd.it/wRSIlmxUc0INKE94k3eZcIJ8HiCsW6UsS6GMfIwexsU.jpeg?width=640&crop=smart&auto=webp&s=6718b4f50afd070338a19387e3b5d0a2576b1f61",
-        "published": "2026-05-01T11:49:13+00:00"
-    },
-    {
         "title": "Palantir Workers Are Finally Noticing The Skulls On Their Caps",
         "link": "https://www.reddit.com/r/technology/comments/1t14elk/palantir_workers_are_finally_noticing_the_skulls/",
         "image": "https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&crop=smart&auto=webp&s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61",
@@ -72,12 +66,6 @@
         "published": "2026-05-01T15:23:02+00:00"
     },
     {
-        "title": "YouTube has quietly become the backbone of US classrooms",
-        "link": "https://www.reddit.com/r/technology/comments/1t0scyk/youtube_has_quietly_become_the_backbone_of_us/",
-        "image": "https://external-preview.redd.it/y6snt2BlG_FJCpuy8nMGZXqxcduaZwQyLd1pwyCGhzg.jpeg?width=640&crop=smart&auto=webp&s=7d1a1950cef153a37b742757338d37cae8b8cc24",
-        "published": "2026-05-01T12:43:04+00:00"
-    },
-    {
         "title": "AI actors and writers will not be eligible for Oscars, Academy says",
         "link": "https://www.reddit.com/r/technology/comments/1t1cbtg/ai_actors_and_writers_will_not_be_eligible_for/",
         "image": "https://external-preview.redd.it/F51Xdg7isNTu2Ei0YcjLHzyTkuCbn-uWdujwLzzrf1Q.jpeg?width=640&crop=smart&auto=webp&s=6e4438a4aa758c7179d3fa0117d78c88e82c5de0",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1t0x5yu/meta_raises_specter_of_shutting_down_service_to/",
         "image": "https://external-preview.redd.it/FvGud7QXCnztYs0nhuipcFIT1NzpFQO5OnrDvXHDAzs.jpeg?width=640&crop=smart&auto=webp&s=c0ed09fd24840b259d9328333f8500f6cddb5a3a",
         "published": "2026-05-01T15:47:07+00:00"
+    },
+    {
+        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+        "link": "https://www.reddit.com/r/technology/comments/1t1bkqt/a_darkmoney_campaign_is_paying_influencers_to/",
+        "image": "https://external-preview.redd.it/XmVFE6Y5RHGUbmRP3DttJb_U5RidPMqrOa6xgTcWXYg.jpeg?width=640&crop=smart&auto=webp&s=ce7e559a6f65d1849ae084800df0e061f268fe10",
+        "published": "2026-05-02T01:05:09+00:00"
+    },
+    {
+        "title": "Microsoft explains why Windows 11 KB5083631, KB5083769 are making systems restart more times",
+        "link": "https://www.reddit.com/r/technology/comments/1t0xese/microsoft_explains_why_windows_11_kb5083631/",
+        "image": "https://external-preview.redd.it/DA1tCpEVDJHACSxU2X4V8QPSDLJiPj7qK5Vb7ztjPXw.jpeg?width=640&crop=smart&auto=webp&s=4b889576f1bb0435b18460f863f7398418052ad7",
+        "published": "2026-05-01T15:55:57+00:00"
     }
 ]
