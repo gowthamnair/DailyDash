@@ -12,12 +12,6 @@
         "published": "2026-05-01T20:08:35+00:00"
     },
     {
-        "title": "Anthropic's Head of Product: Anthropic's Head of Product (summary here), she is stating that \"The timelines for a lot of our product features have gone down from six month to one month and sometimes to even one day\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0e97a/anthropics_head_of_product_anthropics_head_of/",
-        "image": "https://preview.redd.it/qsi6neyf9fyg1.jpeg?width=640&crop=smart&auto=webp&s=644cf28f6ed5ad24063ebdf9eb6c0730fe9f0dc2",
-        "published": "2026-05-01T00:43:31+00:00"
-    },
-    {
         "title": "My dream of a fully generative game is getting pretty close to possible now. I made a demo where you can prompt any spell and fight online.",
         "link": "https://www.reddit.com/r/singularity/comments/1t0ull1/my_dream_of_a_fully_generative_game_is_getting/",
         "image": "https://external-preview.redd.it/bngydGwxdG45anlnMR2otDzi9qs7F2cfsml-HXtGPIKAOJWuetVMYIPU3oq0.png?width=640&crop=smart&auto=webp&s=332e2d0d3f99b14b58437c7ea81a7faaba3bc2c5",
@@ -42,16 +36,22 @@
         "published": "2026-05-01T19:48:14+00:00"
     },
     {
-        "title": "Automating Neurosurgery with Robotics | Neuralink",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0y7q9/automating_neurosurgery_with_robotics_neuralink/",
-        "image": "https://external-preview.redd.it/2OHhOiHkfHujw8zVO_bXnr33j7rToWbpEiXq95Q3AAU.jpeg?width=320&crop=smart&auto=webp&s=0aa6ef46a62d4c2e538df77cb31669cb8d933016",
-        "published": "2026-05-01T16:24:05+00:00"
+        "title": "ARC-AGI-3 Update (GPT-5.5 High and Opus4.7)",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1acet/arcagi3_update_gpt55_high_and_opus47/",
+        "image": "https://preview.redd.it/rtngsx0s8myg1.jpeg?width=640&crop=smart&auto=webp&s=d4a83f124460e69281e36b696397189166f9bfbb",
+        "published": "2026-05-02T00:08:08+00:00"
     },
     {
         "title": "Grok 4.3 underperforms Grok 4.20 0309 on the Extended NYT Connections Benchmark, dropping from 93.4 to 67.5, though it achieves this result at a lower cost than the earlier Grok 4.20 run",
         "link": "https://www.reddit.com/r/singularity/comments/1t17uy9/grok_43_underperforms_grok_420_0309_on_the/",
         "image": "https://preview.redd.it/29nxu96eplyg1.png?width=140&height=102&auto=webp&s=661ccb4e15ac45688301947095731ae153c57eca",
         "published": "2026-05-01T22:21:28+00:00"
+    },
+    {
+        "title": "Automating Neurosurgery with Robotics | Neuralink",
+        "link": "https://www.reddit.com/r/singularity/comments/1t0y7q9/automating_neurosurgery_with_robotics_neuralink/",
+        "image": "https://external-preview.redd.it/2OHhOiHkfHujw8zVO_bXnr33j7rToWbpEiXq95Q3AAU.jpeg?width=320&crop=smart&auto=webp&s=0aa6ef46a62d4c2e538df77cb31669cb8d933016",
+        "published": "2026-05-01T16:24:05+00:00"
     },
     {
         "title": "Scaling the physical Singularity: Autonomous 18-wheelers are no longer a 'pilot project'",
@@ -64,6 +64,18 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t13rei/figures_first_full_hq_tour_from_the_lab_to_the/",
         "image": "https://external-preview.redd.it/YFSMrq-G47WGB6_l9HqxsqJeiGTCcaCd2E3o7pVVuiE.jpeg?width=320&crop=smart&auto=webp&s=707e3175aa4008d95d04ce2e71d06dbae7ef12d3",
         "published": "2026-05-01T19:43:41+00:00"
+    },
+    {
+        "title": "Anthropic Won't Let You Use Their Best Model. Prediction Markets Are Trying Anyway.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1aj57/anthropic_wont_let_you_use_their_best_model/",
+        "image": "https://external-preview.redd.it/w_sU67cSLMwsUZpU0wWrFFsrb0MAH-UYKrj2_drO_I8.png?width=640&crop=smart&auto=webp&s=5ff67b986a69103ec910b4281c8c5eddf01c7d32",
+        "published": "2026-05-02T00:16:36+00:00"
+    },
+    {
+        "title": "The Blank Architecture: On De Novo Connectomes, Virtual Environments, and the Development of Mind Without Precedent | by NBM House Books",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1b3ej/the_blank_architecture_on_de_novo_connectomes/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-02T00:42:55+00:00"
     },
     {
         "title": "Do you think people might start calling \u201cClaude\u201d as an insult for someone who relies a lot on AI, as these tools become more common?",
