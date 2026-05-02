@@ -1,11 +1,5 @@
 [
     {
-        "title": "Palantir Workers Are Finally Noticing The Skulls On Their Caps",
-        "link": "https://www.reddit.com/r/technology/comments/1t14elk/palantir_workers_are_finally_noticing_the_skulls/",
-        "image": "https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&crop=smart&auto=webp&s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61",
-        "published": "2026-05-01T20:07:29+00:00"
-    },
-    {
         "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene",
         "link": "https://www.reddit.com/r/technology/comments/1t1dz4e/chatgpt_became_so_obsessed_with_goblins_that/",
         "image": "https://external-preview.redd.it/d8Rf8vJU6Axif_sN1YdRLNYjT9YnL9-E7IKfuIBV-Nk.jpeg?width=640&crop=smart&auto=webp&s=08f8f8152853ff36b24ca970213827507e7da832",
@@ -66,6 +60,12 @@
         "published": "2026-05-02T14:05:37+00:00"
     },
     {
+        "title": "Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action \u2014 OrcaSlicer-BambuLab project now shuttered",
+        "link": "https://www.reddit.com/r/technology/comments/1t1whp8/developer_reenables_3d_printer_features_that/",
+        "image": "https://external-preview.redd.it/YfYFNpdWUCi-9sQvv_eGGvoD0Va39EV5iZ5vpGKDI1Y.png?width=640&crop=smart&auto=webp&s=9da74dfdffce1d1a52d65587c90b992ef4158940",
+        "published": "2026-05-02T17:42:52+00:00"
+    },
+    {
         "title": "Waymos, robotaxis can now be ticketed by California police. But how exactly?",
         "link": "https://www.reddit.com/r/technology/comments/1t1mxk1/waymos_robotaxis_can_now_be_ticketed_by/",
         "image": "https://external-preview.redd.it/mLD1IgkeYA-EiKKfO1QxmLEp2x1uCck5bXhaDcwccQw.jpeg?width=640&crop=smart&auto=webp&s=71541e0963e393945952e6ab8d2a18d603fa1cd0",
@@ -84,9 +84,9 @@
         "published": "2026-05-02T01:05:09+00:00"
     },
     {
-        "title": "Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action \u2014 OrcaSlicer-BambuLab project now shuttered",
-        "link": "https://www.reddit.com/r/technology/comments/1t1whp8/developer_reenables_3d_printer_features_that/",
-        "image": "https://external-preview.redd.it/YfYFNpdWUCi-9sQvv_eGGvoD0Va39EV5iZ5vpGKDI1Y.png?width=640&crop=smart&auto=webp&s=9da74dfdffce1d1a52d65587c90b992ef4158940",
-        "published": "2026-05-02T17:42:52+00:00"
+        "title": "Convicted former Harvard scientist rebuilds brain computer lab in China | Reuters",
+        "link": "https://www.reddit.com/r/technology/comments/1t1gqbn/convicted_former_harvard_scientist_rebuilds_brain/",
+        "image": "https://external-preview.redd.it/kcf9nxaSq8Bf1lOVFGHYDaElnfLoniXMBzgA9bJJMZ4.jpeg?width=640&crop=smart&auto=webp&s=eb43d7be68a5f0266eb3323c59d3669ef0adcd46",
+        "published": "2026-05-02T05:18:07+00:00"
     }
 ]
