@@ -36,16 +36,16 @@
         "published": "2026-05-01T19:48:14+00:00"
     },
     {
-        "title": "Grok 4.3 achieves higher overall intelligence over 4.20 with less of a cost, at the price of slightly higher hallucination rate.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0m9yt/grok_43_achieves_higher_overall_intelligence_over/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-01T07:21:26+00:00"
-    },
-    {
         "title": "Grok 4.3 underperforms Grok 4.20 0309 on the Extended NYT Connections Benchmark, dropping from 93.4 to 67.5, though it achieves this result at a lower cost than the earlier Grok 4.20 run",
         "link": "https://www.reddit.com/r/singularity/comments/1t17uy9/grok_43_underperforms_grok_420_0309_on_the/",
         "image": "https://preview.redd.it/29nxu96eplyg1.png?width=140&height=102&auto=webp&s=661ccb4e15ac45688301947095731ae153c57eca",
         "published": "2026-05-01T22:21:28+00:00"
+    },
+    {
+        "title": "Why is these still no realistic voice model despite huge advancements in AI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1fkal/why_is_these_still_no_realistic_voice_model/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-02T04:17:07+00:00"
     },
     {
         "title": "Scaling the physical Singularity: Autonomous 18-wheelers are no longer a 'pilot project'",
@@ -58,12 +58,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t0y7q9/automating_neurosurgery_with_robotics_neuralink/",
         "image": "https://external-preview.redd.it/2OHhOiHkfHujw8zVO_bXnr33j7rToWbpEiXq95Q3AAU.jpeg?width=320&crop=smart&auto=webp&s=0aa6ef46a62d4c2e538df77cb31669cb8d933016",
         "published": "2026-05-01T16:24:05+00:00"
-    },
-    {
-        "title": "Why is these still no realistic voice model despite huge advancements in AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1fkal/why_is_these_still_no_realistic_voice_model/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-02T04:17:07+00:00"
     },
     {
         "title": "Anthropic Won't Let You Use Their Best Model. Prediction Markets Are Trying Anyway.",
@@ -84,9 +78,9 @@
         "published": "2026-05-01T19:43:41+00:00"
     },
     {
-        "title": "The Blank Architecture: On De Novo Connectomes, Virtual Environments, and the Development of Mind Without Precedent | by NBM House Books",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1b3ej/the_blank_architecture_on_de_novo_connectomes/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-02T00:42:55+00:00"
+        "title": "Grok 4.3: strong in finance and long-context, with some tradeoffs",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1hjeo/grok_43_strong_in_finance_and_longcontext_with/",
+        "image": "https://preview.redd.it/tz5mwymtznyg1.png?width=640&crop=smart&auto=webp&s=195bd82c8a71bd3b70be160a741cab88c70c3507",
+        "published": "2026-05-02T06:01:51+00:00"
     }
 ]
