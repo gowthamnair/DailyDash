@@ -6,12 +6,6 @@
         "published": "2026-05-01T20:08:35+00:00"
     },
     {
-        "title": "My dream of a fully generative game is getting pretty close to possible now. I made a demo where you can prompt any spell and fight online.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t0ull1/my_dream_of_a_fully_generative_game_is_getting/",
-        "image": "https://external-preview.redd.it/bngydGwxdG45anlnMR2otDzi9qs7F2cfsml-HXtGPIKAOJWuetVMYIPU3oq0.png?width=640&crop=smart&auto=webp&s=332e2d0d3f99b14b58437c7ea81a7faaba3bc2c5",
-        "published": "2026-05-01T14:13:01+00:00"
-    },
-    {
         "title": "ARC-AGI-3 Update (GPT-5.5 High and Opus4.7)",
         "link": "https://www.reddit.com/r/singularity/comments/1t1acet/arcagi3_update_gpt55_high_and_opus47/",
         "image": "https://preview.redd.it/rtngsx0s8myg1.jpeg?width=640&crop=smart&auto=webp&s=d4a83f124460e69281e36b696397189166f9bfbb",
@@ -48,6 +42,12 @@
         "published": "2026-05-02T05:58:58+00:00"
     },
     {
+        "title": "Sam Altman has changed his stance on the claims that AI will replace humans.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1pten/sam_altman_has_changed_his_stance_on_the_claims/",
+        "image": "https://preview.redd.it/82zn4jkq6qyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c8766549cb0df349fbaf70e5d3421929f1bae38a",
+        "published": "2026-05-02T13:23:50+00:00"
+    },
+    {
         "title": "Automating Neurosurgery with Robotics | Neuralink",
         "link": "https://www.reddit.com/r/singularity/comments/1t0y7q9/automating_neurosurgery_with_robotics_neuralink/",
         "image": "https://external-preview.redd.it/2OHhOiHkfHujw8zVO_bXnr33j7rToWbpEiXq95Q3AAU.jpeg?width=320&crop=smart&auto=webp&s=0aa6ef46a62d4c2e538df77cb31669cb8d933016",
@@ -72,21 +72,21 @@
         "published": "2026-05-01T19:43:41+00:00"
     },
     {
+        "title": "GPT 5.5 tops private citation benchmark on Kaggle (AbstractToTitle task)",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1qqto/gpt_55_tops_private_citation_benchmark_on_kaggle/",
+        "image": "https://preview.redd.it/ema0k0jadqyg1.png?width=140&height=140&auto=webp&s=92caebd67324fd13d3c8570813729c2284bc45f7",
+        "published": "2026-05-02T14:01:44+00:00"
+    },
+    {
         "title": "Grok 4.3: strong in finance and long-context, with some tradeoffs",
         "link": "https://www.reddit.com/r/singularity/comments/1t1hjeo/grok_43_strong_in_finance_and_longcontext_with/",
         "image": "https://preview.redd.it/tz5mwymtznyg1.png?width=640&crop=smart&auto=webp&s=195bd82c8a71bd3b70be160a741cab88c70c3507",
         "published": "2026-05-02T06:01:51+00:00"
     },
     {
-        "title": "Sam Altman has changed his stance on the claims that AI will replace humans.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1pten/sam_altman_has_changed_his_stance_on_the_claims/",
-        "image": "https://preview.redd.it/82zn4jkq6qyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c8766549cb0df349fbaf70e5d3421929f1bae38a",
-        "published": "2026-05-02T13:23:50+00:00"
-    },
-    {
-        "title": "Real Journalism",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1p8wp/real_journalism/",
-        "image": "https://preview.redd.it/1ulem20e2qyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ed397703003a2a961471ae5c10da7168ea9a2fa7",
-        "published": "2026-05-02T13:00:05+00:00"
+        "title": "What technologies will we realistically see in our lifetimes thanks to artifical intelligence development.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1rosv/what_technologies_will_we_realistically_see_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-02T14:39:16+00:00"
     }
 ]
