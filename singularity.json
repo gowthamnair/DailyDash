@@ -24,6 +24,12 @@
         "published": "2026-05-01T19:48:14+00:00"
     },
     {
+        "title": "Sam Altman has changed his stance on the claims that AI will replace humans.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1pten/sam_altman_has_changed_his_stance_on_the_claims/",
+        "image": "https://preview.redd.it/82zn4jkq6qyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c8766549cb0df349fbaf70e5d3421929f1bae38a",
+        "published": "2026-05-02T13:23:50+00:00"
+    },
+    {
         "title": "Why is these still no realistic voice model despite huge advancements in AI?",
         "link": "https://www.reddit.com/r/singularity/comments/1t1fkal/why_is_these_still_no_realistic_voice_model/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -36,12 +42,6 @@
         "published": "2026-05-02T05:58:58+00:00"
     },
     {
-        "title": "Sam Altman has changed his stance on the claims that AI will replace humans.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1pten/sam_altman_has_changed_his_stance_on_the_claims/",
-        "image": "https://preview.redd.it/82zn4jkq6qyg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c8766549cb0df349fbaf70e5d3421929f1bae38a",
-        "published": "2026-05-02T13:23:50+00:00"
-    },
-    {
         "title": "Grok 4.3 underperforms Grok 4.20 0309 on the Extended NYT Connections Benchmark, dropping from 93.4 to 67.5, though it achieves this result at a lower cost than the earlier Grok 4.20 run",
         "link": "https://www.reddit.com/r/singularity/comments/1t17uy9/grok_43_underperforms_grok_420_0309_on_the/",
         "image": "https://preview.redd.it/29nxu96eplyg1.png?width=140&height=102&auto=webp&s=661ccb4e15ac45688301947095731ae153c57eca",
@@ -52,6 +52,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t1sh8h/llms_do_fine_on_arcagi3_if_they_are_allowed_to/",
         "image": "https://preview.redd.it/kga97l39oqyg1.png?width=140&height=54&auto=webp&s=9db57722066d1961fee5584208c8c59f0585ce03",
         "published": "2026-05-02T15:09:34+00:00"
+    },
+    {
+        "title": "GPT speak - it's everywhere",
+        "link": "https://www.reddit.com/r/singularity/comments/1t1vily/gpt_speak_its_everywhere/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-02T17:06:33+00:00"
     },
     {
         "title": "Scaling the physical Singularity: Autonomous 18-wheelers are no longer a 'pilot project'",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t13rei/figures_first_full_hq_tour_from_the_lab_to_the/",
         "image": "https://external-preview.redd.it/YFSMrq-G47WGB6_l9HqxsqJeiGTCcaCd2E3o7pVVuiE.jpeg?width=320&crop=smart&auto=webp&s=707e3175aa4008d95d04ce2e71d06dbae7ef12d3",
         "published": "2026-05-01T19:43:41+00:00"
-    },
-    {
-        "title": "Grok 4.3: strong in finance and long-context, with some tradeoffs",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1hjeo/grok_43_strong_in_finance_and_longcontext_with/",
-        "image": "https://preview.redd.it/tz5mwymtznyg1.png?width=640&crop=smart&auto=webp&s=195bd82c8a71bd3b70be160a741cab88c70c3507",
-        "published": "2026-05-02T06:01:51+00:00"
     }
 ]
