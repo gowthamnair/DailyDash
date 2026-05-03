@@ -1,11 +1,5 @@
 [
     {
-        "title": "Ask.com shuts down after nearly 30 years, marking the end of Ask Jeeves",
-        "link": "https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/",
-        "image": "https://external-preview.redd.it/FYiaoXa079xqj76HCIsRNgP6D25D2t4xjxa0UQoAcoI.jpeg?width=640&crop=smart&auto=webp&s=6992cf86ced36655e96d329b1f08cb1b6db594cb",
-        "published": "2026-05-02T16:53:42+00:00"
-    },
-    {
         "title": "Jensen Huang says Nvidia now has 'zero percent' market share in China \u2014 says US export policy 'has already largely backfired'",
         "link": "https://www.reddit.com/r/technology/comments/1t2jx8v/jensen_huang_says_nvidia_now_has_zero_percent/",
         "image": "https://external-preview.redd.it/L5fxq-xawmujVaUmN7p9Efz8zRDi9f16nIO3jLRUXRY.png?width=640&crop=smart&auto=webp&s=f9455b7b8585d94984874ffd0d53f711cb608790",
@@ -60,6 +54,18 @@
         "published": "2026-05-02T23:34:27+00:00"
     },
     {
+        "title": "Utah first state to hold websites liable for users who mask their location with VPNs \u2014 law goes into effect, designed to prevent bypassing age checks",
+        "link": "https://www.reddit.com/r/technology/comments/1t2oy0q/utah_first_state_to_hold_websites_liable_for/",
+        "image": "https://external-preview.redd.it/nvZcOyYPn0t2IitlYJvR59zb5q2G00TtK6f-VKF63xI.jpeg?width=640&crop=smart&auto=webp&s=ea97d12828c2e16e7cf79cea9af2921a24aa411e",
+        "published": "2026-05-03T15:44:30+00:00"
+    },
+    {
+        "title": "\u2018Silicon Six\u2019 accused of avoiding almost $278bn in US corporation taxes over 10 years | US taxation",
+        "link": "https://www.reddit.com/r/technology/comments/1t2pbhz/silicon_six_accused_of_avoiding_almost_278bn_in/",
+        "image": "https://external-preview.redd.it/c8EjY8TNdSOmZyTiHuMyDSoi7yND0aSuuHDBlT1WeNE.jpeg?width=640&crop=smart&auto=webp&s=fd56b041c2a50af757b85a2b713b0812470a1159",
+        "published": "2026-05-03T15:58:59+00:00"
+    },
+    {
         "title": "Meta\u2019s historic loss in court could cost a lot more than $375 million",
         "link": "https://www.reddit.com/r/technology/comments/1t1zjl1/metas_historic_loss_in_court_could_cost_a_lot/",
         "image": "https://external-preview.redd.it/Vc7cC1pczr3CH2Pt-5qW4hCF9iPPUzKlFi4aGd9z7do.jpeg?width=640&crop=smart&auto=webp&s=5f8f8b99bc72383bb56b91e48b8beac8be5c8bf3",
@@ -72,21 +78,15 @@
         "published": "2026-05-03T00:34:44+00:00"
     },
     {
-        "title": "Utah first state to hold websites liable for users who mask their location with VPNs \u2014 law goes into effect, designed to prevent bypassing age checks",
-        "link": "https://www.reddit.com/r/technology/comments/1t2oy0q/utah_first_state_to_hold_websites_liable_for/",
-        "image": "https://external-preview.redd.it/nvZcOyYPn0t2IitlYJvR59zb5q2G00TtK6f-VKF63xI.jpeg?width=640&crop=smart&auto=webp&s=ea97d12828c2e16e7cf79cea9af2921a24aa411e",
-        "published": "2026-05-03T15:44:30+00:00"
-    },
-    {
         "title": "Microsoft Update Warning\u2014Windows 11 Security Fix Breaks Backups",
         "link": "https://www.reddit.com/r/technology/comments/1t1y9ji/microsoft_update_warningwindows_11_security_fix/",
         "image": "https://external-preview.redd.it/jwqENpD0IZ7Fjljwh2TkIcOIKePtt4sL5iaEo2c3HA4.jpeg?width=640&crop=smart&auto=webp&s=59c57192ae2cb358560eb9ace79305a95531db7f",
         "published": "2026-05-02T18:49:22+00:00"
     },
     {
-        "title": "\u2018Silicon Six\u2019 accused of avoiding almost $278bn in US corporation taxes over 10 years | US taxation",
-        "link": "https://www.reddit.com/r/technology/comments/1t2pbhz/silicon_six_accused_of_avoiding_almost_278bn_in/",
-        "image": "https://external-preview.redd.it/c8EjY8TNdSOmZyTiHuMyDSoi7yND0aSuuHDBlT1WeNE.jpeg?width=640&crop=smart&auto=webp&s=fd56b041c2a50af757b85a2b713b0812470a1159",
-        "published": "2026-05-03T15:58:59+00:00"
+        "title": "A new US phone network for Christians aims to block porn and gender-related content",
+        "link": "https://www.reddit.com/r/technology/comments/1t2kxjs/a_new_us_phone_network_for_christians_aims_to/",
+        "image": "https://external-preview.redd.it/pL36jiimZ8QbOYWmSCp65wuRpqZsDalLV7H3nbJVBDU.jpeg?width=640&crop=smart&auto=webp&s=b449700ae0ceb3d9491c69c026555488f53d8da8",
+        "published": "2026-05-03T13:03:59+00:00"
     }
 ]
