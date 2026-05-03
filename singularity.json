@@ -36,16 +36,22 @@
         "published": "2026-05-03T07:29:22+00:00"
     },
     {
+        "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2rvs1/andrej_karpathy_from_vibe_coding_to_agentic/",
+        "image": "https://external-preview.redd.it/FRZCyQb3cqoVNmns2m3Vf-xbSAU6msz94-V7wbuNigM.jpeg?width=320&crop=smart&auto=webp&s=856938cc8c78fc3b268c77e00e62b87813d912f6",
+        "published": "2026-05-03T17:34:27+00:00"
+    },
+    {
         "title": "AI systems increasingly ignore human instructions",
         "link": "https://www.reddit.com/r/singularity/comments/1t2cpfp/ai_systems_increasingly_ignore_human_instructions/",
         "image": "https://preview.redd.it/gy2pvzqyyuyg1.jpg?width=140&height=102&auto=webp&s=b174c98fad616e9df7e241eb613b92715eebdf29",
         "published": "2026-05-03T05:36:45+00:00"
     },
     {
-        "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2rvs1/andrej_karpathy_from_vibe_coding_to_agentic/",
-        "image": "https://external-preview.redd.it/FRZCyQb3cqoVNmns2m3Vf-xbSAU6msz94-V7wbuNigM.jpeg?width=320&crop=smart&auto=webp&s=856938cc8c78fc3b268c77e00e62b87813d912f6",
-        "published": "2026-05-03T17:34:27+00:00"
+        "title": "These are the benchmark results for Gemma4 E4B tested on my iPhone 16 Pro.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2v9u3/these_are_the_benchmark_results_for_gemma4_e4b/",
+        "image": "https://preview.redd.it/bb8npp7l6zyg1.jpg?width=140&height=102&auto=webp&s=e709f65ff534f18088cc9af6a0de7ec96cb72781",
+        "published": "2026-05-03T19:39:15+00:00"
     },
     {
         "title": "Everything I Learned Training Frontier Small Models \u2014 Maxime Labonne, Liquid AI",
@@ -58,12 +64,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t2pvzy/google_creates_strike_team_to_improve_coding/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-03T16:20:24+00:00"
-    },
-    {
-        "title": "These are the benchmark results for Gemma4 E4B tested on my iPhone 16 Pro.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2v9u3/these_are_the_benchmark_results_for_gemma4_e4b/",
-        "image": "https://preview.redd.it/bb8npp7l6zyg1.jpg?width=140&height=102&auto=webp&s=e709f65ff534f18088cc9af6a0de7ec96cb72781",
-        "published": "2026-05-03T19:39:15+00:00"
     },
     {
         "title": "Low-power differencing feature extracts spiking-band activities for high-performance intracortical brain-computer interfaces",

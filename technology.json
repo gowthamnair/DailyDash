@@ -30,12 +30,6 @@
         "published": "2026-05-03T15:58:59+00:00"
     },
     {
-        "title": "San Jose passenger claims a Waymo drove off with his luggage at the airport | A man says the Waymo he rode to San Jose Mineta Airport drove away with his luggage in the trunk",
-        "link": "https://www.reddit.com/r/technology/comments/1t21rtt/san_jose_passenger_claims_a_waymo_drove_off_with/",
-        "image": "https://external-preview.redd.it/_-2WaMwseClF9wqPRB8YtsU9_3FZHbUrCX9RMSrD1bg.jpeg?width=640&crop=smart&auto=webp&s=5b1a7748f2fa47d4c817ecaff7d42dcb1d2e11b5",
-        "published": "2026-05-02T21:04:38+00:00"
-    },
-    {
         "title": "Utah first state to hold websites liable for users who mask their location with VPNs \u2014 law goes into effect, designed to prevent bypassing age checks",
         "link": "https://www.reddit.com/r/technology/comments/1t2oy0q/utah_first_state_to_hold_websites_liable_for/",
         "image": "https://external-preview.redd.it/nvZcOyYPn0t2IitlYJvR59zb5q2G00TtK6f-VKF63xI.jpeg?width=640&crop=smart&auto=webp&s=ea97d12828c2e16e7cf79cea9af2921a24aa411e",
@@ -60,16 +54,16 @@
         "published": "2026-05-02T23:34:27+00:00"
     },
     {
-        "title": "Scientists Develop New Antibody For Virus That Infects 95% of People",
-        "link": "https://www.reddit.com/r/technology/comments/1t26m78/scientists_develop_new_antibody_for_virus_that/",
-        "image": "https://external-preview.redd.it/5lp76w9WkhnxF_oClDOeayKHi85YYS7fEibPqsDdtYM.jpeg?width=640&crop=smart&auto=webp&s=264943f921d8f685be6bc0adeb2c2357f682d0ab",
-        "published": "2026-05-03T00:34:44+00:00"
-    },
-    {
         "title": "Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions \u2014 $2,000 expendable combat drones cost less than some gaming PCs",
         "link": "https://www.reddit.com/r/technology/comments/1t2sp37/japan_is_deploying_ultracheap_cardboard_drones/",
         "image": "https://external-preview.redd.it/EFYMVBxj6ehyg_0x6-ptHBPLC71Vz4VeYkwDt_eawYA.png?width=640&crop=smart&auto=webp&s=9904ed5a24b826b17876d6cd1026912d8e6c721f",
         "published": "2026-05-03T18:04:22+00:00"
+    },
+    {
+        "title": "Scientists Develop New Antibody For Virus That Infects 95% of People",
+        "link": "https://www.reddit.com/r/technology/comments/1t26m78/scientists_develop_new_antibody_for_virus_that/",
+        "image": "https://external-preview.redd.it/5lp76w9WkhnxF_oClDOeayKHi85YYS7fEibPqsDdtYM.jpeg?width=640&crop=smart&auto=webp&s=264943f921d8f685be6bc0adeb2c2357f682d0ab",
+        "published": "2026-05-03T00:34:44+00:00"
     },
     {
         "title": "For the average price of a car in the US, you could buy 5 new Chinese EVs",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1t2ojbc/its_time_to_tax_ai_slop_we_are_stuck_in_a_deluge/",
         "image": "https://external-preview.redd.it/PfyXguQUfGpIPGRUAs2ycP8-oeoiQ2xhbDNGKMEwjL4.jpeg?width=640&crop=smart&auto=webp&s=037ecacf406bfa57c3d930be5e32850b4b031c9f",
         "published": "2026-05-03T15:29:01+00:00"
+    },
+    {
+        "title": "California police can start ticketing driverless cars this July",
+        "link": "https://www.reddit.com/r/technology/comments/1t2av9u/california_police_can_start_ticketing_driverless/",
+        "image": "https://external-preview.redd.it/tNucCr7kwvYlBK4uJbzMJ4URbAHzayn3Psgr0V_BbAY.jpeg?width=640&crop=smart&auto=webp&s=b1ab9d5abc60935571fa9de66b6ebb3570024f62",
+        "published": "2026-05-03T04:00:01+00:00"
     }
 ]
