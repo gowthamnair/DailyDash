@@ -60,6 +60,12 @@
         "published": "2026-05-02T19:12:26+00:00"
     },
     {
+        "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2rvs1/andrej_karpathy_from_vibe_coding_to_agentic/",
+        "image": "https://external-preview.redd.it/FRZCyQb3cqoVNmns2m3Vf-xbSAU6msz94-V7wbuNigM.jpeg?width=320&crop=smart&auto=webp&s=856938cc8c78fc3b268c77e00e62b87813d912f6",
+        "published": "2026-05-03T17:34:27+00:00"
+    },
+    {
         "title": "Everything I Learned Training Frontier Small Models \u2014 Maxime Labonne, Liquid AI",
         "link": "https://www.reddit.com/r/singularity/comments/1t2h6ea/everything_i_learned_training_frontier_small/",
         "image": "https://external-preview.redd.it/dR0LuoymEHKWB61BCZnQ7skf-6b79f8xiN5jbWYE6Pw.jpeg?width=320&crop=smart&auto=webp&s=012ebd3ddc259f987fc4ff4e268557d42a32d19b",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t2qlu9/could_an_ai_like_mythos_build_a_real_life/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-03T16:47:28+00:00"
-    },
-    {
-        "title": "Doctors are basically useless",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2qw2a/doctors_are_basically_useless/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-03T16:58:07+00:00"
     }
 ]
