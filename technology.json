@@ -24,6 +24,12 @@
         "published": "2026-05-02T21:04:38+00:00"
     },
     {
+        "title": "Valve CEO Gabe Newell was an enthusiastic supporter of OpenAI in 2018, donating $20 million and even acting as the sole member of an \"informal advisory board\"",
+        "link": "https://www.reddit.com/r/technology/comments/1t2d1iu/valve_ceo_gabe_newell_was_an_enthusiastic/",
+        "image": "https://external-preview.redd.it/tTgU8LoxovirbojmL55G-VQCcmq7fD2W836Hz2AsiTE.jpeg?width=640&crop=smart&auto=webp&s=a60af48b9d168bde7e49833a70a10a87ea5f09ef",
+        "published": "2026-05-03T05:55:14+00:00"
+    },
+    {
         "title": "Anxiety around AI is growing rapidly in the US, research shows",
         "link": "https://www.reddit.com/r/technology/comments/1t1u5do/anxiety_around_ai_is_growing_rapidly_in_the_us/",
         "image": "https://external-preview.redd.it/fReZvJcIiKxlA4EKXdJ_KMv0kIwyTDp9jLeTrbElakk.jpeg?width=640&crop=smart&auto=webp&s=bdef900fa14529ddeae9b50bbb92b92f1a9134eb",
@@ -40,12 +46,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1t245v3/a_doge_affiliate_is_now_in_charge_of_the_us/",
         "image": "https://external-preview.redd.it/ZIHS5aEe_24j8RuD7mLBYECCttMqdYbkTSfpwFEtVoE.jpeg?width=640&crop=smart&auto=webp&s=27b7972a27741d616125e2ffda49f16c73fffc21",
         "published": "2026-05-02T22:44:03+00:00"
-    },
-    {
-        "title": "Valve CEO Gabe Newell was an enthusiastic supporter of OpenAI in 2018, donating $20 million and even acting as the sole member of an \"informal advisory board\"",
-        "link": "https://www.reddit.com/r/technology/comments/1t2d1iu/valve_ceo_gabe_newell_was_an_enthusiastic/",
-        "image": "https://external-preview.redd.it/tTgU8LoxovirbojmL55G-VQCcmq7fD2W836Hz2AsiTE.jpeg?width=640&crop=smart&auto=webp&s=a60af48b9d168bde7e49833a70a10a87ea5f09ef",
-        "published": "2026-05-03T05:55:14+00:00"
     },
     {
         "title": "Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action \u2014 OrcaSlicer-BambuLab project now shuttered",
@@ -78,15 +78,15 @@
         "published": "2026-05-02T19:37:39+00:00"
     },
     {
-        "title": "Waymos, robotaxis can now be ticketed by California police. But how exactly?",
-        "link": "https://www.reddit.com/r/technology/comments/1t1mxk1/waymos_robotaxis_can_now_be_ticketed_by/",
-        "image": "https://external-preview.redd.it/mLD1IgkeYA-EiKKfO1QxmLEp2x1uCck5bXhaDcwccQw.jpeg?width=640&crop=smart&auto=webp&s=71541e0963e393945952e6ab8d2a18d603fa1cd0",
-        "published": "2026-05-02T11:08:03+00:00"
-    },
-    {
         "title": "Scientists Develop New Antibody For Virus That Infects 95% of People",
         "link": "https://www.reddit.com/r/technology/comments/1t26m78/scientists_develop_new_antibody_for_virus_that/",
         "image": "https://external-preview.redd.it/5lp76w9WkhnxF_oClDOeayKHi85YYS7fEibPqsDdtYM.jpeg?width=640&crop=smart&auto=webp&s=264943f921d8f685be6bc0adeb2c2357f682d0ab",
         "published": "2026-05-03T00:34:44+00:00"
+    },
+    {
+        "title": "Microsoft Update Warning\u2014Windows 11 Security Fix Breaks Backups",
+        "link": "https://www.reddit.com/r/technology/comments/1t1y9ji/microsoft_update_warningwindows_11_security_fix/",
+        "image": "https://external-preview.redd.it/jwqENpD0IZ7Fjljwh2TkIcOIKePtt4sL5iaEo2c3HA4.jpeg?width=640&crop=smart&auto=webp&s=59c57192ae2cb358560eb9ace79305a95531db7f",
+        "published": "2026-05-02T18:49:22+00:00"
     }
 ]
