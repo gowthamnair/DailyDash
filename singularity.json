@@ -1,11 +1,5 @@
 [
     {
-        "title": "Robots in the hands of dictatorial governments will not end well...",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1yb2g/robots_in_the_hands_of_dictatorial_governments/",
-        "image": "https://external-preview.redd.it/NHpsOW94bTN0cnlnMSziwV-UXZBWjubZ8-YjjaftsGydHl2-jczD8UJmJRvT.png?width=320&crop=smart&auto=webp&s=b0cb6cfa7e5c0c88ef64b582eaf4c492ffd1a598",
-        "published": "2026-05-02T18:50:57+00:00"
-    },
-    {
         "title": "Software engineering jobs hit their highest posting since november 2023",
         "link": "https://www.reddit.com/r/singularity/comments/1t2626j/software_engineering_jobs_hit_their_highest/",
         "image": "https://preview.redd.it/ppafg82vdtyg1.jpeg?width=640&crop=smart&auto=webp&s=01e689bc50ad7785aff035dc2ef59e70227da86c",
@@ -16,12 +10,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t2n0kv/google_io_leaks_geminis_omni_and_gemini_3235/",
         "image": "https://preview.redd.it/5ilch8whnxyg1.png?width=640&crop=smart&auto=webp&s=6601e3037e45c60b98cf7517857d56af78813c16",
         "published": "2026-05-03T14:30:53+00:00"
-    },
-    {
-        "title": "With shipments expected later this year and 10,000 units planned for 2027, the 1X CEO says he would like NEO to take a cab and show up at your home, knocking on the door.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1zlrn/with_shipments_expected_later_this_year_and_10000/",
-        "image": "https://external-preview.redd.it/ZHhzcWEyM3Uxc3lnMcZ8cJZyX0FxXTyOp0hBnyImNjIo1uRPIEvYL7UNwwEf.png?width=640&crop=smart&auto=webp&s=7fcef6b0f3728d2dd018e2327ea95f6b34e914ea",
-        "published": "2026-05-02T19:40:00+00:00"
     },
     {
         "title": "What if ChatGPT launched in 1998",
@@ -54,12 +42,6 @@
         "published": "2026-05-03T05:36:45+00:00"
     },
     {
-        "title": "Would it ever be possible to fully solve the language barrier with AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t1yvqh/would_it_ever_be_possible_to_fully_solve_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-02T19:12:26+00:00"
-    },
-    {
         "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
         "link": "https://www.reddit.com/r/singularity/comments/1t2rvs1/andrej_karpathy_from_vibe_coding_to_agentic/",
         "image": "https://external-preview.redd.it/FRZCyQb3cqoVNmns2m3Vf-xbSAU6msz94-V7wbuNigM.jpeg?width=320&crop=smart&auto=webp&s=856938cc8c78fc3b268c77e00e62b87813d912f6",
@@ -78,6 +60,12 @@
         "published": "2026-05-03T16:20:24+00:00"
     },
     {
+        "title": "Low-power differencing feature extracts spiking-band activities for high-performance intracortical brain-computer interfaces",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2tx2f/lowpower_differencing_feature_extracts/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-03T18:49:28+00:00"
+    },
+    {
         "title": "I've been wondering, why can't AI navigate and be productive in a Windows environment despite being a top tier programmer and software engineer?",
         "link": "https://www.reddit.com/r/singularity/comments/1t2olbj/ive_been_wondering_why_cant_ai_navigate_and_be/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t2qlu9/could_an_ai_like_mythos_build_a_real_life/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-03T16:47:28+00:00"
+    },
+    {
+        "title": "Doctors are basically useless",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2qw2a/doctors_are_basically_useless/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-03T16:58:07+00:00"
+    },
+    {
+        "title": "My opinion about AI has changed in the last year from acceptable to: it's really getting Bad.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2qcm1/my_opinion_about_ai_has_changed_in_the_last_year/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-03T16:37:46+00:00"
     }
 ]
