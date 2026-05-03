@@ -6,6 +6,12 @@
         "published": "2026-05-02T16:53:42+00:00"
     },
     {
+        "title": "Jensen Huang says Nvidia now has 'zero percent' market share in China \u2014 says US export policy 'has already largely backfired'",
+        "link": "https://www.reddit.com/r/technology/comments/1t2jx8v/jensen_huang_says_nvidia_now_has_zero_percent/",
+        "image": "https://external-preview.redd.it/L5fxq-xawmujVaUmN7p9Efz8zRDi9f16nIO3jLRUXRY.png?width=640&crop=smart&auto=webp&s=f9455b7b8585d94984874ffd0d53f711cb608790",
+        "published": "2026-05-03T12:19:27+00:00"
+    },
+    {
         "title": "FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns \u2014 ruling would affect 75 percent of US-bound devices",
         "link": "https://www.reddit.com/r/technology/comments/1t22tm2/fcc_votes_to_ban_all_chinese_labs_from_certifying/",
         "image": "https://external-preview.redd.it/640RbA8aBiBD6juDgJ2EWqXI3jrvDm5_UPoeXvNynfg.jpeg?width=640&crop=smart&auto=webp&s=75f68d0cf47ea34f500362a8aa4400fc6ad9ee35",
@@ -16,12 +22,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1t2498y/apple_was_caught_off_guard_by_macbook_neos_off/",
         "image": "https://external-preview.redd.it/xvy-2uv5Jh22m7c2PDQNlyd83Taxg-kjeUDR97enF8Y.jpeg?width=640&crop=smart&auto=webp&s=de8a94df108f86a2f1ba7533c8099a202b577e89",
         "published": "2026-05-02T22:48:09+00:00"
-    },
-    {
-        "title": "Jensen Huang says Nvidia now has 'zero percent' market share in China \u2014 says US export policy 'has already largely backfired'",
-        "link": "https://www.reddit.com/r/technology/comments/1t2jx8v/jensen_huang_says_nvidia_now_has_zero_percent/",
-        "image": "https://external-preview.redd.it/L5fxq-xawmujVaUmN7p9Efz8zRDi9f16nIO3jLRUXRY.png?width=640&crop=smart&auto=webp&s=f9455b7b8585d94984874ffd0d53f711cb608790",
-        "published": "2026-05-03T12:19:27+00:00"
     },
     {
         "title": "Valve CEO Gabe Newell was an enthusiastic supporter of OpenAI in 2018, donating $20 million and even acting as the sole member of an \"informal advisory board\"",
@@ -40,12 +40,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1t245v3/a_doge_affiliate_is_now_in_charge_of_the_us/",
         "image": "https://external-preview.redd.it/ZIHS5aEe_24j8RuD7mLBYECCttMqdYbkTSfpwFEtVoE.jpeg?width=640&crop=smart&auto=webp&s=27b7972a27741d616125e2ffda49f16c73fffc21",
         "published": "2026-05-02T22:44:03+00:00"
-    },
-    {
-        "title": "Anxiety around AI is growing rapidly in the US, research shows",
-        "link": "https://www.reddit.com/r/technology/comments/1t1u5do/anxiety_around_ai_is_growing_rapidly_in_the_us/",
-        "image": "https://external-preview.redd.it/fReZvJcIiKxlA4EKXdJ_KMv0kIwyTDp9jLeTrbElakk.jpeg?width=640&crop=smart&auto=webp&s=bdef900fa14529ddeae9b50bbb92b92f1a9134eb",
-        "published": "2026-05-02T16:13:41+00:00"
     },
     {
         "title": "Police are using surveillance tech to stalk love interests. Dystopia, here we come | The tech company Flock has 80,000 cameras across the US \u2013 and a report finds some officers are taking advantage",
@@ -78,15 +72,21 @@
         "published": "2026-05-03T00:34:44+00:00"
     },
     {
+        "title": "Utah first state to hold websites liable for users who mask their location with VPNs \u2014 law goes into effect, designed to prevent bypassing age checks",
+        "link": "https://www.reddit.com/r/technology/comments/1t2oy0q/utah_first_state_to_hold_websites_liable_for/",
+        "image": "https://external-preview.redd.it/nvZcOyYPn0t2IitlYJvR59zb5q2G00TtK6f-VKF63xI.jpeg?width=640&crop=smart&auto=webp&s=ea97d12828c2e16e7cf79cea9af2921a24aa411e",
+        "published": "2026-05-03T15:44:30+00:00"
+    },
+    {
         "title": "Microsoft Update Warning\u2014Windows 11 Security Fix Breaks Backups",
         "link": "https://www.reddit.com/r/technology/comments/1t1y9ji/microsoft_update_warningwindows_11_security_fix/",
         "image": "https://external-preview.redd.it/jwqENpD0IZ7Fjljwh2TkIcOIKePtt4sL5iaEo2c3HA4.jpeg?width=640&crop=smart&auto=webp&s=59c57192ae2cb358560eb9ace79305a95531db7f",
         "published": "2026-05-02T18:49:22+00:00"
     },
     {
-        "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines | More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
-        "link": "https://www.reddit.com/r/technology/comments/1t1znfr/minnesota_passes_ban_on_fake_ai_nudes_app_makers/",
-        "image": "https://external-preview.redd.it/isag5-8TyYPExEKItw7k9R62UZQhM4yh1QT4yLazqIU.jpeg?width=640&crop=smart&auto=webp&s=6b24d1234dca2006840e662b345d309bfd9a9aca",
-        "published": "2026-05-02T19:41:43+00:00"
+        "title": "\u2018Silicon Six\u2019 accused of avoiding almost $278bn in US corporation taxes over 10 years | US taxation",
+        "link": "https://www.reddit.com/r/technology/comments/1t2pbhz/silicon_six_accused_of_avoiding_almost_278bn_in/",
+        "image": "https://external-preview.redd.it/c8EjY8TNdSOmZyTiHuMyDSoi7yND0aSuuHDBlT1WeNE.jpeg?width=640&crop=smart&auto=webp&s=fd56b041c2a50af757b85a2b713b0812470a1159",
+        "published": "2026-05-03T15:58:59+00:00"
     }
 ]
