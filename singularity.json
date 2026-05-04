@@ -1,11 +1,5 @@
 [
     {
-        "title": "If only this was a real game",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3gzwe/if_only_this_was_a_real_game/",
-        "image": "https://external-preview.redd.it/Zmh6MmdvaDRjNHpnMQTfCCC2St1DdHTaQZJRt354O2CRKKlzyWoCoRL5a5d3.png?width=640&crop=smart&auto=webp&s=9b06770fb73ac911dd582d7ea3fa596e1c4b5e55",
-        "published": "2026-05-04T12:59:50+00:00"
-    },
-    {
         "title": "A Twitter user tricked Grok to send 200k USD to him and it worked",
         "link": "https://www.reddit.com/r/singularity/comments/1t3hw53/a_twitter_user_tricked_grok_to_send_200k_usd_to/",
         "image": "https://preview.redd.it/kndsptlgi4zg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3b8bffa3b1523877015c5d726893c9e4a3988a9f",
@@ -24,16 +18,16 @@
         "published": "2026-05-04T19:24:36+00:00"
     },
     {
-        "title": "Musk messaged Brockman to gauge interest in a settlement, per a new legal filing Sunday night",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3kc9i/musk_messaged_brockman_to_gauge_interest_in_a/",
-        "image": "https://preview.redd.it/kmc6fhehy4zg1.png?width=640&crop=smart&auto=webp&s=3e4b0eff79821165d472d56bb28b9b9a4de48b5c",
-        "published": "2026-05-04T15:04:18+00:00"
-    },
-    {
         "title": "IBM Research introduces MAMMAL, a multi-modal model that combines proteins, molecules, gene data achieving SOTA on 9 out 11 biological benchmarks (beating AlphaFold 3 in some)",
         "link": "https://www.reddit.com/r/singularity/comments/1t3e91i/ibm_research_introduces_mammal_a_multimodal_model/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-04T10:55:39+00:00"
+    },
+    {
+        "title": "Musk messaged Brockman to gauge interest in a settlement, per a new legal filing Sunday night",
+        "link": "https://www.reddit.com/r/singularity/comments/1t3kc9i/musk_messaged_brockman_to_gauge_interest_in_a/",
+        "image": "https://preview.redd.it/kmc6fhehy4zg1.png?width=640&crop=smart&auto=webp&s=3e4b0eff79821165d472d56bb28b9b9a4de48b5c",
+        "published": "2026-05-04T15:04:18+00:00"
     },
     {
         "title": "Got this SVG from A/B test window inside AI Studio. Still can't believe this is an SVG. Most likely the new flash/pro model.",
@@ -72,6 +66,12 @@
         "published": "2026-05-04T12:58:39+00:00"
     },
     {
+        "title": "And America\u2019s Humanoid Robot industry is ramping up",
+        "link": "https://www.reddit.com/r/singularity/comments/1t3v9ef/and_americas_humanoid_robot_industry_is_ramping_up/",
+        "image": "https://external-preview.redd.it/N215eWhqc2Z1NnpnMdqHCO8dCVYigFZVos1GQWSiR3GWfjinUyEcaXs8Y7fO.png?width=640&crop=smart&auto=webp&s=4c573281006c865243d37919548a0ef015c74bb7",
+        "published": "2026-05-04T21:25:18+00:00"
+    },
+    {
         "title": "I've cut over to using ChatGPT/Gemini for EVERYTHING now and it's amazing.",
         "link": "https://www.reddit.com/r/singularity/comments/1t3uceo/ive_cut_over_to_using_chatgptgemini_for/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -82,11 +82,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t3tuqd/how_does_rsi_play_out_geopolitically/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-04T20:34:46+00:00"
-    },
-    {
-        "title": "And America\u2019s Humanoid Robot industry is ramping up",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3v9ef/and_americas_humanoid_robot_industry_is_ramping_up/",
-        "image": "https://external-preview.redd.it/N215eWhqc2Z1NnpnMdqHCO8dCVYigFZVos1GQWSiR3GWfjinUyEcaXs8Y7fO.png?width=640&crop=smart&auto=webp&s=4c573281006c865243d37919548a0ef015c74bb7",
-        "published": "2026-05-04T21:25:18+00:00"
     }
 ]
