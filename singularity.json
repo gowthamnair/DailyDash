@@ -1,27 +1,9 @@
 [
     {
-        "title": "Software engineering jobs hit their highest posting since november 2023",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2626j/software_engineering_jobs_hit_their_highest/",
-        "image": "https://preview.redd.it/ppafg82vdtyg1.jpeg?width=640&crop=smart&auto=webp&s=01e689bc50ad7785aff035dc2ef59e70227da86c",
-        "published": "2026-05-03T00:09:06+00:00"
-    },
-    {
-        "title": "Google I/O leaks: Gemini\u2019s \"Omni\" and Gemini 3.2/3.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2n0kv/google_io_leaks_geminis_omni_and_gemini_3235/",
-        "image": "https://preview.redd.it/5ilch8whnxyg1.png?width=640&crop=smart&auto=webp&s=6601e3037e45c60b98cf7517857d56af78813c16",
-        "published": "2026-05-03T14:30:53+00:00"
-    },
-    {
         "title": "What if ChatGPT launched in 1998",
         "link": "https://www.reddit.com/r/singularity/comments/1t2l96z/what_if_chatgpt_launched_in_1998/",
         "image": "https://preview.redd.it/lyz7oz6eaxyg1.jpeg?width=640&crop=smart&auto=webp&s=51871c28490fd4ab11d0a59eb582ffe3ae319d55",
         "published": "2026-05-03T13:18:11+00:00"
-    },
-    {
-        "title": "Ok This is Trippy",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2601k/ok_this_is_trippy/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-03T00:06:16+00:00"
     },
     {
         "title": "The 1X factory is capturing employers\u2019 tasks and gradually replacing them with NEOs, leading to humanoid robots building, humanoid robots.",
@@ -54,16 +36,16 @@
         "published": "2026-05-03T19:39:15+00:00"
     },
     {
-        "title": "Everything I Learned Training Frontier Small Models \u2014 Maxime Labonne, Liquid AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2h6ea/everything_i_learned_training_frontier_small/",
-        "image": "https://external-preview.redd.it/dR0LuoymEHKWB61BCZnQ7skf-6b79f8xiN5jbWYE6Pw.jpeg?width=320&crop=smart&auto=webp&s=012ebd3ddc259f987fc4ff4e268557d42a32d19b",
-        "published": "2026-05-03T09:52:34+00:00"
-    },
-    {
         "title": "Google Creates Strike Team to Improve Coding Models",
         "link": "https://www.reddit.com/r/singularity/comments/1t2pvzy/google_creates_strike_team_to_improve_coding/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-03T16:20:24+00:00"
+    },
+    {
+        "title": "Everything I Learned Training Frontier Small Models \u2014 Maxime Labonne, Liquid AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2h6ea/everything_i_learned_training_frontier_small/",
+        "image": "https://external-preview.redd.it/dR0LuoymEHKWB61BCZnQ7skf-6b79f8xiN5jbWYE6Pw.jpeg?width=320&crop=smart&auto=webp&s=012ebd3ddc259f987fc4ff4e268557d42a32d19b",
+        "published": "2026-05-03T09:52:34+00:00"
     },
     {
         "title": "Low-power differencing feature extracts spiking-band activities for high-performance intracortical brain-computer interfaces",
