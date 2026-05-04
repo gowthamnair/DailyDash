@@ -1,5 +1,11 @@
 [
     {
+        "title": "Ilya Sutskever: Accurately predicting the next word leads to real understanding",
+        "link": "https://www.reddit.com/r/singularity/comments/1t33p04/ilya_sutskever_accurately_predicting_the_next/",
+        "image": "https://external-preview.redd.it/MXk4ejY5N253MHpnMYQ-QQAPb7Ya7gfrdq_C8HRIy7WR1Pje_4VXj1U5F424.png?width=640&crop=smart&auto=webp&s=30e627e241533e5bb337b809d712e571715dfaae",
+        "published": "2026-05-04T01:29:56+00:00"
+    },
+    {
         "title": "What if ChatGPT launched in 1998",
         "link": "https://www.reddit.com/r/singularity/comments/1t2l96z/what_if_chatgpt_launched_in_1998/",
         "image": "https://preview.redd.it/lyz7oz6eaxyg1.jpeg?width=640&crop=smart&auto=webp&s=51871c28490fd4ab11d0a59eb582ffe3ae319d55",
@@ -24,16 +30,22 @@
         "published": "2026-05-03T07:29:22+00:00"
     },
     {
-        "title": "AI systems increasingly ignore human instructions",
-        "link": "https://www.reddit.com/r/singularity/comments/1t2cpfp/ai_systems_increasingly_ignore_human_instructions/",
-        "image": "https://preview.redd.it/gy2pvzqyyuyg1.jpg?width=140&height=102&auto=webp&s=b174c98fad616e9df7e241eb613b92715eebdf29",
-        "published": "2026-05-03T05:36:45+00:00"
-    },
-    {
         "title": "These are the benchmark results for Gemma4 E4B tested on my iPhone 16 Pro.",
         "link": "https://www.reddit.com/r/singularity/comments/1t2v9u3/these_are_the_benchmark_results_for_gemma4_e4b/",
         "image": "https://preview.redd.it/bb8npp7l6zyg1.jpg?width=140&height=102&auto=webp&s=e709f65ff534f18088cc9af6a0de7ec96cb72781",
         "published": "2026-05-03T19:39:15+00:00"
+    },
+    {
+        "title": "Got this SVG from A/B test window inside AI Studio. Still can't believe this is an SVG. Most likely the new flash/pro model.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t378wg/got_this_svg_from_ab_test_window_inside_ai_studio/",
+        "image": "https://preview.redd.it/71ppdsf2q1zg1.png?width=640&crop=smart&auto=webp&s=769669272ae550031781177a2f35da035bdb5b73",
+        "published": "2026-05-04T04:18:48+00:00"
+    },
+    {
+        "title": "AI systems increasingly ignore human instructions",
+        "link": "https://www.reddit.com/r/singularity/comments/1t2cpfp/ai_systems_increasingly_ignore_human_instructions/",
+        "image": "https://preview.redd.it/gy2pvzqyyuyg1.jpg?width=140&height=102&auto=webp&s=b174c98fad616e9df7e241eb613b92715eebdf29",
+        "published": "2026-05-03T05:36:45+00:00"
     },
     {
         "title": "Google Creates Strike Team to Improve Coding Models",
@@ -52,5 +64,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t2tx2f/lowpower_differencing_feature_extracts/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-03T18:49:28+00:00"
+    },
+    {
+        "title": "ai voice agents are already showing up in healthcare workflows. nobody really agreed on how to deal with them...",
+        "link": "https://www.reddit.com/r/singularity/comments/1t374nq/ai_voice_agents_are_already_showing_up_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-04T04:12:48+00:00"
     }
 ]
