@@ -1,11 +1,5 @@
 [
     {
-        "title": "AI models are choking on junk data",
-        "link": "https://www.reddit.com/r/technology/comments/1t39bxd/ai_models_are_choking_on_junk_data/",
-        "image": "https://external-preview.redd.it/hTWn-oc_-uErZIDmOk7OmxG0VQeAYnONbpULIuH-r0M.jpeg?width=640&crop=smart&auto=webp&s=7923c4785bfd8ddfd0cdec4878e57f6291504a8d",
-        "published": "2026-05-04T06:11:00+00:00"
-    },
-    {
         "title": "Some children are drawing on fake moustaches to bypass online age checks, report says",
         "link": "https://www.reddit.com/r/technology/comments/1t3my5g/some_children_are_drawing_on_fake_moustaches_to/",
         "image": "https://external-preview.redd.it/t2qoPCaoYMLbOrk7YdJNuIt9LT3_FLUvHZv1NMFZHAs.jpeg?width=640&crop=smart&auto=webp&s=661e9627cd9363d32ecec6f04e54a41b42366761",
@@ -42,16 +36,16 @@
         "published": "2026-05-04T17:01:56+00:00"
     },
     {
-        "title": "Utah becomes first state to target VPN use in age-verification law",
-        "link": "https://www.reddit.com/r/technology/comments/1t3i009/utah_becomes_first_state_to_target_vpn_use_in/",
-        "image": "https://external-preview.redd.it/_ZOKkG3u5S5xyZ381OP2QY7LUvi7NWzjLKOD1MgihRw.jpeg?width=640&crop=smart&auto=webp&s=25f9d1bdfd2ac04df4924822a94c9cb15f5999e6",
-        "published": "2026-05-04T13:38:44+00:00"
-    },
-    {
         "title": "U.S President administration cites national security in stalling 165 wind farms | Onshore wind development in the United States is being brought to a standstill.",
         "link": "https://www.reddit.com/r/technology/comments/1t42wvi/us_president_administration_cites_national/",
         "image": "https://external-preview.redd.it/RAcgGLDK_JhZh3wwLemxed9ADN398-7EH5ifuqQeTDo.jpeg?width=640&crop=smart&auto=webp&s=f5ec73d09622fb079868fcc090bda5aea4e7f052",
         "published": "2026-05-05T02:45:28+00:00"
+    },
+    {
+        "title": "Utah becomes first state to target VPN use in age-verification law",
+        "link": "https://www.reddit.com/r/technology/comments/1t3i009/utah_becomes_first_state_to_target_vpn_use_in/",
+        "image": "https://external-preview.redd.it/_ZOKkG3u5S5xyZ381OP2QY7LUvi7NWzjLKOD1MgihRw.jpeg?width=640&crop=smart&auto=webp&s=25f9d1bdfd2ac04df4924822a94c9cb15f5999e6",
+        "published": "2026-05-04T13:38:44+00:00"
     },
     {
         "title": "Notepad++ Creator Don Ho Calls Out \"Fake\" MacOS App Over Trademark Violation",
@@ -78,15 +72,21 @@
         "published": "2026-05-04T14:11:00+00:00"
     },
     {
+        "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
+        "link": "https://www.reddit.com/r/technology/comments/1t3u8kz/nature_retracts_paper_on_the_benefits_of_chatgpt/",
+        "image": "https://external-preview.redd.it/SDNVU4orImI6RMSxswItzzablWj9354Yedxve9yB5MY.jpeg?width=640&crop=smart&auto=webp&s=bd01473ba78ac0c00f3bc029cc19802dcdc40e56",
+        "published": "2026-05-04T20:48:21+00:00"
+    },
+    {
         "title": "White House Considers Vetting A.I. Models Before They Are Released",
         "link": "https://www.reddit.com/r/technology/comments/1t3tg64/white_house_considers_vetting_ai_models_before/",
         "image": "https://external-preview.redd.it/kk8GIhjmXfdkyFrkJhOOJ12L6pVyL3WJPGbge_KkiHM.jpeg?width=640&crop=smart&auto=webp&s=d72854c4b8c343d3c542f21605830024a583d2f2",
         "published": "2026-05-04T20:20:23+00:00"
     },
     {
-        "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
-        "link": "https://www.reddit.com/r/technology/comments/1t3u8kz/nature_retracts_paper_on_the_benefits_of_chatgpt/",
-        "image": "https://external-preview.redd.it/SDNVU4orImI6RMSxswItzzablWj9354Yedxve9yB5MY.jpeg?width=640&crop=smart&auto=webp&s=bd01473ba78ac0c00f3bc029cc19802dcdc40e56",
-        "published": "2026-05-04T20:48:21+00:00"
+        "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+        "link": "https://www.reddit.com/r/technology/comments/1t3o8sv/us_healthcare_marketplaces_shared_citizenship_and/",
+        "image": "https://external-preview.redd.it/6shD8FRIHhb3cImPJlEGLKXCrmY4xaskcV4P1cs2ZdY.jpeg?width=640&crop=smart&auto=webp&s=40c7e2315ca17e8f7ef8cc9dd313a0ac463df910",
+        "published": "2026-05-04T17:19:48+00:00"
     }
 ]

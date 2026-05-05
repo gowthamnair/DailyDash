@@ -1,11 +1,5 @@
 [
     {
-        "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-        "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4dcd/live/020fd5a0-47de-11f1-90ad-2ff82eec9d15.jpg",
-        "published": "Tue, 05 May 2026 04:34:15 GMT"
-    },
-    {
         "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
         "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/395d/live/537900a0-47f3-11f1-a5a5-9ff681d5bd63.jpg",
@@ -14,13 +8,13 @@
     {
         "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
         "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/de5e/live/f0d129f0-484c-11f1-bd52-e755d604ece4.jpg",
         "published": "Tue, 05 May 2026 01:14:04 GMT"
     },
     {
         "title": "The most talked-about looks at this year's Met Gala",
         "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9cd2/live/a8b9d2a0-482b-11f1-b55d-0f258dce1735.jpg",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b67/live/a8e7b610-484f-11f1-bd52-e755d604ece4.png",
         "published": "Tue, 05 May 2026 04:05:39 GMT"
     },
     {
@@ -88,5 +82,11 @@
         "link": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5b5b/live/2b6d84b0-4766-11f1-a897-39829ff0bf25.jpg",
         "published": "Mon, 04 May 2026 04:12:04 GMT"
+    },
+    {
+        "title": "GameStop makes $55.5bn takeover offer for eBay",
+        "link": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0759/live/6f3aea00-474a-11f1-b55d-0f258dce1735.jpg",
+        "published": "Mon, 04 May 2026 15:12:39 GMT"
     }
 ]
