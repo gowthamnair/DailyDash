@@ -18,12 +18,6 @@
         "published": "2026-05-04T15:04:18+00:00"
     },
     {
-        "title": "IBM Research introduces MAMMAL, a multi-modal model that combines proteins, molecules, gene data achieving SOTA on 9 out 11 biological benchmarks (beating AlphaFold 3 in some)",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3e91i/ibm_research_introduces_mammal_a_multimodal_model/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-04T10:55:39+00:00"
-    },
-    {
         "title": "AI parenting has a lot of room to grow",
         "link": "https://www.reddit.com/r/singularity/comments/1t3z5ae/ai_parenting_has_a_lot_of_room_to_grow/",
         "image": "https://external-preview.redd.it/obB3flpXU4pwIek5lEhgz4OsC6WWv9ev9UXOUO2V210.png?width=640&crop=smart&auto=webp&s=c53618c4fdec85a02fd79227d216afe8a117fcbf",
@@ -54,16 +48,16 @@
         "published": "2026-05-04T19:34:26+00:00"
     },
     {
-        "title": "Five Eyes agencies issue first coordinated agentic AI security guidance",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3m88v/five_eyes_agencies_issue_first_coordinated/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-04T16:10:16+00:00"
-    },
-    {
         "title": "I've cut over to using ChatGPT/Gemini for EVERYTHING now and it's amazing.",
         "link": "https://www.reddit.com/r/singularity/comments/1t3uceo/ive_cut_over_to_using_chatgptgemini_for/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-04T20:52:11+00:00"
+    },
+    {
+        "title": "Five Eyes agencies issue first coordinated agentic AI security guidance",
+        "link": "https://www.reddit.com/r/singularity/comments/1t3m88v/five_eyes_agencies_issue_first_coordinated/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-04T16:10:16+00:00"
     },
     {
         "title": "IBM: A Decade of Quantum on the Cloud",
@@ -82,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t3tuqd/how_does_rsi_play_out_geopolitically/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-04T20:34:46+00:00"
+    },
+    {
+        "title": "The mirror winked back. They didn't notice. They're standing in front of a portal with an open beer",
+        "link": "https://www.reddit.com/r/singularity/comments/1t4am6m/the_mirror_winked_back_they_didnt_notice_theyre/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-05T09:43:45+00:00"
     }
 ]
