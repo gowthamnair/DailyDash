@@ -1,9 +1,21 @@
 [
     {
+        "title": "New Boston Dynamics Atlas trick",
+        "link": "https://www.reddit.com/r/singularity/comments/1t4hqyn/new_boston_dynamics_atlas_trick/",
+        "image": "https://external-preview.redd.it/dHRndmx5aTQxY3pnMXcdggoggPAfsFPkKOCf-LxtKMi5jEIwSWljY_0Z2sEU.png?width=320&crop=smart&auto=webp&s=97b0255223e85d4da49fe581d1002c09973f445a",
+        "published": "2026-05-05T14:51:36+00:00"
+    },
+    {
         "title": "Anthropic co-founder Jack Clark says AI is nearing the point where it can automate AI research",
         "link": "https://www.reddit.com/r/singularity/comments/1t3russ/anthropic_cofounder_jack_clark_says_ai_is_nearing/",
         "image": "https://preview.redd.it/b9cwfq1g56zg1.png?width=640&crop=smart&auto=webp&s=9412fd9e83d7c48a3bfdd9c8e4161a811d72a1eb",
         "published": "2026-05-04T19:24:36+00:00"
+    },
+    {
+        "title": "Google\u2019s AI architect, Demis Hassabis, lived rent-free in Elon Musk\u2019s head",
+        "link": "https://www.reddit.com/r/singularity/comments/1t4hnfl/googles_ai_architect_demis_hassabis_lived/",
+        "image": "https://external-preview.redd.it/-3BT9o81r_fkQtybWtQjzZWHUl4c39Fzfi-Xa4ULPVg.jpeg?width=640&crop=smart&auto=webp&s=74426f8eb28313a5062a1932934795817ab0f5d2",
+        "published": "2026-05-05T14:48:10+00:00"
     },
     {
         "title": "AI parenting has a lot of room to grow",
@@ -12,16 +24,22 @@
         "published": "2026-05-05T00:00:38+00:00"
     },
     {
+        "title": "And America\u2019s Humanoid Robot industry is ramping up",
+        "link": "https://www.reddit.com/r/singularity/comments/1t3v9ef/and_americas_humanoid_robot_industry_is_ramping_up/",
+        "image": "https://external-preview.redd.it/N215eWhqc2Z1NnpnMdqHCO8dCVYigFZVos1GQWSiR3GWfjinUyEcaXs8Y7fO.png?width=640&crop=smart&auto=webp&s=4c573281006c865243d37919548a0ef015c74bb7",
+        "published": "2026-05-04T21:25:18+00:00"
+    },
+    {
         "title": "White House Considers Vetting A.I. Models Before They Are Released",
         "link": "https://www.reddit.com/r/singularity/comments/1t3twaw/white_house_considers_vetting_ai_models_before/",
         "image": "https://external-preview.redd.it/kk8GIhjmXfdkyFrkJhOOJ12L6pVyL3WJPGbge_KkiHM.jpeg?width=640&crop=smart&auto=webp&s=d72854c4b8c343d3c542f21605830024a583d2f2",
         "published": "2026-05-04T20:36:18+00:00"
     },
     {
-        "title": "And America\u2019s Humanoid Robot industry is ramping up",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3v9ef/and_americas_humanoid_robot_industry_is_ramping_up/",
-        "image": "https://external-preview.redd.it/N215eWhqc2Z1NnpnMdqHCO8dCVYigFZVos1GQWSiR3GWfjinUyEcaXs8Y7fO.png?width=640&crop=smart&auto=webp&s=4c573281006c865243d37919548a0ef015c74bb7",
-        "published": "2026-05-04T21:25:18+00:00"
+        "title": "Introducing SubQ - a major breakthrough in LLM intelligence. It is the first model built on a fully sub-quadratic sparse-attention architecture (SSA)",
+        "link": "https://www.reddit.com/r/singularity/comments/1t4jfp9/introducing_subq_a_major_breakthrough_in_llm/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-05T15:51:21+00:00"
     },
     {
         "title": "Senate Committee advances bill banning AI companions for children",
@@ -42,22 +60,10 @@
         "published": "2026-05-04T20:52:11+00:00"
     },
     {
-        "title": "Five Eyes agencies issue first coordinated agentic AI security guidance",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3m88v/five_eyes_agencies_issue_first_coordinated/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-04T16:10:16+00:00"
-    },
-    {
         "title": "Is MiMo lowkey slept on?",
         "link": "https://www.reddit.com/r/singularity/comments/1t4chgr/is_mimo_lowkey_slept_on/",
         "image": "https://preview.redd.it/4hyqbwzbzazg1.png?width=640&crop=smart&auto=webp&s=7bf5f534463201c727526c3bbfdd491f10ccea3b",
         "published": "2026-05-05T11:20:22+00:00"
-    },
-    {
-        "title": "What is Elon\u2019s actual plan with data centers in space, and what is his long-term goal with Mars?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t45bjp/what_is_elons_actual_plan_with_data_centers_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-05T04:40:47+00:00"
     },
     {
         "title": "Hyundai Reportedly Demanding \u2018Tens of Thousands\u2019 of Boston Dynamics Robots ASAP",
@@ -66,9 +72,21 @@
         "published": "2026-05-05T14:36:14+00:00"
     },
     {
-        "title": "How does RSI play out (geo)politically?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t3tuqd/how_does_rsi_play_out_geopolitically/",
+        "title": "What is Elon\u2019s actual plan with data centers in space, and what is his long-term goal with Mars?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t45bjp/what_is_elons_actual_plan_with_data_centers_in/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-04T20:34:46+00:00"
+        "published": "2026-05-05T04:40:47+00:00"
+    },
+    {
+        "title": "Learn by building a real perceptron on paper",
+        "link": "https://www.reddit.com/r/singularity/comments/1t4kc3m/learn_by_building_a_real_perceptron_on_paper/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-05T16:22:43+00:00"
+    },
+    {
+        "title": "Three Inverse Laws of AI and Robotics",
+        "link": "https://www.reddit.com/r/singularity/comments/1t4kdix/three_inverse_laws_of_ai_and_robotics/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-05T16:24:10+00:00"
     }
 ]
