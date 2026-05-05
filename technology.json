@@ -30,16 +30,16 @@
         "published": "2026-05-04T16:42:07+00:00"
     },
     {
-        "title": "A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs \u2014 bug might be trapping browsers in an endless layout loop",
-        "link": "https://www.reddit.com/r/technology/comments/1t3nq4o/a_suspected_youtube_interface_bug_spikes_ram/",
-        "image": "https://external-preview.redd.it/cGt5UEb7mMy6RGM_jx2mMM-kGkjVNFNtJzcfy4Kumv8.jpeg?width=640&crop=smart&auto=webp&s=ef554ee6c342d820ab3ff9ffe06e54b439e629ad",
-        "published": "2026-05-04T17:01:56+00:00"
-    },
-    {
         "title": "U.S President administration cites national security in stalling 165 wind farms | Onshore wind development in the United States is being brought to a standstill.",
         "link": "https://www.reddit.com/r/technology/comments/1t42wvi/us_president_administration_cites_national/",
         "image": "https://external-preview.redd.it/RAcgGLDK_JhZh3wwLemxed9ADN398-7EH5ifuqQeTDo.jpeg?width=640&crop=smart&auto=webp&s=f5ec73d09622fb079868fcc090bda5aea4e7f052",
         "published": "2026-05-05T02:45:28+00:00"
+    },
+    {
+        "title": "A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs \u2014 bug might be trapping browsers in an endless layout loop",
+        "link": "https://www.reddit.com/r/technology/comments/1t3nq4o/a_suspected_youtube_interface_bug_spikes_ram/",
+        "image": "https://external-preview.redd.it/cGt5UEb7mMy6RGM_jx2mMM-kGkjVNFNtJzcfy4Kumv8.jpeg?width=640&crop=smart&auto=webp&s=ef554ee6c342d820ab3ff9ffe06e54b439e629ad",
+        "published": "2026-05-04T17:01:56+00:00"
     },
     {
         "title": "Utah becomes first state to target VPN use in age-verification law",
@@ -66,12 +66,6 @@
         "published": "2026-05-04T14:39:02+00:00"
     },
     {
-        "title": "Over a third of children in the UK have successfully bypassed online age verification measures",
-        "link": "https://www.reddit.com/r/technology/comments/1t3iur8/over_a_third_of_children_in_the_uk_have/",
-        "image": "https://external-preview.redd.it/kT0B5KpQU2VFnJoPSV93GygOkNszjXx6Xq9S2bd_BZQ.jpeg?width=640&crop=smart&auto=webp&s=34fcece4086c99b2f96e4ee04f792f42441dbdf3",
-        "published": "2026-05-04T14:11:00+00:00"
-    },
-    {
         "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
         "link": "https://www.reddit.com/r/technology/comments/1t3u8kz/nature_retracts_paper_on_the_benefits_of_chatgpt/",
         "image": "https://external-preview.redd.it/SDNVU4orImI6RMSxswItzzablWj9354Yedxve9yB5MY.jpeg?width=640&crop=smart&auto=webp&s=bd01473ba78ac0c00f3bc029cc19802dcdc40e56",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1t3tg64/white_house_considers_vetting_ai_models_before/",
         "image": "https://external-preview.redd.it/kk8GIhjmXfdkyFrkJhOOJ12L6pVyL3WJPGbge_KkiHM.jpeg?width=640&crop=smart&auto=webp&s=d72854c4b8c343d3c542f21605830024a583d2f2",
         "published": "2026-05-04T20:20:23+00:00"
+    },
+    {
+        "title": "Over a third of children in the UK have successfully bypassed online age verification measures",
+        "link": "https://www.reddit.com/r/technology/comments/1t3iur8/over_a_third_of_children_in_the_uk_have/",
+        "image": "https://external-preview.redd.it/kT0B5KpQU2VFnJoPSV93GygOkNszjXx6Xq9S2bd_BZQ.jpeg?width=640&crop=smart&auto=webp&s=34fcece4086c99b2f96e4ee04f792f42441dbdf3",
+        "published": "2026-05-04T14:11:00+00:00"
     },
     {
         "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
