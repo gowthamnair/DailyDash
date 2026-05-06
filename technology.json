@@ -1,15 +1,15 @@
 [
     {
-        "title": "NPR went looking for Polymarket's Panama headquarters. It's elusive",
-        "link": "https://www.reddit.com/r/technology/comments/1t4wb0u/npr_went_looking_for_polymarkets_panama/",
-        "image": "https://external-preview.redd.it/E1uyEwQBLqvXtkl1ltqPmQurqPrDM3ziXE_xmN35Cds.jpeg?width=640&crop=smart&auto=webp&s=a4284aedfaef29d7535b6aefe4112b832c459200",
-        "published": "2026-05-05T23:40:33+00:00"
-    },
-    {
         "title": "More Than Half of Gen Z Users Cancel and Renew Streaming Services for a Single Title, Won\u2019t Purchase Full-Price Video Games, New Study Finds",
         "link": "https://www.reddit.com/r/technology/comments/1t5l27r/more_than_half_of_gen_z_users_cancel_and_renew/",
         "image": "https://external-preview.redd.it/bFU5Jx4pBoyenA4uKRqqJ32tb7le4F1ImvPWdTUuVCI.png?width=640&crop=smart&auto=webp&s=9c13f593e495ff2553edc399036e04c3ceb508e1",
         "published": "2026-05-06T18:14:19+00:00"
+    },
+    {
+        "title": "NPR went looking for Polymarket's Panama headquarters. It's elusive",
+        "link": "https://www.reddit.com/r/technology/comments/1t4wb0u/npr_went_looking_for_polymarkets_panama/",
+        "image": "https://external-preview.redd.it/E1uyEwQBLqvXtkl1ltqPmQurqPrDM3ziXE_xmN35Cds.jpeg?width=640&crop=smart&auto=webp&s=a4284aedfaef29d7535b6aefe4112b832c459200",
+        "published": "2026-05-05T23:40:33+00:00"
     },
     {
         "title": "Kevin O'Leary says opponents of his Utah data center are 'professional protesters' \u2014 and some are powered by AI",
@@ -22,12 +22,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1t5dk88/kash_patel_claims_ai_has_stopped_school_shootings/",
         "image": "https://external-preview.redd.it/mFCftb7QZ5qDNTyvoYIz34v-BpMVrQjqsVrHeUn11vk.png?width=640&crop=smart&auto=webp&s=d21614b7b63526b27be944a466dd8c771770c774",
         "published": "2026-05-06T13:51:36+00:00"
-    },
-    {
-        "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
-        "link": "https://www.reddit.com/r/technology/comments/1t4tqwi/anthropic_reportedly_agrees_to_pay_google_200/",
-        "image": "https://external-preview.redd.it/TEt5Y9RFSVZvdxXSjuaeXorFAvGg42sNgFNE-s72BMg.jpeg?width=640&crop=smart&auto=webp&s=a1ae25357057eb54d1bd4fe2e0de5ee0d9ff27ea",
-        "published": "2026-05-05T21:55:10+00:00"
     },
     {
         "title": "TikTok\u2019s algorithm favored Republican content in 2024 US elections, study finds",
@@ -66,16 +60,22 @@
         "published": "2026-05-06T15:44:34+00:00"
     },
     {
-        "title": "Microsoft Edge will load all your passwords into memory in plaintext, but Microsoft says it's not a security concern",
-        "link": "https://www.reddit.com/r/technology/comments/1t4yihh/microsoft_edge_will_load_all_your_passwords_into/",
-        "image": "https://external-preview.redd.it/ZZIwg2e0l3sSY4QpsgAUgwB3qarze_7AQ_6AMeDvf0M.jpeg?width=640&crop=smart&auto=webp&s=b927019ad750860c100bbf784d3bbd82e408c7c8",
-        "published": "2026-05-06T01:19:14+00:00"
-    },
-    {
         "title": "Mozilla, Stop Killing Games and more team up to tell the UK to stop making the internet worse",
         "link": "https://www.reddit.com/r/technology/comments/1t5hw04/mozilla_stop_killing_games_and_more_team_up_to/",
         "image": "https://external-preview.redd.it/UrkDcf3w6z2gh2NtCWTHckddgZ58m9cSEQcFzwQB2KU.jpeg?width=640&crop=smart&auto=webp&s=70db383739ad6d8ae44a32fe8f017dd13dea862b",
         "published": "2026-05-06T16:26:43+00:00"
+    },
+    {
+        "title": "A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began",
+        "link": "https://www.reddit.com/r/technology/comments/1t5p76i/a_michigan_farm_town_voted_down_plans_for_a_giant/",
+        "image": "https://external-preview.redd.it/mPa90CqC2mjLtNgcHJARGIur_GG_KVN07zWmGTTI0N8.jpeg?width=640&crop=smart&auto=webp&s=6a4dc9c9888ae7cdca447fcaa861f32df71b6c1f",
+        "published": "2026-05-06T20:40:41+00:00"
+    },
+    {
+        "title": "Microsoft Edge will load all your passwords into memory in plaintext, but Microsoft says it's not a security concern",
+        "link": "https://www.reddit.com/r/technology/comments/1t4yihh/microsoft_edge_will_load_all_your_passwords_into/",
+        "image": "https://external-preview.redd.it/ZZIwg2e0l3sSY4QpsgAUgwB3qarze_7AQ_6AMeDvf0M.jpeg?width=640&crop=smart&auto=webp&s=b927019ad750860c100bbf784d3bbd82e408c7c8",
+        "published": "2026-05-06T01:19:14+00:00"
     },
     {
         "title": "Dario Amodei spent last year warning of an AI white-collar bloodbath. Now he's changing the narrative",
@@ -84,9 +84,9 @@
         "published": "2026-05-06T06:00:11+00:00"
     },
     {
-        "title": "FCC Commissioner Demands Close Scrutiny of 49.5% Foreign Investment in Paramount's Proposed Merger With Warner Bros.",
-        "link": "https://www.reddit.com/r/technology/comments/1t4wwko/fcc_commissioner_demands_close_scrutiny_of_495/",
-        "image": "https://external-preview.redd.it/sA6V9loI8pLWQB4MESpxIek8-jONZdTLScFqc0gRcto.jpeg?width=640&crop=smart&auto=webp&s=eb1efc69abc300d8b5a56570eb1d4cec5543ccc0",
-        "published": "2026-05-06T00:06:13+00:00"
+        "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+        "link": "https://www.reddit.com/r/technology/comments/1t56ckv/apple_agrees_to_pay_iphone_owners_250_million_for/",
+        "image": "https://external-preview.redd.it/QP1Niy41_oDoRUngnzfds6XdQqJEUCpVqy-YM5eIIWA.jpeg?width=640&crop=smart&auto=webp&s=261a9745d7fe91038dd85e26b1528a4da4daee4c",
+        "published": "2026-05-06T08:00:06+00:00"
     }
 ]
