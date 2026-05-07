@@ -1,11 +1,5 @@
 [
     {
-        "title": "xAI will be dissolved as a separate entity.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t5q5jm/xai_will_be_dissolved_as_a_separate_entity/",
-        "image": "https://preview.redd.it/tzexewkj2lzg1.jpeg?width=640&crop=smart&auto=webp&s=cb9c791b78838a09d1431f67d17c68a2e0d46313",
-        "published": "2026-05-06T21:15:33+00:00"
-    },
-    {
         "title": "Subquadratic claims to break LLM scaling limits! 1000x less costs",
         "link": "https://www.reddit.com/r/singularity/comments/1t64dhj/subquadratic_claims_to_break_llm_scaling_limits/",
         "image": "https://external-preview.redd.it/ZWt4aGg3M2llb3pnMW6RAmESHVx5_eOKGM6XHnGVJsDsRhDrcgbkfZhYHkdQ.png?width=640&crop=smart&auto=webp&s=7ecb23484cb759d850b8028202d763d2d1549589",
@@ -24,22 +18,10 @@
         "published": "2026-05-07T13:09:39+00:00"
     },
     {
-        "title": "Three key areas Anthropic is working on for their next models",
-        "link": "https://www.reddit.com/r/singularity/comments/1t5q53r/three_key_areas_anthropic_is_working_on_for_their/",
-        "image": "https://preview.redd.it/jq3ulquzzkzg1.png?width=640&crop=smart&auto=webp&s=7bf219502b6c231ab650dd48a28ef5363bda8e9d",
-        "published": "2026-05-06T21:15:08+00:00"
-    },
-    {
         "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
         "link": "https://www.reddit.com/r/singularity/comments/1t6dve3/alphaevolve_how_our_geminipowered_coding_agent_is/",
         "image": "https://external-preview.redd.it/PN8pxxY78OF5WzsnCSV5jb_loHyedIwR1k1dSqCRPgI.jpeg?width=640&crop=smart&auto=webp&s=dfc40cfc5a72b5ba30e131b31058bc8a053b8a27",
         "published": "2026-05-07T15:27:53+00:00"
-    },
-    {
-        "title": "Stanford/Princeton AI4S unveils LabOS\u00b2 -the agentic AI system that spanned from dry-lab planning to wet-lab execution, using physical AI to assist scientists - now is capable of performing fully autonomous cell culture workflows.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t67t8b/stanfordprinceton_ai4s_unveils_labos\u00b2_the_agentic/",
-        "image": "https://external-preview.redd.it/bnBxeDYzeWdicHpnMZ0-7FBjoTPiZnVPS1ben3ATRkZsSKqule3DrC8iYO8v.png?width=640&crop=smart&auto=webp&s=a00ff23eee2831e6662785c4d0507b3a43536392",
-        "published": "2026-05-07T11:32:55+00:00"
     },
     {
         "title": "Mapping a human face onto a small robot (instead of giving it an uncanny humanoid face)?",
@@ -48,10 +30,10 @@
         "published": "2026-05-07T14:09:27+00:00"
     },
     {
-        "title": "Silicon oscillators solve computer problems that would take thousands of years using semiconductors",
-        "link": "https://www.reddit.com/r/singularity/comments/1t647lc/silicon_oscillators_solve_computer_problems_that/",
-        "image": "https://external-preview.redd.it/JnqcHVA92GL4Nyl9lKxvJ09zmE7FZj_k5i5OcpNav70.jpeg?width=640&crop=smart&auto=webp&s=b6c5088a711d478295e50a93ca46bba3a6cc6a65",
-        "published": "2026-05-07T08:17:59+00:00"
+        "title": "Stanford/Princeton AI4S unveils LabOS\u00b2 -the agentic AI system that spanned from dry-lab planning to wet-lab execution, using physical AI to assist scientists - now is capable of performing fully autonomous cell culture workflows.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t67t8b/stanfordprinceton_ai4s_unveils_labos\u00b2_the_agentic/",
+        "image": "https://external-preview.redd.it/bnBxeDYzeWdicHpnMZ0-7FBjoTPiZnVPS1ben3ATRkZsSKqule3DrC8iYO8v.png?width=640&crop=smart&auto=webp&s=a00ff23eee2831e6662785c4d0507b3a43536392",
+        "published": "2026-05-07T11:32:55+00:00"
     },
     {
         "title": "New OpenAI Voice models: GPT-Realtime-2, Translate, and Whisper",
@@ -60,10 +42,10 @@
         "published": "2026-05-07T17:47:53+00:00"
     },
     {
-        "title": "Translating Claude\u2019s thoughts into language",
-        "link": "https://www.reddit.com/r/singularity/comments/1t6h2ph/translating_claudes_thoughts_into_language/",
-        "image": "https://external-preview.redd.it/TYUPfUr0IOjS1RDKNr_pM9d2cdPmeQp5HHOKZ8jsKE8.jpeg?width=320&crop=smart&auto=webp&s=9b28aa1596f83de6b5d50afd89736f96cc8df8db",
-        "published": "2026-05-07T17:19:50+00:00"
+        "title": "Silicon oscillators solve computer problems that would take thousands of years using semiconductors",
+        "link": "https://www.reddit.com/r/singularity/comments/1t647lc/silicon_oscillators_solve_computer_problems_that/",
+        "image": "https://external-preview.redd.it/JnqcHVA92GL4Nyl9lKxvJ09zmE7FZj_k5i5OcpNav70.jpeg?width=640&crop=smart&auto=webp&s=b6c5088a711d478295e50a93ca46bba3a6cc6a65",
+        "published": "2026-05-07T08:17:59+00:00"
     },
     {
         "title": "When will we start to see companies making massive leaps in their product release iterations ?",
@@ -73,8 +55,20 @@
     },
     {
         "title": "Translating Claude\u2019s thoughts into language",
+        "link": "https://www.reddit.com/r/singularity/comments/1t6h2ph/translating_claudes_thoughts_into_language/",
+        "image": "https://external-preview.redd.it/TYUPfUr0IOjS1RDKNr_pM9d2cdPmeQp5HHOKZ8jsKE8.jpeg?width=320&crop=smart&auto=webp&s=9b28aa1596f83de6b5d50afd89736f96cc8df8db",
+        "published": "2026-05-07T17:19:50+00:00"
+    },
+    {
+        "title": "Translating Claude\u2019s thoughts into language",
         "link": "https://www.reddit.com/r/singularity/comments/1t6ke8t/translating_claudes_thoughts_into_language/",
         "image": "https://external-preview.redd.it/TYUPfUr0IOjS1RDKNr_pM9d2cdPmeQp5HHOKZ8jsKE8.jpeg?width=320&crop=smart&auto=webp&s=9b28aa1596f83de6b5d50afd89736f96cc8df8db",
         "published": "2026-05-07T19:14:39+00:00"
+    },
+    {
+        "title": "I got bored so I put \u2018what if AGI was achieved by Tuesday afternoon\u2019 into an AI simulator",
+        "link": "https://www.reddit.com/r/singularity/comments/1t6n7bu/i_got_bored_so_i_put_what_if_agi_was_achieved_by/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-07T20:54:46+00:00"
     }
 ]

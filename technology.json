@@ -30,10 +30,10 @@
         "published": "2026-05-07T13:00:47+00:00"
     },
     {
-        "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
-        "link": "https://www.reddit.com/r/technology/comments/1t5pzo8/report_spacex_ipo_gives_musk_unchecked_power_and/",
-        "image": "https://external-preview.redd.it/xU0J5HmIRrgHIU8Y0-jJO2MDs1Myh_EnJe62fpNinRI.jpeg?width=640&crop=smart&auto=webp&s=9b16af7fe688708a7c6acfaf6f3051b641bcad04",
-        "published": "2026-05-06T21:09:37+00:00"
+        "title": "The Anti-AI Data Center Rebellion Keeps Growing Bigger - Public support for AI infrastructure has fallen sharply across party lines",
+        "link": "https://www.reddit.com/r/technology/comments/1t6jc58/the_antiai_data_center_rebellion_keeps_growing/",
+        "image": "https://external-preview.redd.it/iIzn74UoSgQ40E9W1886I3sLJ3a1ehGHIzsqO8_lE2M.jpeg?width=640&crop=smart&auto=webp&s=5aefd5873e7d5f7edfa49dfd79bfb1e565d20682",
+        "published": "2026-05-07T18:37:49+00:00"
     },
     {
         "title": "Disneyland Now Uses Face Recognition on Visitors",
@@ -48,6 +48,12 @@
         "published": "2026-05-07T15:01:14+00:00"
     },
     {
+        "title": "Extortion Using Smart Glasses Is a Thing Now",
+        "link": "https://www.reddit.com/r/technology/comments/1t6ltbo/extortion_using_smart_glasses_is_a_thing_now/",
+        "image": "https://external-preview.redd.it/X028G5CkH6fiZG50s5lcGV1d5NmztL6sBMf9dGMGAIE.jpeg?width=640&crop=smart&auto=webp&s=1a0e278a975b57b952953322b4c07e9fda0d4a68",
+        "published": "2026-05-07T20:05:11+00:00"
+    },
+    {
         "title": "Taiwan cops say student's radio kit brought bullet trains to a standstill",
         "link": "https://www.reddit.com/r/technology/comments/1t60i2q/taiwan_cops_say_students_radio_kit_brought_bullet/",
         "image": "https://external-preview.redd.it/_ueTOkRhqaJKeJOairna7lgMqCA252gEAcPf4N2o31c.jpeg?width=640&crop=smart&auto=webp&s=3a14517b8bc47b0012ef9b93881c67a39ab5cc83",
@@ -60,22 +66,16 @@
         "published": "2026-05-06T23:27:58+00:00"
     },
     {
-        "title": "The Anti-AI Data Center Rebellion Keeps Growing Bigger - Public support for AI infrastructure has fallen sharply across party lines",
-        "link": "https://www.reddit.com/r/technology/comments/1t6jc58/the_antiai_data_center_rebellion_keeps_growing/",
-        "image": "https://external-preview.redd.it/iIzn74UoSgQ40E9W1886I3sLJ3a1ehGHIzsqO8_lE2M.jpeg?width=640&crop=smart&auto=webp&s=5aefd5873e7d5f7edfa49dfd79bfb1e565d20682",
-        "published": "2026-05-07T18:37:49+00:00"
+        "title": "\"It is frustrating to see policymakers suddenly claim everything is 'for our safety'\" - Stop Killing Games joins pushback against age verification laws",
+        "link": "https://www.reddit.com/r/technology/comments/1t6dafs/it_is_frustrating_to_see_policymakers_suddenly/",
+        "image": "https://external-preview.redd.it/mtg35ZLbbX9PpafbBa9P0XkGtrctSQmYvmsmlNy8UX0.jpeg?width=640&crop=smart&auto=webp&s=e9680ea61d2c2d446e5c37edb2db092c6e5ec57c",
+        "published": "2026-05-07T15:07:16+00:00"
     },
     {
         "title": "Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy \u2014 highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model",
         "link": "https://www.reddit.com/r/technology/comments/1t617u3/apple_quietly_axes_128gb_mac_studio_amid_supply/",
         "image": "https://external-preview.redd.it/tQyJo9zqtrdyPDoc76ElS6HGY29QOPEvpIKW4N6gfBM.jpeg?width=640&crop=smart&auto=webp&s=ac1434141d80db54d412a853af65518d2f1af500",
         "published": "2026-05-07T05:26:45+00:00"
-    },
-    {
-        "title": "\"It is frustrating to see policymakers suddenly claim everything is 'for our safety'\" - Stop Killing Games joins pushback against age verification laws",
-        "link": "https://www.reddit.com/r/technology/comments/1t6dafs/it_is_frustrating_to_see_policymakers_suddenly/",
-        "image": "https://external-preview.redd.it/mtg35ZLbbX9PpafbBa9P0XkGtrctSQmYvmsmlNy8UX0.jpeg?width=640&crop=smart&auto=webp&s=e9680ea61d2c2d446e5c37edb2db092c6e5ec57c",
-        "published": "2026-05-07T15:07:16+00:00"
     },
     {
         "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
