@@ -18,12 +18,6 @@
         "published": "2026-05-07T10:01:00+00:00"
     },
     {
-        "title": "Genesis AI's Gene'26.5",
-        "link": "https://www.reddit.com/r/singularity/comments/1t5lxmh/genesis_ais_gene265/",
-        "image": "https://external-preview.redd.it/dmhkZ2Y4N25ia3pnMUO2Ogynb7PzTqZNR63J623sY2K0MkbasgJf2mZiOeWa.png?width=640&crop=smart&auto=webp&s=cf7b92d27a3664a710f19f282bf3f096e776c3cb",
-        "published": "2026-05-06T18:45:04+00:00"
-    },
-    {
         "title": "Anthropic partnered with SpaceX for compute",
         "link": "https://www.reddit.com/r/singularity/comments/1t6a394/anthropic_partnered_with_spacex_for_compute/",
         "image": "https://preview.redd.it/6187dxjrspzg1.jpeg?width=640&crop=smart&auto=webp&s=d6a57797e81d09d15ba05c5f853d67d228de9647",
@@ -34,12 +28,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t5q53r/three_key_areas_anthropic_is_working_on_for_their/",
         "image": "https://preview.redd.it/jq3ulquzzkzg1.png?width=640&crop=smart&auto=webp&s=7bf219502b6c231ab650dd48a28ef5363bda8e9d",
         "published": "2026-05-06T21:15:08+00:00"
-    },
-    {
-        "title": "DeepSeek Targets $50B Valuation in First Fundraising, Escalating Global AI Race",
-        "link": "https://www.reddit.com/r/singularity/comments/1t5mdkp/deepseek_targets_50b_valuation_in_first/",
-        "image": "https://external-preview.redd.it/20Qda7Czs2YJJCfLTBjU6mp7OcdIWhoXl0ju9FIJII8.jpeg?width=640&crop=smart&auto=webp&s=8dd9973ccc6b959542af30d51c50f8c85ff11536",
-        "published": "2026-05-06T19:00:35+00:00"
     },
     {
         "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
@@ -54,15 +42,33 @@
         "published": "2026-05-07T11:32:55+00:00"
     },
     {
+        "title": "Mapping a human face onto a small robot (instead of giving it an uncanny humanoid face)?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t6bnqv/mapping_a_human_face_onto_a_small_robot_instead/",
+        "image": "https://external-preview.redd.it/Ynd2ZHA0cmlpcHpnMS99xE_Ixe1xzOJiS6wpUga5hwZaxzzYpNnMBhMFGh4E.png?width=640&crop=smart&auto=webp&s=86aab78fc2a1752a5173b6c04c9f1cdad9533d45",
+        "published": "2026-05-07T14:09:27+00:00"
+    },
+    {
         "title": "Silicon oscillators solve computer problems that would take thousands of years using semiconductors",
         "link": "https://www.reddit.com/r/singularity/comments/1t647lc/silicon_oscillators_solve_computer_problems_that/",
         "image": "https://external-preview.redd.it/JnqcHVA92GL4Nyl9lKxvJ09zmE7FZj_k5i5OcpNav70.jpeg?width=640&crop=smart&auto=webp&s=b6c5088a711d478295e50a93ca46bba3a6cc6a65",
         "published": "2026-05-07T08:17:59+00:00"
     },
     {
-        "title": "Mapping a human face onto a small robot (instead of giving it an uncanny humanoid face)?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t6bnqv/mapping_a_human_face_onto_a_small_robot_instead/",
-        "image": "https://external-preview.redd.it/Ynd2ZHA0cmlpcHpnMS99xE_Ixe1xzOJiS6wpUga5hwZaxzzYpNnMBhMFGh4E.png?width=640&crop=smart&auto=webp&s=86aab78fc2a1752a5173b6c04c9f1cdad9533d45",
-        "published": "2026-05-07T14:09:27+00:00"
+        "title": "New OpenAI Voice models: GPT-Realtime-2, Translate, and Whisper",
+        "link": "https://www.reddit.com/r/singularity/comments/1t6hwir/new_openai_voice_models_gptrealtime2_translate/",
+        "image": "https://external-preview.redd.it/1Pq4m6KQf87RRt5C0PHBnCppXhVZe9P9NseHl3UyiiQ.png?width=640&crop=smart&auto=webp&s=b2564c1301319e2f85de2303f9caad87e6ec60df",
+        "published": "2026-05-07T17:47:53+00:00"
+    },
+    {
+        "title": "When will we start to see companies making massive leaps in their product release iterations ?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t6hd2u/when_will_we_start_to_see_companies_making/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-07T17:29:27+00:00"
+    },
+    {
+        "title": "Translating Claude\u2019s thoughts into language",
+        "link": "https://www.reddit.com/r/singularity/comments/1t6h2ph/translating_claudes_thoughts_into_language/",
+        "image": "https://external-preview.redd.it/TYUPfUr0IOjS1RDKNr_pM9d2cdPmeQp5HHOKZ8jsKE8.jpeg?width=320&crop=smart&auto=webp&s=9b28aa1596f83de6b5d50afd89736f96cc8df8db",
+        "published": "2026-05-07T17:19:50+00:00"
     }
 ]
