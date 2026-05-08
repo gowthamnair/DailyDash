@@ -24,22 +24,16 @@
         "published": "2026-05-07T18:37:49+00:00"
     },
     {
-        "title": "Cloudflare lays off 1,100 people",
-        "link": "https://www.reddit.com/r/technology/comments/1t6okg0/cloudflare_lays_off_1100_people/",
-        "image": "https://external-preview.redd.it/8FlUDmf7qTTSest0oPeNUj4Ajxo5NwSU-lORjdnfIKo.png?width=640&crop=smart&auto=webp&s=efa8cc1868a1ebb49b2cb98670f2232c4094eec6",
-        "published": "2026-05-07T21:46:23+00:00"
-    },
-    {
         "title": "The world is trying to log off U.S. tech",
         "link": "https://www.reddit.com/r/technology/comments/1t6tq7t/the_world_is_trying_to_log_off_us_tech/",
         "image": "https://external-preview.redd.it/NDH-jZSA4Rgz69DOBjY2OAlEdrvmlxStoqefLL9sDEw.jpeg?width=640&crop=smart&auto=webp&s=06a5bcc2f8fa0caeecff2c217ac4ed0ca0b5311c",
         "published": "2026-05-08T01:29:30+00:00"
     },
     {
-        "title": "Microsoft made Copilot a co-author on every VS Code project, reverted after developers revolted",
-        "link": "https://www.reddit.com/r/technology/comments/1t69va3/microsoft_made_copilot_a_coauthor_on_every_vs/",
-        "image": "https://external-preview.redd.it/TLwkBMurVvDgE0USeAjrRqBqXoeSvoT_qzGaeWEXivs.jpeg?width=640&crop=smart&auto=webp&s=4347de92b2483c0cc6cec01e4d1c3cd62ccd1f57",
-        "published": "2026-05-07T13:00:47+00:00"
+        "title": "Cloudflare lays off 1,100 people",
+        "link": "https://www.reddit.com/r/technology/comments/1t6okg0/cloudflare_lays_off_1100_people/",
+        "image": "https://external-preview.redd.it/8FlUDmf7qTTSest0oPeNUj4Ajxo5NwSU-lORjdnfIKo.png?width=640&crop=smart&auto=webp&s=efa8cc1868a1ebb49b2cb98670f2232c4094eec6",
+        "published": "2026-05-07T21:46:23+00:00"
     },
     {
         "title": "Apple is putting cameras in AirPods. What could possibly go wrong?",
@@ -60,16 +54,16 @@
         "published": "2026-05-07T15:01:14+00:00"
     },
     {
-        "title": "\"It is frustrating to see policymakers suddenly claim everything is 'for our safety'\" - Stop Killing Games joins pushback against age verification laws",
-        "link": "https://www.reddit.com/r/technology/comments/1t6dafs/it_is_frustrating_to_see_policymakers_suddenly/",
-        "image": "https://external-preview.redd.it/mtg35ZLbbX9PpafbBa9P0XkGtrctSQmYvmsmlNy8UX0.jpeg?width=640&crop=smart&auto=webp&s=e9680ea61d2c2d446e5c37edb2db092c6e5ec57c",
-        "published": "2026-05-07T15:07:16+00:00"
-    },
-    {
         "title": "60% of MD5 password hashes are crackable in under an hour",
         "link": "https://www.reddit.com/r/technology/comments/1t6reoe/60_of_md5_password_hashes_are_crackable_in_under/",
         "image": "https://external-preview.redd.it/zwpyMcSMNPH2bASR3eV9Gwl19E2-bgVB3XH86LAiE88.jpeg?width=640&crop=smart&auto=webp&s=2fc7b10e9ab558ca14caaa498d1444893840b6c0",
         "published": "2026-05-07T23:44:22+00:00"
+    },
+    {
+        "title": "\"It is frustrating to see policymakers suddenly claim everything is 'for our safety'\" - Stop Killing Games joins pushback against age verification laws",
+        "link": "https://www.reddit.com/r/technology/comments/1t6dafs/it_is_frustrating_to_see_policymakers_suddenly/",
+        "image": "https://external-preview.redd.it/mtg35ZLbbX9PpafbBa9P0XkGtrctSQmYvmsmlNy8UX0.jpeg?width=640&crop=smart&auto=webp&s=e9680ea61d2c2d446e5c37edb2db092c6e5ec57c",
+        "published": "2026-05-07T15:07:16+00:00"
     },
     {
         "title": "A hacker ran me over with a robot lawn mower | Forget robovacs \u2014 Yarbo\u2019s bladed robots are an even bigger security nightmare",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1t6v9ri/dhs_cant_create_vast_dna_database_to_track_ice/",
         "image": "https://external-preview.redd.it/XFTF3y7C7ugoWkmMhN6NtMCc8nneUb02Qsr1fLPDnMU.jpeg?width=640&crop=smart&auto=webp&s=7ca2f06ae8999020a93204332fb57c8026657b0c",
         "published": "2026-05-08T02:41:44+00:00"
+    },
+    {
+        "title": "AWS says data center overheating in North Virginia disrupts services; Coinbase impacted",
+        "link": "https://www.reddit.com/r/technology/comments/1t6wb0s/aws_says_data_center_overheating_in_north/",
+        "image": "https://external-preview.redd.it/3XCPz8-rHcc3r3ibvAqVBnxdjjcIgOjskj9bLJOrKGc.jpeg?width=640&crop=smart&auto=webp&s=600897479d6bda7e5cd5163e840e062ac33bc3c1",
+        "published": "2026-05-08T03:30:56+00:00"
     },
     {
         "title": "Verizon cuts several hundred US workers months after slashing 13,000 jobs",
