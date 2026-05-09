@@ -48,16 +48,16 @@
         "published": "2026-05-08T12:59:27+00:00"
     },
     {
-        "title": "Joscha Bach: Why Mind Uploading Probably Won't Work",
-        "link": "https://www.reddit.com/r/singularity/comments/1t7nk5a/joscha_bach_why_mind_uploading_probably_wont_work/",
-        "image": "https://external-preview.redd.it/aWNvbTZhbG50enpnMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=349f5412312a71fbea57d80b3709dfd8afdfbd36",
-        "published": "2026-05-08T23:00:04+00:00"
-    },
-    {
         "title": "First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software",
         "link": "https://www.reddit.com/r/singularity/comments/1t7nswb/first_native_color_lidar_sensor_by_ouster_rev8/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-08T23:09:57+00:00"
+    },
+    {
+        "title": "Joscha Bach: Why Mind Uploading Probably Won't Work",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7nk5a/joscha_bach_why_mind_uploading_probably_wont_work/",
+        "image": "https://external-preview.redd.it/aWNvbTZhbG50enpnMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=349f5412312a71fbea57d80b3709dfd8afdfbd36",
+        "published": "2026-05-08T23:00:04+00:00"
     },
     {
         "title": "Has anyone messed around with song generation using Google's Lyria 3 Pro? This was 8 cents in API credits, and the first thing I ever generated...",
