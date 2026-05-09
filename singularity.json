@@ -12,12 +12,6 @@
         "published": "2026-05-09T00:35:07+00:00"
     },
     {
-        "title": "Helix 02 Bedroom Tidy",
-        "link": "https://www.reddit.com/r/singularity/comments/1t7bix8/helix_02_bedroom_tidy/",
-        "image": "https://external-preview.redd.it/6DV4W_d-SaNgpdT7X7hdpRkPcxCkswBqCj3ggZ0hSGs.jpeg?width=320&crop=smart&auto=webp&s=3ac4fca1dce3c1fdd9c11c2fd81d785fbfbd4eb5",
-        "published": "2026-05-08T15:37:21+00:00"
-    },
-    {
         "title": "[Google DeepMind] the AI co-mathematician also achieves state of the art results on hard problemsolving benchmarks, including scoring 48% on FrontierMath Tier 4, a new high score among all AI systems evaluated.",
         "link": "https://www.reddit.com/r/singularity/comments/1t7dcum/google_deepmind_the_ai_comathematician_also/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -30,16 +24,22 @@
         "published": "2026-05-08T20:25:19+00:00"
     },
     {
+        "title": "Cloudflare\u2019s AI usage increased by 600% in the last 3 months, leading to the elimination of 1,100 jobs as part of an Agentic AI restructuring",
+        "link": "https://www.reddit.com/r/singularity/comments/1t837hp/cloudflares_ai_usage_increased_by_600_in_the_last/",
+        "image": "https://external-preview.redd.it/3_vjsofvtYo2meqlASBQqBfOw7bXa-flGqp_3mIj3kA.jpeg?width=640&crop=smart&auto=webp&s=687cb812064f6137a3b50fbb024e1443ca42d432",
+        "published": "2026-05-09T12:07:24+00:00"
+    },
+    {
         "title": "First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software",
         "link": "https://www.reddit.com/r/singularity/comments/1t7nswb/first_native_color_lidar_sensor_by_ouster_rev8/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-08T23:09:57+00:00"
     },
     {
-        "title": "Cloudflare\u2019s AI usage increased by 600% in the last 3 months, leading to the elimination of 1,100 jobs as part of an Agentic AI restructuring",
-        "link": "https://www.reddit.com/r/singularity/comments/1t837hp/cloudflares_ai_usage_increased_by_600_in_the_last/",
-        "image": "https://external-preview.redd.it/3_vjsofvtYo2meqlASBQqBfOw7bXa-flGqp_3mIj3kA.jpeg?width=640&crop=smart&auto=webp&s=687cb812064f6137a3b50fbb024e1443ca42d432",
-        "published": "2026-05-09T12:07:24+00:00"
+        "title": "Post-human choreographic studies on Seedance 2.0",
+        "link": "https://www.reddit.com/r/singularity/comments/1t86bbg/posthuman_choreographic_studies_on_seedance_20/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-09T14:20:44+00:00"
     },
     {
         "title": "Playing Around with the ARC-AGI-3 Benchmark",
@@ -48,9 +48,9 @@
         "published": "2026-05-09T05:14:30+00:00"
     },
     {
-        "title": "AI making things weird in sales",
-        "link": "https://www.reddit.com/r/singularity/comments/1t83y98/ai_making_things_weird_in_sales/",
+        "title": "Do you think robots that can do 90% of our chores at home requires agi?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t861dg/do_you_think_robots_that_can_do_90_of_our_chores/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-09T12:41:37+00:00"
+        "published": "2026-05-09T14:09:41+00:00"
     }
 ]
