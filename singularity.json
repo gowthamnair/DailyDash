@@ -18,16 +18,16 @@
         "published": "2026-05-08T23:02:23+00:00"
     },
     {
-        "title": "Scientists identified over 10,000 new exoplanet candidates using AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1t7879n/scientists_identified_over_10000_new_exoplanet/",
-        "image": "https://external-preview.redd.it/kPaaR3aupHNGwoB3aTaIXpbd87utUj8lo0T2xONYZqY.jpeg?width=640&crop=smart&auto=webp&s=36e71688322053864660cbe45481d3993bc4b8a3",
-        "published": "2026-05-08T13:36:53+00:00"
-    },
-    {
         "title": "METR evaluated an early version of Claude Mythos",
         "link": "https://www.reddit.com/r/singularity/comments/1t7pqpr/metr_evaluated_an_early_version_of_claude_mythos/",
         "image": "https://preview.redd.it/wo3oyfnjb00h1.png?width=140&height=71&auto=webp&s=deee29d8d5461377ec8e48ee981c6649702fd8a5",
         "published": "2026-05-09T00:35:07+00:00"
+    },
+    {
+        "title": "Scientists identified over 10,000 new exoplanet candidates using AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7879n/scientists_identified_over_10000_new_exoplanet/",
+        "image": "https://external-preview.redd.it/kPaaR3aupHNGwoB3aTaIXpbd87utUj8lo0T2xONYZqY.jpeg?width=640&crop=smart&auto=webp&s=36e71688322053864660cbe45481d3993bc4b8a3",
+        "published": "2026-05-08T13:36:53+00:00"
     },
     {
         "title": "Helix 02 Bedroom Tidy",
@@ -60,22 +60,16 @@
         "published": "2026-05-08T23:00:04+00:00"
     },
     {
-        "title": "Study: Firms often use automation to control certain workers\u2019 wages | MIT economists found US companies tend to target employees earning a \u201cwage premium,\u201d which increases inequality but not necessarily productivity.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t745u8/study_firms_often_use_automation_to_control/",
-        "image": "https://external-preview.redd.it/1GqSCtCQpUkrlg4zpgIeNQhO51Xd6bWWoT9IgQzMkPY.jpeg?width=640&crop=smart&auto=webp&s=b6882a82e404ce8d32cfee6b364745e7f6ce68df",
-        "published": "2026-05-08T10:39:42+00:00"
-    },
-    {
         "title": "First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software",
         "link": "https://www.reddit.com/r/singularity/comments/1t7nswb/first_native_color_lidar_sensor_by_ouster_rev8/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-08T23:09:57+00:00"
     },
     {
-        "title": "I came up with this in 2007 for a college project. Yellow line is intelligence, blue is world / society simulation. How am I doing so far?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t6z22p/i_came_up_with_this_in_2007_for_a_college_project/",
-        "image": "https://preview.redd.it/aafr4zp5quzg1.png?width=640&crop=smart&auto=webp&s=f9f41deb3e2f1549b33260aab7ffd69415bc64c3",
-        "published": "2026-05-08T05:54:20+00:00"
+        "title": "Study: Firms often use automation to control certain workers\u2019 wages | MIT economists found US companies tend to target employees earning a \u201cwage premium,\u201d which increases inequality but not necessarily productivity.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t745u8/study_firms_often_use_automation_to_control/",
+        "image": "https://external-preview.redd.it/1GqSCtCQpUkrlg4zpgIeNQhO51Xd6bWWoT9IgQzMkPY.jpeg?width=640&crop=smart&auto=webp&s=b6882a82e404ce8d32cfee6b364745e7f6ce68df",
+        "published": "2026-05-08T10:39:42+00:00"
     },
     {
         "title": "Godfather of AI: How To Make Safe Superintelligent AI",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t772a5/3dmind_a_flexible_device_that_can_be_integrated/",
         "image": "https://external-preview.redd.it/HwQ8x8Op2tp15eDXv2flbbfZ8akV0GVF3Rhm6J9de8g.jpeg?width=640&crop=smart&auto=webp&s=4ab9ae731d23e8cdad9bf79948bb425322709a88",
         "published": "2026-05-08T12:53:06+00:00"
+    },
+    {
+        "title": "Has anyone messed around with song generation using Google's Lyria 3 Pro? This was 8 cents in API credits, and the first thing I ever generated...",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7rljf/has_anyone_messed_around_with_song_generation/",
+        "image": "https://external-preview.redd.it/b29_cbUGbyuT7JG7sYv4G829eOZQeD4GhEcUMiP9sIQ.jpeg?width=320&crop=smart&auto=webp&s=17df7ef372d68b344cce6cf51ab9f937a2435330",
+        "published": "2026-05-09T02:00:43+00:00"
     }
 ]
