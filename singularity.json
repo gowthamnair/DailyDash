@@ -24,6 +24,12 @@
         "published": "2026-05-08T13:36:53+00:00"
     },
     {
+        "title": "METR evaluated an early version of Claude Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7pqpr/metr_evaluated_an_early_version_of_claude_mythos/",
+        "image": "https://preview.redd.it/wo3oyfnjb00h1.png?width=140&height=71&auto=webp&s=deee29d8d5461377ec8e48ee981c6649702fd8a5",
+        "published": "2026-05-09T00:35:07+00:00"
+    },
+    {
         "title": "Helix 02 Bedroom Tidy",
         "link": "https://www.reddit.com/r/singularity/comments/1t7bix8/helix_02_bedroom_tidy/",
         "image": "https://external-preview.redd.it/6DV4W_d-SaNgpdT7X7hdpRkPcxCkswBqCj3ggZ0hSGs.jpeg?width=320&crop=smart&auto=webp&s=3ac4fca1dce3c1fdd9c11c2fd81d785fbfbd4eb5",
@@ -36,22 +42,16 @@
         "published": "2026-05-08T16:43:05+00:00"
     },
     {
-        "title": "METR evaluated an early version of Claude Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1t7pqpr/metr_evaluated_an_early_version_of_claude_mythos/",
-        "image": "https://preview.redd.it/wo3oyfnjb00h1.png?width=140&height=71&auto=webp&s=deee29d8d5461377ec8e48ee981c6649702fd8a5",
-        "published": "2026-05-09T00:35:07+00:00"
+        "title": "Claude:",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7jlbi/claude/",
+        "image": "https://external-preview.redd.it/ZWx1YnZ2YmUzenpnMe5Fu0a3eWzwcjLiIN8KGL020uniPi3z32P8AHG8apUg.png?width=640&crop=smart&auto=webp&s=1c63e54b2657ac33e06bfb04e4501ea9537eef69",
+        "published": "2026-05-08T20:25:19+00:00"
     },
     {
         "title": "As G1 is getting popular Unitree is launching a store to download sdk, dances, martial arts and other tasks.",
         "link": "https://www.reddit.com/r/singularity/comments/1t777wn/as_g1_is_getting_popular_unitree_is_launching_a/",
         "image": "https://external-preview.redd.it/dDYxM201d3F2d3pnMdA2cpM4QDwpi--9i6K7p6fnDGg43VyC-7A32S3ATLPL.png?width=320&crop=smart&auto=webp&s=59723ac34065a576ad43648eceb0098d894b466a",
         "published": "2026-05-08T12:59:27+00:00"
-    },
-    {
-        "title": "Claude:",
-        "link": "https://www.reddit.com/r/singularity/comments/1t7jlbi/claude/",
-        "image": "https://external-preview.redd.it/ZWx1YnZ2YmUzenpnMe5Fu0a3eWzwcjLiIN8KGL020uniPi3z32P8AHG8apUg.png?width=640&crop=smart&auto=webp&s=1c63e54b2657ac33e06bfb04e4501ea9537eef69",
-        "published": "2026-05-08T20:25:19+00:00"
     },
     {
         "title": "Joscha Bach: Why Mind Uploading Probably Won't Work",
@@ -64,6 +64,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t745u8/study_firms_often_use_automation_to_control/",
         "image": "https://external-preview.redd.it/1GqSCtCQpUkrlg4zpgIeNQhO51Xd6bWWoT9IgQzMkPY.jpeg?width=640&crop=smart&auto=webp&s=b6882a82e404ce8d32cfee6b364745e7f6ce68df",
         "published": "2026-05-08T10:39:42+00:00"
+    },
+    {
+        "title": "First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7nswb/first_native_color_lidar_sensor_by_ouster_rev8/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-08T23:09:57+00:00"
     },
     {
         "title": "I came up with this in 2007 for a college project. Yellow line is intelligence, blue is world / society simulation. How am I doing so far?",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t772a5/3dmind_a_flexible_device_that_can_be_integrated/",
         "image": "https://external-preview.redd.it/HwQ8x8Op2tp15eDXv2flbbfZ8akV0GVF3Rhm6J9de8g.jpeg?width=640&crop=smart&auto=webp&s=4ab9ae731d23e8cdad9bf79948bb425322709a88",
         "published": "2026-05-08T12:53:06+00:00"
-    },
-    {
-        "title": "First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software",
-        "link": "https://www.reddit.com/r/singularity/comments/1t7nswb/first_native_color_lidar_sensor_by_ouster_rev8/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-08T23:09:57+00:00"
     }
 ]
