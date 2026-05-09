@@ -18,12 +18,6 @@
         "published": "2026-05-08T18:03:36+00:00"
     },
     {
-        "title": "The world is trying to log off U.S. tech",
-        "link": "https://www.reddit.com/r/technology/comments/1t6tq7t/the_world_is_trying_to_log_off_us_tech/",
-        "image": "https://external-preview.redd.it/NDH-jZSA4Rgz69DOBjY2OAlEdrvmlxStoqefLL9sDEw.jpeg?width=640&crop=smart&auto=webp&s=06a5bcc2f8fa0caeecff2c217ac4ed0ca0b5311c",
-        "published": "2026-05-08T01:29:30+00:00"
-    },
-    {
         "title": "EU calls VPNs \u201ca loophole that needs closing\u201d in age verification push",
         "link": "https://www.reddit.com/r/technology/comments/1t7epmj/eu_calls_vpns_a_loophole_that_needs_closing_in/",
         "image": "https://external-preview.redd.it/8eP5nVmcRK4XI6dNd-bTqM5wqEdqp9vk0-yqzowuVuc.jpeg?width=640&crop=smart&auto=webp&s=da78016f96fadc64f88d4c3868d44f0db1176d97",
@@ -42,28 +36,28 @@
         "published": "2026-05-08T11:15:58+00:00"
     },
     {
-        "title": "Claude Code's creator is sick of the phrase 'vibe coding.' Suggest your alternative here.",
-        "link": "https://www.reddit.com/r/technology/comments/1t75ntg/claude_codes_creator_is_sick_of_the_phrase_vibe/",
-        "image": "https://external-preview.redd.it/io-Rd9SmI79AGknoJ1JCC0PhgWXq8GOV5lqJMq8JgyU.jpeg?width=640&crop=smart&auto=webp&s=3d44fb762551466673f23322a467c8e00a660bbb",
-        "published": "2026-05-08T11:52:39+00:00"
-    },
-    {
         "title": "Rising Fuel Prices Are Making Return\u2011to\u2011Office Mandates Harder to Defend",
         "link": "https://www.reddit.com/r/technology/comments/1t7bexs/rising_fuel_prices_are_making_returntooffice/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-08T15:33:23+00:00"
     },
     {
-        "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-        "link": "https://www.reddit.com/r/technology/comments/1t79gr0/thousands_of_vibecoded_apps_expose_corporate_and/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-08T14:24:01+00:00"
+        "title": "Claude Code's creator is sick of the phrase 'vibe coding.' Suggest your alternative here.",
+        "link": "https://www.reddit.com/r/technology/comments/1t75ntg/claude_codes_creator_is_sick_of_the_phrase_vibe/",
+        "image": "https://external-preview.redd.it/io-Rd9SmI79AGknoJ1JCC0PhgWXq8GOV5lqJMq8JgyU.jpeg?width=640&crop=smart&auto=webp&s=3d44fb762551466673f23322a467c8e00a660bbb",
+        "published": "2026-05-08T11:52:39+00:00"
     },
     {
         "title": "Big data centers in Florida must pay full power and infrastructure costs under new law",
         "link": "https://www.reddit.com/r/technology/comments/1t7h47c/big_data_centers_in_florida_must_pay_full_power/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-08T18:54:46+00:00"
+    },
+    {
+        "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+        "link": "https://www.reddit.com/r/technology/comments/1t79gr0/thousands_of_vibecoded_apps_expose_corporate_and/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-08T14:24:01+00:00"
     },
     {
         "title": "AWS says data center overheating in North Virginia disrupts services; Coinbase impacted",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1t7degf/stanford_study_finds_school_phone_bans_may/",
         "image": "https://external-preview.redd.it/E-qT1WNLzFlpaHg0W20KssHcZIsFe103C4y7H0j4SC4.jpeg?width=640&crop=smart&auto=webp&s=b43403d1863ebd3b3d36174124e4eb6de29c7c13",
         "published": "2026-05-08T16:44:38+00:00"
+    },
+    {
+        "title": "Cloudflare is laying off 1,100 employees to prepare for 'the agentic AI era'",
+        "link": "https://www.reddit.com/r/technology/comments/1t7f2e1/cloudflare_is_laying_off_1100_employees_to/",
+        "image": "https://external-preview.redd.it/FX5t1hCv-0loH306mNDN_XAp7F2dRVv_JYjIQT8QYDI.jpeg?width=640&crop=smart&auto=webp&s=364d0600d067ac77ebd0822e63bafdea55f0b894",
+        "published": "2026-05-08T17:42:14+00:00"
     }
 ]
