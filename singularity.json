@@ -1,11 +1,5 @@
 [
     {
-        "title": "Anthropic to reach 100% global GDP in 21 months",
-        "link": "https://www.reddit.com/r/singularity/comments/1t73lym/anthropic_to_reach_100_global_gdp_in_21_months/",
-        "image": "https://preview.redd.it/4j2yhac41wzg1.png?width=640&crop=smart&auto=webp&s=b5bf9c652a7a2da68112d4ad532ba1d60aabbf1b",
-        "published": "2026-05-08T10:09:35+00:00"
-    },
-    {
         "title": "Fields Medal winning mathematician Timothy Gowers used GPT5.5 Pro to solve open problems, believes mathematical research will face a \u2018crisis\u2019 very soon with current rate of progress",
         "link": "https://www.reddit.com/r/singularity/comments/1t7iyis/fields_medal_winning_mathematician_timothy_gowers/",
         "image": "https://preview.redd.it/365juonazyzg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e575e0c02ec540ea9f70c9db68978d3116367d1a",
@@ -66,18 +60,6 @@
         "published": "2026-05-08T23:09:57+00:00"
     },
     {
-        "title": "Study: Firms often use automation to control certain workers\u2019 wages | MIT economists found US companies tend to target employees earning a \u201cwage premium,\u201d which increases inequality but not necessarily productivity.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t745u8/study_firms_often_use_automation_to_control/",
-        "image": "https://external-preview.redd.it/1GqSCtCQpUkrlg4zpgIeNQhO51Xd6bWWoT9IgQzMkPY.jpeg?width=640&crop=smart&auto=webp&s=b6882a82e404ce8d32cfee6b364745e7f6ce68df",
-        "published": "2026-05-08T10:39:42+00:00"
-    },
-    {
-        "title": "Godfather of AI: How To Make Safe Superintelligent AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1t73bnv/godfather_of_ai_how_to_make_safe_superintelligent/",
-        "image": "https://external-preview.redd.it/gnfGQTzRo0AOprbEd_2oK1_VNVGVaU1UTiswv3dZ_sw.jpeg?width=320&crop=smart&auto=webp&s=0915c98723a8df38256a816d0af704bad1688560",
-        "published": "2026-05-08T09:54:18+00:00"
-    },
-    {
         "title": "Has anyone messed around with song generation using Google's Lyria 3 Pro? This was 8 cents in API credits, and the first thing I ever generated...",
         "link": "https://www.reddit.com/r/singularity/comments/1t7rljf/has_anyone_messed_around_with_song_generation/",
         "image": "https://external-preview.redd.it/b29_cbUGbyuT7JG7sYv4G829eOZQeD4GhEcUMiP9sIQ.jpeg?width=320&crop=smart&auto=webp&s=17df7ef372d68b344cce6cf51ab9f937a2435330",
@@ -88,5 +70,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t772a5/3dmind_a_flexible_device_that_can_be_integrated/",
         "image": "https://external-preview.redd.it/HwQ8x8Op2tp15eDXv2flbbfZ8akV0GVF3Rhm6J9de8g.jpeg?width=640&crop=smart&auto=webp&s=4ab9ae731d23e8cdad9bf79948bb425322709a88",
         "published": "2026-05-08T12:53:06+00:00"
+    },
+    {
+        "title": "Playing Around with the ARC-AGI-3 Benchmark",
+        "link": "https://www.reddit.com/r/singularity/comments/1t7vkb1/playing_around_with_the_arcagi3_benchmark/",
+        "image": "https://external-preview.redd.it/wl1-m4SIpkn46fYpo_fq96qQ1HA1378haMLFKKIQPXU.jpeg?width=640&crop=smart&auto=webp&s=78922c2152413c789def833c7da1ea91a46533d7",
+        "published": "2026-05-09T05:14:30+00:00"
     }
 ]
