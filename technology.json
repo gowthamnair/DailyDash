@@ -1,21 +1,15 @@
 [
     {
-        "title": "Meta Is Dying. It\u2019s About Time.",
-        "link": "https://www.reddit.com/r/technology/comments/1t7etmb/meta_is_dying_its_about_time/",
-        "image": "https://external-preview.redd.it/khWa1vggqBYyHnktS5LXREzsSKSLvtF27MdAXDiQNlw.jpeg?width=640&crop=smart&auto=webp&s=6cd61b0b9a0aa41b10a2138550ca46926cade622",
-        "published": "2026-05-08T17:33:47+00:00"
-    },
-    {
         "title": "Judge rules DOGE used ChatGPT in a way that was both dumb and illegal / The ruling restores federal grants that were shut down for \u2018DEI\u2019 prejudice.",
         "link": "https://www.reddit.com/r/technology/comments/1t7fosx/judge_rules_doge_used_chatgpt_in_a_way_that_was/",
         "image": "https://external-preview.redd.it/daB517b_KmWgrJlcTYaOaZlvsM29RhxA8hwUsPI-8MI.jpeg?width=640&crop=smart&auto=webp&s=3fc19d7560568858dc46e92ba6f6b8da94d88875",
         "published": "2026-05-08T18:03:36+00:00"
     },
     {
-        "title": "EU calls VPNs \u201ca loophole that needs closing\u201d in age verification push",
-        "link": "https://www.reddit.com/r/technology/comments/1t7epmj/eu_calls_vpns_a_loophole_that_needs_closing_in/",
-        "image": "https://external-preview.redd.it/8eP5nVmcRK4XI6dNd-bTqM5wqEdqp9vk0-yqzowuVuc.jpeg?width=640&crop=smart&auto=webp&s=da78016f96fadc64f88d4c3868d44f0db1176d97",
-        "published": "2026-05-08T17:30:10+00:00"
+        "title": "A major watchdog says data centers are wreaking havoc on North America's power grid",
+        "link": "https://www.reddit.com/r/technology/comments/1t87axj/a_major_watchdog_says_data_centers_are_wreaking/",
+        "image": "https://external-preview.redd.it/m0q35dUnXvN_oW3WKqmVp3NmIz0dUwc9qaJ4SBu6A3k.jpeg?width=640&crop=smart&auto=webp&s=e7e86369703b882e4abc128ab86ab7ba82dbbdeb",
+        "published": "2026-05-09T15:00:11+00:00"
     },
     {
         "title": "Parent company of Truth Social reports $400M loss",
@@ -36,22 +30,10 @@
         "published": "2026-05-09T13:24:08+00:00"
     },
     {
-        "title": "A major watchdog says data centers are wreaking havoc on North America's power grid",
-        "link": "https://www.reddit.com/r/technology/comments/1t87axj/a_major_watchdog_says_data_centers_are_wreaking/",
-        "image": "https://external-preview.redd.it/m0q35dUnXvN_oW3WKqmVp3NmIz0dUwc9qaJ4SBu6A3k.jpeg?width=640&crop=smart&auto=webp&s=e7e86369703b882e4abc128ab86ab7ba82dbbdeb",
-        "published": "2026-05-09T15:00:11+00:00"
-    },
-    {
         "title": "Big data centers in Florida must pay full power and infrastructure costs under new law",
         "link": "https://www.reddit.com/r/technology/comments/1t7h47c/big_data_centers_in_florida_must_pay_full_power/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-08T18:54:46+00:00"
-    },
-    {
-        "title": "Stanford study finds school phone bans may trigger \u201cwithdrawal symptoms\u201d in students",
-        "link": "https://www.reddit.com/r/technology/comments/1t7degf/stanford_study_finds_school_phone_bans_may/",
-        "image": "https://external-preview.redd.it/E-qT1WNLzFlpaHg0W20KssHcZIsFe103C4y7H0j4SC4.jpeg?width=640&crop=smart&auto=webp&s=b43403d1863ebd3b3d36174124e4eb6de29c7c13",
-        "published": "2026-05-08T16:44:38+00:00"
     },
     {
         "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
@@ -72,6 +54,12 @@
         "published": "2026-05-08T19:35:19+00:00"
     },
     {
+        "title": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data \u2014 'transfer stations' operate through proxy networks that harvest user data",
+        "link": "https://www.reddit.com/r/technology/comments/1t85c9d/chinese_grey_market_sells_claude_api_access_at_90/",
+        "image": "https://external-preview.redd.it/_3wbjBT169S-DfQ7h9l7aPKwasNgY5X-J2CZHE2lL7Q.jpeg?width=640&crop=smart&auto=webp&s=0696ba785dd2f8bab3718b52b4295683586dcdfb",
+        "published": "2026-05-09T13:40:58+00:00"
+    },
+    {
         "title": "FCC Extends Update Deadline for Foreign-Made Routers, Drones Until 2029",
         "link": "https://www.reddit.com/r/technology/comments/1t7p64a/fcc_extends_update_deadline_for_foreignmade/",
         "image": "https://external-preview.redd.it/W4vtRtyaGw0h2NeEimvtP9x7U96kwfe2CwHtbf39Ypk.jpeg?width=640&crop=smart&auto=webp&s=94c6d655bcbef2498727aab0caf660cd4f2c474c",
@@ -84,9 +72,21 @@
         "published": "2026-05-08T20:29:27+00:00"
     },
     {
-        "title": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data \u2014 'transfer stations' operate through proxy networks that harvest user data",
-        "link": "https://www.reddit.com/r/technology/comments/1t85c9d/chinese_grey_market_sells_claude_api_access_at_90/",
-        "image": "https://external-preview.redd.it/_3wbjBT169S-DfQ7h9l7aPKwasNgY5X-J2CZHE2lL7Q.jpeg?width=640&crop=smart&auto=webp&s=0696ba785dd2f8bab3718b52b4295683586dcdfb",
-        "published": "2026-05-09T13:40:58+00:00"
+        "title": "North Korean fake remote worker scam lands two Americans 18-month prison sentences for hosting laptops \u2014 U.S firms unknowingly shipped laptops to \u201cemployees\u201d who secretly worked from overseas via remote desktop, generating $1.2 million for Pyongyang",
+        "link": "https://www.reddit.com/r/technology/comments/1t80nre/north_korean_fake_remote_worker_scam_lands_two/",
+        "image": "https://external-preview.redd.it/VolY1o9P6KzOS7mT5NDR4M3fhLOnzfykOmDqJziXJhk.jpeg?width=640&crop=smart&auto=webp&s=a44c18fac73ec6f2fe149c11c6d7562f643784b3",
+        "published": "2026-05-09T09:59:30+00:00"
+    },
+    {
+        "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+        "link": "https://www.reddit.com/r/technology/comments/1t83r0c/thousands_of_vibecoded_apps_expose_corporate_and/",
+        "image": "https://external-preview.redd.it/AumjZbsMRYra0URQJeaABW18dzEaWP5DSz3OFWTW1tI.jpeg?width=640&crop=smart&auto=webp&s=b383324455796cf731135abcaba67b2979e8399f",
+        "published": "2026-05-09T12:32:31+00:00"
+    },
+    {
+        "title": "Anthropic CEO says 80-fold growth in first quarter explains 'difficulties with compute'",
+        "link": "https://www.reddit.com/r/technology/comments/1t7m4l6/anthropic_ceo_says_80fold_growth_in_first_quarter/",
+        "image": "https://external-preview.redd.it/G5xcRJfpiYkqSAdhLnDxIwulDgZfGefjCXdPI7S_d1g.jpeg?width=640&crop=smart&auto=webp&s=78ff47787d94e5bfb9c70ee561fb8c78881dc33f",
+        "published": "2026-05-08T22:01:25+00:00"
     }
 ]
