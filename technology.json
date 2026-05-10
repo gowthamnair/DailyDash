@@ -1,11 +1,5 @@
 [
     {
-        "title": "Mark Zuckerberg Just Told 8,000 Employees Their Layoffs Are a Line Item in His $145 Billion AI Bill",
-        "link": "https://www.reddit.com/r/technology/comments/1t8cdyq/mark_zuckerberg_just_told_8000_employees_their/",
-        "image": "https://external-preview.redd.it/B4vraUgmnRuxrUjGWBItRKt8N3XN2F8KgOrLCo6EFNo.jpeg?width=640&crop=smart&auto=webp&s=c61fdee8d5988ef829c6d2ffd360cdabebcfdc2a",
-        "published": "2026-05-09T18:11:04+00:00"
-    },
-    {
         "title": "A data center drained 30M gallons of water unnoticed \u2014 until residents complained about low water pressure",
         "link": "https://www.reddit.com/r/technology/comments/1t8ppsh/a_data_center_drained_30m_gallons_of_water/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -42,10 +36,10 @@
         "published": "2026-05-10T00:55:51+00:00"
     },
     {
-        "title": "Mozilla, Mullvad, Proton, sign letter opposing UK age verification",
-        "link": "https://www.reddit.com/r/technology/comments/1t8cmkr/mozilla_mullvad_proton_sign_letter_opposing_uk/",
-        "image": "https://external-preview.redd.it/ewf1rhm3Xi1FckykaFRZzXF0gYMBIb0fwSSGDK8wLvI.jpeg?width=640&crop=smart&auto=webp&s=3fd256f28b42af89c6cdca2126a64c1cfa89bd2c",
-        "published": "2026-05-09T18:20:15+00:00"
+        "title": "Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers \u2014 state complains to federal energy regulators, says additional cost breaks \u2018ratepayer protection pledge\u2019 promises",
+        "link": "https://www.reddit.com/r/technology/comments/1t9bwaf/maryland_citizens_slapped_with_2_billion_power/",
+        "image": "https://external-preview.redd.it/sbILaMF_rWN1U1a3PI6UBcCeHTR4tlvXUQP7Vha2DGI.jpeg?width=640&crop=smart&auto=webp&s=c1c6b0363dbb3a23cca0dea83a190df10f6cde32",
+        "published": "2026-05-10T16:41:11+00:00"
     },
     {
         "title": "Fears grow that age verification coming to VPNs as a British research firm labels them a 'loophole' \u2014 one app developer saw downloads surge by 1,800% in just the first month after the UK's Online Safety Act took effect",
@@ -66,12 +60,6 @@
         "published": "2026-05-10T09:33:47+00:00"
     },
     {
-        "title": "Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers \u2014 state complains to federal energy regulators, says additional cost breaks \u2018ratepayer protection pledge\u2019 promises",
-        "link": "https://www.reddit.com/r/technology/comments/1t9bwaf/maryland_citizens_slapped_with_2_billion_power/",
-        "image": "https://external-preview.redd.it/sbILaMF_rWN1U1a3PI6UBcCeHTR4tlvXUQP7Vha2DGI.jpeg?width=640&crop=smart&auto=webp&s=c1c6b0363dbb3a23cca0dea83a190df10f6cde32",
-        "published": "2026-05-10T16:41:11+00:00"
-    },
-    {
         "title": "Canvas Restored After Hack, Breach Traced to 'Free-For-Teacher' Accounts",
         "link": "https://www.reddit.com/r/technology/comments/1t92yae/canvas_restored_after_hack_breach_traced_to/",
         "image": "https://external-preview.redd.it/DqJHyR18Vs1cuzqFo_PL5p04OrG2ymZKHtRi42vEwj8.jpeg?width=640&crop=smart&auto=webp&s=b93bb0628dede7d2eeafda927332aeebc8dd36da",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1t93gpv/while_refrigerators_and_air_conditioners_still/",
         "image": "https://external-preview.redd.it/hg3yG_aPen5DmWe44S-zw9r90IHBkpVGiC9m5gswH2U.jpeg?width=640&crop=smart&auto=webp&s=08bde466a18967275004c9646c452c5a3829d2bf",
         "published": "2026-05-10T10:39:15+00:00"
+    },
+    {
+        "title": "Internet Archive Launches New Foundation in Switzerland",
+        "link": "https://www.reddit.com/r/technology/comments/1t8q4lk/internet_archive_launches_new_foundation_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-09T23:13:33+00:00"
+    },
+    {
+        "title": "Amazon's Chile data center moves ahead after residents lose environmental challenge",
+        "link": "https://www.reddit.com/r/technology/comments/1t93l9k/amazons_chile_data_center_moves_ahead_after/",
+        "image": "https://external-preview.redd.it/mHvnl22ekGXnOZFvw4rVEUUDbC27bV_VdIHrZEVik60.jpeg?width=640&crop=smart&auto=webp&s=09e8d90358eca8926dedf0a2a79d55efa8d76fff",
+        "published": "2026-05-10T10:46:16+00:00"
     }
 ]
