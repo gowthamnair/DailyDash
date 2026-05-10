@@ -36,16 +36,16 @@
         "published": "2026-05-10T09:46:58+00:00"
     },
     {
-        "title": "Do you think robots that can do 90% of our chores at home requires agi?",
-        "link": "https://www.reddit.com/r/singularity/comments/1t861dg/do_you_think_robots_that_can_do_90_of_our_chores/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-09T14:09:41+00:00"
-    },
-    {
         "title": "Asia is excited about AI, the U.S. not so much",
         "link": "https://www.reddit.com/r/singularity/comments/1t91bo9/asia_is_excited_about_ai_the_us_not_so_much/",
         "image": "https://external-preview.redd.it/ui2reDeVWE4iNYpN4iMEZcsDYT6eY84fW77ivp8X1Jw.jpeg?width=640&crop=smart&auto=webp&s=77f219e217d7e59c3cf6bcf91af25b02e553790f",
         "published": "2026-05-10T08:35:18+00:00"
+    },
+    {
+        "title": "Do you think robots that can do 90% of our chores at home requires agi?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t861dg/do_you_think_robots_that_can_do_90_of_our_chores/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-09T14:09:41+00:00"
     },
     {
         "title": "Impossible to search: AI Audiobook Player",
@@ -58,5 +58,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t91ut9/recgen_1_2_new_possibly_open_source_sota_image_to/",
         "image": "https://preview.redd.it/jubuyfntz90h1.png?width=140&height=105&auto=webp&s=f09f9231bb5f59abe9c08083b48921164cb418ac",
         "published": "2026-05-10T09:06:37+00:00"
+    },
+    {
+        "title": "Will AlphaFold accelerate the eradication of HantaVirus?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t94d4g/will_alphafold_accelerate_the_eradication_of/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-10T11:27:00+00:00"
     }
 ]
