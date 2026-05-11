@@ -1,27 +1,21 @@
 [
     {
-        "title": "Animation is solved. This is like Pixar level quality.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9bj3a/animation_is_solved_this_is_like_pixar_level/",
-        "image": "https://external-preview.redd.it/M25xN3QyYnM2YzBoMfIEef3yiSz5RGi3WeHk-2ZIExZuGk1egSsavsdJOHqj.png?width=640&crop=smart&auto=webp&s=4a1697d2aa7a0584732bafff34791e48d63a6c03",
-        "published": "2026-05-10T16:27:25+00:00"
-    },
-    {
         "title": "ChatGPT is now creating content for textbooks.",
         "link": "https://www.reddit.com/r/singularity/comments/1ta1dvl/chatgpt_is_now_creating_content_for_textbooks/",
         "image": "https://preview.redd.it/d65cfdtf1i0h1.png?width=640&crop=smart&auto=webp&s=55e5182c9368acff244b473d4e6c8e78b000536d",
         "published": "2026-05-11T12:09:17+00:00"
     },
     {
-        "title": "Hermes Agent is now #1 most used globally in past 24 hours in Openrouter token metrics, above Claude Code and OpenClaw.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9hh33/hermes_agent_is_now_1_most_used_globally_in_past/",
-        "image": "https://preview.redd.it/bvrbvzg8ad0h1.jpeg?width=640&crop=smart&auto=webp&s=a93d99d18df7ee21c8615ef1580a0b1f6dec0bc6",
-        "published": "2026-05-10T20:08:35+00:00"
-    },
-    {
         "title": "A new video model \"Omni\" from Google is leaked, user notes text coherence",
         "link": "https://www.reddit.com/r/singularity/comments/1ta4zzz/a_new_video_model_omni_from_google_is_leaked_user/",
         "image": "https://external-preview.redd.it/eTRmM21wbG5xaTBoMeQnzbNNvf7bOREKLkqp0SWeJUjn81nWb3RC3lXeG85V.png?width=640&crop=smart&auto=webp&s=d51d64c752482a0b292ebd4158b275637d8503ae",
         "published": "2026-05-11T14:29:30+00:00"
+    },
+    {
+        "title": "Hermes Agent is now #1 most used globally in past 24 hours in Openrouter token metrics, above Claude Code and OpenClaw.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9hh33/hermes_agent_is_now_1_most_used_globally_in_past/",
+        "image": "https://preview.redd.it/bvrbvzg8ad0h1.jpeg?width=640&crop=smart&auto=webp&s=a93d99d18df7ee21c8615ef1580a0b1f6dec0bc6",
+        "published": "2026-05-10T20:08:35+00:00"
     },
     {
         "title": "Big data centers in Florida must pay full power and infrastructure costs under new law",
@@ -42,12 +36,6 @@
         "published": "2026-05-11T02:58:11+00:00"
     },
     {
-        "title": "After Shopify and Google said that 50% and 75% of their code is AI-generated, it\u2019s now Airbnb\u2019s turn to say that 60% of its codebase is also AI-generated. Moreover, Airbnb's CEO says that even managers are programming with Claude Code.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9f3hj/after_shopify_and_google_said_that_50_and_75_of/",
-        "image": "https://external-preview.redd.it/_GtgLc3htlmZ0GSDh7HbSYb8UIiNOh03de6RaIGvAj0.jpeg?width=640&crop=smart&auto=webp&s=a6b7e34939a4bb01522d3d854cad3a5345c5e26a",
-        "published": "2026-05-10T18:39:53+00:00"
-    },
-    {
         "title": "ICLR 2026 Contributions by Country/Institution",
         "link": "https://www.reddit.com/r/singularity/comments/1t9swzg/iclr_2026_contributions_by_countryinstitution/",
         "image": "https://preview.redd.it/qls4nu9xsf0h1.png?width=640&crop=smart&auto=webp&s=56afa5a7b6b8f014c3081d52d3070e32e46e4073",
@@ -60,10 +48,34 @@
         "published": "2026-05-11T14:07:30+00:00"
     },
     {
+        "title": "Upcoming Leaked Gemini Omni VS Nearly Shutting Down Sora 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
+        "image": "https://external-preview.redd.it/enQ0MnUwNHlnajBoMbM1cK_OL3jy5IXVXfUV7Xm8V9vitIEBRkZdyXZbDSl7.png?width=640&crop=smart&auto=webp&s=a395e09ae13f070474c87875a537435200630173",
+        "published": "2026-05-11T16:58:24+00:00"
+    },
+    {
         "title": "Has the current state of AI already ruined many sci-fi classics for you?",
         "link": "https://www.reddit.com/r/singularity/comments/1t9h9mm/has_the_current_state_of_ai_already_ruined_many/",
         "image": "https://preview.redd.it/j1ehbpx48d0h1.jpeg?width=640&crop=smart&auto=webp&s=c45cdf23162ee8734c79198e9410208b52cf58a0",
         "published": "2026-05-10T20:00:39+00:00"
+    },
+    {
+        "title": "The interesting BDH question: What if LLM memory lived in the network weights instead of the ever-growing KV cache?",
+        "link": "https://www.reddit.com/r/singularity/comments/1taal4l/the_interesting_bdh_question_what_if_llm_memory/",
+        "image": "https://preview.redd.it/wve54k0voj0h1.png?width=640&crop=smart&auto=webp&s=7c4c79c41c371edec4b1a44771fb34db91904383",
+        "published": "2026-05-11T17:42:34+00:00"
+    },
+    {
+        "title": "AI is the manager at this Stockholm caf\u00e9",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta7x9l/ai_is_the_manager_at_this_stockholm_caf\u00e9/",
+        "image": "https://external-preview.redd.it/cHF6YmM5OHU4ajBoMS1WyYeBX3zjL9uH3DZ8ooNFy1Hv9rbXgrm4xjSiVPaP.png?width=640&crop=smart&auto=webp&s=d5849490b860fe22de638a52372a9ed122034db2",
+        "published": "2026-05-11T16:11:41+00:00"
+    },
+    {
+        "title": "A hurricane PSA built solo over a weekend. The studio gets destroyed by the storm being described. 100% AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta6la1/a_hurricane_psa_built_solo_over_a_weekend_the/",
+        "image": "https://external-preview.redd.it/d2pveDl3djkwajBoMQR-gLcNGD4e8JEM1XFM4ItCIQyMdDkr4O6s6yO2Aie7.png?width=640&crop=smart&auto=webp&s=12c34528386038b021a953eb8e847594c2651297",
+        "published": "2026-05-11T15:25:26+00:00"
     },
     {
         "title": "The upcoming Wuji hand 2 (cgi)",
@@ -72,21 +84,9 @@
         "published": "2026-05-11T10:54:40+00:00"
     },
     {
-        "title": "MIT FINGERS-7B: First Multi-Omics AI Model for Alzheimer\u2019s Prevention",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9qg4z/mit_fingers7b_first_multiomics_ai_model_for/",
-        "image": "https://external-preview.redd.it/dW9pcXF0MWM3ZjBoMcOULyLKM9COsSkpMn459h4JAkYaf21lIoDIIxcujJ0k.png?width=640&crop=smart&auto=webp&s=e5d753bc7b2efaa561f4dd52650e324eb380dcf1",
-        "published": "2026-05-11T02:36:08+00:00"
-    },
-    {
         "title": "Ohio House bill introduced to prohibit personhood of AI",
         "link": "https://www.reddit.com/r/singularity/comments/1ta1ts1/ohio_house_bill_introduced_to_prohibit_personhood/",
         "image": "https://external-preview.redd.it/ZSCiIrWdLig1Q89rYqlUBYrjobtEOUUdpRHwBsJKW-A.jpeg?width=640&crop=smart&auto=webp&s=3a2c91dfe08982e2ba824b07a369ba39995ec513",
         "published": "2026-05-11T12:28:19+00:00"
-    },
-    {
-        "title": "A hurricane PSA built solo over a weekend. The studio gets destroyed by the storm being described. 100% AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta6la1/a_hurricane_psa_built_solo_over_a_weekend_the/",
-        "image": "https://external-preview.redd.it/d2pveDl3djkwajBoMQR-gLcNGD4e8JEM1XFM4ItCIQyMdDkr4O6s6yO2Aie7.png?width=640&crop=smart&auto=webp&s=12c34528386038b021a953eb8e847594c2651297",
-        "published": "2026-05-11T15:25:26+00:00"
     }
 ]
