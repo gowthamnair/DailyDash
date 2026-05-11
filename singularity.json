@@ -12,10 +12,22 @@
         "published": "2026-05-10T09:46:58+00:00"
     },
     {
+        "title": "Big data centers in Florida must pay full power and infrastructure costs under new law",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9hdtk/big_data_centers_in_florida_must_pay_full_power/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-10T20:05:07+00:00"
+    },
+    {
         "title": "Asia is excited about AI, the U.S. not so much",
         "link": "https://www.reddit.com/r/singularity/comments/1t91bo9/asia_is_excited_about_ai_the_us_not_so_much/",
         "image": "https://external-preview.redd.it/ui2reDeVWE4iNYpN4iMEZcsDYT6eY84fW77ivp8X1Jw.jpeg?width=640&crop=smart&auto=webp&s=77f219e217d7e59c3cf6bcf91af25b02e553790f",
         "published": "2026-05-10T08:35:18+00:00"
+    },
+    {
+        "title": "Hermes Agent is now #1 most used globally in past 24 hours in Openrouter token metrics, above Claude Code and OpenClaw.",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9hh33/hermes_agent_is_now_1_most_used_globally_in_past/",
+        "image": "https://preview.redd.it/bvrbvzg8ad0h1.jpeg?width=640&crop=smart&auto=webp&s=a93d99d18df7ee21c8615ef1580a0b1f6dec0bc6",
+        "published": "2026-05-10T20:08:35+00:00"
     },
     {
         "title": "Google readies \u2018AI Ultra Lite\u2019 plan and explicit \u2018usage limits\u2019 for Gemini",
@@ -24,16 +36,16 @@
         "published": "2026-05-10T13:05:03+00:00"
     },
     {
-        "title": "Big data centers in Florida must pay full power and infrastructure costs under new law",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9hdtk/big_data_centers_in_florida_must_pay_full_power/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-10T20:05:07+00:00"
+        "title": "GPT5.5s CoT keeps leaking in the new codex update. Looks like we know how they got token efficency, they cavemanmaxxed",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9p40s/gpt55s_cot_keeps_leaking_in_the_new_codex_update/",
+        "image": "https://preview.redd.it/swy4udfbwe0h1.png?width=640&crop=smart&auto=webp&s=903189af9813bd7b5c44efeefb7066402dfad835",
+        "published": "2026-05-11T01:34:17+00:00"
     },
     {
-        "title": "Hermes Agent is now #1 most used globally in past 24 hours in Openrouter token metrics, above Claude Code and OpenClaw.",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9hh33/hermes_agent_is_now_1_most_used_globally_in_past/",
-        "image": "https://preview.redd.it/bvrbvzg8ad0h1.jpeg?width=640&crop=smart&auto=webp&s=a93d99d18df7ee21c8615ef1580a0b1f6dec0bc6",
-        "published": "2026-05-10T20:08:35+00:00"
+        "title": "Neobot scene from the recent future",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9qwvz/neobot_scene_from_the_recent_future/",
+        "image": "https://external-preview.redd.it/dmhrZDdkaGJiZjBoMVUHG4KA8RcvXxd2u-m6Qr0nbvY311UB_F9s_yoFq7XO.png?width=320&crop=smart&auto=webp&s=9dddbe7ca22aa1abc1f7a54fc105deb0c4b72961",
+        "published": "2026-05-11T02:58:11+00:00"
     },
     {
         "title": "After Shopify and Google said that 50% and 75% of their code is AI-generated, it\u2019s now Airbnb\u2019s turn to say that 60% of its codebase is also AI-generated. Moreover, Airbnb's CEO says that even managers are programming with Claude Code.",
@@ -52,5 +64,23 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t9h9mm/has_the_current_state_of_ai_already_ruined_many/",
         "image": "https://preview.redd.it/j1ehbpx48d0h1.jpeg?width=640&crop=smart&auto=webp&s=c45cdf23162ee8734c79198e9410208b52cf58a0",
         "published": "2026-05-10T20:00:39+00:00"
+    },
+    {
+        "title": "ICLR 2026 Contributions by Country/Institution",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9swzg/iclr_2026_contributions_by_countryinstitution/",
+        "image": "https://preview.redd.it/qls4nu9xsf0h1.png?width=640&crop=smart&auto=webp&s=56afa5a7b6b8f014c3081d52d3070e32e46e4073",
+        "published": "2026-05-11T04:37:06+00:00"
+    },
+    {
+        "title": "MIT FINGERS-7B: First Multi-Omics AI Model for Alzheimer\u2019s Prevention",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9qg4z/mit_fingers7b_first_multiomics_ai_model_for/",
+        "image": "https://external-preview.redd.it/dW9pcXF0MWM3ZjBoMcOULyLKM9COsSkpMn459h4JAkYaf21lIoDIIxcujJ0k.png?width=640&crop=smart&auto=webp&s=e5d753bc7b2efaa561f4dd52650e324eb380dcf1",
+        "published": "2026-05-11T02:36:08+00:00"
+    },
+    {
+        "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9r11z/uneven_evolution_of_cognition_across_generations/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-11T03:03:22+00:00"
     }
 ]
