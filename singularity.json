@@ -6,6 +6,12 @@
         "published": "2026-05-10T16:27:25+00:00"
     },
     {
+        "title": "ChatGPT is now creating content for textbooks.",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta1dvl/chatgpt_is_now_creating_content_for_textbooks/",
+        "image": "https://preview.redd.it/d65cfdtf1i0h1.png?width=640&crop=smart&auto=webp&s=55e5182c9368acff244b473d4e6c8e78b000536d",
+        "published": "2026-05-11T12:09:17+00:00"
+    },
+    {
         "title": "Hermes Agent is now #1 most used globally in past 24 hours in Openrouter token metrics, above Claude Code and OpenClaw.",
         "link": "https://www.reddit.com/r/singularity/comments/1t9hh33/hermes_agent_is_now_1_most_used_globally_in_past/",
         "image": "https://preview.redd.it/bvrbvzg8ad0h1.jpeg?width=640&crop=smart&auto=webp&s=a93d99d18df7ee21c8615ef1580a0b1f6dec0bc6",
@@ -22,12 +28,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1t9p40s/gpt55s_cot_keeps_leaking_in_the_new_codex_update/",
         "image": "https://preview.redd.it/swy4udfbwe0h1.png?width=640&crop=smart&auto=webp&s=903189af9813bd7b5c44efeefb7066402dfad835",
         "published": "2026-05-11T01:34:17+00:00"
-    },
-    {
-        "title": "Google readies \u2018AI Ultra Lite\u2019 plan and explicit \u2018usage limits\u2019 for Gemini",
-        "link": "https://www.reddit.com/r/singularity/comments/1t96exb/google_readies_ai_ultra_lite_plan_and_explicit/",
-        "image": "https://external-preview.redd.it/To4uIwGisbwXHFwHP3tF5w7ssqwYMcaiY0ZGdFTaF84.jpeg?width=640&crop=smart&auto=webp&s=5f6c1f64c3053985fa88bfd5799802b17939bc4c",
-        "published": "2026-05-10T13:05:03+00:00"
     },
     {
         "title": "Neobot scene from the recent future",
@@ -60,15 +60,33 @@
         "published": "2026-05-11T02:36:08+00:00"
     },
     {
+        "title": "The upcoming Wuji hand 2 (cgi)",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9zr3a/the_upcoming_wuji_hand_2_cgi/",
+        "image": "https://external-preview.redd.it/enN4a3ZmNnRuaDBoMa4vazlJOOWc1p_Ey3zHMjPrIyPJBq7Ou5HWFz8JUPFr.png?width=640&crop=smart&auto=webp&s=b1a195da85a2ea75242a0db8f51a58e14b569782",
+        "published": "2026-05-11T10:54:40+00:00"
+    },
+    {
         "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
         "link": "https://www.reddit.com/r/singularity/comments/1t9r11z/uneven_evolution_of_cognition_across_generations/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-11T03:03:22+00:00"
     },
     {
-        "title": "Robot mimics human speech",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9wp1p/robot_mimics_human_speech/",
+        "title": "Why there isn't any top LLM providers investing on diffusion LLM?",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9za70/why_there_isnt_any_top_llm_providers_investing_on/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-11T08:03:19+00:00"
+        "published": "2026-05-11T10:30:07+00:00"
+    },
+    {
+        "title": "Ohio House bill introduced to prohibit personhood of AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta1ts1/ohio_house_bill_introduced_to_prohibit_personhood/",
+        "image": "https://external-preview.redd.it/ZSCiIrWdLig1Q89rYqlUBYrjobtEOUUdpRHwBsJKW-A.jpeg?width=640&crop=smart&auto=webp&s=3a2c91dfe08982e2ba824b07a369ba39995ec513",
+        "published": "2026-05-11T12:28:19+00:00"
+    },
+    {
+        "title": "The singularity could very well going to be a political event, not a technological one",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta33qb/the_singularity_could_very_well_going_to_be_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-11T13:19:55+00:00"
     }
 ]
