@@ -30,16 +30,16 @@
         "published": "2026-05-11T04:00:04+00:00"
     },
     {
-        "title": "6 people found dead inside cargo train boxcar in Texas",
-        "link": "https://www.reddit.com/r/news/comments/1t9q9q7/6_people_found_dead_inside_cargo_train_boxcar_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-11T02:27:56+00:00"
-    },
-    {
         "title": "Former Ohio State official testifies Rep. Jim Jordan \u2018probably knew\u2019 about campus abuse",
         "link": "https://www.reddit.com/r/news/comments/1ta9lcf/former_ohio_state_official_testifies_rep_jim/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-11T17:09:05+00:00"
+    },
+    {
+        "title": "6 people found dead inside cargo train boxcar in Texas",
+        "link": "https://www.reddit.com/r/news/comments/1t9q9q7/6_people_found_dead_inside_cargo_train_boxcar_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-11T02:27:56+00:00"
     },
     {
         "title": "Washington press dinner shooting suspect pleads not guilty",
@@ -66,12 +66,6 @@
         "published": "2026-05-11T13:25:11+00:00"
     },
     {
-        "title": "'This is where they came to die': Historical marker highlights horrors at segregated reform school",
-        "link": "https://www.reddit.com/r/news/comments/1t9ls42/this_is_where_they_came_to_die_historical_marker/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-10T23:04:04+00:00"
-    },
-    {
         "title": "OpenAI sued over ChatGPT\u2019s alleged role in guiding FSU shooter",
         "link": "https://www.reddit.com/r/news/comments/1tabnqt/openai_sued_over_chatgpts_alleged_role_in_guiding/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/news/comments/1t9nfk3/motorcyclist_seriously_injured_after_crash_leaves/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-11T00:16:56+00:00"
+    },
+    {
+        "title": "Cambridge University seeks deal with Saudi defence ministry despite rights concerns",
+        "link": "https://www.reddit.com/r/news/comments/1ta0dr1/cambridge_university_seeks_deal_with_saudi/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-11T11:24:29+00:00"
     }
 ]
