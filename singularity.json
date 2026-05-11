@@ -24,16 +24,16 @@
         "published": "2026-05-11T02:58:11+00:00"
     },
     {
-        "title": "ICLR 2026 Contributions by Country/Institution",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9swzg/iclr_2026_contributions_by_countryinstitution/",
-        "image": "https://preview.redd.it/qls4nu9xsf0h1.png?width=640&crop=smart&auto=webp&s=56afa5a7b6b8f014c3081d52d3070e32e46e4073",
-        "published": "2026-05-11T04:37:06+00:00"
-    },
-    {
         "title": "Upcoming Leaked Gemini Omni VS Nearly Shutting Down Sora 2",
         "link": "https://www.reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
         "image": "https://external-preview.redd.it/enQ0MnUwNHlnajBoMbM1cK_OL3jy5IXVXfUV7Xm8V9vitIEBRkZdyXZbDSl7.png?width=640&crop=smart&auto=webp&s=a395e09ae13f070474c87875a537435200630173",
         "published": "2026-05-11T16:58:24+00:00"
+    },
+    {
+        "title": "ICLR 2026 Contributions by Country/Institution",
+        "link": "https://www.reddit.com/r/singularity/comments/1t9swzg/iclr_2026_contributions_by_countryinstitution/",
+        "image": "https://preview.redd.it/qls4nu9xsf0h1.png?width=640&crop=smart&auto=webp&s=56afa5a7b6b8f014c3081d52d3070e32e46e4073",
+        "published": "2026-05-11T04:37:06+00:00"
     },
     {
         "title": "20,000 Romans Entered Teutoburg Forest - I Made a Dark 15-Minute AI War Vid About It",
@@ -46,6 +46,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1taal4l/the_interesting_bdh_question_what_if_llm_memory/",
         "image": "https://preview.redd.it/wve54k0voj0h1.png?width=640&crop=smart&auto=webp&s=7c4c79c41c371edec4b1a44771fb34db91904383",
         "published": "2026-05-11T17:42:34+00:00"
+    },
+    {
+        "title": "Mark Zuckerberg \u2018Personally Authorized and Actively Encouraged\u2019 Meta\u2019s Massive Copyright Infringement to Train AI Systems, Publishers and Scott Turow Allege in Lawsuit",
+        "link": "https://www.reddit.com/r/singularity/comments/1tafo58/mark_zuckerberg_personally_authorized_and/",
+        "image": "https://external-preview.redd.it/IdvmeZi8pu2hxp3PKYZc93EqCQBYHg3JmL5mjLqxWU0.png?width=640&crop=smart&auto=webp&s=ca73268fea934628a311695772e52be44960f5b0",
+        "published": "2026-05-11T20:36:47+00:00"
     },
     {
         "title": "AI is the manager at this Stockholm caf\u00e9",
@@ -72,21 +78,15 @@
         "published": "2026-05-11T12:28:19+00:00"
     },
     {
-        "title": "MIT FINGERS-7B: First Multi-Omics AI Model for Alzheimer\u2019s Prevention",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9qg4z/mit_fingers7b_first_multiomics_ai_model_for/",
-        "image": "https://external-preview.redd.it/dW9pcXF0MWM3ZjBoMcOULyLKM9COsSkpMn459h4JAkYaf21lIoDIIxcujJ0k.png?width=640&crop=smart&auto=webp&s=e5d753bc7b2efaa561f4dd52650e324eb380dcf1",
-        "published": "2026-05-11T02:36:08+00:00"
+        "title": "PACT, head-to-head LLM negotiation benchmark. 20-round buyer-seller bargaining game: each round the AIs can message, the buyer submits a bid and the seller submits an ask. If bid \u2265 ask, trade clears at the midpoint. Thousands of matchups.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tab1o9/pact_headtohead_llm_negotiation_benchmark_20round/",
+        "image": "https://preview.redd.it/a91xies1rj0h1.png?width=140&height=140&auto=webp&s=ee97d7084f3f3793e6afc79f5e6b13ff24765287",
+        "published": "2026-05-11T17:58:09+00:00"
     },
     {
         "title": "Am I missing something about GPT-5.5 efficiency?",
         "link": "https://www.reddit.com/r/singularity/comments/1taaec9/am_i_missing_something_about_gpt55_efficiency/",
         "image": "https://preview.redd.it/5rvqn31xnj0h1.png?width=640&crop=smart&auto=webp&s=e66daf8a1fef34b78ed7c434f37508e8f3dda1a7",
         "published": "2026-05-11T17:36:10+00:00"
-    },
-    {
-        "title": "PACT, head-to-head LLM negotiation benchmark. 20-round buyer-seller bargaining game: each round the AIs can message, the buyer submits a bid and the seller submits an ask. If bid \u2265 ask, trade clears at the midpoint. Thousands of matchups.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tab1o9/pact_headtohead_llm_negotiation_benchmark_20round/",
-        "image": "https://preview.redd.it/a91xies1rj0h1.png?width=140&height=140&auto=webp&s=ee97d7084f3f3793e6afc79f5e6b13ff24765287",
-        "published": "2026-05-11T17:58:09+00:00"
     }
 ]
