@@ -18,16 +18,16 @@
         "published": "2026-05-12T07:34:17+00:00"
     },
     {
-        "title": "OpenAI Daybreak (response to Mythos)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tah5lg/openai_daybreak_response_to_mythos/",
-        "image": "https://external-preview.redd.it/Kx6OlwhiQcyDy2dYHD0n-Yamk4qdTVDLM80tJ4A-pxw.png?width=640&crop=smart&auto=webp&s=3d5d3ca4417b917f3253095dbf3ee8c23135b9d2",
-        "published": "2026-05-11T21:29:22+00:00"
-    },
-    {
         "title": "On a difficult new SWE benchmark, ProgramBench, GPT5.5 high/xhigh solves a task for first time, significantly outperforms Opus 4.7",
         "link": "https://www.reddit.com/r/singularity/comments/1tb6kum/on_a_difficult_new_swe_benchmark_programbench/",
         "image": "https://preview.redd.it/g4s4o8iqfq0h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c231cb04ecbd27794e069d29ea12cacf817431ba",
         "published": "2026-05-12T16:22:32+00:00"
+    },
+    {
+        "title": "OpenAI Daybreak (response to Mythos)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tah5lg/openai_daybreak_response_to_mythos/",
+        "image": "https://external-preview.redd.it/Kx6OlwhiQcyDy2dYHD0n-Yamk4qdTVDLM80tJ4A-pxw.png?width=640&crop=smart&auto=webp&s=3d5d3ca4417b917f3253095dbf3ee8c23135b9d2",
+        "published": "2026-05-11T21:29:22+00:00"
     },
     {
         "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
@@ -78,15 +78,15 @@
         "published": "2026-05-11T21:54:26+00:00"
     },
     {
+        "title": "Gemini api showing agentic gemini models",
+        "link": "https://www.reddit.com/r/singularity/comments/1tban9q/gemini_api_showing_agentic_gemini_models/",
+        "image": "https://preview.redd.it/6u531s39ak0h1.png?width=640&crop=smart&auto=webp&s=76de79ac64e8c45c0aeb424b94172616d966bc98",
+        "published": "2026-05-12T18:41:25+00:00"
+    },
+    {
         "title": "anyone here non technical and using clawdi or something easier",
         "link": "https://www.reddit.com/r/singularity/comments/1tb5rew/anyone_here_non_technical_and_using_clawdi_or/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-12T15:54:34+00:00"
-    },
-    {
-        "title": "So close yet so far",
-        "link": "https://www.reddit.com/r/singularity/comments/1tanumw/so_close_yet_so_far/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-12T02:08:04+00:00"
     }
 ]
