@@ -12,6 +12,12 @@
         "published": "2026-05-11T14:29:30+00:00"
     },
     {
+        "title": "Unitree Launches World\u2019s First Mass-Produced Manned Mecha GD01",
+        "link": "https://www.reddit.com/r/singularity/comments/1tar54x/unitree_launches_worlds_first_massproduced_manned/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-12T04:41:48+00:00"
+    },
+    {
         "title": "Mark Zuckerberg \u2018Personally Authorized and Actively Encouraged\u2019 Meta\u2019s Massive Copyright Infringement to Train AI Systems, Publishers and Scott Turow Allege in Lawsuit",
         "link": "https://www.reddit.com/r/singularity/comments/1tafo58/mark_zuckerberg_personally_authorized_and/",
         "image": "https://external-preview.redd.it/IdvmeZi8pu2hxp3PKYZc93EqCQBYHg3JmL5mjLqxWU0.png?width=640&crop=smart&auto=webp&s=ca73268fea934628a311695772e52be44960f5b0",
@@ -22,12 +28,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
         "image": "https://external-preview.redd.it/enQ0MnUwNHlnajBoMbM1cK_OL3jy5IXVXfUV7Xm8V9vitIEBRkZdyXZbDSl7.png?width=640&crop=smart&auto=webp&s=a395e09ae13f070474c87875a537435200630173",
         "published": "2026-05-11T16:58:24+00:00"
-    },
-    {
-        "title": "Unitree Launches World\u2019s First Mass-Produced Manned Mecha GD01",
-        "link": "https://www.reddit.com/r/singularity/comments/1tar54x/unitree_launches_worlds_first_massproduced_manned/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-12T04:41:48+00:00"
     },
     {
         "title": "OpenAI Daybreak (response to Mythos)",
@@ -54,16 +54,16 @@
         "published": "2026-05-11T14:07:30+00:00"
     },
     {
-        "title": "A hurricane PSA built solo over a weekend. The studio gets destroyed by the storm being described. 100% AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta6la1/a_hurricane_psa_built_solo_over_a_weekend_the/",
-        "image": "https://external-preview.redd.it/d2pveDl3djkwajBoMQR-gLcNGD4e8JEM1XFM4ItCIQyMdDkr4O6s6yO2Aie7.png?width=640&crop=smart&auto=webp&s=12c34528386038b021a953eb8e847594c2651297",
-        "published": "2026-05-11T15:25:26+00:00"
-    },
-    {
         "title": "AA introduces Coding Agent Index - Performance Comparisons between Model & Harness Combinations",
         "link": "https://www.reddit.com/r/singularity/comments/1tak39d/aa_introduces_coding_agent_index_performance/",
         "image": "https://preview.redd.it/v82toiqkdl0h1.png?width=640&crop=smart&auto=webp&s=069654cbf5b6f4396f3225fa0dfbba128e147d5b",
         "published": "2026-05-11T23:25:55+00:00"
+    },
+    {
+        "title": "A hurricane PSA built solo over a weekend. The studio gets destroyed by the storm being described. 100% AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta6la1/a_hurricane_psa_built_solo_over_a_weekend_the/",
+        "image": "https://external-preview.redd.it/d2pveDl3djkwajBoMQR-gLcNGD4e8JEM1XFM4ItCIQyMdDkr4O6s6yO2Aie7.png?width=640&crop=smart&auto=webp&s=12c34528386038b021a953eb8e847594c2651297",
+        "published": "2026-05-11T15:25:26+00:00"
     },
     {
         "title": "And there it is. I think this is confirmation of a superapp this week.",
@@ -78,15 +78,15 @@
         "published": "2026-05-11T10:54:40+00:00"
     },
     {
+        "title": "GPT-5.5 was used to flag fatal errors in FrontierMath problems",
+        "link": "https://www.reddit.com/r/singularity/comments/1taue3z/gpt55_was_used_to_flag_fatal_errors_in/",
+        "image": "https://preview.redd.it/sopwfaqhtn0h1.jpeg?width=640&crop=smart&auto=webp&s=e6d5beafaee0acf41e874a67637b73347d48b81c",
+        "published": "2026-05-12T07:34:17+00:00"
+    },
+    {
         "title": "Ohio House bill introduced to prohibit personhood of AI",
         "link": "https://www.reddit.com/r/singularity/comments/1ta1ts1/ohio_house_bill_introduced_to_prohibit_personhood/",
         "image": "https://external-preview.redd.it/ZSCiIrWdLig1Q89rYqlUBYrjobtEOUUdpRHwBsJKW-A.jpeg?width=640&crop=smart&auto=webp&s=3a2c91dfe08982e2ba824b07a369ba39995ec513",
         "published": "2026-05-11T12:28:19+00:00"
-    },
-    {
-        "title": "PACT, head-to-head LLM negotiation benchmark. 20-round buyer-seller bargaining game: each round the AIs can message, the buyer submits a bid and the seller submits an ask. If bid \u2265 ask, trade clears at the midpoint. Thousands of matchups.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tab1o9/pact_headtohead_llm_negotiation_benchmark_20round/",
-        "image": "https://preview.redd.it/a91xies1rj0h1.png?width=140&height=140&auto=webp&s=ee97d7084f3f3793e6afc79f5e6b13ff24765287",
-        "published": "2026-05-11T17:58:09+00:00"
     }
 ]
