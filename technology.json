@@ -1,15 +1,15 @@
 [
     {
-        "title": "EBay rejects GameStop's audacious $56 billion takeover bid",
-        "link": "https://www.reddit.com/r/technology/comments/1taxa19/ebay_rejects_gamestops_audacious_56_billion/",
-        "image": "https://external-preview.redd.it/C-INGXsLuZgNgc8UCUAns1P8LOmDYHbVMUSVFDTe6xQ.jpeg?width=640&crop=smart&auto=webp&s=9a8f46466e3a17cf6978fd97910f9925ff4b14c6",
-        "published": "2026-05-12T10:16:15+00:00"
-    },
-    {
         "title": "AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds",
         "link": "https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/",
         "image": "https://external-preview.redd.it/9GWAUsBB4dYIFitnYkf5MbCPGw5PbjYEPY4TtUwbw2M.jpeg?width=640&crop=smart&auto=webp&s=84683d8c2d27cb2e11c04c6cfdf80e228e9b19f3",
         "published": "2026-05-12T18:06:04+00:00"
+    },
+    {
+        "title": "EBay rejects GameStop's audacious $56 billion takeover bid",
+        "link": "https://www.reddit.com/r/technology/comments/1taxa19/ebay_rejects_gamestops_audacious_56_billion/",
+        "image": "https://external-preview.redd.it/C-INGXsLuZgNgc8UCUAns1P8LOmDYHbVMUSVFDTe6xQ.jpeg?width=640&crop=smart&auto=webp&s=9a8f46466e3a17cf6978fd97910f9925ff4b14c6",
+        "published": "2026-05-12T10:16:15+00:00"
     },
     {
         "title": "Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says \u2014 $1 billion project stalls over capacity disagreements and lack of infrastructure",
@@ -30,6 +30,12 @@
         "published": "2026-05-12T11:11:01+00:00"
     },
     {
+        "title": "Kickstarter bans all NSFW content from the website",
+        "link": "https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/",
+        "image": "https://external-preview.redd.it/l_TxKHOHFys21Thd1-5iBMM2NJuo5HnLSHaHfxK2wec.png?width=640&crop=smart&auto=webp&s=5827f880550edd0b7aa73aabb60da18a8c89b1d4",
+        "published": "2026-05-12T21:31:21+00:00"
+    },
+    {
         "title": "Japan wants to build an 11,000-kilometer solar ring around the Moon and beam clean energy back to Earth, an idea that sounds impossible until engineers explain the plan",
         "link": "https://www.reddit.com/r/technology/comments/1tavk4c/japan_wants_to_build_an_11000kilometer_solar_ring/",
         "image": "https://external-preview.redd.it/IHc0leQ8XLrksndOWiyrwoa_iuzykMQRzGV5cf-xgeA.jpeg?width=640&crop=smart&auto=webp&s=98ccfcd246e2eb5d97705a3cc0770f68b844302a",
@@ -48,28 +54,10 @@
         "published": "2026-05-12T10:03:18+00:00"
     },
     {
-        "title": "People Who Don\u2019t Like People Are Making All Our Decisions | Robotaxis are the beginning",
-        "link": "https://www.reddit.com/r/technology/comments/1tak48x/people_who_dont_like_people_are_making_all_our/",
-        "image": "https://external-preview.redd.it/VwO8lL-VqcaI-A-tzDRYzcn_yx_btYtWBYGOW5ON47s.jpeg?width=640&crop=smart&auto=webp&s=76221dfe312f77ad818c46b385fb0df5bb036cd1",
-        "published": "2026-05-11T23:27:03+00:00"
-    },
-    {
         "title": "Anthropic says Claude learned to blackmail people from \"evil\" AI stories online",
         "link": "https://www.reddit.com/r/technology/comments/1tb2edi/anthropic_says_claude_learned_to_blackmail_people/",
         "image": "https://external-preview.redd.it/bp5mxNOoXzENNttp6DYuUPNGpej11JY3GuEe-Rg3edg.jpeg?width=640&crop=smart&auto=webp&s=b279f9f41b541daa210f0bc5e168b1c6af8ecfc7",
         "published": "2026-05-12T13:55:59+00:00"
-    },
-    {
-        "title": "Little Caesars Just Made \u2018History\u2019 With Drone Delivery \u2014 Now You Can Get 2 Pizzas and Drinks in 4.5 Minutes",
-        "link": "https://www.reddit.com/r/technology/comments/1tajuc1/little_caesars_just_made_history_with_drone/",
-        "image": "https://external-preview.redd.it/AI9zCGU0sltbAwj9rXSEkT5SFfYkkyL7mTtoDuIaT9U.jpeg?width=640&crop=smart&auto=webp&s=084a1c7a92cfd8dbc0447a9c63d0d92190464cb1",
-        "published": "2026-05-11T23:15:41+00:00"
-    },
-    {
-        "title": "Hackers Use Weaponized JPEG File to Deploy Trojanized ScreenConnect Malware",
-        "link": "https://www.reddit.com/r/technology/comments/1taiyu5/hackers_use_weaponized_jpeg_file_to_deploy/",
-        "image": "https://external-preview.redd.it/st8dY2517cadZO9KK5PNyJoTeKgWrC2judhPgB0mxyU.jpeg?width=640&crop=smart&auto=webp&s=0e630d95f4addd1b585efb56eb3ae5c819cce133",
-        "published": "2026-05-11T22:39:59+00:00"
     },
     {
         "title": "Amazon staff use AI tool for unnecessary tasks to inflate usage scores",
@@ -84,9 +72,21 @@
         "published": "2026-05-12T12:48:38+00:00"
     },
     {
+        "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+        "link": "https://www.reddit.com/r/technology/comments/1tbdy42/parents_say_chatgpt_got_their_son_killed_with_bad/",
+        "image": "https://external-preview.redd.it/G0ylmFYa-Bp_5zmD4sWCpQMakCB-8ldn1w0j_3y89cE.png?width=640&crop=smart&auto=webp&s=c9f46eef618837c007791bec5a944b52376cfea6",
+        "published": "2026-05-12T20:36:38+00:00"
+    },
+    {
         "title": "GitLab employees are the latest to face layoffs limbo. Read the CEO's memo about restructuring 'openly.'",
         "link": "https://www.reddit.com/r/technology/comments/1tanct1/gitlab_employees_are_the_latest_to_face_layoffs/",
         "image": "https://external-preview.redd.it/-AMvzCsbsDSb6rqjJwPMkWPcwnAvJ2NkyXE8bvt6x04.jpeg?width=640&crop=smart&auto=webp&s=f0960fb197517274997163fe4eb6d37c8fdcbb4a",
         "published": "2026-05-12T01:46:16+00:00"
+    },
+    {
+        "title": "AI godfather warns humanity risks extinction by hyperintelligent machines with their own \u2018preservation goals\u2019 within 10 years",
+        "link": "https://www.reddit.com/r/technology/comments/1tbd4e9/ai_godfather_warns_humanity_risks_extinction_by/",
+        "image": "https://external-preview.redd.it/HAaEcDuRBlvexYpGkYeDOAAp0twm-DbkjTCCjTWz5Po.jpeg?width=640&crop=smart&auto=webp&s=80bc61b1134b02bcbb5b81449a300bfc7e81c39a",
+        "published": "2026-05-12T20:07:15+00:00"
     }
 ]
