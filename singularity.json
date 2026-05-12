@@ -1,11 +1,5 @@
 [
     {
-        "title": "ChatGPT is now creating content for textbooks.",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta1dvl/chatgpt_is_now_creating_content_for_textbooks/",
-        "image": "https://preview.redd.it/d65cfdtf1i0h1.png?width=640&crop=smart&auto=webp&s=55e5182c9368acff244b473d4e6c8e78b000536d",
-        "published": "2026-05-11T12:09:17+00:00"
-    },
-    {
         "title": "A new video model \"Omni\" from Google is leaked, user notes text coherence",
         "link": "https://www.reddit.com/r/singularity/comments/1ta4zzz/a_new_video_model_omni_from_google_is_leaked_user/",
         "image": "https://external-preview.redd.it/eTRmM21wbG5xaTBoMeQnzbNNvf7bOREKLkqp0SWeJUjn81nWb3RC3lXeG85V.png?width=640&crop=smart&auto=webp&s=d51d64c752482a0b292ebd4158b275637d8503ae",
@@ -36,6 +30,12 @@
         "published": "2026-05-11T21:29:22+00:00"
     },
     {
+        "title": "GPT-5.5 was used to flag fatal errors in FrontierMath problems",
+        "link": "https://www.reddit.com/r/singularity/comments/1taue3z/gpt55_was_used_to_flag_fatal_errors_in/",
+        "image": "https://preview.redd.it/sopwfaqhtn0h1.jpeg?width=640&crop=smart&auto=webp&s=e6d5beafaee0acf41e874a67637b73347d48b81c",
+        "published": "2026-05-12T07:34:17+00:00"
+    },
+    {
         "title": "AI is the manager at this Stockholm caf\u00e9",
         "link": "https://www.reddit.com/r/singularity/comments/1ta7x9l/ai_is_the_manager_at_this_stockholm_caf\u00e9/",
         "image": "https://external-preview.redd.it/cHF6YmM5OHU4ajBoMS1WyYeBX3zjL9uH3DZ8ooNFy1Hv9rbXgrm4xjSiVPaP.png?width=640&crop=smart&auto=webp&s=d5849490b860fe22de638a52372a9ed122034db2",
@@ -48,22 +48,16 @@
         "published": "2026-05-11T17:42:34+00:00"
     },
     {
-        "title": "20,000 Romans Entered Teutoburg Forest - I Made a Dark 15-Minute AI War Vid About It",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta4dv4/20000_romans_entered_teutoburg_forest_i_made_a/",
-        "image": "https://external-preview.redd.it/aGYxMm1nZW01aTBoMfDgckQgtKbibvMUadHw5WQZXfSVlm25QJORT-MymJQw.png?width=640&crop=smart&auto=webp&s=28712e7f0d592a2d5d52536a8335cc0a230a4f28",
-        "published": "2026-05-11T14:07:30+00:00"
-    },
-    {
         "title": "AA introduces Coding Agent Index - Performance Comparisons between Model & Harness Combinations",
         "link": "https://www.reddit.com/r/singularity/comments/1tak39d/aa_introduces_coding_agent_index_performance/",
         "image": "https://preview.redd.it/v82toiqkdl0h1.png?width=640&crop=smart&auto=webp&s=069654cbf5b6f4396f3225fa0dfbba128e147d5b",
         "published": "2026-05-11T23:25:55+00:00"
     },
     {
-        "title": "GPT-5.5 was used to flag fatal errors in FrontierMath problems",
-        "link": "https://www.reddit.com/r/singularity/comments/1taue3z/gpt55_was_used_to_flag_fatal_errors_in/",
-        "image": "https://preview.redd.it/sopwfaqhtn0h1.jpeg?width=640&crop=smart&auto=webp&s=e6d5beafaee0acf41e874a67637b73347d48b81c",
-        "published": "2026-05-12T07:34:17+00:00"
+        "title": "20,000 Romans Entered Teutoburg Forest - I Made a Dark 15-Minute AI War Vid About It",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta4dv4/20000_romans_entered_teutoburg_forest_i_made_a/",
+        "image": "https://external-preview.redd.it/aGYxMm1nZW01aTBoMfDgckQgtKbibvMUadHw5WQZXfSVlm25QJORT-MymJQw.png?width=640&crop=smart&auto=webp&s=28712e7f0d592a2d5d52536a8335cc0a230a4f28",
+        "published": "2026-05-11T14:07:30+00:00"
     },
     {
         "title": "A hurricane PSA built solo over a weekend. The studio gets destroyed by the storm being described. 100% AI",
@@ -78,15 +72,21 @@
         "published": "2026-05-11T22:52:10+00:00"
     },
     {
-        "title": "Ohio House bill introduced to prohibit personhood of AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta1ts1/ohio_house_bill_introduced_to_prohibit_personhood/",
-        "image": "https://external-preview.redd.it/ZSCiIrWdLig1Q89rYqlUBYrjobtEOUUdpRHwBsJKW-A.jpeg?width=640&crop=smart&auto=webp&s=3a2c91dfe08982e2ba824b07a369ba39995ec513",
-        "published": "2026-05-11T12:28:19+00:00"
-    },
-    {
         "title": "Scientists successfully transfer longevity gene and extend lifespan from naked mole rats to mice --- Longevity heating up...",
         "link": "https://www.reddit.com/r/singularity/comments/1tan4h4/scientists_successfully_transfer_longevity_gene/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-12T01:36:10+00:00"
+    },
+    {
+        "title": "PACT, head-to-head LLM negotiation benchmark. 20-round buyer-seller bargaining game: each round the AIs can message, the buyer submits a bid and the seller submits an ask. If bid \u2265 ask, trade clears at the midpoint. Thousands of matchups.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tab1o9/pact_headtohead_llm_negotiation_benchmark_20round/",
+        "image": "https://preview.redd.it/a91xies1rj0h1.png?width=140&height=140&auto=webp&s=ee97d7084f3f3793e6afc79f5e6b13ff24765287",
+        "published": "2026-05-11T17:58:09+00:00"
+    },
+    {
+        "title": "Am I missing something about GPT-5.5 efficiency?",
+        "link": "https://www.reddit.com/r/singularity/comments/1taaec9/am_i_missing_something_about_gpt55_efficiency/",
+        "image": "https://preview.redd.it/5rvqn31xnj0h1.png?width=640&crop=smart&auto=webp&s=e66daf8a1fef34b78ed7c434f37508e8f3dda1a7",
+        "published": "2026-05-11T17:36:10+00:00"
     }
 ]
