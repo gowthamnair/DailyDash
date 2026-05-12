@@ -12,22 +12,10 @@
         "published": "2026-05-11T14:29:30+00:00"
     },
     {
-        "title": "GPT5.5s CoT keeps leaking in the new codex update. Looks like we know how they got token efficency, they cavemanmaxxed",
-        "link": "https://www.reddit.com/r/singularity/comments/1t9p40s/gpt55s_cot_keeps_leaking_in_the_new_codex_update/",
-        "image": "https://preview.redd.it/swy4udfbwe0h1.png?width=640&crop=smart&auto=webp&s=903189af9813bd7b5c44efeefb7066402dfad835",
-        "published": "2026-05-11T01:34:17+00:00"
-    },
-    {
         "title": "Neobot scene from the recent future",
         "link": "https://www.reddit.com/r/singularity/comments/1t9qwvz/neobot_scene_from_the_recent_future/",
         "image": "https://external-preview.redd.it/dmhrZDdkaGJiZjBoMVUHG4KA8RcvXxd2u-m6Qr0nbvY311UB_F9s_yoFq7XO.png?width=320&crop=smart&auto=webp&s=9dddbe7ca22aa1abc1f7a54fc105deb0c4b72961",
         "published": "2026-05-11T02:58:11+00:00"
-    },
-    {
-        "title": "Upcoming Leaked Gemini Omni VS Nearly Shutting Down Sora 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
-        "image": "https://external-preview.redd.it/enQ0MnUwNHlnajBoMbM1cK_OL3jy5IXVXfUV7Xm8V9vitIEBRkZdyXZbDSl7.png?width=640&crop=smart&auto=webp&s=a395e09ae13f070474c87875a537435200630173",
-        "published": "2026-05-11T16:58:24+00:00"
     },
     {
         "title": "Mark Zuckerberg \u2018Personally Authorized and Actively Encouraged\u2019 Meta\u2019s Massive Copyright Infringement to Train AI Systems, Publishers and Scott Turow Allege in Lawsuit",
@@ -36,16 +24,16 @@
         "published": "2026-05-11T20:36:47+00:00"
     },
     {
+        "title": "Upcoming Leaked Gemini Omni VS Nearly Shutting Down Sora 2",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
+        "image": "https://external-preview.redd.it/enQ0MnUwNHlnajBoMbM1cK_OL3jy5IXVXfUV7Xm8V9vitIEBRkZdyXZbDSl7.png?width=640&crop=smart&auto=webp&s=a395e09ae13f070474c87875a537435200630173",
+        "published": "2026-05-11T16:58:24+00:00"
+    },
+    {
         "title": "ICLR 2026 Contributions by Country/Institution",
         "link": "https://www.reddit.com/r/singularity/comments/1t9swzg/iclr_2026_contributions_by_countryinstitution/",
         "image": "https://preview.redd.it/qls4nu9xsf0h1.png?width=640&crop=smart&auto=webp&s=56afa5a7b6b8f014c3081d52d3070e32e46e4073",
         "published": "2026-05-11T04:37:06+00:00"
-    },
-    {
-        "title": "The interesting BDH question: What if LLM memory lived in the network weights instead of the ever-growing KV cache?",
-        "link": "https://www.reddit.com/r/singularity/comments/1taal4l/the_interesting_bdh_question_what_if_llm_memory/",
-        "image": "https://preview.redd.it/wve54k0voj0h1.png?width=640&crop=smart&auto=webp&s=7c4c79c41c371edec4b1a44771fb34db91904383",
-        "published": "2026-05-11T17:42:34+00:00"
     },
     {
         "title": "AI is the manager at this Stockholm caf\u00e9",
@@ -54,16 +42,22 @@
         "published": "2026-05-11T16:11:41+00:00"
     },
     {
-        "title": "20,000 Romans Entered Teutoburg Forest - I Made a Dark 15-Minute AI War Vid About It",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta4dv4/20000_romans_entered_teutoburg_forest_i_made_a/",
-        "image": "https://external-preview.redd.it/aGYxMm1nZW01aTBoMfDgckQgtKbibvMUadHw5WQZXfSVlm25QJORT-MymJQw.png?width=640&crop=smart&auto=webp&s=28712e7f0d592a2d5d52536a8335cc0a230a4f28",
-        "published": "2026-05-11T14:07:30+00:00"
-    },
-    {
         "title": "OpenAI Daybreak (response to Mythos)",
         "link": "https://www.reddit.com/r/singularity/comments/1tah5lg/openai_daybreak_response_to_mythos/",
         "image": "https://external-preview.redd.it/Kx6OlwhiQcyDy2dYHD0n-Yamk4qdTVDLM80tJ4A-pxw.png?width=640&crop=smart&auto=webp&s=3d5d3ca4417b917f3253095dbf3ee8c23135b9d2",
         "published": "2026-05-11T21:29:22+00:00"
+    },
+    {
+        "title": "The interesting BDH question: What if LLM memory lived in the network weights instead of the ever-growing KV cache?",
+        "link": "https://www.reddit.com/r/singularity/comments/1taal4l/the_interesting_bdh_question_what_if_llm_memory/",
+        "image": "https://preview.redd.it/wve54k0voj0h1.png?width=640&crop=smart&auto=webp&s=7c4c79c41c371edec4b1a44771fb34db91904383",
+        "published": "2026-05-11T17:42:34+00:00"
+    },
+    {
+        "title": "20,000 Romans Entered Teutoburg Forest - I Made a Dark 15-Minute AI War Vid About It",
+        "link": "https://www.reddit.com/r/singularity/comments/1ta4dv4/20000_romans_entered_teutoburg_forest_i_made_a/",
+        "image": "https://external-preview.redd.it/aGYxMm1nZW01aTBoMfDgckQgtKbibvMUadHw5WQZXfSVlm25QJORT-MymJQw.png?width=640&crop=smart&auto=webp&s=28712e7f0d592a2d5d52536a8335cc0a230a4f28",
+        "published": "2026-05-11T14:07:30+00:00"
     },
     {
         "title": "A hurricane PSA built solo over a weekend. The studio gets destroyed by the storm being described. 100% AI",
@@ -72,21 +66,27 @@
         "published": "2026-05-11T15:25:26+00:00"
     },
     {
+        "title": "And there it is. I think this is confirmation of a superapp this week.",
+        "link": "https://www.reddit.com/r/singularity/comments/1taj9lz/and_there_it_is_i_think_this_is_confirmation_of_a/",
+        "image": "https://preview.redd.it/vx4a0ct88l0h1.jpeg?width=640&crop=smart&auto=webp&s=d0f4f71e4fe12c7d61c8b30dcc6a9a4841456371",
+        "published": "2026-05-11T22:52:10+00:00"
+    },
+    {
         "title": "The upcoming Wuji hand 2 (cgi)",
         "link": "https://www.reddit.com/r/singularity/comments/1t9zr3a/the_upcoming_wuji_hand_2_cgi/",
         "image": "https://external-preview.redd.it/enN4a3ZmNnRuaDBoMa4vazlJOOWc1p_Ey3zHMjPrIyPJBq7Ou5HWFz8JUPFr.png?width=640&crop=smart&auto=webp&s=b1a195da85a2ea75242a0db8f51a58e14b569782",
         "published": "2026-05-11T10:54:40+00:00"
     },
     {
+        "title": "AA introduces Coding Agent Index - Performance Comparisons between Model & Harness Combinations",
+        "link": "https://www.reddit.com/r/singularity/comments/1tak39d/aa_introduces_coding_agent_index_performance/",
+        "image": "https://preview.redd.it/v82toiqkdl0h1.png?width=640&crop=smart&auto=webp&s=069654cbf5b6f4396f3225fa0dfbba128e147d5b",
+        "published": "2026-05-11T23:25:55+00:00"
+    },
+    {
         "title": "Ohio House bill introduced to prohibit personhood of AI",
         "link": "https://www.reddit.com/r/singularity/comments/1ta1ts1/ohio_house_bill_introduced_to_prohibit_personhood/",
         "image": "https://external-preview.redd.it/ZSCiIrWdLig1Q89rYqlUBYrjobtEOUUdpRHwBsJKW-A.jpeg?width=640&crop=smart&auto=webp&s=3a2c91dfe08982e2ba824b07a369ba39995ec513",
         "published": "2026-05-11T12:28:19+00:00"
-    },
-    {
-        "title": "PACT, head-to-head LLM negotiation benchmark. 20-round buyer-seller bargaining game: each round the AIs can message, the buyer submits a bid and the seller submits an ask. If bid \u2265 ask, trade clears at the midpoint. Thousands of matchups.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tab1o9/pact_headtohead_llm_negotiation_benchmark_20round/",
-        "image": "https://preview.redd.it/a91xies1rj0h1.png?width=140&height=140&auto=webp&s=ee97d7084f3f3793e6afc79f5e6b13ff24765287",
-        "published": "2026-05-11T17:58:09+00:00"
     }
 ]
