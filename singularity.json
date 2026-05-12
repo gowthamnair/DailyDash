@@ -18,16 +18,22 @@
         "published": "2026-05-12T07:34:17+00:00"
     },
     {
-        "title": "Upcoming Leaked Gemini Omni VS Nearly Shutting Down Sora 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
-        "image": "https://external-preview.redd.it/enQ0MnUwNHlnajBoMbM1cK_OL3jy5IXVXfUV7Xm8V9vitIEBRkZdyXZbDSl7.png?width=640&crop=smart&auto=webp&s=a395e09ae13f070474c87875a537435200630173",
-        "published": "2026-05-11T16:58:24+00:00"
-    },
-    {
         "title": "OpenAI Daybreak (response to Mythos)",
         "link": "https://www.reddit.com/r/singularity/comments/1tah5lg/openai_daybreak_response_to_mythos/",
         "image": "https://external-preview.redd.it/Kx6OlwhiQcyDy2dYHD0n-Yamk4qdTVDLM80tJ4A-pxw.png?width=640&crop=smart&auto=webp&s=3d5d3ca4417b917f3253095dbf3ee8c23135b9d2",
         "published": "2026-05-11T21:29:22+00:00"
+    },
+    {
+        "title": "On a difficult new SWE benchmark, ProgramBench, GPT5.5 high/xhigh solves a task for first time, significantly outperforms Opus 4.7",
+        "link": "https://www.reddit.com/r/singularity/comments/1tb6kum/on_a_difficult_new_swe_benchmark_programbench/",
+        "image": "https://preview.redd.it/g4s4o8iqfq0h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c231cb04ecbd27794e069d29ea12cacf817431ba",
+        "published": "2026-05-12T16:22:32+00:00"
+    },
+    {
+        "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
+        "link": "https://www.reddit.com/r/singularity/comments/1tb3wtl/demis_hassabiss_isomorphic_labs_announces_series/",
+        "image": "https://external-preview.redd.it/zYGayccZ0EnFjgMd4I61ND4zfZWFONuOAI7aYX3GArE.jpeg?width=640&crop=smart&auto=webp&s=3fb510dc302380f944a3f219b16bab2472d222cd",
+        "published": "2026-05-12T14:50:32+00:00"
     },
     {
         "title": "AA introduces Coding Agent Index - Performance Comparisons between Model & Harness Combinations",
@@ -42,18 +48,6 @@
         "published": "2026-05-11T22:52:10+00:00"
     },
     {
-        "title": "The interesting BDH question: What if LLM memory lived in the network weights instead of the ever-growing KV cache?",
-        "link": "https://www.reddit.com/r/singularity/comments/1taal4l/the_interesting_bdh_question_what_if_llm_memory/",
-        "image": "https://preview.redd.it/wve54k0voj0h1.png?width=640&crop=smart&auto=webp&s=7c4c79c41c371edec4b1a44771fb34db91904383",
-        "published": "2026-05-11T17:42:34+00:00"
-    },
-    {
-        "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
-        "link": "https://www.reddit.com/r/singularity/comments/1tb3wtl/demis_hassabiss_isomorphic_labs_announces_series/",
-        "image": "https://external-preview.redd.it/zYGayccZ0EnFjgMd4I61ND4zfZWFONuOAI7aYX3GArE.jpeg?width=640&crop=smart&auto=webp&s=3fb510dc302380f944a3f219b16bab2472d222cd",
-        "published": "2026-05-12T14:50:32+00:00"
-    },
-    {
         "title": "Scientists successfully transfer longevity gene and extend lifespan from naked mole rats to mice --- Longevity heating up...",
         "link": "https://www.reddit.com/r/singularity/comments/1tan4h4/scientists_successfully_transfer_longevity_gene/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -66,10 +60,16 @@
         "published": "2026-05-12T04:40:28+00:00"
     },
     {
-        "title": "PACT, head-to-head LLM negotiation benchmark. 20-round buyer-seller bargaining game: each round the AIs can message, the buyer submits a bid and the seller submits an ask. If bid \u2265 ask, trade clears at the midpoint. Thousands of matchups.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tab1o9/pact_headtohead_llm_negotiation_benchmark_20round/",
-        "image": "https://preview.redd.it/a91xies1rj0h1.png?width=140&height=140&auto=webp&s=ee97d7084f3f3793e6afc79f5e6b13ff24765287",
-        "published": "2026-05-11T17:58:09+00:00"
+        "title": "Japan: World-first fully automated medicine lab with humanoids, robots and no humans - The university plans 2,000 research robots by 2040 to automate experiments, cell culture, and scientific discovery.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tax64e/japan_worldfirst_fully_automated_medicine_lab/",
+        "image": "https://external-preview.redd.it/hocdNFdSW0Hu-Rg4_RbXJP0B0H02arevkbVZN1cuD_E.jpeg?width=640&crop=smart&auto=webp&s=5cefced67095745f7a3e8d8f80c380eae00e259f",
+        "published": "2026-05-12T10:10:36+00:00"
+    },
+    {
+        "title": "LawZero - Joshua Bengio's vision for solving AI alignment by building AI oracles",
+        "link": "https://www.reddit.com/r/singularity/comments/1tax9r6/lawzero_joshua_bengios_vision_for_solving_ai/",
+        "image": "https://external-preview.redd.it/3WPFb_uQfAl781A2UTyyiunAhP1-o38wA9lpYGvtevg.png?width=640&crop=smart&auto=webp&s=11783fde892396d9fbdf4a64fa7aa98e1b2e5305",
+        "published": "2026-05-12T10:15:51+00:00"
     },
     {
         "title": "Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines",
@@ -78,15 +78,15 @@
         "published": "2026-05-11T21:54:26+00:00"
     },
     {
-        "title": "Am I missing something about GPT-5.5 efficiency?",
-        "link": "https://www.reddit.com/r/singularity/comments/1taaec9/am_i_missing_something_about_gpt55_efficiency/",
-        "image": "https://preview.redd.it/5rvqn31xnj0h1.png?width=640&crop=smart&auto=webp&s=e66daf8a1fef34b78ed7c434f37508e8f3dda1a7",
-        "published": "2026-05-11T17:36:10+00:00"
+        "title": "anyone here non technical and using clawdi or something easier",
+        "link": "https://www.reddit.com/r/singularity/comments/1tb5rew/anyone_here_non_technical_and_using_clawdi_or/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-12T15:54:34+00:00"
     },
     {
-        "title": "LawZero - Joshua Bengio's vision for solving AI alignment by building AI oracles",
-        "link": "https://www.reddit.com/r/singularity/comments/1tax9r6/lawzero_joshua_bengios_vision_for_solving_ai/",
-        "image": "https://external-preview.redd.it/3WPFb_uQfAl781A2UTyyiunAhP1-o38wA9lpYGvtevg.png?width=640&crop=smart&auto=webp&s=11783fde892396d9fbdf4a64fa7aa98e1b2e5305",
-        "published": "2026-05-12T10:15:51+00:00"
+        "title": "So close yet so far",
+        "link": "https://www.reddit.com/r/singularity/comments/1tanumw/so_close_yet_so_far/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-12T02:08:04+00:00"
     }
 ]
