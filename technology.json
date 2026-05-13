@@ -1,17 +1,5 @@
 [
     {
-        "title": "Twin brothers wipe 96 gov\u2019t databases minutes after being fired",
-        "link": "https://www.reddit.com/r/technology/comments/1tbmwj3/twin_brothers_wipe_96_govt_databases_minutes/",
-        "image": "https://external-preview.redd.it/pVyJWdGxRg_sFYUOfuVwbyDFD2CLOTqBuUXpExMaCto.jpeg?width=640&crop=smart&auto=webp&s=b9cff29e840f8e5aad146798a562342d10fcde45",
-        "published": "2026-05-13T02:46:00+00:00"
-    },
-    {
-        "title": "AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds",
-        "link": "https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/",
-        "image": "https://external-preview.redd.it/9GWAUsBB4dYIFitnYkf5MbCPGw5PbjYEPY4TtUwbw2M.jpeg?width=640&crop=smart&auto=webp&s=84683d8c2d27cb2e11c04c6cfdf80e228e9b19f3",
-        "published": "2026-05-12T18:06:04+00:00"
-    },
-    {
         "title": "\u2018Irresponsible\u2019: backlash as Utah approves datacenter twice the size of Manhattan",
         "link": "https://www.reddit.com/r/technology/comments/1tby0nw/irresponsible_backlash_as_utah_approves/",
         "image": "https://external-preview.redd.it/2Ov5ZOjet2O06QaLXD-tmJKVjou_JL_C3UmKfNKRqNU.jpeg?width=640&crop=smart&auto=webp&s=19d5294b748d66488cf32a19aa537ca89504670c",
@@ -22,6 +10,18 @@
         "link": "https://www.reddit.com/r/technology/comments/1tby9bn/data_center_drained_30_million_gallons_of_water/",
         "image": "https://external-preview.redd.it/SiKPf-MQ68YeQ4EnEILI_xrqKGeXMcWVZTOg1pk5okA.jpeg?width=640&crop=smart&auto=webp&s=eed7d1ba6a0040f37f4b5487824a01a27492c765",
         "published": "2026-05-13T12:31:58+00:00"
+    },
+    {
+        "title": "Twin brothers wipe 96 gov\u2019t databases minutes after being fired",
+        "link": "https://www.reddit.com/r/technology/comments/1tbmwj3/twin_brothers_wipe_96_govt_databases_minutes/",
+        "image": "https://external-preview.redd.it/pVyJWdGxRg_sFYUOfuVwbyDFD2CLOTqBuUXpExMaCto.jpeg?width=640&crop=smart&auto=webp&s=b9cff29e840f8e5aad146798a562342d10fcde45",
+        "published": "2026-05-13T02:46:00+00:00"
+    },
+    {
+        "title": "'It's like we don't exist': Nearly 50,000 Lake Tahoe residents face power loss as utility redirects lines to data centers",
+        "link": "https://www.reddit.com/r/technology/comments/1tc66gv/its_like_we_dont_exist_nearly_50000_lake_tahoe/",
+        "image": "https://external-preview.redd.it/0h7o4hIHc2zJctgaxRhReBwsgcVmWTz2uVx5jcPeAr4.jpeg?width=640&crop=smart&auto=webp&s=78c9c5a6bcb1e4dfce4c32a5990c4de1a124a874",
+        "published": "2026-05-13T17:15:08+00:00"
     },
     {
         "title": "Kickstarter bans all NSFW content from the website",
@@ -48,16 +48,22 @@
         "published": "2026-05-12T20:36:38+00:00"
     },
     {
-        "title": "Amazon employees are inflating AI usage to top leaderboards and impress managers",
-        "link": "https://www.reddit.com/r/technology/comments/1tbq90c/amazon_employees_are_inflating_ai_usage_to_top/",
-        "image": "https://external-preview.redd.it/WPpSNxRn1Rpc0MK18ClixMZMm45RrshPXbVypqHEYiI.jpeg?width=640&crop=smart&auto=webp&s=6d373f573c2c77cd9a65ee32a7e5478dcf103f58",
-        "published": "2026-05-13T05:28:20+00:00"
+        "title": "Tech Layoff Wave Has Already Hit 100,000 Jobs This Year",
+        "link": "https://www.reddit.com/r/technology/comments/1tc5muu/tech_layoff_wave_has_already_hit_100000_jobs_this/",
+        "image": "https://external-preview.redd.it/k3NqMecY8fKdKq2wurVtz8Hx37HfndOPb8s55P87jrI.jpeg?width=640&crop=smart&auto=webp&s=1d7cf9fb4863d61655db15130ce602897dcb298a",
+        "published": "2026-05-13T16:56:56+00:00"
     },
     {
         "title": "Software Developers Say AI Is Rotting Their Brains",
         "link": "https://www.reddit.com/r/technology/comments/1tbzz8u/software_developers_say_ai_is_rotting_their_brains/",
         "image": "https://external-preview.redd.it/C0baZhGVHdk2rgsX_x2i507EiZ9VyD1_5aIVPNRBurw.jpeg?width=640&crop=smart&auto=webp&s=3a02943e5ceb80171bf7d04c4f731b66da1a1a57",
         "published": "2026-05-13T13:39:26+00:00"
+    },
+    {
+        "title": "Amazon employees are inflating AI usage to top leaderboards and impress managers",
+        "link": "https://www.reddit.com/r/technology/comments/1tbq90c/amazon_employees_are_inflating_ai_usage_to_top/",
+        "image": "https://external-preview.redd.it/WPpSNxRn1Rpc0MK18ClixMZMm45RrshPXbVypqHEYiI.jpeg?width=640&crop=smart&auto=webp&s=6d373f573c2c77cd9a65ee32a7e5478dcf103f58",
+        "published": "2026-05-13T05:28:20+00:00"
     },
     {
         "title": "AI godfather warns humanity risks extinction by hyperintelligent machines with their own \u2018preservation goals\u2019 within 10 years",
@@ -72,21 +78,15 @@
         "published": "2026-05-12T21:16:16+00:00"
     },
     {
-        "title": "US workers overwhelmingly support union-backed policies on AI, poll says",
-        "link": "https://www.reddit.com/r/technology/comments/1tbggqw/us_workers_overwhelmingly_support_unionbacked/",
-        "image": "https://external-preview.redd.it/UZmFjcy2C1rhbjajq0Kl-pI5HgiWvGRGso_h33aAvhA.jpeg?width=640&crop=smart&auto=webp&s=94ac7f3ef14de3f6daa47ad6a531e08a2c6e8a91",
-        "published": "2026-05-12T22:10:29+00:00"
-    },
-    {
         "title": "South Korean official proposes 'citizen dividend' payouts from AI windfall \u2014 markets spooked by suggestion AI revenue should be redistributed to citizens",
         "link": "https://www.reddit.com/r/technology/comments/1tbwex4/south_korean_official_proposes_citizen_dividend/",
         "image": "https://external-preview.redd.it/Zsq1SxD98GFbEaMFajp1OP_SvyhnnM3N08pv5TyV2EM.jpeg?width=640&crop=smart&auto=webp&s=a30223b5b2f193ff4a31a36ee7171b02f9fcc457",
         "published": "2026-05-13T11:09:23+00:00"
     },
     {
-        "title": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices",
-        "link": "https://www.reddit.com/r/technology/comments/1tbqy2p/exclusive_meta_employees_launch_protest_against/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-13T06:05:10+00:00"
+        "title": "Seven in 10 Americans oppose constructing data centers for AI in their local area, including nearly half who are strongly opposed. Barely a quarter favor these projects, with 7% strongly in favor",
+        "link": "https://www.reddit.com/r/technology/comments/1tbypz4/seven_in_10_americans_oppose_constructing_data/",
+        "image": "https://external-preview.redd.it/ltef0E4V_D7EBDfrHQczxi8A6y-8THz1V4g0roCKdMU.jpeg?width=640&crop=smart&auto=webp&s=6ec6faaf888011a60476ecbee694984c18446fd5",
+        "published": "2026-05-13T12:50:55+00:00"
     }
 ]
