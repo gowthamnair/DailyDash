@@ -18,16 +18,16 @@
         "published": "2026-05-13T12:04:25+00:00"
     },
     {
-        "title": "All AI discoveries should be public the moment it gets discovered",
-        "link": "https://www.reddit.com/r/singularity/comments/1tbifoa/all_ai_discoveries_should_be_public_the_moment_it/",
-        "image": "https://preview.redd.it/5z2kr006ks0h1.jpeg?width=640&crop=smart&auto=webp&s=f18d687cbf8fb748979668ae8135ab32b0b2b330",
-        "published": "2026-05-12T23:30:57+00:00"
-    },
-    {
         "title": "New Mythos checkpoint shows continued improvement: \u201cOn a 32-step corporate network attack we estimate takes a human expert ~20 hours, this checkpoint completes the full attack in 6 /10 attempts.\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1tc9dwx/new_mythos_checkpoint_shows_continued_improvement/",
         "image": "https://preview.redd.it/91bqlekwcy0h1.jpeg?width=640&crop=smart&auto=webp&s=d9d907cbd08a0e8a50e19113f15775a73b3e9e1d",
         "published": "2026-05-13T19:03:23+00:00"
+    },
+    {
+        "title": "All AI discoveries should be public the moment it gets discovered",
+        "link": "https://www.reddit.com/r/singularity/comments/1tbifoa/all_ai_discoveries_should_be_public_the_moment_it/",
+        "image": "https://preview.redd.it/5z2kr006ks0h1.jpeg?width=640&crop=smart&auto=webp&s=f18d687cbf8fb748979668ae8135ab32b0b2b330",
+        "published": "2026-05-12T23:30:57+00:00"
     },
     {
         "title": "Figure AI livestream: watch a team of humanoid robots running a full 8-hour shift at human performance levels, fully autonomous.",
@@ -40,12 +40,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tc1559/breakthrough_tazbentetol_significantly_improved/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-13T14:22:12+00:00"
-    },
-    {
-        "title": "Humanoid robots: close breakthrough or still massively overhyped?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tbfqtq/humanoid_robots_close_breakthrough_or_still/",
-        "image": "https://external-preview.redd.it/OlySao02degGkToAmoD8CiyEzz2i5foRRuo7x4TcSpM.png?width=640&crop=smart&auto=webp&s=8b95118f7e1ce8dd0a640f5ef7a88ec3b47e3a03",
-        "published": "2026-05-12T21:42:50+00:00"
     },
     {
         "title": "Behind millions of dollars of funding in AI sit enterprises with just a 5% average utilisation rate. Inference cost plus cost of ownership also rose to 41% from 34%",
