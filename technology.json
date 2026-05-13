@@ -1,21 +1,15 @@
 [
     {
-        "title": "AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds",
-        "link": "https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/",
-        "image": "https://external-preview.redd.it/9GWAUsBB4dYIFitnYkf5MbCPGw5PbjYEPY4TtUwbw2M.jpeg?width=640&crop=smart&auto=webp&s=84683d8c2d27cb2e11c04c6cfdf80e228e9b19f3",
-        "published": "2026-05-12T18:06:04+00:00"
-    },
-    {
         "title": "Twin brothers wipe 96 gov\u2019t databases minutes after being fired",
         "link": "https://www.reddit.com/r/technology/comments/1tbmwj3/twin_brothers_wipe_96_govt_databases_minutes/",
         "image": "https://external-preview.redd.it/pVyJWdGxRg_sFYUOfuVwbyDFD2CLOTqBuUXpExMaCto.jpeg?width=640&crop=smart&auto=webp&s=b9cff29e840f8e5aad146798a562342d10fcde45",
         "published": "2026-05-13T02:46:00+00:00"
     },
     {
-        "title": "Kickstarter bans all NSFW content from the website",
-        "link": "https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/",
-        "image": "https://external-preview.redd.it/l_TxKHOHFys21Thd1-5iBMM2NJuo5HnLSHaHfxK2wec.png?width=640&crop=smart&auto=webp&s=5827f880550edd0b7aa73aabb60da18a8c89b1d4",
-        "published": "2026-05-12T21:31:21+00:00"
+        "title": "AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds",
+        "link": "https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/",
+        "image": "https://external-preview.redd.it/9GWAUsBB4dYIFitnYkf5MbCPGw5PbjYEPY4TtUwbw2M.jpeg?width=640&crop=smart&auto=webp&s=84683d8c2d27cb2e11c04c6cfdf80e228e9b19f3",
+        "published": "2026-05-12T18:06:04+00:00"
     },
     {
         "title": "\u2018Irresponsible\u2019: backlash as Utah approves datacenter twice the size of Manhattan",
@@ -30,10 +24,16 @@
         "published": "2026-05-13T12:31:58+00:00"
     },
     {
-        "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-        "link": "https://www.reddit.com/r/technology/comments/1tbdy42/parents_say_chatgpt_got_their_son_killed_with_bad/",
-        "image": "https://external-preview.redd.it/G0ylmFYa-Bp_5zmD4sWCpQMakCB-8ldn1w0j_3y89cE.png?width=640&crop=smart&auto=webp&s=c9f46eef618837c007791bec5a944b52376cfea6",
-        "published": "2026-05-12T20:36:38+00:00"
+        "title": "Kickstarter bans all NSFW content from the website",
+        "link": "https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/",
+        "image": "https://external-preview.redd.it/l_TxKHOHFys21Thd1-5iBMM2NJuo5HnLSHaHfxK2wec.png?width=640&crop=smart&auto=webp&s=5827f880550edd0b7aa73aabb60da18a8c89b1d4",
+        "published": "2026-05-12T21:31:21+00:00"
+    },
+    {
+        "title": "As the U.S. starves it of oil, Cuba is pulling off one of the fastest solar revolutions on the planet \u2014 with China\u2019s help",
+        "link": "https://www.reddit.com/r/technology/comments/1tc0jml/as_the_us_starves_it_of_oil_cuba_is_pulling_off/",
+        "image": "https://external-preview.redd.it/sLIuB7sazkdYUKHiqgo5BBniC9KpcmFSbkRzxjFVraA.jpeg?width=640&crop=smart&auto=webp&s=17952a20124cb038b172987f874727d0997732f6",
+        "published": "2026-05-13T14:00:42+00:00"
     },
     {
         "title": "Most Americans say AI development is moving too fast and twice as many are AI pessimists as AI optimists",
@@ -42,10 +42,22 @@
         "published": "2026-05-13T03:31:56+00:00"
     },
     {
+        "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+        "link": "https://www.reddit.com/r/technology/comments/1tbdy42/parents_say_chatgpt_got_their_son_killed_with_bad/",
+        "image": "https://external-preview.redd.it/G0ylmFYa-Bp_5zmD4sWCpQMakCB-8ldn1w0j_3y89cE.png?width=640&crop=smart&auto=webp&s=c9f46eef618837c007791bec5a944b52376cfea6",
+        "published": "2026-05-12T20:36:38+00:00"
+    },
+    {
         "title": "Amazon employees are inflating AI usage to top leaderboards and impress managers",
         "link": "https://www.reddit.com/r/technology/comments/1tbq90c/amazon_employees_are_inflating_ai_usage_to_top/",
         "image": "https://external-preview.redd.it/WPpSNxRn1Rpc0MK18ClixMZMm45RrshPXbVypqHEYiI.jpeg?width=640&crop=smart&auto=webp&s=6d373f573c2c77cd9a65ee32a7e5478dcf103f58",
         "published": "2026-05-13T05:28:20+00:00"
+    },
+    {
+        "title": "Software Developers Say AI Is Rotting Their Brains",
+        "link": "https://www.reddit.com/r/technology/comments/1tbzz8u/software_developers_say_ai_is_rotting_their_brains/",
+        "image": "https://external-preview.redd.it/C0baZhGVHdk2rgsX_x2i507EiZ9VyD1_5aIVPNRBurw.jpeg?width=640&crop=smart&auto=webp&s=3a02943e5ceb80171bf7d04c4f731b66da1a1a57",
+        "published": "2026-05-13T13:39:26+00:00"
     },
     {
         "title": "AI godfather warns humanity risks extinction by hyperintelligent machines with their own \u2018preservation goals\u2019 within 10 years",
@@ -60,28 +72,16 @@
         "published": "2026-05-12T21:16:16+00:00"
     },
     {
-        "title": "Amazon staff use AI tool for unnecessary tasks to inflate usage scores",
-        "link": "https://www.reddit.com/r/technology/comments/1tb4xdc/amazon_staff_use_ai_tool_for_unnecessary_tasks_to/",
-        "image": "https://external-preview.redd.it/cr0SymqFoLey5uPk8958rHtBZ22A-sgqdDU_ZoyroVc.png?width=640&crop=smart&auto=webp&s=912a160e7e4149de0ee9194c0f66c2008147d931",
-        "published": "2026-05-12T15:25:58+00:00"
-    },
-    {
         "title": "US workers overwhelmingly support union-backed policies on AI, poll says",
         "link": "https://www.reddit.com/r/technology/comments/1tbggqw/us_workers_overwhelmingly_support_unionbacked/",
         "image": "https://external-preview.redd.it/UZmFjcy2C1rhbjajq0Kl-pI5HgiWvGRGso_h33aAvhA.jpeg?width=640&crop=smart&auto=webp&s=94ac7f3ef14de3f6daa47ad6a531e08a2c6e8a91",
         "published": "2026-05-12T22:10:29+00:00"
     },
     {
-        "title": "Chinese robot company unveils $650,000 mech you can pilot",
-        "link": "https://www.reddit.com/r/technology/comments/1tb8tee/chinese_robot_company_unveils_650000_mech_you_can/",
-        "image": "https://external-preview.redd.it/xTxSHgqO0tZDn3uoqTS3TUJjn-uHZTGBLcGwF_Y5iFw.jpeg?width=640&crop=smart&auto=webp&s=d4144412bfcad984405a10996ebc2b06a0a8bcb9",
-        "published": "2026-05-12T17:39:30+00:00"
-    },
-    {
-        "title": "Meta won\u2019t let you block its AI account on Threads",
-        "link": "https://www.reddit.com/r/technology/comments/1tbdyzv/meta_wont_let_you_block_its_ai_account_on_threads/",
-        "image": "https://external-preview.redd.it/ZgwfvxMbp1OeJ-rJspYBEF7O_pdY9o6X-KUh8alksf4.jpeg?width=640&crop=smart&auto=webp&s=293a7b3516c5ed9758d03eb55b7b6e927ed3c07f",
-        "published": "2026-05-12T20:37:32+00:00"
+        "title": "South Korean official proposes 'citizen dividend' payouts from AI windfall \u2014 markets spooked by suggestion AI revenue should be redistributed to citizens",
+        "link": "https://www.reddit.com/r/technology/comments/1tbwex4/south_korean_official_proposes_citizen_dividend/",
+        "image": "https://external-preview.redd.it/Zsq1SxD98GFbEaMFajp1OP_SvyhnnM3N08pv5TyV2EM.jpeg?width=640&crop=smart&auto=webp&s=a30223b5b2f193ff4a31a36ee7171b02f9fcc457",
+        "published": "2026-05-13T11:09:23+00:00"
     },
     {
         "title": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices",
