@@ -6,16 +6,16 @@
         "published": "2026-05-12T16:22:32+00:00"
     },
     {
-        "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
-        "link": "https://www.reddit.com/r/singularity/comments/1tb3wtl/demis_hassabiss_isomorphic_labs_announces_series/",
-        "image": "https://external-preview.redd.it/zYGayccZ0EnFjgMd4I61ND4zfZWFONuOAI7aYX3GArE.jpeg?width=640&crop=smart&auto=webp&s=3fb510dc302380f944a3f219b16bab2472d222cd",
-        "published": "2026-05-12T14:50:32+00:00"
-    },
-    {
         "title": "China\u2019s \u2018dark factory\u2019 more than doubles production efficiency for J-20 jets",
         "link": "https://www.reddit.com/r/singularity/comments/1tbidrb/chinas_dark_factory_more_than_doubles_production/",
         "image": "https://external-preview.redd.it/4q85ehOIus_RQckueB1NSoykSEscEEJQ2FFVPwc9bSQ.jpeg?width=640&crop=smart&auto=webp&s=a71585906fad2a1faa036cc93cb6c77ca446a38d",
         "published": "2026-05-12T23:28:49+00:00"
+    },
+    {
+        "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
+        "link": "https://www.reddit.com/r/singularity/comments/1tb3wtl/demis_hassabiss_isomorphic_labs_announces_series/",
+        "image": "https://external-preview.redd.it/zYGayccZ0EnFjgMd4I61ND4zfZWFONuOAI7aYX3GArE.jpeg?width=640&crop=smart&auto=webp&s=3fb510dc302380f944a3f219b16bab2472d222cd",
+        "published": "2026-05-12T14:50:32+00:00"
     },
     {
         "title": "Bloomberg: Google in Talks to Use SpaceX to Launch Space Data Centers",
@@ -30,6 +30,12 @@
         "published": "2026-05-12T23:30:57+00:00"
     },
     {
+        "title": "Figure AI's humanoid robot will run at human speeds today, totally on its own in a 8-hour (!) livestream.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tbxm71/figure_ais_humanoid_robot_will_run_at_human/",
+        "image": "https://preview.redd.it/8onf9ejlaw0h1.jpeg?width=640&crop=smart&auto=webp&s=b631f1379f825119693a055deca9a0e2593aa9f0",
+        "published": "2026-05-13T12:04:25+00:00"
+    },
+    {
         "title": "Gemini api showing agentic gemini models",
         "link": "https://www.reddit.com/r/singularity/comments/1tban9q/gemini_api_showing_agentic_gemini_models/",
         "image": "https://preview.redd.it/6u531s39ak0h1.png?width=640&crop=smart&auto=webp&s=76de79ac64e8c45c0aeb424b94172616d966bc98",
@@ -40,5 +46,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tbfqtq/humanoid_robots_close_breakthrough_or_still/",
         "image": "https://external-preview.redd.it/OlySao02degGkToAmoD8CiyEzz2i5foRRuo7x4TcSpM.png?width=640&crop=smart&auto=webp&s=8b95118f7e1ce8dd0a640f5ef7a88ec3b47e3a03",
         "published": "2026-05-12T21:42:50+00:00"
+    },
+    {
+        "title": "The entire story of the Universe and intelligence",
+        "link": "https://www.reddit.com/r/singularity/comments/1tbztbi/the_entire_story_of_the_universe_and_intelligence/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-13T13:33:14+00:00"
+    },
+    {
+        "title": "India is quietly becoming Europe\u2019s AI talent backbone",
+        "link": "https://www.reddit.com/r/singularity/comments/1tbzcg7/india_is_quietly_becoming_europes_ai_talent/",
+        "image": "https://external-preview.redd.it/EWjUrn0E5Hc5yr1LTrmrTdEhSsI4exawvB225bR3BxU.jpeg?width=640&crop=smart&auto=webp&s=b0430ed45f9b29b731e19e0835715552c58940a8",
+        "published": "2026-05-13T13:15:24+00:00"
     }
 ]

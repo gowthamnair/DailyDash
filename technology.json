@@ -12,16 +12,22 @@
         "published": "2026-05-13T02:46:00+00:00"
     },
     {
-        "title": "ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir",
-        "link": "https://www.reddit.com/r/technology/comments/1tb13zk/ice_agents_have_list_of_20_million_people_on/",
-        "image": "https://external-preview.redd.it/nnTBR-xgwtC3YXdpO_U26z0sNJiC684yfDPJyQFeXhw.jpeg?width=640&crop=smart&auto=webp&s=608b9be652fcdb58b991487459d5ede92aa3727c",
-        "published": "2026-05-12T13:07:05+00:00"
-    },
-    {
         "title": "Kickstarter bans all NSFW content from the website",
         "link": "https://www.reddit.com/r/technology/comments/1tbffv1/kickstarter_bans_all_nsfw_content_from_the_website/",
         "image": "https://external-preview.redd.it/l_TxKHOHFys21Thd1-5iBMM2NJuo5HnLSHaHfxK2wec.png?width=640&crop=smart&auto=webp&s=5827f880550edd0b7aa73aabb60da18a8c89b1d4",
         "published": "2026-05-12T21:31:21+00:00"
+    },
+    {
+        "title": "\u2018Irresponsible\u2019: backlash as Utah approves datacenter twice the size of Manhattan",
+        "link": "https://www.reddit.com/r/technology/comments/1tby0nw/irresponsible_backlash_as_utah_approves/",
+        "image": "https://external-preview.redd.it/2Ov5ZOjet2O06QaLXD-tmJKVjou_JL_C3UmKfNKRqNU.jpeg?width=640&crop=smart&auto=webp&s=19d5294b748d66488cf32a19aa537ca89504670c",
+        "published": "2026-05-13T12:21:40+00:00"
+    },
+    {
+        "title": "Data center drained 30 million gallons of water without reporting or paying for it, investigation reveals",
+        "link": "https://www.reddit.com/r/technology/comments/1tby9bn/data_center_drained_30_million_gallons_of_water/",
+        "image": "https://external-preview.redd.it/SiKPf-MQ68YeQ4EnEILI_xrqKGeXMcWVZTOg1pk5okA.jpeg?width=640&crop=smart&auto=webp&s=eed7d1ba6a0040f37f4b5487824a01a27492c765",
+        "published": "2026-05-13T12:31:58+00:00"
     },
     {
         "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
@@ -36,16 +42,16 @@
         "published": "2026-05-13T03:31:56+00:00"
     },
     {
+        "title": "Amazon employees are inflating AI usage to top leaderboards and impress managers",
+        "link": "https://www.reddit.com/r/technology/comments/1tbq90c/amazon_employees_are_inflating_ai_usage_to_top/",
+        "image": "https://external-preview.redd.it/WPpSNxRn1Rpc0MK18ClixMZMm45RrshPXbVypqHEYiI.jpeg?width=640&crop=smart&auto=webp&s=6d373f573c2c77cd9a65ee32a7e5478dcf103f58",
+        "published": "2026-05-13T05:28:20+00:00"
+    },
+    {
         "title": "AI godfather warns humanity risks extinction by hyperintelligent machines with their own \u2018preservation goals\u2019 within 10 years",
         "link": "https://www.reddit.com/r/technology/comments/1tbd4e9/ai_godfather_warns_humanity_risks_extinction_by/",
         "image": "https://external-preview.redd.it/HAaEcDuRBlvexYpGkYeDOAAp0twm-DbkjTCCjTWz5Po.jpeg?width=640&crop=smart&auto=webp&s=80bc61b1134b02bcbb5b81449a300bfc7e81c39a",
         "published": "2026-05-12T20:07:15+00:00"
-    },
-    {
-        "title": "Anthropic says Claude learned to blackmail people from \"evil\" AI stories online",
-        "link": "https://www.reddit.com/r/technology/comments/1tb2edi/anthropic_says_claude_learned_to_blackmail_people/",
-        "image": "https://external-preview.redd.it/bp5mxNOoXzENNttp6DYuUPNGpej11JY3GuEe-Rg3edg.jpeg?width=640&crop=smart&auto=webp&s=b279f9f41b541daa210f0bc5e168b1c6af8ecfc7",
-        "published": "2026-05-12T13:55:59+00:00"
     },
     {
         "title": "Stop Chrome Browser From Downloading a Hidden 4GB AI File",
@@ -54,22 +60,10 @@
         "published": "2026-05-12T21:16:16+00:00"
     },
     {
-        "title": "Amazon employees are inflating AI usage to top leaderboards and impress managers",
-        "link": "https://www.reddit.com/r/technology/comments/1tbq90c/amazon_employees_are_inflating_ai_usage_to_top/",
-        "image": "https://external-preview.redd.it/WPpSNxRn1Rpc0MK18ClixMZMm45RrshPXbVypqHEYiI.jpeg?width=640&crop=smart&auto=webp&s=6d373f573c2c77cd9a65ee32a7e5478dcf103f58",
-        "published": "2026-05-13T05:28:20+00:00"
-    },
-    {
         "title": "Amazon staff use AI tool for unnecessary tasks to inflate usage scores",
         "link": "https://www.reddit.com/r/technology/comments/1tb4xdc/amazon_staff_use_ai_tool_for_unnecessary_tasks_to/",
         "image": "https://external-preview.redd.it/cr0SymqFoLey5uPk8958rHtBZ22A-sgqdDU_ZoyroVc.png?width=640&crop=smart&auto=webp&s=912a160e7e4149de0ee9194c0f66c2008147d931",
         "published": "2026-05-12T15:25:58+00:00"
-    },
-    {
-        "title": "Apple is rolling out end-to-end encryption for iPhone-to-Android RCS messages",
-        "link": "https://www.reddit.com/r/technology/comments/1tb0mrp/apple_is_rolling_out_endtoend_encryption_for/",
-        "image": "https://external-preview.redd.it/kEuhlpcvmpqojK4RR4pFVGSaLbqKd3pxBrqiDQvpUkQ.jpeg?width=640&crop=smart&auto=webp&s=07453c40941994e71ff45b56ed7f358aeacd0e3d",
-        "published": "2026-05-12T12:48:38+00:00"
     },
     {
         "title": "US workers overwhelmingly support union-backed policies on AI, poll says",
@@ -78,15 +72,21 @@
         "published": "2026-05-12T22:10:29+00:00"
     },
     {
-        "title": "\u2018LLMs are unreliable delegates\u2019: Microsoft researchers say you probably shouldn\u2019t trust AI with work documents",
-        "link": "https://www.reddit.com/r/technology/comments/1tb13rq/llms_are_unreliable_delegates_microsoft/",
-        "image": "https://external-preview.redd.it/zLJAT1pF2rLe5c5F8ZJDbAujaqrqcG8z5qFKtz4evKI.jpeg?width=640&crop=smart&auto=webp&s=b805607bf97c6169d7cd5fa86e5aaee999a87230",
-        "published": "2026-05-12T13:06:51+00:00"
-    },
-    {
         "title": "Chinese robot company unveils $650,000 mech you can pilot",
         "link": "https://www.reddit.com/r/technology/comments/1tb8tee/chinese_robot_company_unveils_650000_mech_you_can/",
         "image": "https://external-preview.redd.it/xTxSHgqO0tZDn3uoqTS3TUJjn-uHZTGBLcGwF_Y5iFw.jpeg?width=640&crop=smart&auto=webp&s=d4144412bfcad984405a10996ebc2b06a0a8bcb9",
         "published": "2026-05-12T17:39:30+00:00"
+    },
+    {
+        "title": "Meta won\u2019t let you block its AI account on Threads",
+        "link": "https://www.reddit.com/r/technology/comments/1tbdyzv/meta_wont_let_you_block_its_ai_account_on_threads/",
+        "image": "https://external-preview.redd.it/ZgwfvxMbp1OeJ-rJspYBEF7O_pdY9o6X-KUh8alksf4.jpeg?width=640&crop=smart&auto=webp&s=293a7b3516c5ed9758d03eb55b7b6e927ed3c07f",
+        "published": "2026-05-12T20:37:32+00:00"
+    },
+    {
+        "title": "Exclusive: Meta employees launch protest against mouse-tracking tech at US offices",
+        "link": "https://www.reddit.com/r/technology/comments/1tbqy2p/exclusive_meta_employees_launch_protest_against/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-13T06:05:10+00:00"
     }
 ]
