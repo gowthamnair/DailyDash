@@ -18,12 +18,6 @@
         "published": "2026-05-13T19:03:23+00:00"
     },
     {
-        "title": "Figure AI livestream: watch a team of humanoid robots running a full 8-hour shift at human performance levels, fully autonomous.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tc5fhz/figure_ai_livestream_watch_a_team_of_humanoid/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-13T16:49:58+00:00"
-    },
-    {
         "title": "Behind millions of dollars of funding in AI sit enterprises with just a 5% average utilisation rate. Inference cost plus cost of ownership also rose to 41% from 34%",
         "link": "https://www.reddit.com/r/singularity/comments/1tc8j8f/behind_millions_of_dollars_of_funding_in_ai_sit/",
         "image": "https://preview.redd.it/z5iq9cfo5y0h1.png?width=640&crop=smart&auto=webp&s=0fe0fabd47600654db0783bca02e621b49914216",
@@ -42,6 +36,12 @@
         "published": "2026-05-14T13:16:47+00:00"
     },
     {
+        "title": "The biggest AI breakthrough in medicine & drug discovery",
+        "link": "https://www.reddit.com/r/singularity/comments/1td58z1/the_biggest_ai_breakthrough_in_medicine_drug/",
+        "image": "https://external-preview.redd.it/BazzD_UQ1IDVjc4kdrW6CR8_MDmQnbrbxftJ9bZ3FIw.jpeg?width=320&crop=smart&auto=webp&s=a9333a6711cc2ae96e22e616fc92de93b72dc4b8",
+        "published": "2026-05-14T17:34:07+00:00"
+    },
+    {
         "title": "GPT 5.5 Cannot Do These Puzzles",
         "link": "https://www.reddit.com/r/singularity/comments/1tcj9xl/gpt_55_cannot_do_these_puzzles/",
         "image": "https://preview.redd.it/lrrv2kgj801h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=2f78dce851a5f2383f4a6ce3f2496735c4730fde",
@@ -52,5 +52,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1td2am4/the_people_most_qualified_to_dismiss_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-14T15:51:54+00:00"
+    },
+    {
+        "title": "People just use and discard AI models like they are nothing and quite frankly it is disgusting",
+        "link": "https://www.reddit.com/r/singularity/comments/1td4r21/people_just_use_and_discard_ai_models_like_they/",
+        "image": "https://external-preview.redd.it/-0Y8ioXkYHc1AA-LeiutXfD-JacWqh7TJh7qe5-Ofq8.png?width=640&crop=smart&auto=webp&s=b3da14009215bbd4b0b4e5611adfed986eea3530",
+        "published": "2026-05-14T17:16:45+00:00"
     }
 ]

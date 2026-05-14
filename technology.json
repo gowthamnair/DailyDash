@@ -1,11 +1,5 @@
 [
     {
-        "title": "'It's like we don't exist': Nearly 50,000 Lake Tahoe residents face power loss as utility redirects lines to data centers",
-        "link": "https://www.reddit.com/r/technology/comments/1tc66gv/its_like_we_dont_exist_nearly_50000_lake_tahoe/",
-        "image": "https://external-preview.redd.it/0h7o4hIHc2zJctgaxRhReBwsgcVmWTz2uVx5jcPeAr4.jpeg?width=640&crop=smart&auto=webp&s=78c9c5a6bcb1e4dfce4c32a5990c4de1a124a874",
-        "published": "2026-05-13T17:15:08+00:00"
-    },
-    {
         "title": "People Would Rather Have Nuclear Power Plants In Their Area Than AI Data Centers",
         "link": "https://www.reddit.com/r/technology/comments/1tcmxdf/people_would_rather_have_nuclear_power_plants_in/",
         "image": "https://external-preview.redd.it/uW1ERUKetTnJ1pohKhKNFDj6eAb3-iNFUNiJJ7dDf0E.jpeg?width=640&crop=smart&auto=webp&s=e62b257fc81e04d23ebe8c66a5bf8e9b873d0f97",
@@ -18,16 +12,16 @@
         "published": "2026-05-13T19:25:26+00:00"
     },
     {
+        "title": "Princeton scraps honor code and will supervise exams for first time in 133 years because of AI",
+        "link": "https://www.reddit.com/r/technology/comments/1td1ovl/princeton_scraps_honor_code_and_will_supervise/",
+        "image": "https://external-preview.redd.it/fdB81gEirlmG37SK_5UMdSSvf53uaYfPLoHYQ5KSp70.jpeg?width=640&crop=smart&auto=webp&s=b92f7e280ac14046f6673b69446fd5fea056a7c7",
+        "published": "2026-05-14T15:31:00+00:00"
+    },
+    {
         "title": "Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him \u2014 more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer",
         "link": "https://www.reddit.com/r/technology/comments/1tcudxy/louis_rossmann_taunts_bambu_lab_by_hosting_banned/",
         "image": "https://external-preview.redd.it/RugUXQRRFYFDolLtv1e3UnIc73lsizpa1BISnnUyKAY.png?width=640&crop=smart&auto=webp&s=14d68ec9f38b809f8fbbdc27fd23e608e139e3da",
         "published": "2026-05-14T10:44:08+00:00"
-    },
-    {
-        "title": "Tech Layoff Wave Has Already Hit 100,000 Jobs This Year",
-        "link": "https://www.reddit.com/r/technology/comments/1tc5muu/tech_layoff_wave_has_already_hit_100000_jobs_this/",
-        "image": "https://external-preview.redd.it/k3NqMecY8fKdKq2wurVtz8Hx37HfndOPb8s55P87jrI.jpeg?width=640&crop=smart&auto=webp&s=1d7cf9fb4863d61655db15130ce602897dcb298a",
-        "published": "2026-05-13T16:56:56+00:00"
     },
     {
         "title": "Scientists successfully transfer longevity gene and extend lifespan",
@@ -40,6 +34,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1tc94v7/data_centers_could_account_for_up_to_9_of_texas/",
         "image": "https://external-preview.redd.it/oCGx_32CBTevfp86flTWWwRuhSo0-R-BrdBUwHTkflU.jpeg?width=640&crop=smart&auto=webp&s=d12495e2733d48b620078f3e2c58c181f196230e",
         "published": "2026-05-13T18:54:45+00:00"
+    },
+    {
+        "title": "The AI Layoff Bill Is Coming Due, And CTOs Are Going To Pay It Twice",
+        "link": "https://www.reddit.com/r/technology/comments/1tcxr3m/the_ai_layoff_bill_is_coming_due_and_ctos_are/",
+        "image": "https://external-preview.redd.it/fF_jrVRA9usxFf6Db9hdx3W4Kp7kHfsa7CfrjlJofCU.jpeg?width=640&crop=smart&auto=webp&s=89bc566d0ecaec6c90097e7cea26b0c949d882f6",
+        "published": "2026-05-14T13:10:22+00:00"
     },
     {
         "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
@@ -66,10 +66,10 @@
         "published": "2026-05-13T19:15:15+00:00"
     },
     {
-        "title": "The AI Layoff Bill Is Coming Due, And CTOs Are Going To Pay It Twice",
-        "link": "https://www.reddit.com/r/technology/comments/1tcxr3m/the_ai_layoff_bill_is_coming_due_and_ctos_are/",
-        "image": "https://external-preview.redd.it/fF_jrVRA9usxFf6Db9hdx3W4Kp7kHfsa7CfrjlJofCU.jpeg?width=640&crop=smart&auto=webp&s=89bc566d0ecaec6c90097e7cea26b0c949d882f6",
-        "published": "2026-05-14T13:10:22+00:00"
+        "title": "Microsoft confirms Windows 11 has been downgrading graphics drivers, reveals when a fix is coming",
+        "link": "https://www.reddit.com/r/technology/comments/1tcz0ca/microsoft_confirms_windows_11_has_been/",
+        "image": "https://external-preview.redd.it/N3vM6SMwSOKgrKvifZFaaFtj9wOmqZ3k7LiFEZNR4NM.jpeg?width=640&crop=smart&auto=webp&s=02b7522eb6e061d1506832d7a4cf8e128272253e",
+        "published": "2026-05-14T13:57:39+00:00"
     },
     {
         "title": "Sam Altman forced to confront claims at OpenAI trial that he's a prolific liar | \u201cVery painful\u201d: Altman relives his reaction to losing control over OpenAI.",
@@ -78,10 +78,10 @@
         "published": "2026-05-14T01:58:41+00:00"
     },
     {
-        "title": "Microsoft confirms Windows 11 has been downgrading graphics drivers, reveals when a fix is coming",
-        "link": "https://www.reddit.com/r/technology/comments/1tcz0ca/microsoft_confirms_windows_11_has_been/",
-        "image": "https://external-preview.redd.it/N3vM6SMwSOKgrKvifZFaaFtj9wOmqZ3k7LiFEZNR4NM.jpeg?width=640&crop=smart&auto=webp&s=02b7522eb6e061d1506832d7a4cf8e128272253e",
-        "published": "2026-05-14T13:57:39+00:00"
+        "title": "Meta\u2019s New Reality: Record High Profits. Record Low Morale",
+        "link": "https://www.reddit.com/r/technology/comments/1tcxu5n/metas_new_reality_record_high_profits_record_low/",
+        "image": "https://external-preview.redd.it/742D13QYzeKvE6i2HoOA1tw8w9zy4E8lJJfoqi7XQAc.jpeg?width=640&crop=smart&auto=webp&s=67e363683f744baaa4b32bd5251a31be1770d58c",
+        "published": "2026-05-14T13:13:38+00:00"
     },
     {
         "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
