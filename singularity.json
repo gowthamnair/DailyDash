@@ -6,16 +6,16 @@
         "published": "2026-05-14T14:36:44+00:00"
     },
     {
-        "title": "FDA Shortens Clinical Trial Timelines for Drugs and Medical Devices with AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1tcl5bh/fda_shortens_clinical_trial_timelines_for_drugs/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-14T02:42:32+00:00"
-    },
-    {
         "title": "People are claiming teleop, but I really don't think a human would be this insistent to get a package they clearly can't reach.",
         "link": "https://www.reddit.com/r/singularity/comments/1td7ae5/people_are_claiming_teleop_but_i_really_dont/",
         "image": "https://external-preview.redd.it/dzZ3Zjk5NTNlNTFoMQYPfGDDFQ_ul7qJvRdtUqA-YjoKb3HtyTWYR8n9oUFd.png?width=640&crop=smart&auto=webp&s=685de409f09ef244cdbc682cd3593b358c2ce079",
         "published": "2026-05-14T18:43:17+00:00"
+    },
+    {
+        "title": "FDA Shortens Clinical Trial Timelines for Drugs and Medical Devices with AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1tcl5bh/fda_shortens_clinical_trial_timelines_for_drugs/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-14T02:42:32+00:00"
     },
     {
         "title": "Gen AI web traffic share update Main takeaways: \u2192 Claude and Gemini continue to grow. \u2192 ChatGPT moves closer to the 50% mark.",
@@ -24,10 +24,22 @@
         "published": "2026-05-14T13:16:47+00:00"
     },
     {
+        "title": "The first public macOS kernel memory corruption exploit on Apple M5 was built with Mythos Preview's help, and it only took 5 days.",
+        "link": "https://www.reddit.com/r/singularity/comments/1td97gj/the_first_public_macos_kernel_memory_corruption/",
+        "image": "https://external-preview.redd.it/f9vQkZBlF7v_9IZl_JMAF3-Xcc0iA_Fbrz8Qk6L0mWI.jpeg?width=640&crop=smart&auto=webp&s=c45e05598f291328f5ef1ddfa302c9773d8d2a34",
+        "published": "2026-05-14T19:50:46+00:00"
+    },
+    {
         "title": "The biggest AI breakthrough in medicine & drug discovery",
         "link": "https://www.reddit.com/r/singularity/comments/1td58z1/the_biggest_ai_breakthrough_in_medicine_drug/",
         "image": "https://external-preview.redd.it/BazzD_UQ1IDVjc4kdrW6CR8_MDmQnbrbxftJ9bZ3FIw.jpeg?width=320&crop=smart&auto=webp&s=a9333a6711cc2ae96e22e616fc92de93b72dc4b8",
         "published": "2026-05-14T17:34:07+00:00"
+    },
+    {
+        "title": "Codex on your phone",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdag3p/codex_on_your_phone/",
+        "image": "https://external-preview.redd.it/M2pobHNkOWp5NTFoMSLP2LU9nNYnyxqtQ694Q7gefCYvZmH-0EYLPMuHI9OK.png?width=640&crop=smart&auto=webp&s=042ddc0105089d9c41f9c240e301cc3df2b0b424",
+        "published": "2026-05-14T20:34:41+00:00"
     },
     {
         "title": "GPT 5.5 Cannot Do These Puzzles",
