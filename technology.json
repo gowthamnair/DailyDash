@@ -12,16 +12,16 @@
         "published": "2026-05-14T10:44:08+00:00"
     },
     {
-        "title": "\u2018A\u2019 Grades Are Suddenly Everywhere Since the Arrival of ChatGPT",
-        "link": "https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-14T16:25:18+00:00"
-    },
-    {
         "title": "Turns out, nobody wants a data center in their backyard",
         "link": "https://www.reddit.com/r/technology/comments/1tdibox/turns_out_nobody_wants_a_data_center_in_their/",
         "image": "https://external-preview.redd.it/webLbf8ocjmeDD0rpik3cfPOFgy-njz-mqMUHhd4Mfo.jpeg?width=640&crop=smart&auto=webp&s=f7211bca8b2116eb8b6ac8312c79f06620e8a09f",
         "published": "2026-05-15T01:56:48+00:00"
+    },
+    {
+        "title": "\u2018A\u2019 Grades Are Suddenly Everywhere Since the Arrival of ChatGPT",
+        "link": "https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-14T16:25:18+00:00"
     },
     {
         "title": "The AI Layoff Bill Is Coming Due, And CTOs Are Going To Pay It Twice",
@@ -30,22 +30,28 @@
         "published": "2026-05-14T13:10:22+00:00"
     },
     {
+        "title": "'Everyone is unhappy': Meta employees describe a grim environment as the company reportedly prepares to axe roughly 8,000 workers",
+        "link": "https://www.reddit.com/r/technology/comments/1tdn512/everyone_is_unhappy_meta_employees_describe_a/",
+        "image": "https://external-preview.redd.it/PAVo7Kznu7pfaFLaLk9Gy41YOXNCOvN1W35PhDAGp8w.jpeg?width=640&crop=smart&auto=webp&s=8a02b01c1669a4ae37e8069d2257731ae0812f24",
+        "published": "2026-05-15T05:46:28+00:00"
+    },
+    {
         "title": "70% of Americans oppose data centers near their homes, now less popular than nuclear power plants \u2014 opposition towards nearby AI infrastructure heating up as tech companies ramp up projects to acquire more compute",
         "link": "https://www.reddit.com/r/technology/comments/1td3ens/70_of_americans_oppose_data_centers_near_their/",
         "image": "https://external-preview.redd.it/2xC8OLIyc8yycITRKAU0-qZbbpsjgy6M5tb9e5MbLrQ.png?width=640&crop=smart&auto=webp&s=8fff753d70ae09592a0fc641d7a00595378aadd1",
         "published": "2026-05-14T16:30:11+00:00"
     },
     {
-        "title": "Microsoft confirms Windows 11 has been downgrading graphics drivers, reveals when a fix is coming",
-        "link": "https://www.reddit.com/r/technology/comments/1tcz0ca/microsoft_confirms_windows_11_has_been/",
-        "image": "https://external-preview.redd.it/N3vM6SMwSOKgrKvifZFaaFtj9wOmqZ3k7LiFEZNR4NM.jpeg?width=640&crop=smart&auto=webp&s=02b7522eb6e061d1506832d7a4cf8e128272253e",
-        "published": "2026-05-14T13:57:39+00:00"
-    },
-    {
         "title": "Tech layoffs have been brutal this year. They're likely going to get worse.",
         "link": "https://www.reddit.com/r/technology/comments/1td6p3s/tech_layoffs_have_been_brutal_this_year_theyre/",
         "image": "https://external-preview.redd.it/8imLH_G662RQ5G-181lhz-b9T4n0ErMYFyqohagHVeY.jpeg?width=640&crop=smart&auto=webp&s=58ce46672b3635bbc29c6433b93e1e1d262a3e7d",
         "published": "2026-05-14T18:22:52+00:00"
+    },
+    {
+        "title": "Microsoft confirms Windows 11 has been downgrading graphics drivers, reveals when a fix is coming",
+        "link": "https://www.reddit.com/r/technology/comments/1tcz0ca/microsoft_confirms_windows_11_has_been/",
+        "image": "https://external-preview.redd.it/N3vM6SMwSOKgrKvifZFaaFtj9wOmqZ3k7LiFEZNR4NM.jpeg?width=640&crop=smart&auto=webp&s=02b7522eb6e061d1506832d7a4cf8e128272253e",
+        "published": "2026-05-14T13:57:39+00:00"
     },
     {
         "title": "German intelligence offices snub US-owned Palantir software",
@@ -66,6 +72,12 @@
         "published": "2026-05-14T13:13:38+00:00"
     },
     {
+        "title": "University of Tokyo develops device that increases computer processing speed by 1000 times, operating without generating heat.",
+        "link": "https://www.reddit.com/r/technology/comments/1tdjt7o/university_of_tokyo_develops_device_that/",
+        "image": "https://external-preview.redd.it/ZSlhg-emGGA27PLVTW7HmXRaFAMHtLCQmRK--vtuRqg.jpeg?width=640&crop=smart&auto=webp&s=ff62a0a6b9d9a6cf8da2d217fa48e0c05f4e9d25",
+        "published": "2026-05-15T03:03:27+00:00"
+    },
+    {
         "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
         "link": "https://www.reddit.com/r/technology/comments/1tdg33k/zeroday_exploit_completely_defeats_default/",
         "image": "https://external-preview.redd.it/w8YCaglt01DVzOSDwYhVt9sHHykhGBPWLtI8lbzHhmo.jpeg?width=640&crop=smart&auto=webp&s=ed2f95c669f527b995ec05d6f39328e080869458",
@@ -76,17 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1tcvhkq/cisco_posts_record_revenue_then_cuts_4000_jobs/",
         "image": "https://external-preview.redd.it/xiDa-GedNxXMasnxecPgDwHcmAX8-CF_py9Al_eS92Y.jpeg?width=640&crop=smart&auto=webp&s=ad03f4d98b4066f36e044ce5be8fe52234081547",
         "published": "2026-05-14T11:36:28+00:00"
-    },
-    {
-        "title": "The EU is going after TikTok and Meta over addictive algorithms and child safety failures",
-        "link": "https://www.reddit.com/r/technology/comments/1tcy86w/the_eu_is_going_after_tiktok_and_meta_over/",
-        "image": "https://external-preview.redd.it/Z1rj9s7SRjV0diSSdGN18BGtRyc9IRJpDXCPavUL-DE.jpeg?width=640&crop=smart&auto=webp&s=b95d1e500a0584b5f8aa11e7ef1fc53220dc94f5",
-        "published": "2026-05-14T13:28:28+00:00"
-    },
-    {
-        "title": "University of Tokyo develops device that increases computer processing speed by 1000 times, operating without generating heat.",
-        "link": "https://www.reddit.com/r/technology/comments/1tdjt7o/university_of_tokyo_develops_device_that/",
-        "image": "https://external-preview.redd.it/ZSlhg-emGGA27PLVTW7HmXRaFAMHtLCQmRK--vtuRqg.jpeg?width=640&crop=smart&auto=webp&s=ff62a0a6b9d9a6cf8da2d217fa48e0c05f4e9d25",
-        "published": "2026-05-15T03:03:27+00:00"
     }
 ]

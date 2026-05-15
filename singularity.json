@@ -42,12 +42,6 @@
         "published": "2026-05-14T20:34:41+00:00"
     },
     {
-        "title": "Poetiq: Recursive Self-Improvement Delivers New SOTA Coding Performance",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdft9u/poetiq_recursive_selfimprovement_delivers_new/",
-        "image": "https://external-preview.redd.it/-GyAQGbgnuE-3sazpFqQltu0AFDaK-sabqwsNT8dwdc.jpeg?width=640&crop=smart&auto=webp&s=7674c62fda36d71869f27d42b21242b84c1e7f14",
-        "published": "2026-05-15T00:05:46+00:00"
-    },
-    {
         "title": "New SOTA: Poetiq uses self-optimizing harness to surpass e.g. Opus 4.7 with Gemini 3 Flash",
         "link": "https://www.reddit.com/r/singularity/comments/1tdgnux/new_sota_poetiq_uses_selfoptimizing_harness_to/",
         "image": "https://preview.redd.it/bs1js66l671h1.png?width=140&height=115&auto=webp&s=700979b7c38e8bce9ef3b05b2a4fd7687cd1293c",
@@ -60,16 +54,16 @@
         "published": "2026-05-15T01:08:10+00:00"
     },
     {
+        "title": "Poetiq: Recursive Self-Improvement Delivers New SOTA Coding Performance",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdft9u/poetiq_recursive_selfimprovement_delivers_new/",
+        "image": "https://external-preview.redd.it/-GyAQGbgnuE-3sazpFqQltu0AFDaK-sabqwsNT8dwdc.jpeg?width=640&crop=smart&auto=webp&s=7674c62fda36d71869f27d42b21242b84c1e7f14",
+        "published": "2026-05-15T00:05:46+00:00"
+    },
+    {
         "title": "Self-play helped AI achieve superhuman performance in Go, so why hasn\u2019t it done the same for LLMs? Researchers have found a solution.",
         "link": "https://www.reddit.com/r/singularity/comments/1tdm02f/selfplay_helped_ai_achieve_superhuman_performance/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T04:47:46+00:00"
-    },
-    {
-        "title": "Any books/movies out there that explore the economic/political side of the singularity?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdmkfv/any_booksmovies_out_there_that_explore_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-15T05:16:46+00:00"
     },
     {
         "title": "'Touch dreaming' helps humanoid robots handle five tricky tasks with 90.9% higher success",
@@ -78,9 +72,21 @@
         "published": "2026-05-15T04:58:48+00:00"
     },
     {
+        "title": "Any books/movies out there that explore the economic/political side of the singularity?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdmkfv/any_booksmovies_out_there_that_explore_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T05:16:46+00:00"
+    },
+    {
         "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
         "link": "https://www.reddit.com/r/singularity/comments/1tdlwp6/llms_improving_llms_agentic_discovery_for/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T04:42:48+00:00"
+    },
+    {
+        "title": "AI-generated video that's way too good",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdo190/aigenerated_video_thats_way_too_good/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T06:34:07+00:00"
     }
 ]
