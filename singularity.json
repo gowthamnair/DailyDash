@@ -6,28 +6,22 @@
         "published": "2026-05-14T23:12:28+00:00"
     },
     {
-        "title": "The first public macOS kernel memory corruption exploit on Apple M5 was built with Mythos Preview's help, and it only took 5 days.",
-        "link": "https://www.reddit.com/r/singularity/comments/1td97gj/the_first_public_macos_kernel_memory_corruption/",
-        "image": "https://external-preview.redd.it/f9vQkZBlF7v_9IZl_JMAF3-Xcc0iA_Fbrz8Qk6L0mWI.jpeg?width=640&crop=smart&auto=webp&s=c45e05598f291328f5ef1ddfa302c9773d8d2a34",
-        "published": "2026-05-14T19:50:46+00:00"
-    },
-    {
         "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
         "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T12:53:33+00:00"
     },
     {
-        "title": "One in four adults over the age of 25 will experience a stroke in their lifetime; scientists have now reversed stroke damage in mice using Neural Stem Cell injections.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdh7y9/one_in_four_adults_over_the_age_of_25_will/",
-        "image": "https://external-preview.redd.it/8Xhs1ntm8jhVarfOtmhldyOF6LRf--TedZ6Eup8BFec.jpeg?width=640&crop=smart&auto=webp&s=04be855d5f720e7a3d1d82e9ecbedf23cc193508",
-        "published": "2026-05-15T01:08:10+00:00"
-    },
-    {
         "title": "Figure AI 03 swapping turns",
         "link": "https://www.reddit.com/r/singularity/comments/1tdzrv2/figure_ai_03_swapping_turns/",
         "image": "https://external-preview.redd.it/YXJ2eXg3bDBsYjFoMahhg8ouWfH-28PU3K0PXiGGsiVmY0Qrq3OgTUfjpie4.png?width=640&crop=smart&auto=webp&s=fd9b1f5b232ec48a6ce4953cb7678917286d1258",
         "published": "2026-05-15T15:31:02+00:00"
+    },
+    {
+        "title": "One in four adults over the age of 25 will experience a stroke in their lifetime; scientists have now reversed stroke damage in mice using Neural Stem Cell injections.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdh7y9/one_in_four_adults_over_the_age_of_25_will/",
+        "image": "https://external-preview.redd.it/8Xhs1ntm8jhVarfOtmhldyOF6LRf--TedZ6Eup8BFec.jpeg?width=640&crop=smart&auto=webp&s=04be855d5f720e7a3d1d82e9ecbedf23cc193508",
+        "published": "2026-05-15T01:08:10+00:00"
     },
     {
         "title": "New SOTA: Poetiq uses self-optimizing harness to surpass e.g. Opus 4.7 with Gemini 3 Flash",
@@ -42,10 +36,10 @@
         "published": "2026-05-15T00:05:46+00:00"
     },
     {
-        "title": "Codex on your phone",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdag3p/codex_on_your_phone/",
-        "image": "https://external-preview.redd.it/M2pobHNkOWp5NTFoMSLP2LU9nNYnyxqtQ694Q7gefCYvZmH-0EYLPMuHI9OK.png?width=640&crop=smart&auto=webp&s=042ddc0105089d9c41f9c240e301cc3df2b0b424",
-        "published": "2026-05-14T20:34:41+00:00"
+        "title": "More evidence of Mythos's strength in Cybersecurity/Hacking - compared to 5.5, it got 18/41 n-day exploits, vs 1/41. Open Source/Weights models get nothing",
+        "link": "https://www.reddit.com/r/singularity/comments/1te51wg/more_evidence_of_mythoss_strength_in/",
+        "image": "https://preview.redd.it/plsybhz9ic1h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c790beb02c87c33c418d6ee12f76087729f1ee07",
+        "published": "2026-05-15T18:35:58+00:00"
     },
     {
         "title": "Self-play helped AI achieve superhuman performance in Go, so why hasn\u2019t it done the same for LLMs? Researchers have found a solution.",
@@ -60,16 +54,16 @@
         "published": "2026-05-15T04:58:48+00:00"
     },
     {
-        "title": "More evidence of Mythos's strength in Cybersecurity/Hacking - compared to 5.5, it got 18/41 n-day exploits, vs 1/41. Open Source/Weights models get nothing",
-        "link": "https://www.reddit.com/r/singularity/comments/1te51wg/more_evidence_of_mythoss_strength_in/",
-        "image": "https://preview.redd.it/plsybhz9ic1h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c790beb02c87c33c418d6ee12f76087729f1ee07",
-        "published": "2026-05-15T18:35:58+00:00"
-    },
-    {
         "title": "Designing better quantum circuits with AI",
         "link": "https://www.reddit.com/r/singularity/comments/1tdu1o5/designing_better_quantum_circuits_with_ai/",
         "image": "https://external-preview.redd.it/mnQL0GfdSl_ri7gQTN_mKbmtOXTq8t4Hb7f18p8kdAY.jpeg?width=640&crop=smart&auto=webp&s=502228590c8342fdaef1afcc32ed66425b147d91",
         "published": "2026-05-15T11:53:17+00:00"
+    },
+    {
+        "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
+        "link": "https://www.reddit.com/r/singularity/comments/1te5yxy/pope_decries_rise_of_aidirected_warfare_saying_it/",
+        "image": "https://external-preview.redd.it/PI_4O6x41_F5HA5jZ7hIGfffGV45QFbcYRUqyvUza94.jpeg?width=640&crop=smart&auto=webp&s=e70aea7eaeee19705574ec3f7ba546155757e10e",
+        "published": "2026-05-15T19:08:31+00:00"
     },
     {
         "title": "Any books/movies out there that explore the economic/political side of the singularity?",
@@ -84,9 +78,9 @@
         "published": "2026-05-15T16:49:21+00:00"
     },
     {
-        "title": "Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, & Why Hinton is Wrong",
-        "link": "https://www.reddit.com/r/singularity/comments/1te0e4b/yann_lecun_on_leaving_meta_breaking_the_llm/",
-        "image": "https://external-preview.redd.it/yNHIuTuv1yi4eUzVgJWVofj8-HK5u9JLjZbvbGhM6qw.jpeg?width=320&crop=smart&auto=webp&s=77eb8adbac2ce3bf5ce545fda0a8c121e2118ce9",
-        "published": "2026-05-15T15:53:08+00:00"
+        "title": "Joscha Bach on why mind uploading won't work, why Penrose and Hameroff are wrong, whether AGI is possible on current hardware, and what the apocalypse, the Singularity and God have in common",
+        "link": "https://www.reddit.com/r/singularity/comments/1te7v98/joscha_bach_on_why_mind_uploading_wont_work_why/",
+        "image": "https://external-preview.redd.it/7L6CCTTb3uxl5JCBL3sG5d-eyZiB18o6FGNAlsDXIsA.jpeg?width=320&crop=smart&auto=webp&s=93755c01b374821b835e01c94f728b6d34b7d650",
+        "published": "2026-05-15T20:16:36+00:00"
     }
 ]
