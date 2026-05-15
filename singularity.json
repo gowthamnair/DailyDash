@@ -1,11 +1,5 @@
 [
     {
-        "title": "Figure AI 03 keeps working for over 30 hours straight (no bathroom breaks - a peek into our future replacements)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdeiwm/figure_ai_03_keeps_working_for_over_30_hours/",
-        "image": "https://external-preview.redd.it/cWYxOXN5dm9xNjFoMY_AiQlNB9ATFhJTwu6MfHe-p2-mxH7M-gnLyY7m4BdK.png?width=640&crop=smart&auto=webp&s=a98f40fc440017fd45d18a7ee220b3a205973a19",
-        "published": "2026-05-14T23:12:28+00:00"
-    },
-    {
         "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
         "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -42,10 +36,10 @@
         "published": "2026-05-15T18:35:58+00:00"
     },
     {
-        "title": "ArXiv will ban researchers who upload papers full of AI slop",
-        "link": "https://www.reddit.com/r/singularity/comments/1te9ejz/arxiv_will_ban_researchers_who_upload_papers_full/",
-        "image": "https://external-preview.redd.it/lWxPr_NPF_Ishh8p7gLEAJpk_wfNpmqmTppksvcVrSo.jpeg?width=640&crop=smart&auto=webp&s=96dc2afaf300168001e0b0679992e684fd72c653",
-        "published": "2026-05-15T21:13:54+00:00"
+        "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
+        "link": "https://www.reddit.com/r/singularity/comments/1te5yxy/pope_decries_rise_of_aidirected_warfare_saying_it/",
+        "image": "https://external-preview.redd.it/PI_4O6x41_F5HA5jZ7hIGfffGV45QFbcYRUqyvUza94.jpeg?width=640&crop=smart&auto=webp&s=e70aea7eaeee19705574ec3f7ba546155757e10e",
+        "published": "2026-05-15T19:08:31+00:00"
     },
     {
         "title": "Self-play helped AI achieve superhuman performance in Go, so why hasn\u2019t it done the same for LLMs? Researchers have found a solution.",
@@ -54,22 +48,10 @@
         "published": "2026-05-15T04:47:46+00:00"
     },
     {
-        "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
-        "link": "https://www.reddit.com/r/singularity/comments/1te5yxy/pope_decries_rise_of_aidirected_warfare_saying_it/",
-        "image": "https://external-preview.redd.it/PI_4O6x41_F5HA5jZ7hIGfffGV45QFbcYRUqyvUza94.jpeg?width=640&crop=smart&auto=webp&s=e70aea7eaeee19705574ec3f7ba546155757e10e",
-        "published": "2026-05-15T19:08:31+00:00"
-    },
-    {
         "title": "'Touch dreaming' helps humanoid robots handle five tricky tasks with 90.9% higher success",
         "link": "https://www.reddit.com/r/singularity/comments/1tdm7v6/touch_dreaming_helps_humanoid_robots_handle_five/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T04:58:48+00:00"
-    },
-    {
-        "title": "Designing better quantum circuits with AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdu1o5/designing_better_quantum_circuits_with_ai/",
-        "image": "https://external-preview.redd.it/mnQL0GfdSl_ri7gQTN_mKbmtOXTq8t4Hb7f18p8kdAY.jpeg?width=640&crop=smart&auto=webp&s=502228590c8342fdaef1afcc32ed66425b147d91",
-        "published": "2026-05-15T11:53:17+00:00"
     },
     {
         "title": "Building AlphaGo from scratch \u2013 Eric Jang",
@@ -78,15 +60,21 @@
         "published": "2026-05-15T16:49:21+00:00"
     },
     {
+        "title": "Designing better quantum circuits with AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdu1o5/designing_better_quantum_circuits_with_ai/",
+        "image": "https://external-preview.redd.it/mnQL0GfdSl_ri7gQTN_mKbmtOXTq8t4Hb7f18p8kdAY.jpeg?width=640&crop=smart&auto=webp&s=502228590c8342fdaef1afcc32ed66425b147d91",
+        "published": "2026-05-15T11:53:17+00:00"
+    },
+    {
         "title": "Any books/movies out there that explore the economic/political side of the singularity?",
         "link": "https://www.reddit.com/r/singularity/comments/1tdmkfv/any_booksmovies_out_there_that_explore_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T05:16:46+00:00"
     },
     {
-        "title": "Does the outcome of the Musk v Altman trial actually matter for normal users?",
-        "link": "https://www.reddit.com/r/singularity/comments/1teamxr/does_the_outcome_of_the_musk_v_altman_trial/",
-        "image": "https://preview.redd.it/h3xcoekiid1h1.png?width=640&crop=smart&auto=webp&s=5caea7d2706203f9e0b4d16749c78cef022adf40",
-        "published": "2026-05-15T22:01:38+00:00"
+        "title": "I don't understand how the end game of AI works on multiple levels",
+        "link": "https://www.reddit.com/r/singularity/comments/1tecami/i_dont_understand_how_the_end_game_of_ai_works_on/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T23:09:08+00:00"
     }
 ]
