@@ -24,22 +24,22 @@
         "published": "2026-05-14T19:50:46+00:00"
     },
     {
+        "title": "How are they still not getting it?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdroag/how_are_they_still_not_getting_it/",
+        "image": "https://preview.redd.it/tuyhhtszx91h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5a7a523917c65296b8f5f8db181409c99dafe7fb",
+        "published": "2026-05-15T09:58:43+00:00"
+    },
+    {
         "title": "The biggest AI breakthrough in medicine & drug discovery",
         "link": "https://www.reddit.com/r/singularity/comments/1td58z1/the_biggest_ai_breakthrough_in_medicine_drug/",
         "image": "https://external-preview.redd.it/BazzD_UQ1IDVjc4kdrW6CR8_MDmQnbrbxftJ9bZ3FIw.jpeg?width=320&crop=smart&auto=webp&s=a9333a6711cc2ae96e22e616fc92de93b72dc4b8",
         "published": "2026-05-14T17:34:07+00:00"
     },
     {
-        "title": "Gen AI web traffic share update Main takeaways: \u2192 Claude and Gemini continue to grow. \u2192 ChatGPT moves closer to the 50% mark.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tcxx2x/gen_ai_web_traffic_share_update_main_takeaways/",
-        "image": "https://preview.redd.it/y15voh5fs31h1.png?width=640&crop=smart&auto=webp&s=bdc57536d9030f751af7cfd37fe5ec79b5d39f72",
-        "published": "2026-05-14T13:16:47+00:00"
-    },
-    {
-        "title": "How are they still not getting it?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdroag/how_are_they_still_not_getting_it/",
-        "image": "https://preview.redd.it/tuyhhtszx91h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5a7a523917c65296b8f5f8db181409c99dafe7fb",
-        "published": "2026-05-15T09:58:43+00:00"
+        "title": "One in four adults over the age of 25 will experience a stroke in their lifetime; scientists have now reversed stroke damage in mice using Neural Stem Cell injections.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdh7y9/one_in_four_adults_over_the_age_of_25_will/",
+        "image": "https://external-preview.redd.it/8Xhs1ntm8jhVarfOtmhldyOF6LRf--TedZ6Eup8BFec.jpeg?width=640&crop=smart&auto=webp&s=04be855d5f720e7a3d1d82e9ecbedf23cc193508",
+        "published": "2026-05-15T01:08:10+00:00"
     },
     {
         "title": "Codex on your phone",
@@ -54,12 +54,6 @@
         "published": "2026-05-15T00:43:29+00:00"
     },
     {
-        "title": "One in four adults over the age of 25 will experience a stroke in their lifetime; scientists have now reversed stroke damage in mice using Neural Stem Cell injections.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdh7y9/one_in_four_adults_over_the_age_of_25_will/",
-        "image": "https://external-preview.redd.it/8Xhs1ntm8jhVarfOtmhldyOF6LRf--TedZ6Eup8BFec.jpeg?width=640&crop=smart&auto=webp&s=04be855d5f720e7a3d1d82e9ecbedf23cc193508",
-        "published": "2026-05-15T01:08:10+00:00"
-    },
-    {
         "title": "Poetiq: Recursive Self-Improvement Delivers New SOTA Coding Performance",
         "link": "https://www.reddit.com/r/singularity/comments/1tdft9u/poetiq_recursive_selfimprovement_delivers_new/",
         "image": "https://external-preview.redd.it/-GyAQGbgnuE-3sazpFqQltu0AFDaK-sabqwsNT8dwdc.jpeg?width=640&crop=smart&auto=webp&s=7674c62fda36d71869f27d42b21242b84c1e7f14",
@@ -70,6 +64,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tdm02f/selfplay_helped_ai_achieve_superhuman_performance/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T04:47:46+00:00"
+    },
+    {
+        "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T12:53:33+00:00"
     },
     {
         "title": "'Touch dreaming' helps humanoid robots handle five tricky tasks with 90.9% higher success",
@@ -84,9 +84,9 @@
         "published": "2026-05-15T05:16:46+00:00"
     },
     {
-        "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdlwp6/llms_improving_llms_agentic_discovery_for/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-15T04:42:48+00:00"
+        "title": "Designing better quantum circuits with AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdu1o5/designing_better_quantum_circuits_with_ai/",
+        "image": "https://external-preview.redd.it/mnQL0GfdSl_ri7gQTN_mKbmtOXTq8t4Hb7f18p8kdAY.jpeg?width=640&crop=smart&auto=webp&s=502228590c8342fdaef1afcc32ed66425b147d91",
+        "published": "2026-05-15T11:53:17+00:00"
     }
 ]
