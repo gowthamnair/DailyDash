@@ -18,22 +18,28 @@
         "published": "2026-05-14T19:50:46+00:00"
     },
     {
-        "title": "The biggest AI breakthrough in medicine & drug discovery",
-        "link": "https://www.reddit.com/r/singularity/comments/1td58z1/the_biggest_ai_breakthrough_in_medicine_drug/",
-        "image": "https://external-preview.redd.it/BazzD_UQ1IDVjc4kdrW6CR8_MDmQnbrbxftJ9bZ3FIw.jpeg?width=320&crop=smart&auto=webp&s=a9333a6711cc2ae96e22e616fc92de93b72dc4b8",
-        "published": "2026-05-14T17:34:07+00:00"
-    },
-    {
         "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
         "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-15T12:53:33+00:00"
     },
     {
+        "title": "The biggest AI breakthrough in medicine & drug discovery",
+        "link": "https://www.reddit.com/r/singularity/comments/1td58z1/the_biggest_ai_breakthrough_in_medicine_drug/",
+        "image": "https://external-preview.redd.it/BazzD_UQ1IDVjc4kdrW6CR8_MDmQnbrbxftJ9bZ3FIw.jpeg?width=320&crop=smart&auto=webp&s=a9333a6711cc2ae96e22e616fc92de93b72dc4b8",
+        "published": "2026-05-14T17:34:07+00:00"
+    },
+    {
         "title": "One in four adults over the age of 25 will experience a stroke in their lifetime; scientists have now reversed stroke damage in mice using Neural Stem Cell injections.",
         "link": "https://www.reddit.com/r/singularity/comments/1tdh7y9/one_in_four_adults_over_the_age_of_25_will/",
         "image": "https://external-preview.redd.it/8Xhs1ntm8jhVarfOtmhldyOF6LRf--TedZ6Eup8BFec.jpeg?width=640&crop=smart&auto=webp&s=04be855d5f720e7a3d1d82e9ecbedf23cc193508",
         "published": "2026-05-15T01:08:10+00:00"
+    },
+    {
+        "title": "If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdzd0v/if_ai_causes_a_mass_unemployment_crisis_will_the/",
+        "image": "https://external-preview.redd.it/sLNWb4p2Tj8kI5uGULuIzCRKdXnBjcJiTck7NqpMJk4.jpeg?width=640&crop=smart&auto=webp&s=acbe9de4cc3a56168e81dccce27f7252f828cd6c",
+        "published": "2026-05-15T15:16:39+00:00"
     },
     {
         "title": "New SOTA: Poetiq uses self-optimizing harness to surpass e.g. Opus 4.7 with Gemini 3 Flash",
@@ -54,22 +60,16 @@
         "published": "2026-05-15T00:05:46+00:00"
     },
     {
-        "title": "Self-play helped AI achieve superhuman performance in Go, so why hasn\u2019t it done the same for LLMs? Researchers have found a solution.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdm02f/selfplay_helped_ai_achieve_superhuman_performance/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-15T04:47:46+00:00"
-    },
-    {
-        "title": "If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdzd0v/if_ai_causes_a_mass_unemployment_crisis_will_the/",
-        "image": "https://external-preview.redd.it/sLNWb4p2Tj8kI5uGULuIzCRKdXnBjcJiTck7NqpMJk4.jpeg?width=640&crop=smart&auto=webp&s=acbe9de4cc3a56168e81dccce27f7252f828cd6c",
-        "published": "2026-05-15T15:16:39+00:00"
-    },
-    {
         "title": "Figure AI 03 swapping turns",
         "link": "https://www.reddit.com/r/singularity/comments/1tdzrv2/figure_ai_03_swapping_turns/",
         "image": "https://external-preview.redd.it/YXJ2eXg3bDBsYjFoMahhg8ouWfH-28PU3K0PXiGGsiVmY0Qrq3OgTUfjpie4.png?width=640&crop=smart&auto=webp&s=fd9b1f5b232ec48a6ce4953cb7678917286d1258",
         "published": "2026-05-15T15:31:02+00:00"
+    },
+    {
+        "title": "Self-play helped AI achieve superhuman performance in Go, so why hasn\u2019t it done the same for LLMs? Researchers have found a solution.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdm02f/selfplay_helped_ai_achieve_superhuman_performance/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T04:47:46+00:00"
     },
     {
         "title": "'Touch dreaming' helps humanoid robots handle five tricky tasks with 90.9% higher success",
