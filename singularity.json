@@ -1,11 +1,5 @@
 [
     {
-        "title": "Twitter user posts a real Monet and says it's AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1td046p/twitter_user_posts_a_real_monet_and_says_its_ai/",
-        "image": "https://preview.redd.it/4sb11e8m641h1.jpeg?width=640&crop=smart&auto=webp&s=94f02b9a7ea85f1815e9893645f86664378eba12",
-        "published": "2026-05-14T14:36:44+00:00"
-    },
-    {
         "title": "Figure AI 03 keeps working for over 30 hours straight (no bathroom breaks - a peek into our future replacements)",
         "link": "https://www.reddit.com/r/singularity/comments/1tdeiwm/figure_ai_03_keeps_working_for_over_30_hours/",
         "image": "https://external-preview.redd.it/cWYxOXN5dm9xNjFoMY_AiQlNB9ATFhJTwu6MfHe-p2-mxH7M-gnLyY7m4BdK.png?width=640&crop=smart&auto=webp&s=a98f40fc440017fd45d18a7ee220b3a205973a19",
@@ -24,16 +18,16 @@
         "published": "2026-05-14T19:50:46+00:00"
     },
     {
-        "title": "How are they still not getting it?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdroag/how_are_they_still_not_getting_it/",
-        "image": "https://preview.redd.it/tuyhhtszx91h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5a7a523917c65296b8f5f8db181409c99dafe7fb",
-        "published": "2026-05-15T09:58:43+00:00"
-    },
-    {
         "title": "The biggest AI breakthrough in medicine & drug discovery",
         "link": "https://www.reddit.com/r/singularity/comments/1td58z1/the_biggest_ai_breakthrough_in_medicine_drug/",
         "image": "https://external-preview.redd.it/BazzD_UQ1IDVjc4kdrW6CR8_MDmQnbrbxftJ9bZ3FIw.jpeg?width=320&crop=smart&auto=webp&s=a9333a6711cc2ae96e22e616fc92de93b72dc4b8",
         "published": "2026-05-14T17:34:07+00:00"
+    },
+    {
+        "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T12:53:33+00:00"
     },
     {
         "title": "One in four adults over the age of 25 will experience a stroke in their lifetime; scientists have now reversed stroke damage in mice using Neural Stem Cell injections.",
@@ -42,16 +36,16 @@
         "published": "2026-05-15T01:08:10+00:00"
     },
     {
-        "title": "Codex on your phone",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdag3p/codex_on_your_phone/",
-        "image": "https://external-preview.redd.it/M2pobHNkOWp5NTFoMSLP2LU9nNYnyxqtQ694Q7gefCYvZmH-0EYLPMuHI9OK.png?width=640&crop=smart&auto=webp&s=042ddc0105089d9c41f9c240e301cc3df2b0b424",
-        "published": "2026-05-14T20:34:41+00:00"
-    },
-    {
         "title": "New SOTA: Poetiq uses self-optimizing harness to surpass e.g. Opus 4.7 with Gemini 3 Flash",
         "link": "https://www.reddit.com/r/singularity/comments/1tdgnux/new_sota_poetiq_uses_selfoptimizing_harness_to/",
         "image": "https://preview.redd.it/bs1js66l671h1.png?width=140&height=115&auto=webp&s=700979b7c38e8bce9ef3b05b2a4fd7687cd1293c",
         "published": "2026-05-15T00:43:29+00:00"
+    },
+    {
+        "title": "Codex on your phone",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdag3p/codex_on_your_phone/",
+        "image": "https://external-preview.redd.it/M2pobHNkOWp5NTFoMSLP2LU9nNYnyxqtQ694Q7gefCYvZmH-0EYLPMuHI9OK.png?width=640&crop=smart&auto=webp&s=042ddc0105089d9c41f9c240e301cc3df2b0b424",
+        "published": "2026-05-14T20:34:41+00:00"
     },
     {
         "title": "Poetiq: Recursive Self-Improvement Delivers New SOTA Coding Performance",
@@ -66,10 +60,16 @@
         "published": "2026-05-15T04:47:46+00:00"
     },
     {
-        "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-15T12:53:33+00:00"
+        "title": "If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdzd0v/if_ai_causes_a_mass_unemployment_crisis_will_the/",
+        "image": "https://external-preview.redd.it/sLNWb4p2Tj8kI5uGULuIzCRKdXnBjcJiTck7NqpMJk4.jpeg?width=640&crop=smart&auto=webp&s=acbe9de4cc3a56168e81dccce27f7252f828cd6c",
+        "published": "2026-05-15T15:16:39+00:00"
+    },
+    {
+        "title": "Figure AI 03 swapping turns",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdzrv2/figure_ai_03_swapping_turns/",
+        "image": "https://external-preview.redd.it/YXJ2eXg3bDBsYjFoMahhg8ouWfH-28PU3K0PXiGGsiVmY0Qrq3OgTUfjpie4.png?width=640&crop=smart&auto=webp&s=fd9b1f5b232ec48a6ce4953cb7678917286d1258",
+        "published": "2026-05-15T15:31:02+00:00"
     },
     {
         "title": "'Touch dreaming' helps humanoid robots handle five tricky tasks with 90.9% higher success",
@@ -78,15 +78,15 @@
         "published": "2026-05-15T04:58:48+00:00"
     },
     {
-        "title": "Any books/movies out there that explore the economic/political side of the singularity?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdmkfv/any_booksmovies_out_there_that_explore_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-15T05:16:46+00:00"
-    },
-    {
         "title": "Designing better quantum circuits with AI",
         "link": "https://www.reddit.com/r/singularity/comments/1tdu1o5/designing_better_quantum_circuits_with_ai/",
         "image": "https://external-preview.redd.it/mnQL0GfdSl_ri7gQTN_mKbmtOXTq8t4Hb7f18p8kdAY.jpeg?width=640&crop=smart&auto=webp&s=502228590c8342fdaef1afcc32ed66425b147d91",
         "published": "2026-05-15T11:53:17+00:00"
+    },
+    {
+        "title": "Any books/movies out there that explore the economic/political side of the singularity?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tdmkfv/any_booksmovies_out_there_that_explore_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-15T05:16:46+00:00"
     }
 ]
