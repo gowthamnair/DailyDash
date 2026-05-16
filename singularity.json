@@ -1,11 +1,5 @@
 [
     {
-        "title": "Genuine question. Is the whole \"AI guzzles gallons of water\" thing totally true, or do people get it wrong? Does AI consume a lot of water for every single prompt, or is the majority of water consumed during data farming? Don't non-AI data centers use up a lot of water on cooling too?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdvi2f/genuine_question_is_the_whole_ai_guzzles_gallons/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-15T12:53:33+00:00"
-    },
-    {
         "title": "Elite researchers teamed up with Anthropic\u2019s Mythos AI to smash Apple\u2019s multi-billion dollar M5 security and build a kernel exploit in just 5 days.",
         "link": "https://www.reddit.com/r/singularity/comments/1teepw3/elite_researchers_teamed_up_with_anthropics/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -48,28 +42,22 @@
         "published": "2026-05-15T16:49:21+00:00"
     },
     {
-        "title": "Designing better quantum circuits with AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1tdu1o5/designing_better_quantum_circuits_with_ai/",
-        "image": "https://external-preview.redd.it/mnQL0GfdSl_ri7gQTN_mKbmtOXTq8t4Hb7f18p8kdAY.jpeg?width=640&crop=smart&auto=webp&s=502228590c8342fdaef1afcc32ed66425b147d91",
-        "published": "2026-05-15T11:53:17+00:00"
-    },
-    {
         "title": "Depthfirst claims that their AI has discovered critical vulnerabilities that Anthropic's Mythos system missed, at just one-tenth the cost of Anthropic's Mythos model.",
         "link": "https://www.reddit.com/r/singularity/comments/1ten1mi/depthfirst_claims_that_their_ai_has_discovered/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-16T07:49:06+00:00"
     },
     {
-        "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
-        "link": "https://www.reddit.com/r/singularity/comments/1teoiq0/nous_research_releases_token_superposition/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T09:11:47+00:00"
-    },
-    {
         "title": "3D-printed stretchable artery implant lowers blood pressure by 15% in early trials",
         "link": "https://www.reddit.com/r/singularity/comments/1teogs8/3dprinted_stretchable_artery_implant_lowers_blood/",
         "image": "https://external-preview.redd.it/CkSEJkLufu7L1OfgW8cZgqdX81YDJcdbZ4QnbBk9rd4.jpeg?width=640&crop=smart&auto=webp&s=b79a7daf059db010d086b97ee40cf21f5e4c6681",
         "published": "2026-05-16T09:08:43+00:00"
+    },
+    {
+        "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
+        "link": "https://www.reddit.com/r/singularity/comments/1teoiq0/nous_research_releases_token_superposition/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-16T09:11:47+00:00"
     },
     {
         "title": "Stagnationist, pro-China policy will be the death of us\u2026 \u201cgood news\u201d my ass.",
