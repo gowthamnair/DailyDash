@@ -24,16 +24,16 @@
         "published": "2026-05-16T03:57:00+00:00"
     },
     {
-        "title": "Power Prices in Eastern U.S. Spike 76% Thanks to AI Data Centers / A new report calls the impact significant and \"irreversible.\"",
-        "link": "https://www.reddit.com/r/technology/comments/1te537j/power_prices_in_eastern_us_spike_76_thanks_to_ai/",
-        "image": "https://external-preview.redd.it/MqPRnXHNPbVQJRmYmwfGuuP95MAQvi27muTT0zuzfhU.jpeg?width=640&crop=smart&auto=webp&s=112334a67db28c78272883e98676e02c4156b090",
-        "published": "2026-05-15T18:37:18+00:00"
-    },
-    {
         "title": "Exclusive: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible",
         "link": "https://www.reddit.com/r/technology/comments/1te9yia/exclusive_hackers_have_breached_tank_readers_at/",
         "image": "https://external-preview.redd.it/ysuZkCdYfVuhlZ3B4eqV28egtL7rixIVNvmHMEg9UmA.jpeg?width=640&crop=smart&auto=webp&s=46a43ae1f467793b849da57e6a80dd98e8580651",
         "published": "2026-05-15T21:35:01+00:00"
+    },
+    {
+        "title": "60% of PC gamers have no plans to build a new PC in the next two years \u2014 AI pricing crunch on RAM and other components paralyze enthusiast market",
+        "link": "https://www.reddit.com/r/technology/comments/1texgig/60_of_pc_gamers_have_no_plans_to_build_a_new_pc/",
+        "image": "https://external-preview.redd.it/4eYDXnw_aowFXIzXwK-U_xm9a7EmfJKBI9lTtVnh9O8.jpeg?width=640&crop=smart&auto=webp&s=31c7a6ef1e132ae4f6d5c06849e8137e8abf3e74",
+        "published": "2026-05-16T15:53:58+00:00"
     },
     {
         "title": "UK saves 'millions' of pounds by ditching Palantir for refugee system",
@@ -46,12 +46,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1te7996/linux_devs_are_fighting_the_new_agegated_internet/",
         "image": "https://external-preview.redd.it/hcGtXwuOsRMjQv9SYrO6tVkTeERDfaXOoG81wt87seE.jpeg?width=640&crop=smart&auto=webp&s=cbbccc51609b5561b79aa91c4b6534b3b06bd70d",
         "published": "2026-05-15T19:54:53+00:00"
-    },
-    {
-        "title": "60% of PC gamers have no plans to build a new PC in the next two years \u2014 AI pricing crunch on RAM and other components paralyze enthusiast market",
-        "link": "https://www.reddit.com/r/technology/comments/1texgig/60_of_pc_gamers_have_no_plans_to_build_a_new_pc/",
-        "image": "https://external-preview.redd.it/4eYDXnw_aowFXIzXwK-U_xm9a7EmfJKBI9lTtVnh9O8.jpeg?width=640&crop=smart&auto=webp&s=31c7a6ef1e132ae4f6d5c06849e8137e8abf3e74",
-        "published": "2026-05-16T15:53:58+00:00"
     },
     {
         "title": "Scientists Say Cognitive Decline Isn\u2019t Inevitable \u2014 Your Brain Can Improve at Any Age",
@@ -78,15 +72,21 @@
         "published": "2026-05-16T09:05:53+00:00"
     },
     {
+        "title": "America's productivity boom started before AI, and a Stanford economist who decoded the Great Resignation says working from home is the reason why | Fortune",
+        "link": "https://www.reddit.com/r/technology/comments/1tezwyw/americas_productivity_boom_started_before_ai_and/",
+        "image": "https://external-preview.redd.it/_sWupaKkFy8Atv6N0Ns8ttMRGrzpis1eKZ_MWRuZvTk.jpeg?width=640&crop=smart&auto=webp&s=badb676bd0b81e3667bbaa727aa1beff4b7e4deb",
+        "published": "2026-05-16T17:25:50+00:00"
+    },
+    {
+        "title": "Intel Core i9-14900KF reaches 9.2Ghz setting a new CPU frequency world record",
+        "link": "https://www.reddit.com/r/technology/comments/1tez22o/intel_core_i914900kf_reaches_92ghz_setting_a_new/",
+        "image": "https://external-preview.redd.it/7RcZdHilWUJ1yas0hLvvNkUzkQlclav3LzFtEsrhyh8.jpeg?width=640&crop=smart&auto=webp&s=2e468f7775c3fb28a60a16f8f314b4cd3b27f60c",
+        "published": "2026-05-16T16:54:20+00:00"
+    },
+    {
         "title": "Mercedes-Benz CEO says carmaker is willing to enter defense production \u2014 The German automaker\u2019s chief executive also said that Europe needs to bolster its defense profile",
         "link": "https://www.reddit.com/r/technology/comments/1tehpuv/mercedesbenz_ceo_says_carmaker_is_willing_to/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-16T03:13:51+00:00"
-    },
-    {
-        "title": "DOJ reportedly demands Apple and Google identify over 100,000 users of car app",
-        "link": "https://www.reddit.com/r/technology/comments/1tetbkv/doj_reportedly_demands_apple_and_google_identify/",
-        "image": "https://external-preview.redd.it/ox2jObc0jJ0PaxS0JYBhAmmGcNni-KWAeGxyCm7GWVU.jpeg?width=640&crop=smart&auto=webp&s=dcab0c67bacb00b62ee501c28817ee643fc3b589",
-        "published": "2026-05-16T13:11:26+00:00"
     }
 ]
