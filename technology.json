@@ -54,28 +54,10 @@
         "published": "2026-05-16T20:58:03+00:00"
     },
     {
-        "title": "Dozens of empty Waymos invade neighborhood in Atlanta leaving neighbors baffled",
-        "link": "https://www.reddit.com/r/technology/comments/1tf3cnm/dozens_of_empty_waymos_invade_neighborhood_in/",
-        "image": "https://external-preview.redd.it/Y60GoMTK_ZyeyQrSDMBLyze54kaTNBfMtAjcItLGf4A.jpeg?width=640&crop=smart&auto=webp&s=b1e248c99bc30e8d5dcde2d5a7836509a9615d0e",
-        "published": "2026-05-16T19:36:53+00:00"
-    },
-    {
-        "title": "DOJ reportedly demands Apple and Google identify over 100,000 users of car app",
-        "link": "https://www.reddit.com/r/technology/comments/1tetbkv/doj_reportedly_demands_apple_and_google_identify/",
-        "image": "https://external-preview.redd.it/ox2jObc0jJ0PaxS0JYBhAmmGcNni-KWAeGxyCm7GWVU.jpeg?width=640&crop=smart&auto=webp&s=dcab0c67bacb00b62ee501c28817ee643fc3b589",
-        "published": "2026-05-16T13:11:26+00:00"
-    },
-    {
         "title": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
         "link": "https://www.reddit.com/r/technology/comments/1tfj3yc/mistral_ais_ceo_says_europe_has_2_years_to_stop/",
         "image": "https://external-preview.redd.it/KEQxsy-_yHC2gyABII06sEmmjvT2SNiAT9Ric9l10Gc.jpeg?width=640&crop=smart&auto=webp&s=34c49e61d09155ca5b88a19eceb98196b3832b89",
         "published": "2026-05-17T08:00:12+00:00"
-    },
-    {
-        "title": "Meta is using mouse-tracking software on employees. Now they're pushing back",
-        "link": "https://www.reddit.com/r/technology/comments/1tf5vfb/meta_is_using_mousetracking_software_on_employees/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T21:18:33+00:00"
     },
     {
         "title": "Utah mega datacenter could dump 23 atomic bombs worth of energy per day",
@@ -84,9 +66,27 @@
         "published": "2026-05-17T07:33:39+00:00"
     },
     {
-        "title": "Pope Leo launches Vatican group to study impact of AI on \u2018human dignity\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1tf6m61/pope_leo_launches_vatican_group_to_study_impact/",
-        "image": "https://external-preview.redd.it/hCoR57Cg_rK9HSb81jJX9Ed9iqCn6QCeBBE_LfyvTjo.jpeg?width=640&crop=smart&auto=webp&s=11a4743deb97b722833cb5d6e9ff98142d50379d",
-        "published": "2026-05-16T21:49:57+00:00"
+        "title": "Dozens of empty Waymos invade neighborhood in Atlanta leaving neighbors baffled",
+        "link": "https://www.reddit.com/r/technology/comments/1tf3cnm/dozens_of_empty_waymos_invade_neighborhood_in/",
+        "image": "https://external-preview.redd.it/Y60GoMTK_ZyeyQrSDMBLyze54kaTNBfMtAjcItLGf4A.jpeg?width=640&crop=smart&auto=webp&s=b1e248c99bc30e8d5dcde2d5a7836509a9615d0e",
+        "published": "2026-05-16T19:36:53+00:00"
+    },
+    {
+        "title": "Meta is using mouse-tracking software on employees. Now they're pushing back",
+        "link": "https://www.reddit.com/r/technology/comments/1tf5vfb/meta_is_using_mousetracking_software_on_employees/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-16T21:18:33+00:00"
+    },
+    {
+        "title": "Tesla falls out of China's EV top 10 as BYD surges",
+        "link": "https://www.reddit.com/r/technology/comments/1tfo0ww/tesla_falls_out_of_chinas_ev_top_10_as_byd_surges/",
+        "image": "https://external-preview.redd.it/N6uP-i7flCbcqgPZc02NoqGjL8FUvQNTjffBCg6R9gE.jpeg?width=640&crop=smart&auto=webp&s=7535743c2b24cc58f98b2941640decb07621729b",
+        "published": "2026-05-17T12:21:45+00:00"
+    },
+    {
+        "title": "A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it",
+        "link": "https://www.reddit.com/r/technology/comments/1tfpqg6/a_security_researcher_says_microsoft_secretly/",
+        "image": "https://external-preview.redd.it/YzF6NmK0nJRQ6Ekur7WYR8o9hMdoSuzCcw9QcGJhJDA.jpeg?width=640&crop=smart&auto=webp&s=02ac50f9fc38665f4a177f7c01d3938eb9f16477",
+        "published": "2026-05-17T13:35:03+00:00"
     }
 ]
