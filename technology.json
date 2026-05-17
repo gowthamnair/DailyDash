@@ -12,12 +12,6 @@
         "published": "2026-05-17T13:35:03+00:00"
     },
     {
-        "title": "America's productivity boom started before AI, and a Stanford economist who decoded the Great Resignation says working from home is the reason why | Fortune",
-        "link": "https://www.reddit.com/r/technology/comments/1tezwyw/americas_productivity_boom_started_before_ai_and/",
-        "image": "https://external-preview.redd.it/_sWupaKkFy8Atv6N0Ns8ttMRGrzpis1eKZ_MWRuZvTk.jpeg?width=640&crop=smart&auto=webp&s=badb676bd0b81e3667bbaa727aa1beff4b7e4deb",
-        "published": "2026-05-16T17:25:50+00:00"
-    },
-    {
         "title": "Palantir Says SaaS Is Dead",
         "link": "https://www.reddit.com/r/technology/comments/1tfci0m/palantir_says_saas_is_dead/",
         "image": "https://external-preview.redd.it/7rrlV_NL6oLatXaLrJr5_3-CnJGezsZVJUSoSV6tql8.jpeg?width=640&crop=smart&auto=webp&s=52f9b6a7bf8885d5ae928cc130568a5af82e2577",
@@ -30,22 +24,16 @@
         "published": "2026-05-16T20:09:00+00:00"
     },
     {
-        "title": "Intel Core i9-14900KF reaches 9.2Ghz setting a new CPU frequency world record",
-        "link": "https://www.reddit.com/r/technology/comments/1tez22o/intel_core_i914900kf_reaches_92ghz_setting_a_new/",
-        "image": "https://external-preview.redd.it/7RcZdHilWUJ1yas0hLvvNkUzkQlclav3LzFtEsrhyh8.jpeg?width=640&crop=smart&auto=webp&s=2e468f7775c3fb28a60a16f8f314b4cd3b27f60c",
-        "published": "2026-05-16T16:54:20+00:00"
+        "title": "Tesla falls out of China's EV top 10 as BYD surges",
+        "link": "https://www.reddit.com/r/technology/comments/1tfo0ww/tesla_falls_out_of_chinas_ev_top_10_as_byd_surges/",
+        "image": "https://external-preview.redd.it/N6uP-i7flCbcqgPZc02NoqGjL8FUvQNTjffBCg6R9gE.jpeg?width=640&crop=smart&auto=webp&s=7535743c2b24cc58f98b2941640decb07621729b",
+        "published": "2026-05-17T12:21:45+00:00"
     },
     {
         "title": "Elon Musk Explains Why the SpaceX Board Must Be Powerless to Fire Him",
         "link": "https://www.reddit.com/r/technology/comments/1tfdkew/elon_musk_explains_why_the_spacex_board_must_be/",
         "image": "https://external-preview.redd.it/rYjVb7fEuaIsWBfkwds7yRIDo6WG3lqeXkicJzk6_UQ.jpeg?width=640&crop=smart&auto=webp&s=e6f7894a0453c14a938374b3bf17fc210d23105b",
         "published": "2026-05-17T03:08:41+00:00"
-    },
-    {
-        "title": "Tesla falls out of China's EV top 10 as BYD surges",
-        "link": "https://www.reddit.com/r/technology/comments/1tfo0ww/tesla_falls_out_of_chinas_ev_top_10_as_byd_surges/",
-        "image": "https://external-preview.redd.it/N6uP-i7flCbcqgPZc02NoqGjL8FUvQNTjffBCg6R9gE.jpeg?width=640&crop=smart&auto=webp&s=7535743c2b24cc58f98b2941640decb07621729b",
-        "published": "2026-05-17T12:21:45+00:00"
     },
     {
         "title": "Utah mega datacenter could dump 23 atomic bombs worth of energy per day",
@@ -72,6 +60,12 @@
         "published": "2026-05-16T19:36:53+00:00"
     },
     {
+        "title": "An AI hate wave is here",
+        "link": "https://www.reddit.com/r/technology/comments/1tfuroe/an_ai_hate_wave_is_here/",
+        "image": "https://external-preview.redd.it/Z17h07Xi482G-mMVkGi1576YqSBlQ8iRM5vWUO-0rrI.png?width=640&crop=smart&auto=webp&s=e1c7ccb84c5a1ea56532cc2ad2655b3d9d6b3d52",
+        "published": "2026-05-17T16:45:58+00:00"
+    },
+    {
         "title": "Meta is using mouse-tracking software on employees. Now they're pushing back",
         "link": "https://www.reddit.com/r/technology/comments/1tf5vfb/meta_is_using_mousetracking_software_on_employees/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1tf6m61/pope_leo_launches_vatican_group_to_study_impact/",
         "image": "https://external-preview.redd.it/hCoR57Cg_rK9HSb81jJX9Ed9iqCn6QCeBBE_LfyvTjo.jpeg?width=640&crop=smart&auto=webp&s=11a4743deb97b722833cb5d6e9ff98142d50379d",
         "published": "2026-05-16T21:49:57+00:00"
+    },
+    {
+        "title": "The US Is Using AI to Hunt Down Insider Trading on Polymarket",
+        "link": "https://www.reddit.com/r/technology/comments/1tfi299/the_us_is_using_ai_to_hunt_down_insider_trading/",
+        "image": "https://external-preview.redd.it/8yNHiFohIL6qPuCIhndDApsvnUhWM9ua01fudfe-mpI.jpeg?width=640&crop=smart&auto=webp&s=074c7d517b035b6daf098827c52af3c68675477e",
+        "published": "2026-05-17T07:01:33+00:00"
     }
 ]

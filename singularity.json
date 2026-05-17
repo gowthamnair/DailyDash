@@ -1,11 +1,5 @@
 [
     {
-        "title": "Self-driving motorcycles are being spotted on China's streets without a driver",
-        "link": "https://www.reddit.com/r/singularity/comments/1tf017l/selfdriving_motorcycles_are_being_spotted_on/",
-        "image": "https://external-preview.redd.it/aGt3ZXQxdWdiajFoMfTpkwWrszuRubw-9fMg7e8UHkzZtLxWf0vFQkjl1_FP.png?width=320&crop=smart&auto=webp&s=2a636a5f4cb3f33ee4678fc74bfc98660d649389",
-        "published": "2026-05-16T17:30:20+00:00"
-    },
-    {
         "title": "Microsoft AI chief gives it 18 months\u2014for all white-collar work to be automated by AI",
         "link": "https://www.reddit.com/r/singularity/comments/1tfazdu/microsoft_ai_chief_gives_it_18_monthsfor_all/",
         "image": "https://external-preview.redd.it/zKspUWLAjwda5UCqMqboy9GwsB5oFCD4rqgiShXvgKc.jpeg?width=640&crop=smart&auto=webp&s=84dceb29d73549482f2fc6de3893f7474843fb7a",
@@ -18,22 +12,10 @@
         "published": "2026-05-16T22:00:01+00:00"
     },
     {
-        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "link": "https://www.reddit.com/r/singularity/comments/1tezctw/openai_and_malta_partner_to_bring_chatgpt_plus_to/",
-        "image": "https://external-preview.redd.it/t8AuoKqr7djlCNXxdiqnqZUHCsO0INpMM1-HrbLdTaE.png?width=640&crop=smart&auto=webp&s=78a11ad45ed53e5549966776a32bbd220730e585",
-        "published": "2026-05-16T17:05:06+00:00"
-    },
-    {
         "title": "\"Malta just became the first country to offer ChatGPT Plus to every citizen - free for a year. The only requirement: complete an AI literacy course first. The course was built by the University of Malta, not by OpenAI. So it's not a vendor training citizens to use vendor\"",
         "link": "https://www.reddit.com/r/singularity/comments/1tfisbw/malta_just_became_the_first_country_to_offer/",
         "image": "https://preview.redd.it/5mctrea2nl1h1.png?width=640&crop=smart&auto=webp&s=7849d21d52d578a24560d169665a36169520a1dc",
         "published": "2026-05-17T07:41:52+00:00"
-    },
-    {
-        "title": "When AI rendered video is ready, it will be wildly more compute efficient than the >1 million+ render hours of a movie like Big Hero 6",
-        "link": "https://www.reddit.com/r/singularity/comments/1tf90i5/when_ai_rendered_video_is_ready_it_will_be_wildly/",
-        "image": "https://preview.redd.it/fz3ilwh04l1h1.png?width=640&crop=smart&auto=webp&s=7665129d18593db29d656e28307973f525d2bc79",
-        "published": "2026-05-16T23:34:13+00:00"
     },
     {
         "title": "Cerebras CFO says they are currently running GPT5.4 and GPT5.5 internally on their chips, will release to the public soon. (Imagine that intelligence at that speed)",
@@ -42,10 +24,10 @@
         "published": "2026-05-17T15:57:12+00:00"
     },
     {
-        "title": "Florida Law Enacts Data Center Restrictions to Shield Residents from Water, Energy Costs",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfc48i/florida_law_enacts_data_center_restrictions_to/",
-        "image": "https://external-preview.redd.it/NIqqDbBUHqpz5MSkG2X6bsWAPLy2f-nc_7fdkyL7wMw.jpeg?width=640&crop=smart&auto=webp&s=b0a1c445e46d5ded855e0b23a7c5ff0dd991d197",
-        "published": "2026-05-17T01:59:03+00:00"
+        "title": "When AI rendered video is ready, it will be wildly more compute efficient than the >1 million+ render hours of a movie like Big Hero 6",
+        "link": "https://www.reddit.com/r/singularity/comments/1tf90i5/when_ai_rendered_video_is_ready_it_will_be_wildly/",
+        "image": "https://preview.redd.it/fz3ilwh04l1h1.png?width=640&crop=smart&auto=webp&s=7665129d18593db29d656e28307973f525d2bc79",
+        "published": "2026-05-16T23:34:13+00:00"
     },
     {
         "title": "What happened to the issue of companies running out of training data for LLMs?",
@@ -54,33 +36,15 @@
         "published": "2026-05-17T15:12:05+00:00"
     },
     {
-        "title": "Do you feel more or less optimistic about achieving AGI by 2030 than you did in 2022?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tf0fb3/do_you_feel_more_or_less_optimistic_about/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T17:45:03+00:00"
+        "title": "Florida Law Enacts Data Center Restrictions to Shield Residents from Water, Energy Costs",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfc48i/florida_law_enacts_data_center_restrictions_to/",
+        "image": "https://external-preview.redd.it/NIqqDbBUHqpz5MSkG2X6bsWAPLy2f-nc_7fdkyL7wMw.jpeg?width=640&crop=smart&auto=webp&s=b0a1c445e46d5ded855e0b23a7c5ff0dd991d197",
+        "published": "2026-05-17T01:59:03+00:00"
     },
     {
         "title": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing'",
         "link": "https://www.reddit.com/r/singularity/comments/1tf5lgd/glimpsing_the_quantum_vacuum_particle_spin/",
         "image": "https://external-preview.redd.it/MZ6ZtUyvVN9mUDBbYDX6jF0h25OQ1ZhaC3zjQkitGl0.jpeg?width=640&crop=smart&auto=webp&s=e96246bad38766b971a77f6d27dcacb38cd620bc",
         "published": "2026-05-16T21:07:09+00:00"
-    },
-    {
-        "title": "we are moving past scraping and basic web automation",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfrwsd/we_are_moving_past_scraping_and_basic_web/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T15:00:07+00:00"
-    },
-    {
-        "title": "Back in 2023/2024 vs today, is your singularity timeline/date sooner or farther?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfr7v2/back_in_20232024_vs_today_is_your_singularity/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T14:33:33+00:00"
-    },
-    {
-        "title": "Doesn't matter what your definition of it is, if you believe what we have now is AGI, your definition is the most lenient and weakest concept of \"agi\" there is",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfsaib/doesnt_matter_what_your_definition_of_it_is_if/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T15:14:09+00:00"
     }
 ]
