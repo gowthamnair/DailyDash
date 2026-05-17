@@ -6,12 +6,6 @@
         "published": "2026-05-16T17:30:20+00:00"
     },
     {
-        "title": "Elite researchers teamed up with Anthropic\u2019s Mythos AI to smash Apple\u2019s multi-billion dollar M5 security and build a kernel exploit in just 5 days.",
-        "link": "https://www.reddit.com/r/singularity/comments/1teepw3/elite_researchers_teamed_up_with_anthropics/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T00:54:14+00:00"
-    },
-    {
         "title": "Mistral AI founder to French Parliament: \"Engineers at Mistral no longer write a single line of code",
         "link": "https://www.reddit.com/r/singularity/comments/1temwuj/mistral_ai_founder_to_french_parliament_engineers/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -24,10 +18,10 @@
         "published": "2026-05-16T15:25:41+00:00"
     },
     {
-        "title": "\u2018Coding Was Never the Bottleneck\u2019 Is Actually Bearish for Employment",
-        "link": "https://www.reddit.com/r/singularity/comments/1tegzvj/coding_was_never_the_bottleneck_is_actually/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T02:39:46+00:00"
+        "title": "Claude Mythos has been spotted in Google Vertex",
+        "link": "https://www.reddit.com/r/singularity/comments/1tf6ukh/claude_mythos_has_been_spotted_in_google_vertex/",
+        "image": "https://preview.redd.it/67idm9ilnk1h1.png?width=320&crop=smart&auto=webp&s=b609eaf4184967ff1673fcb46e0bbe3a11744886",
+        "published": "2026-05-16T22:00:01+00:00"
     },
     {
         "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -36,10 +30,16 @@
         "published": "2026-05-16T17:05:06+00:00"
     },
     {
-        "title": "Claude Mythos has been spotted in Google Vertex",
-        "link": "https://www.reddit.com/r/singularity/comments/1tf6ukh/claude_mythos_has_been_spotted_in_google_vertex/",
-        "image": "https://preview.redd.it/67idm9ilnk1h1.png?width=320&crop=smart&auto=webp&s=b609eaf4184967ff1673fcb46e0bbe3a11744886",
-        "published": "2026-05-16T22:00:01+00:00"
+        "title": "\u2018Coding Was Never the Bottleneck\u2019 Is Actually Bearish for Employment",
+        "link": "https://www.reddit.com/r/singularity/comments/1tegzvj/coding_was_never_the_bottleneck_is_actually/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-16T02:39:46+00:00"
+    },
+    {
+        "title": "Microsoft AI chief gives it 18 months\u2014for all white-collar work to be automated by AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfazdu/microsoft_ai_chief_gives_it_18_monthsfor_all/",
+        "image": "https://external-preview.redd.it/zKspUWLAjwda5UCqMqboy9GwsB5oFCD4rqgiShXvgKc.jpeg?width=640&crop=smart&auto=webp&s=84dceb29d73549482f2fc6de3893f7474843fb7a",
+        "published": "2026-05-17T01:04:28+00:00"
     },
     {
         "title": "Depthfirst claims that their AI has discovered critical vulnerabilities that Anthropic's Mythos system missed, at just one-tenth the cost of Anthropic's Mythos model.",
@@ -66,16 +66,16 @@
         "published": "2026-05-16T17:45:03+00:00"
     },
     {
-        "title": "Book recommendations on AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1texzca/book_recommendations_on_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T16:13:23+00:00"
-    },
-    {
         "title": "AI felt trapped in a textbox, so I spent the last 14 months trying to give it a body",
         "link": "https://www.reddit.com/r/singularity/comments/1textfh/ai_felt_trapped_in_a_textbox_so_i_spent_the_last/",
         "image": "https://external-preview.redd.it/8yxIOQOJ1j8UW9_V0AyotqSki4z2YzZPpQFHpxCijTU.jpeg?width=320&crop=smart&auto=webp&s=bc224213ef9a2c9fee4c1d3a827e5c3dcd72c66e",
         "published": "2026-05-16T16:07:02+00:00"
+    },
+    {
+        "title": "When AI rendered video is ready, it will be wildly more compute efficient than the >1 million+ render hours of a movie like Big Hero 6",
+        "link": "https://www.reddit.com/r/singularity/comments/1tf90i5/when_ai_rendered_video_is_ready_it_will_be_wildly/",
+        "image": "https://preview.redd.it/fz3ilwh04l1h1.png?width=640&crop=smart&auto=webp&s=7665129d18593db29d656e28307973f525d2bc79",
+        "published": "2026-05-16T23:34:13+00:00"
     },
     {
         "title": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing'",
@@ -84,9 +84,9 @@
         "published": "2026-05-16T21:07:09+00:00"
     },
     {
-        "title": "I built an AI video generator focused on cinematic realism instead of the typical \u201cAI look\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1tf8lk8/i_built_an_ai_video_generator_focused_on/",
+        "title": "Book recommendations on AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1texzca/book_recommendations_on_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T23:15:51+00:00"
+        "published": "2026-05-16T16:13:23+00:00"
     }
 ]
