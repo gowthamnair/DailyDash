@@ -36,10 +36,22 @@
         "published": "2026-05-16T23:34:13+00:00"
     },
     {
+        "title": "Cerebras CFO says they are currently running GPT5.4 and GPT5.5 internally on their chips, will release to the public soon. (Imagine that intelligence at that speed)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tftg9h/cerebras_cfo_says_they_are_currently_running/",
+        "image": "https://external-preview.redd.it/aTdnaHYyZXJ6cDFoMe0ypqYFxzHfEP6OZ-TCWvqMcEohbq49vHA8DnpGFGz0.png?width=640&crop=smart&auto=webp&s=48dfc797decfbaee105e534b608d594fc62eb095",
+        "published": "2026-05-17T15:57:12+00:00"
+    },
+    {
         "title": "Florida Law Enacts Data Center Restrictions to Shield Residents from Water, Energy Costs",
         "link": "https://www.reddit.com/r/singularity/comments/1tfc48i/florida_law_enacts_data_center_restrictions_to/",
         "image": "https://external-preview.redd.it/NIqqDbBUHqpz5MSkG2X6bsWAPLy2f-nc_7fdkyL7wMw.jpeg?width=640&crop=smart&auto=webp&s=b0a1c445e46d5ded855e0b23a7c5ff0dd991d197",
         "published": "2026-05-17T01:59:03+00:00"
+    },
+    {
+        "title": "What happened to the issue of companies running out of training data for LLMs?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfs8ho/what_happened_to_the_issue_of_companies_running/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-17T15:12:05+00:00"
     },
     {
         "title": "Do you feel more or less optimistic about achieving AGI by 2030 than you did in 2022?",
@@ -54,12 +66,6 @@
         "published": "2026-05-16T21:07:09+00:00"
     },
     {
-        "title": "Book recommendations on AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1texzca/book_recommendations_on_ai/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-16T16:13:23+00:00"
-    },
-    {
         "title": "we are moving past scraping and basic web automation",
         "link": "https://www.reddit.com/r/singularity/comments/1tfrwsd/we_are_moving_past_scraping_and_basic_web/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -70,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tfr7v2/back_in_20232024_vs_today_is_your_singularity/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-17T14:33:33+00:00"
+    },
+    {
+        "title": "Doesn't matter what your definition of it is, if you believe what we have now is AGI, your definition is the most lenient and weakest concept of \"agi\" there is",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfsaib/doesnt_matter_what_your_definition_of_it_is_if/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-17T15:14:09+00:00"
     }
 ]

@@ -18,6 +18,12 @@
         "published": "Sun, 17 May 2026 14:18:23 GMT"
     },
     {
+        "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+        "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9d73/live/7bd39ee0-5200-11f1-8cef-69c0db7c54a0.jpg",
+        "published": "Sun, 17 May 2026 16:25:38 GMT"
+    },
+    {
         "title": "Man drives car into pedestrians in Italy, injuring eight",
         "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg",
@@ -36,16 +42,10 @@
         "published": "Sat, 16 May 2026 17:01:53 GMT"
     },
     {
-        "title": "Whale found dead near Danish island after German rescue operation",
-        "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c319/live/648bba50-5148-11f1-8b8c-6d33e1d5abb6.jpg",
-        "published": "Sat, 16 May 2026 17:01:28 GMT"
-    },
-    {
         "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
         "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5a2c/live/abce2a10-5198-11f1-b57e-4930d304e43a.jpg",
-        "published": "Sun, 17 May 2026 14:16:00 GMT"
+        "published": "Sun, 17 May 2026 16:25:28 GMT"
     },
     {
         "title": "Canadian from hantavirus-hit cruise ship tests positive",
@@ -66,6 +66,12 @@
         "published": "Sat, 16 May 2026 15:50:09 GMT"
     },
     {
+        "title": "Whale found dead near Danish island after German rescue operation",
+        "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c319/live/648bba50-5148-11f1-8b8c-6d33e1d5abb6.jpg",
+        "published": "Sat, 16 May 2026 17:01:28 GMT"
+    },
+    {
         "title": "Senior IS leader killed in joint operation, US and Nigeria say",
         "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg",
         "published": "Fri, 15 May 2026 23:04:33 GMT"
-    },
-    {
-        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-        "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cc2c/live/b1a99d90-508d-11f1-b682-cf91850925ea.jpg",
-        "published": "Sat, 16 May 2026 22:27:44 GMT"
     }
 ]
