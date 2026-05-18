@@ -6,6 +6,12 @@
         "published": "2026-05-17T18:18:10+00:00"
     },
     {
+        "title": "Jokes aside this just looks and sounds way too well done",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgl9fl/jokes_aside_this_just_looks_and_sounds_way_too/",
+        "image": "https://external-preview.redd.it/cGdhZWJnMzk0dzFoMfzBvyQZTFKGYDPTBs5b7OSKcEv1lQnHK2u8cYaKeuSa.png?width=640&crop=smart&auto=webp&s=fd762c543497cd8cba7fbfb3512e1007d1510054",
+        "published": "2026-05-18T12:33:37+00:00"
+    },
+    {
         "title": "GPT-5.5 autonomously spent 150+ hours improving protein folding models.",
         "link": "https://www.reddit.com/r/singularity/comments/1tg7w59/gpt55_autonomously_spent_150_hours_improving/",
         "image": "https://preview.redd.it/u9ku6ognss1h1.jpeg?width=640&crop=smart&auto=webp&s=027374f97610db8007c00ec910cdeadb100c9d5d",
@@ -18,34 +24,16 @@
         "published": "2026-05-18T00:09:04+00:00"
     },
     {
-        "title": "Jokes aside this just looks and sounds way too well done",
-        "link": "https://www.reddit.com/r/singularity/comments/1tgl9fl/jokes_aside_this_just_looks_and_sounds_way_too/",
-        "image": "https://external-preview.redd.it/cGdhZWJnMzk0dzFoMfzBvyQZTFKGYDPTBs5b7OSKcEv1lQnHK2u8cYaKeuSa.png?width=640&crop=smart&auto=webp&s=fd762c543497cd8cba7fbfb3512e1007d1510054",
-        "published": "2026-05-18T12:33:37+00:00"
-    },
-    {
-        "title": "Cerebras CFO says they are currently running GPT5.4 and GPT5.5 internally on their chips, will release to the public soon. (Imagine that intelligence at that speed)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tftg9h/cerebras_cfo_says_they_are_currently_running/",
-        "image": "https://external-preview.redd.it/aTdnaHYyZXJ6cDFoMe0ypqYFxzHfEP6OZ-TCWvqMcEohbq49vHA8DnpGFGz0.png?width=640&crop=smart&auto=webp&s=48dfc797decfbaee105e534b608d594fc62eb095",
-        "published": "2026-05-17T15:57:12+00:00"
-    },
-    {
-        "title": "Rant: Stop saying LLMs are just \u201cnext token predictors.\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfvn3m/rant_stop_saying_llms_are_just_next_token/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T17:18:05+00:00"
-    },
-    {
         "title": "Figure | Final Results after a 10 hour shift between an Intern and Robot sorting mail",
         "link": "https://www.reddit.com/r/singularity/comments/1tgk14g/figure_final_results_after_a_10_hour_shift/",
         "image": "https://preview.redd.it/gx06kugvuv1h1.png?width=640&crop=smart&auto=webp&s=06c5920660ed05ef07d8acc9ee90820e921436f2",
         "published": "2026-05-18T11:41:48+00:00"
     },
     {
-        "title": "Ai was supposed to break the barrier on accessibility. Now it\u2019s only going to widen. 1000$ definitely on the horizon.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfztqf/ai_was_supposed_to_break_the_barrier_on/",
-        "image": "https://preview.redd.it/z1z1v4df5r1h1.jpeg?width=640&crop=smart&auto=webp&s=88e341c9856ce91945e031285db3da0912b5a870",
-        "published": "2026-05-17T19:50:40+00:00"
+        "title": "Gemini 3.2 Flash is capable of solving IMO 2025 P6. Only GPT-5.5-Pro can solve it currently without any scaffolding / harness engineering.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgn8qt/gemini_32_flash_is_capable_of_solving_imo_2025_p6/",
+        "image": "https://preview.redd.it/41u4oijnhw1h1.png?width=640&crop=smart&auto=webp&s=2cbdec620d3f1bfc6c2076dc27c65b92f466bcb5",
+        "published": "2026-05-18T13:49:26+00:00"
     },
     {
         "title": "American Jobs with AI Exposure Really Are Starting to Disappear, Data Shows",
@@ -54,10 +42,16 @@
         "published": "2026-05-18T09:31:27+00:00"
     },
     {
-        "title": "What happened to the issue of companies running out of training data for LLMs?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfs8ho/what_happened_to_the_issue_of_companies_running/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T15:12:05+00:00"
+        "title": "Atlas Lifts a Fridge - Boston Dynamics",
+        "link": "https://www.reddit.com/r/singularity/comments/1tglk5q/atlas_lifts_a_fridge_boston_dynamics/",
+        "image": "https://external-preview.redd.it/dMuawfsfaP572HbXN5-zZHj-aV_TI8IXdAH0YNvUUZM.jpeg?width=320&crop=smart&auto=webp&s=b1ebb62874ff420fffa2ea78d777c10bd324ed12",
+        "published": "2026-05-18T12:45:55+00:00"
+    },
+    {
+        "title": "Ai was supposed to break the barrier on accessibility. Now it\u2019s only going to widen. 1000$ definitely on the horizon.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfztqf/ai_was_supposed_to_break_the_barrier_on/",
+        "image": "https://preview.redd.it/z1z1v4df5r1h1.jpeg?width=640&crop=smart&auto=webp&s=88e341c9856ce91945e031285db3da0912b5a870",
+        "published": "2026-05-17T19:50:40+00:00"
     },
     {
         "title": "Uber's Anthropic AI Push Hits A Wall\u2014CTO Says Budget Struggles Despite $3.4B Spend",
@@ -66,16 +60,16 @@
         "published": "2026-05-17T22:55:49+00:00"
     },
     {
-        "title": "Atlas Lifts a Fridge - Boston Dynamics",
-        "link": "https://www.reddit.com/r/singularity/comments/1tglk5q/atlas_lifts_a_fridge_boston_dynamics/",
-        "image": "https://external-preview.redd.it/dMuawfsfaP572HbXN5-zZHj-aV_TI8IXdAH0YNvUUZM.jpeg?width=320&crop=smart&auto=webp&s=b1ebb62874ff420fffa2ea78d777c10bd324ed12",
-        "published": "2026-05-18T12:45:55+00:00"
-    },
-    {
         "title": "Beyond Walking: Why Dexterous Hands Define the Next Era of Robotics",
         "link": "https://www.reddit.com/r/singularity/comments/1tgg5yb/beyond_walking_why_dexterous_hands_define_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-18T08:20:36+00:00"
+    },
+    {
+        "title": "Qwen 3.7 Has been Spotted on the Qwen website",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgpwdh/qwen_37_has_been_spotted_on_the_qwen_website/",
+        "image": "https://preview.redd.it/zd7k60llyw1h1.jpeg?width=640&crop=smart&auto=webp&s=5aec5790b89cc1b9e93e05b7b3446b0d72b5c789",
+        "published": "2026-05-18T15:23:04+00:00"
     },
     {
         "title": "I think Gemini 3.2 Flash has been added to Antigravity.",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tg7wbk/i_put_50_ai_agents_in_a_survival_world_and_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-18T01:22:50+00:00"
+    },
+    {
+        "title": "The US is betting on AI to catch insider trading in prediction markets",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgml3q/the_us_is_betting_on_ai_to_catch_insider_trading/",
+        "image": "https://external-preview.redd.it/aYP_jn_NZ9zniGsjRST8LUhThx_EaFUvbfipkwNKs2I.jpeg?width=640&crop=smart&auto=webp&s=92cdbcbbb160c82745aa6441346f130ecd8377f3",
+        "published": "2026-05-18T13:25:21+00:00"
     }
 ]
