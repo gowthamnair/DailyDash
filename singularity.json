@@ -6,10 +6,22 @@
         "published": "2026-05-17T18:18:10+00:00"
     },
     {
+        "title": "Former CEO Of Google Receives Massive Backlash For Praising AI At Graduation",
+        "link": "https://www.reddit.com/r/singularity/comments/1tg6a1i/former_ceo_of_google_receives_massive_backlash/",
+        "image": "https://external-preview.redd.it/cmsybHl0MmpmczFoMXgiJeTnHCHp8vliyZ8S929qV7KhoQ0YtvV_W5WiMl-a.png?width=640&crop=smart&auto=webp&s=eb0c30563a432b7741a01b3b37e01189227e97b6",
+        "published": "2026-05-18T00:09:04+00:00"
+    },
+    {
         "title": "Cerebras CFO says they are currently running GPT5.4 and GPT5.5 internally on their chips, will release to the public soon. (Imagine that intelligence at that speed)",
         "link": "https://www.reddit.com/r/singularity/comments/1tftg9h/cerebras_cfo_says_they_are_currently_running/",
         "image": "https://external-preview.redd.it/aTdnaHYyZXJ6cDFoMe0ypqYFxzHfEP6OZ-TCWvqMcEohbq49vHA8DnpGFGz0.png?width=640&crop=smart&auto=webp&s=48dfc797decfbaee105e534b608d594fc62eb095",
         "published": "2026-05-17T15:57:12+00:00"
+    },
+    {
+        "title": "GPT-5.5 autonomously spent 150+ hours improving protein folding models.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tg7w59/gpt55_autonomously_spent_150_hours_improving/",
+        "image": "https://preview.redd.it/u9ku6ognss1h1.jpeg?width=640&crop=smart&auto=webp&s=027374f97610db8007c00ec910cdeadb100c9d5d",
+        "published": "2026-05-18T01:22:37+00:00"
     },
     {
         "title": "\"Malta just became the first country to offer ChatGPT Plus to every citizen - free for a year. The only requirement: complete an AI literacy course first. The course was built by the University of Malta, not by OpenAI. So it's not a vendor training citizens to use vendor\"",
@@ -24,12 +36,6 @@
         "published": "2026-05-17T17:18:05+00:00"
     },
     {
-        "title": "Former CEO Of Google Receives Massive Backlash For Praising AI At Graduation",
-        "link": "https://www.reddit.com/r/singularity/comments/1tg6a1i/former_ceo_of_google_receives_massive_backlash/",
-        "image": "https://external-preview.redd.it/cmsybHl0MmpmczFoMXgiJeTnHCHp8vliyZ8S929qV7KhoQ0YtvV_W5WiMl-a.png?width=640&crop=smart&auto=webp&s=eb0c30563a432b7741a01b3b37e01189227e97b6",
-        "published": "2026-05-18T00:09:04+00:00"
-    },
-    {
         "title": "What happened to the issue of companies running out of training data for LLMs?",
         "link": "https://www.reddit.com/r/singularity/comments/1tfs8ho/what_happened_to_the_issue_of_companies_running/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -40,12 +46,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tfztqf/ai_was_supposed_to_break_the_barrier_on/",
         "image": "https://preview.redd.it/z1z1v4df5r1h1.jpeg?width=640&crop=smart&auto=webp&s=88e341c9856ce91945e031285db3da0912b5a870",
         "published": "2026-05-17T19:50:40+00:00"
-    },
-    {
-        "title": "GPT-5.5 autonomously spent 150+ hours improving protein folding models.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tg7w59/gpt55_autonomously_spent_150_hours_improving/",
-        "image": "https://preview.redd.it/u9ku6ognss1h1.jpeg?width=640&crop=smart&auto=webp&s=027374f97610db8007c00ec910cdeadb100c9d5d",
-        "published": "2026-05-18T01:22:37+00:00"
     },
     {
         "title": "Uber's Anthropic AI Push Hits A Wall\u2014CTO Says Budget Struggles Despite $3.4B Spend",
@@ -60,33 +60,33 @@
         "published": "2026-05-17T18:46:40+00:00"
     },
     {
-        "title": "What is, in your mind, the singularity?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfzirc/what_is_in_your_mind_the_singularity/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T19:39:17+00:00"
-    },
-    {
         "title": "I put 50 AI agents in a survival world and the first public run is live now",
         "link": "https://www.reddit.com/r/singularity/comments/1tg7wbk/i_put_50_ai_agents_in_a_survival_world_and_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-18T01:22:50+00:00"
     },
     {
-        "title": "Investments for the Singularity",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfvh7w/investments_for_the_singularity/",
+        "title": "What is, in your mind, the singularity?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfzirc/what_is_in_your_mind_the_singularity/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T17:12:04+00:00"
+        "published": "2026-05-17T19:39:17+00:00"
+    },
+    {
+        "title": "Q.ANT Photonic Processors \"a highly promising technology\" according to Josef Weidendorfer after successful deployment in Leibniz Supercomputing Centre (LRZ)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tg9r22/qant_photonic_processors_a_highly_promising/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-18T02:47:51+00:00"
+    },
+    {
+        "title": "Free local AI Music Generation tool and a Generated song about how we need to use AI or get left behind.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgcuq2/free_local_ai_music_generation_tool_and_a/",
+        "image": "https://external-preview.redd.it/AqMgQ7YF8MY4vl_obx9WrzIwfSTs1z3Xl28F6FNr1I4.png?width=640&crop=smart&auto=webp&s=d0785b73ed89d8042263e81e9f2ddff5cf9fb243",
+        "published": "2026-05-18T05:18:14+00:00"
     },
     {
         "title": "Discord Server Link",
         "link": "https://www.reddit.com/r/singularity/comments/1tg1y16/discord_server_link/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-17T21:10:00+00:00"
-    },
-    {
-        "title": "Is there a word for a middle ground between anti-ai and pro-ai?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfxgdj/is_there_a_word_for_a_middle_ground_between/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T18:24:08+00:00"
     }
 ]

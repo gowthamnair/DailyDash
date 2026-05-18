@@ -12,12 +12,6 @@
         "published": "2026-05-17T16:45:58+00:00"
     },
     {
-        "title": "Palantir Says SaaS Is Dead",
-        "link": "https://www.reddit.com/r/technology/comments/1tfci0m/palantir_says_saas_is_dead/",
-        "image": "https://external-preview.redd.it/7rrlV_NL6oLatXaLrJr5_3-CnJGezsZVJUSoSV6tql8.jpeg?width=640&crop=smart&auto=webp&s=52f9b6a7bf8885d5ae928cc130568a5af82e2577",
-        "published": "2026-05-17T02:17:19+00:00"
-    },
-    {
         "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose \u2014 bots also also manipulated to address user as \u2018My Lord\u2019",
         "link": "https://www.reddit.com/r/technology/comments/1tfwsim/linkedin_user_hides_ai_prompt_injection_in_bio_to/",
         "image": "https://external-preview.redd.it/ZJF4RP8miN61gcspxEIIL4BWoSI-KJOy5-QSJd0RLj8.jpeg?width=640&crop=smart&auto=webp&s=e17f44a4e5aad3e341d5703efb94b396f2e40da8",
@@ -36,22 +30,28 @@
         "published": "2026-05-17T07:33:39+00:00"
     },
     {
-        "title": "Elon Musk Explains Why the SpaceX Board Must Be Powerless to Fire Him",
-        "link": "https://www.reddit.com/r/technology/comments/1tfdkew/elon_musk_explains_why_the_spacex_board_must_be/",
-        "image": "https://external-preview.redd.it/rYjVb7fEuaIsWBfkwds7yRIDo6WG3lqeXkicJzk6_UQ.jpeg?width=640&crop=smart&auto=webp&s=e6f7894a0453c14a938374b3bf17fc210d23105b",
-        "published": "2026-05-17T03:08:41+00:00"
-    },
-    {
-        "title": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
-        "link": "https://www.reddit.com/r/technology/comments/1tfj3yc/mistral_ais_ceo_says_europe_has_2_years_to_stop/",
-        "image": "https://external-preview.redd.it/KEQxsy-_yHC2gyABII06sEmmjvT2SNiAT9Ric9l10Gc.jpeg?width=640&crop=smart&auto=webp&s=34c49e61d09155ca5b88a19eceb98196b3832b89",
-        "published": "2026-05-17T08:00:12+00:00"
+        "title": "Former Microsoft VP says Microsoft missed the AI wave like the internet and mobile, as Copilot scales back in Windows 11",
+        "link": "https://www.reddit.com/r/technology/comments/1tg8uvr/former_microsoft_vp_says_microsoft_missed_the_ai/",
+        "image": "https://external-preview.redd.it/K53coDvCRYYH9f2frv2dvXwDRljTeVLYGgsFTeBOVWw.jpeg?width=640&crop=smart&auto=webp&s=4c69acc07917d094706edb76fdb843c628419b71",
+        "published": "2026-05-18T02:06:36+00:00"
     },
     {
         "title": "AI license plate cameras tore this town apart and led to a state of emergency",
         "link": "https://www.reddit.com/r/technology/comments/1tfzzg7/ai_license_plate_cameras_tore_this_town_apart_and/",
         "image": "https://external-preview.redd.it/6LBSAkhS_9JkNwJaTq9yA0x-BJvFOFaujIyO1qRWUhI.jpeg?width=640&crop=smart&auto=webp&s=0c4ddf9c16ba6e31aed0e85b2a6048d50fa4230c",
         "published": "2026-05-17T19:56:35+00:00"
+    },
+    {
+        "title": "Gavin Newsom proposes a California digital software tax",
+        "link": "https://www.reddit.com/r/technology/comments/1tg9itb/gavin_newsom_proposes_a_california_digital/",
+        "image": "https://external-preview.redd.it/o1BgSZyT--5Ajf7m3pTl5Dqi96PyIkIYzw8whswwZvA.jpeg?width=640&crop=smart&auto=webp&s=ec6ac77eb6c3cd17c072fcddb89317c448a13db3",
+        "published": "2026-05-18T02:37:07+00:00"
+    },
+    {
+        "title": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
+        "link": "https://www.reddit.com/r/technology/comments/1tfj3yc/mistral_ais_ceo_says_europe_has_2_years_to_stop/",
+        "image": "https://external-preview.redd.it/KEQxsy-_yHC2gyABII06sEmmjvT2SNiAT9Ric9l10Gc.jpeg?width=640&crop=smart&auto=webp&s=34c49e61d09155ca5b88a19eceb98196b3832b89",
+        "published": "2026-05-17T08:00:12+00:00"
     },
     {
         "title": "Yum Brands, Nvidia will deploy new AI at 500 restaurants",
@@ -66,27 +66,27 @@
         "published": "2026-05-17T07:05:54+00:00"
     },
     {
-        "title": "The US Is Using AI to Hunt Down Insider Trading on Polymarket",
-        "link": "https://www.reddit.com/r/technology/comments/1tfi299/the_us_is_using_ai_to_hunt_down_insider_trading/",
-        "image": "https://external-preview.redd.it/8yNHiFohIL6qPuCIhndDApsvnUhWM9ua01fudfe-mpI.jpeg?width=640&crop=smart&auto=webp&s=074c7d517b035b6daf098827c52af3c68675477e",
-        "published": "2026-05-17T07:01:33+00:00"
-    },
-    {
-        "title": "OrcaSlicer developer Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network \"black box\" \u2014 warns Chinese 3D printing software poses massive security risks",
-        "link": "https://www.reddit.com/r/technology/comments/1tfy723/orcaslicer_developer_josef_prusa_says_bambu_lab/",
-        "image": "https://external-preview.redd.it/pHVxreZr0YiSSNAfiZ-YDK8fJeV1yBxXeibVoFochV4.png?width=640&crop=smart&auto=webp&s=db6cb83ceb0e89670edc50977c48a46ad65f19a5",
-        "published": "2026-05-17T18:50:55+00:00"
-    },
-    {
-        "title": "Japan team has 1st successful engine test for Mach 5 aircraft, eyeing 2-hr trips to US",
-        "link": "https://www.reddit.com/r/technology/comments/1tfrop4/japan_team_has_1st_successful_engine_test_for/",
-        "image": "https://external-preview.redd.it/yIqh5SapHXMZObdGidr_cTIV1chA9zUHSwLUsP7d7vE.jpeg?width=640&crop=smart&auto=webp&s=54a11413ab1377a4ab0438de0c481b8a110ea87c",
-        "published": "2026-05-17T14:51:41+00:00"
+        "title": "A 45,000-person labor strike at Samsung's memory chip plants could throw a wrench into the AI boom",
+        "link": "https://www.reddit.com/r/technology/comments/1tgaxod/a_45000person_labor_strike_at_samsungs_memory/",
+        "image": "https://external-preview.redd.it/F8nMXtzFX8i_beR5PnU_n2rpuilgmsGj0sc1EmdOGsY.jpeg?width=640&crop=smart&auto=webp&s=6d1dd31581c94cf68ff42196f8674c86c9467a34",
+        "published": "2026-05-18T03:43:28+00:00"
     },
     {
         "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
         "link": "https://www.reddit.com/r/technology/comments/1tfywhc/pope_decries_rise_of_aidirected_warfare_saying_it/",
         "image": "https://external-preview.redd.it/PI_4O6x41_F5HA5jZ7hIGfffGV45QFbcYRUqyvUza94.jpeg?width=640&crop=smart&auto=webp&s=e70aea7eaeee19705574ec3f7ba546155757e10e",
         "published": "2026-05-17T19:16:36+00:00"
+    },
+    {
+        "title": "The U.S. Still Doesn't Have an Answer to China's EV Dominance",
+        "link": "https://www.reddit.com/r/technology/comments/1tg0aju/the_us_still_doesnt_have_an_answer_to_chinas_ev/",
+        "image": "https://external-preview.redd.it/WWLQNxfcmlFVu2ydTijLGgvlBSuF5c30j2QgGwk_nb8.jpeg?width=640&crop=smart&auto=webp&s=d1c908d9dc6a5b1984cc179a8d037abe125191b6",
+        "published": "2026-05-17T20:07:48+00:00"
+    },
+    {
+        "title": "OrcaSlicer developer Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network \"black box\" \u2014 warns Chinese 3D printing software poses massive security risks",
+        "link": "https://www.reddit.com/r/technology/comments/1tfy723/orcaslicer_developer_josef_prusa_says_bambu_lab/",
+        "image": "https://external-preview.redd.it/pHVxreZr0YiSSNAfiZ-YDK8fJeV1yBxXeibVoFochV4.png?width=640&crop=smart&auto=webp&s=db6cb83ceb0e89670edc50977c48a46ad65f19a5",
+        "published": "2026-05-17T18:50:55+00:00"
     }
 ]
