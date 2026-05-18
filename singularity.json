@@ -1,11 +1,5 @@
 [
     {
-        "title": "Figure AI running a human vs machine contest [live]",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfxal6/figure_ai_running_a_human_vs_machine_contest_live/",
-        "image": "https://external-preview.redd.it/NTg1cmM4cHdvcTFoMStDLiBDmorsnkA5nLPjJswsnwpVNZu8FBMm-5YM-uYR.png?width=640&crop=smart&auto=webp&s=6c75895235ad861ea170600a5f04ad0fe4810bd7",
-        "published": "2026-05-17T18:18:10+00:00"
-    },
-    {
         "title": "Jokes aside this just looks and sounds way too well done",
         "link": "https://www.reddit.com/r/singularity/comments/1tgl9fl/jokes_aside_this_just_looks_and_sounds_way_too/",
         "image": "https://external-preview.redd.it/cGdhZWJnMzk0dzFoMfzBvyQZTFKGYDPTBs5b7OSKcEv1lQnHK2u8cYaKeuSa.png?width=640&crop=smart&auto=webp&s=fd762c543497cd8cba7fbfb3512e1007d1510054",
@@ -18,6 +12,12 @@
         "published": "2026-05-18T01:22:37+00:00"
     },
     {
+        "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgung8/elon_musk_loses_court_battle_against_sam_altman/",
+        "image": "https://external-preview.redd.it/Kigpks4bQzsecQwJtUmi8nOLI9rHPC8zraqQURigQfw.jpeg?width=640&crop=smart&auto=webp&s=f644f63052c819194e0d332409524fdfc6708af6",
+        "published": "2026-05-18T17:50:40+00:00"
+    },
+    {
         "title": "Former CEO Of Google Receives Massive Backlash For Praising AI At Graduation",
         "link": "https://www.reddit.com/r/singularity/comments/1tg6a1i/former_ceo_of_google_receives_massive_backlash/",
         "image": "https://external-preview.redd.it/cmsybHl0MmpmczFoMXgiJeTnHCHp8vliyZ8S929qV7KhoQ0YtvV_W5WiMl-a.png?width=640&crop=smart&auto=webp&s=eb0c30563a432b7741a01b3b37e01189227e97b6",
@@ -28,6 +28,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tgk14g/figure_final_results_after_a_10_hour_shift/",
         "image": "https://preview.redd.it/gx06kugvuv1h1.png?width=640&crop=smart&auto=webp&s=06c5920660ed05ef07d8acc9ee90820e921436f2",
         "published": "2026-05-18T11:41:48+00:00"
+    },
+    {
+        "title": "Boston Dynamics Atlas transporting a refrigerator (Atlas carries a fridge)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgwe3p/boston_dynamics_atlas_transporting_a_refrigerator/",
+        "image": "https://external-preview.redd.it/NjJ3c3dydjJ4eDFoMRETsOfD5LJIf5UqjIQRZGX7Yytpx6cE0cem9jim8MgL.png?width=640&crop=smart&auto=webp&s=07a1a7a971c8b6f0e729ac799f8f505fa065dd48",
+        "published": "2026-05-18T18:36:38+00:00"
     },
     {
         "title": "Gemini 3.2 Flash is capable of solving IMO 2025 P6. Only GPT-5.5-Pro can solve it currently without any scaffolding / harness engineering.",
@@ -48,10 +54,16 @@
         "published": "2026-05-18T12:45:55+00:00"
     },
     {
-        "title": "Ai was supposed to break the barrier on accessibility. Now it\u2019s only going to widen. 1000$ definitely on the horizon.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfztqf/ai_was_supposed_to_break_the_barrier_on/",
-        "image": "https://preview.redd.it/z1z1v4df5r1h1.jpeg?width=640&crop=smart&auto=webp&s=88e341c9856ce91945e031285db3da0912b5a870",
-        "published": "2026-05-17T19:50:40+00:00"
+        "title": "Dario Amodei: AI Will Lead To Very High GDP Growth And Very High Unemployment, A Combination Never Seen Before, 10%+ Unemployment Rate Is Possible",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgyv3s/dario_amodei_ai_will_lead_to_very_high_gdp_growth/",
+        "image": "https://external-preview.redd.it/OTJ3Y3V6aDg5eTFoMUTDBCSSX-eyPuWF8udRNPrX9kXuMm4QkGBbet4Ddmrq.png?width=640&crop=smart&auto=webp&s=7adffe5fe160dcd6a6be4c5df8091824ed16a2da",
+        "published": "2026-05-18T19:44:28+00:00"
+    },
+    {
+        "title": "Schiff Proposes Bill Requiring Data Centers to Pay for Own Power",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgsqd9/schiff_proposes_bill_requiring_data_centers_to/",
+        "image": "https://external-preview.redd.it/w2z4e6juZJyrT18FnP-Kq1q02wuuPjpLxwcVyubABeU.jpeg?width=640&crop=smart&auto=webp&s=6e70f570bf1155116dc81b0daeea4b8b4218b6e5",
+        "published": "2026-05-18T16:59:22+00:00"
     },
     {
         "title": "Uber's Anthropic AI Push Hits A Wall\u2014CTO Says Budget Struggles Despite $3.4B Spend",
@@ -60,33 +72,21 @@
         "published": "2026-05-17T22:55:49+00:00"
     },
     {
-        "title": "Beyond Walking: Why Dexterous Hands Define the Next Era of Robotics",
-        "link": "https://www.reddit.com/r/singularity/comments/1tgg5yb/beyond_walking_why_dexterous_hands_define_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-18T08:20:36+00:00"
-    },
-    {
         "title": "Qwen 3.7 Has been Spotted on the Qwen website",
         "link": "https://www.reddit.com/r/singularity/comments/1tgpwdh/qwen_37_has_been_spotted_on_the_qwen_website/",
         "image": "https://preview.redd.it/zd7k60llyw1h1.jpeg?width=640&crop=smart&auto=webp&s=5aec5790b89cc1b9e93e05b7b3446b0d72b5c789",
         "published": "2026-05-18T15:23:04+00:00"
     },
     {
-        "title": "I think Gemini 3.2 Flash has been added to Antigravity.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfy2u1/i_think_gemini_32_flash_has_been_added_to/",
-        "image": "https://preview.redd.it/we3ml7gqtq1h1.png?width=140&height=53&auto=webp&s=a73700a4c6f06ccb3cbabe4a59afe3df3336760e",
-        "published": "2026-05-17T18:46:40+00:00"
-    },
-    {
-        "title": "I put 50 AI agents in a survival world and the first public run is live now",
-        "link": "https://www.reddit.com/r/singularity/comments/1tg7wbk/i_put_50_ai_agents_in_a_survival_world_and_the/",
+        "title": "Beyond Walking: Why Dexterous Hands Define the Next Era of Robotics",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgg5yb/beyond_walking_why_dexterous_hands_define_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-18T01:22:50+00:00"
+        "published": "2026-05-18T08:20:36+00:00"
     },
     {
-        "title": "The US is betting on AI to catch insider trading in prediction markets",
-        "link": "https://www.reddit.com/r/singularity/comments/1tgml3q/the_us_is_betting_on_ai_to_catch_insider_trading/",
-        "image": "https://external-preview.redd.it/aYP_jn_NZ9zniGsjRST8LUhThx_EaFUvbfipkwNKs2I.jpeg?width=640&crop=smart&auto=webp&s=92cdbcbbb160c82745aa6441346f130ecd8377f3",
-        "published": "2026-05-18T13:25:21+00:00"
+        "title": "Are space data centers the future or is it all just hype?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgqvyd/are_space_data_centers_the_future_or_is_it_all/",
+        "image": "https://preview.redd.it/5mfec5v94x1h1.png?width=640&crop=smart&auto=webp&s=57a30f04f502df2f4e5d7e576647790a20aa3f88",
+        "published": "2026-05-18T15:57:28+00:00"
     }
 ]
