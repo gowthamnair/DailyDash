@@ -1,11 +1,5 @@
 [
     {
-        "title": "Microsoft AI chief gives it 18 months\u2014for all white-collar work to be automated by AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfazdu/microsoft_ai_chief_gives_it_18_monthsfor_all/",
-        "image": "https://external-preview.redd.it/zKspUWLAjwda5UCqMqboy9GwsB5oFCD4rqgiShXvgKc.jpeg?width=640&crop=smart&auto=webp&s=84dceb29d73549482f2fc6de3893f7474843fb7a",
-        "published": "2026-05-17T01:04:28+00:00"
-    },
-    {
         "title": "Figure AI running a human vs machine contest [live]",
         "link": "https://www.reddit.com/r/singularity/comments/1tfxal6/figure_ai_running_a_human_vs_machine_contest_live/",
         "image": "https://external-preview.redd.it/NTg1cmM4cHdvcTFoMStDLiBDmorsnkA5nLPjJswsnwpVNZu8FBMm-5YM-uYR.png?width=640&crop=smart&auto=webp&s=6c75895235ad861ea170600a5f04ad0fe4810bd7",
@@ -30,6 +24,12 @@
         "published": "2026-05-17T17:18:05+00:00"
     },
     {
+        "title": "Former CEO Of Google Receives Massive Backlash For Praising AI At Graduation",
+        "link": "https://www.reddit.com/r/singularity/comments/1tg6a1i/former_ceo_of_google_receives_massive_backlash/",
+        "image": "https://external-preview.redd.it/cmsybHl0MmpmczFoMXgiJeTnHCHp8vliyZ8S929qV7KhoQ0YtvV_W5WiMl-a.png?width=640&crop=smart&auto=webp&s=eb0c30563a432b7741a01b3b37e01189227e97b6",
+        "published": "2026-05-18T00:09:04+00:00"
+    },
+    {
         "title": "What happened to the issue of companies running out of training data for LLMs?",
         "link": "https://www.reddit.com/r/singularity/comments/1tfs8ho/what_happened_to_the_issue_of_companies_running/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -42,10 +42,10 @@
         "published": "2026-05-17T19:50:40+00:00"
     },
     {
-        "title": "Florida Law Enacts Data Center Restrictions to Shield Residents from Water, Energy Costs",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfc48i/florida_law_enacts_data_center_restrictions_to/",
-        "image": "https://external-preview.redd.it/NIqqDbBUHqpz5MSkG2X6bsWAPLy2f-nc_7fdkyL7wMw.jpeg?width=640&crop=smart&auto=webp&s=b0a1c445e46d5ded855e0b23a7c5ff0dd991d197",
-        "published": "2026-05-17T01:59:03+00:00"
+        "title": "GPT-5.5 autonomously spent 150+ hours improving protein folding models.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tg7w59/gpt55_autonomously_spent_150_hours_improving/",
+        "image": "https://preview.redd.it/u9ku6ognss1h1.jpeg?width=640&crop=smart&auto=webp&s=027374f97610db8007c00ec910cdeadb100c9d5d",
+        "published": "2026-05-18T01:22:37+00:00"
     },
     {
         "title": "Uber's Anthropic AI Push Hits A Wall\u2014CTO Says Budget Struggles Despite $3.4B Spend",
@@ -66,27 +66,27 @@
         "published": "2026-05-17T19:39:17+00:00"
     },
     {
+        "title": "I put 50 AI agents in a survival world and the first public run is live now",
+        "link": "https://www.reddit.com/r/singularity/comments/1tg7wbk/i_put_50_ai_agents_in_a_survival_world_and_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-18T01:22:50+00:00"
+    },
+    {
         "title": "Investments for the Singularity",
         "link": "https://www.reddit.com/r/singularity/comments/1tfvh7w/investments_for_the_singularity/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-17T17:12:04+00:00"
     },
     {
-        "title": "Is there a word for a middle ground between anti-ai and pro-ai?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tfxgdj/is_there_a_word_for_a_middle_ground_between/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T18:24:08+00:00"
-    },
-    {
-        "title": "Post-Singularity Warfare",
-        "link": "https://www.reddit.com/r/singularity/comments/1tg50w1/postsingularity_warfare/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-17T23:14:35+00:00"
-    },
-    {
         "title": "Discord Server Link",
         "link": "https://www.reddit.com/r/singularity/comments/1tg1y16/discord_server_link/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-17T21:10:00+00:00"
+    },
+    {
+        "title": "Is there a word for a middle ground between anti-ai and pro-ai?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tfxgdj/is_there_a_word_for_a_middle_ground_between/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-17T18:24:08+00:00"
     }
 ]
