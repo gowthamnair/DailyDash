@@ -12,16 +12,10 @@
         "published": "2026-05-18T17:50:40+00:00"
     },
     {
-        "title": "GPT-5.5 autonomously spent 150+ hours improving protein folding models.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tg7w59/gpt55_autonomously_spent_150_hours_improving/",
-        "image": "https://preview.redd.it/u9ku6ognss1h1.jpeg?width=640&crop=smart&auto=webp&s=027374f97610db8007c00ec910cdeadb100c9d5d",
-        "published": "2026-05-18T01:22:37+00:00"
-    },
-    {
-        "title": "Former CEO Of Google Receives Massive Backlash For Praising AI At Graduation",
-        "link": "https://www.reddit.com/r/singularity/comments/1tg6a1i/former_ceo_of_google_receives_massive_backlash/",
-        "image": "https://external-preview.redd.it/cmsybHl0MmpmczFoMXgiJeTnHCHp8vliyZ8S929qV7KhoQ0YtvV_W5WiMl-a.png?width=640&crop=smart&auto=webp&s=eb0c30563a432b7741a01b3b37e01189227e97b6",
-        "published": "2026-05-18T00:09:04+00:00"
+        "title": "Boston Dynamics Atlas transporting a refrigerator (Atlas carries a fridge)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgwe3p/boston_dynamics_atlas_transporting_a_refrigerator/",
+        "image": "https://external-preview.redd.it/NjJ3c3dydjJ4eDFoMRETsOfD5LJIf5UqjIQRZGX7Yytpx6cE0cem9jim8MgL.png?width=640&crop=smart&auto=webp&s=07a1a7a971c8b6f0e729ac799f8f505fa065dd48",
+        "published": "2026-05-18T18:36:38+00:00"
     },
     {
         "title": "Figure | Final Results after a 10 hour shift between an Intern and Robot sorting mail",
@@ -30,16 +24,16 @@
         "published": "2026-05-18T11:41:48+00:00"
     },
     {
-        "title": "Boston Dynamics Atlas transporting a refrigerator (Atlas carries a fridge)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tgwe3p/boston_dynamics_atlas_transporting_a_refrigerator/",
-        "image": "https://external-preview.redd.it/NjJ3c3dydjJ4eDFoMRETsOfD5LJIf5UqjIQRZGX7Yytpx6cE0cem9jim8MgL.png?width=640&crop=smart&auto=webp&s=07a1a7a971c8b6f0e729ac799f8f505fa065dd48",
-        "published": "2026-05-18T18:36:38+00:00"
-    },
-    {
         "title": "Dario Amodei: AI Will Lead To Very High GDP Growth And Very High Unemployment, A Combination Never Seen Before, 10%+ Unemployment Rate Is Possible",
         "link": "https://www.reddit.com/r/singularity/comments/1tgyv3s/dario_amodei_ai_will_lead_to_very_high_gdp_growth/",
         "image": "https://external-preview.redd.it/OTJ3Y3V6aDg5eTFoMUTDBCSSX-eyPuWF8udRNPrX9kXuMm4QkGBbet4Ddmrq.png?width=640&crop=smart&auto=webp&s=7adffe5fe160dcd6a6be4c5df8091824ed16a2da",
         "published": "2026-05-18T19:44:28+00:00"
+    },
+    {
+        "title": "Creator of C++: \"AI-generated code isn't ready - it generates more bugs, more bloat, more security holes, and is nearly impossible to validate\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1th3ype/creator_of_c_aigenerated_code_isnt_ready_it/",
+        "image": "https://external-preview.redd.it/d3c2Y3ozbWY0ejFoMWk0HQaTlX7qfiF9zeMjzqer7uKB18q-pC1oqsg5Eawp.png?width=640&crop=smart&auto=webp&s=267252cf609d8f90d07d0b3b8ff2f483f12008d0",
+        "published": "2026-05-18T22:40:01+00:00"
     },
     {
         "title": "Gemini 3.2 Flash is capable of solving IMO 2025 P6. Only GPT-5.5-Pro can solve it currently without any scaffolding / harness engineering.",
@@ -58,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tglk5q/atlas_lifts_a_fridge_boston_dynamics/",
         "image": "https://external-preview.redd.it/dMuawfsfaP572HbXN5-zZHj-aV_TI8IXdAH0YNvUUZM.jpeg?width=320&crop=smart&auto=webp&s=b1ebb62874ff420fffa2ea78d777c10bd324ed12",
         "published": "2026-05-18T12:45:55+00:00"
-    },
-    {
-        "title": "Creator of C++: \"AI-generated code isn't ready - it generates more bugs, more bloat, more security holes, and is nearly impossible to validate\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1th3ype/creator_of_c_aigenerated_code_isnt_ready_it/",
-        "image": "https://external-preview.redd.it/d3c2Y3ozbWY0ejFoMWk0HQaTlX7qfiF9zeMjzqer7uKB18q-pC1oqsg5Eawp.png?width=640&crop=smart&auto=webp&s=267252cf609d8f90d07d0b3b8ff2f483f12008d0",
-        "published": "2026-05-18T22:40:01+00:00"
     },
     {
         "title": "Schiff Proposes Bill Requiring Data Centers to Pay for Own Power",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tgqvyd/are_space_data_centers_the_future_or_is_it_all/",
         "image": "https://preview.redd.it/5mfec5v94x1h1.png?width=640&crop=smart&auto=webp&s=57a30f04f502df2f4e5d7e576647790a20aa3f88",
         "published": "2026-05-18T15:57:28+00:00"
+    },
+    {
+        "title": "The US is betting on AI to catch insider trading in prediction markets",
+        "link": "https://www.reddit.com/r/singularity/comments/1tgml3q/the_us_is_betting_on_ai_to_catch_insider_trading/",
+        "image": "https://external-preview.redd.it/aYP_jn_NZ9zniGsjRST8LUhThx_EaFUvbfipkwNKs2I.jpeg?width=640&crop=smart&auto=webp&s=92cdbcbbb160c82745aa6441346f130ecd8377f3",
+        "published": "2026-05-18T13:25:21+00:00"
+    },
+    {
+        "title": "If AI removes the labor constraint on high-skill work, what happens to the advantage of elite firms?",
+        "link": "https://www.reddit.com/r/singularity/comments/1th6lrs/if_ai_removes_the_labor_constraint_on_highskill/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-19T00:26:55+00:00"
     }
 ]
