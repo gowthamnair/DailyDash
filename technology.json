@@ -1,17 +1,5 @@
 [
     {
-        "title": "A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery",
-        "link": "https://www.reddit.com/r/technology/comments/1thr2z2/a_texas_drainage_district_walked_its_ditch_on_a/",
-        "image": "https://external-preview.redd.it/kGjj_NoDcICrxe0jj2AxL2CHc8Eysiptnn446JP2esI.jpeg?width=640&crop=smart&auto=webp&s=73cf3c9494c5bf0a365d2e6890f3e33c017e7572",
-        "published": "2026-05-19T15:52:43+00:00"
-    },
-    {
-        "title": "\u2018The Worst Leak That I\u2019ve Witnessed\u2019: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
-        "link": "https://www.reddit.com/r/technology/comments/1tho99c/the_worst_leak_that_ive_witnessed_us/",
-        "image": "https://external-preview.redd.it/6cv8LteYzqvmIKVHFgo2nrJXjm9jyQUr3-rTaAxgbj8.jpeg?width=640&crop=smart&auto=webp&s=ac27b96157e6ac6b4e6866d2ff5638ea9a4aed62",
-        "published": "2026-05-19T14:13:59+00:00"
-    },
-    {
         "title": "Gen Z's AI backlash is getting louder",
         "link": "https://www.reddit.com/r/technology/comments/1thubc8/gen_zs_ai_backlash_is_getting_louder/",
         "image": "https://external-preview.redd.it/UMhUlxP6WpI6RJ6vedTGxOIAxx-QJi1rWlumUIE3cZo.jpeg?width=640&crop=smart&auto=webp&s=d7d53e4ed43bd883cb829c77c75f9ae194ec238b",
@@ -22,6 +10,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1thyz73/google_search_as_you_know_it_is_over/",
         "image": "https://external-preview.redd.it/2SE0_7n2DnP0ZFaPDLRKBqIoPOJprelg6ZP9C6ccW9s.jpeg?width=640&crop=smart&auto=webp&s=20445367d8dfcceba6795e15f5a085d12cd3612d",
         "published": "2026-05-19T20:17:26+00:00"
+    },
+    {
+        "title": "After Town Bans Flock, Councilmember Crashes Out, Proposes Internet and Phone Ban / A Texas councilmember will propose \u201ca total ban on all cellular and GPS-capable devices for all operations within city limits\" and \u201ca total termination of all internet services.\"",
+        "link": "https://www.reddit.com/r/technology/comments/1tima2p/after_town_bans_flock_councilmember_crashes_out/",
+        "image": "https://external-preview.redd.it/eDiAfIsmEBchH9tXCHJUXi9ydyMEsNmuaFkdn-Umgic.png?width=640&crop=smart&auto=webp&s=479b974b032c96010549f8043be424d97fe48f06",
+        "published": "2026-05-20T13:48:53+00:00"
     },
     {
         "title": "X announces significant restrictions to free accounts; 50 posts and 200 replies per day",
@@ -42,10 +36,34 @@
         "published": "2026-05-19T22:31:04+00:00"
     },
     {
+        "title": "AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn\u2019t appear to be happening at the speed we believed",
+        "link": "https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/",
+        "image": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c",
+        "published": "2026-05-20T09:31:24+00:00"
+    },
+    {
+        "title": "Driver intentionally drove Cybertruck into lake to use vehicle\u2019s \u2018Wade Mode,\u2019 police say",
+        "link": "https://www.reddit.com/r/technology/comments/1tijvz1/driver_intentionally_drove_cybertruck_into_lake/",
+        "image": "https://external-preview.redd.it/0AzncqTePzgqPq4l0y6sTiGwf0T1io-f9GZgbnf3gDg.jpeg?width=640&crop=smart&auto=webp&s=89bed367bba4f027579cff3050a304a1293cc520",
+        "published": "2026-05-20T12:15:52+00:00"
+    },
+    {
+        "title": "The biggest data center ever is becoming a huge problem in Utah",
+        "link": "https://www.reddit.com/r/technology/comments/1tili1z/the_biggest_data_center_ever_is_becoming_a_huge/",
+        "image": "https://external-preview.redd.it/hRwOmKgZR2A8Thtq-p5qmW9Uuu33OZzvSe-BVRJmSXM.jpeg?width=640&crop=smart&auto=webp&s=7e0713ebad842ea6ab98c47760908cbc249111f4",
+        "published": "2026-05-20T13:19:42+00:00"
+    },
+    {
         "title": "Lifetime Plex Pass subscriptions are tripling in price from $249.99 to $749.99, starting July 1, 2026",
         "link": "https://www.reddit.com/r/technology/comments/1ti249m/lifetime_plex_pass_subscriptions_are_tripling_in/",
         "image": "https://external-preview.redd.it/1UAS1DCMCCqBtOCA7lfCYbwAekdyPifi55vTHV_SQDs.png?width=640&crop=smart&auto=webp&s=151a45094d59aae48471839d56f7475cc3ec084c",
         "published": "2026-05-19T22:10:47+00:00"
+    },
+    {
+        "title": "The American Rebellion Against AI Is Gaining Steam - Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis",
+        "link": "https://www.reddit.com/r/technology/comments/1tiefkw/the_american_rebellion_against_ai_is_gaining/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T07:33:24+00:00"
     },
     {
         "title": "Kickstarter reverses course, apologises over its new Mature Content Guidelines and goes back to the previous rules",
@@ -60,33 +78,15 @@
         "published": "2026-05-19T19:37:33+00:00"
     },
     {
-        "title": "AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn\u2019t appear to be happening at the speed we believed",
-        "link": "https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/",
-        "image": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c",
-        "published": "2026-05-20T09:31:24+00:00"
-    },
-    {
-        "title": "Schiff Proposes Bill Requiring Data Centers to Pay for Own Power",
-        "link": "https://www.reddit.com/r/technology/comments/1thqpbl/schiff_proposes_bill_requiring_data_centers_to/",
-        "image": "https://external-preview.redd.it/w2z4e6juZJyrT18FnP-Kq1q02wuuPjpLxwcVyubABeU.jpeg?width=640&crop=smart&auto=webp&s=6e70f570bf1155116dc81b0daeea4b8b4218b6e5",
-        "published": "2026-05-19T15:39:33+00:00"
-    },
-    {
         "title": "RAM makers are drowning in debt to keep up with AI's chip appetite",
         "link": "https://www.reddit.com/r/technology/comments/1thxz44/ram_makers_are_drowning_in_debt_to_keep_up_with/",
         "image": "https://external-preview.redd.it/7_RnA33AIjYzQWA8tTkENcuRn9AGsooAg-QwbtrV6t4.jpeg?width=640&crop=smart&auto=webp&s=ad73f22c931de18e45218940fd4934322e4e8053",
         "published": "2026-05-19T19:42:35+00:00"
     },
     {
-        "title": "The American Rebellion Against AI Is Gaining Steam - Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis",
-        "link": "https://www.reddit.com/r/technology/comments/1tiefkw/the_american_rebellion_against_ai_is_gaining/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T07:33:24+00:00"
-    },
-    {
-        "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs | WIRED",
-        "link": "https://www.reddit.com/r/technology/comments/1ti4bt4/meta_employees_are_scrambling_to_use_up_benefits/",
-        "image": "https://external-preview.redd.it/QLTiYPKoGS0ObiWU952x3npKJMUg7BsD4YEKxUo3_BE.jpeg?width=640&crop=smart&auto=webp&s=58dc5d4359d75c8ddab523a9a7d5a8ce037ff48e",
-        "published": "2026-05-19T23:38:28+00:00"
+        "title": "Barnes & Noble CEO backs selling AI-written books in stores",
+        "link": "https://www.reddit.com/r/technology/comments/1ticax1/barnes_noble_ceo_backs_selling_aiwritten_books_in/",
+        "image": "https://external-preview.redd.it/6u1akxvltMOGIMwwpujDi30W0ep-hkozhKo9bHTN26I.jpeg?width=640&crop=smart&auto=webp&s=b9036843428d36a43689edda729e7a08b31828d0",
+        "published": "2026-05-20T05:38:37+00:00"
     }
 ]
