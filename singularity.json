@@ -48,16 +48,16 @@
         "published": "2026-05-19T17:02:14+00:00"
     },
     {
-        "title": "Gemini Omni model is out!",
-        "link": "https://www.reddit.com/r/singularity/comments/1thnue1/gemini_omni_model_is_out/",
-        "image": "https://preview.redd.it/k3mz45ofo32h1.png?width=140&height=78&auto=webp&s=4ecc118b8d2e7aedb048a7d2e72ae1325de45946",
-        "published": "2026-05-19T13:59:14+00:00"
-    },
-    {
         "title": "Cerebras is running a trillion parameter model (Kimi K2.6) at 1000 tokens/s",
         "link": "https://www.reddit.com/r/singularity/comments/1thw41i/cerebras_is_running_a_trillion_parameter_model/",
         "image": "https://preview.redd.it/ydjaawer252h1.jpeg?width=640&crop=smart&auto=webp&s=4c634fc34def8936393fb73a6c00470b93222557",
         "published": "2026-05-19T18:40:41+00:00"
+    },
+    {
+        "title": "Gemini Omni model is out!",
+        "link": "https://www.reddit.com/r/singularity/comments/1thnue1/gemini_omni_model_is_out/",
+        "image": "https://preview.redd.it/k3mz45ofo32h1.png?width=140&height=78&auto=webp&s=4ecc118b8d2e7aedb048a7d2e72ae1325de45946",
+        "published": "2026-05-19T13:59:14+00:00"
     },
     {
         "title": "Gemini 3.5 Flash Agents built a real Complete OS from scratch!",
