@@ -12,22 +12,10 @@
         "published": "2026-05-20T21:47:25+00:00"
     },
     {
-        "title": "OpenAI general purpose model had a breakthrough on famous 80 year old Erdos problem. \u201cThis marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1tiwa59/openai_general_purpose_model_had_a_breakthrough/",
-        "image": "https://external-preview.redd.it/dGVwOTYwemZnYzJoMQUo5kKHLQR3afzoapbhpSwZVXfFZnOgnY3822Lf4qDh.png?width=640&crop=smart&auto=webp&s=fb91a8e2552c9cb5f8feb4431891b57b256dce05",
-        "published": "2026-05-20T19:31:23+00:00"
-    },
-    {
         "title": "Elon Musk's pay package reveals what SpaceX actually is: a $1 trillion monster built to colonize Mars",
         "link": "https://www.reddit.com/r/singularity/comments/1tjllk7/elon_musks_pay_package_reveals_what_spacex/",
         "image": "https://external-preview.redd.it/i3q1lolv_7-_Ij2rLzyRiYmNg3L7jdBoH48GAyUsf4k.jpeg?width=640&crop=smart&auto=webp&s=f461ef412bc13d8b50435c6f340fd338f3abb78d",
         "published": "2026-05-21T14:06:24+00:00"
-    },
-    {
-        "title": "Protests by the end of the year?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj87da/protests_by_the_end_of_the_year/",
-        "image": "https://preview.redd.it/z93cia7hse2h1.png?width=320&crop=smart&auto=webp&s=32ddec8e0c7adf6a1c5c782a78adddd8029085f5",
-        "published": "2026-05-21T03:21:08+00:00"
     },
     {
         "title": "Google's latest creation: Gemini 3.5 Flash vs all",
@@ -36,22 +24,16 @@
         "published": "2026-05-21T15:38:31+00:00"
     },
     {
+        "title": "Protests by the end of the year?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj87da/protests_by_the_end_of_the_year/",
+        "image": "https://preview.redd.it/z93cia7hse2h1.png?width=320&crop=smart&auto=webp&s=32ddec8e0c7adf6a1c5c782a78adddd8029085f5",
+        "published": "2026-05-21T03:21:08+00:00"
+    },
+    {
         "title": "Gemini 3.5 Flash ranks #1 on Automation Bench (from Zapier), beating every other frontier model at a much lower cost",
         "link": "https://www.reddit.com/r/singularity/comments/1tj9sqp/gemini_35_flash_ranks_1_on_automation_bench_from/",
         "image": "https://preview.redd.it/lytdlygs5f2h1.jpeg?width=640&crop=smart&auto=webp&s=5890ac65413bdeb84616a9a74b36b724b96a0f8f",
         "published": "2026-05-21T04:35:28+00:00"
-    },
-    {
-        "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
-        "link": "https://www.reddit.com/r/singularity/comments/1tiw0vq/a_glimpse_of_level_4_openai_model_helps_challenge/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T19:22:42+00:00"
-    },
-    {
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "link": "https://www.reddit.com/r/singularity/comments/1tiwl33/an_openai_model_has_disproved_a_central/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T19:41:51+00:00"
     },
     {
         "title": "Anthropic is paying SpaceX $15 billion per year",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tj3tph/does_anyone_else_hate_the_noide_trend/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-21T00:10:19+00:00"
+    },
+    {
+        "title": "Wall Street Journal: The American Rebellion Against AI Is Gaining Steam",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjnicf/wall_street_journal_the_american_rebellion/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-21T15:12:14+00:00"
+    },
+    {
+        "title": "Anthropic-SpaceX deal seems much larger than previously reported",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj0efw/anthropicspacex_deal_seems_much_larger_than/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T21:55:14+00:00"
+    },
+    {
+        "title": "Qwen 3.7 Max scores 60.6% on SWE-Bench Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj95nl/qwen_37_max_scores_606_on_swebench_pro/",
+        "image": "https://preview.redd.it/jyiiwn2o0f2h1.png?width=140&height=52&auto=webp&s=d974af3e0f109a4e6f021bfd08af94c61e2bdf9a",
+        "published": "2026-05-21T04:04:57+00:00"
     }
 ]
