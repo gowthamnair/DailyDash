@@ -30,10 +30,10 @@
         "published": "2026-05-21T04:35:28+00:00"
     },
     {
-        "title": "Anthropic is paying SpaceX $15 billion per year",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj3csv/anthropic_is_paying_spacex_15_billion_per_year/",
-        "image": "https://external-preview.redd.it/kZlRT_fgAGUfkAHBlju2sCBMQWPK1IqJAEihg6tkdr4.jpeg?width=640&crop=smart&auto=webp&s=1a25e3f86451906f81b70bc428ad1051bb6e0034",
-        "published": "2026-05-20T23:51:10+00:00"
+        "title": "Google is cooking just give them sometime (gemini 3.5 pro)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjwaef/google_is_cooking_just_give_them_sometime_gemini/",
+        "image": "https://preview.redd.it/i4pw61zzrj2h1.jpeg?width=640&crop=smart&auto=webp&s=a914f2d5136a11aee2ac94ee3fca4415dc7b48ea",
+        "published": "2026-05-21T20:07:04+00:00"
     },
     {
         "title": "The new DEEP Robotics LynxS10 is very light, with only 20 kg you can even lift it with one hand. It can keep moving even after turning over, do side flips to recover and other advanced stunts.",
@@ -48,34 +48,10 @@
         "published": "2026-05-21T03:57:27+00:00"
     },
     {
-        "title": "Google is cooking just give them sometime (gemini 3.5 pro)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tjwaef/google_is_cooking_just_give_them_sometime_gemini/",
-        "image": "https://preview.redd.it/i4pw61zzrj2h1.jpeg?width=640&crop=smart&auto=webp&s=a914f2d5136a11aee2ac94ee3fca4415dc7b48ea",
-        "published": "2026-05-21T20:07:04+00:00"
-    },
-    {
         "title": "Gemini 3.5 Flash ranks #1 on the APEX-Agents-AA benchmark, outperforming much larger models a whole size above it.",
         "link": "https://www.reddit.com/r/singularity/comments/1tjlseu/gemini_35_flash_ranks_1_on_the_apexagentsaa/",
         "image": "https://preview.redd.it/udx6fvpu0i2h1.jpeg?width=640&crop=smart&auto=webp&s=16c0217553be8a6bfe161c0cf20601a08a82beb8",
         "published": "2026-05-21T14:13:10+00:00"
-    },
-    {
-        "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Will creativity and critical thinking save us?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj39zk/marc_andreessen_the_remaining_human_workers_are/",
-        "image": "https://preview.redd.it/kzy41tk0qd2h1.jpeg?width=640&crop=smart&auto=webp&s=9c1b5ba1c816ea0d843fc975bc22fbe10b10c7bf",
-        "published": "2026-05-20T23:47:47+00:00"
-    },
-    {
-        "title": "Wall Street Journal: The American Rebellion Against AI Is Gaining Steam",
-        "link": "https://www.reddit.com/r/singularity/comments/1tjnicf/wall_street_journal_the_american_rebellion/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-21T15:12:14+00:00"
-    },
-    {
-        "title": "Does anyone else hate the no-IDE trend",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj3tph/does_anyone_else_hate_the_noide_trend/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-21T00:10:19+00:00"
     },
     {
         "title": "Leaked recording: Mark Zuckerberg Addresses Staff Ahead of Mass AI Layoffs",
@@ -84,9 +60,33 @@
         "published": "2026-05-21T20:06:40+00:00"
     },
     {
+        "title": "How misalignment starts",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjqnve/how_misalignment_starts/",
+        "image": "https://preview.redd.it/u4fi1a2fui2h1.jpeg?width=640&crop=smart&auto=webp&s=8b947005976b17e339dd02cde4ed7658c0158769",
+        "published": "2026-05-21T16:58:50+00:00"
+    },
+    {
+        "title": "Does anyone else hate the no-IDE trend",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj3tph/does_anyone_else_hate_the_noide_trend/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-21T00:10:19+00:00"
+    },
+    {
+        "title": "Wall Street Journal: The American Rebellion Against AI Is Gaining Steam",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjnicf/wall_street_journal_the_american_rebellion/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-21T15:12:14+00:00"
+    },
+    {
         "title": "Qwen 3.7 Max scores 60.6% on SWE-Bench Pro",
         "link": "https://www.reddit.com/r/singularity/comments/1tj95nl/qwen_37_max_scores_606_on_swebench_pro/",
         "image": "https://preview.redd.it/jyiiwn2o0f2h1.png?width=140&height=52&auto=webp&s=d974af3e0f109a4e6f021bfd08af94c61e2bdf9a",
         "published": "2026-05-21T04:04:57+00:00"
+    },
+    {
+        "title": "Grok 4.3 tops the Consistency Leaderboard in the LLM Sycophancy Benchmark, largely because it is one of the most cautious models.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjr3g5/grok_43_tops_the_consistency_leaderboard_in_the/",
+        "image": "https://preview.redd.it/x3hg7dvjwi2h1.png?width=140&height=136&auto=webp&s=2261730780c7515fad281a9652c421f993e3e83f",
+        "published": "2026-05-21T17:12:56+00:00"
     }
 ]
