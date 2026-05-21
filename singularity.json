@@ -1,11 +1,5 @@
 [
     {
-        "title": "It's 2026, and we are yet to see an anti-almond farm protest.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tidqkv/its_2026_and_we_are_yet_to_see_an_antialmond_farm/",
-        "image": "https://preview.redd.it/qy67jhsop82h1.png?width=640&crop=smart&auto=webp&s=e1eef63c6dae18034570df3194a9bec4b931bcfe",
-        "published": "2026-05-20T06:55:00+00:00"
-    },
-    {
         "title": "Mark Zuckerberg\u2019s Meta kicks off major bloodbath with 8,000 layoffs (about 10% of its workforce) as AI roils tech giant",
         "link": "https://www.reddit.com/r/singularity/comments/1tiosgg/mark_zuckerbergs_meta_kicks_off_major_bloodbath/",
         "image": "https://external-preview.redd.it/JhWA88PhPaO3yjnxC2ZvMdRAxV4Hho8X2_LiPi6nQkI.jpeg?width=640&crop=smart&auto=webp&s=32cc38f1cb3c418be69fe688ca39ef7764bce573",
@@ -30,22 +24,10 @@
         "published": "2026-05-20T19:31:23+00:00"
     },
     {
-        "title": "Gemini 3.5 flash is not that great at coding",
-        "link": "https://www.reddit.com/r/singularity/comments/1tidr4p/gemini_35_flash_is_not_that_great_at_coding/",
-        "image": "https://preview.redd.it/k9d4wk8xp82h1.jpeg?width=640&crop=smart&auto=webp&s=154cdb49c524cdc680a299b740bab6399b6eec60",
-        "published": "2026-05-20T06:55:50+00:00"
-    },
-    {
-        "title": "Google Just Turned Street View Into a Video Game",
-        "link": "https://www.reddit.com/r/singularity/comments/1tieu1d/google_just_turned_street_view_into_a_video_game/",
-        "image": "https://external-preview.redd.it/5vpdAMn5tGjeWfUREEGPP0pG5W_lPuVMtaNfLwFEnY0.jpeg?width=320&crop=smart&auto=webp&s=7410fe295f54773549061d4830bef6111105e679",
-        "published": "2026-05-20T07:56:19+00:00"
-    },
-    {
-        "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
-        "link": "https://www.reddit.com/r/singularity/comments/1tiw0vq/a_glimpse_of_level_4_openai_model_helps_challenge/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T19:22:42+00:00"
+        "title": "OAI researcher on Erdos problem: \u201cThis is the biggest deal in the history of AI so far. And it will look like a small deal at the end of the year.\u201d (Buckle up)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj6tua/oai_researcher_on_erdos_problem_this_is_the/",
+        "image": "https://preview.redd.it/hbilprpohe2h1.jpeg?width=640&crop=smart&auto=webp&s=86c84ea2c1f2e37bc18ca35082fe709a90169e43",
+        "published": "2026-05-21T02:20:20+00:00"
     },
     {
         "title": "Protests by the end of the year?",
@@ -54,22 +36,22 @@
         "published": "2026-05-21T03:21:08+00:00"
     },
     {
-        "title": "Gemini 3.5 Flash scores 76.7% on SimpleBench, just 0.2% short of GPT 5.5 Pro's score",
-        "link": "https://www.reddit.com/r/singularity/comments/1tir6qk/gemini_35_flash_scores_767_on_simplebench_just_02/",
-        "image": "https://preview.redd.it/0g5uwrkolb2h1.png?width=640&crop=smart&auto=webp&s=e5a53cd9ada743efea48f3e1d4fdb971879c4b63",
-        "published": "2026-05-20T16:39:32+00:00"
-    },
-    {
-        "title": "OAI researcher on Erdos problem: \u201cThis is the biggest deal in the history of AI so far. And it will look like a small deal at the end of the year.\u201d (Buckle up)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj6tua/oai_researcher_on_erdos_problem_this_is_the/",
-        "image": "https://preview.redd.it/hbilprpohe2h1.jpeg?width=640&crop=smart&auto=webp&s=86c84ea2c1f2e37bc18ca35082fe709a90169e43",
-        "published": "2026-05-21T02:20:20+00:00"
+        "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
+        "link": "https://www.reddit.com/r/singularity/comments/1tiw0vq/a_glimpse_of_level_4_openai_model_helps_challenge/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T19:22:42+00:00"
     },
     {
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "link": "https://www.reddit.com/r/singularity/comments/1tiwl33/an_openai_model_has_disproved_a_central/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-20T19:41:51+00:00"
+    },
+    {
+        "title": "Gemini 3.5 Flash scores 76.7% on SimpleBench, just 0.2% short of GPT 5.5 Pro's score",
+        "link": "https://www.reddit.com/r/singularity/comments/1tir6qk/gemini_35_flash_scores_767_on_simplebench_just_02/",
+        "image": "https://preview.redd.it/0g5uwrkolb2h1.png?width=640&crop=smart&auto=webp&s=e5a53cd9ada743efea48f3e1d4fdb971879c4b63",
+        "published": "2026-05-20T16:39:32+00:00"
     },
     {
         "title": "Anthropic is paying SpaceX $15 billion per year",
@@ -82,6 +64,24 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tj9sqp/gemini_35_flash_ranks_1_on_automation_bench_from/",
         "image": "https://preview.redd.it/lytdlygs5f2h1.jpeg?width=640&crop=smart&auto=webp&s=5890ac65413bdeb84616a9a74b36b724b96a0f8f",
         "published": "2026-05-21T04:35:28+00:00"
+    },
+    {
+        "title": "if only Descartes could see LLMs now",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj8zen/if_only_descartes_could_see_llms_now/",
+        "image": "https://preview.redd.it/4kjykrczye2h1.png?width=640&crop=smart&auto=webp&s=35e651a7770f44c36451ed85cc4fb1d65985fdaf",
+        "published": "2026-05-21T03:57:27+00:00"
+    },
+    {
+        "title": "Sam Altman Offers YC Founders $2 Million in OpenAI Tokens For Equity",
+        "link": "https://www.reddit.com/r/singularity/comments/1titl6z/sam_altman_offers_yc_founders_2_million_in_openai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T18:01:24+00:00"
+    },
+    {
+        "title": "Anthropic-SpaceX deal seems much larger than previously reported",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj0efw/anthropicspacex_deal_seems_much_larger_than/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T21:55:14+00:00"
     },
     {
         "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Will creativity and critical thinking save us?",

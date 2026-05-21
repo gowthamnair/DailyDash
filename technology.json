@@ -24,18 +24,6 @@
         "published": "2026-05-20T13:19:42+00:00"
     },
     {
-        "title": "AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn\u2019t appear to be happening at the speed we believed",
-        "link": "https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/",
-        "image": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c",
-        "published": "2026-05-20T09:31:24+00:00"
-    },
-    {
-        "title": "The American Rebellion Against AI Is Gaining Steam - Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis",
-        "link": "https://www.reddit.com/r/technology/comments/1tiefkw/the_american_rebellion_against_ai_is_gaining/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T07:33:24+00:00"
-    },
-    {
         "title": "Lyft driver caught blatantly using Gemini AI (with watermark) to fake damage to his car and charge riders extra for cleaning fees",
         "link": "https://www.reddit.com/r/technology/comments/1tiuozz/lyft_driver_caught_blatantly_using_gemini_ai_with/",
         "image": "https://external-preview.redd.it/Dk5Ew9SG7bBeCUowNlY_eyN87icIcRHpNgzR6ny3-FE.jpeg?width=640&crop=smart&auto=webp&s=fc886949ea73c84e893fcaa7b3b714b4b1f751eb",
@@ -72,21 +60,33 @@
         "published": "2026-05-20T23:27:20+00:00"
     },
     {
-        "title": "Communities are blocking billions in data centers. Big Tech has wagered $1 trillion otherwise",
-        "link": "https://www.reddit.com/r/technology/comments/1tisb8f/communities_are_blocking_billions_in_data_centers/",
-        "image": "https://external-preview.redd.it/Zww65Zqbs03ckC-aSs8GCFrUCwlBesUSIbOabD7xP70.jpeg?width=640&crop=smart&auto=webp&s=8270196bcff47ee4324cb6a459fc5363d36de9f9",
-        "published": "2026-05-20T17:18:05+00:00"
-    },
-    {
         "title": "Anthropic is paying SpaceX $15 billion per year",
         "link": "https://www.reddit.com/r/technology/comments/1tj3sqj/anthropic_is_paying_spacex_15_billion_per_year/",
         "image": "https://external-preview.redd.it/kZlRT_fgAGUfkAHBlju2sCBMQWPK1IqJAEihg6tkdr4.jpeg?width=640&crop=smart&auto=webp&s=1a25e3f86451906f81b70bc428ad1051bb6e0034",
         "published": "2026-05-21T00:09:13+00:00"
     },
     {
+        "title": "Communities are blocking billions in data centers. Big Tech has wagered $1 trillion otherwise",
+        "link": "https://www.reddit.com/r/technology/comments/1tisb8f/communities_are_blocking_billions_in_data_centers/",
+        "image": "https://external-preview.redd.it/Zww65Zqbs03ckC-aSs8GCFrUCwlBesUSIbOabD7xP70.jpeg?width=640&crop=smart&auto=webp&s=8270196bcff47ee4324cb6a459fc5363d36de9f9",
+        "published": "2026-05-20T17:18:05+00:00"
+    },
+    {
         "title": "Dutch organizations demand that Meta stop blocking LGBTQIA+ accounts without a valid reason and that there be an option to challenge such decisions",
         "link": "https://www.reddit.com/r/technology/comments/1tikugf/dutch_organizations_demand_that_meta_stop/",
         "image": "https://external-preview.redd.it/36pIBj43Qg3PiodsFkritgn_b4cNlIocU94noTUgAVA.jpeg?width=640&crop=smart&auto=webp&s=99f082cca820acf760858ae15329c4717d6894e1",
         "published": "2026-05-20T12:54:19+00:00"
+    },
+    {
+        "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting | The chip was added to a list of banned goods at China\u2019s customs checkpoints last Friday.",
+        "link": "https://www.reddit.com/r/technology/comments/1tinjuw/china_banned_rtx_5090d_v2_while_nvidia_ceo_jensen/",
+        "image": "https://external-preview.redd.it/f0FUYh2KN8UXCWEGxgW-b50813ObmUjV2M-qG3aw4R8.jpeg?width=640&crop=smart&auto=webp&s=bc7e77f76f0e6d686288c724bc5b015ca3cf210c",
+        "published": "2026-05-20T14:34:20+00:00"
+    },
+    {
+        "title": "Ontario police are using spyware that lets them remotely take over your smartphone. They\u2019re fighting to keep almost everything about it secret",
+        "link": "https://www.reddit.com/r/technology/comments/1tj0ulx/ontario_police_are_using_spyware_that_lets_them/",
+        "image": "https://external-preview.redd.it/3aI_A7F8jhK6hWdjkZMBbcfrqpfkusLPPF4dS2if74k.jpeg?width=640&crop=smart&auto=webp&s=0555eb25bf35c43903c40b83ee358af560ddbb81",
+        "published": "2026-05-20T22:12:14+00:00"
     }
 ]
