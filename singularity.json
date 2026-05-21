@@ -6,12 +6,6 @@
         "published": "2026-05-21T02:20:20+00:00"
     },
     {
-        "title": "Anthropic is officially set to be profitable as of Q2 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj072c/anthropic_is_officially_set_to_be_profitable_as/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T21:47:25+00:00"
-    },
-    {
         "title": "Elon Musk's pay package reveals what SpaceX actually is: a $1 trillion monster built to colonize Mars",
         "link": "https://www.reddit.com/r/singularity/comments/1tjllk7/elon_musks_pay_package_reveals_what_spacex/",
         "image": "https://external-preview.redd.it/i3q1lolv_7-_Ij2rLzyRiYmNg3L7jdBoH48GAyUsf4k.jpeg?width=640&crop=smart&auto=webp&s=f461ef412bc13d8b50435c6f340fd338f3abb78d",
@@ -54,6 +48,12 @@
         "published": "2026-05-21T03:57:27+00:00"
     },
     {
+        "title": "Google is cooking just give them sometime (gemini 3.5 pro)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjwaef/google_is_cooking_just_give_them_sometime_gemini/",
+        "image": "https://preview.redd.it/i4pw61zzrj2h1.jpeg?width=640&crop=smart&auto=webp&s=a914f2d5136a11aee2ac94ee3fca4415dc7b48ea",
+        "published": "2026-05-21T20:07:04+00:00"
+    },
+    {
         "title": "Gemini 3.5 Flash ranks #1 on the APEX-Agents-AA benchmark, outperforming much larger models a whole size above it.",
         "link": "https://www.reddit.com/r/singularity/comments/1tjlseu/gemini_35_flash_ranks_1_on_the_apexagentsaa/",
         "image": "https://preview.redd.it/udx6fvpu0i2h1.jpeg?width=640&crop=smart&auto=webp&s=16c0217553be8a6bfe161c0cf20601a08a82beb8",
@@ -66,22 +66,22 @@
         "published": "2026-05-20T23:47:47+00:00"
     },
     {
-        "title": "Does anyone else hate the no-IDE trend",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj3tph/does_anyone_else_hate_the_noide_trend/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-21T00:10:19+00:00"
-    },
-    {
         "title": "Wall Street Journal: The American Rebellion Against AI Is Gaining Steam",
         "link": "https://www.reddit.com/r/singularity/comments/1tjnicf/wall_street_journal_the_american_rebellion/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-21T15:12:14+00:00"
     },
     {
-        "title": "Anthropic-SpaceX deal seems much larger than previously reported",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj0efw/anthropicspacex_deal_seems_much_larger_than/",
+        "title": "Does anyone else hate the no-IDE trend",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj3tph/does_anyone_else_hate_the_noide_trend/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T21:55:14+00:00"
+        "published": "2026-05-21T00:10:19+00:00"
+    },
+    {
+        "title": "Leaked recording: Mark Zuckerberg Addresses Staff Ahead of Mass AI Layoffs",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjwa05/leaked_recording_mark_zuckerberg_addresses_staff/",
+        "image": "https://external-preview.redd.it/NeQJtt38dPkypODoaQkcGc_yosJOscGdh93Hx0Un6o4.jpeg?width=320&crop=smart&auto=webp&s=4087e2f24146b662a4ffb14ab4e02b4e2fc6d999",
+        "published": "2026-05-21T20:06:40+00:00"
     },
     {
         "title": "Qwen 3.7 Max scores 60.6% on SWE-Bench Pro",
