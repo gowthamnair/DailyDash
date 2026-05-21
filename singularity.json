@@ -18,12 +18,6 @@
         "published": "2026-05-20T15:17:16+00:00"
     },
     {
-        "title": "Gemini 3.5 flash is not that great at coding",
-        "link": "https://www.reddit.com/r/singularity/comments/1tidr4p/gemini_35_flash_is_not_that_great_at_coding/",
-        "image": "https://preview.redd.it/k9d4wk8xp82h1.jpeg?width=640&crop=smart&auto=webp&s=154cdb49c524cdc680a299b740bab6399b6eec60",
-        "published": "2026-05-20T06:55:50+00:00"
-    },
-    {
         "title": "Midjourney says their research was set back by a year by using TPU, regrets not sticking purely with nvidia",
         "link": "https://www.reddit.com/r/singularity/comments/1tiut2d/midjourney_says_their_research_was_set_back_by_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -34,6 +28,18 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tiwa59/openai_general_purpose_model_had_a_breakthrough/",
         "image": "https://external-preview.redd.it/dGVwOTYwemZnYzJoMQUo5kKHLQR3afzoapbhpSwZVXfFZnOgnY3822Lf4qDh.png?width=640&crop=smart&auto=webp&s=fb91a8e2552c9cb5f8feb4431891b57b256dce05",
         "published": "2026-05-20T19:31:23+00:00"
+    },
+    {
+        "title": "Gemini 3.5 flash is not that great at coding",
+        "link": "https://www.reddit.com/r/singularity/comments/1tidr4p/gemini_35_flash_is_not_that_great_at_coding/",
+        "image": "https://preview.redd.it/k9d4wk8xp82h1.jpeg?width=640&crop=smart&auto=webp&s=154cdb49c524cdc680a299b740bab6399b6eec60",
+        "published": "2026-05-20T06:55:50+00:00"
+    },
+    {
+        "title": "Anthropic is officially set to be profitable as of Q2 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj072c/anthropic_is_officially_set_to_be_profitable_as/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T21:47:25+00:00"
     },
     {
         "title": "Google Just Turned Street View Into a Video Game",
@@ -48,22 +54,10 @@
         "published": "2026-05-20T02:37:02+00:00"
     },
     {
-        "title": "Google's Antigravity IDE 2.0 with a great start",
-        "link": "https://www.reddit.com/r/singularity/comments/1ti45x1/googles_antigravity_ide_20_with_a_great_start/",
-        "image": "https://preview.redd.it/rlvgqqsmi62h1.png?width=140&height=102&auto=webp&s=63fe30cbaecaac10540971b232f75b421245e82a",
-        "published": "2026-05-19T23:31:29+00:00"
-    },
-    {
         "title": "Gemini 3.5 Flash scores 76.7% on SimpleBench, just 0.2% short of GPT 5.5 Pro's score",
         "link": "https://www.reddit.com/r/singularity/comments/1tir6qk/gemini_35_flash_scores_767_on_simplebench_just_02/",
         "image": "https://preview.redd.it/0g5uwrkolb2h1.png?width=640&crop=smart&auto=webp&s=e5a53cd9ada743efea48f3e1d4fdb971879c4b63",
         "published": "2026-05-20T16:39:32+00:00"
-    },
-    {
-        "title": "Anthropic is officially set to be profitable as of Q2 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj072c/anthropic_is_officially_set_to_be_profitable_as/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T21:47:25+00:00"
     },
     {
         "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
@@ -78,15 +72,21 @@
         "published": "2026-05-20T19:41:51+00:00"
     },
     {
-        "title": "I suspect the strength of Omni will be in its ability to edit videos - supercut of examples from twitter",
-        "link": "https://www.reddit.com/r/singularity/comments/1ti6ecq/i_suspect_the_strength_of_omni_will_be_in_its/",
-        "image": "https://external-preview.redd.it/eXcxc3hiaGJ6NjJoMQMbx6XE91cic5RiPvPsMz-k4SsvUsKGk2LQ8kcYk7eC.png?width=640&crop=smart&auto=webp&s=0ec39cdc0b627b41b31a1a2494e04bbe22a952e7",
-        "published": "2026-05-20T01:06:49+00:00"
+        "title": "Anthropic is paying SpaceX $15 billion per year",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj3csv/anthropic_is_paying_spacex_15_billion_per_year/",
+        "image": "https://external-preview.redd.it/kZlRT_fgAGUfkAHBlju2sCBMQWPK1IqJAEihg6tkdr4.jpeg?width=640&crop=smart&auto=webp&s=1a25e3f86451906f81b70bc428ad1051bb6e0034",
+        "published": "2026-05-20T23:51:10+00:00"
     },
     {
         "title": "Gemini Omni is actually insane",
         "link": "https://www.reddit.com/r/singularity/comments/1tiawwz/gemini_omni_is_actually_insane/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-20T04:27:54+00:00"
+    },
+    {
+        "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Will creativity and critical thinking save us?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj39zk/marc_andreessen_the_remaining_human_workers_are/",
+        "image": "https://preview.redd.it/kzy41tk0qd2h1.jpeg?width=640&crop=smart&auto=webp&s=9c1b5ba1c816ea0d843fc975bc22fbe10b10c7bf",
+        "published": "2026-05-20T23:47:47+00:00"
     }
 ]
