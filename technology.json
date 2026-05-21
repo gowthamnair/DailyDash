@@ -18,16 +18,16 @@
         "published": "2026-05-20T12:15:52+00:00"
     },
     {
-        "title": "AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn\u2019t appear to be happening at the speed we believed",
-        "link": "https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/",
-        "image": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c",
-        "published": "2026-05-20T09:31:24+00:00"
-    },
-    {
         "title": "The biggest data center ever is becoming a huge problem in Utah",
         "link": "https://www.reddit.com/r/technology/comments/1tili1z/the_biggest_data_center_ever_is_becoming_a_huge/",
         "image": "https://external-preview.redd.it/hRwOmKgZR2A8Thtq-p5qmW9Uuu33OZzvSe-BVRJmSXM.jpeg?width=640&crop=smart&auto=webp&s=7e0713ebad842ea6ab98c47760908cbc249111f4",
         "published": "2026-05-20T13:19:42+00:00"
+    },
+    {
+        "title": "AI Is Too Expensive: AI is, as it stands, not economically viable for anybody involved other than the construction firms, NVIDIA, and the surrounding hardware companies benefitting from the irrational exuberance of a data center buildout that doesn\u2019t appear to be happening at the speed we believed",
+        "link": "https://www.reddit.com/r/technology/comments/1tigi9j/ai_is_too_expensive_ai_is_as_it_stands_not/",
+        "image": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c",
+        "published": "2026-05-20T09:31:24+00:00"
     },
     {
         "title": "The American Rebellion Against AI Is Gaining Steam - Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis",
@@ -48,18 +48,6 @@
         "published": "2026-05-20T15:03:32+00:00"
     },
     {
-        "title": "The AI bots are coming and the young are booing, not applauding",
-        "link": "https://www.reddit.com/r/technology/comments/1tidgd5/the_ai_bots_are_coming_and_the_young_are_booing/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T06:40:00+00:00"
-    },
-    {
-        "title": "Barnes & Noble CEO backs selling AI-written books in stores",
-        "link": "https://www.reddit.com/r/technology/comments/1ticax1/barnes_noble_ceo_backs_selling_aiwritten_books_in/",
-        "image": "https://external-preview.redd.it/6u1akxvltMOGIMwwpujDi30W0ep-hkozhKo9bHTN26I.jpeg?width=640&crop=smart&auto=webp&s=b9036843428d36a43689edda729e7a08b31828d0",
-        "published": "2026-05-20T05:38:37+00:00"
-    },
-    {
         "title": "Disney sued over facial recognition technology at California parks",
         "link": "https://www.reddit.com/r/technology/comments/1tiu5pm/disney_sued_over_facial_recognition_technology_at/",
         "image": "https://external-preview.redd.it/B2xIyHxM3tT17cvCY_ub0mHUxhEfUGdYOkPJbfILfo4.jpeg?width=640&crop=smart&auto=webp&s=f5619264613927f031043189db254289521d3174",
@@ -72,21 +60,33 @@
         "published": "2026-05-20T15:20:28+00:00"
     },
     {
-        "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation",
-        "link": "https://www.reddit.com/r/technology/comments/1ti8nr4/meta_begins_laying_off_8000_employees_amid_ai/",
-        "image": "https://external-preview.redd.it/p6XOYJKFWLIo_OcmmzL2dZoqg5O3dRuHAlA4-0Ev7qE.jpeg?width=640&crop=smart&auto=webp&s=b7cf0cf8cc8c43fb025faf20b8eae34074f5854f",
-        "published": "2026-05-20T02:44:41+00:00"
-    },
-    {
         "title": "Microsoft is pulling the plug on SMS codes, wants you to switch to passkeys",
         "link": "https://www.reddit.com/r/technology/comments/1tisk3h/microsoft_is_pulling_the_plug_on_sms_codes_wants/",
         "image": "https://external-preview.redd.it/MZ0qQKivwKdczcKCOYlVrVN4LT7sgQxoX9c8awJue3g.png?width=640&crop=smart&auto=webp&s=25977021c5d175ddc4ee33f9f78e6c8fa8924960",
         "published": "2026-05-20T17:26:16+00:00"
     },
     {
+        "title": "Records show Cleveland\u2019s Flock cameras used for immigration searches. City says Flock accidentally connected drones to the network",
+        "link": "https://www.reddit.com/r/technology/comments/1tj2sbd/records_show_clevelands_flock_cameras_used_for/",
+        "image": "https://external-preview.redd.it/-66ZnKCK0AvcbfRS7Po3BRZrbxWJ5tsxf0ORd6bHj8k.jpeg?width=640&crop=smart&auto=webp&s=43d4c1a673052268dcf5afc7a5a9ac8cbf50ef28",
+        "published": "2026-05-20T23:27:20+00:00"
+    },
+    {
         "title": "Communities are blocking billions in data centers. Big Tech has wagered $1 trillion otherwise",
         "link": "https://www.reddit.com/r/technology/comments/1tisb8f/communities_are_blocking_billions_in_data_centers/",
         "image": "https://external-preview.redd.it/Zww65Zqbs03ckC-aSs8GCFrUCwlBesUSIbOabD7xP70.jpeg?width=640&crop=smart&auto=webp&s=8270196bcff47ee4324cb6a459fc5363d36de9f9",
         "published": "2026-05-20T17:18:05+00:00"
+    },
+    {
+        "title": "Anthropic is paying SpaceX $15 billion per year",
+        "link": "https://www.reddit.com/r/technology/comments/1tj3sqj/anthropic_is_paying_spacex_15_billion_per_year/",
+        "image": "https://external-preview.redd.it/kZlRT_fgAGUfkAHBlju2sCBMQWPK1IqJAEihg6tkdr4.jpeg?width=640&crop=smart&auto=webp&s=1a25e3f86451906f81b70bc428ad1051bb6e0034",
+        "published": "2026-05-21T00:09:13+00:00"
+    },
+    {
+        "title": "Dutch organizations demand that Meta stop blocking LGBTQIA+ accounts without a valid reason and that there be an option to challenge such decisions",
+        "link": "https://www.reddit.com/r/technology/comments/1tikugf/dutch_organizations_demand_that_meta_stop/",
+        "image": "https://external-preview.redd.it/36pIBj43Qg3PiodsFkritgn_b4cNlIocU94noTUgAVA.jpeg?width=640&crop=smart&auto=webp&s=99f082cca820acf760858ae15329c4717d6894e1",
+        "published": "2026-05-20T12:54:19+00:00"
     }
 ]

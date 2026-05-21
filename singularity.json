@@ -6,12 +6,6 @@
         "published": "2026-05-20T06:55:00+00:00"
     },
     {
-        "title": "Claude is telling users to go to sleep mid-session and nobody, including Anthropic, seems to fully understand why it keeps doing it",
-        "link": "https://www.reddit.com/r/singularity/comments/1tib9so/claude_is_telling_users_to_go_to_sleep_midsession/",
-        "image": "https://external-preview.redd.it/-QJ0HNvZvn3m0fsM7g8loVpa1FuSx-zD8odPxFySzvo.jpeg?width=640&crop=smart&auto=webp&s=63cb911f274a16ed7a7945efe14cad0e58439fb5",
-        "published": "2026-05-20T04:45:48+00:00"
-    },
-    {
         "title": "Mark Zuckerberg\u2019s Meta kicks off major bloodbath with 8,000 layoffs (about 10% of its workforce) as AI roils tech giant",
         "link": "https://www.reddit.com/r/singularity/comments/1tiosgg/mark_zuckerbergs_meta_kicks_off_major_bloodbath/",
         "image": "https://external-preview.redd.it/JhWA88PhPaO3yjnxC2ZvMdRAxV4Hho8X2_LiPi6nQkI.jpeg?width=640&crop=smart&auto=webp&s=32cc38f1cb3c418be69fe688ca39ef7764bce573",
@@ -22,6 +16,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tiut2d/midjourney_says_their_research_was_set_back_by_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-20T18:41:55+00:00"
+    },
+    {
+        "title": "Anthropic is officially set to be profitable as of Q2 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj072c/anthropic_is_officially_set_to_be_profitable_as/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T21:47:25+00:00"
     },
     {
         "title": "OpenAI general purpose model had a breakthrough on famous 80 year old Erdos problem. \u201cThis marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics\u201d",
@@ -36,22 +36,22 @@
         "published": "2026-05-20T06:55:50+00:00"
     },
     {
-        "title": "Anthropic is officially set to be profitable as of Q2 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj072c/anthropic_is_officially_set_to_be_profitable_as/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T21:47:25+00:00"
-    },
-    {
         "title": "Google Just Turned Street View Into a Video Game",
         "link": "https://www.reddit.com/r/singularity/comments/1tieu1d/google_just_turned_street_view_into_a_video_game/",
         "image": "https://external-preview.redd.it/5vpdAMn5tGjeWfUREEGPP0pG5W_lPuVMtaNfLwFEnY0.jpeg?width=320&crop=smart&auto=webp&s=7410fe295f54773549061d4830bef6111105e679",
         "published": "2026-05-20T07:56:19+00:00"
     },
     {
-        "title": "Gemini 3.5 Flash costs more to run while being less Intelligent than 3.1 Pro",
-        "link": "https://www.reddit.com/r/singularity/comments/1ti8h9s/gemini_35_flash_costs_more_to_run_while_being/",
-        "image": "https://preview.redd.it/o6dyw0jlf72h1.jpg?width=140&height=46&auto=webp&s=a68656d64f0d46b66b151e347eb62b0ff1d689d9",
-        "published": "2026-05-20T02:37:02+00:00"
+        "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
+        "link": "https://www.reddit.com/r/singularity/comments/1tiw0vq/a_glimpse_of_level_4_openai_model_helps_challenge/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-20T19:22:42+00:00"
+    },
+    {
+        "title": "Protests by the end of the year?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj87da/protests_by_the_end_of_the_year/",
+        "image": "https://preview.redd.it/z93cia7hse2h1.png?width=320&crop=smart&auto=webp&s=32ddec8e0c7adf6a1c5c782a78adddd8029085f5",
+        "published": "2026-05-21T03:21:08+00:00"
     },
     {
         "title": "Gemini 3.5 Flash scores 76.7% on SimpleBench, just 0.2% short of GPT 5.5 Pro's score",
@@ -60,10 +60,10 @@
         "published": "2026-05-20T16:39:32+00:00"
     },
     {
-        "title": "A glimpse of Level 4? OpenAI model helps challenge an 80-year-old math assumption",
-        "link": "https://www.reddit.com/r/singularity/comments/1tiw0vq/a_glimpse_of_level_4_openai_model_helps_challenge/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T19:22:42+00:00"
+        "title": "OAI researcher on Erdos problem: \u201cThis is the biggest deal in the history of AI so far. And it will look like a small deal at the end of the year.\u201d (Buckle up)",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj6tua/oai_researcher_on_erdos_problem_this_is_the/",
+        "image": "https://preview.redd.it/hbilprpohe2h1.jpeg?width=640&crop=smart&auto=webp&s=86c84ea2c1f2e37bc18ca35082fe709a90169e43",
+        "published": "2026-05-21T02:20:20+00:00"
     },
     {
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -78,10 +78,10 @@
         "published": "2026-05-20T23:51:10+00:00"
     },
     {
-        "title": "Gemini Omni is actually insane",
-        "link": "https://www.reddit.com/r/singularity/comments/1tiawwz/gemini_omni_is_actually_insane/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-20T04:27:54+00:00"
+        "title": "Gemini 3.5 Flash ranks #1 on Automation Bench (from Zapier), beating every other frontier model at a much lower cost",
+        "link": "https://www.reddit.com/r/singularity/comments/1tj9sqp/gemini_35_flash_ranks_1_on_automation_bench_from/",
+        "image": "https://preview.redd.it/lytdlygs5f2h1.jpeg?width=640&crop=smart&auto=webp&s=5890ac65413bdeb84616a9a74b36b724b96a0f8f",
+        "published": "2026-05-21T04:35:28+00:00"
     },
     {
         "title": "Marc Andreessen: \u201cThe remaining human workers are gonna be at a premium, not at a discount\u201d. Will creativity and critical thinking save us?",
