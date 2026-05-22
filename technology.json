@@ -18,16 +18,16 @@
         "published": "2026-05-22T17:01:23+00:00"
     },
     {
-        "title": "Google co-founder Sergey Brin donates $500,000 to California group leading the campaign against \u201cOverpaid CEO Tax\u201d",
-        "link": "https://www.reddit.com/r/technology/comments/1tkdnx7/google_cofounder_sergey_brin_donates_500000_to/",
-        "image": "https://external-preview.redd.it/-wYYNimm559BKdJnb-Ff6Ec7qOmjndzkfCfDUGfjf84.jpeg?width=640&crop=smart&auto=webp&s=fcd3f12a63d6566cef6301f1d07223c059b0ded0",
-        "published": "2026-05-22T09:20:29+00:00"
-    },
-    {
         "title": "Memory prices tipped to fall as China starts flooding the market with DRAM and NAND chips",
         "link": "https://www.reddit.com/r/technology/comments/1tkom9n/memory_prices_tipped_to_fall_as_china_starts/",
         "image": "https://external-preview.redd.it/i-yDkHCupu2L02__mtmmiFHaDzbGP_655xm6HWLMWnY.jpeg?width=640&crop=smart&auto=webp&s=41790426b059c70d3af267ed26bd8ec6f5dcb663",
         "published": "2026-05-22T16:48:26+00:00"
+    },
+    {
+        "title": "Google co-founder Sergey Brin donates $500,000 to California group leading the campaign against \u201cOverpaid CEO Tax\u201d",
+        "link": "https://www.reddit.com/r/technology/comments/1tkdnx7/google_cofounder_sergey_brin_donates_500000_to/",
+        "image": "https://external-preview.redd.it/-wYYNimm559BKdJnb-Ff6Ec7qOmjndzkfCfDUGfjf84.jpeg?width=640&crop=smart&auto=webp&s=fcd3f12a63d6566cef6301f1d07223c059b0ded0",
+        "published": "2026-05-22T09:20:29+00:00"
     },
     {
         "title": "Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss",
@@ -46,12 +46,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1tks0m5/reddit_stock_drops_6_after_meta_launches/",
         "image": "https://external-preview.redd.it/YFDYorM3xF5afqagmHhHfbWCm9S8ryL-0ee4xB2UbAU.jpeg?width=640&crop=smart&auto=webp&s=3c258f814b5fe516595f135c613c63c3d6bcd8dd",
         "published": "2026-05-22T18:44:58+00:00"
-    },
-    {
-        "title": "US political operatives built a surveillance app for Alberta separatists, a coordinated attack to destabilise Canada.",
-        "link": "https://www.reddit.com/r/technology/comments/1tk0n14/us_political_operatives_built_a_surveillance_app/",
-        "image": "https://external-preview.redd.it/NQGpCbXO7NZoxG14ibbUVDkHyn3CF24d_rGD3upXfCA.jpeg?width=640&crop=smart&auto=webp&s=efc0cd65b8fb8a72e124140f2700971157d18ab2",
-        "published": "2026-05-21T22:50:21+00:00"
     },
     {
         "title": "Starbucks scraps AI inventory tool after nine months",
@@ -78,15 +72,21 @@
         "published": "2026-05-22T08:09:56+00:00"
     },
     {
+        "title": "Trump Mobile confirms it exposed customers\u2019 personal data, including phone numbers and home addresses",
+        "link": "https://www.reddit.com/r/technology/comments/1tkrtxh/trump_mobile_confirms_it_exposed_customers/",
+        "image": "https://external-preview.redd.it/Ezq7HrRBd6SnZr-ZlnzRpgahbWw10JxbM_uZxVd1pt0.jpeg?width=640&crop=smart&auto=webp&s=8f34240d1d65a68e33b45caf207fbb58a2fbdeaf",
+        "published": "2026-05-22T18:38:32+00:00"
+    },
+    {
+        "title": "Americans overwhelmingly oppose data centers. Women most of all.",
+        "link": "https://www.reddit.com/r/technology/comments/1tkwro6/americans_overwhelmingly_oppose_data_centers/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-22T21:36:34+00:00"
+    },
+    {
         "title": "Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors",
         "link": "https://www.reddit.com/r/technology/comments/1tkiif1/pennsylvania_sues_ai_company_saying_its_chatbots/",
         "image": "https://external-preview.redd.it/2IVQrFE_t1HjpOo64EVHhmI_iv7tE57JYfkKDrqWZIk.jpeg?width=640&crop=smart&auto=webp&s=534bea0e7fe96e2d0f56f74267510acf1fe2027b",
         "published": "2026-05-22T13:08:45+00:00"
-    },
-    {
-        "title": "Nvidia really doesn't seem to care about gaming GPUs anymore \u2014 the company won't even bother to break down graphics sales in its big investor reports",
-        "link": "https://www.reddit.com/r/technology/comments/1tk2d26/nvidia_really_doesnt_seem_to_care_about_gaming/",
-        "image": "https://external-preview.redd.it/Yof16Rv72jvD3IJsUfIzfixg1TeB-7dISYYRFdT1otk.jpeg?width=640&crop=smart&auto=webp&s=272be3ae8ab95ccdd9226b796cf1ad3d3af84390",
-        "published": "2026-05-22T00:02:19+00:00"
     }
 ]
