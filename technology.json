@@ -6,12 +6,6 @@
         "published": "2026-05-22T02:59:14+00:00"
     },
     {
-        "title": "SpaceX not the behemoth everyone thought",
-        "link": "https://www.reddit.com/r/technology/comments/1tjjctj/spacex_not_the_behemoth_everyone_thought/",
-        "image": "https://external-preview.redd.it/4EAHGWd8l31mDlAM-maFwO4IFTnmp8MnozDshUvmE0s.jpeg?width=640&crop=smart&auto=webp&s=1ed36aa61853679506e808bdb8846bcd7dfccb0f",
-        "published": "2026-05-21T12:43:01+00:00"
-    },
-    {
         "title": "The Death of Entry-Level Jobs: 43% of CEOs plan to slash junior roles over the next two years, shifting hiring to older, mid-level workers as Al takes over routine tasks, creating a catastrophic bottleneck for the future workforce.",
         "link": "https://www.reddit.com/r/technology/comments/1tjt2rk/the_death_of_entrylevel_jobs_43_of_ceos_plan_to/",
         "image": "https://external-preview.redd.it/ruG1fu7vnYPlkztOh2F04XOAti932vF2ml0-KtmSwhU.jpeg?width=640&crop=smart&auto=webp&s=40924ee051c372096afe209f9c1070b58c807727",
@@ -24,16 +18,16 @@
         "published": "2026-05-21T17:56:14+00:00"
     },
     {
-        "title": "Samsung chip workers to get $340,000 average bonus in AI boom",
-        "link": "https://www.reddit.com/r/technology/comments/1tjoe73/samsung_chip_workers_to_get_340000_average_bonus/",
-        "image": "https://external-preview.redd.it/WyQLdq7QdINNMbsaWJo3pGlcIzflrywlroQbeWm5dkQ.jpeg?width=216&crop=smart&auto=webp&s=c0533dde39838f15d1e9c60fd1136cef2f4ddbc2",
-        "published": "2026-05-21T15:41:37+00:00"
-    },
-    {
         "title": "In desperate times, graduates find hope in humiliating tech CEOs / \u2018They deserve everything they\u2019re getting.\u2019 (Boos.)",
         "link": "https://www.reddit.com/r/technology/comments/1tjw7ww/in_desperate_times_graduates_find_hope_in/",
         "image": "https://external-preview.redd.it/xs4H0I7tSmvbi41P1AwoSZwyykI71dvbJJUA0JgUNOw.png?width=640&crop=smart&auto=webp&s=c41447ac31c52a6ccb1829d14c08cbf19971ad43",
         "published": "2026-05-21T20:04:33+00:00"
+    },
+    {
+        "title": "Samsung chip workers to get $340,000 average bonus in AI boom",
+        "link": "https://www.reddit.com/r/technology/comments/1tjoe73/samsung_chip_workers_to_get_340000_average_bonus/",
+        "image": "https://external-preview.redd.it/WyQLdq7QdINNMbsaWJo3pGlcIzflrywlroQbeWm5dkQ.jpeg?width=216&crop=smart&auto=webp&s=c0533dde39838f15d1e9c60fd1136cef2f4ddbc2",
+        "published": "2026-05-21T15:41:37+00:00"
     },
     {
         "title": "Google is about to ruin the internet",
@@ -48,16 +42,22 @@
         "published": "2026-05-21T19:16:00+00:00"
     },
     {
+        "title": "Why new grads are booing commencement speakers: There's an 'ambient anxiety that AI is going to make things dramatically worse'",
+        "link": "https://www.reddit.com/r/technology/comments/1tk720e/why_new_grads_are_booing_commencement_speakers/",
+        "image": "https://external-preview.redd.it/7zYGXaboYQK6HmS7BjG8C1uUOJhPR-q-bOxczfNhfYA.jpeg?width=640&crop=smart&auto=webp&s=0fd042cbad8c9ec7c4fe9891b4e0ab0e5b2969b1",
+        "published": "2026-05-22T03:31:31+00:00"
+    },
+    {
+        "title": "Google co-founder Sergey Brin donates $500,000 to California group leading the campaign against \u201cOverpaid CEO Tax\u201d",
+        "link": "https://www.reddit.com/r/technology/comments/1tkdnx7/google_cofounder_sergey_brin_donates_500000_to/",
+        "image": "https://external-preview.redd.it/-wYYNimm559BKdJnb-Ff6Ec7qOmjndzkfCfDUGfjf84.jpeg?width=640&crop=smart&auto=webp&s=fcd3f12a63d6566cef6301f1d07223c059b0ded0",
+        "published": "2026-05-22T09:20:29+00:00"
+    },
+    {
         "title": "US political operatives built a surveillance app for Alberta separatists, a coordinated attack to destabilise Canada.",
         "link": "https://www.reddit.com/r/technology/comments/1tk0n14/us_political_operatives_built_a_surveillance_app/",
         "image": "https://external-preview.redd.it/NQGpCbXO7NZoxG14ibbUVDkHyn3CF24d_rGD3upXfCA.jpeg?width=640&crop=smart&auto=webp&s=efc0cd65b8fb8a72e124140f2700971157d18ab2",
         "published": "2026-05-21T22:50:21+00:00"
-    },
-    {
-        "title": "Nearly 30,000 tech workers laid off this month so far, tracker says",
-        "link": "https://www.reddit.com/r/technology/comments/1tjshnm/nearly_30000_tech_workers_laid_off_this_month_so/",
-        "image": "https://external-preview.redd.it/KG_PWTbAprrjjCaI2BfuQ27iAMs9z7aTTp9zV8X0dME.jpeg?width=640&crop=smart&auto=webp&s=5f4662d07f9de1cc4106af3a7aa8dd6c7c8f4f00",
-        "published": "2026-05-21T17:58:00+00:00"
     },
     {
         "title": "Zillow loses thousands of listings in fight over \u201chidden\u201d homes | Zillow asked for a preliminary injunction as real estate industry fight heats up.",
@@ -66,10 +66,10 @@
         "published": "2026-05-21T21:04:34+00:00"
     },
     {
-        "title": "Why new grads are booing commencement speakers: There's an 'ambient anxiety that AI is going to make things dramatically worse'",
-        "link": "https://www.reddit.com/r/technology/comments/1tk720e/why_new_grads_are_booing_commencement_speakers/",
-        "image": "https://external-preview.redd.it/7zYGXaboYQK6HmS7BjG8C1uUOJhPR-q-bOxczfNhfYA.jpeg?width=640&crop=smart&auto=webp&s=0fd042cbad8c9ec7c4fe9891b4e0ab0e5b2969b1",
-        "published": "2026-05-22T03:31:31+00:00"
+        "title": "Nearly 30,000 tech workers laid off this month so far, tracker says",
+        "link": "https://www.reddit.com/r/technology/comments/1tjshnm/nearly_30000_tech_workers_laid_off_this_month_so/",
+        "image": "https://external-preview.redd.it/KG_PWTbAprrjjCaI2BfuQ27iAMs9z7aTTp9zV8X0dME.jpeg?width=640&crop=smart&auto=webp&s=5f4662d07f9de1cc4106af3a7aa8dd6c7c8f4f00",
+        "published": "2026-05-21T17:58:00+00:00"
     },
     {
         "title": "St. Charles City Council bans data centers",

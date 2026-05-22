@@ -12,6 +12,12 @@
         "published": "2026-05-21T15:38:31+00:00"
     },
     {
+        "title": "Figure AI celebrates 200 hours (8 days ~8 hours) of their humanoid robots handling packages",
+        "link": "https://www.reddit.com/r/singularity/comments/1tkd0fk/figure_ai_celebrates_200_hours_8_days_8_hours_of/",
+        "image": "https://external-preview.redd.it/YW1laXJqZzBqbjJoMVGFOvBt8YprxzDzKrFfFQDQih2D4Pu0QJJO3rnrdiNt.png?width=640&crop=smart&auto=webp&s=c67fdcf46c1239153779a082e076c17fc792c2c9",
+        "published": "2026-05-22T08:43:51+00:00"
+    },
+    {
         "title": "Google is cooking just give them sometime (gemini 3.5 pro)",
         "link": "https://www.reddit.com/r/singularity/comments/1tjwaef/google_is_cooking_just_give_them_sometime_gemini/",
         "image": "https://preview.redd.it/i4pw61zzrj2h1.jpeg?width=640&crop=smart&auto=webp&s=a914f2d5136a11aee2ac94ee3fca4415dc7b48ea",
@@ -24,16 +30,16 @@
         "published": "2026-05-21T16:58:50+00:00"
     },
     {
-        "title": "Figure AI celebrates 200 hours (8 days ~8 hours) of their humanoid robots handling packages",
-        "link": "https://www.reddit.com/r/singularity/comments/1tkd0fk/figure_ai_celebrates_200_hours_8_days_8_hours_of/",
-        "image": "https://external-preview.redd.it/YW1laXJqZzBqbjJoMVGFOvBt8YprxzDzKrFfFQDQih2D4Pu0QJJO3rnrdiNt.png?width=640&crop=smart&auto=webp&s=c67fdcf46c1239153779a082e076c17fc792c2c9",
-        "published": "2026-05-22T08:43:51+00:00"
-    },
-    {
         "title": "The new DEEP Robotics LynxS10 is very light, with only 20 kg you can even lift it with one hand. It can keep moving even after turning over, do side flips to recover and other advanced stunts.",
         "link": "https://www.reddit.com/r/singularity/comments/1tjneie/the_new_deep_robotics_lynxs10_is_very_light_with/",
         "image": "https://external-preview.redd.it/c2hzOXpwam9haTJoMRwV2W9r0yypyqRNhTZLSYlYeaNT9ZUqti2WjfTejHoE.png?width=640&crop=smart&auto=webp&s=2eb6b79a5abcb95895234af5bc3439ace718ace8",
         "published": "2026-05-21T15:08:39+00:00"
+    },
+    {
+        "title": "Erdos Unit Distance Problem - Gemini 3.1 Pro's interpretation",
+        "link": "https://www.reddit.com/r/singularity/comments/1tkaydy/erdos_unit_distance_problem_gemini_31_pros/",
+        "image": "https://preview.redd.it/giomwi3kym2h1.png?width=640&crop=smart&auto=webp&s=edd6435c870609c416d8793612bbbdc1658c98f5",
+        "published": "2026-05-22T06:49:10+00:00"
     },
     {
         "title": "Leaked recording: Mark Zuckerberg Addresses Staff Ahead of Mass AI Layoffs",
@@ -46,12 +52,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tjlseu/gemini_35_flash_ranks_1_on_the_apexagentsaa/",
         "image": "https://preview.redd.it/udx6fvpu0i2h1.jpeg?width=640&crop=smart&auto=webp&s=16c0217553be8a6bfe161c0cf20601a08a82beb8",
         "published": "2026-05-21T14:13:10+00:00"
-    },
-    {
-        "title": "Erdos Unit Distance Problem - Gemini 3.1 Pro's interpretation",
-        "link": "https://www.reddit.com/r/singularity/comments/1tkaydy/erdos_unit_distance_problem_gemini_31_pros/",
-        "image": "https://preview.redd.it/giomwi3kym2h1.png?width=640&crop=smart&auto=webp&s=edd6435c870609c416d8793612bbbdc1658c98f5",
-        "published": "2026-05-22T06:49:10+00:00"
     },
     {
         "title": "Wall Street Journal: The American Rebellion Against AI Is Gaining Steam",
@@ -78,15 +78,15 @@
         "published": "2026-05-21T15:11:29+00:00"
     },
     {
-        "title": "LLM de-censorer Heretic has been served a legal notice by Facebook (\"Meta\")",
-        "link": "https://www.reddit.com/r/singularity/comments/1tjvry0/llm_decensorer_heretic_has_been_served_a_legal/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-21T19:49:18+00:00"
-    },
-    {
         "title": "We have reached the singularity",
         "link": "https://www.reddit.com/r/singularity/comments/1tjp0jf/we_have_reached_the_singularity/",
         "image": "https://preview.redd.it/pryk4pbaki2h1.png?width=640&crop=smart&auto=webp&s=8cc5b0674a886d226e470788dba13ca1ac2f791d",
         "published": "2026-05-21T16:02:21+00:00"
+    },
+    {
+        "title": "#EngineAl Launches 10K-Unit #humanoid Production Line! T800 Rolls Off!",
+        "link": "https://www.reddit.com/r/singularity/comments/1tkb5cl/engineal_launches_10kunit_humanoid_production/",
+        "image": "https://external-preview.redd.it/JZyFN9gRGiIuVg1pcUpHdBcV5nX1IXeVoluHmUmxies.jpeg?width=320&crop=smart&auto=webp&s=eff64cca279c15af55ccbb569fa08528718018de",
+        "published": "2026-05-22T06:59:43+00:00"
     }
 ]
