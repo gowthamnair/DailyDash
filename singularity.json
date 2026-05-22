@@ -1,11 +1,5 @@
 [
     {
-        "title": "OAI researcher on Erdos problem: \u201cThis is the biggest deal in the history of AI so far. And it will look like a small deal at the end of the year.\u201d (Buckle up)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj6tua/oai_researcher_on_erdos_problem_this_is_the/",
-        "image": "https://preview.redd.it/hbilprpohe2h1.jpeg?width=640&crop=smart&auto=webp&s=86c84ea2c1f2e37bc18ca35082fe709a90169e43",
-        "published": "2026-05-21T02:20:20+00:00"
-    },
-    {
         "title": "Elon Musk's pay package reveals what SpaceX actually is: a $1 trillion monster built to colonize Mars",
         "link": "https://www.reddit.com/r/singularity/comments/1tjllk7/elon_musks_pay_package_reveals_what_spacex/",
         "image": "https://external-preview.redd.it/i3q1lolv_7-_Ij2rLzyRiYmNg3L7jdBoH48GAyUsf4k.jpeg?width=640&crop=smart&auto=webp&s=f461ef412bc13d8b50435c6f340fd338f3abb78d",
@@ -16,18 +10,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tjoarz/googles_latest_creation_gemini_35_flash_vs_all/",
         "image": "https://preview.redd.it/lhhdkbncdi2h1.png?width=140&height=98&auto=webp&s=a4498fb2646895003f5bdaa39c371a956532c432",
         "published": "2026-05-21T15:38:31+00:00"
-    },
-    {
-        "title": "Protests by the end of the year?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj87da/protests_by_the_end_of_the_year/",
-        "image": "https://preview.redd.it/z93cia7hse2h1.png?width=320&crop=smart&auto=webp&s=32ddec8e0c7adf6a1c5c782a78adddd8029085f5",
-        "published": "2026-05-21T03:21:08+00:00"
-    },
-    {
-        "title": "Gemini 3.5 Flash ranks #1 on Automation Bench (from Zapier), beating every other frontier model at a much lower cost",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj9sqp/gemini_35_flash_ranks_1_on_automation_bench_from/",
-        "image": "https://preview.redd.it/lytdlygs5f2h1.jpeg?width=640&crop=smart&auto=webp&s=5890ac65413bdeb84616a9a74b36b724b96a0f8f",
-        "published": "2026-05-21T04:35:28+00:00"
     },
     {
         "title": "Google is cooking just give them sometime (gemini 3.5 pro)",
@@ -42,28 +24,22 @@
         "published": "2026-05-21T15:08:39+00:00"
     },
     {
+        "title": "How misalignment starts",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjqnve/how_misalignment_starts/",
+        "image": "https://preview.redd.it/u4fi1a2fui2h1.jpeg?width=640&crop=smart&auto=webp&s=8b947005976b17e339dd02cde4ed7658c0158769",
+        "published": "2026-05-21T16:58:50+00:00"
+    },
+    {
         "title": "Leaked recording: Mark Zuckerberg Addresses Staff Ahead of Mass AI Layoffs",
         "link": "https://www.reddit.com/r/singularity/comments/1tjwa05/leaked_recording_mark_zuckerberg_addresses_staff/",
         "image": "https://external-preview.redd.it/NeQJtt38dPkypODoaQkcGc_yosJOscGdh93Hx0Un6o4.jpeg?width=320&crop=smart&auto=webp&s=4087e2f24146b662a4ffb14ab4e02b4e2fc6d999",
         "published": "2026-05-21T20:06:40+00:00"
     },
     {
-        "title": "if only Descartes could see LLMs now",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj8zen/if_only_descartes_could_see_llms_now/",
-        "image": "https://preview.redd.it/4kjykrczye2h1.png?width=640&crop=smart&auto=webp&s=35e651a7770f44c36451ed85cc4fb1d65985fdaf",
-        "published": "2026-05-21T03:57:27+00:00"
-    },
-    {
         "title": "Gemini 3.5 Flash ranks #1 on the APEX-Agents-AA benchmark, outperforming much larger models a whole size above it.",
         "link": "https://www.reddit.com/r/singularity/comments/1tjlseu/gemini_35_flash_ranks_1_on_the_apexagentsaa/",
         "image": "https://preview.redd.it/udx6fvpu0i2h1.jpeg?width=640&crop=smart&auto=webp&s=16c0217553be8a6bfe161c0cf20601a08a82beb8",
         "published": "2026-05-21T14:13:10+00:00"
-    },
-    {
-        "title": "How misalignment starts",
-        "link": "https://www.reddit.com/r/singularity/comments/1tjqnve/how_misalignment_starts/",
-        "image": "https://preview.redd.it/u4fi1a2fui2h1.jpeg?width=640&crop=smart&auto=webp&s=8b947005976b17e339dd02cde4ed7658c0158769",
-        "published": "2026-05-21T16:58:50+00:00"
     },
     {
         "title": "Wall Street Journal: The American Rebellion Against AI Is Gaining Steam",
@@ -78,15 +54,39 @@
         "published": "2026-05-21T21:03:53+00:00"
     },
     {
-        "title": "Qwen 3.7 Max scores 60.6% on SWE-Bench Pro",
-        "link": "https://www.reddit.com/r/singularity/comments/1tj95nl/qwen_37_max_scores_606_on_swebench_pro/",
-        "image": "https://preview.redd.it/jyiiwn2o0f2h1.png?width=140&height=52&auto=webp&s=d974af3e0f109a4e6f021bfd08af94c61e2bdf9a",
-        "published": "2026-05-21T04:04:57+00:00"
-    },
-    {
         "title": "Grok 4.3 tops the Consistency Leaderboard in the LLM Sycophancy Benchmark, largely because it is one of the most cautious models.",
         "link": "https://www.reddit.com/r/singularity/comments/1tjr3g5/grok_43_tops_the_consistency_leaderboard_in_the/",
         "image": "https://preview.redd.it/x3hg7dvjwi2h1.png?width=140&height=136&auto=webp&s=2261730780c7515fad281a9652c421f993e3e83f",
         "published": "2026-05-21T17:12:56+00:00"
+    },
+    {
+        "title": "Wall Street Journal: Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjnhjt/wall_street_journal_mindblowing_growth_is_about/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-21T15:11:29+00:00"
+    },
+    {
+        "title": "DARPA's neural interface program went dark after Phase III. Germany just awarded the largest single research grant in EU history for passive BCI. Here is the documented timeline nobody is connecting.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjciw0/darpas_neural_interface_program_went_dark_after/",
+        "image": "https://preview.redd.it/yjz027j6vf2h1.jpeg?width=640&crop=smart&auto=webp&s=a6199097ebce17fa3044f0ed23504f57d8de222c",
+        "published": "2026-05-21T06:57:46+00:00"
+    },
+    {
+        "title": "LLM de-censorer Heretic has been served a legal notice by Facebook (\"Meta\")",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjvry0/llm_decensorer_heretic_has_been_served_a_legal/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-21T19:49:18+00:00"
+    },
+    {
+        "title": "We have reached the singularity",
+        "link": "https://www.reddit.com/r/singularity/comments/1tjp0jf/we_have_reached_the_singularity/",
+        "image": "https://preview.redd.it/pryk4pbaki2h1.png?width=640&crop=smart&auto=webp&s=8cc5b0674a886d226e470788dba13ca1ac2f791d",
+        "published": "2026-05-21T16:02:21+00:00"
+    },
+    {
+        "title": "Figure Livestream ends after 200 hours",
+        "link": "https://www.reddit.com/r/singularity/comments/1tk4abu/figure_livestream_ends_after_200_hours/",
+        "image": "https://external-preview.redd.it/MhYqEYTdvwg4fOPlHGmu3C1yZJkhRI48wLRnml0Vmt0.jpeg?width=320&crop=smart&auto=webp&s=b12c990a5f59eaf07bc843fa87078fee60122c55",
+        "published": "2026-05-22T01:27:32+00:00"
     }
 ]
