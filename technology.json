@@ -1,11 +1,5 @@
 [
     {
-        "title": "Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI \u2014 actual intelligence'",
-        "link": "https://www.reddit.com/r/technology/comments/1tk6c3q/apple_cofounder_steve_wozniak_got_cheers_not_boos/",
-        "image": "https://external-preview.redd.it/loXVSTNyafUYKZ33EGkCssUf4Lq6wICr2KgceLp7wPw.jpeg?width=640&crop=smart&auto=webp&s=2fdc91fdcc6956c2dec3803b896db8a6cb803dae",
-        "published": "2026-05-22T02:59:14+00:00"
-    },
-    {
         "title": "Kash Patel's Apparel Site Is Trying To Trick Visitors Into Installing Malware",
         "link": "https://www.reddit.com/r/technology/comments/1tkjs3u/kash_patels_apparel_site_is_trying_to_trick/",
         "image": "https://external-preview.redd.it/69rEIBBl2Fqf6gvbpHhiTo4WAAnEBdUsnazw52DIaAk.jpeg?width=640&crop=smart&auto=webp&s=430fb519ab9c2d8e14af25a17ffdb7e2dcbc57f6",
@@ -30,6 +24,12 @@
         "published": "2026-05-22T18:44:58+00:00"
     },
     {
+        "title": "Americans overwhelmingly oppose data centers. Women most of all.",
+        "link": "https://www.reddit.com/r/technology/comments/1tkwro6/americans_overwhelmingly_oppose_data_centers/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-22T21:36:34+00:00"
+    },
+    {
         "title": "Google co-founder Sergey Brin donates $500,000 to California group leading the campaign against \u201cOverpaid CEO Tax\u201d",
         "link": "https://www.reddit.com/r/technology/comments/1tkdnx7/google_cofounder_sergey_brin_donates_500000_to/",
         "image": "https://external-preview.redd.it/-wYYNimm559BKdJnb-Ff6Ec7qOmjndzkfCfDUGfjf84.jpeg?width=640&crop=smart&auto=webp&s=fcd3f12a63d6566cef6301f1d07223c059b0ded0",
@@ -40,18 +40,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1tkdiqk/gov_gavin_newsom_to_sign_executive_order_aimed_at/",
         "image": "https://external-preview.redd.it/3Q13oUyc4UMmCIkdYtdw2wNjhbD-DxiyjSeECnLHU2Y.jpeg?width=640&crop=smart&auto=webp&s=c855c4dae97513c446817c6e6f7d49fee394c2a9",
         "published": "2026-05-22T09:12:38+00:00"
-    },
-    {
-        "title": "Why new grads are booing commencement speakers: There's an 'ambient anxiety that AI is going to make things dramatically worse'",
-        "link": "https://www.reddit.com/r/technology/comments/1tk720e/why_new_grads_are_booing_commencement_speakers/",
-        "image": "https://external-preview.redd.it/7zYGXaboYQK6HmS7BjG8C1uUOJhPR-q-bOxczfNhfYA.jpeg?width=640&crop=smart&auto=webp&s=0fd042cbad8c9ec7c4fe9891b4e0ab0e5b2969b1",
-        "published": "2026-05-22T03:31:31+00:00"
-    },
-    {
-        "title": "Americans overwhelmingly oppose data centers. Women most of all.",
-        "link": "https://www.reddit.com/r/technology/comments/1tkwro6/americans_overwhelmingly_oppose_data_centers/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-22T21:36:34+00:00"
     },
     {
         "title": "Starbucks scraps AI inventory tool after nine months",
@@ -78,15 +66,27 @@
         "published": "2026-05-22T18:38:32+00:00"
     },
     {
-        "title": "Anthropic\u2019s Boris Cherny, who says engineering is \u2018dead,\u2019 says he is beginning to get sick of the term \"vibe coding\"",
-        "link": "https://www.reddit.com/r/technology/comments/1tkcexe/anthropics_boris_cherny_who_says_engineering_is/",
-        "image": "https://external-preview.redd.it/Qzt7MXvqv5EqKX8VD8MWiRsLxOmb-xJnoG9acYgwmPU.jpeg?width=640&crop=smart&auto=webp&s=934478b46f14a9cd6fab6bb72eb96da5db2b402a",
-        "published": "2026-05-22T08:09:56+00:00"
+        "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees",
+        "link": "https://www.reddit.com/r/technology/comments/1tl5079/microsoft_reports_are_exposing_ais_real_cost/",
+        "image": "https://external-preview.redd.it/lXLwOxqHc-23HmzgXg-642hVsJM-dJq_LT7YHFw6y8o.jpeg?width=640&crop=smart&auto=webp&s=e006a77710b35738569038f9499c21850551ac5d",
+        "published": "2026-05-23T03:32:15+00:00"
     },
     {
         "title": "A Meta employee gets real about the horror of working there right now",
         "link": "https://www.reddit.com/r/technology/comments/1tkkmhj/a_meta_employee_gets_real_about_the_horror_of/",
         "image": "https://external-preview.redd.it/TSYyc2wpWzV4QIRaaYCO5YnaeL7_DA4g4ysvYZSSJHw.png?width=640&crop=smart&auto=webp&s=f6139f30b73bd75bacae3a15a6f706f02397205a",
         "published": "2026-05-22T14:27:47+00:00"
+    },
+    {
+        "title": "Anthropic\u2019s Boris Cherny, who says engineering is \u2018dead,\u2019 says he is beginning to get sick of the term \"vibe coding\"",
+        "link": "https://www.reddit.com/r/technology/comments/1tkcexe/anthropics_boris_cherny_who_says_engineering_is/",
+        "image": "https://external-preview.redd.it/Qzt7MXvqv5EqKX8VD8MWiRsLxOmb-xJnoG9acYgwmPU.jpeg?width=640&crop=smart&auto=webp&s=934478b46f14a9cd6fab6bb72eb96da5db2b402a",
+        "published": "2026-05-22T08:09:56+00:00"
+    },
+    {
+        "title": "Bank boss sorry after describing workers as 'lower value human capital'",
+        "link": "https://www.reddit.com/r/technology/comments/1tkzoll/bank_boss_sorry_after_describing_workers_as_lower/",
+        "image": "https://external-preview.redd.it/gvkU87BLdOXdiHS3WdVts_tfj3Kd5r67A-xDA-tyBWY.jpeg?width=640&crop=smart&auto=webp&s=9828d50c20a59dd60598949068cce03d571dbae4",
+        "published": "2026-05-22T23:34:17+00:00"
     }
 ]
