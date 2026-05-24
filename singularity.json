@@ -12,12 +12,6 @@
         "published": "2026-05-24T12:44:48+00:00"
     },
     {
-        "title": "Mythos 1 has been spotted in Claude Code",
-        "link": "https://www.reddit.com/r/singularity/comments/1tluzbd/mythos_1_has_been_spotted_in_claude_code/",
-        "image": "https://preview.redd.it/htd50hdhxy2h1.png?width=640&crop=smart&auto=webp&s=366bc8d06e26df0dcb0c0c39084094be3c4228a7",
-        "published": "2026-05-23T23:04:31+00:00"
-    },
-    {
         "title": "How I feel like responding every time someone says AI is just a next token predictor (as if they aren't)",
         "link": "https://www.reddit.com/r/singularity/comments/1tm3zis/how_i_feel_like_responding_every_time_someone/",
         "image": "https://preview.redd.it/zstap9hd213h1.jpeg?width=320&crop=smart&auto=webp&s=5dc6bd220987f9993d96f8335490e95663d1a950",
@@ -28,6 +22,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tmduxh/interesting_article_about_the_cyber_models/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-24T14:34:29+00:00"
+    },
+    {
+        "title": "99% of CEOs Expect AI-Driven Layoffs in the Next Two Years",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmpjla/99_of_ceos_expect_aidriven_layoffs_in_the_next/",
+        "image": "https://external-preview.redd.it/1fj4O5GknBeTTKyE6FNSlTC1I_jSuBsDtPq0cR-XKuo.jpeg?width=640&crop=smart&auto=webp&s=96b00c871bb9dbbb7b0ec0264bf974fc34a45502",
+        "published": "2026-05-24T21:57:29+00:00"
     },
     {
         "title": "No Juniors Today, No Seniors in 2031",
@@ -42,27 +42,33 @@
         "published": "2026-05-24T02:03:34+00:00"
     },
     {
-        "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU \u2014 local Kimi K2.5 install achieved roughly 4 tokens per second",
-        "link": "https://www.reddit.com/r/singularity/comments/1tm1u3l/768gb_of_cheap_intel_optane_dimm_memory_sticks/",
-        "image": "https://external-preview.redd.it/9hux02vBBr2U5v8EP-ujY19wsgLbzF0xI-F2jOG58aU.png?width=640&crop=smart&auto=webp&s=95ce946c0a7e7a7ff62e54a7764396b51d90a263",
-        "published": "2026-05-24T04:24:19+00:00"
-    },
-    {
-        "title": "99% of CEOs Expect AI-Driven Layoffs in the Next Two Years",
-        "link": "https://www.reddit.com/r/singularity/comments/1tmpjla/99_of_ceos_expect_aidriven_layoffs_in_the_next/",
-        "image": "https://external-preview.redd.it/1fj4O5GknBeTTKyE6FNSlTC1I_jSuBsDtPq0cR-XKuo.jpeg?width=640&crop=smart&auto=webp&s=96b00c871bb9dbbb7b0ec0264bf974fc34a45502",
-        "published": "2026-05-24T21:57:29+00:00"
-    },
-    {
         "title": "Palantir Gets an Initial $3.9 Million to Spy on Federal Workers",
         "link": "https://www.reddit.com/r/singularity/comments/1tml7gz/palantir_gets_an_initial_39_million_to_spy_on/",
         "image": "https://external-preview.redd.it/etf14VlY6WwWb4HEG0c35MYcQKmcrbU47FRzO-toJn0.jpeg?width=640&crop=smart&auto=webp&s=6e17cc5fe60865ab6f9e3e8834780b5f9e28fae1",
         "published": "2026-05-24T19:08:37+00:00"
     },
     {
+        "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU \u2014 local Kimi K2.5 install achieved roughly 4 tokens per second",
+        "link": "https://www.reddit.com/r/singularity/comments/1tm1u3l/768gb_of_cheap_intel_optane_dimm_memory_sticks/",
+        "image": "https://external-preview.redd.it/9hux02vBBr2U5v8EP-ujY19wsgLbzF0xI-F2jOG58aU.png?width=640&crop=smart&auto=webp&s=95ce946c0a7e7a7ff62e54a7764396b51d90a263",
+        "published": "2026-05-24T04:24:19+00:00"
+    },
+    {
         "title": "Golfing and stylistically aligning a proof using Claude Code | Another Certified Hood Classic by Terrance Tao and Claude",
         "link": "https://www.reddit.com/r/singularity/comments/1tlw3l1/golfing_and_stylistically_aligning_a_proof_using/",
         "image": "https://external-preview.redd.it/0P8BrnkVjXpduQT61j5NFqBsUglHQqdVnIlxXDki6UI.jpeg?width=320&crop=smart&auto=webp&s=1d88841e708f35632c06a3e44b5fa192ce74303e",
         "published": "2026-05-23T23:53:55+00:00"
+    },
+    {
+        "title": "Provenance: A survival toolkit for an AI dominant information landscape",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmq9vy/provenance_a_survival_toolkit_for_an_ai_dominant/",
+        "image": "https://external-preview.redd.it/VPR1_fmlPnkxi-6-5WrVYbqz2WCBUwPZhRPzCLnn_ZM.jpeg?width=640&crop=smart&auto=webp&s=2cbae9d22a985aa9f60ff3d49698a02dba50ab27",
+        "published": "2026-05-24T22:26:59+00:00"
+    },
+    {
+        "title": "You just know how it'll go...",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmqkiw/you_just_know_how_itll_go/",
+        "image": "https://preview.redd.it/h79scnnmx53h1.png?width=640&crop=smart&auto=webp&s=19a08a478a5e21d8c6a65575f939a61fd6cab94b",
+        "published": "2026-05-24T22:39:12+00:00"
     }
 ]
