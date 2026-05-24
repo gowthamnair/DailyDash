@@ -30,12 +30,6 @@
         "published": "2026-05-23T23:04:31+00:00"
     },
     {
-        "title": "Checkmate",
-        "link": "https://www.reddit.com/r/singularity/comments/1tlsu2t/checkmate/",
-        "image": "https://preview.redd.it/g3830r00hy2h1.png?width=640&crop=smart&auto=webp&s=eabd7a7cbb38e52dd48affab9cdaedb5d50891e3",
-        "published": "2026-05-23T21:32:08+00:00"
-    },
-    {
         "title": "How I feel like responding every time someone says AI is just a next token predictor (as if they aren't)",
         "link": "https://www.reddit.com/r/singularity/comments/1tm3zis/how_i_feel_like_responding_every_time_someone/",
         "image": "https://preview.redd.it/zstap9hd213h1.jpeg?width=320&crop=smart&auto=webp&s=5dc6bd220987f9993d96f8335490e95663d1a950",
@@ -54,6 +48,12 @@
         "published": "2026-05-24T14:34:29+00:00"
     },
     {
+        "title": "No Juniors Today, No Seniors in 2031",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmlq35/no_juniors_today_no_seniors_in_2031/",
+        "image": "https://external-preview.redd.it/T4pALmatKCLfMJp5UyC8QI-pLBVFaa5VO5GQKKvCiog.jpeg?width=640&crop=smart&auto=webp&s=276126ca78d49fe4695c3c98f30f77a6bc809107",
+        "published": "2026-05-24T19:28:05+00:00"
+    },
+    {
         "title": "Apple\u2019s Open-Source 3D AI Generation Is Here: LiTo",
         "link": "https://www.reddit.com/r/singularity/comments/1tlywjr/apples_opensource_3d_ai_generation_is_here_lito/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -64,12 +64,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tm1u3l/768gb_of_cheap_intel_optane_dimm_memory_sticks/",
         "image": "https://external-preview.redd.it/9hux02vBBr2U5v8EP-ujY19wsgLbzF0xI-F2jOG58aU.png?width=640&crop=smart&auto=webp&s=95ce946c0a7e7a7ff62e54a7764396b51d90a263",
         "published": "2026-05-24T04:24:19+00:00"
-    },
-    {
-        "title": "No Juniors Today, No Seniors in 2031",
-        "link": "https://www.reddit.com/r/singularity/comments/1tmlq35/no_juniors_today_no_seniors_in_2031/",
-        "image": "https://external-preview.redd.it/T4pALmatKCLfMJp5UyC8QI-pLBVFaa5VO5GQKKvCiog.jpeg?width=640&crop=smart&auto=webp&s=276126ca78d49fe4695c3c98f30f77a6bc809107",
-        "published": "2026-05-24T19:28:05+00:00"
     },
     {
         "title": "Palantir Gets an Initial $3.9 Million to Spy on Federal Workers",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tmhswv/highstakes_game_of_musical_chairs/",
         "image": "https://preview.redd.it/rubbgdfu943h1.jpeg?width=640&crop=smart&auto=webp&s=7cf405112ee0d0ac58833b52b08d279042b8842f",
         "published": "2026-05-24T17:03:47+00:00"
+    },
+    {
+        "title": "I built a local GUI for the TradingAgents framework for Multi Agent stock analysis.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmg6mp/i_built_a_local_gui_for_the_tradingagents/",
+        "image": "https://preview.redd.it/i90oxxk7n03h1.png?width=140&height=79&auto=webp&s=a65ba03129f4ad961a1519ba53b2707586596e0e",
+        "published": "2026-05-24T16:02:50+00:00"
     }
 ]
