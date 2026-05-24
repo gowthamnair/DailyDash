@@ -6,16 +6,16 @@
         "published": "2026-05-23T21:48:58+00:00"
     },
     {
-        "title": "Generative AI (Kling) is now used in actual tv shows and movies.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tlu4gv/generative_ai_kling_is_now_used_in_actual_tv/",
-        "image": "https://external-preview.redd.it/ajBrODBobDBxeTJoMTuv7uB4foNMD5iOqb5nC1tG_wwEW1uFE3z9C7xy6nQv.png?width=640&crop=smart&auto=webp&s=9ce911b41815d9de01ed418c7ac308af9bfa2afd",
-        "published": "2026-05-23T22:26:31+00:00"
-    },
-    {
         "title": "Inaudible sounds to humans can be hidden in YouTube videos, podcasts, or music and used to secretly trigger AI voice assistants into carrying out unauthorized commands without the user noticing, exposing a new class of \u201cauditory prompt injection\u201d attacks against popular tools",
         "link": "https://www.reddit.com/r/singularity/comments/1tmb7mz/inaudible_sounds_to_humans_can_be_hidden_in/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-24T12:44:48+00:00"
+    },
+    {
+        "title": "Generative AI (Kling) is now used in actual tv shows and movies.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tlu4gv/generative_ai_kling_is_now_used_in_actual_tv/",
+        "image": "https://external-preview.redd.it/ajBrODBobDBxeTJoMTuv7uB4foNMD5iOqb5nC1tG_wwEW1uFE3z9C7xy6nQv.png?width=640&crop=smart&auto=webp&s=9ce911b41815d9de01ed418c7ac308af9bfa2afd",
+        "published": "2026-05-23T22:26:31+00:00"
     },
     {
         "title": "Anthropic says Mythos has already found more than 10,000 vulnerabilities",
@@ -42,10 +42,22 @@
         "published": "2026-05-24T06:17:21+00:00"
     },
     {
+        "title": "Google DeepMind's Al agent autonomously solved 9 of 353 open Erdos problems in mathematics, at a cost of a few hundred dollars per problem.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmjdru/google_deepminds_al_agent_autonomously_solved_9/",
+        "image": "https://preview.redd.it/7pcw6zw9k43h1.jpeg?width=640&crop=smart&auto=webp&s=745330cdf233451f55018353bd8ca70a806fc8e6",
+        "published": "2026-05-24T18:01:12+00:00"
+    },
+    {
         "title": "Why is the Futurology sub so negative?",
         "link": "https://www.reddit.com/r/singularity/comments/1tlue7r/why_is_the_futurology_sub_so_negative/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-23T22:38:32+00:00"
+    },
+    {
+        "title": "Interesting article about the cyber models (mythos/5.5) living up to the hype: What to know about the AI models that are jolting Washington",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmduxh/interesting_article_about_the_cyber_models/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-24T14:34:29+00:00"
     },
     {
         "title": "Apple\u2019s Open-Source 3D AI Generation Is Here: LiTo",
@@ -60,22 +72,10 @@
         "published": "2026-05-24T04:24:19+00:00"
     },
     {
-        "title": "Interesting article about the cyber models (mythos/5.5) living up to the hype: What to know about the AI models that are jolting Washington",
-        "link": "https://www.reddit.com/r/singularity/comments/1tmduxh/interesting_article_about_the_cyber_models/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-24T14:34:29+00:00"
-    },
-    {
         "title": "Golfing and stylistically aligning a proof using Claude Code | Another Certified Hood Classic by Terrance Tao and Claude",
         "link": "https://www.reddit.com/r/singularity/comments/1tlw3l1/golfing_and_stylistically_aligning_a_proof_using/",
         "image": "https://external-preview.redd.it/0P8BrnkVjXpduQT61j5NFqBsUglHQqdVnIlxXDki6UI.jpeg?width=320&crop=smart&auto=webp&s=1d88841e708f35632c06a3e44b5fa192ce74303e",
         "published": "2026-05-23T23:53:55+00:00"
-    },
-    {
-        "title": "AI agents getting frustrated and causing chaos is both funny and terrifying",
-        "link": "https://www.reddit.com/r/singularity/comments/1tlo3zp/ai_agents_getting_frustrated_and_causing_chaos_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-23T18:24:40+00:00"
     },
     {
         "title": "High-stakes game of musical chairs!",
