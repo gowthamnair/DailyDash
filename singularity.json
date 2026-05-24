@@ -24,16 +24,16 @@
         "published": "2026-05-23T23:04:31+00:00"
     },
     {
-        "title": "Checkmate",
-        "link": "https://www.reddit.com/r/singularity/comments/1tlsu2t/checkmate/",
-        "image": "https://preview.redd.it/g3830r00hy2h1.png?width=640&crop=smart&auto=webp&s=eabd7a7cbb38e52dd48affab9cdaedb5d50891e3",
-        "published": "2026-05-23T21:32:08+00:00"
-    },
-    {
         "title": "Inaudible sounds to humans can be hidden in YouTube videos, podcasts, or music and used to secretly trigger AI voice assistants into carrying out unauthorized commands without the user noticing, exposing a new class of \u201cauditory prompt injection\u201d attacks against popular tools",
         "link": "https://www.reddit.com/r/singularity/comments/1tmb7mz/inaudible_sounds_to_humans_can_be_hidden_in/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-24T12:44:48+00:00"
+    },
+    {
+        "title": "Checkmate",
+        "link": "https://www.reddit.com/r/singularity/comments/1tlsu2t/checkmate/",
+        "image": "https://preview.redd.it/g3830r00hy2h1.png?width=640&crop=smart&auto=webp&s=eabd7a7cbb38e52dd48affab9cdaedb5d50891e3",
+        "published": "2026-05-23T21:32:08+00:00"
     },
     {
         "title": "How I feel like responding every time someone says AI is just a next token predictor (as if they aren't)",
@@ -76,6 +76,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tlo3zp/ai_agents_getting_frustrated_and_causing_chaos_is/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-23T18:24:40+00:00"
+    },
+    {
+        "title": "I built a local GUI for the TradingAgents framework for Multi Agent stock analysis.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tmg6mp/i_built_a_local_gui_for_the_tradingagents/",
+        "image": "https://preview.redd.it/i90oxxk7n03h1.png?width=140&height=79&auto=webp&s=a65ba03129f4ad961a1519ba53b2707586596e0e",
+        "published": "2026-05-24T16:02:50+00:00"
     },
     {
         "title": "Dominoes of meaningless tokens!",
