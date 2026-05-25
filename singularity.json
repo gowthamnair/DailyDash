@@ -18,12 +18,6 @@
         "published": "2026-05-25T19:09:12+00:00"
     },
     {
-        "title": "99% of CEOs Expect AI-Driven Layoffs in the Next Two Years",
-        "link": "https://www.reddit.com/r/singularity/comments/1tmpjla/99_of_ceos_expect_aidriven_layoffs_in_the_next/",
-        "image": "https://external-preview.redd.it/1fj4O5GknBeTTKyE6FNSlTC1I_jSuBsDtPq0cR-XKuo.jpeg?width=640&crop=smart&auto=webp&s=96b00c871bb9dbbb7b0ec0264bf974fc34a45502",
-        "published": "2026-05-24T21:57:29+00:00"
-    },
-    {
         "title": "One of the authors of \"Attention is All You Need\" just argued we should move past it. Pathway\u2019s Post-Transformer debate is worth watching",
         "link": "https://www.reddit.com/r/singularity/comments/1tnf90m/one_of_the_authors_of_attention_is_all_you_need/",
         "image": "https://preview.redd.it/b53mwvwxeb3h1.jpeg?width=640&crop=smart&auto=webp&s=d80bcd8aa8d3f99978d2fc5e9d965bdca781143c",
@@ -54,16 +48,16 @@
         "published": "2026-05-25T12:59:27+00:00"
     },
     {
-        "title": "Anthropic beats OpenAI on business adoption",
-        "link": "https://www.reddit.com/r/singularity/comments/1tn86lf/anthropic_beats_openai_on_business_adoption/",
-        "image": "https://external-preview.redd.it/SL2hS5D8t4TA_d6x1GkLoY3K7VnPeEwPulYJhSbvKlA.png?width=640&crop=smart&auto=webp&s=f5a0b13454e78a7773fd311861bfb6cbe7726fa4",
-        "published": "2026-05-25T12:48:10+00:00"
-    },
-    {
         "title": "New Gemini Omni Blows Competition Away",
         "link": "https://www.reddit.com/r/singularity/comments/1tnho5s/new_gemini_omni_blows_competition_away/",
         "image": "https://external-preview.redd.it/E5YBh1aKn2c2iuOUqee23i2SGChn0U7_p-xqJSeeIHA.png?width=640&crop=smart&auto=webp&s=59a3b32fdebbb93a25d82fbb1eefbb21edb7768d",
         "published": "2026-05-25T18:31:00+00:00"
+    },
+    {
+        "title": "Anthropic beats OpenAI on business adoption",
+        "link": "https://www.reddit.com/r/singularity/comments/1tn86lf/anthropic_beats_openai_on_business_adoption/",
+        "image": "https://external-preview.redd.it/SL2hS5D8t4TA_d6x1GkLoY3K7VnPeEwPulYJhSbvKlA.png?width=640&crop=smart&auto=webp&s=f5a0b13454e78a7773fd311861bfb6cbe7726fa4",
+        "published": "2026-05-25T12:48:10+00:00"
     },
     {
         "title": "Would it be right to say that human interactions will be valued more as we approach singularity?",
@@ -78,15 +72,21 @@
         "published": "2026-05-25T19:24:35+00:00"
     },
     {
+        "title": "Over the last 4ish months, the greater Reddit community has shifted from \"AI is all fake and going away\" towards \"We're all going to have no jobs\". It's in a direction I have been hoping to see for a long time - so what caused it?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tnfac4/over_the_last_4ish_months_the_greater_reddit/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-25T17:07:01+00:00"
+    },
+    {
         "title": "Do you really want the US to \u201cwin\u201d AI?",
         "link": "https://www.reddit.com/r/singularity/comments/1tms6va/do_you_really_want_the_us_to_win_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-24T23:48:43+00:00"
     },
     {
-        "title": "Over the last 4ish months, the greater Reddit community has shifted from \"AI is all fake and going away\" towards \"We're all going to have no jobs\". It's in a direction I have been hoping to see for a long time - so what caused it?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tnfac4/over_the_last_4ish_months_the_greater_reddit/",
+        "title": "Why are modern AI companies called \u201cAI\u201d should it not be called LLM?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tnlsre/why_are_modern_ai_companies_called_ai_should_it/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-25T17:07:01+00:00"
+        "published": "2026-05-25T21:01:50+00:00"
     }
 ]
