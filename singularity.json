@@ -1,11 +1,5 @@
 [
     {
-        "title": "The Strength of Gemini Omni is in video manipulation",
-        "link": "https://www.reddit.com/r/singularity/comments/1tniqkb/the_strength_of_gemini_omni_is_in_video/",
-        "image": "https://external-preview.redd.it/ZGNpbWlyZzkxYzNoMemB5-5odYUKROslWYSbIiMA50qqd7zmYnhTIbBR_bzQ.png?width=640&crop=smart&auto=webp&s=9d9ffe5c0d163e3ced3adad49d4e6f5e881a953b",
-        "published": "2026-05-25T19:09:12+00:00"
-    },
-    {
         "title": "What did Andrew Yang see at the AI conference?",
         "link": "https://www.reddit.com/r/singularity/comments/1to60f1/what_did_andrew_yang_see_at_the_ai_conference/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -16,12 +10,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tntdui/users_who_rage_quit_my_software/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-26T02:20:15+00:00"
-    },
-    {
-        "title": "New Gemini Omni Blows Competition Away",
-        "link": "https://www.reddit.com/r/singularity/comments/1tnho5s/new_gemini_omni_blows_competition_away/",
-        "image": "https://external-preview.redd.it/E5YBh1aKn2c2iuOUqee23i2SGChn0U7_p-xqJSeeIHA.png?width=640&crop=smart&auto=webp&s=59a3b32fdebbb93a25d82fbb1eefbb21edb7768d",
-        "published": "2026-05-25T18:31:00+00:00"
     },
     {
         "title": "Scientists trained an AI model using an IBM quantum computer \u2014 and it answered questions correctly that the base model couldn't",
@@ -42,10 +30,16 @@
         "published": "2026-05-26T13:16:56+00:00"
     },
     {
-        "title": "Anthropic\u2019s Chris Olah at the Vatican: \u201cWe keep finding things that are mysterious\u201devidence of AI introspection and large scale labor replacement",
-        "link": "https://www.reddit.com/r/singularity/comments/1to4gel/anthropics_chris_olah_at_the_vatican_we_keep/",
-        "image": "https://external-preview.redd.it/MnMzNzBwcHR5ZzNoMUDfnmhPJZ5Q_CSoivnfv60m27JJIM8RrkNV5P92x1hX.png?width=640&crop=smart&auto=webp&s=8acd44bac09faf96f2611da09e143a085fd65a0f",
-        "published": "2026-05-26T11:44:32+00:00"
+        "title": "Price wars begin. MiMo 2.5 Pro now costs the same as DeepSeek V4 Pro",
+        "link": "https://www.reddit.com/r/singularity/comments/1toeft6/price_wars_begin_mimo_25_pro_now_costs_the_same/",
+        "image": "https://preview.redd.it/yvkpwm1fri3h1.png?width=320&crop=smart&auto=webp&s=7f5bcd9dc20c8b051dd7a10b6de45835e9073b7c",
+        "published": "2026-05-26T17:47:13+00:00"
+    },
+    {
+        "title": "Mythos (using Claude code) also solves the unit distance problem recently handled by GPT 5.5, with a \"cute, simple proof\".",
+        "link": "https://www.reddit.com/r/singularity/comments/1toeii7/mythos_using_claude_code_also_solves_the_unit/",
+        "image": "https://preview.redd.it/wrey1712si3h1.png?width=640&crop=smart&auto=webp&s=ad4ee2af36ff83fdbefbf60324704b786c4fa81e",
+        "published": "2026-05-26T17:49:44+00:00"
     },
     {
         "title": "Extra High thinking level possibly with gemini 3.5 pro soon be released",
@@ -54,10 +48,10 @@
         "published": "2026-05-26T12:57:38+00:00"
     },
     {
-        "title": "What\u2019s this sub\u2019s take on the Vatican response to AI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tnr9me/whats_this_subs_take_on_the_vatican_response_to_ai/",
-        "image": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1",
-        "published": "2026-05-26T00:46:59+00:00"
+        "title": "Anthropic\u2019s Chris Olah at the Vatican: \u201cWe keep finding things that are mysterious\u201devidence of AI introspection and large scale labor replacement",
+        "link": "https://www.reddit.com/r/singularity/comments/1to4gel/anthropics_chris_olah_at_the_vatican_we_keep/",
+        "image": "https://external-preview.redd.it/MnMzNzBwcHR5ZzNoMUDfnmhPJZ5Q_CSoivnfv60m27JJIM8RrkNV5P92x1hX.png?width=640&crop=smart&auto=webp&s=8acd44bac09faf96f2611da09e143a085fd65a0f",
+        "published": "2026-05-26T11:44:32+00:00"
     },
     {
         "title": "Uber CEO is incredibly bullish position: AI is creating \"employees with superpowers\"",
@@ -66,22 +60,28 @@
         "published": "2026-05-26T14:59:06+00:00"
     },
     {
-        "title": "Uber CEO Dara Khosrowshahi said in an earnings call that Uber was slowing hiring to counter its investments in AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1to4fvf/uber_ceo_dara_khosrowshahi_said_in_an_earnings/",
-        "image": "https://preview.redd.it/f3bvn5rryg3h1.jpeg?width=640&crop=smart&auto=webp&s=fcf5577d9256a963bed37e991762ab3fae91c283",
-        "published": "2026-05-26T11:43:49+00:00"
-    },
-    {
         "title": "Demis Hassabis now says AGI could arrive in just 3 years in 2029",
         "link": "https://www.reddit.com/r/singularity/comments/1toc0nl/demis_hassabis_now_says_agi_could_arrive_in_just/",
         "image": "https://external-preview.redd.it/_P-ONZGEncIuiGC3EOesWclYgtNWC82mpZt968pguvQ.png?width=640&crop=smart&auto=webp&s=514bf5f26d6be3e4a515861af68fe8ad21b44c7c",
         "published": "2026-05-26T16:25:08+00:00"
     },
     {
-        "title": "What is the current premise of AGI?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tnj65w/what_is_the_current_premise_of_agi/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-25T19:24:35+00:00"
+        "title": "What\u2019s this sub\u2019s take on the Vatican response to AI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tnr9me/whats_this_subs_take_on_the_vatican_response_to_ai/",
+        "image": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1",
+        "published": "2026-05-26T00:46:59+00:00"
+    },
+    {
+        "title": "Uber CEO Dara Khosrowshahi said in an earnings call that Uber was slowing hiring to counter its investments in AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1to4fvf/uber_ceo_dara_khosrowshahi_said_in_an_earnings/",
+        "image": "https://preview.redd.it/f3bvn5rryg3h1.jpeg?width=640&crop=smart&auto=webp&s=fcf5577d9256a963bed37e991762ab3fae91c283",
+        "published": "2026-05-26T11:43:49+00:00"
+    },
+    {
+        "title": "Minimiax M3 releasing with some new things",
+        "link": "https://www.reddit.com/r/singularity/comments/1tofk9m/minimiax_m3_releasing_with_some_new_things/",
+        "image": "https://preview.redd.it/9drl9qj7yi3h1.jpeg?width=640&crop=smart&auto=webp&s=9251139481728505544aa8d87b2ad430259783d3",
+        "published": "2026-05-26T18:24:15+00:00"
     },
     {
         "title": "Why do some/most people think AI will never be good enough? What are their arguments?",
