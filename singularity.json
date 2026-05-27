@@ -12,18 +12,6 @@
         "published": "2026-05-27T14:06:48+00:00"
     },
     {
-        "title": "RAI Institute | Juggling",
-        "link": "https://www.reddit.com/r/singularity/comments/1tomg90/rai_institute_juggling/",
-        "image": "https://external-preview.redd.it/Y3RmczMzb2Y1azNoMTLo9ioEUhWCZZP08k7eTaAav-i3k3DdjZeHHTCH2jay.png?width=640&crop=smart&auto=webp&s=1b430a8e29f2c3ff793c819180773c00076ccd9e",
-        "published": "2026-05-26T22:27:20+00:00"
-    },
-    {
-        "title": "Boston Dynamics | Agile footwork (School of Football)",
-        "link": "https://www.reddit.com/r/singularity/comments/1tomhw7/boston_dynamics_agile_footwork_school_of_football/",
-        "image": "https://external-preview.redd.it/Ym4yZTRicnY1azNoMZowbxZKPvuUrePRceD1JlYRSi8BxIH3qWZ3YrqKOx-J.png?width=640&crop=smart&auto=webp&s=6429495a9cbb10c42a6edc847e3a7751cf77f0f6",
-        "published": "2026-05-26T22:29:12+00:00"
-    },
-    {
         "title": "2 years ago Golden Gate Claude was the newest frontier model #bringbackgoldengateclaude",
         "link": "https://www.reddit.com/r/singularity/comments/1tpcutx/2_years_ago_golden_gate_claude_was_the_newest/",
         "image": "https://preview.redd.it/sw5x5wtovp3h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=229cb012385db43af3fed08a1ec3a23c2b487bc7",
@@ -36,16 +24,16 @@
         "published": "2026-05-27T19:09:30+00:00"
     },
     {
-        "title": "Astribot launches the T1, their wheeled humanoid robot with two pairs of grippers that can do a bit of everything",
-        "link": "https://www.reddit.com/r/singularity/comments/1tp6qkm/astribot_launches_the_t1_their_wheeled_humanoid/",
-        "image": "https://external-preview.redd.it/dGp4bHA4d290bzNoMfkwXOmCR44uku4SYlAZYXlXIgJrnPfcUDXUNARKr3Z4.png?width=640&crop=smart&auto=webp&s=16eea9a3223430d8b3426cfc5df3575602a966d5",
-        "published": "2026-05-27T14:10:31+00:00"
-    },
-    {
         "title": "Atlas doing a perfect rabona kick",
         "link": "https://www.reddit.com/r/singularity/comments/1tpgqkc/atlas_doing_a_perfect_rabona_kick/",
         "image": "https://external-preview.redd.it/OHRoMWpxeW1qcTNoMTbTSIOaBB4D1FX-o5bZv07KrMCDS3kbrv4aKTjteXK7.png?width=640&crop=smart&auto=webp&s=f1bbfd8e179cb96462871c077d3712611a2662ae",
         "published": "2026-05-27T19:56:59+00:00"
+    },
+    {
+        "title": "Astribot launches the T1, their wheeled humanoid robot with two pairs of grippers that can do a bit of everything",
+        "link": "https://www.reddit.com/r/singularity/comments/1tp6qkm/astribot_launches_the_t1_their_wheeled_humanoid/",
+        "image": "https://external-preview.redd.it/dGp4bHA4d290bzNoMfkwXOmCR44uku4SYlAZYXlXIgJrnPfcUDXUNARKr3Z4.png?width=640&crop=smart&auto=webp&s=16eea9a3223430d8b3426cfc5df3575602a966d5",
+        "published": "2026-05-27T14:10:31+00:00"
     },
     {
         "title": "OpenBMB releases MiniCPM5-1B LLM. Currently one of the most powerful LLMs for its size. ( 17.9 on the Artificial Analysis Intelligence Index)",

@@ -1,11 +1,5 @@
 [
     {
-        "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
-        "link": "https://www.reddit.com/r/technology/comments/1tomq83/duckduckgo_installs_are_up_30_as_users_reject/",
-        "image": "https://external-preview.redd.it/aohOzDgz9I83OCoX43X5akH2q7-b_gqf7W84ggoR1ig.png?width=640&crop=smart&auto=webp&s=591a64d154424ea47a25cd830f8e5a4d29e5dd32",
-        "published": "2026-05-26T22:37:59+00:00"
-    },
-    {
         "title": "Tech CEOs are apparently suffering from AI psychosis",
         "link": "https://www.reddit.com/r/technology/comments/1tp5qz2/tech_ceos_are_apparently_suffering_from_ai/",
         "image": "https://external-preview.redd.it/LiEHpyOeHm5OJmViut8t9Qocb-yumB4yLEejK6xuOa0.jpeg?width=640&crop=smart&auto=webp&s=ebca6fc75198ef36e637a827810c0cb3a4063d9a",
@@ -24,16 +18,16 @@
         "published": "2026-05-27T06:41:36+00:00"
     },
     {
-        "title": "Jared Leto is making 30 Seconds to Mars fans scan their eyes to prove they\u2019re human and buy tickets",
-        "link": "https://www.reddit.com/r/technology/comments/1tp7jzb/jared_leto_is_making_30_seconds_to_mars_fans_scan/",
-        "image": "https://external-preview.redd.it/gBpLVBaHxbfKu8lqzq9ivoa3-onjN6kLZka4GWzNMr0.jpeg?width=640&crop=smart&auto=webp&s=19499a3145150977c9a158af12ed0d863dbebb41",
-        "published": "2026-05-27T14:39:13+00:00"
-    },
-    {
         "title": "Valve raises Steam Deck prices by more than $200 / The 1TB OLED model got a $300 price increase, and now costs $949.",
         "link": "https://www.reddit.com/r/technology/comments/1tpclmj/valve_raises_steam_deck_prices_by_more_than_200/",
         "image": "https://external-preview.redd.it/O_hBAVvreqkc54dhl5xwO9AOgM46bVX6eWAHdoXbdXY.jpeg?width=640&crop=smart&auto=webp&s=a19b7331e8a5d2b79e0a75d19dcc121a5dc029e1",
         "published": "2026-05-27T17:34:07+00:00"
+    },
+    {
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "link": "https://www.reddit.com/r/technology/comments/1tphb7o/duckduckgo_search_saw_28_more_visits_after_google/",
+        "image": "https://external-preview.redd.it/QSQhB-RKavvVmxhgd0fdVtbsEXPJ4S7NhqtI-q0_aUk.jpeg?width=640&crop=smart&auto=webp&s=84bac966852dfe4aef0409f306db7e5a1f4951c5",
+        "published": "2026-05-27T20:17:09+00:00"
     },
     {
         "title": "The AI bots are coming and the young are booing, not applauding",
@@ -48,22 +42,16 @@
         "published": "2026-05-27T08:29:49+00:00"
     },
     {
-        "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself'",
-        "link": "https://www.reddit.com/r/technology/comments/1totvwg/parents_of_openai_whistleblower_intensify_dispute/",
-        "image": "https://external-preview.redd.it/SV-bhw77O98msviHoJ0r3TbNArrpuQOr48MPeH0tArE.jpeg?width=640&crop=smart&auto=webp&s=bfffce6f2ad4ad3e511f701e37a84e0fde5ede14",
-        "published": "2026-05-27T03:44:02+00:00"
-    },
-    {
         "title": "US students on why they booed their pro-AI graduation speakers: \u2018They\u2019re not reading the room\u2019",
         "link": "https://www.reddit.com/r/technology/comments/1tp8ok6/us_students_on_why_they_booed_their_proai/",
         "image": "https://external-preview.redd.it/IC87Mnto-6jG3NpqAJjiNfCQYD0Rsmjvm1tnyznawPc.jpeg?width=640&crop=smart&auto=webp&s=d7201e68ec620fb58afd4f37b610fa7d0d626513",
         "published": "2026-05-27T15:18:45+00:00"
     },
     {
-        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-        "link": "https://www.reddit.com/r/technology/comments/1tphb7o/duckduckgo_search_saw_28_more_visits_after_google/",
-        "image": "https://external-preview.redd.it/QSQhB-RKavvVmxhgd0fdVtbsEXPJ4S7NhqtI-q0_aUk.jpeg?width=640&crop=smart&auto=webp&s=84bac966852dfe4aef0409f306db7e5a1f4951c5",
-        "published": "2026-05-27T20:17:09+00:00"
+        "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself'",
+        "link": "https://www.reddit.com/r/technology/comments/1totvwg/parents_of_openai_whistleblower_intensify_dispute/",
+        "image": "https://external-preview.redd.it/SV-bhw77O98msviHoJ0r3TbNArrpuQOr48MPeH0tArE.jpeg?width=640&crop=smart&auto=webp&s=bfffce6f2ad4ad3e511f701e37a84e0fde5ede14",
+        "published": "2026-05-27T03:44:02+00:00"
     },
     {
         "title": "YouTube Will Start Automatically Tagging Videos That Make \u2018Significant\u2019 Use of AI, and It\u2019s Making Labels for AI-Generated Content More Prominent",
@@ -72,16 +60,28 @@
         "published": "2026-05-27T13:15:50+00:00"
     },
     {
+        "title": "Strong reactions after Netherlands blocks US takeover of Solvinity, DigiD operator",
+        "link": "https://www.reddit.com/r/technology/comments/1tpdrp2/strong_reactions_after_netherlands_blocks_us/",
+        "image": "https://external-preview.redd.it/kAA0N3vTsbGG98zCezQC00KzKmPScI9b6Wn2VA7Jw4U.jpeg?width=640&crop=smart&auto=webp&s=20579938fc76821f72e7356e09787268076c87a1",
+        "published": "2026-05-27T18:13:21+00:00"
+    },
+    {
         "title": "DuckDuckGo sees iPhone installs spike following AI-heavy Google I/O",
         "link": "https://www.reddit.com/r/technology/comments/1top692/duckduckgo_sees_iphone_installs_spike_following/",
         "image": "https://external-preview.redd.it/1V_Sk8mEeNkDae8f7FNjGXQxduCHBW-Cqbk6EsDqvwc.jpeg?width=640&crop=smart&auto=webp&s=ab3c29d2643a02cb48e60c5eef01d9315752e745",
         "published": "2026-05-27T00:16:20+00:00"
     },
     {
-        "title": "Strong reactions after Netherlands blocks US takeover of Solvinity, DigiD operator",
-        "link": "https://www.reddit.com/r/technology/comments/1tpdrp2/strong_reactions_after_netherlands_blocks_us/",
-        "image": "https://external-preview.redd.it/kAA0N3vTsbGG98zCezQC00KzKmPScI9b6Wn2VA7Jw4U.jpeg?width=640&crop=smart&auto=webp&s=20579938fc76821f72e7356e09787268076c87a1",
-        "published": "2026-05-27T18:13:21+00:00"
+        "title": "Google employee charged with using inside information to make $1 million on Polymarket",
+        "link": "https://www.reddit.com/r/technology/comments/1tpk0no/google_employee_charged_with_using_inside/",
+        "image": "https://external-preview.redd.it/TWGDTZjBiFc6zkT9EAg2U1vj1l66mtm9WevKPy9RxLc.jpeg?width=640&crop=smart&auto=webp&s=a3e5c4b15b2fc8875cc8bc51c477133caa3934cb",
+        "published": "2026-05-27T21:57:25+00:00"
+    },
+    {
+        "title": "'Just too lazy': Nvidia's Jensen Huang slams CEOs for blaming job losses on AI",
+        "link": "https://www.reddit.com/r/technology/comments/1tp5z01/just_too_lazy_nvidias_jensen_huang_slams_ceos_for/",
+        "image": "https://external-preview.redd.it/Kidp4RW2ZfcJsRWOg0ZiCXmTZFio4FmhU0N4uZFq-fQ.jpeg?width=640&crop=smart&auto=webp&s=b6ce83f6407820d61bde1e3c7241815c6b8cba82",
+        "published": "2026-05-27T13:42:31+00:00"
     },
     {
         "title": "Britain's grid comes closest ever to running without fossil fuels as clean power surges",
