@@ -60,10 +60,22 @@
         "published": "2026-05-26T12:28:08+00:00"
     },
     {
+        "title": "This CEO announced huge job cuts because of AI. Threats to his family followed",
+        "link": "https://www.reddit.com/r/technology/comments/1toxgbz/this_ceo_announced_huge_job_cuts_because_of_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-27T06:41:36+00:00"
+    },
+    {
         "title": "DuckDuckGo sees iPhone installs spike following AI-heavy Google I/O",
         "link": "https://www.reddit.com/r/technology/comments/1top692/duckduckgo_sees_iphone_installs_spike_following/",
         "image": "https://external-preview.redd.it/1V_Sk8mEeNkDae8f7FNjGXQxduCHBW-Cqbk6EsDqvwc.jpeg?width=640&crop=smart&auto=webp&s=ab3c29d2643a02cb48e60c5eef01d9315752e745",
         "published": "2026-05-27T00:16:20+00:00"
+    },
+    {
+        "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself'",
+        "link": "https://www.reddit.com/r/technology/comments/1totvwg/parents_of_openai_whistleblower_intensify_dispute/",
+        "image": "https://external-preview.redd.it/SV-bhw77O98msviHoJ0r3TbNArrpuQOr48MPeH0tArE.jpeg?width=640&crop=smart&auto=webp&s=bfffce6f2ad4ad3e511f701e37a84e0fde5ede14",
+        "published": "2026-05-27T03:44:02+00:00"
     },
     {
         "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
@@ -72,21 +84,9 @@
         "published": "2026-05-26T18:57:18+00:00"
     },
     {
-        "title": "Anthropic Demolished Legacy SaaS Stocks. Now It's Coming for Palantir.",
-        "link": "https://www.reddit.com/r/technology/comments/1to2f9e/anthropic_demolished_legacy_saas_stocks_now_its/",
-        "image": "https://external-preview.redd.it/gVUI_Ner6rvFQkdBiueSAPCNmQPdP_ZrT6YA2Q2xAqw.jpeg?width=640&crop=smart&auto=webp&s=d46d455587656414c8968058b52982e71e4c4d1e",
-        "published": "2026-05-26T10:04:12+00:00"
-    },
-    {
         "title": "Ferrari unveils its first electric car - and it comes with a $640,000 price tag",
         "link": "https://www.reddit.com/r/technology/comments/1toi24o/ferrari_unveils_its_first_electric_car_and_it/",
         "image": "https://external-preview.redd.it/H49BscNBcgfImEPHlOO_SoghlOOoFeYE_GvvqM3vrzA.jpeg?width=640&crop=smart&auto=webp&s=71b1dcd76753679893ea2a851bc9624f0983d921",
         "published": "2026-05-26T19:49:36+00:00"
-    },
-    {
-        "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself'",
-        "link": "https://www.reddit.com/r/technology/comments/1totvwg/parents_of_openai_whistleblower_intensify_dispute/",
-        "image": "https://external-preview.redd.it/SV-bhw77O98msviHoJ0r3TbNArrpuQOr48MPeH0tArE.jpeg?width=640&crop=smart&auto=webp&s=bfffce6f2ad4ad3e511f701e37a84e0fde5ede14",
-        "published": "2026-05-27T03:44:02+00:00"
     }
 ]
