@@ -6,24 +6,6 @@
         "published": "2026-05-28T04:17:38+00:00"
     },
     {
-        "title": "Atlas doing a perfect rabona kick",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpgqkc/atlas_doing_a_perfect_rabona_kick/",
-        "image": "https://external-preview.redd.it/OHRoMWpxeW1qcTNoMTbTSIOaBB4D1FX-o5bZv07KrMCDS3kbrv4aKTjteXK7.png?width=640&crop=smart&auto=webp&s=f1bbfd8e179cb96462871c077d3712611a2662ae",
-        "published": "2026-05-27T19:56:59+00:00"
-    },
-    {
-        "title": "Genesis AI | Genesis World 1.0",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpfe98/genesis_ai_genesis_world_10/",
-        "image": "https://external-preview.redd.it/bHV3Nm01YzVicTNoMXgrY1q6FpZpOjpNEIy1chOl2Y1tIXQtSW3fOhPeCIcv.png?width=640&crop=smart&auto=webp&s=461a6b5cbb5178b5e654c8d2b9a3cb18c06422b4",
-        "published": "2026-05-27T19:09:30+00:00"
-    },
-    {
-        "title": "Introducing Claude Opus 4.8",
-        "link": "https://www.reddit.com/r/singularity/comments/1tq9ahr/introducing_claude_opus_48/",
-        "image": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
-        "published": "2026-05-28T16:53:17+00:00"
-    },
-    {
         "title": "Well anthropic released opus 4.8",
         "link": "https://www.reddit.com/r/singularity/comments/1tq9ml0/well_anthropic_released_opus_48/",
         "image": "https://preview.redd.it/qtz97x8ytw3h1.png?width=640&crop=smart&auto=webp&s=0139ac4f209a89e2d0094a700d0037b8cacced8f",
@@ -40,6 +22,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tpurf9/scott_aaronson_dispatches_from_the_possibly_last/",
         "image": "https://external-preview.redd.it/5CZhGkMKcOmPCFOvtwzXsqmAXHjfu42wfmCV9btKtQ4.jpeg?width=640&crop=smart&auto=webp&s=1fb2ab0b7df733c2c9b394d4dc04bf7970042691",
         "published": "2026-05-28T05:58:00+00:00"
+    },
+    {
+        "title": "Breaking News: Anthropic surpassed OpenAI as the world\u2019s most valuable A.I. start-up, with a valuation of $900 billion.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqcukx/breaking_news_anthropic_surpassed_openai_as_the/",
+        "image": "https://external-preview.redd.it/D7uMN-To53fY3Mc3zYulF4NhrkgJ3jzMz01-T7CJ2gM.jpeg?width=640&crop=smart&auto=webp&s=41e2e9766397f498c25efac6946148d0ed2eb2e5",
+        "published": "2026-05-28T18:57:57+00:00"
     },
     {
         "title": "Gemini Omni Flash is the most censored video model. Even more censored than Chinese alternatives",
@@ -60,6 +48,12 @@
         "published": "2026-05-28T15:25:21+00:00"
     },
     {
+        "title": "Mythos to be released in the coming weeks",
+        "link": "https://www.reddit.com/r/singularity/comments/1tq9d2e/mythos_to_be_released_in_the_coming_weeks/",
+        "image": "https://preview.redd.it/jxtybxy9sw3h1.png?width=640&crop=smart&auto=webp&s=979ed21e08afe323bad67089ba2cba57ee93fabc",
+        "published": "2026-05-28T16:55:54+00:00"
+    },
+    {
         "title": "Every company adjacent to tech is announcing AI plays right now and suddenly see a stock jump",
         "link": "https://www.reddit.com/r/singularity/comments/1tpkzh8/every_company_adjacent_to_tech_is_announcing_ai/",
         "image": "https://preview.redd.it/fjrs8jutbr3h1.jpeg?width=640&crop=smart&auto=webp&s=c1d1b48a716c6d7ef8d0b3a81eb053604e168a2c",
@@ -72,21 +66,27 @@
         "published": "2026-05-28T14:25:40+00:00"
     },
     {
+        "title": "Emergence AI ran a simulated society on Claude, Gemini, Grok and GPT for two weeks. The results are\u2026 scary?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqaq7p/emergence_ai_ran_a_simulated_society_on_claude/",
+        "image": "https://external-preview.redd.it/6vqxYjG2oJ3CTEAw_Xtx9srBSSlgRUyBUXgnePlW_J4.jpeg?width=640&crop=smart&auto=webp&s=95176a13efe1bfbcde12f8e5f9d5165088353d3d",
+        "published": "2026-05-28T17:43:08+00:00"
+    },
+    {
         "title": "Buyout Game Benchmark: 8 models play a social strategy game with public balances, private transfers, messaging, eliminations, deals, defections, and a final buyout phase. 804 games. GPT-5.5 is the champion. Opus 4.7 performs well.",
         "link": "https://www.reddit.com/r/singularity/comments/1tplpci/buyout_game_benchmark_8_models_play_a_social/",
         "image": "https://preview.redd.it/prpmgknjgr3h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9718d532466d48a0facbadbe02033833728ca3d9",
         "published": "2026-05-27T23:03:40+00:00"
     },
     {
-        "title": "Mythos to be released in the coming weeks",
-        "link": "https://www.reddit.com/r/singularity/comments/1tq9d2e/mythos_to_be_released_in_the_coming_weeks/",
-        "image": "https://preview.redd.it/jxtybxy9sw3h1.png?width=640&crop=smart&auto=webp&s=979ed21e08afe323bad67089ba2cba57ee93fabc",
-        "published": "2026-05-28T16:55:54+00:00"
+        "title": "Extended Benchmarks for Opus 4.8",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqdaem/extended_benchmarks_for_opus_48/",
+        "image": "https://preview.redd.it/oei5uylrgx3h1.jpeg?width=640&crop=smart&auto=webp&s=c2e7bed173956611ea918a31b9b663d54eac5255",
+        "published": "2026-05-28T19:13:10+00:00"
     },
     {
-        "title": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpdbm0/china_launches_human_artificial_embryos_to_space/",
-        "image": "https://external-preview.redd.it/1M_sYA5JkbAaUk6g6VrDeSLUP9SHnNOZ2y2rVBUsxsE.jpeg?width=640&crop=smart&auto=webp&s=94092551a330842f203d5002d69c24bae03f3b4e",
-        "published": "2026-05-27T17:58:31+00:00"
+        "title": "The Singularity Gate: New Benchmark for AI predicting paradigm-breaking scientific discoveries after model traning cutoff. Opus 4.7 and GPT-5.5 in the Lead",
+        "link": "https://www.reddit.com/r/singularity/comments/1tq8vrx/the_singularity_gate_new_benchmark_for_ai/",
+        "image": "https://preview.redd.it/fjf5jz0wow3h1.png?width=140&height=83&auto=webp&s=39e1b44c873dfb4e184e3d222ed8e04f248635c7",
+        "published": "2026-05-28T16:38:13+00:00"
     }
 ]
