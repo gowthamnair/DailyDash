@@ -18,28 +18,10 @@
         "published": "2026-05-28T18:57:57+00:00"
     },
     {
-        "title": "DeepSWE finally a proper coding benchmark",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpo9lu/deepswe_finally_a_proper_coding_benchmark/",
-        "image": "https://external-preview.redd.it/n19fKaPSu5MgFUf4Ah1oqqooOv2DX4hes2En4Iy0kZo.jpeg?width=640&crop=smart&auto=webp&s=bcdc2bc60730de7c62aa1841829108e71b0a7463",
-        "published": "2026-05-28T00:51:54+00:00"
-    },
-    {
         "title": "AGIBOT demonstrates its X2 humanoid navigating irregular stairs",
         "link": "https://www.reddit.com/r/singularity/comments/1tq6ufk/agibot_demonstrates_its_x2_humanoid_navigating/",
         "image": "https://external-preview.redd.it/NWY5aG02ZXVidzNoMXetZGbAU6awG87v8nSvZ6hI0Ly2HCt_EA89hCYef5wl.png?width=640&crop=smart&auto=webp&s=c3289bfbd45b4c8c1de576f6c18e2a07ce97a97b",
         "published": "2026-05-28T15:25:21+00:00"
-    },
-    {
-        "title": "Scott Aaronson: Dispatches from the possibly last days of human relevance",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpurf9/scott_aaronson_dispatches_from_the_possibly_last/",
-        "image": "https://external-preview.redd.it/5CZhGkMKcOmPCFOvtwzXsqmAXHjfu42wfmCV9btKtQ4.jpeg?width=640&crop=smart&auto=webp&s=1fb2ab0b7df733c2c9b394d4dc04bf7970042691",
-        "published": "2026-05-28T05:58:00+00:00"
-    },
-    {
-        "title": "Gemini Omni Flash is the most censored video model. Even more censored than Chinese alternatives",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpw93t/gemini_omni_flash_is_the_most_censored_video/",
-        "image": "https://external-preview.redd.it/Z3o3NXd1d2F4dDNoMeItKuSZ73unduAAqELB1l0KoTGRIgxN3aKqqkEt6XNK.png?width=640&crop=smart&auto=webp&s=47a0563e8a0e6b133442db9957f8e9def541f576",
-        "published": "2026-05-28T07:20:09+00:00"
     },
     {
         "title": "Emergence AI ran a simulated society on Claude, Gemini, Grok and GPT for two weeks. The results are\u2026 scary?",
@@ -48,10 +30,28 @@
         "published": "2026-05-28T17:43:08+00:00"
     },
     {
+        "title": "DeepSWE finally a proper coding benchmark",
+        "link": "https://www.reddit.com/r/singularity/comments/1tpo9lu/deepswe_finally_a_proper_coding_benchmark/",
+        "image": "https://external-preview.redd.it/n19fKaPSu5MgFUf4Ah1oqqooOv2DX4hes2En4Iy0kZo.jpeg?width=640&crop=smart&auto=webp&s=bcdc2bc60730de7c62aa1841829108e71b0a7463",
+        "published": "2026-05-28T00:51:54+00:00"
+    },
+    {
+        "title": "Scott Aaronson: Dispatches from the possibly last days of human relevance",
+        "link": "https://www.reddit.com/r/singularity/comments/1tpurf9/scott_aaronson_dispatches_from_the_possibly_last/",
+        "image": "https://external-preview.redd.it/5CZhGkMKcOmPCFOvtwzXsqmAXHjfu42wfmCV9btKtQ4.jpeg?width=640&crop=smart&auto=webp&s=1fb2ab0b7df733c2c9b394d4dc04bf7970042691",
+        "published": "2026-05-28T05:58:00+00:00"
+    },
+    {
         "title": "Mythos to be released in the coming weeks",
         "link": "https://www.reddit.com/r/singularity/comments/1tq9d2e/mythos_to_be_released_in_the_coming_weeks/",
         "image": "https://preview.redd.it/jxtybxy9sw3h1.png?width=640&crop=smart&auto=webp&s=979ed21e08afe323bad67089ba2cba57ee93fabc",
         "published": "2026-05-28T16:55:54+00:00"
+    },
+    {
+        "title": "Gemini Omni Flash is the most censored video model. Even more censored than Chinese alternatives",
+        "link": "https://www.reddit.com/r/singularity/comments/1tpw93t/gemini_omni_flash_is_the_most_censored_video/",
+        "image": "https://external-preview.redd.it/Z3o3NXd1d2F4dDNoMeItKuSZ73unduAAqELB1l0KoTGRIgxN3aKqqkEt6XNK.png?width=640&crop=smart&auto=webp&s=47a0563e8a0e6b133442db9957f8e9def541f576",
+        "published": "2026-05-28T07:20:09+00:00"
     },
     {
         "title": "Extended Benchmarks for Opus 4.8",
@@ -66,18 +66,6 @@
         "published": "2026-05-28T14:25:40+00:00"
     },
     {
-        "title": "Every company adjacent to tech is announcing AI plays right now and suddenly see a stock jump",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpkzh8/every_company_adjacent_to_tech_is_announcing_ai/",
-        "image": "https://preview.redd.it/fjrs8jutbr3h1.jpeg?width=640&crop=smart&auto=webp&s=c1d1b48a716c6d7ef8d0b3a81eb053604e168a2c",
-        "published": "2026-05-27T22:34:49+00:00"
-    },
-    {
-        "title": "Buyout Game Benchmark: 8 models play a social strategy game with public balances, private transfers, messaging, eliminations, deals, defections, and a final buyout phase. 804 games. GPT-5.5 is the champion. Opus 4.7 performs well.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tplpci/buyout_game_benchmark_8_models_play_a_social/",
-        "image": "https://preview.redd.it/prpmgknjgr3h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9718d532466d48a0facbadbe02033833728ca3d9",
-        "published": "2026-05-27T23:03:40+00:00"
-    },
-    {
         "title": "DeepSWE benchmark cost results have been released.",
         "link": "https://www.reddit.com/r/singularity/comments/1tq9c28/deepswe_benchmark_cost_results_have_been_released/",
         "image": "https://preview.redd.it/valimyjxrw3h1.png?width=640&crop=smart&auto=webp&s=cf62ce04565393a24648eb7c0f84df931b1930f5",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tq8vrx/the_singularity_gate_new_benchmark_for_ai/",
         "image": "https://preview.redd.it/fjf5jz0wow3h1.png?width=140&height=83&auto=webp&s=39e1b44c873dfb4e184e3d222ed8e04f248635c7",
         "published": "2026-05-28T16:38:13+00:00"
+    },
+    {
+        "title": "Opus 4.8 Artificial Analysis results",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqfmgw/opus_48_artificial_analysis_results/",
+        "image": "https://preview.redd.it/vvh9vzcgux3h1.png?width=140&height=54&auto=webp&s=7247df43227fd4b95e61031434ac2377f9d0dbb5",
+        "published": "2026-05-28T20:34:42+00:00"
+    },
+    {
+        "title": "Airbus and BMW strike deals with France's Mistral to bring Al to defence and safety systems",
+        "link": "https://www.reddit.com/r/singularity/comments/1tq7212/airbus_and_bmw_strike_deals_with_frances_mistral/",
+        "image": "https://external-preview.redd.it/s5JOkW6GMenr3lx7lTNz8smA5KUkahtm20KInbtUYLc.jpeg?width=640&crop=smart&auto=webp&s=0176c9a6da1a374fa6441eb7a26a54ba650cabd9",
+        "published": "2026-05-28T15:33:10+00:00"
     }
 ]

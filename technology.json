@@ -30,12 +30,6 @@
         "published": "2026-05-28T12:37:53+00:00"
     },
     {
-        "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
-        "link": "https://www.reddit.com/r/technology/comments/1tpuj9m/ai_hiring_algorithms_reject_black_asian_job/",
-        "image": "https://external-preview.redd.it/GgemxRN1bOBKSrPKiNaYUzRVEGGFoECw1nF-IKAclCM.jpeg?width=640&crop=smart&auto=webp&s=eac06095e924a3cf78ca79fdfa98f7446feda6de",
-        "published": "2026-05-28T05:45:49+00:00"
-    },
-    {
         "title": "95% of canceled annual app subscribers never come back, per report",
         "link": "https://www.reddit.com/r/technology/comments/1tqctnv/95_of_canceled_annual_app_subscribers_never_come/",
         "image": "https://external-preview.redd.it/tg4ENyHzvNEPsbRYXnQVS3NHeP-7SW170Tg4e_A4vlk.jpeg?width=640&crop=smart&auto=webp&s=8d4502d825537369e22938b06407d866ece45a2a",
@@ -48,10 +42,22 @@
         "published": "2026-05-28T19:15:14+00:00"
     },
     {
+        "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
+        "link": "https://www.reddit.com/r/technology/comments/1tpuj9m/ai_hiring_algorithms_reject_black_asian_job/",
+        "image": "https://external-preview.redd.it/GgemxRN1bOBKSrPKiNaYUzRVEGGFoECw1nF-IKAclCM.jpeg?width=640&crop=smart&auto=webp&s=eac06095e924a3cf78ca79fdfa98f7446feda6de",
+        "published": "2026-05-28T05:45:49+00:00"
+    },
+    {
         "title": "Researchers let AI models run a simulated society. Claude was the safest\u2014and Grok committed 180 crimes and went extinct within 4 days",
         "link": "https://www.reddit.com/r/technology/comments/1tq4m5y/researchers_let_ai_models_run_a_simulated_society/",
         "image": "https://external-preview.redd.it/AgcEHnMM7iGzdmLmpYJqjJPBBWeoG_BiVtwodWtA3dA.jpeg?width=640&crop=smart&auto=webp&s=9b5674fcc5400875b3653ce19320b4d6c6a07fc0",
         "published": "2026-05-28T14:04:07+00:00"
+    },
+    {
+        "title": "Workplace data reveals ChatGPT losing ground rapidly as people diversify",
+        "link": "https://www.reddit.com/r/technology/comments/1tqcw4i/workplace_data_reveals_chatgpt_losing_ground/",
+        "image": "https://external-preview.redd.it/J50QNQCrLYfbYhMjU0wNjMjOo3zVYK5oB-dG8FVRYlI.jpeg?width=640&crop=smart&auto=webp&s=2ec108ce59bd808d40f97cb1168f0324c273338a",
+        "published": "2026-05-28T18:59:29+00:00"
     },
     {
         "title": "Fact Check: BlackRock CEO said Americans' savings and investments will fund data centers, new power infrastructure",
@@ -66,10 +72,10 @@
         "published": "2026-05-28T00:55:02+00:00"
     },
     {
-        "title": "Workplace data reveals ChatGPT losing ground rapidly as people diversify",
-        "link": "https://www.reddit.com/r/technology/comments/1tqcw4i/workplace_data_reveals_chatgpt_losing_ground/",
-        "image": "https://external-preview.redd.it/J50QNQCrLYfbYhMjU0wNjMjOo3zVYK5oB-dG8FVRYlI.jpeg?width=640&crop=smart&auto=webp&s=2ec108ce59bd808d40f97cb1168f0324c273338a",
-        "published": "2026-05-28T18:59:29+00:00"
+        "title": "AI Is Eroding Critical Thinking At Work. The Window Is Closing.",
+        "link": "https://www.reddit.com/r/technology/comments/1tqhc2d/ai_is_eroding_critical_thinking_at_work_the/",
+        "image": "https://external-preview.redd.it/MT1GvmAPQ5hHJhU9Zu4eNmkOmEW5naREixbZ-pmCpWE.jpeg?width=640&crop=smart&auto=webp&s=31919c1fe4254dad152e63111b3620f2f6fbdbc4",
+        "published": "2026-05-28T21:36:42+00:00"
     },
     {
         "title": "Temu fined $232 million for breaching EU rules on sale of illegal products",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1tpohfs/ais_dont_like_religion_particularly_jehovahs/",
         "image": "https://external-preview.redd.it/le1gkv6fj0N7owv1v0_z4CtqjQ5F05lU45XyLAyarjw.jpeg?width=640&crop=smart&auto=webp&s=62fafa393f14121761eab2478547ccace7151f0e",
         "published": "2026-05-28T01:01:25+00:00"
-    },
-    {
-        "title": "Last.fm is Now Independent!",
-        "link": "https://www.reddit.com/r/technology/comments/1tppv1m/lastfm_is_now_independent/",
-        "image": "https://external-preview.redd.it/-Umdc3vSA-6YlNx0rUdO0Myp7PnTY_1634N-bmPqbMg.jpeg?width=640&crop=smart&auto=webp&s=95e373d1f3fba47f882e7fbc542dbf0c3d6284db",
-        "published": "2026-05-28T02:02:12+00:00"
     }
 ]
