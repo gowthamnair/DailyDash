@@ -12,6 +12,12 @@
         "published": "2026-05-28T17:05:19+00:00"
     },
     {
+        "title": "What it's like talking to Opus 4.8...",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqu7sw/what_its_like_talking_to_opus_48/",
+        "image": "https://preview.redd.it/apbffc8u214h1.png?width=640&crop=smart&auto=webp&s=feec04ddd019f910d84fe9633b7e1492b06aaa56",
+        "published": "2026-05-29T07:22:39+00:00"
+    },
+    {
         "title": "Emergence AI ran a simulated society on Claude, Gemini, Grok and GPT for two weeks. The results are\u2026 scary?",
         "link": "https://www.reddit.com/r/singularity/comments/1tqaq7p/emergence_ai_ran_a_simulated_society_on_claude/",
         "image": "https://external-preview.redd.it/6vqxYjG2oJ3CTEAw_Xtx9srBSSlgRUyBUXgnePlW_J4.jpeg?width=640&crop=smart&auto=webp&s=95176a13efe1bfbcde12f8e5f9d5165088353d3d",
@@ -24,10 +30,10 @@
         "published": "2026-05-28T15:25:21+00:00"
     },
     {
-        "title": "Scott Aaronson: Dispatches from the possibly last days of human relevance",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpurf9/scott_aaronson_dispatches_from_the_possibly_last/",
-        "image": "https://external-preview.redd.it/5CZhGkMKcOmPCFOvtwzXsqmAXHjfu42wfmCV9btKtQ4.jpeg?width=640&crop=smart&auto=webp&s=1fb2ab0b7df733c2c9b394d4dc04bf7970042691",
-        "published": "2026-05-28T05:58:00+00:00"
+        "title": "Extended Benchmarks for Opus 4.8",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqdaem/extended_benchmarks_for_opus_48/",
+        "image": "https://preview.redd.it/oei5uylrgx3h1.jpeg?width=640&crop=smart&auto=webp&s=c2e7bed173956611ea918a31b9b663d54eac5255",
+        "published": "2026-05-28T19:13:10+00:00"
     },
     {
         "title": "Mythos to be released in the coming weeks",
@@ -36,28 +42,16 @@
         "published": "2026-05-28T16:55:54+00:00"
     },
     {
-        "title": "Extended Benchmarks for Opus 4.8",
-        "link": "https://www.reddit.com/r/singularity/comments/1tqdaem/extended_benchmarks_for_opus_48/",
-        "image": "https://preview.redd.it/oei5uylrgx3h1.jpeg?width=640&crop=smart&auto=webp&s=c2e7bed173956611ea918a31b9b663d54eac5255",
-        "published": "2026-05-28T19:13:10+00:00"
-    },
-    {
-        "title": "Gemini Omni Flash is the most censored video model. Even more censored than Chinese alternatives",
-        "link": "https://www.reddit.com/r/singularity/comments/1tpw93t/gemini_omni_flash_is_the_most_censored_video/",
-        "image": "https://external-preview.redd.it/Z3o3NXd1d2F4dDNoMeItKuSZ73unduAAqELB1l0KoTGRIgxN3aKqqkEt6XNK.png?width=640&crop=smart&auto=webp&s=47a0563e8a0e6b133442db9957f8e9def541f576",
-        "published": "2026-05-28T07:20:09+00:00"
+        "title": "Most of reddit badmouths AI, but my experience in medicine:",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqn8ov/most_of_reddit_badmouths_ai_but_my_experience_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-29T01:41:44+00:00"
     },
     {
         "title": "Using the results of erdos unit distance problem,mathematicians disprove a long standing mathematics conjecture.",
         "link": "https://www.reddit.com/r/singularity/comments/1tq57dw/using_the_results_of_erdos_unit_distance/",
         "image": "https://preview.redd.it/agbgb8mg1w3h1.jpeg?width=640&crop=smart&auto=webp&s=67d1349f6550c52b6e60ddcd6e40a4e11956ad10",
         "published": "2026-05-28T14:25:40+00:00"
-    },
-    {
-        "title": "Most of reddit badmouths AI, but my experience in medicine:",
-        "link": "https://www.reddit.com/r/singularity/comments/1tqn8ov/most_of_reddit_badmouths_ai_but_my_experience_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-29T01:41:44+00:00"
     },
     {
         "title": "DeepSWE benchmark cost results have been released.",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tqknxw/dan_ai_oracle_shipper_i_think_the_ai_job/",
         "image": "https://preview.redd.it/0h08ut5csy3h1.jpeg?width=640&crop=smart&auto=webp&s=b28ad883e2c8ed7d01567c91579e16ca17385884",
         "published": "2026-05-28T23:49:33+00:00"
+    },
+    {
+        "title": "Home robots will need to be able to take a shower and maybe wear shoes",
+        "link": "https://www.reddit.com/r/singularity/comments/1tqrkxi/home_robots_will_need_to_be_able_to_take_a_shower/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-29T05:02:52+00:00"
     }
 ]
