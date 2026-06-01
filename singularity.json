@@ -18,16 +18,16 @@
         "published": "2026-05-31T06:48:58+00:00"
     },
     {
-        "title": "OpenAI Robotics is hiring",
-        "link": "https://www.reddit.com/r/singularity/comments/1tt2p2t/openai_robotics_is_hiring/",
-        "image": "https://preview.redd.it/evfhbk51ki4h1.png?width=640&crop=smart&auto=webp&s=f918342d55b87e1fca9dad6524de5bca0b6fd8ff",
-        "published": "2026-05-31T18:08:53+00:00"
-    },
-    {
         "title": "The new benchmarks like DeepSWE now show a very big gap in proprietary models and open source",
         "link": "https://www.reddit.com/r/singularity/comments/1tt7t5t/the_new_benchmarks_like_deepswe_now_show_a_very/",
         "image": "https://preview.redd.it/prwafwsghj4h1.png?width=140&height=105&auto=webp&s=0f0d0d82f8bdcdf500cd8c227278e4ef24de1030",
         "published": "2026-05-31T21:19:08+00:00"
+    },
+    {
+        "title": "OpenAI Robotics is hiring",
+        "link": "https://www.reddit.com/r/singularity/comments/1tt2p2t/openai_robotics_is_hiring/",
+        "image": "https://preview.redd.it/evfhbk51ki4h1.png?width=640&crop=smart&auto=webp&s=f918342d55b87e1fca9dad6524de5bca0b6fd8ff",
+        "published": "2026-05-31T18:08:53+00:00"
     },
     {
         "title": "1 month for us = 820,000 years for asi",
@@ -42,10 +42,10 @@
         "published": "2026-05-31T11:30:51+00:00"
     },
     {
-        "title": "The shit about AI creating new job titles has been around for too long for it to be so limited. Let's debunk and make it more comprehensive.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tsqq6y/the_shit_about_ai_creating_new_job_titles_has/",
-        "image": "https://preview.redd.it/91jmrbrczf4h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e327581c055c3685597eb6f10b1a4d0f8f17965",
-        "published": "2026-05-31T09:38:33+00:00"
+        "title": "Minimax M3 has been released",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttdkzu/minimax_m3_has_been_released/",
+        "image": "https://external-preview.redd.it/Ym4sCzj2wR3hrL4cqGefONXtmu3aFvVWJ1IS-DAt1sk.png?width=140&height=78&auto=webp&s=36fae3a5f718281a61197317c71b36df1bc1fb1b",
+        "published": "2026-06-01T01:26:36+00:00"
     },
     {
         "title": "Is the audiovisual industry transforming? Can we use it for a new way of teaching history?",
@@ -54,21 +54,39 @@
         "published": "2026-05-31T17:46:51+00:00"
     },
     {
+        "title": "The shit about AI creating new job titles has been around for too long for it to be so limited. Let's debunk and make it more comprehensive.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tsqq6y/the_shit_about_ai_creating_new_job_titles_has/",
+        "image": "https://preview.redd.it/91jmrbrczf4h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e327581c055c3685597eb6f10b1a4d0f8f17965",
+        "published": "2026-05-31T09:38:33+00:00"
+    },
+    {
+        "title": "MiniMax M3 is starting to rollout on the API",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttc5u3/minimax_m3_is_starting_to_rollout_on_the_api/",
+        "image": "https://preview.redd.it/goe30iwkek4h1.png?width=140&height=27&auto=webp&s=a143e18d0c2f79bb06eae9692cbbde96ec30c3b7",
+        "published": "2026-06-01T00:22:09+00:00"
+    },
+    {
         "title": "how does gpt 5.5 have a significantly high hallucination rate while demonstrating the best performance on DeepSWE?",
         "link": "https://www.reddit.com/r/singularity/comments/1tt47tx/how_does_gpt_55_have_a_significantly_high/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-05-31T19:03:39+00:00"
     },
     {
+        "title": "Heads up for DeepSWE benchmark: The cost is measured per task, not the total run.",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttasmu/heads_up_for_deepswe_benchmark_the_cost_is/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-31T23:22:29+00:00"
+    },
+    {
+        "title": "Has AI helped you or sabotaged you in finding a job?",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttegpo/has_ai_helped_you_or_sabotaged_you_in_finding_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-01T02:07:12+00:00"
+    },
+    {
         "title": "Streamlined Prompt Hacks Every Producer should know.",
         "link": "https://www.reddit.com/r/singularity/comments/1tta51s/streamlined_prompt_hacks_every_producer_should/",
         "image": "https://preview.redd.it/2x3t4iauwj4h1.png?width=140&height=76&auto=webp&s=d8fc2ab7bfadf19fa149f648cbaead6badda72f7",
         "published": "2026-05-31T22:54:35+00:00"
-    },
-    {
-        "title": "Arena.ai is running possibly the most fraudulent benchmark thus far",
-        "link": "https://www.reddit.com/r/singularity/comments/1tslcms/arenaai_is_running_possibly_the_most_fraudulent/",
-        "image": "https://preview.redd.it/ofcmszjoie4h1.png?width=320&crop=smart&auto=webp&s=b311eeae4e5ca19b777d0136b30ea0c49a6b404b",
-        "published": "2026-05-31T04:38:58+00:00"
     }
 ]
