@@ -12,12 +12,6 @@
         "published": "2026-05-31T18:34:47+00:00"
     },
     {
-        "title": "Open-weights VLA hits 80%+ task progress on 4 of 17 real-robot tasks with zero fine-tuning. Demo reel attached",
-        "link": "https://www.reddit.com/r/singularity/comments/1tsnrkh/openweights_vla_hits_80_task_progress_on_4_of_17/",
-        "image": "https://external-preview.redd.it/b3VuYXhrYzM0ZjRoMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=c50f19f21dd87197aa2b4ecca8d6a55f9293d6fc",
-        "published": "2026-05-31T06:48:58+00:00"
-    },
-    {
         "title": "The new benchmarks like DeepSWE now show a very big gap in proprietary models and open source",
         "link": "https://www.reddit.com/r/singularity/comments/1tt7t5t/the_new_benchmarks_like_deepswe_now_show_a_very/",
         "image": "https://preview.redd.it/prwafwsghj4h1.png?width=140&height=105&auto=webp&s=0f0d0d82f8bdcdf500cd8c227278e4ef24de1030",
@@ -28,18 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tt2p2t/openai_robotics_is_hiring/",
         "image": "https://preview.redd.it/evfhbk51ki4h1.png?width=640&crop=smart&auto=webp&s=f918342d55b87e1fca9dad6524de5bca0b6fd8ff",
         "published": "2026-05-31T18:08:53+00:00"
-    },
-    {
-        "title": "1 month for us = 820,000 years for asi",
-        "link": "https://www.reddit.com/r/singularity/comments/1tt5qbw/1_month_for_us_820000_years_for_asi/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-31T20:00:13+00:00"
-    },
-    {
-        "title": "What non-AI or non-intelligence enhancement technologies are you most excited about?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tsst0v/what_nonai_or_nonintelligence_enhancement/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-31T11:30:51+00:00"
     },
     {
         "title": "Minimax M3 has been released",
@@ -54,22 +36,34 @@
         "published": "2026-05-31T17:46:51+00:00"
     },
     {
+        "title": "1 month for us = 820,000 years for asi",
+        "link": "https://www.reddit.com/r/singularity/comments/1tt5qbw/1_month_for_us_820000_years_for_asi/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-31T20:00:13+00:00"
+    },
+    {
+        "title": "What non-AI or non-intelligence enhancement technologies are you most excited about?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tsst0v/what_nonai_or_nonintelligence_enhancement/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-05-31T11:30:51+00:00"
+    },
+    {
+        "title": "opus 4.8 is still very much blind - EyeBench-V3 visual benchmark (similar to IBench)",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttfvis/opus_48_is_still_very_much_blind_eyebenchv3/",
+        "image": "https://preview.redd.it/22texjo58l4h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=af63fd6da4a795947d46ebf2ce27e7f23ecc5524",
+        "published": "2026-06-01T03:13:12+00:00"
+    },
+    {
         "title": "The shit about AI creating new job titles has been around for too long for it to be so limited. Let's debunk and make it more comprehensive.",
         "link": "https://www.reddit.com/r/singularity/comments/1tsqq6y/the_shit_about_ai_creating_new_job_titles_has/",
         "image": "https://preview.redd.it/91jmrbrczf4h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e327581c055c3685597eb6f10b1a4d0f8f17965",
         "published": "2026-05-31T09:38:33+00:00"
     },
     {
-        "title": "MiniMax M3 is starting to rollout on the API",
-        "link": "https://www.reddit.com/r/singularity/comments/1ttc5u3/minimax_m3_is_starting_to_rollout_on_the_api/",
-        "image": "https://preview.redd.it/goe30iwkek4h1.png?width=140&height=27&auto=webp&s=a143e18d0c2f79bb06eae9692cbbde96ec30c3b7",
-        "published": "2026-06-01T00:22:09+00:00"
-    },
-    {
-        "title": "how does gpt 5.5 have a significantly high hallucination rate while demonstrating the best performance on DeepSWE?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tt47tx/how_does_gpt_55_have_a_significantly_high/",
+        "title": "How much of human intelligence is hardcoded into our DNA? LLMs vs humans",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttgfc7/how_much_of_human_intelligence_is_hardcoded_into/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-05-31T19:03:39+00:00"
+        "published": "2026-06-01T03:39:33+00:00"
     },
     {
         "title": "Heads up for DeepSWE benchmark: The cost is measured per task, not the total run.",
@@ -78,15 +72,21 @@
         "published": "2026-05-31T23:22:29+00:00"
     },
     {
-        "title": "Has AI helped you or sabotaged you in finding a job?",
-        "link": "https://www.reddit.com/r/singularity/comments/1ttegpo/has_ai_helped_you_or_sabotaged_you_in_finding_a/",
+        "title": "how does gpt 5.5 have a significantly high hallucination rate while demonstrating the best performance on DeepSWE?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tt47tx/how_does_gpt_55_have_a_significantly_high/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-01T02:07:12+00:00"
+        "published": "2026-05-31T19:03:39+00:00"
     },
     {
-        "title": "Streamlined Prompt Hacks Every Producer should know.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tta51s/streamlined_prompt_hacks_every_producer_should/",
-        "image": "https://preview.redd.it/2x3t4iauwj4h1.png?width=140&height=76&auto=webp&s=d8fc2ab7bfadf19fa149f648cbaead6badda72f7",
-        "published": "2026-05-31T22:54:35+00:00"
+        "title": "MiniMax M3 is starting to rollout on the API",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttc5u3/minimax_m3_is_starting_to_rollout_on_the_api/",
+        "image": "https://preview.redd.it/goe30iwkek4h1.png?width=140&height=27&auto=webp&s=a143e18d0c2f79bb06eae9692cbbde96ec30c3b7",
+        "published": "2026-06-01T00:22:09+00:00"
+    },
+    {
+        "title": "Monkeys at keyboards, for Conway: a 36-cell random scribble that stays alive 8,798 generations [OC]",
+        "link": "https://www.reddit.com/r/singularity/comments/1ttfgb9/monkeys_at_keyboards_for_conway_a_36cell_random/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-01T02:53:25+00:00"
     }
 ]
