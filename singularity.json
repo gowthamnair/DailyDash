@@ -6,6 +6,12 @@
         "published": "2026-06-01T21:10:02+00:00"
     },
     {
+        "title": "A proposed bill to give the public a 50% ownership stake in the largest AI companies in America.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tuf0ka/a_proposed_bill_to_give_the_public_a_50_ownership/",
+        "image": "https://external-preview.redd.it/JZqcPd-TDrtUvIFLadgZmvZgokezmByHVc_WST0oYl0.jpeg?width=320&crop=smart&auto=webp&s=1f73d82977364481b6b568201b1f21d7521a4900",
+        "published": "2026-06-02T03:29:13+00:00"
+    },
+    {
         "title": "Anthropic confidentially submits draft S-1 to the SEC",
         "link": "https://www.reddit.com/r/singularity/comments/1ttwvf1/anthropic_confidentially_submits_draft_s1_to_the/",
         "image": "https://preview.redd.it/pq9rklga3p4h1.jpeg?width=640&crop=smart&auto=webp&s=2e3b247e9a3e09dfed08371d91279a7128f82212",
@@ -16,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1ttvvlg/am_i_the_only_one_who_doesnt_hate_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-01T15:34:38+00:00"
-    },
-    {
-        "title": "A proposed bill to give the public a 50% ownership stake in the largest AI companies in America.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tuf0ka/a_proposed_bill_to_give_the_public_a_50_ownership/",
-        "image": "https://external-preview.redd.it/JZqcPd-TDrtUvIFLadgZmvZgokezmByHVc_WST0oYl0.jpeg?width=320&crop=smart&auto=webp&s=1f73d82977364481b6b568201b1f21d7521a4900",
-        "published": "2026-06-02T03:29:13+00:00"
     },
     {
         "title": "Anthropic files for IPO",
@@ -72,16 +72,16 @@
         "published": "2026-06-02T00:23:11+00:00"
     },
     {
-        "title": "Some of the AI hate is partially due to bias related to time",
-        "link": "https://www.reddit.com/r/singularity/comments/1tu84gg/some_of_the_ai_hate_is_partially_due_to_bias/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-01T22:31:01+00:00"
-    },
-    {
         "title": "Are DeepSeek/Qwen/etc. realistic enterprise replacements when OpenAI and Anthropic IPO and raise prices?",
         "link": "https://www.reddit.com/r/singularity/comments/1tu6k2z/are_deepseekqwenetc_realistic_enterprise/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-01T21:33:34+00:00"
+    },
+    {
+        "title": "Some of the AI hate is partially due to bias related to time",
+        "link": "https://www.reddit.com/r/singularity/comments/1tu84gg/some_of_the_ai_hate_is_partially_due_to_bias/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-01T22:31:01+00:00"
     },
     {
         "title": "Is the \"highs\" of new model release over?",
