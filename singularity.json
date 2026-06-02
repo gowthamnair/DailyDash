@@ -18,12 +18,6 @@
         "published": "2026-06-02T11:24:59+00:00"
     },
     {
-        "title": "Anti-AI maintainer Johannes Link adds malicious prompt injection to popular Java library 'jqwik'",
-        "link": "https://www.reddit.com/r/singularity/comments/1tut9d4/antiai_maintainer_johannes_link_adds_malicious/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-02T14:50:39+00:00"
-    },
-    {
         "title": "DeepRobotics unveils DR02, with significant improvements in load\u2011carrying ability and mobility across complex terrain",
         "link": "https://www.reddit.com/r/singularity/comments/1tv2l9z/deeprobotics_unveils_dr02_with_significant/",
         "image": "https://external-preview.redd.it/eTR3Mnd4NzNmeDRoMRDADSvWRA8EjIB0bneqDUrTwjMy4TV3sOgSOrm2fJIE.png?width=640&crop=smart&auto=webp&s=a8ba5a3707b769f16a157d3a8f0522eb8f14ff15",
@@ -60,27 +54,21 @@
         "published": "2026-06-02T04:37:11+00:00"
     },
     {
-        "title": "Some of the AI hate is partially due to bias related to time",
-        "link": "https://www.reddit.com/r/singularity/comments/1tu84gg/some_of_the_ai_hate_is_partially_due_to_bias/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-01T22:31:01+00:00"
-    },
-    {
         "title": "How Much of Data-Center Activism Is Really AI Slop? (GIFT LINK)",
         "link": "https://www.reddit.com/r/singularity/comments/1tuztmi/how_much_of_datacenter_activism_is_really_ai_slop/",
         "image": "https://external-preview.redd.it/MeYuCKay2reasqUj_BjCM8hss4VNH4JBtqDHPoD4Gak.jpeg?width=640&crop=smart&auto=webp&s=0e70138a11550d4899797dcdce084fc3a55b94dc",
         "published": "2026-06-02T18:32:19+00:00"
     },
     {
-        "title": "Social Intelligence Benchmark",
-        "link": "https://www.reddit.com/r/singularity/comments/1tuwt12/social_intelligence_benchmark/",
-        "image": "https://external-preview.redd.it/0q2SYD00VkRADynag_r0yVH20vG8oe14NH_DvYO8i1Y.png?width=640&crop=smart&auto=webp&s=c423cbef7fb1275dd7d237917ed3891beb1a9a02",
-        "published": "2026-06-02T16:51:26+00:00"
-    },
-    {
         "title": "Trump finds an AI policy he can live with: The president signed a downsized AI order after postponing a similar measure last month.",
         "link": "https://www.reddit.com/r/singularity/comments/1tv31oc/trump_finds_an_ai_policy_he_can_live_with_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-02T20:24:28+00:00"
+    },
+    {
+        "title": "Social Intelligence Benchmark",
+        "link": "https://www.reddit.com/r/singularity/comments/1tuwt12/social_intelligence_benchmark/",
+        "image": "https://external-preview.redd.it/0q2SYD00VkRADynag_r0yVH20vG8oe14NH_DvYO8i1Y.png?width=640&crop=smart&auto=webp&s=c423cbef7fb1275dd7d237917ed3891beb1a9a02",
+        "published": "2026-06-02T16:51:26+00:00"
     }
 ]
