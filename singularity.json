@@ -6,16 +6,16 @@
         "published": "2026-06-02T13:24:04+00:00"
     },
     {
-        "title": "A proposed bill to give the public a 50% ownership stake in the largest AI companies in America.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tuf0ka/a_proposed_bill_to_give_the_public_a_50_ownership/",
-        "image": "https://external-preview.redd.it/JZqcPd-TDrtUvIFLadgZmvZgokezmByHVc_WST0oYl0.jpeg?width=320&crop=smart&auto=webp&s=1f73d82977364481b6b568201b1f21d7521a4900",
-        "published": "2026-06-02T03:29:13+00:00"
-    },
-    {
         "title": "Bernie Sanders: A.I. Is a Public Resource. You Should Own Half of It.",
         "link": "https://www.reddit.com/r/singularity/comments/1tuo0n5/bernie_sanders_ai_is_a_public_resource_you_should/",
         "image": "https://external-preview.redd.it/Vj_bQfzJipLZPFTDC0vAsdlrjl2-8tU808lCaU39tsk.png?width=640&crop=smart&auto=webp&s=5d01ac10461a304ce7f7890d3ead28485d83ec3c",
         "published": "2026-06-02T11:24:59+00:00"
+    },
+    {
+        "title": "Good job, clumsybot, now clean this up",
+        "link": "https://www.reddit.com/r/singularity/comments/1tvdoy3/good_job_clumsybot_now_clean_this_up/",
+        "image": "https://external-preview.redd.it/dXBrdHlrbTRvejRoMWq1KnunE7BqxfAM08lJ6SfRmdv57AemLROu-PF-4ypK.png?width=320&crop=smart&auto=webp&s=baa78c3263dea413d32475245906bf1f4bd3e4a2",
+        "published": "2026-06-03T03:42:09+00:00"
     },
     {
         "title": "DeepRobotics unveils DR02, with significant improvements in load\u2011carrying ability and mobility across complex terrain",
@@ -30,16 +30,16 @@
         "published": "2026-06-02T14:02:07+00:00"
     },
     {
-        "title": "Building a hill-climbing machine: Launching seven new MAI models | Microsoft AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1tv10ix/building_a_hillclimbing_machine_launching_seven/",
-        "image": "https://external-preview.redd.it/o-2yI1oVF3wdpToJKaWbRaBeG-HxnZZYZlc0X3OsGEM.jpeg?width=640&crop=smart&auto=webp&s=77667dbe7e699ea103152e2e0110e770dbd9b88a",
-        "published": "2026-06-02T19:13:10+00:00"
-    },
-    {
         "title": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029",
         "link": "https://www.reddit.com/r/singularity/comments/1tv16pm/microsoft_reveals_new_quantum_chip_made_with_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-02T19:19:09+00:00"
+    },
+    {
+        "title": "Building a hill-climbing machine: Launching seven new MAI models | Microsoft AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1tv10ix/building_a_hillclimbing_machine_launching_seven/",
+        "image": "https://external-preview.redd.it/o-2yI1oVF3wdpToJKaWbRaBeG-HxnZZYZlc0X3OsGEM.jpeg?width=640&crop=smart&auto=webp&s=77667dbe7e699ea103152e2e0110e770dbd9b88a",
+        "published": "2026-06-02T19:13:10+00:00"
     },
     {
         "title": "Sam Altman just pushed back on the idea that AI will wipe out most jobs.",
@@ -48,10 +48,10 @@
         "published": "2026-06-02T10:55:58+00:00"
     },
     {
-        "title": "Is the \"highs\" of new model release over?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tugf9h/is_the_highs_of_new_model_release_over/",
+        "title": "Trump finds an AI policy he can live with: The president signed a downsized AI order after postponing a similar measure last month.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tv31oc/trump_finds_an_ai_policy_he_can_live_with_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-02T04:37:11+00:00"
+        "published": "2026-06-02T20:24:28+00:00"
     },
     {
         "title": "How Much of Data-Center Activism Is Really AI Slop? (GIFT LINK)",
@@ -60,21 +60,27 @@
         "published": "2026-06-02T18:32:19+00:00"
     },
     {
-        "title": "Trump finds an AI policy he can live with: The president signed a downsized AI order after postponing a similar measure last month.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tv31oc/trump_finds_an_ai_policy_he_can_live_with_the/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-02T20:24:28+00:00"
-    },
-    {
         "title": "Social Intelligence Benchmark",
         "link": "https://www.reddit.com/r/singularity/comments/1tuwt12/social_intelligence_benchmark/",
         "image": "https://external-preview.redd.it/0q2SYD00VkRADynag_r0yVH20vG8oe14NH_DvYO8i1Y.png?width=640&crop=smart&auto=webp&s=c423cbef7fb1275dd7d237917ed3891beb1a9a02",
         "published": "2026-06-02T16:51:26+00:00"
     },
     {
-        "title": "Is AI succeeding where Crypto failed?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tv9zo8/is_ai_succeeding_where_crypto_failed/",
+        "title": "Single dose of New Limit's cellular reprogramming therapy improves survival in alcohol liver damage mouse models over multiple months of repeated alcohol cycles",
+        "link": "https://www.reddit.com/r/singularity/comments/1tvhbr7/single_dose_of_new_limits_cellular_reprogramming/",
+        "image": "https://external-preview.redd.it/M3diN2lieWNqMDVoMXWT5BFquZ1kcdAzNsDMkRoN7z95fQHv2VMnPA4uvj7W.png?width=640&crop=smart&auto=webp&s=86e09fad14de8b1dc0bb7a7c8c218c80abbea539",
+        "published": "2026-06-03T06:47:15+00:00"
+    },
+    {
+        "title": "Will intelligent AI agents in the future use cryptocurrency to exchange money with each other?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tvhva5/will_intelligent_ai_agents_in_the_future_use/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-03T00:58:46+00:00"
+        "published": "2026-06-03T07:17:45+00:00"
+    },
+    {
+        "title": "What kind of investments are safe / best for AI singularity?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tvhaw5/what_kind_of_investments_are_safe_best_for_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-03T06:45:52+00:00"
     }
 ]

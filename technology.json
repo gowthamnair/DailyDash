@@ -6,12 +6,6 @@
         "published": "2026-06-02T14:03:32+00:00"
     },
     {
-        "title": "Quote of the day by Oracle co-founder Larry Ellison: \"Citizens will be on their best behavior, because we\u2019re constantly recording and reporting everything that is going on\" \u2014 a dire warning on the erosion of privacy",
-        "link": "https://www.reddit.com/r/technology/comments/1tueaws/quote_of_the_day_by_oracle_cofounder_larry/",
-        "image": "https://external-preview.redd.it/lV2U-ug1jCDBIY8stMzAoyehYiZzYDdFxq8oVK0xwmY.jpeg?width=640&crop=smart&auto=webp&s=cadf57fb285bf616e14947c2c6dd050c22c0a649",
-        "published": "2026-06-02T02:55:58+00:00"
-    },
-    {
         "title": "New Tennessee law requires data centers to pay for their own electricity infrastructure",
         "link": "https://www.reddit.com/r/technology/comments/1tv84pf/new_tennessee_law_requires_data_centers_to_pay/",
         "image": "https://external-preview.redd.it/qT6nlqjhlwsbJuQZYcq3Fk5tKi4WEP6PoqYX5M1srxs.jpeg?width=640&crop=smart&auto=webp&s=27a493e5605bc9ac949a2778f795d39f05a13115",
@@ -66,16 +60,16 @@
         "published": "2026-06-02T21:29:01+00:00"
     },
     {
-        "title": "We [404 Media] Sued ICE to Get Its Spyware Contract. The Agency Is Redacting Essentially Everything | Paragon's software is capable of remotely break into phones and accessing messages from encrypted messaging apps. Our lawsuit aims to pry records about it from ICE.",
-        "link": "https://www.reddit.com/r/technology/comments/1tugtqx/we_404_media_sued_ice_to_get_its_spyware_contract/",
-        "image": "https://external-preview.redd.it/0cBJtT1o8DNZwsSOl4Ov6UZyW2mzuDa3lsmaxwRbLi0.png?width=640&crop=smart&auto=webp&s=8a125cd32cc74dc75e19644d001feb61239d4326",
-        "published": "2026-06-02T04:57:31+00:00"
-    },
-    {
         "title": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
         "link": "https://www.reddit.com/r/technology/comments/1tumgi1/google_owner_alphabet_to_sell_80bn_in_stock_to/",
         "image": "https://external-preview.redd.it/MtqvQ7E01fN9bfsKmFZXlZwKNlv-qaqQnj_b-35fS9k.jpeg?width=640&crop=smart&auto=webp&s=37b9f798286a03d0def799f8bbe1a24072e85224",
         "published": "2026-06-02T10:06:59+00:00"
+    },
+    {
+        "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated | Employees admitted to 404 Media they had cheated to climb the leaderboard's ranks",
+        "link": "https://www.reddit.com/r/technology/comments/1turq1w/amazon_shuts_down_internal_ai_leaderboard_after/",
+        "image": "https://external-preview.redd.it/qNG0_iIzM3ETRHPGtyFS2L4Y1A0n1OnTf8bpip4yPuk.jpeg?width=640&crop=smart&auto=webp&s=7e43133a2b21b5c604cb983e9f36d49a8dfc6303",
+        "published": "2026-06-02T13:56:07+00:00"
     },
     {
         "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1tunde2/electric_cars_became_more_affordable_across_much/",
         "image": "https://external-preview.redd.it/sGRy2V5nmb0VKBqk1VglJbvp8WaUWp9aay1HCbj6eio.jpeg?width=640&crop=smart&auto=webp&s=a4a16914103086cbeb2ddc43d465991db74568ae",
         "published": "2026-06-02T10:53:46+00:00"
+    },
+    {
+        "title": "Switzerland dug a hole the size of two soccer fields to install the world\u2019s most powerful underground battery, able to release 1.2 GW in milliseconds and store 2.1 GWh at a multibillion-dollar price tag",
+        "link": "https://www.reddit.com/r/technology/comments/1tv8961/switzerland_dug_a_hole_the_size_of_two_soccer/",
+        "image": "https://external-preview.redd.it/CC9eJS4qaxKTWiA0f_SdpzujodaG-nJGhIrhWz6rFPc.jpeg?width=640&crop=smart&auto=webp&s=931f2586048e650cbd29139e41efc22d6300cca1",
+        "published": "2026-06-02T23:43:57+00:00"
     }
 ]
