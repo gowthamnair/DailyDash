@@ -24,12 +24,6 @@
         "published": "2026-06-03T19:50:12+00:00"
     },
     {
-        "title": "Trump Signs Executive Order to Boost AI Innovation and Strengthen Cybersecurity",
-        "link": "https://www.reddit.com/r/singularity/comments/1tvlp20/trump_signs_executive_order_to_boost_ai/",
-        "image": "https://preview.redd.it/962atk12tz4h1.jpeg?width=640&crop=smart&auto=webp&s=8f11ae6833209c1eb73a67c9f1ed4988b4e24bc7",
-        "published": "2026-06-03T10:49:43+00:00"
-    },
-    {
         "title": "Reve 2.0 launches at #2 on the image Arena and with best-in-world 4K, by betting on 'layouts' over text prompts",
         "link": "https://www.reddit.com/r/singularity/comments/1tw1cij/reve_20_launches_at_2_on_the_image_arena_and_with/",
         "image": "https://external-preview.redd.it/U9F7gSiP16guUW6tjrScIDVgSY9Ypyt1XvoLDw6DjZA.png?width=640&crop=smart&auto=webp&s=b1708ddeed0988384a4737c3ae447616382d9488",
@@ -42,16 +36,22 @@
         "published": "2026-06-03T18:22:03+00:00"
     },
     {
+        "title": "Did Export Controls Accidentally Create Huawei's Biggest Opportunity Yet?",
+        "link": "https://www.reddit.com/r/singularity/comments/1twa9ct/did_export_controls_accidentally_create_huaweis/",
+        "image": "https://external-preview.redd.it/htKBPK_0eW7vHBz5zbHN3cfipheGMMiYUjoC83o52zs.jpeg?width=640&crop=smart&auto=webp&s=6180f9b09a07c22bfc21253ec554201b2b4e8a17",
+        "published": "2026-06-04T02:15:46+00:00"
+    },
+    {
         "title": "Unitree G1 on America's Got Talent",
         "link": "https://www.reddit.com/r/singularity/comments/1tvw85z/unitree_g1_on_americas_got_talent/",
         "image": "https://external-preview.redd.it/QgXV4HcTRXVTswVhbe3A0ap5sZRPlVrE-BzN_eMHK2w.jpeg?width=320&crop=smart&auto=webp&s=ac541b207d5261be394ef11059b537f8cb43f130",
         "published": "2026-06-03T17:23:36+00:00"
     },
     {
-        "title": "Did Export Controls Accidentally Create Huawei's Biggest Opportunity Yet?",
-        "link": "https://www.reddit.com/r/singularity/comments/1twa9ct/did_export_controls_accidentally_create_huaweis/",
-        "image": "https://external-preview.redd.it/htKBPK_0eW7vHBz5zbHN3cfipheGMMiYUjoC83o52zs.jpeg?width=640&crop=smart&auto=webp&s=6180f9b09a07c22bfc21253ec554201b2b4e8a17",
-        "published": "2026-06-04T02:15:46+00:00"
+        "title": "Will personal health assistants become the next layer over wearables?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tw61wb/will_personal_health_assistants_become_the_next/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-03T23:14:05+00:00"
     },
     {
         "title": "Time to take AI consciousness seriously",
@@ -60,10 +60,10 @@
         "published": "2026-06-04T05:13:07+00:00"
     },
     {
-        "title": "Will personal health assistants become the next layer over wearables?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tw61wb/will_personal_health_assistants_become_the_next/",
+        "title": "Gemma 2B multimodal model matches larger models without encoder",
+        "link": "https://www.reddit.com/r/singularity/comments/1twjpqo/gemma_2b_multimodal_model_matches_larger_models/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-03T23:14:05+00:00"
+        "published": "2026-06-04T10:31:25+00:00"
     },
     {
         "title": "Microsoft is treating their agents which want to delete customers' entire hard drives with post-inference guardrails instead of training",
