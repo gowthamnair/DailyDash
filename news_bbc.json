@@ -1,5 +1,11 @@
 [
     {
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+        "published": "Thu, 04 Jun 2026 21:34:14 GMT"
+    },
+    {
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
@@ -12,16 +18,10 @@
         "published": "Thu, 04 Jun 2026 14:46:36 GMT"
     },
     {
-        "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-        "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e875/live/5db4d870-604c-11f1-b682-cf91850925ea.jpg",
-        "published": "Thu, 04 Jun 2026 18:01:54 GMT"
-    },
-    {
-        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
-        "published": "Thu, 04 Jun 2026 17:50:20 GMT"
+        "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+        "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5fa4/live/71ba3610-605d-11f1-b682-cf91850925ea.jpg",
+        "published": "Thu, 04 Jun 2026 21:34:49 GMT"
     },
     {
         "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
@@ -36,10 +36,22 @@
         "published": "Thu, 04 Jun 2026 13:29:05 GMT"
     },
     {
+        "title": "Here's why election results in the second largest US city are so slow",
+        "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bf26/live/5f4c10e0-6065-11f1-89a3-d1f559421220.jpg",
+        "published": "Thu, 04 Jun 2026 22:20:24 GMT"
+    },
+    {
         "title": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
         "link": "https://www.bbc.com/news/articles/cvgzgd2xe2zo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1f9e/live/72232b80-6025-11f1-95b8-61705f259545.jpg",
         "published": "Thu, 04 Jun 2026 16:28:40 GMT"
+    },
+    {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
+        "published": "Thu, 04 Jun 2026 17:50:20 GMT"
     },
     {
         "title": "Kushner-backed luxury resort plan sparks protests in Albania",
@@ -66,12 +78,6 @@
         "published": "Thu, 04 Jun 2026 10:28:43 GMT"
     },
     {
-        "title": "Why is this teen fashion brand closing its fitting rooms?",
-        "link": "https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/851b/live/b3d6e150-6045-11f1-8640-4d9d14baae43.jpg",
-        "published": "Thu, 04 Jun 2026 18:48:29 GMT"
-    },
-    {
         "title": "Heavy gunfire in Somali capital as row over election delay escalates",
         "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed5b/live/edefa830-5fe2-11f1-a292-23ac7fbac375.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ba03/live/958b2530-5ff0-11f1-b682-cf91850925ea.jpg",
         "published": "Thu, 04 Jun 2026 11:55:20 GMT"
-    },
-    {
-        "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-        "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3055/live/708bc170-600b-11f1-8b8c-6d33e1d5abb6.jpg",
-        "published": "Thu, 04 Jun 2026 10:18:49 GMT"
     }
 ]

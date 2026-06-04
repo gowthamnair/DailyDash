@@ -1,15 +1,15 @@
 [
     {
-        "title": "Sam Altman, Dario Amodei, and Demis Hassabis have signed a joint open letter calling on Congress to mandate screening of synthetic nucleic acid orders",
-        "link": "https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/",
-        "image": "https://preview.redd.it/82dzben2s95h1.png?width=140&height=133&auto=webp&s=d19ada8bb78c44fa07f0f5be41747a90e7867c9a",
-        "published": "2026-06-04T13:48:18+00:00"
-    },
-    {
         "title": "Anthropic - Our internal data shows Claude is accelerating AI development\u2014a possible path to recursive self-improvement, or AI autonomously building a more capable successor.",
         "link": "https://www.reddit.com/r/singularity/comments/1twsm5g/anthropic_our_internal_data_shows_claude_is/",
         "image": "https://preview.redd.it/9ph4lq42la5h1.jpeg?width=640&crop=smart&auto=webp&s=f54e6fff7fb1327d8759f885c2578038a42b725d",
         "published": "2026-06-04T16:24:32+00:00"
+    },
+    {
+        "title": "Sam Altman, Dario Amodei, and Demis Hassabis have signed a joint open letter calling on Congress to mandate screening of synthetic nucleic acid orders",
+        "link": "https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/",
+        "image": "https://preview.redd.it/82dzben2s95h1.png?width=140&height=133&auto=webp&s=d19ada8bb78c44fa07f0f5be41747a90e7867c9a",
+        "published": "2026-06-04T13:48:18+00:00"
     },
     {
         "title": "Ted Chiang: No, Artificial Intelligence is not Conscious",
@@ -18,16 +18,16 @@
         "published": "2026-06-04T00:56:37+00:00"
     },
     {
-        "title": "Leaked Mythos SVG",
-        "link": "https://www.reddit.com/r/singularity/comments/1twuap9/leaked_mythos_svg/",
-        "image": "https://preview.redd.it/2xhwhfviva5h1.png?width=640&crop=smart&auto=webp&s=f2f903756963b46987512e6e7edc4e780ec81d91",
-        "published": "2026-06-04T17:23:11+00:00"
-    },
-    {
         "title": "Mythos can improve speed of training code 52x (compared to human 4x at 4-8hrs)",
         "link": "https://www.reddit.com/r/singularity/comments/1twy548/mythos_can_improve_speed_of_training_code_52x/",
         "image": "https://preview.redd.it/ujgv6lrejb5h1.jpeg?width=640&crop=smart&auto=webp&s=a66e66da67a06ef06d8407463fa7305cfe936474",
         "published": "2026-06-04T19:37:04+00:00"
+    },
+    {
+        "title": "Leaked Mythos SVG",
+        "link": "https://www.reddit.com/r/singularity/comments/1twuap9/leaked_mythos_svg/",
+        "image": "https://preview.redd.it/2xhwhfviva5h1.png?width=640&crop=smart&auto=webp&s=f2f903756963b46987512e6e7edc4e780ec81d91",
+        "published": "2026-06-04T17:23:11+00:00"
     },
     {
         "title": "Canada's Prime Minister Mark Carney launches AI for All: Canada\u2019s national artificial intelligence strategy.",
@@ -60,12 +60,6 @@
         "published": "2026-06-04T02:15:46+00:00"
     },
     {
-        "title": "Reasoning models are indicated by a lightbulb icon",
-        "link": "https://www.reddit.com/r/singularity/comments/1twwjtd/reasoning_models_are_indicated_by_a_lightbulb_icon/",
-        "image": "https://preview.redd.it/ojwxnncp8b5h1.png?width=640&crop=smart&auto=webp&s=2db4e92735ea0eb8fc314d0c40cd772b4f4a0994",
-        "published": "2026-06-04T18:41:10+00:00"
-    },
-    {
         "title": "Anthropic advocates for [the option of] pausing AI development",
         "link": "https://www.reddit.com/r/singularity/comments/1twytiy/anthropic_advocates_for_the_option_of_pausing_ai/",
         "image": "https://preview.redd.it/18lcs2bita5h1.png?width=640&crop=smart&auto=webp&s=1baee3073d5026f2e68ecf38ffaeae39e956605c",
@@ -78,15 +72,21 @@
         "published": "2026-06-04T16:56:35+00:00"
     },
     {
-        "title": "Will personal health assistants become the next layer over wearables?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tw61wb/will_personal_health_assistants_become_the_next/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-03T23:14:05+00:00"
+        "title": "Reasoning models are indicated by a lightbulb icon",
+        "link": "https://www.reddit.com/r/singularity/comments/1twwjtd/reasoning_models_are_indicated_by_a_lightbulb_icon/",
+        "image": "https://preview.redd.it/ojwxnncp8b5h1.png?width=640&crop=smart&auto=webp&s=2db4e92735ea0eb8fc314d0c40cd772b4f4a0994",
+        "published": "2026-06-04T18:41:10+00:00"
     },
     {
         "title": "AI's presence alone is enough for people to start spouting eugenics rhetoric",
         "link": "https://www.reddit.com/r/singularity/comments/1twrqzv/ais_presence_alone_is_enough_for_people_to_start/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-04T15:54:58+00:00"
+    },
+    {
+        "title": "Will personal health assistants become the next layer over wearables?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tw61wb/will_personal_health_assistants_become_the_next/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-03T23:14:05+00:00"
     }
 ]
