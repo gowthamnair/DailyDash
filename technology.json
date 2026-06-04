@@ -12,16 +12,16 @@
         "published": "2026-06-04T00:01:36+00:00"
     },
     {
-        "title": "Americans Have Grown Dramatically Anti-Data Center in Just Months, Survey Finds",
-        "link": "https://www.reddit.com/r/technology/comments/1tw47im/americans_have_grown_dramatically_antidata_center/",
-        "image": "https://external-preview.redd.it/EbLwZdc69xUm3lQ9PY7pgG0JhwlQsOq3mXnz4nHEWrI.jpeg?width=640&crop=smart&auto=webp&s=3c8be6ae05b2981e6e7f492badc2c61305639ba1",
-        "published": "2026-06-03T22:02:39+00:00"
-    },
-    {
         "title": "A CEO told employees they won't get raises in 2026 because the budget is going to AI",
         "link": "https://www.reddit.com/r/technology/comments/1twl47q/a_ceo_told_employees_they_wont_get_raises_in_2026/",
         "image": "https://external-preview.redd.it/liBIDOyeV9GEw9W-OP8lY8GxxwojtCsYiTl_KgAecOs.jpeg?width=640&crop=smart&auto=webp&s=f7052c4f4a112f3ad4f93470ff4cb15b6ad09a37",
         "published": "2026-06-04T11:40:42+00:00"
+    },
+    {
+        "title": "Americans Have Grown Dramatically Anti-Data Center in Just Months, Survey Finds",
+        "link": "https://www.reddit.com/r/technology/comments/1tw47im/americans_have_grown_dramatically_antidata_center/",
+        "image": "https://external-preview.redd.it/EbLwZdc69xUm3lQ9PY7pgG0JhwlQsOq3mXnz4nHEWrI.jpeg?width=640&crop=smart&auto=webp&s=3c8be6ae05b2981e6e7f492badc2c61305639ba1",
+        "published": "2026-06-03T22:02:39+00:00"
     },
     {
         "title": "It\u2019s official: More money is now spent building data centers than the government spends on transportation",
@@ -36,28 +36,16 @@
         "published": "2026-06-03T21:53:30+00:00"
     },
     {
-        "title": "GoPro is in serious financial trouble. Action camera giant is at risk for potential bankruptcy",
-        "link": "https://www.reddit.com/r/technology/comments/1twjxjk/gopro_is_in_serious_financial_trouble_action/",
-        "image": "https://external-preview.redd.it/G1QhylvPUAGiB580RQ-B8-Q4bPYW7u6aiH2_R9JmkI0.jpeg?width=640&crop=smart&auto=webp&s=169d230eb5013c2cd061e0e919a2f372be154913",
-        "published": "2026-06-04T10:42:26+00:00"
-    },
-    {
-        "title": "Demand Is Booming for New No Tech, Repairable Tractor",
-        "link": "https://www.reddit.com/r/technology/comments/1tw11lr/demand_is_booming_for_new_no_tech_repairable/",
-        "image": "https://external-preview.redd.it/7o_NoBac1nxce6emAv2cu4cUsmp8iVWnbthizCMItKI.png?width=640&crop=smart&auto=webp&s=fc742c385543f7ef5f205a72c81c310db42aac11",
-        "published": "2026-06-03T20:06:47+00:00"
-    },
-    {
         "title": "GitHub just switched Copilot to metered billing, and developers are watching months of credits vanish in a single day",
         "link": "https://www.reddit.com/r/technology/comments/1twmt4e/github_just_switched_copilot_to_metered_billing/",
         "image": "https://external-preview.redd.it/JQy68q3zgEDjqYBVxqh2gVqCS55Q2zBeKpy_loKuUFc.jpeg?width=640&crop=smart&auto=webp&s=4120945c3754fcaaf0788290a635e93c87298e39",
         "published": "2026-06-04T12:53:55+00:00"
     },
     {
-        "title": "Alphabet\u2019s $80 billion stock sale leaves Wall Street in \u2018unprecedented territory,\u2019 says Goldman\u2019s Gutman",
-        "link": "https://www.reddit.com/r/technology/comments/1tw61sn/alphabets_80_billion_stock_sale_leaves_wall/",
-        "image": "https://external-preview.redd.it/W-baD-ZZilaz-42HDcW0OT8XH3nNm-Ln6eu9kqp5VNY.jpeg?width=640&crop=smart&auto=webp&s=bb44f14e6dbbb27cfc448be369402d6ea226fdef",
-        "published": "2026-06-03T23:13:58+00:00"
+        "title": "GoPro is in serious financial trouble. Action camera giant is at risk for potential bankruptcy",
+        "link": "https://www.reddit.com/r/technology/comments/1twjxjk/gopro_is_in_serious_financial_trouble_action/",
+        "image": "https://external-preview.redd.it/G1QhylvPUAGiB580RQ-B8-Q4bPYW7u6aiH2_R9JmkI0.jpeg?width=640&crop=smart&auto=webp&s=169d230eb5013c2cd061e0e919a2f372be154913",
+        "published": "2026-06-04T10:42:26+00:00"
     },
     {
         "title": "\u2018Bots have now passed human traffic online,\u2019 Cloudflare boss laments \u2014 says agentic traffic wasn\u2019t expected to eclipse real people until next year",
@@ -66,10 +54,22 @@
         "published": "2026-06-04T12:05:49+00:00"
     },
     {
-        "title": "Failing grades soar as professors see greater AI usage, dwindling math skills in UC Berkeley computer science classes",
-        "link": "https://www.reddit.com/r/technology/comments/1tw5c71/failing_grades_soar_as_professors_see_greater_ai/",
-        "image": "https://external-preview.redd.it/hCQtSxXsNcOwnqa9VEmx4XZQmNXApi384lJYjz7u1no.jpeg?width=640&crop=smart&auto=webp&s=ccb45225ee84faaf73147648db2b0ef9fae1df7b",
-        "published": "2026-06-03T22:46:09+00:00"
+        "title": "Demand Is Booming for New No Tech, Repairable Tractor",
+        "link": "https://www.reddit.com/r/technology/comments/1tw11lr/demand_is_booming_for_new_no_tech_repairable/",
+        "image": "https://external-preview.redd.it/7o_NoBac1nxce6emAv2cu4cUsmp8iVWnbthizCMItKI.png?width=640&crop=smart&auto=webp&s=fc742c385543f7ef5f205a72c81c310db42aac11",
+        "published": "2026-06-03T20:06:47+00:00"
+    },
+    {
+        "title": "Alphabet\u2019s $80 billion stock sale leaves Wall Street in \u2018unprecedented territory,\u2019 says Goldman\u2019s Gutman",
+        "link": "https://www.reddit.com/r/technology/comments/1tw61sn/alphabets_80_billion_stock_sale_leaves_wall/",
+        "image": "https://external-preview.redd.it/W-baD-ZZilaz-42HDcW0OT8XH3nNm-Ln6eu9kqp5VNY.jpeg?width=640&crop=smart&auto=webp&s=bb44f14e6dbbb27cfc448be369402d6ea226fdef",
+        "published": "2026-06-03T23:13:58+00:00"
+    },
+    {
+        "title": "Seattle poised to ban new datacenters, the largest city yet in the US to consider such a moratorium",
+        "link": "https://www.reddit.com/r/technology/comments/1twqfax/seattle_poised_to_ban_new_datacenters_the_largest/",
+        "image": "https://external-preview.redd.it/7CovA3HzYq4FwrVf-n4w8yV7A2fBKqEKIVevquPR0Ys.jpeg?width=640&crop=smart&auto=webp&s=c9fd1ba631a24d64b5ab3a475cbe66400e7fcb5a",
+        "published": "2026-06-04T15:08:08+00:00"
     },
     {
         "title": "Colorado Governor Vetoes Surveillance Pricing Ban as Public Backlash Against the Tech Grows",
@@ -78,15 +78,15 @@
         "published": "2026-06-04T02:45:33+00:00"
     },
     {
+        "title": "Failing grades soar as professors see greater AI usage, dwindling math skills in UC Berkeley computer science classes",
+        "link": "https://www.reddit.com/r/technology/comments/1tw5c71/failing_grades_soar_as_professors_see_greater_ai/",
+        "image": "https://external-preview.redd.it/hCQtSxXsNcOwnqa9VEmx4XZQmNXApi384lJYjz7u1no.jpeg?width=640&crop=smart&auto=webp&s=ccb45225ee84faaf73147648db2b0ef9fae1df7b",
+        "published": "2026-06-03T22:46:09+00:00"
+    },
+    {
         "title": "Palantir Systems\u2019 Potential for Enshittification Has Become an \u2018Unacceptable\u2019 Risk, UK Politicians Say",
         "link": "https://www.reddit.com/r/technology/comments/1tvzmz5/palantir_systems_potential_for_enshittification/",
         "image": "https://external-preview.redd.it/iY7gIJmAli5jfWn_ct8edGjZ8pMaOqcNIi8rQz_Ce-E.jpeg?width=640&crop=smart&auto=webp&s=cf8e651fc47b163ef116fd0b5b9382972b28db14",
         "published": "2026-06-03T19:17:27+00:00"
-    },
-    {
-        "title": "Amazon\u2019s search bar will invent AI-generated products you can\u2019t buy",
-        "link": "https://www.reddit.com/r/technology/comments/1tvx1pe/amazons_search_bar_will_invent_aigenerated/",
-        "image": "https://external-preview.redd.it/r6EgarxujcSvuHdjumJVAV-egRR2o1Wy31LlOhLESUc.png?width=640&crop=smart&auto=webp&s=74a1010750cf5419d7a283d9507e41e0c80758b0",
-        "published": "2026-06-03T17:51:57+00:00"
     }
 ]
