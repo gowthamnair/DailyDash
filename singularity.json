@@ -1,11 +1,5 @@
 [
     {
-        "title": "Mythos can improve speed of training code 52x (compared to human 4x at 4-8hrs)",
-        "link": "https://www.reddit.com/r/singularity/comments/1twy548/mythos_can_improve_speed_of_training_code_52x/",
-        "image": "https://preview.redd.it/ujgv6lrejb5h1.jpeg?width=640&crop=smart&auto=webp&s=a66e66da67a06ef06d8407463fa7305cfe936474",
-        "published": "2026-06-04T19:37:04+00:00"
-    },
-    {
         "title": "Anthropic Urges Global Pause in AI Development, Flags \u2018Self-Improvement\u2019 Risk",
         "link": "https://www.reddit.com/r/singularity/comments/1tx5se6/anthropic_urges_global_pause_in_ai_development/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -48,6 +42,12 @@
         "published": "2026-06-05T11:14:42+00:00"
     },
     {
+        "title": "Google has entered a $920 million monthly cloud compute deal with SpaceX",
+        "link": "https://www.reddit.com/r/singularity/comments/1txve3j/google_has_entered_a_920_million_monthly_cloud/",
+        "image": "https://preview.redd.it/vn0s7sp4qi5h1.png?width=640&crop=smart&auto=webp&s=4e07090d5e086a944c59ce3882fcfc9d770bcf51",
+        "published": "2026-06-05T19:47:20+00:00"
+    },
+    {
         "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
         "link": "https://www.reddit.com/r/singularity/comments/1txq0o2/googles_quantization_aware_trained_gemma/",
         "image": "https://preview.redd.it/xlbhoteqqh5h1.png?width=640&crop=smart&auto=webp&s=1a7bd38b777121b3ebc317eb209821d2bc0a23d5",
@@ -58,6 +58,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tx840v/is_technology_still_advancing_exponentially/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-05T02:27:20+00:00"
+    },
+    {
+        "title": "World Labs' Fei-Fei Li on Creating Large World Models",
+        "link": "https://www.reddit.com/r/singularity/comments/1txhnyh/world_labs_feifei_li_on_creating_large_world/",
+        "image": "https://external-preview.redd.it/3sivvrszlgcEzcOk1eqfznV8yIUIh22yXMq9tjYG74c.jpeg?width=320&crop=smart&auto=webp&s=44ded8cecd0d89ec8132109331cbc402c70caa1a",
+        "published": "2026-06-05T11:00:54+00:00"
     },
     {
         "title": "Inside Google DeepMind: Reasoning, Omni, and Shipping Frontier AI",
@@ -72,15 +78,9 @@
         "published": "2026-06-05T14:19:53+00:00"
     },
     {
-        "title": "World Labs' Fei-Fei Li on Creating Large World Models",
-        "link": "https://www.reddit.com/r/singularity/comments/1txhnyh/world_labs_feifei_li_on_creating_large_world/",
-        "image": "https://external-preview.redd.it/3sivvrszlgcEzcOk1eqfznV8yIUIh22yXMq9tjYG74c.jpeg?width=320&crop=smart&auto=webp&s=44ded8cecd0d89ec8132109331cbc402c70caa1a",
-        "published": "2026-06-05T11:00:54+00:00"
-    },
-    {
-        "title": "Will the public markets be kind to the AI bubble?",
-        "link": "https://www.reddit.com/r/singularity/comments/1txo38p/will_the_public_markets_be_kind_to_the_ai_bubble/",
-        "image": "https://external-preview.redd.it/6ry86Zp0Lj75TRv-j-paiih_Iq-iVD6fsgGBKboIfRA.jpeg?width=640&crop=smart&auto=webp&s=04d2fe5cb1a5ae98da3f0d35f16421e3e4212e60",
-        "published": "2026-06-05T15:24:09+00:00"
+        "title": "When AI Builds Itself | Anthropic Institute",
+        "link": "https://www.reddit.com/r/singularity/comments/1txvkgs/when_ai_builds_itself_anthropic_institute/",
+        "image": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
+        "published": "2026-06-05T19:54:02+00:00"
     }
 ]

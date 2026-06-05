@@ -1,11 +1,5 @@
 [
     {
-        "title": "Spammers are flooding Reddit with fake posts designed to show up in AI search results",
-        "link": "https://www.reddit.com/r/technology/comments/1twzntr/spammers_are_flooding_reddit_with_fake_posts/",
-        "image": "https://external-preview.redd.it/mS8-7igLkeg6T6R3fbRRvvR0e4eIylb3pUiQ0PINAJE.jpeg?width=640&crop=smart&auto=webp&s=30114d17aaebcb1da84e4125a72f37ea21363df8",
-        "published": "2026-06-04T20:33:05+00:00"
-    },
-    {
         "title": "Republicans Claim Anti-Data Center Movement Is a Chinese Psy-Op",
         "link": "https://www.reddit.com/r/technology/comments/1txift2/republicans_claim_antidata_center_movement_is_a/",
         "image": "https://external-preview.redd.it/9PrewluHgofRcIQXKHPy887oO456EW8N9yRmnhDiEFI.jpeg?width=640&crop=smart&auto=webp&s=10e9326983e1d7e9984704b3b9cca2c0196ed560",
@@ -18,16 +12,16 @@
         "published": "2026-06-05T05:12:05+00:00"
     },
     {
-        "title": "YouTube hikes Premium subscription cost again while adding advanced video features",
-        "link": "https://www.reddit.com/r/technology/comments/1twxc1x/youtube_hikes_premium_subscription_cost_again/",
-        "image": "https://external-preview.redd.it/u0wOTHOL4kXGA8rnSDbD5S9FSQG_jONtH7lHD6c2BPk.jpeg?width=640&crop=smart&auto=webp&s=adc3fe00ff5389b25712ad28f0c26d4c98675d60",
-        "published": "2026-06-04T19:08:17+00:00"
-    },
-    {
         "title": "NASA orders International \u200cSpace Station astronauts to shelter, prepare for evacuation due to air leak",
         "link": "https://www.reddit.com/r/technology/comments/1txo1r9/nasa_orders_international_space_station/",
         "image": "https://external-preview.redd.it/hIpxYHKFMLFgPyJIOAFGUY7HUCjZGc0BOuhB8JBNkcw.jpeg?width=320&crop=smart&auto=webp&s=4d3c68c23e06b708f952ddc1b7f514ebffae9cc5",
         "published": "2026-06-05T15:22:44+00:00"
+    },
+    {
+        "title": "Leak Reveals Microsoft Wants Its AI To Be 'Addictive'",
+        "link": "https://www.reddit.com/r/technology/comments/1txpmq4/leak_reveals_microsoft_wants_its_ai_to_be/",
+        "image": "https://external-preview.redd.it/GAs5Z0ZYsktuV9hqwpJZdZR13RS-SmRJNIEAKR-4HUw.jpeg?width=640&crop=smart&auto=webp&s=39c52eab6bddec03df5064eb5f7e5e7fe97b6351",
+        "published": "2026-06-05T16:19:23+00:00"
     },
     {
         "title": "Hackers are turning up to offices and posing as IT support, FBI warns",
@@ -42,22 +36,16 @@
         "published": "2026-06-04T22:05:41+00:00"
     },
     {
+        "title": "\u2018Big Tech is desperate\u2019: Amazon engineers criticize tech giant for its $200 billion in data center spending amid slashing 30,000 corporate employees",
+        "link": "https://www.reddit.com/r/technology/comments/1txskkb/big_tech_is_desperate_amazon_engineers_criticize/",
+        "image": "https://external-preview.redd.it/Oyc-kxuigpOUNK5qQFTyDoTix1V27irwg59UkuILU5Q.jpeg?width=640&crop=smart&auto=webp&s=2f684f728345c4e345c739add6e3ca370d0e30b5",
+        "published": "2026-06-05T18:04:26+00:00"
+    },
+    {
         "title": "People Are Not Happy About Google\u2019s Plan to Release Millions of Bioengineered Mosquitoes Into the Wild",
         "link": "https://www.reddit.com/r/technology/comments/1tx73gy/people_are_not_happy_about_googles_plan_to/",
         "image": "https://external-preview.redd.it/yVYAfbsi4C8AuAhckjETgyrmdSPO8gNj2h-j-lTumiY.jpeg?width=640&crop=smart&auto=webp&s=606d9b37c79506392e6afcdf65a8b9ef72996631",
         "published": "2026-06-05T01:40:53+00:00"
-    },
-    {
-        "title": "Leak Reveals Microsoft Wants Its AI To Be 'Addictive'",
-        "link": "https://www.reddit.com/r/technology/comments/1txpmq4/leak_reveals_microsoft_wants_its_ai_to_be/",
-        "image": "https://external-preview.redd.it/GAs5Z0ZYsktuV9hqwpJZdZR13RS-SmRJNIEAKR-4HUw.jpeg?width=640&crop=smart&auto=webp&s=39c52eab6bddec03df5064eb5f7e5e7fe97b6351",
-        "published": "2026-06-05T16:19:23+00:00"
-    },
-    {
-        "title": "U.S. Government Officials In Talks To Acquire Shares In AI giants",
-        "link": "https://www.reddit.com/r/technology/comments/1tx714g/us_government_officials_in_talks_to_acquire/",
-        "image": "https://external-preview.redd.it/RZtkUMbQv6JdgXS0wJgtYvg0PzFaMNSWChV1TTbgv-8.jpeg?width=640&crop=smart&auto=webp&s=17878b76bd3c1f37664649c49e3648a66178824f",
-        "published": "2026-06-05T01:37:54+00:00"
     },
     {
         "title": "Let us filter AI slop, you cowards - Online platforms could prove whether AI labels work by giving us a filter option, but then they\u2019d have to face reality.",
@@ -66,27 +54,39 @@
         "published": "2026-06-05T13:50:12+00:00"
     },
     {
+        "title": "U.S. Government Officials In Talks To Acquire Shares In AI giants",
+        "link": "https://www.reddit.com/r/technology/comments/1tx714g/us_government_officials_in_talks_to_acquire/",
+        "image": "https://external-preview.redd.it/RZtkUMbQv6JdgXS0wJgtYvg0PzFaMNSWChV1TTbgv-8.jpeg?width=640&crop=smart&auto=webp&s=17878b76bd3c1f37664649c49e3648a66178824f",
+        "published": "2026-06-05T01:37:54+00:00"
+    },
+    {
+        "title": "Exclusive: US states preparing lawsuit to block Paramount's acquisition of Warner Bros, sources say",
+        "link": "https://www.reddit.com/r/technology/comments/1txv5az/exclusive_us_states_preparing_lawsuit_to_block/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-05T19:38:18+00:00"
+    },
+    {
         "title": "Brave is charging $60 to remove features it added in the first place",
         "link": "https://www.reddit.com/r/technology/comments/1txdxoh/brave_is_charging_60_to_remove_features_it_added/",
         "image": "https://external-preview.redd.it/_sD0cTzoRhCOUV2oJ1jjrIXmmkgpBLrQ0Tec3tafKHU.jpeg?width=640&crop=smart&auto=webp&s=558438c2d678b88e1fb5b76e6274daddc51b8904",
         "published": "2026-06-05T07:30:45+00:00"
     },
     {
-        "title": "The Pentagon Is Running an AI Propaganda Mill Targeting Latin America",
-        "link": "https://www.reddit.com/r/technology/comments/1twzg9t/the_pentagon_is_running_an_ai_propaganda_mill/",
-        "image": "https://external-preview.redd.it/MPC7VrYvWKssbUAL1bVRnqcwxcAn2NV8zPmIxK148Tk.jpeg?width=640&crop=smart&auto=webp&s=a9409f2ce84491e0f268ae5fe467946cebcecd6a",
-        "published": "2026-06-04T20:25:17+00:00"
-    },
-    {
-        "title": "SpaceX blocked from early US benchmark index entry as S&P reaffirms existing rules",
-        "link": "https://www.reddit.com/r/technology/comments/1tx8dl3/spacex_blocked_from_early_us_benchmark_index/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-05T02:39:47+00:00"
+        "title": "Take This Data Center and Shove It -- Americans ain\u2019t puttin\u2019 up with these things no more",
+        "link": "https://www.reddit.com/r/technology/comments/1txtwxv/take_this_data_center_and_shove_it_americans_aint/",
+        "image": "https://external-preview.redd.it/kM_3YbfmZxXZ4sXGhaqkx27m_zpYGMDqfK8CvB_trE0.jpeg?width=640&crop=smart&auto=webp&s=89918bd538c4d690cf6f85c3a6e7432e0cfe621a",
+        "published": "2026-06-05T18:53:25+00:00"
     },
     {
         "title": "US tech industry cut 123,653 jobs since January 2026, up 66% from last year during the same period \u2014 AI now the most cited reason for cuts by US employers: report",
         "link": "https://www.reddit.com/r/technology/comments/1txfz34/us_tech_industry_cut_123653_jobs_since_january/",
         "image": "https://external-preview.redd.it/-vCt-wwwW9phHpmy6yQx9OdabFELDCUj0Afvyo-gFA8.jpeg?width=640&crop=smart&auto=webp&s=5d7f07c8e397b123fc5ef6137f17e0943f3a2c80",
         "published": "2026-06-05T09:30:32+00:00"
+    },
+    {
+        "title": "SpaceX blocked from early US benchmark index entry as S&P reaffirms existing rules",
+        "link": "https://www.reddit.com/r/technology/comments/1tx8dl3/spacex_blocked_from_early_us_benchmark_index/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-05T02:39:47+00:00"
     }
 ]
