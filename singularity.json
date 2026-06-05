@@ -1,17 +1,5 @@
 [
     {
-        "title": "Anthropic - Our internal data shows Claude is accelerating AI development\u2014a possible path to recursive self-improvement, or AI autonomously building a more capable successor.",
-        "link": "https://www.reddit.com/r/singularity/comments/1twsm5g/anthropic_our_internal_data_shows_claude_is/",
-        "image": "https://preview.redd.it/9ph4lq42la5h1.jpeg?width=640&crop=smart&auto=webp&s=f54e6fff7fb1327d8759f885c2578038a42b725d",
-        "published": "2026-06-04T16:24:32+00:00"
-    },
-    {
-        "title": "Sam Altman, Dario Amodei, and Demis Hassabis have signed a joint open letter calling on Congress to mandate screening of synthetic nucleic acid orders",
-        "link": "https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/",
-        "image": "https://preview.redd.it/82dzben2s95h1.png?width=140&height=133&auto=webp&s=d19ada8bb78c44fa07f0f5be41747a90e7867c9a",
-        "published": "2026-06-04T13:48:18+00:00"
-    },
-    {
         "title": "Mythos can improve speed of training code 52x (compared to human 4x at 4-8hrs)",
         "link": "https://www.reddit.com/r/singularity/comments/1twy548/mythos_can_improve_speed_of_training_code_52x/",
         "image": "https://preview.redd.it/ujgv6lrejb5h1.jpeg?width=640&crop=smart&auto=webp&s=a66e66da67a06ef06d8407463fa7305cfe936474",
@@ -36,16 +24,10 @@
         "published": "2026-06-05T00:42:02+00:00"
     },
     {
-        "title": "ChatGPT memory gets dreaming upgrade",
-        "link": "https://www.reddit.com/r/singularity/comments/1twuq5s/chatgpt_memory_gets_dreaming_upgrade/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-04T17:38:07+00:00"
-    },
-    {
-        "title": "'World-first' vaccine designed by Artificial Intelligence",
-        "link": "https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-05T00:47:01+00:00"
+        "title": "Zero-Shot and Low Effort Output of Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1txibw4/zeroshot_and_low_effort_output_of_mythos/",
+        "image": "https://external-preview.redd.it/aHlyOXhqcTFhZzVoMYBYNn6KlOPc684M99xBLskf81PxkdI1dsal_1lhp8Gx.png?width=640&crop=smart&auto=webp&s=285da63884224dc41236a2af66001f0a2696c39a",
+        "published": "2026-06-05T11:33:31+00:00"
     },
     {
         "title": "What a time to be alive",
@@ -54,22 +36,28 @@
         "published": "2026-06-05T09:51:23+00:00"
     },
     {
-        "title": "Zero-Shot and Low Effort Output of Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1txibw4/zeroshot_and_low_effort_output_of_mythos/",
-        "image": "https://external-preview.redd.it/aHlyOXhqcTFhZzVoMYBYNn6KlOPc684M99xBLskf81PxkdI1dsal_1lhp8Gx.png?width=640&crop=smart&auto=webp&s=285da63884224dc41236a2af66001f0a2696c39a",
-        "published": "2026-06-05T11:33:31+00:00"
+        "title": "'World-first' vaccine designed by Artificial Intelligence",
+        "link": "https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-05T00:47:01+00:00"
     },
     {
-        "title": "China\u2019s Underwater Wind-Powered Data Center is Now Fully Operational",
-        "link": "https://www.reddit.com/r/singularity/comments/1twpjuw/chinas_underwater_windpowered_data_center_is_now/",
+        "title": "ChatGPT memory gets dreaming upgrade",
+        "link": "https://www.reddit.com/r/singularity/comments/1twuq5s/chatgpt_memory_gets_dreaming_upgrade/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-04T14:37:06+00:00"
+        "published": "2026-06-04T17:38:07+00:00"
     },
     {
         "title": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
         "link": "https://www.reddit.com/r/singularity/comments/1tx81a3/ai_can_seem_more_human_than_real_humans_in_a/",
         "image": "https://external-preview.redd.it/iYsHzO_4aeqsdQafXTOhtYYsI94CplnHsl4aNxfcxZg.jpeg?width=640&crop=smart&auto=webp&s=75c69a0a52701df763b433424940a81b512c0771",
         "published": "2026-06-05T02:23:50+00:00"
+    },
+    {
+        "title": "Unitree G1 carrying a load while climbing",
+        "link": "https://www.reddit.com/r/singularity/comments/1txkrob/unitree_g1_carrying_a_load_while_climbing/",
+        "image": "https://external-preview.redd.it/anV4aGNjcHVzZzVoMSu2dMuB1y8sRqf6V0nyueyQzTn-gHVki45ATS8sAEFE.png?width=640&crop=smart&auto=webp&s=5542706ec942ad5d87171d25418259fb0e4f58d3",
+        "published": "2026-06-05T13:18:55+00:00"
     },
     {
         "title": "Reasoning models are indicated by a lightbulb icon",
@@ -84,9 +72,21 @@
         "published": "2026-06-04T16:56:35+00:00"
     },
     {
+        "title": "A Chinese startup just launched smart glasses that run Claude Code and Codex for hands-free \"vibe coding\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1txhxtf/a_chinese_startup_just_launched_smart_glasses/",
+        "image": "https://preview.redd.it/w9ke3ljo6g5h1.jpeg?width=640&crop=smart&auto=webp&s=f648ff0257502e1e30e812222d4ee01ac11c5f4d",
+        "published": "2026-06-05T11:14:42+00:00"
+    },
+    {
         "title": "Is technology still advancing exponentially?",
         "link": "https://www.reddit.com/r/singularity/comments/1tx840v/is_technology_still_advancing_exponentially/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-05T02:27:20+00:00"
+    },
+    {
+        "title": "Inside Google DeepMind: Reasoning, Omni, and Shipping Frontier AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1txe35h/inside_google_deepmind_reasoning_omni_and/",
+        "image": "https://external-preview.redd.it/i7S1Gqk5wzoNlnGVKUIzxe3dVrLhcPacL5ivkZt4INA.jpeg?width=320&crop=smart&auto=webp&s=71679b77dcb0e1b505e58845e9d0ebb4eb82b057",
+        "published": "2026-06-05T07:39:59+00:00"
     }
 ]
