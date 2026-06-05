@@ -18,16 +18,16 @@
         "published": "2026-06-04T19:37:04+00:00"
     },
     {
-        "title": "Leaked Mythos SVG",
-        "link": "https://www.reddit.com/r/singularity/comments/1twuap9/leaked_mythos_svg/",
-        "image": "https://preview.redd.it/2xhwhfviva5h1.png?width=640&crop=smart&auto=webp&s=f2f903756963b46987512e6e7edc4e780ec81d91",
-        "published": "2026-06-04T17:23:11+00:00"
-    },
-    {
         "title": "Canada's Prime Minister Mark Carney launches AI for All: Canada\u2019s national artificial intelligence strategy.",
         "link": "https://www.reddit.com/r/singularity/comments/1twubff/canadas_prime_minister_mark_carney_launches_ai/",
         "image": "https://external-preview.redd.it/HaRGhV3vYyCx4oTQZGd20P3FSLAhIUhDgDjdJmT36zY.png?width=640&crop=smart&auto=webp&s=4869f94c7e432a18eae7f4118b1bb9ce13c2df95",
         "published": "2026-06-04T17:23:52+00:00"
+    },
+    {
+        "title": "Leaked Mythos SVG",
+        "link": "https://www.reddit.com/r/singularity/comments/1twuap9/leaked_mythos_svg/",
+        "image": "https://preview.redd.it/2xhwhfviva5h1.png?width=640&crop=smart&auto=webp&s=f2f903756963b46987512e6e7edc4e780ec81d91",
+        "published": "2026-06-04T17:23:11+00:00"
     },
     {
         "title": "Anthropic Urges Global Pause in AI Development, Flags \u2018Self-Improvement\u2019 Risk",
@@ -48,16 +48,28 @@
         "published": "2026-06-05T00:47:01+00:00"
     },
     {
-        "title": "Newly released Wuji Hand 2 at ICRA2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1twljkg/newly_released_wuji_hand_2_at_icra2026/",
+        "title": "What a time to be alive",
+        "link": "https://www.reddit.com/r/singularity/comments/1txgc6x/what_a_time_to_be_alive/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-04T12:00:08+00:00"
+        "published": "2026-06-05T09:51:23+00:00"
+    },
+    {
+        "title": "Zero-Shot and Low Effort Output of Mythos",
+        "link": "https://www.reddit.com/r/singularity/comments/1txibw4/zeroshot_and_low_effort_output_of_mythos/",
+        "image": "https://external-preview.redd.it/aHlyOXhqcTFhZzVoMYBYNn6KlOPc684M99xBLskf81PxkdI1dsal_1lhp8Gx.png?width=640&crop=smart&auto=webp&s=285da63884224dc41236a2af66001f0a2696c39a",
+        "published": "2026-06-05T11:33:31+00:00"
     },
     {
         "title": "China\u2019s Underwater Wind-Powered Data Center is Now Fully Operational",
         "link": "https://www.reddit.com/r/singularity/comments/1twpjuw/chinas_underwater_windpowered_data_center_is_now/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-04T14:37:06+00:00"
+    },
+    {
+        "title": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
+        "link": "https://www.reddit.com/r/singularity/comments/1tx81a3/ai_can_seem_more_human_than_real_humans_in_a/",
+        "image": "https://external-preview.redd.it/iYsHzO_4aeqsdQafXTOhtYYsI94CplnHsl4aNxfcxZg.jpeg?width=640&crop=smart&auto=webp&s=75c69a0a52701df763b433424940a81b512c0771",
+        "published": "2026-06-05T02:23:50+00:00"
     },
     {
         "title": "Reasoning models are indicated by a lightbulb icon",
@@ -72,21 +84,9 @@
         "published": "2026-06-04T16:56:35+00:00"
     },
     {
-        "title": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
-        "link": "https://www.reddit.com/r/singularity/comments/1tx81a3/ai_can_seem_more_human_than_real_humans_in_a/",
-        "image": "https://external-preview.redd.it/iYsHzO_4aeqsdQafXTOhtYYsI94CplnHsl4aNxfcxZg.jpeg?width=640&crop=smart&auto=webp&s=75c69a0a52701df763b433424940a81b512c0771",
-        "published": "2026-06-05T02:23:50+00:00"
-    },
-    {
         "title": "Is technology still advancing exponentially?",
         "link": "https://www.reddit.com/r/singularity/comments/1tx840v/is_technology_still_advancing_exponentially/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-05T02:27:20+00:00"
-    },
-    {
-        "title": "AI's presence alone is enough for people to start spouting eugenics rhetoric",
-        "link": "https://www.reddit.com/r/singularity/comments/1twrqzv/ais_presence_alone_is_enough_for_people_to_start/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-04T15:54:58+00:00"
     }
 ]
