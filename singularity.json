@@ -42,6 +42,12 @@
         "published": "2026-06-04T17:38:07+00:00"
     },
     {
+        "title": "'World-first' vaccine designed by Artificial Intelligence",
+        "link": "https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-05T00:47:01+00:00"
+    },
+    {
         "title": "Newly released Wuji Hand 2 at ICRA2026",
         "link": "https://www.reddit.com/r/singularity/comments/1twljkg/newly_released_wuji_hand_2_at_icra2026/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -52,12 +58,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1twpjuw/chinas_underwater_windpowered_data_center_is_now/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-04T14:37:06+00:00"
-    },
-    {
-        "title": "'World-first' vaccine designed by Artificial Intelligence",
-        "link": "https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-05T00:47:01+00:00"
     },
     {
         "title": "Reasoning models are indicated by a lightbulb icon",
@@ -78,15 +78,15 @@
         "published": "2026-06-05T02:23:50+00:00"
     },
     {
-        "title": "AI's presence alone is enough for people to start spouting eugenics rhetoric",
-        "link": "https://www.reddit.com/r/singularity/comments/1twrqzv/ais_presence_alone_is_enough_for_people_to_start/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-04T15:54:58+00:00"
-    },
-    {
         "title": "Is technology still advancing exponentially?",
         "link": "https://www.reddit.com/r/singularity/comments/1tx840v/is_technology_still_advancing_exponentially/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-05T02:27:20+00:00"
+    },
+    {
+        "title": "AI's presence alone is enough for people to start spouting eugenics rhetoric",
+        "link": "https://www.reddit.com/r/singularity/comments/1twrqzv/ais_presence_alone_is_enough_for_people_to_start/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-04T15:54:58+00:00"
     }
 ]
