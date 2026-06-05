@@ -18,10 +18,10 @@
         "published": "2026-06-05T09:51:23+00:00"
     },
     {
-        "title": "'World-first' vaccine designed by Artificial Intelligence",
-        "link": "https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-05T00:47:01+00:00"
+        "title": "Google has entered a $920 million monthly cloud compute deal with SpaceX",
+        "link": "https://www.reddit.com/r/singularity/comments/1txve3j/google_has_entered_a_920_million_monthly_cloud/",
+        "image": "https://preview.redd.it/vn0s7sp4qi5h1.png?width=640&crop=smart&auto=webp&s=4e07090d5e086a944c59ce3882fcfc9d770bcf51",
+        "published": "2026-06-05T19:47:20+00:00"
     },
     {
         "title": "Unitree G1 carrying a load while climbing",
@@ -30,10 +30,16 @@
         "published": "2026-06-05T13:18:55+00:00"
     },
     {
-        "title": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
-        "link": "https://www.reddit.com/r/singularity/comments/1tx81a3/ai_can_seem_more_human_than_real_humans_in_a/",
-        "image": "https://external-preview.redd.it/iYsHzO_4aeqsdQafXTOhtYYsI94CplnHsl4aNxfcxZg.jpeg?width=640&crop=smart&auto=webp&s=75c69a0a52701df763b433424940a81b512c0771",
-        "published": "2026-06-05T02:23:50+00:00"
+        "title": "'World-first' vaccine designed by Artificial Intelligence",
+        "link": "https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-05T00:47:01+00:00"
+    },
+    {
+        "title": "Mythos Minecraft Clone with functional multiplayer:",
+        "link": "https://www.reddit.com/r/singularity/comments/1txw95k/mythos_minecraft_clone_with_functional_multiplayer/",
+        "image": "https://external-preview.redd.it/dzZxcmJpenR2aTVoMUPxzudEJJjIrgkL9bf-pa5nfoRqukW9QXu6RNTVYOpJ.png?width=640&crop=smart&auto=webp&s=85ec50f163fbde491a85ca40ea852ba29659bb45",
+        "published": "2026-06-05T20:19:12+00:00"
     },
     {
         "title": "A Chinese startup just launched smart glasses that run Claude Code and Codex for hands-free \"vibe coding\"",
@@ -42,10 +48,10 @@
         "published": "2026-06-05T11:14:42+00:00"
     },
     {
-        "title": "Google has entered a $920 million monthly cloud compute deal with SpaceX",
-        "link": "https://www.reddit.com/r/singularity/comments/1txve3j/google_has_entered_a_920_million_monthly_cloud/",
-        "image": "https://preview.redd.it/vn0s7sp4qi5h1.png?width=640&crop=smart&auto=webp&s=4e07090d5e086a944c59ce3882fcfc9d770bcf51",
-        "published": "2026-06-05T19:47:20+00:00"
+        "title": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
+        "link": "https://www.reddit.com/r/singularity/comments/1tx81a3/ai_can_seem_more_human_than_real_humans_in_a/",
+        "image": "https://external-preview.redd.it/iYsHzO_4aeqsdQafXTOhtYYsI94CplnHsl4aNxfcxZg.jpeg?width=640&crop=smart&auto=webp&s=75c69a0a52701df763b433424940a81b512c0771",
+        "published": "2026-06-05T02:23:50+00:00"
     },
     {
         "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
@@ -60,6 +66,12 @@
         "published": "2026-06-05T02:27:20+00:00"
     },
     {
+        "title": "Anthropic tested Claude on NMR chemistry tasks, and it performed surprisingly well",
+        "link": "https://www.reddit.com/r/singularity/comments/1txwb7y/anthropic_tested_claude_on_nmr_chemistry_tasks/",
+        "image": "https://external-preview.redd.it/w_sGMUnJa1J83Q-Gb3_iExgLiYcakK1k7imUzHF9mLU.png?width=640&crop=smart&auto=webp&s=0a66eca405febb151d9fb8ecb0a17369907ece7a",
+        "published": "2026-06-05T20:21:20+00:00"
+    },
+    {
         "title": "World Labs' Fei-Fei Li on Creating Large World Models",
         "link": "https://www.reddit.com/r/singularity/comments/1txhnyh/world_labs_feifei_li_on_creating_large_world/",
         "image": "https://external-preview.redd.it/3sivvrszlgcEzcOk1eqfznV8yIUIh22yXMq9tjYG74c.jpeg?width=320&crop=smart&auto=webp&s=44ded8cecd0d89ec8132109331cbc402c70caa1a",
@@ -70,12 +82,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1txe35h/inside_google_deepmind_reasoning_omni_and/",
         "image": "https://external-preview.redd.it/i7S1Gqk5wzoNlnGVKUIzxe3dVrLhcPacL5ivkZt4INA.jpeg?width=320&crop=smart&auto=webp&s=71679b77dcb0e1b505e58845e9d0ebb4eb82b057",
         "published": "2026-06-05T07:39:59+00:00"
-    },
-    {
-        "title": "Call for ban on synthetic amino acid sequences is another example -- AI industry governance parallels pre-pandemic virology and the results will be similar too",
-        "link": "https://www.reddit.com/r/singularity/comments/1txmbrs/call_for_ban_on_synthetic_amino_acid_sequences_is/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-05T14:19:53+00:00"
     },
     {
         "title": "When AI Builds Itself | Anthropic Institute",
