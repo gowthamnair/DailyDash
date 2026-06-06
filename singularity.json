@@ -18,16 +18,16 @@
         "published": "2026-06-05T09:51:23+00:00"
     },
     {
-        "title": "Mythos Minecraft Clone with functional multiplayer:",
-        "link": "https://www.reddit.com/r/singularity/comments/1txw95k/mythos_minecraft_clone_with_functional_multiplayer/",
-        "image": "https://external-preview.redd.it/dzZxcmJpenR2aTVoMUPxzudEJJjIrgkL9bf-pa5nfoRqukW9QXu6RNTVYOpJ.png?width=640&crop=smart&auto=webp&s=85ec50f163fbde491a85ca40ea852ba29659bb45",
-        "published": "2026-06-05T20:19:12+00:00"
-    },
-    {
         "title": "Republicans Claim Anti-Data Center Movement Is a Chinese Psy-Op",
         "link": "https://www.reddit.com/r/singularity/comments/1ty2azf/republicans_claim_antidata_center_movement_is_a/",
         "image": "https://external-preview.redd.it/9PrewluHgofRcIQXKHPy887oO456EW8N9yRmnhDiEFI.jpeg?width=640&crop=smart&auto=webp&s=10e9326983e1d7e9984704b3b9cca2c0196ed560",
         "published": "2026-06-06T00:26:45+00:00"
+    },
+    {
+        "title": "Mythos Minecraft Clone with functional multiplayer:",
+        "link": "https://www.reddit.com/r/singularity/comments/1txw95k/mythos_minecraft_clone_with_functional_multiplayer/",
+        "image": "https://external-preview.redd.it/dzZxcmJpenR2aTVoMUPxzudEJJjIrgkL9bf-pa5nfoRqukW9QXu6RNTVYOpJ.png?width=640&crop=smart&auto=webp&s=85ec50f163fbde491a85ca40ea852ba29659bb45",
+        "published": "2026-06-05T20:19:12+00:00"
     },
     {
         "title": "Unitree G1 carrying a load while climbing",
@@ -48,16 +48,16 @@
         "published": "2026-06-05T11:14:42+00:00"
     },
     {
-        "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
-        "link": "https://www.reddit.com/r/singularity/comments/1txq0o2/googles_quantization_aware_trained_gemma/",
-        "image": "https://preview.redd.it/xlbhoteqqh5h1.png?width=640&crop=smart&auto=webp&s=1a7bd38b777121b3ebc317eb209821d2bc0a23d5",
-        "published": "2026-06-05T16:33:20+00:00"
-    },
-    {
         "title": "Charts from Anthropic\u2019s \u201cWhen AI builds itself\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1ty0i3x/charts_from_anthropics_when_ai_builds_itself/",
         "image": "https://preview.redd.it/k4knt31zpj5h1.jpg?width=140&height=81&auto=webp&s=1184c0ada5f317c9e0fc002d2f66acfe08dcb5f3",
         "published": "2026-06-05T23:08:07+00:00"
+    },
+    {
+        "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
+        "link": "https://www.reddit.com/r/singularity/comments/1txq0o2/googles_quantization_aware_trained_gemma/",
+        "image": "https://preview.redd.it/xlbhoteqqh5h1.png?width=640&crop=smart&auto=webp&s=1a7bd38b777121b3ebc317eb209821d2bc0a23d5",
+        "published": "2026-06-05T16:33:20+00:00"
     },
     {
         "title": "Alphabet Raises Record $85B in Largest Equity Offering Ever With $10b Investment From Berkshire Hathaway.",
@@ -78,15 +78,15 @@
         "published": "2026-06-05T22:06:29+00:00"
     },
     {
-        "title": "World Labs' Fei-Fei Li on Creating Large World Models",
-        "link": "https://www.reddit.com/r/singularity/comments/1txhnyh/world_labs_feifei_li_on_creating_large_world/",
-        "image": "https://external-preview.redd.it/3sivvrszlgcEzcOk1eqfznV8yIUIh22yXMq9tjYG74c.jpeg?width=320&crop=smart&auto=webp&s=44ded8cecd0d89ec8132109331cbc402c70caa1a",
-        "published": "2026-06-05T11:00:54+00:00"
-    },
-    {
         "title": "New York Times: China Aims A.I. at Predicting Who Could Pose a Political Risk",
         "link": "https://www.reddit.com/r/singularity/comments/1ty20hh/new_york_times_china_aims_ai_at_predicting_who/",
         "image": "https://external-preview.redd.it/pKl5SX3q-Ftxl9B46q050J7CsZ-YPBQs6MTrhR2Xj_0.jpeg?width=640&crop=smart&auto=webp&s=965abfbea8d4f36bf11acdc19891d1d49dbd520b",
         "published": "2026-06-06T00:13:27+00:00"
+    },
+    {
+        "title": "World Labs' Fei-Fei Li on Creating Large World Models",
+        "link": "https://www.reddit.com/r/singularity/comments/1txhnyh/world_labs_feifei_li_on_creating_large_world/",
+        "image": "https://external-preview.redd.it/3sivvrszlgcEzcOk1eqfznV8yIUIh22yXMq9tjYG74c.jpeg?width=320&crop=smart&auto=webp&s=44ded8cecd0d89ec8132109331cbc402c70caa1a",
+        "published": "2026-06-05T11:00:54+00:00"
     }
 ]
