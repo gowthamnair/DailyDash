@@ -12,18 +12,6 @@
         "published": "2026-06-06T00:26:45+00:00"
     },
     {
-        "title": "Mythos Minecraft Clone with functional multiplayer:",
-        "link": "https://www.reddit.com/r/singularity/comments/1txw95k/mythos_minecraft_clone_with_functional_multiplayer/",
-        "image": "https://external-preview.redd.it/dzZxcmJpenR2aTVoMUPxzudEJJjIrgkL9bf-pa5nfoRqukW9QXu6RNTVYOpJ.png?width=640&crop=smart&auto=webp&s=85ec50f163fbde491a85ca40ea852ba29659bb45",
-        "published": "2026-06-05T20:19:12+00:00"
-    },
-    {
-        "title": "Scientists Edit Human Embryo Genes With Startling Precision",
-        "link": "https://www.reddit.com/r/singularity/comments/1txydcr/scientists_edit_human_embryo_genes_with_startling/",
-        "image": "https://external-preview.redd.it/-bwKhPEW2wLgdA9qZychbI9-bPFG_ndWYG4DnbtGP-k.jpeg?width=640&crop=smart&auto=webp&s=744d1ab2407bcc72ca4a7e8cc1e7954e7b9f5663",
-        "published": "2026-06-05T21:41:01+00:00"
-    },
-    {
         "title": "You want to replace us heres your reward",
         "link": "https://www.reddit.com/r/singularity/comments/1tyo3ca/you_want_to_replace_us_heres_your_reward/",
         "image": "https://preview.redd.it/ep3kjhhebp5h1.jpeg?width=640&crop=smart&auto=webp&s=b894c992359e9139bbc34b5e9dff2899149fbe08",
@@ -42,6 +30,12 @@
         "published": "2026-06-06T14:57:59+00:00"
     },
     {
+        "title": "A robot wearing a clown wig in China is going viral after it kicked a child in the stomach.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tymvkf/a_robot_wearing_a_clown_wig_in_china_is_going/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-06T17:10:41+00:00"
+    },
+    {
         "title": "Charts from Anthropic\u2019s \u201cWhen AI builds itself\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1ty0i3x/charts_from_anthropics_when_ai_builds_itself/",
         "image": "https://preview.redd.it/k4knt31zpj5h1.jpg?width=140&height=81&auto=webp&s=1184c0ada5f317c9e0fc002d2f66acfe08dcb5f3",
@@ -54,22 +48,10 @@
         "published": "2026-06-06T00:33:57+00:00"
     },
     {
-        "title": "A robot wearing a clown wig in China is going viral after it kicked a child in the stomach.",
-        "link": "https://www.reddit.com/r/singularity/comments/1tymvkf/a_robot_wearing_a_clown_wig_in_china_is_going/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T17:10:41+00:00"
-    },
-    {
         "title": "Citing \u2018severe\u2019 math deficits, UC faculty demand a return to SAT tests for STEM applicants",
         "link": "https://www.reddit.com/r/singularity/comments/1tyglxf/citing_severe_math_deficits_uc_faculty_demand_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-06T12:57:47+00:00"
-    },
-    {
-        "title": "Anthropic tested Claude on NMR chemistry tasks, and it performed surprisingly well",
-        "link": "https://www.reddit.com/r/singularity/comments/1txwb7y/anthropic_tested_claude_on_nmr_chemistry_tasks/",
-        "image": "https://external-preview.redd.it/w_sGMUnJa1J83Q-Gb3_iExgLiYcakK1k7imUzHF9mLU.png?width=640&crop=smart&auto=webp&s=0a66eca405febb151d9fb8ecb0a17369907ece7a",
-        "published": "2026-06-05T20:21:20+00:00"
     },
     {
         "title": "Zinc oxide-tellurium semiconductor reduces chip complexity by 75%",
@@ -84,9 +66,27 @@
         "published": "2026-06-06T00:13:27+00:00"
     },
     {
+        "title": "Has anyone able to verify Amodei's warning that \"AI could soon build itself\"? We're talking about RSI (that's proto-AGI).",
+        "link": "https://www.reddit.com/r/singularity/comments/1ty9zi2/has_anyone_able_to_verify_amodeis_warning_that_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-06T06:52:43+00:00"
+    },
+    {
         "title": "A tale in two headlines",
         "link": "https://www.reddit.com/r/singularity/comments/1txz0in/a_tale_in_two_headlines/",
         "image": "https://preview.redd.it/to9xbmmvej5h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e44a0345d9ef07c62a8eb139e01882fc2a2626ec",
         "published": "2026-06-05T22:06:29+00:00"
+    },
+    {
+        "title": "Genetically engineered hookworms can now secrete human therapeutic antibodies directly into their host's circulation, offering a potential single-dose, years-long drug delivery platform",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyk20a/genetically_engineered_hookworms_can_now_secrete/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-06T15:20:27+00:00"
+    },
+    {
+        "title": "A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits it in 4 GB - and searches it faster than FAISS.",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyl46g/a_10_million_document_corpus_takes_31_gb_of_ram/",
+        "image": "https://external-preview.redd.it/tqRKel-84xwCuKhxP3n1rpSpZt4hhG7kWPkJMzoaeQI.png?width=640&crop=smart&auto=webp&s=0c2883d164544c7b6a109bac06069df588cd4b65",
+        "published": "2026-06-06T16:02:26+00:00"
     }
 ]

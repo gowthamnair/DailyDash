@@ -1,11 +1,5 @@
 [
     {
-        "title": "Illinois Gov. JB Pritzker to suspend tax breaks offered to data centers",
-        "link": "https://www.reddit.com/r/technology/comments/1txvxu2/illinois_gov_jb_pritzker_to_suspend_tax_breaks/",
-        "image": "https://external-preview.redd.it/sH5jH6mcYSqG9yw3bMSsGYfXhJ7zNuRZ6hy9JrghYaY.jpeg?width=640&crop=smart&auto=webp&s=a5c27e91615c290eef5577bda3f4fdd016c51b14",
-        "published": "2026-06-05T20:07:27+00:00"
-    },
-    {
         "title": "CEO Says There Will Be No Raises Because He Spent All the Money on AI",
         "link": "https://www.reddit.com/r/technology/comments/1ty2vto/ceo_says_there_will_be_no_raises_because_he_spent/",
         "image": "https://external-preview.redd.it/QFRAcfl9a66I6qVDIgplyAnnajEB_tq_CrE_ZNVL5kE.jpeg?width=640&crop=smart&auto=webp&s=4a923e24208182d6325a5d9f76364a870f108441",
@@ -24,6 +18,12 @@
         "published": "2026-06-06T06:21:45+00:00"
     },
     {
+        "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time",
+        "link": "https://www.reddit.com/r/technology/comments/1tynzoc/anthropic_is_blacklisted_by_the_pentagon_and/",
+        "image": "https://external-preview.redd.it/-5L-iR5jYW-dPcHc5BNCYf3MmThTrwmWPNl9oJltxco.jpeg?width=640&crop=smart&auto=webp&s=1d4b873ff399c06c56bd8bd324e559db47efa7c4",
+        "published": "2026-06-06T17:53:16+00:00"
+    },
+    {
         "title": "Massachusetts House passes strong data privacy bill banning sale of cell phone location data",
         "link": "https://www.reddit.com/r/technology/comments/1tyddax/massachusetts_house_passes_strong_data_privacy/",
         "image": "https://external-preview.redd.it/15VsFITczUgtyq6AnSpHqtmse_zjVeIe8qQtT9uKeSA.jpeg?width=640&crop=smart&auto=webp&s=5bb7f218ea87fd5c35e3b13cb57ae57a965dc316",
@@ -36,16 +36,16 @@
         "published": "2026-06-05T22:31:51+00:00"
     },
     {
-        "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time",
-        "link": "https://www.reddit.com/r/technology/comments/1tynzoc/anthropic_is_blacklisted_by_the_pentagon_and/",
-        "image": "https://external-preview.redd.it/-5L-iR5jYW-dPcHc5BNCYf3MmThTrwmWPNl9oJltxco.jpeg?width=640&crop=smart&auto=webp&s=1d4b873ff399c06c56bd8bd324e559db47efa7c4",
-        "published": "2026-06-06T17:53:16+00:00"
-    },
-    {
         "title": "YouTube Premium just got more expensive again: now $16 a month, or $27 for families",
         "link": "https://www.reddit.com/r/technology/comments/1tyg8yb/youtube_premium_just_got_more_expensive_again_now/",
         "image": "https://external-preview.redd.it/7_Rg3W9Po6TISmE267bhTJL6EiarAt4QIh1tz1UmDI8.jpeg?width=640&crop=smart&auto=webp&s=2d7ef5e67fb47beef44cc47f58f47cdc1f4c8956",
         "published": "2026-06-06T12:40:55+00:00"
+    },
+    {
+        "title": "Americans lost nearly $900 million to AI-generated scams last year. It will likely only get worse",
+        "link": "https://www.reddit.com/r/technology/comments/1tyndlz/americans_lost_nearly_900_million_to_aigenerated/",
+        "image": "https://external-preview.redd.it/wK-26OwKB3dR6WZuOcpnJ0lsBYpEiR58yWMHMjDYDas.jpeg?width=640&crop=smart&auto=webp&s=cbf531a4d9724dc0e984715fb6daeabb1a61ccf8",
+        "published": "2026-06-06T17:29:53+00:00"
     },
     {
         "title": "Google To Pay SpaceX $920 Million Per Month For Massive AI Compute Power",
@@ -60,6 +60,12 @@
         "published": "2026-06-06T14:36:28+00:00"
     },
     {
+        "title": "Women in Brussels 'filmed without their knowledge' by men wearing Meta smart glasses \u2014 Some of the footage was allegedly intended for social media content linked to so-called dating or \"seduction\" coaching",
+        "link": "https://www.reddit.com/r/technology/comments/1tys72o/women_in_brussels_filmed_without_their_knowledge/",
+        "image": "https://external-preview.redd.it/-NhGtOrhRvb9pOvfomzuSh1njFRqjM9XophpCWZ8cIU.jpeg?width=640&crop=smart&auto=webp&s=bec30831d596dd0ff838ba710174a3b6f7d4d855",
+        "published": "2026-06-06T20:39:00+00:00"
+    },
+    {
         "title": "Voters in Monterey Park, California, overwhelmingly back data center ban",
         "link": "https://www.reddit.com/r/technology/comments/1ty1lwe/voters_in_monterey_park_california_overwhelmingly/",
         "image": "https://external-preview.redd.it/XLL-jVZWzrpGIuDEMnb61kltj_D7Y1yJNKb6qY8JpRs.jpeg?width=640&crop=smart&auto=webp&s=45c31a114f87c2ac8ec01242c2f08b51393c6326",
@@ -72,21 +78,15 @@
         "published": "2026-06-05T23:14:02+00:00"
     },
     {
-        "title": "Americans lost nearly $900 million to AI-generated scams last year. It will likely only get worse",
-        "link": "https://www.reddit.com/r/technology/comments/1tyndlz/americans_lost_nearly_900_million_to_aigenerated/",
-        "image": "https://external-preview.redd.it/wK-26OwKB3dR6WZuOcpnJ0lsBYpEiR58yWMHMjDYDas.jpeg?width=640&crop=smart&auto=webp&s=cbf531a4d9724dc0e984715fb6daeabb1a61ccf8",
-        "published": "2026-06-06T17:29:53+00:00"
-    },
-    {
         "title": "'At some point you've got to make money': Goldman's top AI skeptic warns the clock is running out ahead of OpenAI and Anthropic IPOs",
         "link": "https://www.reddit.com/r/technology/comments/1txyxd5/at_some_point_youve_got_to_make_money_goldmans/",
         "image": "https://external-preview.redd.it/EyRaa-_ftQ7gYxP2Sbt9RYWiqKhyxboEseStOgihQWg.jpeg?width=640&crop=smart&auto=webp&s=22f1bb4d2e930d57171614de6da557b7de66e5a3",
         "published": "2026-06-05T22:03:03+00:00"
     },
     {
-        "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-        "link": "https://www.reddit.com/r/technology/comments/1ty5aao/former_cyber_executive_turned_whistleblower/",
-        "image": "https://external-preview.redd.it/usdePPlVOoxNi8xdCegoelNFI9rGvruAzJlz0ltPvQM.jpeg?width=640&crop=smart&auto=webp&s=990bd0b0a5cf14d71bd258da378966721692b243",
-        "published": "2026-06-06T02:48:06+00:00"
+        "title": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era'",
+        "link": "https://www.reddit.com/r/technology/comments/1tyg7z2/google_deepmind_ceo_says_we_dont_have_much_time/",
+        "image": "https://external-preview.redd.it/01YekbiF5ufRMba5xEqSWuVN1rw-6Wg2nnrU3US9oEs.jpeg?width=640&crop=smart&auto=webp&s=e55b6a7ce8ae0c603924e11dee77998b23bd51df",
+        "published": "2026-06-06T12:39:39+00:00"
     }
 ]
