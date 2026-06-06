@@ -24,16 +24,16 @@
         "published": "2026-06-06T00:53:31+00:00"
     },
     {
-        "title": "Leak Reveals Microsoft Wants Its AI To Be 'Addictive'",
-        "link": "https://www.reddit.com/r/technology/comments/1txpmq4/leak_reveals_microsoft_wants_its_ai_to_be/",
-        "image": "https://external-preview.redd.it/GAs5Z0ZYsktuV9hqwpJZdZR13RS-SmRJNIEAKR-4HUw.jpeg?width=640&crop=smart&auto=webp&s=39c52eab6bddec03df5064eb5f7e5e7fe97b6351",
-        "published": "2026-06-05T16:19:23+00:00"
-    },
-    {
         "title": "Mr. Wonderful Is Wounded in the Battle Over His Massive Utah Data Center",
         "link": "https://www.reddit.com/r/technology/comments/1txvn6j/mr_wonderful_is_wounded_in_the_battle_over_his/",
         "image": "https://external-preview.redd.it/zfObbUQCWLvOYE83MuyrzgkDOzscJ0BfPf_pJymNpic.jpeg?width=640&crop=smart&auto=webp&s=9514470141156f6f01574a614e8c02481b3c46bb",
         "published": "2026-06-05T19:56:44+00:00"
+    },
+    {
+        "title": "Leak Reveals Microsoft Wants Its AI To Be 'Addictive'",
+        "link": "https://www.reddit.com/r/technology/comments/1txpmq4/leak_reveals_microsoft_wants_its_ai_to_be/",
+        "image": "https://external-preview.redd.it/GAs5Z0ZYsktuV9hqwpJZdZR13RS-SmRJNIEAKR-4HUw.jpeg?width=640&crop=smart&auto=webp&s=39c52eab6bddec03df5064eb5f7e5e7fe97b6351",
+        "published": "2026-06-05T16:19:23+00:00"
     },
     {
         "title": "\u2018Big Tech is desperate\u2019: Amazon engineers criticize tech giant for its $200 billion in data center spending amid slashing 30,000 corporate employees",
@@ -42,16 +42,16 @@
         "published": "2026-06-05T18:04:26+00:00"
     },
     {
-        "title": "NASA orders International \u200cSpace Station astronauts to shelter, prepare for evacuation due to air leak",
-        "link": "https://www.reddit.com/r/technology/comments/1txo1r9/nasa_orders_international_space_station/",
-        "image": "https://external-preview.redd.it/hIpxYHKFMLFgPyJIOAFGUY7HUCjZGc0BOuhB8JBNkcw.jpeg?width=320&crop=smart&auto=webp&s=4d3c68c23e06b708f952ddc1b7f514ebffae9cc5",
-        "published": "2026-06-05T15:22:44+00:00"
-    },
-    {
         "title": "She won an exemption from using AI at her tech job. The Pope's remarks could fuel similar appeals.",
         "link": "https://www.reddit.com/r/technology/comments/1txzmqj/she_won_an_exemption_from_using_ai_at_her_tech/",
         "image": "https://external-preview.redd.it/6zef6RsKErVw3gwbUcwF-64mlHsuk4BrkCNDXqqCgPY.jpeg?width=640&crop=smart&auto=webp&s=c54148f52f380529b83c09a04d4495c2f044b969",
         "published": "2026-06-05T22:31:51+00:00"
+    },
+    {
+        "title": "NASA orders International \u200cSpace Station astronauts to shelter, prepare for evacuation due to air leak",
+        "link": "https://www.reddit.com/r/technology/comments/1txo1r9/nasa_orders_international_space_station/",
+        "image": "https://external-preview.redd.it/hIpxYHKFMLFgPyJIOAFGUY7HUCjZGc0BOuhB8JBNkcw.jpeg?width=320&crop=smart&auto=webp&s=4d3c68c23e06b708f952ddc1b7f514ebffae9cc5",
+        "published": "2026-06-05T15:22:44+00:00"
     },
     {
         "title": "Take This Data Center and Shove It -- Americans ain\u2019t puttin\u2019 up with these things no more",
@@ -72,6 +72,12 @@
         "published": "2026-06-06T05:06:09+00:00"
     },
     {
+        "title": "McDonald's Introduces AI Drive-Thru System, Sparking Customer Backlash",
+        "link": "https://www.reddit.com/r/technology/comments/1ty9fyo/mcdonalds_introduces_ai_drivethru_system_sparking/",
+        "image": "https://external-preview.redd.it/NM3jkdO1lzIPObgZ_3kXPCUlCGNa4H7fH7sk9uvGhL8.jpeg?width=640&crop=smart&auto=webp&s=1e91b2d32c7e1f0af3e76818e2c624e15d5c6714",
+        "published": "2026-06-06T06:21:45+00:00"
+    },
+    {
         "title": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons",
         "link": "https://www.reddit.com/r/technology/comments/1txj79k/ai_ceos_from_openai_anthropic_and_microsoft_set/",
         "image": "https://external-preview.redd.it/QqbVnFfeFv5OvBAyX9jNd7isK3V6L4q4JIzb1N2ssS4.jpeg?width=640&crop=smart&auto=webp&s=bf5ddb915786461df5e013066afffcec00f64a22",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1txjt4y/meta_putting_up_tents_across_the_us_to_house_ai/",
         "image": "https://external-preview.redd.it/y68iK4H3-MI1rzOJ8SUAtEW7lHuWqqhz73q45xJCVyU.png?width=640&crop=smart&auto=webp&s=5d45fbf0d0f0c3c4f870f00f448376c40650d3cc",
         "published": "2026-06-05T12:40:00+00:00"
-    },
-    {
-        "title": "US tech industry cut 123,653 jobs since January 2026, up 66% from last year during the same period \u2014 AI now the most cited reason for cuts by US employers: report",
-        "link": "https://www.reddit.com/r/technology/comments/1txfz34/us_tech_industry_cut_123653_jobs_since_january/",
-        "image": "https://external-preview.redd.it/-vCt-wwwW9phHpmy6yQx9OdabFELDCUj0Afvyo-gFA8.jpeg?width=640&crop=smart&auto=webp&s=5d7f07c8e397b123fc5ef6137f17e0943f3a2c80",
-        "published": "2026-06-05T09:30:32+00:00"
     }
 ]
