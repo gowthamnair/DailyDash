@@ -18,12 +18,6 @@
         "published": "2026-06-05T09:51:23+00:00"
     },
     {
-        "title": "Unitree G1 carrying a load while climbing",
-        "link": "https://www.reddit.com/r/singularity/comments/1txkrob/unitree_g1_carrying_a_load_while_climbing/",
-        "image": "https://external-preview.redd.it/anV4aGNjcHVzZzVoMSu2dMuB1y8sRqf6V0nyueyQzTn-gHVki45ATS8sAEFE.png?width=640&crop=smart&auto=webp&s=5542706ec942ad5d87171d25418259fb0e4f58d3",
-        "published": "2026-06-05T13:18:55+00:00"
-    },
-    {
         "title": "Mythos Minecraft Clone with functional multiplayer:",
         "link": "https://www.reddit.com/r/singularity/comments/1txw95k/mythos_minecraft_clone_with_functional_multiplayer/",
         "image": "https://external-preview.redd.it/dzZxcmJpenR2aTVoMUPxzudEJJjIrgkL9bf-pa5nfoRqukW9QXu6RNTVYOpJ.png?width=640&crop=smart&auto=webp&s=85ec50f163fbde491a85ca40ea852ba29659bb45",
@@ -36,16 +30,22 @@
         "published": "2026-06-06T00:26:45+00:00"
     },
     {
-        "title": "A Chinese startup just launched smart glasses that run Claude Code and Codex for hands-free \"vibe coding\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1txhxtf/a_chinese_startup_just_launched_smart_glasses/",
-        "image": "https://preview.redd.it/w9ke3ljo6g5h1.jpeg?width=640&crop=smart&auto=webp&s=f648ff0257502e1e30e812222d4ee01ac11c5f4d",
-        "published": "2026-06-05T11:14:42+00:00"
+        "title": "Unitree G1 carrying a load while climbing",
+        "link": "https://www.reddit.com/r/singularity/comments/1txkrob/unitree_g1_carrying_a_load_while_climbing/",
+        "image": "https://external-preview.redd.it/anV4aGNjcHVzZzVoMSu2dMuB1y8sRqf6V0nyueyQzTn-gHVki45ATS8sAEFE.png?width=640&crop=smart&auto=webp&s=5542706ec942ad5d87171d25418259fb0e4f58d3",
+        "published": "2026-06-05T13:18:55+00:00"
     },
     {
         "title": "Scientists Edit Human Embryo Genes With Startling Precision",
         "link": "https://www.reddit.com/r/singularity/comments/1txydcr/scientists_edit_human_embryo_genes_with_startling/",
         "image": "https://external-preview.redd.it/-bwKhPEW2wLgdA9qZychbI9-bPFG_ndWYG4DnbtGP-k.jpeg?width=640&crop=smart&auto=webp&s=744d1ab2407bcc72ca4a7e8cc1e7954e7b9f5663",
         "published": "2026-06-05T21:41:01+00:00"
+    },
+    {
+        "title": "A Chinese startup just launched smart glasses that run Claude Code and Codex for hands-free \"vibe coding\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1txhxtf/a_chinese_startup_just_launched_smart_glasses/",
+        "image": "https://preview.redd.it/w9ke3ljo6g5h1.jpeg?width=640&crop=smart&auto=webp&s=f648ff0257502e1e30e812222d4ee01ac11c5f4d",
+        "published": "2026-06-05T11:14:42+00:00"
     },
     {
         "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
@@ -72,10 +72,10 @@
         "published": "2026-06-05T20:21:20+00:00"
     },
     {
-        "title": "Anthropic urges global freeze on AI as it warns of losing control",
-        "link": "https://www.reddit.com/r/singularity/comments/1ty2ut0/anthropic_urges_global_freeze_on_ai_as_it_warns/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T00:52:10+00:00"
+        "title": "A tale in two headlines",
+        "link": "https://www.reddit.com/r/singularity/comments/1txz0in/a_tale_in_two_headlines/",
+        "image": "https://preview.redd.it/to9xbmmvej5h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e44a0345d9ef07c62a8eb139e01882fc2a2626ec",
+        "published": "2026-06-05T22:06:29+00:00"
     },
     {
         "title": "World Labs' Fei-Fei Li on Creating Large World Models",
@@ -84,9 +84,9 @@
         "published": "2026-06-05T11:00:54+00:00"
     },
     {
-        "title": "A tale in two headlines",
-        "link": "https://www.reddit.com/r/singularity/comments/1txz0in/a_tale_in_two_headlines/",
-        "image": "https://preview.redd.it/to9xbmmvej5h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e44a0345d9ef07c62a8eb139e01882fc2a2626ec",
-        "published": "2026-06-05T22:06:29+00:00"
+        "title": "New York Times: China Aims A.I. at Predicting Who Could Pose a Political Risk",
+        "link": "https://www.reddit.com/r/singularity/comments/1ty20hh/new_york_times_china_aims_ai_at_predicting_who/",
+        "image": "https://external-preview.redd.it/pKl5SX3q-Ftxl9B46q050J7CsZ-YPBQs6MTrhR2Xj_0.jpeg?width=640&crop=smart&auto=webp&s=965abfbea8d4f36bf11acdc19891d1d49dbd520b",
+        "published": "2026-06-06T00:13:27+00:00"
     }
 ]
