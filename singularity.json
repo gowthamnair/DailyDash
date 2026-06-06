@@ -6,12 +6,6 @@
         "published": "2026-06-05T19:47:20+00:00"
     },
     {
-        "title": "Zero-Shot and Low Effort Output of Mythos",
-        "link": "https://www.reddit.com/r/singularity/comments/1txibw4/zeroshot_and_low_effort_output_of_mythos/",
-        "image": "https://external-preview.redd.it/aHlyOXhqcTFhZzVoMYBYNn6KlOPc684M99xBLskf81PxkdI1dsal_1lhp8Gx.png?width=640&crop=smart&auto=webp&s=285da63884224dc41236a2af66001f0a2696c39a",
-        "published": "2026-06-05T11:33:31+00:00"
-    },
-    {
         "title": "Republicans Claim Anti-Data Center Movement Is a Chinese Psy-Op",
         "link": "https://www.reddit.com/r/singularity/comments/1ty2azf/republicans_claim_antidata_center_movement_is_a/",
         "image": "https://external-preview.redd.it/9PrewluHgofRcIQXKHPy887oO456EW8N9yRmnhDiEFI.jpeg?width=640&crop=smart&auto=webp&s=10e9326983e1d7e9984704b3b9cca2c0196ed560",
@@ -42,16 +36,16 @@
         "published": "2026-06-05T23:08:07+00:00"
     },
     {
-        "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
-        "link": "https://www.reddit.com/r/singularity/comments/1txq0o2/googles_quantization_aware_trained_gemma/",
-        "image": "https://preview.redd.it/xlbhoteqqh5h1.png?width=640&crop=smart&auto=webp&s=1a7bd38b777121b3ebc317eb209821d2bc0a23d5",
-        "published": "2026-06-05T16:33:20+00:00"
-    },
-    {
         "title": "Alphabet Raises Record $85B in Largest Equity Offering Ever With $10b Investment From Berkshire Hathaway.",
         "link": "https://www.reddit.com/r/singularity/comments/1ty2ghw/alphabet_raises_record_85b_in_largest_equity/",
         "image": "https://preview.redd.it/nvu5nrba5k5h1.jpeg?width=640&crop=smart&auto=webp&s=553fcff6fc85f9dbc738d1bc00467ea741195cf6",
         "published": "2026-06-06T00:33:57+00:00"
+    },
+    {
+        "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
+        "link": "https://www.reddit.com/r/singularity/comments/1txq0o2/googles_quantization_aware_trained_gemma/",
+        "image": "https://preview.redd.it/xlbhoteqqh5h1.png?width=640&crop=smart&auto=webp&s=1a7bd38b777121b3ebc317eb209821d2bc0a23d5",
+        "published": "2026-06-05T16:33:20+00:00"
     },
     {
         "title": "Anthropic tested Claude on NMR chemistry tasks, and it performed surprisingly well",
@@ -72,16 +66,22 @@
         "published": "2026-06-05T22:06:29+00:00"
     },
     {
+        "title": "Has anyone able to verify Amodei's warning that \"AI could soon build itself\"? We're talking about RSI (that's proto-AGI).",
+        "link": "https://www.reddit.com/r/singularity/comments/1ty9zi2/has_anyone_able_to_verify_amodeis_warning_that_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-06T06:52:43+00:00"
+    },
+    {
         "title": "When AI Builds Itself | Anthropic Institute",
         "link": "https://www.reddit.com/r/singularity/comments/1txvkgs/when_ai_builds_itself_anthropic_institute/",
         "image": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
         "published": "2026-06-05T19:54:02+00:00"
     },
     {
-        "title": "Has anyone able to verify Amodei's warning that \"AI could soon build itself\"? We're talking about RSI (that's proto-AGI).",
-        "link": "https://www.reddit.com/r/singularity/comments/1ty9zi2/has_anyone_able_to_verify_amodeis_warning_that_ai/",
+        "title": "If Anthropic is serious about the AI pause",
+        "link": "https://www.reddit.com/r/singularity/comments/1ty396s/if_anthropic_is_serious_about_the_ai_pause/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T06:52:43+00:00"
+        "published": "2026-06-06T01:10:48+00:00"
     },
     {
         "title": "Call for ban on synthetic amino acid sequences is another example -- AI industry governance parallels pre-pandemic virology and the results will be similar too",
