@@ -36,12 +36,6 @@
         "published": "2026-06-06T17:10:41+00:00"
     },
     {
-        "title": "Charts from Anthropic\u2019s \u201cWhen AI builds itself\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1ty0i3x/charts_from_anthropics_when_ai_builds_itself/",
-        "image": "https://preview.redd.it/k4knt31zpj5h1.jpg?width=140&height=81&auto=webp&s=1184c0ada5f317c9e0fc002d2f66acfe08dcb5f3",
-        "published": "2026-06-05T23:08:07+00:00"
-    },
-    {
         "title": "Alphabet Raises Record $85B in Largest Equity Offering Ever With $10b Investment From Berkshire Hathaway.",
         "link": "https://www.reddit.com/r/singularity/comments/1ty2ghw/alphabet_raises_record_85b_in_largest_equity/",
         "image": "https://preview.redd.it/nvu5nrba5k5h1.jpeg?width=640&crop=smart&auto=webp&s=553fcff6fc85f9dbc738d1bc00467ea741195cf6",
@@ -78,15 +72,21 @@
         "published": "2026-06-06T15:20:27+00:00"
     },
     {
+        "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyv1p6/donald_trump_bernie_sanders_and_sam_altman_are/",
+        "image": "https://external-preview.redd.it/a2E-p1m1fBDj1IGGjGGz1v_uARzpNBuQ-k3Wa5TOzLQ.jpeg?width=640&crop=smart&auto=webp&s=2c9a10e816071d9b657441aae1b6c92b3c2ada3a",
+        "published": "2026-06-06T22:40:34+00:00"
+    },
+    {
         "title": "A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits it in 4 GB - and searches it faster than FAISS.",
         "link": "https://www.reddit.com/r/singularity/comments/1tyl46g/a_10_million_document_corpus_takes_31_gb_of_ram/",
         "image": "https://external-preview.redd.it/tqRKel-84xwCuKhxP3n1rpSpZt4hhG7kWPkJMzoaeQI.png?width=640&crop=smart&auto=webp&s=0c2883d164544c7b6a109bac06069df588cd4b65",
         "published": "2026-06-06T16:02:26+00:00"
     },
     {
-        "title": "Are there any large world models yet",
-        "link": "https://www.reddit.com/r/singularity/comments/1tyd47v/are_there_any_large_world_models_yet/",
+        "title": "If Anthropic is serious about the AI pause",
+        "link": "https://www.reddit.com/r/singularity/comments/1ty396s/if_anthropic_is_serious_about_the_ai_pause/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T09:56:55+00:00"
+        "published": "2026-06-06T01:10:48+00:00"
     }
 ]
