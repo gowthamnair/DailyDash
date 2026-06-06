@@ -24,10 +24,22 @@
         "published": "2026-06-05T21:41:01+00:00"
     },
     {
+        "title": "Mythos 5 slug briefly appeared before removal",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyjgxm/mythos_5_slug_briefly_appeared_before_removal/",
+        "image": "https://preview.redd.it/74kohqxffo5h1.png?width=640&crop=smart&auto=webp&s=b959828b8a772988f258fe61887328d5dcd23ff1",
+        "published": "2026-06-06T14:57:59+00:00"
+    },
+    {
         "title": "Charts from Anthropic\u2019s \u201cWhen AI builds itself\u201d",
         "link": "https://www.reddit.com/r/singularity/comments/1ty0i3x/charts_from_anthropics_when_ai_builds_itself/",
         "image": "https://preview.redd.it/k4knt31zpj5h1.jpg?width=140&height=81&auto=webp&s=1184c0ada5f317c9e0fc002d2f66acfe08dcb5f3",
         "published": "2026-06-05T23:08:07+00:00"
+    },
+    {
+        "title": "Token maxxing",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyketd/token_maxxing/",
+        "image": "https://external-preview.redd.it/eWM5Nm1seHpsbzVoMXx_QTsuZJHP9WyvCn4fN14InrYFLh3IJB19TYv2Q3R4.png?width=320&crop=smart&auto=webp&s=a6469cdc508485f694e72caa846019f55aa1c04c",
+        "published": "2026-06-06T15:34:48+00:00"
     },
     {
         "title": "Alphabet Raises Record $85B in Largest Equity Offering Ever With $10b Investment From Berkshire Hathaway.",
@@ -36,16 +48,16 @@
         "published": "2026-06-06T00:33:57+00:00"
     },
     {
-        "title": "Google's quantization aware trained Gemma checkpoints enabling mobile device inference just dropped on HF",
-        "link": "https://www.reddit.com/r/singularity/comments/1txq0o2/googles_quantization_aware_trained_gemma/",
-        "image": "https://preview.redd.it/xlbhoteqqh5h1.png?width=640&crop=smart&auto=webp&s=1a7bd38b777121b3ebc317eb209821d2bc0a23d5",
-        "published": "2026-06-05T16:33:20+00:00"
-    },
-    {
         "title": "Anthropic tested Claude on NMR chemistry tasks, and it performed surprisingly well",
         "link": "https://www.reddit.com/r/singularity/comments/1txwb7y/anthropic_tested_claude_on_nmr_chemistry_tasks/",
         "image": "https://external-preview.redd.it/w_sGMUnJa1J83Q-Gb3_iExgLiYcakK1k7imUzHF9mLU.png?width=640&crop=smart&auto=webp&s=0a66eca405febb151d9fb8ecb0a17369907ece7a",
         "published": "2026-06-05T20:21:20+00:00"
+    },
+    {
+        "title": "Citing \u2018severe\u2019 math deficits, UC faculty demand a return to SAT tests for STEM applicants",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyglxf/citing_severe_math_deficits_uc_faculty_demand_a/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-06T12:57:47+00:00"
     },
     {
         "title": "New York Times: China Aims A.I. at Predicting Who Could Pose a Political Risk",
@@ -66,27 +78,15 @@
         "published": "2026-06-06T06:52:43+00:00"
     },
     {
+        "title": "Zinc oxide-tellurium semiconductor reduces chip complexity by 75%",
+        "link": "https://www.reddit.com/r/singularity/comments/1tyjx6j/zinc_oxidetellurium_semiconductor_reduces_chip/",
+        "image": "https://external-preview.redd.it/yYAklsD0su6K3gpJUhWupr7_UeMh5j1-oUMCdJC8Wa0.jpeg?width=640&crop=smart&auto=webp&s=7a5cd9439ca37b53d5c1d3b8c92bd179e1e7cc51",
+        "published": "2026-06-06T15:15:15+00:00"
+    },
+    {
         "title": "When AI Builds Itself | Anthropic Institute",
         "link": "https://www.reddit.com/r/singularity/comments/1txvkgs/when_ai_builds_itself_anthropic_institute/",
         "image": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
         "published": "2026-06-05T19:54:02+00:00"
-    },
-    {
-        "title": "Citing \u2018severe\u2019 math deficits, UC faculty demand a return to SAT tests for STEM applicants",
-        "link": "https://www.reddit.com/r/singularity/comments/1tyglxf/citing_severe_math_deficits_uc_faculty_demand_a/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T12:57:47+00:00"
-    },
-    {
-        "title": "Are there any large world models yet",
-        "link": "https://www.reddit.com/r/singularity/comments/1tyd47v/are_there_any_large_world_models_yet/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T09:56:55+00:00"
-    },
-    {
-        "title": "If Anthropic is serious about the AI pause",
-        "link": "https://www.reddit.com/r/singularity/comments/1ty396s/if_anthropic_is_serious_about_the_ai_pause/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T01:10:48+00:00"
     }
 ]
