@@ -36,12 +36,6 @@
         "published": "2026-06-06T22:40:34+00:00"
     },
     {
-        "title": "Citing \u2018severe\u2019 math deficits, UC faculty demand a return to SAT tests for STEM applicants",
-        "link": "https://www.reddit.com/r/singularity/comments/1tyglxf/citing_severe_math_deficits_uc_faculty_demand_a/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-06T12:57:47+00:00"
-    },
-    {
         "title": "Zinc oxide-tellurium semiconductor reduces chip complexity by 75%",
         "link": "https://www.reddit.com/r/singularity/comments/1tyjx6j/zinc_oxidetellurium_semiconductor_reduces_chip/",
         "image": "https://external-preview.redd.it/yYAklsD0su6K3gpJUhWupr7_UeMh5j1-oUMCdJC8Wa0.jpeg?width=640&crop=smart&auto=webp&s=7a5cd9439ca37b53d5c1d3b8c92bd179e1e7cc51",
@@ -52,6 +46,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1tz2o8y/once_robots_achieve_true_autonomy_and_humanlevel/",
         "image": "https://preview.redd.it/71uyo3oyjs5h1.jpeg?width=640&crop=smart&auto=webp&s=3151e64a5eca226c9fd11467043ced1d14c050c6",
         "published": "2026-06-07T04:50:27+00:00"
+    },
+    {
+        "title": "Artificial Analysis | Google's Go To Website for Benchmaxxing | Gemini 3.1 Pro is nowhere near Opus 4.7 in real life use",
+        "link": "https://www.reddit.com/r/singularity/comments/1tz9ug9/artificial_analysis_googles_go_to_website_for/",
+        "image": "https://preview.redd.it/02t5irdoku5h1.png?width=640&crop=smart&auto=webp&s=ce490d8e8795d5bc381ae895596539556d647e4b",
+        "published": "2026-06-07T11:39:40+00:00"
     },
     {
         "title": "A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits it in 4 GB - and searches it faster than FAISS.",
@@ -72,21 +72,21 @@
         "published": "2026-06-07T00:40:37+00:00"
     },
     {
-        "title": "Envoy\u2019s self-driving wheelchairs at Miami\u2019s airport",
-        "link": "https://www.reddit.com/r/singularity/comments/1tytxzy/envoys_selfdriving_wheelchairs_at_miamis_airport/",
-        "image": "https://external-preview.redd.it/ZjVjZG84azdocTVoMY8GkU4xC6MjxeZleS5H4jeK3DsKJu7coZTmkyGglku3.png?width=640&crop=smart&auto=webp&s=4289c87350a78ee4bcff3217a4ab172c0150f141",
-        "published": "2026-06-06T21:53:11+00:00"
-    },
-    {
         "title": "A Response to Bernie's AI Wealth Fund Plan",
         "link": "https://www.reddit.com/r/singularity/comments/1tyzqft/a_response_to_bernies_ai_wealth_fund_plan/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-07T02:22:06+00:00"
     },
     {
-        "title": "Artificial Analysis | Google's Go To Website for Benchmaxxing | Gemini 3.1 Pro is nowhere near Opus 4.7 in real life use",
-        "link": "https://www.reddit.com/r/singularity/comments/1tz9ug9/artificial_analysis_googles_go_to_website_for/",
-        "image": "https://preview.redd.it/02t5irdoku5h1.png?width=640&crop=smart&auto=webp&s=ce490d8e8795d5bc381ae895596539556d647e4b",
-        "published": "2026-06-07T11:39:40+00:00"
+        "title": "Envoy\u2019s self-driving wheelchairs at Miami\u2019s airport",
+        "link": "https://www.reddit.com/r/singularity/comments/1tytxzy/envoys_selfdriving_wheelchairs_at_miamis_airport/",
+        "image": "https://external-preview.redd.it/ZjVjZG84azdocTVoMY8GkU4xC6MjxeZleS5H4jeK3DsKJu7coZTmkyGglku3.png?width=640&crop=smart&auto=webp&s=4289c87350a78ee4bcff3217a4ab172c0150f141",
+        "published": "2026-06-06T21:53:11+00:00"
+    },
+    {
+        "title": "AI Anime made with Seedance | Crazy Rari Episode 3",
+        "link": "https://www.reddit.com/r/singularity/comments/1tz03fy/ai_anime_made_with_seedance_crazy_rari_episode_3/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-07T02:39:55+00:00"
     }
 ]
