@@ -1,11 +1,5 @@
 [
     {
-        "title": "T-800 fighters",
-        "link": "https://www.reddit.com/r/singularity/comments/1tzis6k/t800_fighters/",
-        "image": "https://external-preview.redd.it/N2FxNHg3amlldzVoMQ3oiSbkpELH07NBBQ6l8RY0fgWzCuNExhpdqU2rOmkh.png?width=320&crop=smart&auto=webp&s=f106be0f18fefe97dc63dcea2695522568f75871",
-        "published": "2026-06-07T17:47:04+00:00"
-    },
-    {
         "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain\u2019s \u2018Core Algorithm\u2019",
         "link": "https://www.reddit.com/r/singularity/comments/1u079tc/jeff_bezos_is_funding_a_wild_hunt_for_the_brains/",
         "image": "https://external-preview.redd.it/1xxWBNIjVLAkfylVJ8RfL68oDhN7tBbF1QWa7fyj5ts.jpeg?width=640&crop=smart&auto=webp&s=0e0321d69a9a471e3063d1bdb7ceb964ed6f2403",
@@ -18,22 +12,46 @@
         "published": "2026-06-08T15:39:37+00:00"
     },
     {
-        "title": "ELI5: why is google paying so much more for spacex compute than anthropic?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tzv0pd/eli5_why_is_google_paying_so_much_more_for_spacex/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-08T02:15:48+00:00"
-    },
-    {
         "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
         "link": "https://www.reddit.com/r/singularity/comments/1u09t2y/chat_is_dead_openai_preps_overhaul_of_chatgpt/",
         "image": "https://external-preview.redd.it/1T6PY8Hpqw5H97q0Ge65yoTFOdtqrHf3l_r25Ywp5qw.jpeg?width=640&crop=smart&auto=webp&s=6aaf130df2821ef79b0e577601974611179bdeca",
         "published": "2026-06-08T14:38:11+00:00"
     },
     {
+        "title": "ELI5: why is google paying so much more for spacex compute than anthropic?",
+        "link": "https://www.reddit.com/r/singularity/comments/1tzv0pd/eli5_why_is_google_paying_so_much_more_for_spacex/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-08T02:15:48+00:00"
+    },
+    {
+        "title": "Chrome team ships the most ever security vulnerability fixes in a release - after another record last month",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0dde7/chrome_team_ships_the_most_ever_security/",
+        "image": "https://preview.redd.it/0c7u70ne736h1.png?width=640&crop=smart&auto=webp&s=82d13baf627ee4c12a5c2d28159f6d33151e5af4",
+        "published": "2026-06-08T16:45:39+00:00"
+    },
+    {
+        "title": "The AheadForm V1 humanoid robot body design is being gradually disclosed: Its skin is magnetically attached, so it can be easily removed",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0co42/the_aheadform_v1_humanoid_robot_body_design_is/",
+        "image": "https://external-preview.redd.it/NjhtMWprYngzMzZoMXyG_AiqScuIlcVJeiaj4ZANNDRojFi9-0SKsjrM6_4c.png?width=320&crop=smart&auto=webp&s=ee68ac0bdbacdab1cb221ecaa92822ec989c7c40",
+        "published": "2026-06-08T16:20:35+00:00"
+    },
+    {
         "title": "I really wish in 5 years work would be less frustating but Idon' know...",
         "link": "https://www.reddit.com/r/singularity/comments/1tzl8dn/i_really_wish_in_5_years_work_would_be_less/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-07T19:16:37+00:00"
+    },
+    {
+        "title": "Apple announces Siri AI and its next generation of Apple Intelligence at WWDC 2026",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0ewsq/apple_announces_siri_ai_and_its_next_generation/",
+        "image": "https://external-preview.redd.it/nTLPl3ZzXY2MlzLZ19iVkeRBINDjHuhaY6tRhL_-bK4.jpeg?width=640&crop=smart&auto=webp&s=7bbf34505cb11b683fc8beb4bee8f29838f7640a",
+        "published": "2026-06-08T17:39:32+00:00"
+    },
+    {
+        "title": "I bundled a fully local LLM inside my Unity game. No internet, no cloud, no API key. The conversation is the gameplay.",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0cs3l/i_bundled_a_fully_local_llm_inside_my_unity_game/",
+        "image": "https://external-preview.redd.it/ZnY5MnQzcGYyMzZoMUyxJ8PEqrXWQFs9oH-Oi70ulTsSh4BzZTuopmN47HZx.png?width=640&crop=smart&auto=webp&s=fdf0821324f1d836c358e9fdf2855995c605bed9",
+        "published": "2026-06-08T16:24:24+00:00"
     },
     {
         "title": "If CoT was only a scaffold, does AGI require memory-native reasoning instead of visible thought traces?",
