@@ -12,16 +12,22 @@
         "published": "2026-06-08T15:39:37+00:00"
     },
     {
+        "title": "SpaceX has just revealed it's first AI satellite design",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0qc5r/spacex_has_just_revealed_its_first_ai_satellite/",
+        "image": "https://preview.redd.it/tw874bgnn56h1.jpeg?width=640&crop=smart&auto=webp&s=198d7e76f34d4a7f195b3554475bae5993079bf6",
+        "published": "2026-06-09T00:54:18+00:00"
+    },
+    {
         "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
         "link": "https://www.reddit.com/r/singularity/comments/1u09t2y/chat_is_dead_openai_preps_overhaul_of_chatgpt/",
         "image": "https://external-preview.redd.it/1T6PY8Hpqw5H97q0Ge65yoTFOdtqrHf3l_r25Ywp5qw.jpeg?width=640&crop=smart&auto=webp&s=6aaf130df2821ef79b0e577601974611179bdeca",
         "published": "2026-06-08T14:38:11+00:00"
     },
     {
-        "title": "ELI5: why is google paying so much more for spacex compute than anthropic?",
-        "link": "https://www.reddit.com/r/singularity/comments/1tzv0pd/eli5_why_is_google_paying_so_much_more_for_spacex/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-08T02:15:48+00:00"
+        "title": "Anthropic may release mythos as early as tomorrow",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0uz92/anthropic_may_release_mythos_as_early_as_tomorrow/",
+        "image": "https://preview.redd.it/a3ohd485r66h1.jpeg?width=640&crop=smart&auto=webp&s=0366fda5ba408d959a90c16d5c1c2e2ffbf8d698",
+        "published": "2026-06-09T04:35:42+00:00"
     },
     {
         "title": "The AheadForm V1 humanoid robot body design is being gradually disclosed: Its skin is magnetically attached, so it can be easily removed",
@@ -36,6 +42,12 @@
         "published": "2026-06-08T20:37:03+00:00"
     },
     {
+        "title": "Claude Fable 5 spotted on Azure and the backend, likely the public-facing version of Claude Mythos 5",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0pvvr/claude_fable_5_spotted_on_azure_and_the_backend/",
+        "image": "https://preview.redd.it/ik805l9yj56h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cb45dbb5d5766dfb23f05da68e93e6a4c735ef7c",
+        "published": "2026-06-09T00:33:33+00:00"
+    },
+    {
         "title": "Chrome team ships the most ever security vulnerability fixes in a release - after another record last month",
         "link": "https://www.reddit.com/r/singularity/comments/1u0dde7/chrome_team_ships_the_most_ever_security/",
         "image": "https://preview.redd.it/0c7u70ne736h1.png?width=640&crop=smart&auto=webp&s=82d13baf627ee4c12a5c2d28159f6d33151e5af4",
@@ -48,10 +60,10 @@
         "published": "2026-06-08T17:39:32+00:00"
     },
     {
-        "title": "SpaceX has just revealed it's first AI satellite design",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0qc5r/spacex_has_just_revealed_its_first_ai_satellite/",
-        "image": "https://preview.redd.it/tw874bgnn56h1.jpeg?width=640&crop=smart&auto=webp&s=198d7e76f34d4a7f195b3554475bae5993079bf6",
-        "published": "2026-06-09T00:54:18+00:00"
+        "title": "Financial Times: New AI espionage powers trigger Putin camera scare | Russia paused surveillance system after killing of Iran\u2019s Supreme Leader exposed how AI can be used on CCTV data to target enemies",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0o767/financial_times_new_ai_espionage_powers_trigger/",
+        "image": "https://external-preview.redd.it/tifKRwuqszpymMMNElLpAjPboU5UjEdH7mR4l2NN_b4.jpeg?width=640&crop=smart&auto=webp&s=eb59bbfc589de3f71fc49ae51519e13d70947f94",
+        "published": "2026-06-08T23:20:19+00:00"
     },
     {
         "title": "I bundled a fully local LLM inside my Unity game. No internet, no cloud, no API key. The conversation is the gameplay.",
@@ -60,16 +72,10 @@
         "published": "2026-06-08T16:24:24+00:00"
     },
     {
-        "title": "Claude Fable 5 spotted on Azure and the backend, likely the public-facing version of Claude Mythos 5",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0pvvr/claude_fable_5_spotted_on_azure_and_the_backend/",
-        "image": "https://preview.redd.it/ik805l9yj56h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cb45dbb5d5766dfb23f05da68e93e6a4c735ef7c",
-        "published": "2026-06-09T00:33:33+00:00"
-    },
-    {
-        "title": "Financial Times: New AI espionage powers trigger Putin camera scare | Russia paused surveillance system after killing of Iran\u2019s Supreme Leader exposed how AI can be used on CCTV data to target enemies",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0o767/financial_times_new_ai_espionage_powers_trigger/",
-        "image": "https://external-preview.redd.it/tifKRwuqszpymMMNElLpAjPboU5UjEdH7mR4l2NN_b4.jpeg?width=640&crop=smart&auto=webp&s=eb59bbfc589de3f71fc49ae51519e13d70947f94",
-        "published": "2026-06-08T23:20:19+00:00"
+        "title": "92% Chance Mythos Drops Tomorrow",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0wevk/92_chance_mythos_drops_tomorrow/",
+        "image": "https://preview.redd.it/i2450qip476h1.jpeg?width=640&crop=smart&auto=webp&s=afe6e9def388a2698463b42ef4baf754011d314c",
+        "published": "2026-06-09T05:51:50+00:00"
     },
     {
         "title": "If CoT was only a scaffold, does AGI require memory-native reasoning instead of visible thought traces?",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/singularity/comments/1u0o9xn/xiaomi_achieves_1000ts_on_8x_commodity_gpu/",
         "image": "https://external-preview.redd.it/djdiNW5tbHY1NTZoMcwdOZIKfH_YdKxHWV_AjP-cwqhZM-1PqbC6iFHNs1Cz.png?width=640&crop=smart&auto=webp&s=2fbea8288bba63f3fbd275bd321a1c52c9032404",
         "published": "2026-06-08T23:23:27+00:00"
-    },
-    {
-        "title": "I\u2019m in danger",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0podi/im_in_danger/",
-        "image": "https://preview.redd.it/7wl8w15sh56h1.gif?width=320&crop=smart&s=543e978bef44720d8de2fcedec5e4e2481f3c7df",
-        "published": "2026-06-09T00:23:48+00:00"
     }
 ]
