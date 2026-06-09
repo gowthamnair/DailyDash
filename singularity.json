@@ -12,6 +12,18 @@
         "published": "2026-06-09T00:54:18+00:00"
     },
     {
+        "title": "Anthropic releases Claude Fable 5 and Claude Mythos 5",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1b3aa/anthropic_releases_claude_fable_5_and_claude/",
+        "image": "https://external-preview.redd.it/Y5oxdk61AjHRLbzPQUS3H1XCZ72dIeTcrUmu_4LVilA.png?width=640&crop=smart&auto=webp&s=5488a15fb01163a6f44eab7603675e01a8948130",
+        "published": "2026-06-09T17:05:16+00:00"
+    },
+    {
+        "title": "Claude Fable (Mythos) is OUT!",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1at0h/claude_fable_mythos_is_out/",
+        "image": "https://preview.redd.it/i88096c6fa6h1.png?width=640&crop=smart&auto=webp&s=32184af397fe3dab3c1d205d81b6a5b620800523",
+        "published": "2026-06-09T16:56:00+00:00"
+    },
+    {
         "title": "Anthropic may release mythos as early as tomorrow",
         "link": "https://www.reddit.com/r/singularity/comments/1u0uz92/anthropic_may_release_mythos_as_early_as_tomorrow/",
         "image": "https://preview.redd.it/a3ohd485r66h1.jpeg?width=640&crop=smart&auto=webp&s=0366fda5ba408d959a90c16d5c1c2e2ffbf8d698",
@@ -22,6 +34,12 @@
         "link": "https://www.reddit.com/r/singularity/comments/1u0wevk/92_chance_mythos_drops_tomorrow/",
         "image": "https://preview.redd.it/i2450qip476h1.jpeg?width=640&crop=smart&auto=webp&s=afe6e9def388a2698463b42ef4baf754011d314c",
         "published": "2026-06-09T05:51:50+00:00"
+    },
+    {
+        "title": "Anthropic\u2019s Mythos Is Coming Today - The information",
+        "link": "https://www.reddit.com/r/singularity/comments/1u17w1f/anthropics_mythos_is_coming_today_the_information/",
+        "image": "https://preview.redd.it/ssz9vd56x96h1.jpeg?width=640&crop=smart&auto=webp&s=5a6cbf7452b4491b3e1b0e532c38908d150682f6",
+        "published": "2026-06-09T15:14:48+00:00"
     },
     {
         "title": "FrontierCode: a coding eval that raises the bar for difficulty & quality.",
@@ -36,28 +54,22 @@
         "published": "2026-06-09T00:33:33+00:00"
     },
     {
-        "title": "Anthropic\u2019s Mythos Is Coming Today - The information",
-        "link": "https://www.reddit.com/r/singularity/comments/1u17w1f/anthropics_mythos_is_coming_today_the_information/",
-        "image": "https://preview.redd.it/ssz9vd56x96h1.jpeg?width=640&crop=smart&auto=webp&s=5a6cbf7452b4491b3e1b0e532c38908d150682f6",
-        "published": "2026-06-09T15:14:48+00:00"
-    },
-    {
-        "title": "Chrome team ships the most ever security vulnerability fixes in a release - after another record last month",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0dde7/chrome_team_ships_the_most_ever_security/",
-        "image": "https://preview.redd.it/0c7u70ne736h1.png?width=640&crop=smart&auto=webp&s=82d13baf627ee4c12a5c2d28159f6d33151e5af4",
-        "published": "2026-06-08T16:45:39+00:00"
-    },
-    {
-        "title": "Apple announces Siri AI and its next generation of Apple Intelligence at WWDC 2026",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0ewsq/apple_announces_siri_ai_and_its_next_generation/",
-        "image": "https://external-preview.redd.it/nTLPl3ZzXY2MlzLZ19iVkeRBINDjHuhaY6tRhL_-bK4.jpeg?width=640&crop=smart&auto=webp&s=7bbf34505cb11b683fc8beb4bee8f29838f7640a",
-        "published": "2026-06-08T17:39:32+00:00"
+        "title": "Let's see if the AGI is near or it never happened",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1cg2z/lets_see_if_the_agi_is_near_or_it_never_happened/",
+        "image": "https://preview.redd.it/a20n7t3cpa6h1.jpeg?width=640&crop=smart&auto=webp&s=f80810d831ba7bf8a0bbebb274e25193f18fa20c",
+        "published": "2026-06-09T17:52:38+00:00"
     },
     {
         "title": "Open AI just published their plan towards building AGI",
         "link": "https://www.reddit.com/r/singularity/comments/1u17n2q/open_ai_just_published_their_plan_towards/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-09T15:06:04+00:00"
+    },
+    {
+        "title": "Claude Fable 5 benchmarks",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1avcg/claude_fable_5_benchmarks/",
+        "image": "https://preview.redd.it/fj32xxylfa6h1.png?width=640&crop=smart&auto=webp&s=d75ebc95dc78872d8f123ce70a764b3b3da51ae9",
+        "published": "2026-06-09T16:58:15+00:00"
     },
     {
         "title": "Leading AI website traffic",
@@ -72,21 +84,9 @@
         "published": "2026-06-08T23:20:19+00:00"
     },
     {
-        "title": "Xiaomi achieves 1000+t/s on 8x commodity GPU cluster with 1T weights model",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0o9xn/xiaomi_achieves_1000ts_on_8x_commodity_gpu/",
-        "image": "https://external-preview.redd.it/djdiNW5tbHY1NTZoMcwdOZIKfH_YdKxHWV_AjP-cwqhZM-1PqbC6iFHNs1Cz.png?width=640&crop=smart&auto=webp&s=2fbea8288bba63f3fbd275bd321a1c52c9032404",
-        "published": "2026-06-08T23:23:27+00:00"
-    },
-    {
         "title": "Claude fable aka claude Mythos in Google cloud",
         "link": "https://www.reddit.com/r/singularity/comments/1u180pu/claude_fable_aka_claude_mythos_in_google_cloud/",
         "image": "https://preview.redd.it/n3il81nxx96h1.jpeg?width=640&crop=smart&auto=webp&s=a6e32c9c2b3b07caeaf5a94e2d24664599781032",
         "published": "2026-06-09T15:19:06+00:00"
-    },
-    {
-        "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-        "link": "https://www.reddit.com/r/singularity/comments/1u18gzm/david_sinclair_plans_to_test_wholebody/",
-        "image": "https://external-preview.redd.it/cl215qvp_CaHHV5Q_CZxQ7Pdn0y2wGR2w5Ww6Ejgfrk.jpeg?width=640&crop=smart&auto=webp&s=2db7f970c53fd0b9c7fe0a90e1bbac58c7966302",
-        "published": "2026-06-09T15:34:29+00:00"
     }
 ]
