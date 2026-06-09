@@ -6,16 +6,22 @@
         "published": "2026-06-08T13:02:37+00:00"
     },
     {
-        "title": "Intresting! Gemini 3.1 has strongest world knowledge but still choose to be lazy",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0bi8i/intresting_gemini_31_has_strongest_world/",
-        "image": "https://preview.redd.it/1wnduxwmw26h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=59d07ac30590c2d9d4efb96bd895f6ca6567cada",
-        "published": "2026-06-08T15:39:37+00:00"
-    },
-    {
         "title": "SpaceX has just revealed it's first AI satellite design",
         "link": "https://www.reddit.com/r/singularity/comments/1u0qc5r/spacex_has_just_revealed_its_first_ai_satellite/",
         "image": "https://preview.redd.it/tw874bgnn56h1.jpeg?width=640&crop=smart&auto=webp&s=198d7e76f34d4a7f195b3554475bae5993079bf6",
         "published": "2026-06-09T00:54:18+00:00"
+    },
+    {
+        "title": "The New World Order",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0z3p4/the_new_world_order/",
+        "image": "https://preview.redd.it/a8m7ce0qw76h1.jpeg?width=640&crop=smart&auto=webp&s=29d2fb30eed5a53dfb2bd06066317b1d46ed2904",
+        "published": "2026-06-09T08:28:42+00:00"
+    },
+    {
+        "title": "Intresting! Gemini 3.1 has strongest world knowledge but still choose to be lazy",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0bi8i/intresting_gemini_31_has_strongest_world/",
+        "image": "https://preview.redd.it/1wnduxwmw26h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=59d07ac30590c2d9d4efb96bd895f6ca6567cada",
+        "published": "2026-06-08T15:39:37+00:00"
     },
     {
         "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
@@ -48,6 +54,12 @@
         "published": "2026-06-09T00:33:33+00:00"
     },
     {
+        "title": "92% Chance Mythos Drops Tomorrow",
+        "link": "https://www.reddit.com/r/singularity/comments/1u0wevk/92_chance_mythos_drops_tomorrow/",
+        "image": "https://preview.redd.it/i2450qip476h1.jpeg?width=640&crop=smart&auto=webp&s=afe6e9def388a2698463b42ef4baf754011d314c",
+        "published": "2026-06-09T05:51:50+00:00"
+    },
+    {
         "title": "Chrome team ships the most ever security vulnerability fixes in a release - after another record last month",
         "link": "https://www.reddit.com/r/singularity/comments/1u0dde7/chrome_team_ships_the_most_ever_security/",
         "image": "https://preview.redd.it/0c7u70ne736h1.png?width=640&crop=smart&auto=webp&s=82d13baf627ee4c12a5c2d28159f6d33151e5af4",
@@ -70,18 +82,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1u0cs3l/i_bundled_a_fully_local_llm_inside_my_unity_game/",
         "image": "https://external-preview.redd.it/ZnY5MnQzcGYyMzZoMUyxJ8PEqrXWQFs9oH-Oi70ulTsSh4BzZTuopmN47HZx.png?width=640&crop=smart&auto=webp&s=fdf0821324f1d836c358e9fdf2855995c605bed9",
         "published": "2026-06-08T16:24:24+00:00"
-    },
-    {
-        "title": "92% Chance Mythos Drops Tomorrow",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0wevk/92_chance_mythos_drops_tomorrow/",
-        "image": "https://preview.redd.it/i2450qip476h1.jpeg?width=640&crop=smart&auto=webp&s=afe6e9def388a2698463b42ef4baf754011d314c",
-        "published": "2026-06-09T05:51:50+00:00"
-    },
-    {
-        "title": "If CoT was only a scaffold, does AGI require memory-native reasoning instead of visible thought traces?",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0bed2/if_cot_was_only_a_scaffold_does_agi_require/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-08T15:35:37+00:00"
     },
     {
         "title": "Xiaomi achieves 1000+t/s on 8x commodity GPU cluster with 1T weights model",
