@@ -18,18 +18,6 @@
         "published": "2026-06-09T20:57:47+00:00"
     },
     {
-        "title": "Let's see if the AGI is near or it never happened",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1cg2z/lets_see_if_the_agi_is_near_or_it_never_happened/",
-        "image": "https://preview.redd.it/a20n7t3cpa6h1.jpeg?width=640&crop=smart&auto=webp&s=f80810d831ba7bf8a0bbebb274e25193f18fa20c",
-        "published": "2026-06-09T17:52:38+00:00"
-    },
-    {
-        "title": "Anthropic built a hidden switch into fable 5 that makes it bad at building AI systems",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1eo6p/anthropic_built_a_hidden_switch_into_fable_5_that/",
-        "image": "https://preview.redd.it/6qh5o5ab3b6h1.jpeg?width=640&crop=smart&auto=webp&s=c3b21d4a96d501d93b957019d1e08c547ad84724",
-        "published": "2026-06-09T19:11:00+00:00"
-    },
-    {
         "title": "Dario Amodei says he started Anthropic because Altman is liar not because of safety reasons.",
         "link": "https://www.reddit.com/r/singularity/comments/1u25uy6/dario_amodei_says_he_started_anthropic_because/",
         "image": "https://external-preview.redd.it/OWg3am02ajQ3aDZoMVhyt_3ZwEQ5eL5tjWxV9dS3Eit8bs7-qOdkmQ-jZ-JD.png?width=640&crop=smart&auto=webp&s=bdd022e267682c6b17901e2b2e3aa62d583c1ddb",
@@ -42,28 +30,16 @@
         "published": "2026-06-10T06:01:01+00:00"
     },
     {
-        "title": "We have a new SimpleBench king",
-        "link": "https://www.reddit.com/r/singularity/comments/1u22k1p/we_have_a_new_simplebench_king/",
-        "image": "https://preview.redd.it/12u7mlk9lg6h1.png?width=640&crop=smart&auto=webp&s=35704c2203a54b2601dad5e4d4c5f8e249e46fbe",
-        "published": "2026-06-10T13:41:15+00:00"
-    },
-    {
         "title": "Anthropic purposely made its new Mythos-based models bad at AI research, and developers are fuming",
         "link": "https://www.reddit.com/r/singularity/comments/1u21rk2/anthropic_purposely_made_its_new_mythosbased/",
         "image": "https://external-preview.redd.it/qUyYGk6OTHm5gM-KGXHg6nN-yR-rCxgs6urYe9KT78g.jpeg?width=640&crop=smart&auto=webp&s=263e6ff33a949d9891eb3119efe59a2f7447a4b7",
         "published": "2026-06-10T13:09:34+00:00"
     },
     {
-        "title": "A post to actually talk about peoples' experiences with Fable",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1dsud/a_post_to_actually_talk_about_peoples_experiences/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-09T18:40:09+00:00"
-    },
-    {
-        "title": "Fable/Mythos 5 Vending Bench",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1gyqj/fablemythos_5_vending_bench/",
-        "image": "https://preview.redd.it/29dvcebphb6h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f6d4e660b009cf737ac5f74ed9a60e99f84f1bfe",
-        "published": "2026-06-09T20:33:25+00:00"
+        "title": "We have a new SimpleBench king",
+        "link": "https://www.reddit.com/r/singularity/comments/1u22k1p/we_have_a_new_simplebench_king/",
+        "image": "https://preview.redd.it/12u7mlk9lg6h1.png?width=640&crop=smart&auto=webp&s=35704c2203a54b2601dad5e4d4c5f8e249e46fbe",
+        "published": "2026-06-10T13:41:15+00:00"
     },
     {
         "title": "Fable 5 below even Gemini 3.1 on Livebench",
@@ -72,10 +48,22 @@
         "published": "2026-06-10T06:38:30+00:00"
     },
     {
-        "title": "Claude Fable 5 gets 65 on Artificial Analysis",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1fbk3/claude_fable_5_gets_65_on_artificial_analysis/",
-        "image": "https://preview.redd.it/815wsrm87b6h1.png?width=140&height=120&auto=webp&s=509e197c935c87d9020fe8a0d47f1388803d9907",
-        "published": "2026-06-09T19:34:01+00:00"
+        "title": "Fable/Mythos 5 Vending Bench",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1gyqj/fablemythos_5_vending_bench/",
+        "image": "https://preview.redd.it/29dvcebphb6h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f6d4e660b009cf737ac5f74ed9a60e99f84f1bfe",
+        "published": "2026-06-09T20:33:25+00:00"
+    },
+    {
+        "title": "Google releases DiffusionGemma, new experimental open model with up to 4x faster output on dedicated GPUs",
+        "link": "https://www.reddit.com/r/singularity/comments/1u27fga/google_releases_diffusiongemma_new_experimental/",
+        "image": "https://external-preview.redd.it/pr58Y7_82aglIdD6VxjGg1ns65Db_tHjts-39jVNm9U.png?width=640&crop=smart&auto=webp&s=392d36d61760b0a5d1387957fcff42b9608a6b06",
+        "published": "2026-06-10T16:38:12+00:00"
+    },
+    {
+        "title": "Fully autonomous drones have killed human soldiers for the first time",
+        "link": "https://www.reddit.com/r/singularity/comments/1u27m22/fully_autonomous_drones_have_killed_human/",
+        "image": "https://external-preview.redd.it/AxWjWYeLGzoMoK-BddSS-6d0RK8nH1379NYqvvA6rSQ.jpeg?width=640&crop=smart&auto=webp&s=8341fdc2b3d8c7096f6f5e6dd85a0392ea06dcd7",
+        "published": "2026-06-10T16:44:33+00:00"
     },
     {
         "title": "Qualia has been selected for the GoogleDeepMind Robotics Program.",
@@ -84,9 +72,21 @@
         "published": "2026-06-10T13:46:15+00:00"
     },
     {
-        "title": "Multiple Mythos instances running at the same time engaged in \"multiagent turf wars\" sabotaging each other's processes",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1fpg4/multiple_mythos_instances_running_at_the_same/",
-        "image": "https://preview.redd.it/ifyyia3x9b6h1.jpeg?width=640&crop=smart&auto=webp&s=4b0fa274f1ec14f78482b21cca4bc655250ac856",
-        "published": "2026-06-09T19:48:00+00:00"
+        "title": "OpenAI Preps New AI Model, Expects To Go Public Within the Next Year",
+        "link": "https://www.reddit.com/r/singularity/comments/1u283f0/openai_preps_new_ai_model_expects_to_go_public/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-10T17:01:32+00:00"
+    },
+    {
+        "title": "Satya Nadella says AI agents should be treated like employees with identities, permissions, and audits",
+        "link": "https://www.reddit.com/r/singularity/comments/1u2180v/satya_nadella_says_ai_agents_should_be_treated/",
+        "image": "https://external-preview.redd.it/6jj4ccQeB_NIIeXMfIRfKhX1Rv98b-cr6YVZ1Wgw2wE.jpeg?width=640&crop=smart&auto=webp&s=216be57113e8ee5081edbde9d6e5c8c4e40836a8",
+        "published": "2026-06-10T12:47:14+00:00"
+    },
+    {
+        "title": "first thing that came to mind today",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1lhby/first_thing_that_came_to_mind_today/",
+        "image": "https://preview.redd.it/krstusvedc6h1.png?width=320&crop=smart&auto=webp&s=7fb0b8f84a477e71a044171c697227c212ab6eff",
+        "published": "2026-06-09T23:29:47+00:00"
     }
 ]
