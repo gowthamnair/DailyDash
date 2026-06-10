@@ -1,11 +1,5 @@
 [
     {
-        "title": "The New World Order",
-        "link": "https://www.reddit.com/r/singularity/comments/1u0z3p4/the_new_world_order/",
-        "image": "https://preview.redd.it/a8m7ce0qw76h1.jpeg?width=640&crop=smart&auto=webp&s=29d2fb30eed5a53dfb2bd06066317b1d46ed2904",
-        "published": "2026-06-09T08:28:42+00:00"
-    },
-    {
         "title": "Anthropic releases Claude Fable 5 and Claude Mythos 5",
         "link": "https://www.reddit.com/r/singularity/comments/1u1b3aa/anthropic_releases_claude_fable_5_and_claude/",
         "image": "https://external-preview.redd.it/Y5oxdk61AjHRLbzPQUS3H1XCZ72dIeTcrUmu_4LVilA.png?width=640&crop=smart&auto=webp&s=5488a15fb01163a6f44eab7603675e01a8948130",
@@ -18,16 +12,16 @@
         "published": "2026-06-09T20:42:11+00:00"
     },
     {
-        "title": "Claude Fable (Mythos) is OUT!",
-        "link": "https://www.reddit.com/r/singularity/comments/1u1at0h/claude_fable_mythos_is_out/",
-        "image": "https://preview.redd.it/i88096c6fa6h1.png?width=640&crop=smart&auto=webp&s=32184af397fe3dab3c1d205d81b6a5b620800523",
-        "published": "2026-06-09T16:56:00+00:00"
-    },
-    {
         "title": "Not quite exponential, but progress is progress",
         "link": "https://www.reddit.com/r/singularity/comments/1u1l49n/not_quite_exponential_but_progress_is_progress/",
         "image": "https://preview.redd.it/q86g020rac6h1.jpeg?width=640&crop=smart&auto=webp&s=bbc75a49274c656a5af039972427dc61aea01b22",
         "published": "2026-06-09T23:14:26+00:00"
+    },
+    {
+        "title": "Claude Fable (Mythos) is OUT!",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1at0h/claude_fable_mythos_is_out/",
+        "image": "https://preview.redd.it/i88096c6fa6h1.png?width=640&crop=smart&auto=webp&s=32184af397fe3dab3c1d205d81b6a5b620800523",
+        "published": "2026-06-09T16:56:00+00:00"
     },
     {
         "title": "Matt Shumer: \"Fable has solved 3D worldbuilding... utterly insane. This is all completely custom-built ThreeJs, running in the browser.\"",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1u1c8tg/ethan_mollick_what_it_feels_like_to_work_with/",
         "image": "https://external-preview.redd.it/66fE16jVs_rtVb02s_9cS4wYxKi9goiBJvNvJW8iei4.jpeg?width=640&crop=smart&auto=webp&s=6961901f3c7ba7c1f0f448cd5a8ec9f9e98e1293",
         "published": "2026-06-09T17:45:23+00:00"
+    },
+    {
+        "title": "Claude Fable 5 gets 65 on Artificial Analysis",
+        "link": "https://www.reddit.com/r/singularity/comments/1u1fbk3/claude_fable_5_gets_65_on_artificial_analysis/",
+        "image": "https://preview.redd.it/815wsrm87b6h1.png?width=140&height=120&auto=webp&s=509e197c935c87d9020fe8a0d47f1388803d9907",
+        "published": "2026-06-09T19:34:01+00:00"
     }
 ]
