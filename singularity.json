@@ -24,28 +24,10 @@
         "published": "2026-06-11T04:16:11+00:00"
     },
     {
-        "title": "Anthropic purposely made its new Mythos-based models bad at AI research, and developers are fuming",
-        "link": "https://www.reddit.com/r/singularity/comments/1u21rk2/anthropic_purposely_made_its_new_mythosbased/",
-        "image": "https://external-preview.redd.it/qUyYGk6OTHm5gM-KGXHg6nN-yR-rCxgs6urYe9KT78g.jpeg?width=640&crop=smart&auto=webp&s=263e6ff33a949d9891eb3119efe59a2f7447a4b7",
-        "published": "2026-06-10T13:09:34+00:00"
-    },
-    {
-        "title": "We have a new SimpleBench king",
-        "link": "https://www.reddit.com/r/singularity/comments/1u22k1p/we_have_a_new_simplebench_king/",
-        "image": "https://preview.redd.it/12u7mlk9lg6h1.png?width=640&crop=smart&auto=webp&s=35704c2203a54b2601dad5e4d4c5f8e249e46fbe",
-        "published": "2026-06-10T13:41:15+00:00"
-    },
-    {
         "title": "Fully autonomous drones have killed human soldiers for the first time",
         "link": "https://www.reddit.com/r/singularity/comments/1u27m22/fully_autonomous_drones_have_killed_human/",
         "image": "https://external-preview.redd.it/AxWjWYeLGzoMoK-BddSS-6d0RK8nH1379NYqvvA6rSQ.jpeg?width=640&crop=smart&auto=webp&s=8341fdc2b3d8c7096f6f5e6dd85a0392ea06dcd7",
         "published": "2026-06-10T16:44:33+00:00"
-    },
-    {
-        "title": "Google releases DiffusionGemma, new experimental open model with up to 4x faster output on dedicated GPUs",
-        "link": "https://www.reddit.com/r/singularity/comments/1u27fga/google_releases_diffusiongemma_new_experimental/",
-        "image": "https://external-preview.redd.it/pr58Y7_82aglIdD6VxjGg1ns65Db_tHjts-39jVNm9U.png?width=640&crop=smart&auto=webp&s=392d36d61760b0a5d1387957fcff42b9608a6b06",
-        "published": "2026-06-10T16:38:12+00:00"
     },
     {
         "title": "Microsoft restricts employees from using Claude Fable 5 model",
@@ -54,16 +36,10 @@
         "published": "2026-06-10T19:46:28+00:00"
     },
     {
-        "title": "Qualia has been selected for the GoogleDeepMind Robotics Program.",
-        "link": "https://www.reddit.com/r/singularity/comments/1u22ohk/qualia_has_been_selected_for_the_googledeepmind/",
-        "image": "https://external-preview.redd.it/aDN2bXpxNGFtZzZoMXw716xVpSKynTURepKLNOnfsPa4eho64tSBHUyiPWSi.png?width=640&crop=smart&auto=webp&s=cb857b9b06a240ec456ec6439d14ca3e13f8a3fc",
-        "published": "2026-06-10T13:46:15+00:00"
-    },
-    {
-        "title": "Live life Anthropically",
-        "link": "https://www.reddit.com/r/singularity/comments/1u2liq8/live_life_anthropically/",
-        "image": "https://preview.redd.it/h7e48sms6k6h1.png?width=640&crop=smart&auto=webp&s=3fd63a69995f28dcae129d5cc465f6a4bbbd60b7",
-        "published": "2026-06-11T01:46:54+00:00"
+        "title": "Google releases DiffusionGemma, new experimental open model with up to 4x faster output on dedicated GPUs",
+        "link": "https://www.reddit.com/r/singularity/comments/1u27fga/google_releases_diffusiongemma_new_experimental/",
+        "image": "https://external-preview.redd.it/pr58Y7_82aglIdD6VxjGg1ns65Db_tHjts-39jVNm9U.png?width=640&crop=smart&auto=webp&s=392d36d61760b0a5d1387957fcff42b9608a6b06",
+        "published": "2026-06-10T16:38:12+00:00"
     },
     {
         "title": "This is 100% real",
@@ -72,10 +48,22 @@
         "published": "2026-06-11T02:46:15+00:00"
     },
     {
+        "title": "Live life Anthropically",
+        "link": "https://www.reddit.com/r/singularity/comments/1u2liq8/live_life_anthropically/",
+        "image": "https://preview.redd.it/h7e48sms6k6h1.png?width=640&crop=smart&auto=webp&s=3fd63a69995f28dcae129d5cc465f6a4bbbd60b7",
+        "published": "2026-06-11T01:46:54+00:00"
+    },
+    {
         "title": "OpenAI considers major price cuts to rival Anthropic ahead of IPO, WSJ",
         "link": "https://www.reddit.com/r/singularity/comments/1u2mueg/openai_considers_major_price_cuts_to_rival/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-11T02:47:31+00:00"
+    },
+    {
+        "title": "Coding with Agents",
+        "link": "https://www.reddit.com/r/singularity/comments/1u2oref/coding_with_agents/",
+        "image": "https://preview.redd.it/yxxczau5yk6h1.png?width=640&crop=smart&auto=webp&s=039c0b1fdd40caa101e968c99143c823b34c5b73",
+        "published": "2026-06-11T04:20:15+00:00"
     },
     {
         "title": "Anthropic CEO Dario Amodei publishes new essay on AI policy",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/singularity/comments/1u2c94z/fable_creation_one_shot_retro_3d_hockey/",
         "image": "https://external-preview.redd.it/MDJ6dzJ2MjFiaTZoMTNRZLv6YxR08U3PRGEEW3J2aYwPX_gZuktYwEx6U3NB.png?width=640&crop=smart&auto=webp&s=cc5d72db7fa247d8fe172ecaa3b7a4e730771473",
         "published": "2026-06-10T19:27:59+00:00"
+    },
+    {
+        "title": "Anthropic Walks Back Policy That Could Have \u2018Sabotaged\u2019 AI Researchers Using Claude",
+        "link": "https://www.reddit.com/r/singularity/comments/1u2p2s9/anthropic_walks_back_policy_that_could_have/",
+        "image": "https://external-preview.redd.it/L53B_m-SNkje-0UL9Q9Fu3OeBNxJXt6W5kDM-FoDMZU.jpeg?width=640&crop=smart&auto=webp&s=ba8e2f8f46f0e68ceda649b8af221db08b2f3a36",
+        "published": "2026-06-11T04:36:21+00:00"
+    },
+    {
+        "title": "OpenAI Preps New AI Model, Expects To Go Public Within the Next Year",
+        "link": "https://www.reddit.com/r/singularity/comments/1u283f0/openai_preps_new_ai_model_expects_to_go_public/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-10T17:01:32+00:00"
     }
 ]
