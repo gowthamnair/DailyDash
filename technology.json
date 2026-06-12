@@ -12,22 +12,16 @@
         "published": "2026-06-12T00:28:59+00:00"
     },
     {
-        "title": "AMD changes rules, denies researcher $10,000 bounty after taking 124 days to patch security flaw",
-        "link": "https://www.reddit.com/r/technology/comments/1u3ty3q/amd_changes_rules_denies_researcher_10000_bounty/",
-        "image": "https://external-preview.redd.it/J4iTcX0NhKL4nbKw0_h2IuBIcFaJujzaJAFxnDpDqyg.jpeg?width=640&crop=smart&auto=webp&s=c15cf2f6830537ab0240ac91c1a56f8b237f9eaa",
-        "published": "2026-06-12T12:31:36+00:00"
-    },
-    {
-        "title": "Software Update Automatically Turns off Amazon Delivery Drivers\u2019 AC During Dangerous Summer Heat | A new software update is turning off the AC in Amazon delivery vans after 10 minutes or 30 seconds under certain conditions",
-        "link": "https://www.reddit.com/r/technology/comments/1u3eaiu/software_update_automatically_turns_off_amazon/",
-        "image": "https://external-preview.redd.it/RYVFppIFjGN-BDwTae2pagXDk192mgYI7VRDfMfMD8s.jpeg?width=640&crop=smart&auto=webp&s=893f1d745e663de5d1b92dbf67af081479307573",
-        "published": "2026-06-11T23:00:28+00:00"
-    },
-    {
         "title": "$130 billion in data center projects blocked by protests so far this year",
         "link": "https://www.reddit.com/r/technology/comments/1u41vjv/130_billion_in_data_center_projects_blocked_by/",
         "image": "https://external-preview.redd.it/tjrlgYB276pcNKHcb3gRqxyCiFlRYhu5vq_wk_HhMxk.jpeg?width=640&crop=smart&auto=webp&s=1135f90292737d52d905cd515c26075342ebe148",
         "published": "2026-06-12T17:28:14+00:00"
+    },
+    {
+        "title": "AMD changes rules, denies researcher $10,000 bounty after taking 124 days to patch security flaw",
+        "link": "https://www.reddit.com/r/technology/comments/1u3ty3q/amd_changes_rules_denies_researcher_10000_bounty/",
+        "image": "https://external-preview.redd.it/J4iTcX0NhKL4nbKw0_h2IuBIcFaJujzaJAFxnDpDqyg.jpeg?width=640&crop=smart&auto=webp&s=c15cf2f6830537ab0240ac91c1a56f8b237f9eaa",
+        "published": "2026-06-12T12:31:36+00:00"
     },
     {
         "title": "Disgraced FTX Founder Sam Bankman-Fried Loses Appeal of 25-Year Sentence",
@@ -42,16 +36,22 @@
         "published": "2026-06-12T07:38:21+00:00"
     },
     {
+        "title": "AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability \u2014 security flaw took 124 days to patch",
+        "link": "https://www.reddit.com/r/technology/comments/1u3yhkw/amd_denies_researcher_a_10000_bug_bounty_after/",
+        "image": "https://external-preview.redd.it/PlJVwMpss_nSWD7uDkHx68Z4pCy1qRLlx6vB-1txmsw.jpeg?width=640&crop=smart&auto=webp&s=b8544b89c68c557858899d07364bfeefd17b9679",
+        "published": "2026-06-12T15:27:58+00:00"
+    },
+    {
         "title": "Red Lobster CEO Damola Adamolekun Plans To Make The Seafood Chain 'The Most AI-Forward Restaurant Company That Exists'",
         "link": "https://www.reddit.com/r/technology/comments/1u3unyf/red_lobster_ceo_damola_adamolekun_plans_to_make/",
         "image": "https://external-preview.redd.it/dASzD5ahGxQlVG9uBBtVP_RhCx-SGgtZdvCYwTEn56Y.jpeg?width=640&crop=smart&auto=webp&s=d7b5558469644d391dd92cef5fb347d6c6f3c8d4",
         "published": "2026-06-12T13:02:21+00:00"
     },
     {
-        "title": "AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability \u2014 security flaw took 124 days to patch",
-        "link": "https://www.reddit.com/r/technology/comments/1u3yhkw/amd_denies_researcher_a_10000_bug_bounty_after/",
-        "image": "https://external-preview.redd.it/PlJVwMpss_nSWD7uDkHx68Z4pCy1qRLlx6vB-1txmsw.jpeg?width=640&crop=smart&auto=webp&s=b8544b89c68c557858899d07364bfeefd17b9679",
-        "published": "2026-06-12T15:27:58+00:00"
+        "title": "Rivian's CEO Says There's a Big Market for a Small Electric Truck",
+        "link": "https://www.reddit.com/r/technology/comments/1u3xl48/rivians_ceo_says_theres_a_big_market_for_a_small/",
+        "image": "https://external-preview.redd.it/OVWXN6ZytTHqPQ61QNkT-Lh6phAnxXEHlBf2Iod_Yrc.jpeg?width=640&crop=smart&auto=webp&s=b5cdcc1d60af59b1d92c0bfd4b6cadfa9a9b02fa",
+        "published": "2026-06-12T14:55:31+00:00"
     },
     {
         "title": "Washington Post subscriber sues news outlet, accuses it of using \u2018surveillance pricing\u2019 to gouge readers",
@@ -60,10 +60,10 @@
         "published": "2026-06-12T11:50:29+00:00"
     },
     {
-        "title": "Rivian's CEO Says There's a Big Market for a Small Electric Truck",
-        "link": "https://www.reddit.com/r/technology/comments/1u3xl48/rivians_ceo_says_theres_a_big_market_for_a_small/",
-        "image": "https://external-preview.redd.it/OVWXN6ZytTHqPQ61QNkT-Lh6phAnxXEHlBf2Iod_Yrc.jpeg?width=640&crop=smart&auto=webp&s=b5cdcc1d60af59b1d92c0bfd4b6cadfa9a9b02fa",
-        "published": "2026-06-12T14:55:31+00:00"
+        "title": "\u2018Tell Him He\u2019s a Piece of Sh*t\u2019: Meta\u2019s New AI Unit Is a Total Mess",
+        "link": "https://www.reddit.com/r/technology/comments/1u486jd/tell_him_hes_a_piece_of_sht_metas_new_ai_unit_is/",
+        "image": "https://external-preview.redd.it/bNkqcP-9PjDXbPPjHhI2EIPyecPpl2fl2S7_iDEV-YM.jpeg?width=640&crop=smart&auto=webp&s=720030570968d1030163372a8e1728f1ec005e20",
+        "published": "2026-06-12T21:27:15+00:00"
     },
     {
         "title": "Scientists Invented a Disease to Test Whether A.I. Knew It Was Fake. Then, Chatbots Started Saying It Was Real",
