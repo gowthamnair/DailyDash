@@ -1,15 +1,15 @@
 [
     {
-        "title": "Several police officers arrested for using controversial Flock AI license plate reader system to stalk romantic partners, says report \u2014 investigators have unearthed at least 18 such cases in the US over recent years",
-        "link": "https://www.reddit.com/r/technology/comments/1u3rwn2/several_police_officers_arrested_for_using/",
-        "image": "https://external-preview.redd.it/P7WL4TtyalpCFyrED7_LF1_GTHLJPinQMQ385pYFidY.jpeg?width=640&crop=smart&auto=webp&s=616443fe37c351886465041d854883cf70da5d8f",
-        "published": "2026-06-12T10:51:09+00:00"
-    },
-    {
         "title": "\u2018You will not speak on Flock tonight\u2019 \u2014 County Commissioner refuses to let residents opposing Flock speak at meeting",
         "link": "https://www.reddit.com/r/technology/comments/1u49tww/you_will_not_speak_on_flock_tonight_county/",
         "image": "https://external-preview.redd.it/Q66beBIvfek4_MG_WO0mIYteRtueA2dWEmDgHjiRuHM.png?width=640&crop=smart&auto=webp&s=c035de20025aab77f380a3b13a41df369ebdb345",
         "published": "2026-06-12T22:34:21+00:00"
+    },
+    {
+        "title": "Several police officers arrested for using controversial Flock AI license plate reader system to stalk romantic partners, says report \u2014 investigators have unearthed at least 18 such cases in the US over recent years",
+        "link": "https://www.reddit.com/r/technology/comments/1u3rwn2/several_police_officers_arrested_for_using/",
+        "image": "https://external-preview.redd.it/P7WL4TtyalpCFyrED7_LF1_GTHLJPinQMQ385pYFidY.jpeg?width=640&crop=smart&auto=webp&s=616443fe37c351886465041d854883cf70da5d8f",
+        "published": "2026-06-12T10:51:09+00:00"
     },
     {
         "title": "$130 billion in data center projects blocked by protests so far this year",
@@ -48,12 +48,6 @@
         "published": "2026-06-12T13:02:21+00:00"
     },
     {
-        "title": "Massive Effigy Raised Over Times Square to Protest Grok",
-        "link": "https://www.reddit.com/r/technology/comments/1u3olo6/massive_effigy_raised_over_times_square_to/",
-        "image": "https://external-preview.redd.it/UR8TQZlbqT2i_EJ84AIQECBDsMOfac380L2kBGIHX3g.jpeg?width=640&crop=smart&auto=webp&s=ca1f31a246856ada41abe7101519e235a7c9eb53",
-        "published": "2026-06-12T07:38:21+00:00"
-    },
-    {
         "title": "Rivian's CEO Says There's a Big Market for a Small Electric Truck",
         "link": "https://www.reddit.com/r/technology/comments/1u3xl48/rivians_ceo_says_theres_a_big_market_for_a_small/",
         "image": "https://external-preview.redd.it/OVWXN6ZytTHqPQ61QNkT-Lh6phAnxXEHlBf2Iod_Yrc.jpeg?width=640&crop=smart&auto=webp&s=b5cdcc1d60af59b1d92c0bfd4b6cadfa9a9b02fa",
@@ -66,10 +60,16 @@
         "published": "2026-06-12T11:50:29+00:00"
     },
     {
-        "title": "Why Do Chatbots Keep Telling Stories About Someone Named \u2018Elias Thorne\u2019?",
-        "link": "https://www.reddit.com/r/technology/comments/1u3op53/why_do_chatbots_keep_telling_stories_about/",
-        "image": "https://external-preview.redd.it/dkSENjfJCDahbtvymRC2MGKVT5sr_e0SVoPOS0Q8C9E.jpeg?width=640&crop=smart&auto=webp&s=82bf05aa7b0297b8bc091e9cc7ea69be94fe80f7",
-        "published": "2026-06-12T07:44:22+00:00"
+        "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
+        "link": "https://www.reddit.com/r/technology/comments/1u4f16y/stanford_scientists_regrow_lost_cartilage_and/",
+        "image": "https://external-preview.redd.it/QAhvpwO0XJTWfV1M9HzPSDwP5wxvLLGJhEutVR7iDrU.jpeg?width=640&crop=smart&auto=webp&s=daae2876f7b2e76fd9b76541a5c36eca08de02d2",
+        "published": "2026-06-13T02:36:42+00:00"
+    },
+    {
+        "title": "Microsoft Teams is getting a controversial location tracking feature that users may hate",
+        "link": "https://www.reddit.com/r/technology/comments/1u4ck7r/microsoft_teams_is_getting_a_controversial/",
+        "image": "https://external-preview.redd.it/rS4910X6Lq6RI53zyMVyRExD-BX13aqTNsdaMTzVY8A.jpeg?width=640&crop=smart&auto=webp&s=faeff4298b5f6799bfee5d20b499ba13d0e709fd",
+        "published": "2026-06-13T00:35:56+00:00"
     },
     {
         "title": "Nintendo's Palworld Lawsuit Is Falling Apart",
@@ -84,9 +84,9 @@
         "published": "2026-06-12T21:36:48+00:00"
     },
     {
-        "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
-        "link": "https://www.reddit.com/r/technology/comments/1u4f16y/stanford_scientists_regrow_lost_cartilage_and/",
-        "image": "https://external-preview.redd.it/QAhvpwO0XJTWfV1M9HzPSDwP5wxvLLGJhEutVR7iDrU.jpeg?width=640&crop=smart&auto=webp&s=daae2876f7b2e76fd9b76541a5c36eca08de02d2",
-        "published": "2026-06-13T02:36:42+00:00"
+        "title": "Amazon data centers used 2.5bn gallons of water in 2025",
+        "link": "https://www.reddit.com/r/technology/comments/1u4c945/amazon_data_centers_used_25bn_gallons_of_water_in/",
+        "image": "https://external-preview.redd.it/A96BIRI_gvMJymVrgUIfxbgqRYvIWnBS-tzWxBAV-UM.jpeg?width=640&crop=smart&auto=webp&s=48dc78afeb3fa4c1e53b68cf45acf1c72f074829",
+        "published": "2026-06-13T00:21:16+00:00"
     }
 ]
