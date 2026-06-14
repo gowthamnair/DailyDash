@@ -12,16 +12,16 @@
         "published": "2026-06-14T08:22:41+00:00"
     },
     {
-        "title": "Meta Employees Absolutely Hate Mark Zuckerberg\u2019s Plan for a Companywide AI Hackathon",
-        "link": "https://www.reddit.com/r/technology/comments/1u50lt3/meta_employees_absolutely_hate_mark_zuckerbergs/",
-        "image": "https://external-preview.redd.it/ZoW0Ul7onKZHfFSx23Yrou5-tio6B-3Q_gs-GuDxqOg.jpeg?width=640&crop=smart&auto=webp&s=311ebf4d7c7a0761f498952e8c4a73e657892139",
-        "published": "2026-06-13T20:00:36+00:00"
-    },
-    {
         "title": "China\u2019s universities cut 12,000 \u2018obsolete\u2019 degrees amid race to embrace AI era",
         "link": "https://www.reddit.com/r/technology/comments/1u5i8dn/chinas_universities_cut_12000_obsolete_degrees/",
         "image": "https://external-preview.redd.it/UbVTv4RuvTt2i1deY583Ee4Qy5lpJgrJGYtVVOrgau0.jpeg?width=640&crop=smart&auto=webp&s=9db038738b10c6e8e59cbfce2c94cdcd8aff6141",
         "published": "2026-06-14T11:04:13+00:00"
+    },
+    {
+        "title": "A $200 ChatGPT subscription could cost OpenAI $14,000 if you actually used it to its full potential",
+        "link": "https://www.reddit.com/r/technology/comments/1u5ufgs/a_200_chatgpt_subscription_could_cost_openai/",
+        "image": "https://external-preview.redd.it/ZuzeOYPkQYuEEiMfW70L5mnYpebdpAZys1aIa6MxxCw.jpeg?width=640&crop=smart&auto=webp&s=9cc4533785268213870d0fcf479d2a8515b1e013",
+        "published": "2026-06-14T19:33:36+00:00"
     },
     {
         "title": "Russia wrapped a whole building in an anti-drone cage, satellite imagery shows. Ukraine fired on it with cruise missiles.",
@@ -42,16 +42,16 @@
         "published": "2026-06-14T12:31:03+00:00"
     },
     {
-        "title": "Class of AI Models Hyped as Scarily Powerful Apparently Scared the Government Too Much and Now They\u2019re Disabled",
-        "link": "https://www.reddit.com/r/technology/comments/1u54yqp/class_of_ai_models_hyped_as_scarily_powerful/",
-        "image": "https://external-preview.redd.it/iWuxdbEO8uAVZn58brgColc4d-rs3HFkOwEEt-Qkwn8.jpeg?width=640&crop=smart&auto=webp&s=beefd7ef95e04ac5136603f74485864e049f5132",
-        "published": "2026-06-13T23:11:05+00:00"
-    },
-    {
         "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
         "link": "https://www.reddit.com/r/technology/comments/1u5k5rf/a_year_after_meta_tapped_alexandr_wang_to_build_a/",
         "image": "https://external-preview.redd.it/s3dIGFmYfWxtKeu90fPdTW0xWGLrutXyd27YfgPgX4Q.jpeg?width=640&crop=smart&auto=webp&s=000cf997d6a492701616de8361e2776abdd444fe",
         "published": "2026-06-14T12:42:06+00:00"
+    },
+    {
+        "title": "Class of AI Models Hyped as Scarily Powerful Apparently Scared the Government Too Much and Now They\u2019re Disabled",
+        "link": "https://www.reddit.com/r/technology/comments/1u54yqp/class_of_ai_models_hyped_as_scarily_powerful/",
+        "image": "https://external-preview.redd.it/iWuxdbEO8uAVZn58brgColc4d-rs3HFkOwEEt-Qkwn8.jpeg?width=640&crop=smart&auto=webp&s=beefd7ef95e04ac5136603f74485864e049f5132",
+        "published": "2026-06-13T23:11:05+00:00"
     },
     {
         "title": "PwC Report: AI's biggest impact in Healthcare is in revenue optimization used to raise your medical bills higher",
@@ -64,6 +64,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1u5exkp/tesla_on_autopilot_smashes_straight_through/",
         "image": "https://external-preview.redd.it/y0E_eBKWnUrGcle6dEe-OxZVxBED_ngH3gVAKx7TwjA.jpeg?width=640&crop=smart&auto=webp&s=e7adc77347f4b61d9beec52e3ab887aed9686eb7",
         "published": "2026-06-14T07:45:30+00:00"
+    },
+    {
+        "title": "AI job disruption is here. The problem may be compounded because nearly 75% of people don\u2019t apply for unemployment benefits",
+        "link": "https://www.reddit.com/r/technology/comments/1u5rmbf/ai_job_disruption_is_here_the_problem_may_be/",
+        "image": "https://external-preview.redd.it/MksIW1NAa9VyXMxIofzBVW1s7WHhBR70aixD-h9_W2s.jpeg?width=640&crop=smart&auto=webp&s=1814013eed1159623c6a363e8a7ea237009dd905",
+        "published": "2026-06-14T17:45:43+00:00"
     },
     {
         "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1u5j55x/us_government_warned_anthropic_that_chinese_group/",
         "image": "https://external-preview.redd.it/U_faZ_ddoxR9hyd-jtc4-EAYuXD6q3oBDjz4q0TTp10.jpeg?width=640&crop=smart&auto=webp&s=99f19d08156698c2f3db1ea8f8b434f2dc3a8dd4",
         "published": "2026-06-14T11:52:28+00:00"
-    },
-    {
-        "title": "AI job disruption is here. The problem may be compounded because nearly 75% of people don\u2019t apply for unemployment benefits",
-        "link": "https://www.reddit.com/r/technology/comments/1u5rmbf/ai_job_disruption_is_here_the_problem_may_be/",
-        "image": "https://external-preview.redd.it/MksIW1NAa9VyXMxIofzBVW1s7WHhBR70aixD-h9_W2s.jpeg?width=640&crop=smart&auto=webp&s=1814013eed1159623c6a363e8a7ea237009dd905",
-        "published": "2026-06-14T17:45:43+00:00"
     }
 ]
