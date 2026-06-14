@@ -36,28 +36,10 @@
         "published": "2026-06-13T23:11:05+00:00"
     },
     {
-        "title": "PwC Report: AI's biggest impact in Healthcare is in revenue optimization used to raise your medical bills higher",
-        "link": "https://www.reddit.com/r/technology/comments/1u5c1q7/pwc_report_ais_biggest_impact_in_healthcare_is_in/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-14T05:02:32+00:00"
-    },
-    {
-        "title": "India\u2019s workers are training AI robots to take their jobs",
-        "link": "https://www.reddit.com/r/technology/comments/1u4upsh/indias_workers_are_training_ai_robots_to_take/",
-        "image": "https://external-preview.redd.it/Jir4Zaao1Mjj6EyTAgMx2E5G2Q_PTfnqINQ8clon_6U.jpeg?width=640&crop=smart&auto=webp&s=e3836d9f222a7629876884dc511ab4072abd9518",
-        "published": "2026-06-13T16:03:43+00:00"
-    },
-    {
         "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
         "link": "https://www.reddit.com/r/technology/comments/1u5k5zr/zuckerberg_says_meta_made_mistakes_in_ai/",
         "image": "https://external-preview.redd.it/32DDORFCr6pc2Wmx6e0DRZOyCvVk6py_P28kM8ga5VM.jpeg?width=640&crop=smart&auto=webp&s=5c48aba45ab4f099009e3ade95686b9ff555a06b",
         "published": "2026-06-14T12:42:26+00:00"
-    },
-    {
-        "title": "Tesla on Autopilot Smashes Straight Through Garage Door, Driver Says",
-        "link": "https://www.reddit.com/r/technology/comments/1u5exkp/tesla_on_autopilot_smashes_straight_through/",
-        "image": "https://external-preview.redd.it/y0E_eBKWnUrGcle6dEe-OxZVxBED_ngH3gVAKx7TwjA.jpeg?width=640&crop=smart&auto=webp&s=e7adc77347f4b61d9beec52e3ab887aed9686eb7",
-        "published": "2026-06-14T07:45:30+00:00"
     },
     {
         "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
@@ -66,16 +48,28 @@
         "published": "2026-06-14T12:31:03+00:00"
     },
     {
+        "title": "PwC Report: AI's biggest impact in Healthcare is in revenue optimization used to raise your medical bills higher",
+        "link": "https://www.reddit.com/r/technology/comments/1u5c1q7/pwc_report_ais_biggest_impact_in_healthcare_is_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-14T05:02:32+00:00"
+    },
+    {
         "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
         "link": "https://www.reddit.com/r/technology/comments/1u5k5rf/a_year_after_meta_tapped_alexandr_wang_to_build_a/",
         "image": "https://external-preview.redd.it/s3dIGFmYfWxtKeu90fPdTW0xWGLrutXyd27YfgPgX4Q.jpeg?width=640&crop=smart&auto=webp&s=000cf997d6a492701616de8361e2776abdd444fe",
         "published": "2026-06-14T12:42:06+00:00"
     },
     {
-        "title": "Nuclear shipping: Large vehicle carrier with molten salt reactor gets design approval",
-        "link": "https://www.reddit.com/r/technology/comments/1u4w43l/nuclear_shipping_large_vehicle_carrier_with/",
-        "image": "https://external-preview.redd.it/NwWZ8oZaHx2QrIyUvQoKrzie47w9pcuBDKSYgubGO-4.jpeg?width=640&crop=smart&auto=webp&s=e7522086a3200dc0439f18fac92b226d13374fbd",
-        "published": "2026-06-13T16:59:54+00:00"
+        "title": "Tesla on Autopilot Smashes Straight Through Garage Door, Driver Says",
+        "link": "https://www.reddit.com/r/technology/comments/1u5exkp/tesla_on_autopilot_smashes_straight_through/",
+        "image": "https://external-preview.redd.it/y0E_eBKWnUrGcle6dEe-OxZVxBED_ngH3gVAKx7TwjA.jpeg?width=640&crop=smart&auto=webp&s=e7adc77347f4b61d9beec52e3ab887aed9686eb7",
+        "published": "2026-06-14T07:45:30+00:00"
+    },
+    {
+        "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
+        "link": "https://www.reddit.com/r/technology/comments/1u5j8g5/palantir_loses_legal_challenge_to_force_swiss/",
+        "image": "https://external-preview.redd.it/9qV7c0KDU0mU_zqSdRjtuuTrO3WvNJ-qmZPO72NUd28.jpeg?width=640&crop=smart&auto=webp&s=a0cb3b4414d8e525ad23ff367888c1e8a9055a7c",
+        "published": "2026-06-14T11:57:16+00:00"
     },
     {
         "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1u5c93h/hackers_are_using_tiktok_videos_offering_free/",
         "image": "https://external-preview.redd.it/p7Rcex6GS7z1QkoaXncFbR7YjCKIJD-R457yzqRIGOY.jpeg?width=640&crop=smart&auto=webp&s=48c90ca4f3d7049937cdc4b50680c33e5395f4fe",
         "published": "2026-06-14T05:13:39+00:00"
+    },
+    {
+        "title": "US government warned Anthropic that Chinese group had accessed model, but firm 'refused' to fix Fable 5 jailbreak before US export controls \u2014 Anthropic defended its decision by saying the jailbreak isn\u2019t serious",
+        "link": "https://www.reddit.com/r/technology/comments/1u5j55x/us_government_warned_anthropic_that_chinese_group/",
+        "image": "https://external-preview.redd.it/U_faZ_ddoxR9hyd-jtc4-EAYuXD6q3oBDjz4q0TTp10.jpeg?width=640&crop=smart&auto=webp&s=99f19d08156698c2f3db1ea8f8b434f2dc3a8dd4",
+        "published": "2026-06-14T11:52:28+00:00"
     }
 ]
