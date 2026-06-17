@@ -1,11 +1,5 @@
 [
     {
-        "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
-        "link": "https://www.reddit.com/r/technology/comments/1u7jtpj/mark_zuckerberg_orders_his_employees_to_start/",
-        "image": "https://external-preview.redd.it/nMyhpFuJwDArWo-RTN4AJORKeVdV8jUjnwyFUC9tbe8.jpeg?width=640&crop=smart&auto=webp&s=bfb5e7461aab7ceb261ad45463015c0009128b13",
-        "published": "2026-06-16T17:17:45+00:00"
-    },
-    {
         "title": "Leak Exposes Members of Peter Thiel\u2019s Secretive \u2018Dialog\u2019 Society",
         "link": "https://www.reddit.com/r/technology/comments/1u7sln8/leak_exposes_members_of_peter_thiels_secretive/",
         "image": "https://external-preview.redd.it/lB6E_dyJzFtMKrNK09bo8IAejgVgQjkcsN_TKaQZ1Dc.jpeg?width=640&crop=smart&auto=webp&s=77b4cfa2c6cc12140e92dd1eba6618be056d865b",
@@ -22,6 +16,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1u82vny/metas_cto_says_morale_is_almost_the_worst_its/",
         "image": "https://external-preview.redd.it/p7zOMvTArbLFvjItvtAklLmcdZgP0wLO75mDPwDJ1qI.jpeg?width=640&crop=smart&auto=webp&s=a68dca9afe760a8f0eeaaf0a2f5cf511796e9b90",
         "published": "2026-06-17T07:00:20+00:00"
+    },
+    {
+        "title": "MIT Study Finds Gas Cars Aren't Secretly Better For The Planet Than EVs, Despite What Everyone On Facebook Says",
+        "link": "https://www.reddit.com/r/technology/comments/1u894xp/mit_study_finds_gas_cars_arent_secretly_better/",
+        "image": "https://external-preview.redd.it/YOyyCWbxh1TKiYfMppUB75xYT0BnOQQ1cZSKp2D5RQU.jpeg?width=640&crop=smart&auto=webp&s=277683b82058c1d4873ff2c9a70c2499f59e2ef0",
+        "published": "2026-06-17T12:42:58+00:00"
     },
     {
         "title": "It's time to dump Roku",
@@ -48,22 +48,22 @@
         "published": "2026-06-16T22:49:00+00:00"
     },
     {
-        "title": "MIT Study Finds Gas Cars Aren't Secretly Better For The Planet Than EVs, Despite What Everyone On Facebook Says",
-        "link": "https://www.reddit.com/r/technology/comments/1u894xp/mit_study_finds_gas_cars_arent_secretly_better/",
-        "image": "https://external-preview.redd.it/YOyyCWbxh1TKiYfMppUB75xYT0BnOQQ1cZSKp2D5RQU.jpeg?width=640&crop=smart&auto=webp&s=277683b82058c1d4873ff2c9a70c2499f59e2ef0",
-        "published": "2026-06-17T12:42:58+00:00"
-    },
-    {
         "title": "Millions of Copyrighted Songs Were Fed to AI Music Generators\u2014Now There\u2019s Proof.",
         "link": "https://www.reddit.com/r/technology/comments/1u84ofq/millions_of_copyrighted_songs_were_fed_to_ai/",
         "image": "https://external-preview.redd.it/inyX9MCqAq1UMU4AfP9MBGud45AcgUdEBLhD9tIGQTo.jpeg?width=640&crop=smart&auto=webp&s=157714a833ddc40228c7aeddb82d72211201302f",
         "published": "2026-06-17T08:47:44+00:00"
     },
     {
-        "title": "'The retail SSD market has almost disappeared,' says Silicon Motion exec \u2014 PC OEMs are buying third-party drives as direct NAND supply dries up",
-        "link": "https://www.reddit.com/r/technology/comments/1u7huvf/the_retail_ssd_market_has_almost_disappeared_says/",
-        "image": "https://external-preview.redd.it/NESa9Z6tkb8AO4cONaMybpn_MmHNth9yFxbd3Zg8G_4.jpeg?width=640&crop=smart&auto=webp&s=31e7120dd1fb59eed235a983cef9177f3368403f",
-        "published": "2026-06-16T16:08:05+00:00"
+        "title": "Kaspersky says hackers are distributing malware via anime girl wallpapers on Steam Workshop's Wallpaper Engine",
+        "link": "https://www.reddit.com/r/technology/comments/1u8ccrh/kaspersky_says_hackers_are_distributing_malware/",
+        "image": "https://external-preview.redd.it/kidq7Udu6Py-9kTOhTZaCl82onEYFOVhY3knwBBQMnQ.jpeg?width=640&crop=smart&auto=webp&s=f5c20568b617222ccd9f3ed464625f0485fcf004",
+        "published": "2026-06-17T14:51:09+00:00"
+    },
+    {
+        "title": "ICE Appears to Be Buying Immigrants\u2019 Tax Identifiers from a Data Broker",
+        "link": "https://www.reddit.com/r/technology/comments/1u8b8jg/ice_appears_to_be_buying_immigrants_tax/",
+        "image": "https://external-preview.redd.it/Mc6iw7dlcshItzsXlvAq6yK9r6V-__rWz4fkLcwu2Qs.jpeg?width=640&crop=smart&auto=webp&s=64709f564bd08cc001e2c46c3d96b44bc32aaa1b",
+        "published": "2026-06-17T14:08:30+00:00"
     },
     {
         "title": "Pentagon used Grok AI to fire 2,000 missiles at Iran, official says",
@@ -72,21 +72,21 @@
         "published": "2026-06-17T10:58:42+00:00"
     },
     {
-        "title": "Pentagon boasts of using AI to write reports mandated by Congress | Pentagon also claims 1.5 million personnel are using generative AI tools.",
-        "link": "https://www.reddit.com/r/technology/comments/1u7urgb/pentagon_boasts_of_using_ai_to_write_reports/",
-        "image": "https://external-preview.redd.it/UV-P69ID0m79cCcgp7sbKPyQj0bO0bnvxBKZk8DndPo.jpeg?width=640&crop=smart&auto=webp&s=21b004b8f9e667b1b1e338dfd8f43feebdc023d0",
-        "published": "2026-06-17T00:13:40+00:00"
-    },
-    {
         "title": "The fight against AI datacenters isn\u2019t just about tech \u2013 it\u2019s about democracy - Claims of nimbyism are a misunderstanding: the movement is about whether regular people have a say in fundamental decisions",
         "link": "https://www.reddit.com/r/technology/comments/1u80gpx/the_fight_against_ai_datacenters_isnt_just_about/",
         "image": "https://external-preview.redd.it/xbfEWnVdHlX0x225x__eoD6G3PGlOMoFZ2o1iQbV5NM.jpeg?width=640&crop=smart&auto=webp&s=13cd891eace5d9292743b8939bf57ae26b131fad",
         "published": "2026-06-17T04:46:13+00:00"
     },
     {
-        "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers - Slashdot",
-        "link": "https://www.reddit.com/r/technology/comments/1u7hoqh/google_chromes_next_update_will_mark_the_end_of/",
-        "image": "https://external-preview.redd.it/Od0iqHGF5L4z3nZGP8qCCEmSVeMhLCytviVvyxcadyo.png?width=64&height=64&auto=webp&s=1ec52c88c4da7f4f9a976f5730112e205c32ac64",
-        "published": "2026-06-16T16:01:57+00:00"
+        "title": "Pentagon boasts of using AI to write reports mandated by Congress | Pentagon also claims 1.5 million personnel are using generative AI tools.",
+        "link": "https://www.reddit.com/r/technology/comments/1u7urgb/pentagon_boasts_of_using_ai_to_write_reports/",
+        "image": "https://external-preview.redd.it/UV-P69ID0m79cCcgp7sbKPyQj0bO0bnvxBKZk8DndPo.jpeg?width=640&crop=smart&auto=webp&s=21b004b8f9e667b1b1e338dfd8f43feebdc023d0",
+        "published": "2026-06-17T00:13:40+00:00"
+    },
+    {
+        "title": "Sony patents controller with buttons that get harder or softer when you use them",
+        "link": "https://www.reddit.com/r/technology/comments/1u7psvx/sony_patents_controller_with_buttons_that_get/",
+        "image": "https://external-preview.redd.it/ohcvKQ0mMOUu1MFNGnHwyRq61_WoMIWk28i6o9u59L8.jpeg?width=640&crop=smart&auto=webp&s=f110ee792899a3fb9879411abe71831c740acf3f",
+        "published": "2026-06-16T20:51:43+00:00"
     }
 ]
