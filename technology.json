@@ -6,12 +6,6 @@
         "published": "2026-06-16T22:41:17+00:00"
     },
     {
-        "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-        "link": "https://www.reddit.com/r/technology/comments/1u7pzpn/leaked_financial_docs_show_openai_is_losing/",
-        "image": "https://external-preview.redd.it/bu8oC3sHqFnYrG7z9phMNBW7H4Upyo0fhIMw_5Cc0yQ.jpeg?width=640&crop=smart&auto=webp&s=a7847fb0673df1b05504ffa0fcc1ccb3fe0e4bff",
-        "published": "2026-06-16T20:59:10+00:00"
-    },
-    {
         "title": "Meta's CTO says morale is almost 'the worst it's ever been'",
         "link": "https://www.reddit.com/r/technology/comments/1u82vny/metas_cto_says_morale_is_almost_the_worst_its/",
         "image": "https://external-preview.redd.it/p7zOMvTArbLFvjItvtAklLmcdZgP0wLO75mDPwDJ1qI.jpeg?width=640&crop=smart&auto=webp&s=a68dca9afe760a8f0eeaaf0a2f5cf511796e9b90",
@@ -30,6 +24,12 @@
         "published": "2026-06-17T01:03:57+00:00"
     },
     {
+        "title": "Kaspersky says hackers are distributing malware via anime girl wallpapers on Steam Workshop's Wallpaper Engine",
+        "link": "https://www.reddit.com/r/technology/comments/1u8ccrh/kaspersky_says_hackers_are_distributing_malware/",
+        "image": "https://external-preview.redd.it/kidq7Udu6Py-9kTOhTZaCl82onEYFOVhY3knwBBQMnQ.jpeg?width=640&crop=smart&auto=webp&s=f5c20568b617222ccd9f3ed464625f0485fcf004",
+        "published": "2026-06-17T14:51:09+00:00"
+    },
+    {
         "title": "U.S President admin abandons fight against wind energy as clean energy output surges | Legal victories have dampened the U.S President admin\u2019s efforts to halt wind and solar power.",
         "link": "https://www.reddit.com/r/technology/comments/1u826sf/us_president_admin_abandons_fight_against_wind/",
         "image": "https://external-preview.redd.it/lm-r5djEbllBx6wHShm36QvgaUf7kGdr2Y_NrLY4raQ.jpeg?width=640&crop=smart&auto=webp&s=791e711d47963de943c73b9362a0236a95bf0a40",
@@ -42,22 +42,16 @@
         "published": "2026-06-17T07:51:02+00:00"
     },
     {
-        "title": "Kaspersky says hackers are distributing malware via anime girl wallpapers on Steam Workshop's Wallpaper Engine",
-        "link": "https://www.reddit.com/r/technology/comments/1u8ccrh/kaspersky_says_hackers_are_distributing_malware/",
-        "image": "https://external-preview.redd.it/kidq7Udu6Py-9kTOhTZaCl82onEYFOVhY3knwBBQMnQ.jpeg?width=640&crop=smart&auto=webp&s=f5c20568b617222ccd9f3ed464625f0485fcf004",
-        "published": "2026-06-17T14:51:09+00:00"
+        "title": "ICE Appears to Be Buying Immigrants\u2019 Tax Identifiers from a Data Broker",
+        "link": "https://www.reddit.com/r/technology/comments/1u8b8jg/ice_appears_to_be_buying_immigrants_tax/",
+        "image": "https://external-preview.redd.it/Mc6iw7dlcshItzsXlvAq6yK9r6V-__rWz4fkLcwu2Qs.jpeg?width=640&crop=smart&auto=webp&s=64709f564bd08cc001e2c46c3d96b44bc32aaa1b",
+        "published": "2026-06-17T14:08:30+00:00"
     },
     {
         "title": "Millions of Copyrighted Songs Were Fed to AI Music Generators\u2014Now There\u2019s Proof.",
         "link": "https://www.reddit.com/r/technology/comments/1u84ofq/millions_of_copyrighted_songs_were_fed_to_ai/",
         "image": "https://external-preview.redd.it/inyX9MCqAq1UMU4AfP9MBGud45AcgUdEBLhD9tIGQTo.jpeg?width=640&crop=smart&auto=webp&s=157714a833ddc40228c7aeddb82d72211201302f",
         "published": "2026-06-17T08:47:44+00:00"
-    },
-    {
-        "title": "ICE Appears to Be Buying Immigrants\u2019 Tax Identifiers from a Data Broker",
-        "link": "https://www.reddit.com/r/technology/comments/1u8b8jg/ice_appears_to_be_buying_immigrants_tax/",
-        "image": "https://external-preview.redd.it/Mc6iw7dlcshItzsXlvAq6yK9r6V-__rWz4fkLcwu2Qs.jpeg?width=640&crop=smart&auto=webp&s=64709f564bd08cc001e2c46c3d96b44bc32aaa1b",
-        "published": "2026-06-17T14:08:30+00:00"
     },
     {
         "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
@@ -78,15 +72,21 @@
         "published": "2026-06-17T16:04:23+00:00"
     },
     {
+        "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+        "link": "https://www.reddit.com/r/technology/comments/1u8g2a4/only_16_percent_of_americans_think_ai_will_have_a/",
+        "image": "https://external-preview.redd.it/00363qt3fpzCzsTLt5b6RBbKIEmmJs14dBD4b6ZTb5A.jpeg?width=640&crop=smart&auto=webp&s=7e836795b1f29a48ad03ca68a2a324b1f43979dc",
+        "published": "2026-06-17T17:05:24+00:00"
+    },
+    {
+        "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
+        "link": "https://www.reddit.com/r/technology/comments/1u8er7h/mark_zuckerberg_orders_his_employees_to_start/",
+        "image": "https://external-preview.redd.it/nMyhpFuJwDArWo-RTN4AJORKeVdV8jUjnwyFUC9tbe8.jpeg?width=640&crop=smart&auto=webp&s=bfb5e7461aab7ceb261ad45463015c0009128b13",
+        "published": "2026-06-17T16:18:03+00:00"
+    },
+    {
         "title": "The fight against AI datacenters isn\u2019t just about tech \u2013 it\u2019s about democracy - Claims of nimbyism are a misunderstanding: the movement is about whether regular people have a say in fundamental decisions",
         "link": "https://www.reddit.com/r/technology/comments/1u80gpx/the_fight_against_ai_datacenters_isnt_just_about/",
         "image": "https://external-preview.redd.it/xbfEWnVdHlX0x225x__eoD6G3PGlOMoFZ2o1iQbV5NM.jpeg?width=640&crop=smart&auto=webp&s=13cd891eace5d9292743b8939bf57ae26b131fad",
         "published": "2026-06-17T04:46:13+00:00"
-    },
-    {
-        "title": "Pentagon boasts of using AI to write reports mandated by Congress | Pentagon also claims 1.5 million personnel are using generative AI tools.",
-        "link": "https://www.reddit.com/r/technology/comments/1u7urgb/pentagon_boasts_of_using_ai_to_write_reports/",
-        "image": "https://external-preview.redd.it/UV-P69ID0m79cCcgp7sbKPyQj0bO0bnvxBKZk8DndPo.jpeg?width=640&crop=smart&auto=webp&s=21b004b8f9e667b1b1e338dfd8f43feebdc023d0",
-        "published": "2026-06-17T00:13:40+00:00"
     }
 ]
