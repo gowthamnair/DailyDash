@@ -12,16 +12,16 @@
         "published": "2026-06-17T12:42:58+00:00"
     },
     {
-        "title": "It's time to dump Roku",
-        "link": "https://www.reddit.com/r/technology/comments/1u7vvip/its_time_to_dump_roku/",
-        "image": "https://external-preview.redd.it/v7B9qVB74C0MJqUDyvT_hI_yaOZ_04DGOFi5ap2jEfU.jpeg?width=640&crop=smart&auto=webp&s=13a0dde06e7211b8084fd9ccc706a090624ba90f",
-        "published": "2026-06-17T01:03:57+00:00"
-    },
-    {
         "title": "Kaspersky says hackers are distributing malware via anime girl wallpapers on Steam Workshop's Wallpaper Engine",
         "link": "https://www.reddit.com/r/technology/comments/1u8ccrh/kaspersky_says_hackers_are_distributing_malware/",
         "image": "https://external-preview.redd.it/kidq7Udu6Py-9kTOhTZaCl82onEYFOVhY3knwBBQMnQ.jpeg?width=640&crop=smart&auto=webp&s=f5c20568b617222ccd9f3ed464625f0485fcf004",
         "published": "2026-06-17T14:51:09+00:00"
+    },
+    {
+        "title": "Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",
+        "link": "https://www.reddit.com/r/technology/comments/1u8lty1/firefox_has_an_ambitious_new_roadmap_the_browser/",
+        "image": "https://external-preview.redd.it/tPw26P21HeNvNfsBtazihUWexZzTk018663G7KeZ4lQ.png?width=640&crop=smart&auto=webp&s=aab27d925f31049db1ca55373df4650692a364eb",
+        "published": "2026-06-17T20:35:36+00:00"
     },
     {
         "title": "U.S President admin abandons fight against wind energy as clean energy output surges | Legal victories have dampened the U.S President admin\u2019s efforts to halt wind and solar power.",
@@ -54,12 +54,6 @@
         "published": "2026-06-17T10:58:42+00:00"
     },
     {
-        "title": "Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",
-        "link": "https://www.reddit.com/r/technology/comments/1u8lty1/firefox_has_an_ambitious_new_roadmap_the_browser/",
-        "image": "https://external-preview.redd.it/tPw26P21HeNvNfsBtazihUWexZzTk018663G7KeZ4lQ.png?width=640&crop=smart&auto=webp&s=aab27d925f31049db1ca55373df4650692a364eb",
-        "published": "2026-06-17T20:35:36+00:00"
-    },
-    {
         "title": "OpenAI made $13 billion in 2025 and lost $21 billion doing it",
         "link": "https://www.reddit.com/r/technology/comments/1u8edh0/openai_made_13_billion_in_2025_and_lost_21/",
         "image": "https://external-preview.redd.it/xKP_8-4eM5H1-Yg8TN1OqJYoI3KaP1LgUFvZwLWzWtE.jpeg?width=640&crop=smart&auto=webp&s=9252bb3625061bf567eb3f79888a65eb169f1467",
@@ -78,15 +72,21 @@
         "published": "2026-06-17T16:18:03+00:00"
     },
     {
-        "title": "The fight against AI datacenters isn\u2019t just about tech \u2013 it\u2019s about democracy - Claims of nimbyism are a misunderstanding: the movement is about whether regular people have a say in fundamental decisions",
-        "link": "https://www.reddit.com/r/technology/comments/1u80gpx/the_fight_against_ai_datacenters_isnt_just_about/",
-        "image": "https://external-preview.redd.it/xbfEWnVdHlX0x225x__eoD6G3PGlOMoFZ2o1iQbV5NM.jpeg?width=640&crop=smart&auto=webp&s=13cd891eace5d9292743b8939bf57ae26b131fad",
-        "published": "2026-06-17T04:46:13+00:00"
-    },
-    {
         "title": "License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",
         "link": "https://www.reddit.com/r/technology/comments/1u8fddc/license_plate_cameras_will_soon_track_phones/",
         "image": "https://external-preview.redd.it/FtR2giHVKjdTO8XqTn4drSOsxEL4uFnwnoDkgJqLOTk.jpeg?width=640&crop=smart&auto=webp&s=550fd272356c004a41720d2f2873c848518ca997",
         "published": "2026-06-17T16:40:13+00:00"
+    },
+    {
+        "title": "Bezos: AI will result in labor shortages instead of replacing humans",
+        "link": "https://www.reddit.com/r/technology/comments/1u8k7p7/bezos_ai_will_result_in_labor_shortages_instead/",
+        "image": "https://external-preview.redd.it/1APBSFtVkBYlfz8RvidGcgsAJ_UhND5kXy9WkkQXt5Q.jpeg?width=640&crop=smart&auto=webp&s=dabbd6f52217571d897b86fee004a0b2e625d4ce",
+        "published": "2026-06-17T19:35:24+00:00"
+    },
+    {
+        "title": "The fight against AI datacenters isn\u2019t just about tech \u2013 it\u2019s about democracy - Claims of nimbyism are a misunderstanding: the movement is about whether regular people have a say in fundamental decisions",
+        "link": "https://www.reddit.com/r/technology/comments/1u80gpx/the_fight_against_ai_datacenters_isnt_just_about/",
+        "image": "https://external-preview.redd.it/xbfEWnVdHlX0x225x__eoD6G3PGlOMoFZ2o1iQbV5NM.jpeg?width=640&crop=smart&auto=webp&s=13cd891eace5d9292743b8939bf57ae26b131fad",
+        "published": "2026-06-17T04:46:13+00:00"
     }
 ]
