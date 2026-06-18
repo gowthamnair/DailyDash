@@ -1,8 +1,8 @@
 [
     {
-        "title": "What's in the US-Iran agreement that's now in effect",
+        "title": "What's in the US-Iran agreement?",
         "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cec9/live/756b44d0-6a9d-11f1-8546-8f19e4fe30f4.jpg",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0622/live/2562e810-6ae5-11f1-a111-df8047375d8f.jpg",
         "published": "Thu, 18 Jun 2026 01:28:02 GMT"
     },
     {
@@ -28,12 +28,6 @@
         "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3607/live/3b4a8860-6a34-11f1-8e1d-bbbb1017d210.jpg",
         "published": "Wed, 17 Jun 2026 16:50:42 GMT"
-    },
-    {
-        "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
-        "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/06d8/live/d50a1080-6a5f-11f1-b7aa-49f3a4d630f8.jpg",
-        "published": "Wed, 17 Jun 2026 19:03:10 GMT"
     },
     {
         "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
@@ -88,5 +82,11 @@
         "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76bb/live/f3fbc9c0-6979-11f1-a63b-a7cb529e1ca8.jpg",
         "published": "Wed, 17 Jun 2026 09:46:31 GMT"
+    },
+    {
+        "title": "Nigerian man jailed for storing human faeces outside his home",
+        "link": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6c59/live/aa0a27c0-6a56-11f1-8e1d-bbbb1017d210.jpg",
+        "published": "Wed, 17 Jun 2026 14:33:39 GMT"
     }
 ]
