@@ -1,11 +1,5 @@
 [
     {
-        "title": "MIT Study Finds Gas Cars Aren't Secretly Better For The Planet Than EVs, Despite What Everyone On Facebook Says",
-        "link": "https://www.reddit.com/r/technology/comments/1u894xp/mit_study_finds_gas_cars_arent_secretly_better/",
-        "image": "https://external-preview.redd.it/YOyyCWbxh1TKiYfMppUB75xYT0BnOQQ1cZSKp2D5RQU.jpeg?width=640&crop=smart&auto=webp&s=277683b82058c1d4873ff2c9a70c2499f59e2ef0",
-        "published": "2026-06-17T12:42:58+00:00"
-    },
-    {
         "title": "Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",
         "link": "https://www.reddit.com/r/technology/comments/1u8lty1/firefox_has_an_ambitious_new_roadmap_the_browser/",
         "image": "https://external-preview.redd.it/tPw26P21HeNvNfsBtazihUWexZzTk018663G7KeZ4lQ.png?width=640&crop=smart&auto=webp&s=aab27d925f31049db1ca55373df4650692a364eb",
@@ -16,12 +10,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1u8ccrh/kaspersky_says_hackers_are_distributing_malware/",
         "image": "https://external-preview.redd.it/kidq7Udu6Py-9kTOhTZaCl82onEYFOVhY3knwBBQMnQ.jpeg?width=640&crop=smart&auto=webp&s=f5c20568b617222ccd9f3ed464625f0485fcf004",
         "published": "2026-06-17T14:51:09+00:00"
-    },
-    {
-        "title": "ICE Appears to Be Buying Immigrants\u2019 Tax Identifiers from a Data Broker",
-        "link": "https://www.reddit.com/r/technology/comments/1u8b8jg/ice_appears_to_be_buying_immigrants_tax/",
-        "image": "https://external-preview.redd.it/Mc6iw7dlcshItzsXlvAq6yK9r6V-__rWz4fkLcwu2Qs.jpeg?width=640&crop=smart&auto=webp&s=64709f564bd08cc001e2c46c3d96b44bc32aaa1b",
-        "published": "2026-06-17T14:08:30+00:00"
     },
     {
         "title": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable \u2014 security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
@@ -36,16 +24,16 @@
         "published": "2026-06-17T17:05:24+00:00"
     },
     {
+        "title": "Americans to be hit with record-high electricity bills this summer",
+        "link": "https://www.reddit.com/r/technology/comments/1u93a4o/americans_to_be_hit_with_recordhigh_electricity/",
+        "image": "https://external-preview.redd.it/jIdg5yvzyv5gytV9kYacRmn6q0hj43r0BDjF_hilNac.jpeg?width=640&crop=smart&auto=webp&s=1af37a9719189e039214652eed76972ad00403ed",
+        "published": "2026-06-18T11:07:00+00:00"
+    },
+    {
         "title": "OpenAI made $13 billion in 2025 and lost $21 billion doing it",
         "link": "https://www.reddit.com/r/technology/comments/1u8edh0/openai_made_13_billion_in_2025_and_lost_21/",
         "image": "https://external-preview.redd.it/xKP_8-4eM5H1-Yg8TN1OqJYoI3KaP1LgUFvZwLWzWtE.jpeg?width=640&crop=smart&auto=webp&s=9252bb3625061bf567eb3f79888a65eb169f1467",
         "published": "2026-06-17T16:04:23+00:00"
-    },
-    {
-        "title": "License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",
-        "link": "https://www.reddit.com/r/technology/comments/1u8fddc/license_plate_cameras_will_soon_track_phones/",
-        "image": "https://external-preview.redd.it/FtR2giHVKjdTO8XqTn4drSOsxEL4uFnwnoDkgJqLOTk.jpeg?width=640&crop=smart&auto=webp&s=550fd272356c004a41720d2f2873c848518ca997",
-        "published": "2026-06-17T16:40:13+00:00"
     },
     {
         "title": "Apple\u2019s weird anti-nausea dots cured my car sickness | \ufeffVehicle Motion Cues let me read and write in the passenger seat without wanting to die",
@@ -54,16 +42,22 @@
         "published": "2026-06-18T02:03:39+00:00"
     },
     {
-        "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
-        "link": "https://www.reddit.com/r/technology/comments/1u8er7h/mark_zuckerberg_orders_his_employees_to_start/",
-        "image": "https://external-preview.redd.it/nMyhpFuJwDArWo-RTN4AJORKeVdV8jUjnwyFUC9tbe8.jpeg?width=640&crop=smart&auto=webp&s=bfb5e7461aab7ceb261ad45463015c0009128b13",
-        "published": "2026-06-17T16:18:03+00:00"
+        "title": "License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",
+        "link": "https://www.reddit.com/r/technology/comments/1u8fddc/license_plate_cameras_will_soon_track_phones/",
+        "image": "https://external-preview.redd.it/FtR2giHVKjdTO8XqTn4drSOsxEL4uFnwnoDkgJqLOTk.jpeg?width=640&crop=smart&auto=webp&s=550fd272356c004a41720d2f2873c848518ca997",
+        "published": "2026-06-17T16:40:13+00:00"
     },
     {
         "title": "Experts warn \"colossal\" breach exposes 24 billion records including personal info",
         "link": "https://www.reddit.com/r/technology/comments/1u8qkh9/experts_warn_colossal_breach_exposes_24_billion/",
         "image": "https://external-preview.redd.it/10wIAD5Q8PmTRVh1WjntW3DLRSdhAyFuj01ad8856ys.png?width=640&crop=smart&auto=webp&s=69cc520871ef65149fd1e1b5aa1d9206d505fad7",
         "published": "2026-06-17T23:47:00+00:00"
+    },
+    {
+        "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
+        "link": "https://www.reddit.com/r/technology/comments/1u8er7h/mark_zuckerberg_orders_his_employees_to_start/",
+        "image": "https://external-preview.redd.it/nMyhpFuJwDArWo-RTN4AJORKeVdV8jUjnwyFUC9tbe8.jpeg?width=640&crop=smart&auto=webp&s=bfb5e7461aab7ceb261ad45463015c0009128b13",
+        "published": "2026-06-17T16:18:03+00:00"
     },
     {
         "title": "Bezos: AI will result in labor shortages instead of replacing humans",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1u8ffds/the_slate_truck_will_cost_24950_according_to_an/",
         "image": "https://external-preview.redd.it/ao6GhOkRBGOV0msavp--Tq59jxO2pRQsTZwIT8yiW0c.jpeg?width=640&crop=smart&auto=webp&s=8dc1d24f5d59b7cb36252d19a5dea50953dade1a",
         "published": "2026-06-17T16:42:14+00:00"
+    },
+    {
+        "title": "Apple to Raise Prices Due to Memory Chip Crunch, Tim Cook Says",
+        "link": "https://www.reddit.com/r/technology/comments/1u8nodo/apple_to_raise_prices_due_to_memory_chip_crunch/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-17T21:46:22+00:00"
     }
 ]
