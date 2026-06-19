@@ -1,11 +1,5 @@
 [
     {
-        "title": "Jeff Bezos called Washington Post his worst investment staffed with \u2018terrible\u2019 people, before laying off over 300 \u2014 \u201cThey don\u2019t listen. My other companies, they listen\u201d",
-        "link": "https://www.reddit.com/r/technology/comments/1u99mvv/jeff_bezos_called_washington_post_his_worst/",
-        "image": "https://external-preview.redd.it/LMfL392X_sQoR9brtvVxBcirXdm33eNdCELpko2UUVY.jpeg?width=640&crop=smart&auto=webp&s=9edcc8f27ba3b466fbb4e99c5f729153414eeb64",
-        "published": "2026-06-18T15:37:20+00:00"
-    },
-    {
         "title": "SpaceX Stock Plunge Wipes Out $600 Billion After Cursor Deal Spooks Investors",
         "link": "https://www.reddit.com/r/technology/comments/1u9furt/spacex_stock_plunge_wipes_out_600_billion_after/",
         "image": "https://external-preview.redd.it/vKeVT9L34Kd2Dq1hGsJpSIgp-YkxmLeWfpJ49PXqE8A.jpeg?width=640&crop=smart&auto=webp&s=8917aa5d1631dbc6366eea5e19f2b6243d20e28d",
@@ -18,10 +12,10 @@
         "published": "2026-06-19T00:20:11+00:00"
     },
     {
-        "title": "The Onion\u2019s rebooted InfoWars is coming July 2nd / In the midst of a prolonged fight in court, the satire news site is officially relaunching under the creative direction of comedian Tim Heidecker.",
-        "link": "https://www.reddit.com/r/technology/comments/1u9bwrf/the_onions_rebooted_infowars_is_coming_july_2nd/",
-        "image": "https://external-preview.redd.it/K2797Jd0hnsgX0LCMnNUAqD8CdW-oGp5OP7w6ErdKn8.jpeg?width=640&crop=smart&auto=webp&s=1aa785a60a7c1ef3ea56431a0312493e5c01b269",
-        "published": "2026-06-18T17:02:03+00:00"
+        "title": "\u2018It\u2019s a scam\u2019: Americans express unease over SpaceX\u2019s influence on retirement savings",
+        "link": "https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/",
+        "image": "https://external-preview.redd.it/cx9yKPWkY0xe9FT7pta8gx3ItZZnMpSjBU0q9VOKg-M.jpeg?width=640&crop=smart&auto=webp&s=01dabc528e6ecfcdd0c8b36857e831bf44ddf3af",
+        "published": "2026-06-19T13:12:07+00:00"
     },
     {
         "title": "Conservatives plan nationwide protest against AI data centers",
@@ -36,22 +30,22 @@
         "published": "2026-06-18T18:28:07+00:00"
     },
     {
-        "title": "Bernie Sanders' New AI Bill Would Pay Americans $1,000 a Year",
-        "link": "https://www.reddit.com/r/technology/comments/1u9ggej/bernie_sanders_new_ai_bill_would_pay_americans/",
-        "image": "https://external-preview.redd.it/jGKi39LfmxrZaj8VmAlenKxjodbjfHa8ifxHYpi6B0w.jpeg?width=640&crop=smart&auto=webp&s=ea44e2893484d1cc194f0c4915e923558780f2dc",
-        "published": "2026-06-18T19:50:07+00:00"
-    },
-    {
         "title": "Low-skilled attacker used Claude, Codex to breach 14 companies",
         "link": "https://www.reddit.com/r/technology/comments/1u9w4gg/lowskilled_attacker_used_claude_codex_to_breach/",
         "image": "https://external-preview.redd.it/TFzcfiPYB2eVDDbJ_NalGmDuF48emNVkhBMkmxjVB_8.jpeg?width=640&crop=smart&auto=webp&s=cf75ee25956d936f90af401573709fd147e9761a",
         "published": "2026-06-19T08:16:53+00:00"
     },
     {
-        "title": "\u2018It\u2019s a scam\u2019: Americans express unease over SpaceX\u2019s influence on retirement savings",
-        "link": "https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/",
-        "image": "https://external-preview.redd.it/cx9yKPWkY0xe9FT7pta8gx3ItZZnMpSjBU0q9VOKg-M.jpeg?width=640&crop=smart&auto=webp&s=01dabc528e6ecfcdd0c8b36857e831bf44ddf3af",
-        "published": "2026-06-19T13:12:07+00:00"
+        "title": "Bernie Sanders' New AI Bill Would Pay Americans $1,000 a Year",
+        "link": "https://www.reddit.com/r/technology/comments/1u9ggej/bernie_sanders_new_ai_bill_would_pay_americans/",
+        "image": "https://external-preview.redd.it/jGKi39LfmxrZaj8VmAlenKxjodbjfHa8ifxHYpi6B0w.jpeg?width=640&crop=smart&auto=webp&s=ea44e2893484d1cc194f0c4915e923558780f2dc",
+        "published": "2026-06-18T19:50:07+00:00"
+    },
+    {
+        "title": "Anne Hathaway says she was spammed with ChatGPT-written thank you notes after hiring for a recent role: \"Nobody on that list gets that job\"",
+        "link": "https://www.reddit.com/r/technology/comments/1ua2vrr/anne_hathaway_says_she_was_spammed_with/",
+        "image": "https://external-preview.redd.it/bDNYgzGkesIi76XNmuXICAVBCjMvA__LcChiFW-PDho.jpeg?width=640&crop=smart&auto=webp&s=672b00c042ad2db1c50d0181c49c1aec8eaf2eb0",
+        "published": "2026-06-19T14:03:25+00:00"
     },
     {
         "title": "SpaceX shares fall as post-IPO frenzy loses steam",
@@ -66,10 +60,10 @@
         "published": "2026-06-19T03:14:26+00:00"
     },
     {
-        "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
-        "link": "https://www.reddit.com/r/technology/comments/1u9ak24/3_amazon_workers_say_theyre_under_investigation/",
-        "image": "https://external-preview.redd.it/3WdI_8LZrQSuzXAdkAls4RwMnW-dF-uqTftMinuVEZc.jpeg?width=640&crop=smart&auto=webp&s=7f1f5bcf0c85971463b118037576f663c208334f",
-        "published": "2026-06-18T16:12:11+00:00"
+        "title": "Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists \u2014 four-year investigation into copyright infringement on 40-year-old medium began in 2018",
+        "link": "https://www.reddit.com/r/technology/comments/1u9xznw/retro_pirate_gets_twoyear_suspended_jail_sentence/",
+        "image": "https://external-preview.redd.it/IGIEG6GeeCTJPscJdBdFkdO4D7Qy9n_QJekX2Om_Wxo.jpeg?width=640&crop=smart&auto=webp&s=9f3811f5d1555c6cb85e7254eb37d448a40808ea",
+        "published": "2026-06-19T10:08:58+00:00"
     },
     {
         "title": "Frontier Airlines is leaking your passport and credit card details from a boarding pass",
@@ -78,15 +72,21 @@
         "published": "2026-06-18T23:13:00+00:00"
     },
     {
-        "title": "Tim Cook says RAM expenses are \u2018unsustainable\u2019 and Apple is going to raise prices",
-        "link": "https://www.reddit.com/r/technology/comments/1u99gkd/tim_cook_says_ram_expenses_are_unsustainable_and/",
-        "image": "https://external-preview.redd.it/tF4JjPa5lWDBQDE8cXBEDArgqPXtr02pE-gYkveUxhA.jpeg?width=640&crop=smart&auto=webp&s=03e53d3a73a97eb9103999317db6f605e318ea20",
-        "published": "2026-06-18T15:30:49+00:00"
+        "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+        "link": "https://www.reddit.com/r/technology/comments/1u9kflb/how_the_peter_thiellinked_dialog_club_secretly/",
+        "image": "https://external-preview.redd.it/iuXyCQ8RTmNoR0srrEShuTpNrwkCTZ9GEzycwj95BRE.jpeg?width=640&crop=smart&auto=webp&s=f53b42b44859d2c4f8b2e0a11043a40685233084",
+        "published": "2026-06-18T22:26:13+00:00"
     },
     {
-        "title": "Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists \u2014 four-year investigation into copyright infringement on 40-year-old medium began in 2018",
-        "link": "https://www.reddit.com/r/technology/comments/1u9xznw/retro_pirate_gets_twoyear_suspended_jail_sentence/",
-        "image": "https://external-preview.redd.it/IGIEG6GeeCTJPscJdBdFkdO4D7Qy9n_QJekX2Om_Wxo.jpeg?width=640&crop=smart&auto=webp&s=9f3811f5d1555c6cb85e7254eb37d448a40808ea",
-        "published": "2026-06-19T10:08:58+00:00"
+        "title": "Ukraine's point system rewarding battlefield kills is steering drone units toward more strategic Russian targets",
+        "link": "https://www.reddit.com/r/technology/comments/1ua0a8q/ukraines_point_system_rewarding_battlefield_kills/",
+        "image": "https://external-preview.redd.it/sK14v3O2VdORhsnC_ZfSXvsfoOmrPWOevDzGRTipZww.jpeg?width=640&crop=smart&auto=webp&s=8e430daf2f1fe2398059c8b3255827e218f242ce",
+        "published": "2026-06-19T12:09:32+00:00"
+    },
+    {
+        "title": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era",
+        "link": "https://www.reddit.com/r/technology/comments/1u9q6a3/student_cheating_is_becoming_impossible_to_detect/",
+        "image": "https://external-preview.redd.it/V_z0N4TPV2UzCaQv8aRKuIs4Yr9T4lkRW5ICHawSqR0.jpeg?width=640&crop=smart&auto=webp&s=b842af081d90b1f839f6eacd52bfe79a9592fae0",
+        "published": "2026-06-19T02:52:34+00:00"
     }
 ]
