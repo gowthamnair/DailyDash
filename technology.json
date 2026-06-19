@@ -24,6 +24,12 @@
         "published": "2026-06-18T17:02:03+00:00"
     },
     {
+        "title": "Conservatives plan nationwide protest against AI data centers",
+        "link": "https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/",
+        "image": "https://external-preview.redd.it/M0OjfxgKPcBtdax-KuPanvi4OUhfmqjGj62sz3jZWMw.jpeg?width=640&crop=smart&auto=webp&s=f4cc23f68bf4bd771c44a290e0d6d81becbf1364",
+        "published": "2026-06-19T05:48:51+00:00"
+    },
+    {
         "title": "Bernie Sanders unveils plan to give the public direct ownership of AI companies",
         "link": "https://www.reddit.com/r/technology/comments/1u9e9dp/bernie_sanders_unveils_plan_to_give_the_public/",
         "image": "https://external-preview.redd.it/GlOIIwwXxArDg2SXS2WwMcEuYBGAWO4ru45elpx8Oeg.jpeg?width=640&crop=smart&auto=webp&s=50c986e222216d93f316bbd1a8969c52d9102b53",
@@ -36,34 +42,22 @@
         "published": "2026-06-18T19:50:07+00:00"
     },
     {
+        "title": "Low-skilled attacker used Claude, Codex to breach 14 companies",
+        "link": "https://www.reddit.com/r/technology/comments/1u9w4gg/lowskilled_attacker_used_claude_codex_to_breach/",
+        "image": "https://external-preview.redd.it/TFzcfiPYB2eVDDbJ_NalGmDuF48emNVkhBMkmxjVB_8.jpeg?width=640&crop=smart&auto=webp&s=cf75ee25956d936f90af401573709fd147e9761a",
+        "published": "2026-06-19T08:16:53+00:00"
+    },
+    {
+        "title": "\u2018It\u2019s a scam\u2019: Americans express unease over SpaceX\u2019s influence on retirement savings",
+        "link": "https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/",
+        "image": "https://external-preview.redd.it/cx9yKPWkY0xe9FT7pta8gx3ItZZnMpSjBU0q9VOKg-M.jpeg?width=640&crop=smart&auto=webp&s=01dabc528e6ecfcdd0c8b36857e831bf44ddf3af",
+        "published": "2026-06-19T13:12:07+00:00"
+    },
+    {
         "title": "SpaceX shares fall as post-IPO frenzy loses steam",
         "link": "https://www.reddit.com/r/technology/comments/1u9i7lu/spacex_shares_fall_as_postipo_frenzy_loses_steam/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-18T20:57:15+00:00"
-    },
-    {
-        "title": "Just 16% of Americans think AI will benefit society, despite chatbot use climbing to 49% of US adults",
-        "link": "https://www.reddit.com/r/technology/comments/1u96qnj/just_16_of_americans_think_ai_will_benefit/",
-        "image": "https://external-preview.redd.it/Bt-36WfFl7OWTjW32qHfHvCFwU8i4-BkKlESMIJn2c8.jpeg?width=640&crop=smart&auto=webp&s=3e291cb3229e48a60359898d6e1f3bfb8d66c12c",
-        "published": "2026-06-18T13:46:41+00:00"
-    },
-    {
-        "title": "\"Gamers don't want it\": Palworld lead says Pocketpair doesn't touch AI because players hate it and artists \"like doing stuff themselves\"",
-        "link": "https://www.reddit.com/r/technology/comments/1u96ng9/gamers_dont_want_it_palworld_lead_says_pocketpair/",
-        "image": "https://external-preview.redd.it/9c5unZ1E9LXM9cSBZzkuRQGeTXyVQvva-VM46QVApxs.jpeg?width=640&crop=smart&auto=webp&s=a745aed75060a16c45c135ea366579403973b0fa",
-        "published": "2026-06-18T13:42:53+00:00"
-    },
-    {
-        "title": "Conservatives plan nationwide protest against AI data centers",
-        "link": "https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/",
-        "image": "https://external-preview.redd.it/M0OjfxgKPcBtdax-KuPanvi4OUhfmqjGj62sz3jZWMw.jpeg?width=640&crop=smart&auto=webp&s=f4cc23f68bf4bd771c44a290e0d6d81becbf1364",
-        "published": "2026-06-19T05:48:51+00:00"
-    },
-    {
-        "title": "Burning Gas Pollutes So Much, Dirty EV Battery Manufacturing Evens Out In About 2 Years",
-        "link": "https://www.reddit.com/r/technology/comments/1u968dk/burning_gas_pollutes_so_much_dirty_ev_battery/",
-        "image": "https://external-preview.redd.it/HnnIUwA9bPqmfnBTp_b_ZrJ-W1xE2BZSNknO4ZC7YZY.jpeg?width=640&crop=smart&auto=webp&s=a4f0604969d99645454b3e58eae2d7f0892d18ad",
-        "published": "2026-06-18T13:25:36+00:00"
     },
     {
         "title": "Former Microsoft CEO Steve Ballmer called Google Chrome a \"rounding error\" \u2014 17 years later, Internet Explorer is dead, and Microsoft Edge can barely catch up | Google CEO Sundar Pichai admits that Ballmer's comments were \"demoralizing,\" but they didn't give up on Chrome.",
@@ -84,9 +78,15 @@
         "published": "2026-06-18T23:13:00+00:00"
     },
     {
-        "title": "Before SpaceX IPO, Investors in China Secretly Acquired Stakes | One previously unreported SpaceX investor has ties to Chinese military contractors. The information was revealed only after ProPublica went to court to obtain it",
-        "link": "https://www.reddit.com/r/technology/comments/1u97gsj/before_spacex_ipo_investors_in_china_secretly/",
-        "image": "https://external-preview.redd.it/qY2mtKI04oVLuKY0JkLz40RRYICYsICpiu4Izpxyo3A.jpeg?width=640&crop=smart&auto=webp&s=8d4e7cc5ce6585f52b47a6f7c26bb0890bcb1d2a",
-        "published": "2026-06-18T14:14:57+00:00"
+        "title": "Tim Cook says RAM expenses are \u2018unsustainable\u2019 and Apple is going to raise prices",
+        "link": "https://www.reddit.com/r/technology/comments/1u99gkd/tim_cook_says_ram_expenses_are_unsustainable_and/",
+        "image": "https://external-preview.redd.it/tF4JjPa5lWDBQDE8cXBEDArgqPXtr02pE-gYkveUxhA.jpeg?width=640&crop=smart&auto=webp&s=03e53d3a73a97eb9103999317db6f605e318ea20",
+        "published": "2026-06-18T15:30:49+00:00"
+    },
+    {
+        "title": "Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists \u2014 four-year investigation into copyright infringement on 40-year-old medium began in 2018",
+        "link": "https://www.reddit.com/r/technology/comments/1u9xznw/retro_pirate_gets_twoyear_suspended_jail_sentence/",
+        "image": "https://external-preview.redd.it/IGIEG6GeeCTJPscJdBdFkdO4D7Qy9n_QJekX2Om_Wxo.jpeg?width=640&crop=smart&auto=webp&s=9f3811f5d1555c6cb85e7254eb37d448a40808ea",
+        "published": "2026-06-19T10:08:58+00:00"
     }
 ]
