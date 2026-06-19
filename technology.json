@@ -12,10 +12,10 @@
         "published": "2026-06-18T19:27:08+00:00"
     },
     {
-        "title": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable \u2014 security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
-        "link": "https://www.reddit.com/r/technology/comments/1u8vkgf/amd_silently_removes_memory_encryption_from/",
-        "image": "https://external-preview.redd.it/oQ6vpooS5QGeiugJ7BSa-X6_CkmzEbWk5fSVRYaew5M.jpeg?width=640&crop=smart&auto=webp&s=3798038297404dc5dedef6fdf5a8a57dd278da2f",
-        "published": "2026-06-18T03:42:24+00:00"
+        "title": "California \u2018billionaire tax\u2019 makes ballot despite opposition from tech moguls",
+        "link": "https://www.reddit.com/r/technology/comments/1u9n0na/california_billionaire_tax_makes_ballot_despite/",
+        "image": "https://external-preview.redd.it/4o9QAncdbNNihflEgv5qNv5ePvfe_Jnkf5mySAxkiYg.jpeg?width=640&crop=smart&auto=webp&s=69b000f60611c47a1447cd4df49a808534a16024",
+        "published": "2026-06-19T00:20:11+00:00"
     },
     {
         "title": "Americans to be hit with record-high electricity bills this summer",
@@ -30,12 +30,6 @@
         "published": "2026-06-18T17:02:03+00:00"
     },
     {
-        "title": "Apple\u2019s weird anti-nausea dots cured my car sickness | \ufeffVehicle Motion Cues let me read and write in the passenger seat without wanting to die",
-        "link": "https://www.reddit.com/r/technology/comments/1u8tj6e/apples_weird_antinausea_dots_cured_my_car/",
-        "image": "https://external-preview.redd.it/stQs65VJFNGcjCvx5_SZz3L3W0yQ5pjObjQllZ-nf1E.jpeg?width=640&crop=smart&auto=webp&s=59d8032412bfe2c0ce380c3e4f0bc874cedb6170",
-        "published": "2026-06-18T02:03:39+00:00"
-    },
-    {
         "title": "Bernie Sanders unveils plan to give the public direct ownership of AI companies",
         "link": "https://www.reddit.com/r/technology/comments/1u9e9dp/bernie_sanders_unveils_plan_to_give_the_public/",
         "image": "https://external-preview.redd.it/GlOIIwwXxArDg2SXS2WwMcEuYBGAWO4ru45elpx8Oeg.jpeg?width=640&crop=smart&auto=webp&s=50c986e222216d93f316bbd1a8969c52d9102b53",
@@ -46,6 +40,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1u9ggej/bernie_sanders_new_ai_bill_would_pay_americans/",
         "image": "https://external-preview.redd.it/jGKi39LfmxrZaj8VmAlenKxjodbjfHa8ifxHYpi6B0w.jpeg?width=640&crop=smart&auto=webp&s=ea44e2893484d1cc194f0c4915e923558780f2dc",
         "published": "2026-06-18T19:50:07+00:00"
+    },
+    {
+        "title": "SpaceX shares fall as post-IPO frenzy loses steam",
+        "link": "https://www.reddit.com/r/technology/comments/1u9i7lu/spacex_shares_fall_as_postipo_frenzy_loses_steam/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-06-18T20:57:15+00:00"
     },
     {
         "title": "Just 16% of Americans think AI will benefit society, despite chatbot use climbing to 49% of US adults",
@@ -66,12 +66,6 @@
         "published": "2026-06-18T13:25:36+00:00"
     },
     {
-        "title": "SpaceX shares fall as post-IPO frenzy loses steam",
-        "link": "https://www.reddit.com/r/technology/comments/1u9i7lu/spacex_shares_fall_as_postipo_frenzy_loses_steam/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-18T20:57:15+00:00"
-    },
-    {
         "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
         "link": "https://www.reddit.com/r/technology/comments/1u9ak24/3_amazon_workers_say_theyre_under_investigation/",
         "image": "https://external-preview.redd.it/3WdI_8LZrQSuzXAdkAls4RwMnW-dF-uqTftMinuVEZc.jpeg?width=640&crop=smart&auto=webp&s=7f1f5bcf0c85971463b118037576f663c208334f",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1u97hn3/apple_ceo_tim_cook_warns_aidriven_price_increases/",
         "image": "https://external-preview.redd.it/kt_tHYhUikZocz9xAriYu2C3PSfQn3jZQClygsLmOQA.jpeg?width=640&crop=smart&auto=webp&s=41fcd494c20ff775a6a501c61dedf861914f5021",
         "published": "2026-06-18T14:15:54+00:00"
+    },
+    {
+        "title": "Frontier Airlines is leaking your passport and credit card details from a boarding pass",
+        "link": "https://www.reddit.com/r/technology/comments/1u9lisg/frontier_airlines_is_leaking_your_passport_and/",
+        "image": "https://external-preview.redd.it/YxQ6ewNfxiUd78rFgE4NtVIEkCye5IpMmwk8PojEQdY.jpeg?width=640&crop=smart&auto=webp&s=f0f4dc50e69a255100b6e179daf194d06386c0bb",
+        "published": "2026-06-18T23:13:00+00:00"
     }
 ]
