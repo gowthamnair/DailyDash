@@ -1,21 +1,15 @@
 [
     {
-        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+        "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3859/live/8c089720-6d3a-11f1-b4b2-ad969f26eb34.jpg",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b660/live/9b3955b0-6d60-11f1-84ee-8be44d984cb8.jpg",
         "published": "Sun, 21 Jun 2026 04:34:00 GMT"
     },
     {
-        "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-        "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b3bb/live/848ad050-6cbb-11f1-8546-8f19e4fe30f4.jpg",
-        "published": "Sat, 20 Jun 2026 16:37:03 GMT"
-    },
-    {
-        "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-        "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
-        "published": "Sat, 20 Jun 2026 17:40:43 GMT"
+        "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+        "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f7d6/live/27920bd0-6d50-11f1-b1db-af71d47507d6.jpg",
+        "published": "Sun, 21 Jun 2026 10:55:05 GMT"
     },
     {
         "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
@@ -24,16 +18,22 @@
         "published": "Sat, 20 Jun 2026 23:17:51 GMT"
     },
     {
+        "title": "France bans alcohol at music festival events under red heatwave alert",
+        "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1768/live/91e33450-6d00-11f1-9f29-21c4f4a06079.jpg",
+        "published": "Sun, 21 Jun 2026 00:29:51 GMT"
+    },
+    {
         "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
         "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/64f5/live/a66b1f80-6cfd-11f1-8546-8f19e4fe30f4.jpg",
         "published": "Sun, 21 Jun 2026 07:16:54 GMT"
     },
     {
-        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-        "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/614c/live/49688d60-6bd9-11f1-b1db-af71d47507d6.jpg",
-        "published": "Sat, 20 Jun 2026 15:31:12 GMT"
+        "title": "Tight security as Indian students resit medical exam after alleged paper leak",
+        "link": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cf42/live/5e23d6c0-6d59-11f1-960f-c792c2ba639f.jpg",
+        "published": "Sun, 21 Jun 2026 11:06:31 GMT"
     },
     {
         "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
@@ -42,16 +42,40 @@
         "published": "Sat, 20 Jun 2026 21:57:36 GMT"
     },
     {
+        "title": "Dutch royals enjoy two big results in one World Cup day",
+        "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ba7/live/8e13eaf0-6d4f-11f1-8706-d941bf9d0475.jpg",
+        "published": "Sun, 21 Jun 2026 09:45:57 GMT"
+    },
+    {
+        "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+        "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bd7/live/1ae70fd0-6c50-11f1-8e1d-bbbb1017d210.jpg",
+        "published": "Sat, 20 Jun 2026 02:33:30 GMT"
+    },
+    {
+        "title": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+        "link": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3be2/live/85bc8760-6d5c-11f1-84ee-8be44d984cb8.jpg",
+        "published": "Sun, 21 Jun 2026 11:10:21 GMT"
+    },
+    {
+        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+        "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/614c/live/49688d60-6bd9-11f1-b1db-af71d47507d6.jpg",
+        "published": "Sat, 20 Jun 2026 15:31:12 GMT"
+    },
+    {
         "title": "Zelensky returns highest Polish honour after award stripped",
         "link": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/52ac/live/3a650b90-6cbf-11f1-9fea-e751269afdb9.jpg",
         "published": "Sat, 20 Jun 2026 16:34:15 GMT"
     },
     {
-        "title": "France bans alcohol at music festival events under red heatwave alert",
-        "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1768/live/91e33450-6d00-11f1-9f29-21c4f4a06079.jpg",
-        "published": "Sun, 21 Jun 2026 00:29:51 GMT"
+        "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+        "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
+        "published": "Sat, 20 Jun 2026 17:40:43 GMT"
     },
     {
         "title": "US to stop funding HIV programmes in South Africa",
@@ -64,29 +88,5 @@
         "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4be1/live/ab172e90-6c51-11f1-9c25-e3d7dad7dcd5.jpg",
         "published": "Sat, 20 Jun 2026 03:12:47 GMT"
-    },
-    {
-        "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-        "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1bd7/live/1ae70fd0-6c50-11f1-8e1d-bbbb1017d210.jpg",
-        "published": "Sat, 20 Jun 2026 02:33:30 GMT"
-    },
-    {
-        "title": "Bolivian president declares state of emergency",
-        "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/beac/live/71781aa0-6cab-11f1-8cf1-179ca1da487f.jpg",
-        "published": "Sat, 20 Jun 2026 15:27:09 GMT"
-    },
-    {
-        "title": "Tourist dies in Dominican Republic luxury resort fire",
-        "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76f2/live/a5bd9b80-6c7b-11f1-8546-8f19e4fe30f4.jpg",
-        "published": "Sat, 20 Jun 2026 17:33:25 GMT"
-    },
-    {
-        "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-        "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2a61/live/5e50c8c0-6c1d-11f1-82ca-39eb136d082f.jpg",
-        "published": "Sat, 20 Jun 2026 00:23:46 GMT"
     }
 ]
