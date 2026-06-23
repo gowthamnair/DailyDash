@@ -1,11 +1,5 @@
 [
     {
-        "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
-        "link": "https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/",
-        "image": "https://external-preview.redd.it/YOOxwX4J6RB5SwbYqLO3Ez_Ar68lI3CDcUbAuL8ZdBo.jpeg?width=640&crop=smart&auto=webp&s=de2f144b1033b05cb30ec2277d41d3d085c784ce",
-        "published": "2026-06-22T20:25:38+00:00"
-    },
-    {
         "title": "SpaceX stock has fallen all the way down to the $150s \u2014 That\u2019s from its all-time high of over $225 on June 16, and within a razor-thin margin of its opening price of $150",
         "link": "https://www.reddit.com/r/technology/comments/1ud3u0f/spacex_stock_has_fallen_all_the_way_down_to_the/",
         "image": "https://external-preview.redd.it/Fh9vyGBhCkFASFtsNTKkTTKuAZeXbeGTTYYSsAaEzUg.jpeg?width=640&crop=smart&auto=webp&s=bbbc6bd0f2c1996edd22b2283f41fe1f0b191c59",
@@ -24,22 +18,16 @@
         "published": "2026-06-23T14:08:21+00:00"
     },
     {
-        "title": "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
-        "link": "https://www.reddit.com/r/technology/comments/1udj7w5/75_more_pedestrians_have_been_killed_since_2009/",
-        "image": "https://external-preview.redd.it/Huy2PHvmsCF8ks6IGV5HgAKhFB9pz98pf8jz10quC1U.jpeg?width=640&crop=smart&auto=webp&s=6ee3f33a1447af398a81f00e784cfb5d5bab8199",
-        "published": "2026-06-23T14:48:11+00:00"
-    },
-    {
-        "title": "Judge blocks use of federal database to check citizenship, saying it could wrongly purge voters",
-        "link": "https://www.reddit.com/r/technology/comments/1ucwlk6/judge_blocks_use_of_federal_database_to_check/",
-        "image": "https://external-preview.redd.it/qzYxzzx76SRxKhb-xNw0aUaOCc0WUXx7Fa7LJ1XD5jw.jpeg?width=640&crop=smart&auto=webp&s=84bfe5b3ff60f4e972d45b944616c6f24fe75933",
-        "published": "2026-06-22T20:50:32+00:00"
-    },
-    {
         "title": "Wikipedia Cofounder Larry Sanger Banned From Site For \u2018Canvassaing\u2019 / \u201cAll he has done is try to start a right-wing/conservative pressure group within Wikipedia.\u201d",
         "link": "https://www.reddit.com/r/technology/comments/1udkr0d/wikipedia_cofounder_larry_sanger_banned_from_site/",
         "image": "https://external-preview.redd.it/Aqud-PeBn9DstBxX_b8l4te7z9NhFj0wlIy4qU-voXY.jpeg?width=640&crop=smart&auto=webp&s=c145786e62b650cb9f72912e7bfa46532004b80c",
         "published": "2026-06-23T15:44:27+00:00"
+    },
+    {
+        "title": "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
+        "link": "https://www.reddit.com/r/technology/comments/1udj7w5/75_more_pedestrians_have_been_killed_since_2009/",
+        "image": "https://external-preview.redd.it/Huy2PHvmsCF8ks6IGV5HgAKhFB9pz98pf8jz10quC1U.jpeg?width=640&crop=smart&auto=webp&s=6ee3f33a1447af398a81f00e784cfb5d5bab8199",
+        "published": "2026-06-23T14:48:11+00:00"
     },
     {
         "title": "EA Lays Off Unknown Number Of People Ahead Of Expected $55 Billion Sale To Saudi Arabia",
@@ -66,16 +54,28 @@
         "published": "2026-06-23T13:22:31+00:00"
     },
     {
+        "title": "AI Companies Are Trying to Seize Control of Elections",
+        "link": "https://www.reddit.com/r/technology/comments/1udqjnw/ai_companies_are_trying_to_seize_control_of/",
+        "image": "https://external-preview.redd.it/DJMHkXnrl6LoyPMs7_RZ8DpSFeKh6QYVI9MkYrYFTY4.jpeg?width=640&crop=smart&auto=webp&s=6998222ee24233af88462dc314693c6a2e7cafc1",
+        "published": "2026-06-23T19:14:14+00:00"
+    },
+    {
         "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions \u2014 says layoffs will continue as internal AI deployment grows",
         "link": "https://www.reddit.com/r/technology/comments/1udfpdb/oracle_lays_off_21000_employees_in_just_12_months/",
         "image": "https://external-preview.redd.it/_FOIdTHDDUJYjASn2jkg3N72R57JhbuBIqT1vvOFE-k.jpeg?width=640&crop=smart&auto=webp&s=988259ccdad1b9384ee1bfbefaaaec2b82e0b751",
         "published": "2026-06-23T12:25:03+00:00"
     },
     {
-        "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak | The move comes after the company left potentially sensitive data from the initiative exposed internally",
-        "link": "https://www.reddit.com/r/technology/comments/1uczyyq/meta_pauses_employeetracking_program_following/",
-        "image": "https://external-preview.redd.it/PrMDeWpdwjAnP-ltx3V-rcyzWu698ZUuy-aGpY0Gh9k.jpeg?width=640&crop=smart&auto=webp&s=499a9a202a8b908af95825653c64e85062964180",
-        "published": "2026-06-22T23:01:33+00:00"
+        "title": "Federal Workers Can\u2019t Get the White House\u2019s App Off Their Phones",
+        "link": "https://www.reddit.com/r/technology/comments/1udlrqg/federal_workers_cant_get_the_white_houses_app_off/",
+        "image": "https://external-preview.redd.it/yRq_0Z8ZpdqHHx8E3FMBsfIjA-Jtpq5Vc7d2CSV8ugE.jpeg?width=640&crop=smart&auto=webp&s=b79a8e3d42e37a468235bae566ee6c2ad4a0af6c",
+        "published": "2026-06-23T16:21:02+00:00"
+    },
+    {
+        "title": "60% of TikTok videos are AI slop; 21% of YouTube ones",
+        "link": "https://www.reddit.com/r/technology/comments/1udkf49/60_of_tiktok_videos_are_ai_slop_21_of_youtube_ones/",
+        "image": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
+        "published": "2026-06-23T15:32:16+00:00"
     },
     {
         "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
@@ -84,9 +84,9 @@
         "published": "2026-06-23T07:36:20+00:00"
     },
     {
-        "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-        "link": "https://www.reddit.com/r/technology/comments/1ud5dq1/polymarkets_viral_videos_showed_people_winning/",
-        "image": "https://external-preview.redd.it/jV62nUgAYpBnP_50TPtk51dTZSA1RPF5EBZkjhex-Z0.jpeg?width=640&crop=smart&auto=webp&s=7893048d8017d0215690f50a3de9255a0a9c436e",
-        "published": "2026-06-23T03:03:26+00:00"
+        "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak | The move comes after the company left potentially sensitive data from the initiative exposed internally",
+        "link": "https://www.reddit.com/r/technology/comments/1uczyyq/meta_pauses_employeetracking_program_following/",
+        "image": "https://external-preview.redd.it/PrMDeWpdwjAnP-ltx3V-rcyzWu698ZUuy-aGpY0Gh9k.jpeg?width=640&crop=smart&auto=webp&s=499a9a202a8b908af95825653c64e85062964180",
+        "published": "2026-06-22T23:01:33+00:00"
     }
 ]
