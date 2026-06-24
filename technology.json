@@ -1,11 +1,5 @@
 [
     {
-        "title": "Polymarket paid influencers to fake winning bets, built dummy websites to pull it off",
-        "link": "https://www.reddit.com/r/technology/comments/1udc2d0/polymarket_paid_influencers_to_fake_winning_bets/",
-        "image": "https://external-preview.redd.it/NO9Ilb6qiTHYdUSe-TLhfIDO4SnqLd88ZO_DnbJZsgs.jpeg?width=640&crop=smart&auto=webp&s=30fcc01889e4019ddede344d2354d4f58886626d",
-        "published": "2026-06-23T09:12:28+00:00"
-    },
-    {
         "title": "AI Companies Are Trying to Seize Control of Elections",
         "link": "https://www.reddit.com/r/technology/comments/1udqjnw/ai_companies_are_trying_to_seize_control_of/",
         "image": "https://external-preview.redd.it/DJMHkXnrl6LoyPMs7_RZ8DpSFeKh6QYVI9MkYrYFTY4.jpeg?width=640&crop=smart&auto=webp&s=6998222ee24233af88462dc314693c6a2e7cafc1",
@@ -42,16 +36,16 @@
         "published": "2026-06-23T12:05:18+00:00"
     },
     {
-        "title": "Madison Square Garden Made Dossier on Activists Who Opposed Facial Recognition / The document, titled \u201cFacial Recognition Activists.docx,\u201d includes specific activists\u2019 comments about MSG's facial recognition program and tweets criticizing it.",
-        "link": "https://www.reddit.com/r/technology/comments/1udh0yh/madison_square_garden_made_dossier_on_activists/",
-        "image": "https://external-preview.redd.it/oykhRN0b2bcBSQ-63ZMTxbG_tRua-_7oEKyLaGiEaBQ.png?width=640&crop=smart&auto=webp&s=68b900cffb806601c1fc66f283c6ef43c16c02f6",
-        "published": "2026-06-23T13:22:31+00:00"
-    },
-    {
         "title": "\u201cGaming is becoming unaffordable\u201d \u2014 Xbox CEO says the industry has an accessibility crisis",
         "link": "https://www.reddit.com/r/technology/comments/1uds1mi/gaming_is_becoming_unaffordable_xbox_ceo_says_the/",
         "image": "https://external-preview.redd.it/QTQQKNWNcgQGKJolIRK0AuYvpKq8asy2j16H4lIg10o.png?width=640&crop=smart&auto=webp&s=7e41d7c5768821a7194ce409c263c85f3c3a3663",
         "published": "2026-06-23T20:09:38+00:00"
+    },
+    {
+        "title": "Madison Square Garden Made Dossier on Activists Who Opposed Facial Recognition / The document, titled \u201cFacial Recognition Activists.docx,\u201d includes specific activists\u2019 comments about MSG's facial recognition program and tweets criticizing it.",
+        "link": "https://www.reddit.com/r/technology/comments/1udh0yh/madison_square_garden_made_dossier_on_activists/",
+        "image": "https://external-preview.redd.it/oykhRN0b2bcBSQ-63ZMTxbG_tRua-_7oEKyLaGiEaBQ.png?width=640&crop=smart&auto=webp&s=68b900cffb806601c1fc66f283c6ef43c16c02f6",
+        "published": "2026-06-23T13:22:31+00:00"
     },
     {
         "title": "Toyota And Nissan Admit Their American-Made Vehicles Aren't Up To Japanese Standards",
@@ -66,27 +60,33 @@
         "published": "2026-06-23T16:21:02+00:00"
     },
     {
-        "title": "60% of TikTok videos are AI slop; 21% of YouTube ones",
-        "link": "https://www.reddit.com/r/technology/comments/1udkf49/60_of_tiktok_videos_are_ai_slop_21_of_youtube_ones/",
-        "image": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
-        "published": "2026-06-23T15:32:16+00:00"
-    },
-    {
         "title": "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
         "link": "https://www.reddit.com/r/technology/comments/1udwt9a/mythos_discovers_squidbleed_a_memory_leak_thats/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-23T23:17:51+00:00"
     },
     {
-        "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions \u2014 says layoffs will continue as internal AI deployment grows",
-        "link": "https://www.reddit.com/r/technology/comments/1udfpdb/oracle_lays_off_21000_employees_in_just_12_months/",
-        "image": "https://external-preview.redd.it/_FOIdTHDDUJYjASn2jkg3N72R57JhbuBIqT1vvOFE-k.jpeg?width=640&crop=smart&auto=webp&s=988259ccdad1b9384ee1bfbefaaaec2b82e0b751",
-        "published": "2026-06-23T12:25:03+00:00"
+        "title": "60% of TikTok videos are AI slop; 21% of YouTube ones",
+        "link": "https://www.reddit.com/r/technology/comments/1udkf49/60_of_tiktok_videos_are_ai_slop_21_of_youtube_ones/",
+        "image": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
+        "published": "2026-06-23T15:32:16+00:00"
     },
     {
         "title": "Robots will replace 700K delivery workers, warns head of e-commerce giant",
         "link": "https://www.reddit.com/r/technology/comments/1udu0rm/robots_will_replace_700k_delivery_workers_warns/",
         "image": "https://external-preview.redd.it/knJX_jbKLdEqDB5he1Rf3W-195kSCe45ny5EhSoFXAk.jpeg?width=640&crop=smart&auto=webp&s=becd125b5a14a74e03d149e1f12066f657e8e5a5",
         "published": "2026-06-23T21:24:53+00:00"
+    },
+    {
+        "title": "47% of Harvard seniors admit to cheating \u2014 and the problem existed long before ChatGPT",
+        "link": "https://www.reddit.com/r/technology/comments/1ue121v/47_of_harvard_seniors_admit_to_cheating_and_the/",
+        "image": "https://external-preview.redd.it/YgbnFQpQdLix5A2x29yzbf2Tj5PvBSUJp7U5sH6ySHU.jpeg?width=640&crop=smart&auto=webp&s=73da6ae5c7ecf0d43b16750597c1866af67872f3",
+        "published": "2026-06-24T02:30:38+00:00"
+    },
+    {
+        "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions \u2014 says layoffs will continue as internal AI deployment grows",
+        "link": "https://www.reddit.com/r/technology/comments/1udfpdb/oracle_lays_off_21000_employees_in_just_12_months/",
+        "image": "https://external-preview.redd.it/_FOIdTHDDUJYjASn2jkg3N72R57JhbuBIqT1vvOFE-k.jpeg?width=640&crop=smart&auto=webp&s=988259ccdad1b9384ee1bfbefaaaec2b82e0b751",
+        "published": "2026-06-23T12:25:03+00:00"
     }
 ]
