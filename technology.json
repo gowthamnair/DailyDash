@@ -1,11 +1,5 @@
 [
     {
-        "title": "DuckDuckGo\u2019s AI feature swallows posts on r/poisonai, parrots misinformation that US president died of rabies earlier this month",
-        "link": "https://www.reddit.com/r/technology/comments/1ufkgfg/duckduckgos_ai_feature_swallows_posts_on/",
-        "image": "https://external-preview.redd.it/VExJZ0BSpYITJ3qRd9fEuqxVfm6YXnK0LuQyLSnm2LY.jpeg?width=640&crop=smart&auto=webp&s=2cac668f2726e2c80e74469523bdb9676e7510d6",
-        "published": "2026-06-25T19:46:40+00:00"
-    },
-    {
         "title": "The AI backlash is only getting started",
         "link": "https://www.reddit.com/r/technology/comments/1ug4lut/the_ai_backlash_is_only_getting_started/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -24,16 +18,16 @@
         "published": "2026-06-26T02:21:06+00:00"
     },
     {
-        "title": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games \u2014 says move is \u2018irresponsible of Valve\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1ufs3m7/epic_boss_tim_sweeney_blasts_steam_for_putting_ai/",
-        "image": "https://external-preview.redd.it/93rq7lUpQNNuzk7XNk1YwPyXVilzAoWwu1pn5ht4I0Y.png?width=640&crop=smart&auto=webp&s=64ce07bc0b6440419ccfa3e78df41e54c003e248",
-        "published": "2026-06-26T00:58:00+00:00"
-    },
-    {
         "title": "Ocasio-Cortez and Sanders introduce AI Data Center Moratorium Act",
         "link": "https://www.reddit.com/r/technology/comments/1ug47yl/ocasiocortez_and_sanders_introduce_ai_data_center/",
         "image": "https://external-preview.redd.it/Ni-I356vEOKggpEt8rZmwueMax3JnWi6Xxc8A0JO07s.jpeg?width=640&crop=smart&auto=webp&s=63ac81a4fee53bd02948bdb014c5dd90e5c261a6",
         "published": "2026-06-26T11:31:19+00:00"
+    },
+    {
+        "title": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games \u2014 says move is \u2018irresponsible of Valve\u2019",
+        "link": "https://www.reddit.com/r/technology/comments/1ufs3m7/epic_boss_tim_sweeney_blasts_steam_for_putting_ai/",
+        "image": "https://external-preview.redd.it/93rq7lUpQNNuzk7XNk1YwPyXVilzAoWwu1pn5ht4I0Y.png?width=640&crop=smart&auto=webp&s=64ce07bc0b6440419ccfa3e78df41e54c003e248",
+        "published": "2026-06-26T00:58:00+00:00"
     },
     {
         "title": "Anthropic hires economist with interesting views on human survival \u2014 \u201cIt is optimal to take a 1 in 3 chance of ending human existence in exchange for a 2/3 chance of dramatically raising living standards by a factor of 55\u201d: Chad Jones",
@@ -42,16 +36,22 @@
         "published": "2026-06-26T12:13:45+00:00"
     },
     {
+        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+        "link": "https://www.reddit.com/r/technology/comments/1ug6qbs/anthropic_says_alibaba_must_be_punished_for/",
+        "image": "https://external-preview.redd.it/Xv5WIf69qNI8q3QoTPRcCFoCS03zXjMbFFjsJJpzaQU.jpeg?width=640&crop=smart&auto=webp&s=836a00a27be4f9eb687cf636c58fc5d5eebd2f1a",
+        "published": "2026-06-26T13:22:21+00:00"
+    },
+    {
         "title": "Wikipedia co-founder is permanently banned from editing the website",
         "link": "https://www.reddit.com/r/technology/comments/1ug66jc/wikipedia_cofounder_is_permanently_banned_from/",
         "image": "https://external-preview.redd.it/-rlaEhfNQ6-R9AQQgHSU61ix1hDjn5gnOFmIzZLl8P4.jpeg?width=640&crop=smart&auto=webp&s=2d24898620d58684783917710ee462c6f7bf1d0e",
         "published": "2026-06-26T13:00:12+00:00"
     },
     {
-        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-        "link": "https://www.reddit.com/r/technology/comments/1ug6qbs/anthropic_says_alibaba_must_be_punished_for/",
-        "image": "https://external-preview.redd.it/Xv5WIf69qNI8q3QoTPRcCFoCS03zXjMbFFjsJJpzaQU.jpeg?width=640&crop=smart&auto=webp&s=836a00a27be4f9eb687cf636c58fc5d5eebd2f1a",
-        "published": "2026-06-26T13:22:21+00:00"
+        "title": "\u2018No evidence\u2019: Kevin O\u2019Leary walks back claims that data center opposition is funded by China",
+        "link": "https://www.reddit.com/r/technology/comments/1ug7skn/no_evidence_kevin_oleary_walks_back_claims_that/",
+        "image": "https://external-preview.redd.it/fnHcxK2BvxIMEsrzkslcGHXVlUWMbEIR_jst72Tiv8s.png?width=640&crop=smart&auto=webp&s=df4b117948cbad5bb8e4da4a44a9610b909063ca",
+        "published": "2026-06-26T14:04:36+00:00"
     },
     {
         "title": "Big Tech slapped with $3.5bn in fines for using your personal data to train AI \u2014 and 'it could be only the beginning,' warns Surfshark",
@@ -66,16 +66,16 @@
         "published": "2026-06-26T08:02:05+00:00"
     },
     {
-        "title": "\u2018No evidence\u2019: Kevin O\u2019Leary walks back claims that data center opposition is funded by China",
-        "link": "https://www.reddit.com/r/technology/comments/1ug7skn/no_evidence_kevin_oleary_walks_back_claims_that/",
-        "image": "https://external-preview.redd.it/fnHcxK2BvxIMEsrzkslcGHXVlUWMbEIR_jst72Tiv8s.png?width=640&crop=smart&auto=webp&s=df4b117948cbad5bb8e4da4a44a9610b909063ca",
-        "published": "2026-06-26T14:04:36+00:00"
+        "title": "PlayStation is Deleting 551 Movies From Customers\u2019 Accounts, Reminding Us Nothing Digital is Ever Truly Ours",
+        "link": "https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/",
+        "image": "https://external-preview.redd.it/ZPcVV75n92c4W3VmGbh4EpvPtqNr7ZJCyVDyDHCaNRs.jpeg?width=640&crop=smart&auto=webp&s=d5d28f64da12ff9bb1ea964b59329d3ec85a6612",
+        "published": "2026-06-26T18:52:54+00:00"
     },
     {
-        "title": "Meta's reckoning has arrived",
-        "link": "https://www.reddit.com/r/technology/comments/1ufkk5d/metas_reckoning_has_arrived/",
-        "image": "https://external-preview.redd.it/jkWRjcmBiV4QP5OtYYn_YQiOrqf2CpKhR6UqM6Techg.jpeg?width=640&crop=smart&auto=webp&s=635e2ec43e419ff5ae769444d53382ae8c630e52",
-        "published": "2026-06-25T19:50:27+00:00"
+        "title": "The \u2018papers, please\u2019 era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
+        "link": "https://www.reddit.com/r/technology/comments/1ugbdje/the_papers_please_era_of_the_internet_will/",
+        "image": "https://external-preview.redd.it/Adi7O8L2HaY3IzhN3edkyXcHezizDY5vagzLA08dyTU.jpeg?width=640&crop=smart&auto=webp&s=7cf4f2c6c7e05f86e916cf9d6c30311dbbe95fd9",
+        "published": "2026-06-26T16:18:25+00:00"
     },
     {
         "title": "Nintendo has raised its employees base salary by 10%",
@@ -84,9 +84,9 @@
         "published": "2026-06-26T14:49:24+00:00"
     },
     {
-        "title": "The \u2018papers, please\u2019 era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
-        "link": "https://www.reddit.com/r/technology/comments/1ugbdje/the_papers_please_era_of_the_internet_will/",
-        "image": "https://external-preview.redd.it/Adi7O8L2HaY3IzhN3edkyXcHezizDY5vagzLA08dyTU.jpeg?width=640&crop=smart&auto=webp&s=7cf4f2c6c7e05f86e916cf9d6c30311dbbe95fd9",
-        "published": "2026-06-26T16:18:25+00:00"
+        "title": "Netflix now requires every user profile to be tied to unique email address",
+        "link": "https://www.reddit.com/r/technology/comments/1ugexxj/netflix_now_requires_every_user_profile_to_be/",
+        "image": "https://external-preview.redd.it/oLvVlL9GKnUk4a6rxWVTfca2qINWYq2flFh5_TO1Va4.jpeg?width=640&crop=smart&auto=webp&s=00bb2434121593c00bbc46cf46887d7b3d6d4c21",
+        "published": "2026-06-26T18:30:24+00:00"
     }
 ]
