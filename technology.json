@@ -18,12 +18,6 @@
         "published": "2026-06-26T01:26:37+00:00"
     },
     {
-        "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
-        "link": "https://www.reddit.com/r/technology/comments/1ufed4k/software_engineers_are_facing_an_existential/",
-        "image": "https://external-preview.redd.it/4RU4xk8Wh2IYTP1lxeB9OBTWYJcha-rus8rq9K-JlsY.jpeg?width=640&crop=smart&auto=webp&s=c1ef4ecabc4dfb2377f824aeaf1601c8d82c6a5a",
-        "published": "2026-06-25T16:07:32+00:00"
-    },
-    {
         "title": "Fortune 500 bosses demanding staff return to the office share one trait: Narcissism, research finds",
         "link": "https://www.reddit.com/r/technology/comments/1uftwck/fortune_500_bosses_demanding_staff_return_to_the/",
         "image": "https://external-preview.redd.it/X3xFDbBy0QBkbWfkgwETZmljedbabLwbJZzdgJV-15s.jpeg?width=640&crop=smart&auto=webp&s=9e0f4c3c97029a87223d0818da0a8f3e32080e49",
@@ -34,18 +28,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1ufs3m7/epic_boss_tim_sweeney_blasts_steam_for_putting_ai/",
         "image": "https://external-preview.redd.it/93rq7lUpQNNuzk7XNk1YwPyXVilzAoWwu1pn5ht4I0Y.png?width=640&crop=smart&auto=webp&s=64ce07bc0b6440419ccfa3e78df41e54c003e248",
         "published": "2026-06-26T00:58:00+00:00"
-    },
-    {
-        "title": "Windows 10 support quietly extended until Oct 2027, as users reject Windows 11",
-        "link": "https://www.reddit.com/r/technology/comments/1uff71o/windows_10_support_quietly_extended_until_oct/",
-        "image": "https://external-preview.redd.it/VxqLl225Cwddg7jg2TQbMQa7poEiSBjCURA3mAbGASo.jpeg?width=640&crop=smart&auto=webp&s=706d4cdad61d82de562dc9c9ef077e86c609a1b5",
-        "published": "2026-06-25T16:37:45+00:00"
-    },
-    {
-        "title": "Big Tech slapped with $3.5bn in fines for using your personal data to train AI \u2014 and 'it could be only the beginning,' warns Surfshark",
-        "link": "https://www.reddit.com/r/technology/comments/1ufq299/big_tech_slapped_with_35bn_in_fines_for_using/",
-        "image": "https://external-preview.redd.it/O03XV3tX1TLq3tb5Kk8-b4u0PAdoOPIUPhjJk6nJnCA.jpeg?width=640&crop=smart&auto=webp&s=8c4a6fd04a08af7f10ac90face9f073bd23ae8a4",
-        "published": "2026-06-25T23:28:12+00:00"
     },
     {
         "title": "Ocasio-Cortez and Sanders introduce AI Data Center Moratorium Act",
@@ -66,10 +48,16 @@
         "published": "2026-06-26T13:00:12+00:00"
     },
     {
-        "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-        "link": "https://www.reddit.com/r/technology/comments/1ufgwom/feds_killed_polestar_and_spared_volvo_that_should/",
-        "image": "https://external-preview.redd.it/UepAfhqVpeoEKZBc2XPnNFaHE5VxuLr8NX-Sl05v7W0.jpeg?width=640&crop=smart&auto=webp&s=5b6ef686920dc93c9fcb409ab575e5d0d4547df8",
-        "published": "2026-06-25T17:38:39+00:00"
+        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+        "link": "https://www.reddit.com/r/technology/comments/1ug6qbs/anthropic_says_alibaba_must_be_punished_for/",
+        "image": "https://external-preview.redd.it/Xv5WIf69qNI8q3QoTPRcCFoCS03zXjMbFFjsJJpzaQU.jpeg?width=640&crop=smart&auto=webp&s=836a00a27be4f9eb687cf636c58fc5d5eebd2f1a",
+        "published": "2026-06-26T13:22:21+00:00"
+    },
+    {
+        "title": "Big Tech slapped with $3.5bn in fines for using your personal data to train AI \u2014 and 'it could be only the beginning,' warns Surfshark",
+        "link": "https://www.reddit.com/r/technology/comments/1ufq299/big_tech_slapped_with_35bn_in_fines_for_using/",
+        "image": "https://external-preview.redd.it/O03XV3tX1TLq3tb5Kk8-b4u0PAdoOPIUPhjJk6nJnCA.jpeg?width=640&crop=smart&auto=webp&s=8c4a6fd04a08af7f10ac90face9f073bd23ae8a4",
+        "published": "2026-06-25T23:28:12+00:00"
     },
     {
         "title": "Peppa Pig Owner Hasbro Faces Backlash After Reportedly Trying to Force Child Actors to Sign Away AI Voice Rights",
@@ -78,15 +66,27 @@
         "published": "2026-06-26T08:02:05+00:00"
     },
     {
-        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-        "link": "https://www.reddit.com/r/technology/comments/1ug6qbs/anthropic_says_alibaba_must_be_punished_for/",
-        "image": "https://external-preview.redd.it/Xv5WIf69qNI8q3QoTPRcCFoCS03zXjMbFFjsJJpzaQU.jpeg?width=640&crop=smart&auto=webp&s=836a00a27be4f9eb687cf636c58fc5d5eebd2f1a",
-        "published": "2026-06-26T13:22:21+00:00"
+        "title": "\u2018No evidence\u2019: Kevin O\u2019Leary walks back claims that data center opposition is funded by China",
+        "link": "https://www.reddit.com/r/technology/comments/1ug7skn/no_evidence_kevin_oleary_walks_back_claims_that/",
+        "image": "https://external-preview.redd.it/fnHcxK2BvxIMEsrzkslcGHXVlUWMbEIR_jst72Tiv8s.png?width=640&crop=smart&auto=webp&s=df4b117948cbad5bb8e4da4a44a9610b909063ca",
+        "published": "2026-06-26T14:04:36+00:00"
     },
     {
         "title": "Meta's reckoning has arrived",
         "link": "https://www.reddit.com/r/technology/comments/1ufkk5d/metas_reckoning_has_arrived/",
         "image": "https://external-preview.redd.it/jkWRjcmBiV4QP5OtYYn_YQiOrqf2CpKhR6UqM6Techg.jpeg?width=640&crop=smart&auto=webp&s=635e2ec43e419ff5ae769444d53382ae8c630e52",
         "published": "2026-06-25T19:50:27+00:00"
+    },
+    {
+        "title": "Nintendo has raised its employees base salary by 10%",
+        "link": "https://www.reddit.com/r/technology/comments/1ug8y9e/nintendo_has_raised_its_employees_base_salary_by/",
+        "image": "https://external-preview.redd.it/TBgL3mUSO8ZHwGdaMYSu6IXdDg1t37SUu--utHaevng.jpeg?width=640&crop=smart&auto=webp&s=1c8dd3ffda4d2f4556a92e488d4fe88191b60590",
+        "published": "2026-06-26T14:49:24+00:00"
+    },
+    {
+        "title": "The \u2018papers, please\u2019 era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
+        "link": "https://www.reddit.com/r/technology/comments/1ugbdje/the_papers_please_era_of_the_internet_will/",
+        "image": "https://external-preview.redd.it/Adi7O8L2HaY3IzhN3edkyXcHezizDY5vagzLA08dyTU.jpeg?width=640&crop=smart&auto=webp&s=7cf4f2c6c7e05f86e916cf9d6c30311dbbe95fd9",
+        "published": "2026-06-26T16:18:25+00:00"
     }
 ]
