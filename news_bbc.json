@@ -1,5 +1,11 @@
 [
     {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
+        "published": "Sat, 27 Jun 2026 00:34:08 GMT"
+    },
+    {
         "title": "Venezuela earthquakes kill 920 people as families desperate for news",
         "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg",
@@ -12,16 +18,22 @@
         "published": "Fri, 26 Jun 2026 18:36:32 GMT"
     },
     {
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
-        "published": "Fri, 26 Jun 2026 22:57:30 GMT"
+        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e7c/live/7a76a060-7190-11f1-8e1d-bbbb1017d210.jpg",
+        "published": "Fri, 26 Jun 2026 23:01:50 GMT"
     },
     {
         "title": "Europe's deadly heatwave breaks German record and halts public events",
         "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ef7/live/9635ade0-7187-11f1-bcec-7f8ed2660388.jpg",
         "published": "Fri, 26 Jun 2026 18:14:36 GMT"
+    },
+    {
+        "title": "Religion row as Texas makes Bible stories required reading in schools",
+        "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg",
+        "published": "Sat, 27 Jun 2026 00:31:42 GMT"
     },
     {
         "title": "DR Congo takes Rwanda to international court over decades of conflict",
@@ -76,17 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b01/live/23e949a0-7136-11f1-be59-4b2938e11145.jpg",
         "published": "Fri, 26 Jun 2026 06:16:01 GMT"
-    },
-    {
-        "title": "Asia stock markets slide as tech shares slump",
-        "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7de/live/1bd3b890-7118-11f1-b071-fbfa4a952290.jpg",
-        "published": "Fri, 26 Jun 2026 07:33:10 GMT"
-    },
-    {
-        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-        "link": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46de/live/03f01d40-7131-11f1-992d-bb5874cdc3c0.jpg",
-        "published": "Fri, 26 Jun 2026 09:42:26 GMT"
     }
 ]
