@@ -6,12 +6,6 @@
         "published": "2026-06-27T16:03:43+00:00"
     },
     {
-        "title": "Scientists found a cannabis compound that relieves pain without the high",
-        "link": "https://www.reddit.com/r/technology/comments/1uh1pky/scientists_found_a_cannabis_compound_that/",
-        "image": "https://external-preview.redd.it/d8Iwa7wtNnGi1j7t_Yd4phzA7M1HUh9DX6qhADtNbVs.jpeg?width=640&crop=smart&auto=webp&s=3327afab72e0635dbf33e40a0f5a35fd933dcc83",
-        "published": "2026-06-27T12:38:16+00:00"
-    },
-    {
         "title": "Streaming services\u2019 obnoxiously loud ads become illegal on July 1 in California",
         "link": "https://www.reddit.com/r/technology/comments/1uhmkr3/streaming_services_obnoxiously_loud_ads_become/",
         "image": "https://external-preview.redd.it/lagewDbuklPxmENyFLAvM2cQI1vdQg67Vcp_dCAJvzk.jpeg?width=640&crop=smart&auto=webp&s=10081434cf58856f8e6c716d0bc6a03f964f48d8",
@@ -48,6 +42,12 @@
         "published": "2026-06-28T01:28:01+00:00"
     },
     {
+        "title": "Gemini in Chrome can now see exactly what you\u2019re looking at on screen",
+        "link": "https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/",
+        "image": "https://external-preview.redd.it/z0Sea4rUR4LqEub0YLKMIlTRqf12H3LLyalGpGRciuU.jpeg?width=640&crop=smart&auto=webp&s=b3b358bcafcbba03cba81f4f6f90e2a5d0838f92",
+        "published": "2026-06-28T08:04:46+00:00"
+    },
+    {
         "title": "GM Swapped 1,000 Detroit Workers for 50 Robots, Then Cashed a $4.25 Billion Check",
         "link": "https://www.reddit.com/r/technology/comments/1uh8dw0/gm_swapped_1000_detroit_workers_for_50_robots/",
         "image": "https://external-preview.redd.it/pEHxpmJEuh9D_vIRP6LyAg9Ph9bINxk1ZnZWeUgCLOs.jpeg?width=640&crop=smart&auto=webp&s=6bfe348b58abe0e1fa73d5551ab6a6acec2bbba5",
@@ -72,21 +72,21 @@
         "published": "2026-06-27T13:29:27+00:00"
     },
     {
-        "title": "The third Xbox price hike in 15 months raises all models by at least $100",
-        "link": "https://www.reddit.com/r/technology/comments/1uh1shy/the_third_xbox_price_hike_in_15_months_raises_all/",
-        "image": "https://external-preview.redd.it/JKBN-7oYy9NXOlLaI0atQT9UG55RpilLnBoNypIg05g.jpeg?width=640&crop=smart&auto=webp&s=adedcc8e20a627f049756b6694581705a313e533",
-        "published": "2026-06-27T12:42:07+00:00"
-    },
-    {
-        "title": "Gemini in Chrome can now see exactly what you\u2019re looking at on screen",
-        "link": "https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/",
-        "image": "https://external-preview.redd.it/z0Sea4rUR4LqEub0YLKMIlTRqf12H3LLyalGpGRciuU.jpeg?width=640&crop=smart&auto=webp&s=b3b358bcafcbba03cba81f4f6f90e2a5d0838f92",
-        "published": "2026-06-28T08:04:46+00:00"
-    },
-    {
         "title": "Waterloo City Hall abandons X. Says the platform is 'not a welcoming space'",
         "link": "https://www.reddit.com/r/technology/comments/1uhblcf/waterloo_city_hall_abandons_x_says_the_platform/",
         "image": "https://external-preview.redd.it/nBQxovjgRERdxLnFq-YyE1Q9gQ6YkJHDru6C5A8Gibc.jpeg?width=640&crop=smart&auto=webp&s=c4b56959cb27a69e2524c74fb4d9072e66eb808c",
         "published": "2026-06-27T19:28:51+00:00"
+    },
+    {
+        "title": "AI Slop Is Transforming YouTube. Its CEO Wants To Keep It Human",
+        "link": "https://www.reddit.com/r/technology/comments/1uhnbt9/ai_slop_is_transforming_youtube_its_ceo_wants_to/",
+        "image": "https://external-preview.redd.it/kS5cIwjphZblIlYioppnDqureH9LLIiB_y1N-NJe784.jpeg?width=640&crop=smart&auto=webp&s=76f7b7d55b909e5a7ed61e944fabfa1c966617ad",
+        "published": "2026-06-28T04:19:27+00:00"
+    },
+    {
+        "title": "AI is creating America\u2019s next underclass",
+        "link": "https://www.reddit.com/r/technology/comments/1uhc7sa/ai_is_creating_americas_next_underclass/",
+        "image": "https://external-preview.redd.it/YblPJdH1I2AbtrmRLpnDSGU1VIvIbfJXHZJXspx2_Jk.jpeg?width=640&crop=smart&auto=webp&s=c1cb1ab059b957ca206b2db9ae7bdaa9438067b0",
+        "published": "2026-06-27T19:54:24+00:00"
     }
 ]
