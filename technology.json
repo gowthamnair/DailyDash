@@ -1,27 +1,9 @@
 [
     {
-        "title": "Pennsylvania Just Voted to Pull the Plug on Big Tech's $517M Tax Break",
-        "link": "https://www.reddit.com/r/technology/comments/1ujy7eg/pennsylvania_just_voted_to_pull_the_plug_on_big/",
-        "image": "https://external-preview.redd.it/7Qy634xWsq24UH3x3T0n6oBQb-pXbV6OSiCvFabfPkI.jpeg?width=640&crop=smart&auto=webp&s=a0575516910d89adc3c685f0a36ac1690c9bac9a",
-        "published": "2026-06-30T19:00:22+00:00"
-    },
-    {
-        "title": "Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire",
-        "link": "https://www.reddit.com/r/technology/comments/1ujvahw/bosses_are_becoming_obsessed_with_ai_using_it_to/",
-        "image": "https://external-preview.redd.it/1h50Rl80rud1IGaq_6d_19076pJ-MXj_nfCI1EBE-y4.jpeg?width=640&crop=smart&auto=webp&s=674d4299d076f7cb57d2499ad6dca97c13ad5ac1",
-        "published": "2026-06-30T17:15:06+00:00"
-    },
-    {
         "title": "Employers who laid off workers citing AI are already starting to regret it",
         "link": "https://www.reddit.com/r/technology/comments/1ukgqdw/employers_who_laid_off_workers_citing_ai_are/",
         "image": "https://external-preview.redd.it/7gp8UvdfzuqjNqLhKJUpTO08cBYEZ_aB7NJbHAhLJ6g.jpeg?width=640&crop=smart&auto=webp&s=2a5ebb423e7bf5e3153fdd334f5978ff63308fcb",
         "published": "2026-07-01T09:23:41+00:00"
-    },
-    {
-        "title": "WinRAR releases new update and says it\u2019s thanks to people finally paying",
-        "link": "https://www.reddit.com/r/technology/comments/1ujymsp/winrar_releases_new_update_and_says_its_thanks_to/",
-        "image": "https://external-preview.redd.it/dEjo8RIgqAdOGfnnuwLAZHYogcl-6FnxdJwN2AfmjKY.jpeg?width=640&crop=smart&auto=webp&s=15eef1b2464d0328e7bcc5c672ffdec849d0e8a7",
-        "published": "2026-06-30T19:15:27+00:00"
     },
     {
         "title": "Top AI Researchers Terrified of a \u201cChernobyl Moment\u201d: a Mass Casualty Event, or Worse, That Turns the World Against AI Forever",
@@ -30,16 +12,16 @@
         "published": "2026-07-01T10:34:18+00:00"
     },
     {
-        "title": "Old Reddit gets login requirement; Reddit \u201ccan\u2019t promise\u201d site will always exist",
-        "link": "https://www.reddit.com/r/technology/comments/1uk2pw7/old_reddit_gets_login_requirement_reddit_cant/",
-        "image": "https://external-preview.redd.it/1tMjMUS5E7cBa6iD99V2VwlSNVsSWJZPe95eUzpyEng.jpeg?width=640&crop=smart&auto=webp&s=4a9c2914213981035c8fd501039b48c9aa49dbf6",
-        "published": "2026-06-30T21:48:24+00:00"
-    },
-    {
         "title": "Anybody Who Thinks Orbital Data Centers are a Good Idea Is Suffering from AI Psychosis, Experts Argue",
         "link": "https://www.reddit.com/r/technology/comments/1ukhzb2/anybody_who_thinks_orbital_data_centers_are_a/",
         "image": "https://external-preview.redd.it/EVbzGLzEJ3SdpwPvipSzzpgT_ECCAq25cMPf915zLq0.jpeg?width=640&crop=smart&auto=webp&s=4fc8b25878e8d18d52a728bbefdf77b2b65fdb40",
         "published": "2026-07-01T10:35:38+00:00"
+    },
+    {
+        "title": "Old Reddit gets login requirement; Reddit \u201ccan\u2019t promise\u201d site will always exist",
+        "link": "https://www.reddit.com/r/technology/comments/1uk2pw7/old_reddit_gets_login_requirement_reddit_cant/",
+        "image": "https://external-preview.redd.it/1tMjMUS5E7cBa6iD99V2VwlSNVsSWJZPe95eUzpyEng.jpeg?width=640&crop=smart&auto=webp&s=4a9c2914213981035c8fd501039b48c9aa49dbf6",
+        "published": "2026-06-30T21:48:24+00:00"
     },
     {
         "title": "Sony Just Killed Discs: Physical Disc Production to End January 2028 for New Games Releasing on PlayStation Consoles",
@@ -54,12 +36,6 @@
         "published": "2026-07-01T02:58:19+00:00"
     },
     {
-        "title": "Former Microsoft engineer rewrote Notepad in x86 assembly leaving only necessary functions and weighing only 2.7KB",
-        "link": "https://www.reddit.com/r/technology/comments/1ujyu6m/former_microsoft_engineer_rewrote_notepad_in_x86/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-06-30T19:22:50+00:00"
-    },
-    {
         "title": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
         "link": "https://www.reddit.com/r/technology/comments/1ukjoqu/physical_disc_production_ending_in_january_2028/",
         "image": "https://external-preview.redd.it/uXh4G9doJn7LBJ3E-LExExCgKj09ZLfYgserZvc2h48.jpeg?width=640&crop=smart&auto=webp&s=338ceaaf80ae4ecb9b79399713fb30e7f2364455",
@@ -72,10 +48,16 @@
         "published": "2026-07-01T00:53:04+00:00"
     },
     {
-        "title": "Amazon sued in Australia after Prime subscribers were made to pay more to remove ads",
-        "link": "https://www.reddit.com/r/technology/comments/1ujyrdq/amazon_sued_in_australia_after_prime_subscribers/",
-        "image": "https://external-preview.redd.it/NKFKyI2efX8hrq-49ldPNnLMN8MHaZsNdW6CKfn6ABg.jpeg?width=640&crop=smart&auto=webp&s=c8f92dff3f75d11fdcb1b6f6e700b51050cd56ba",
-        "published": "2026-06-30T19:20:00+00:00"
+        "title": "The iPhone contributed to 'a collapse in US fertility,' claims scientific study",
+        "link": "https://www.reddit.com/r/technology/comments/1ukkd60/the_iphone_contributed_to_a_collapse_in_us/",
+        "image": "https://external-preview.redd.it/9xC3-Iv6Npa3affi6Mo7smyB8zORBEduQHcXtkriVeo.jpeg?width=640&crop=smart&auto=webp&s=b0848b1735e5263c0506f36c72e72d6fac1c033d",
+        "published": "2026-07-01T12:31:49+00:00"
+    },
+    {
+        "title": "The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy",
+        "link": "https://www.reddit.com/r/technology/comments/1ukkkul/the_video_game_industry_just_told_lawmakers/",
+        "image": "https://external-preview.redd.it/CIBivWTRlYRvGpqXFBsxNIaQRAt0SGifz2svdsEMt_E.jpeg?width=640&crop=smart&auto=webp&s=1f7ab2306ff0a1825e1314c4a1d662560d594b63",
+        "published": "2026-07-01T12:40:57+00:00"
     },
     {
         "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don\u2019t Exist",
@@ -84,9 +66,27 @@
         "published": "2026-06-30T21:59:06+00:00"
     },
     {
-        "title": "The iPhone contributed to 'a collapse in US fertility,' claims scientific study",
-        "link": "https://www.reddit.com/r/technology/comments/1ukkd60/the_iphone_contributed_to_a_collapse_in_us/",
-        "image": "https://external-preview.redd.it/9xC3-Iv6Npa3affi6Mo7smyB8zORBEduQHcXtkriVeo.jpeg?width=640&crop=smart&auto=webp&s=b0848b1735e5263c0506f36c72e72d6fac1c033d",
-        "published": "2026-07-01T12:31:49+00:00"
+        "title": "Microsoft plans another round of job cuts, impacting thousands of roles",
+        "link": "https://www.reddit.com/r/technology/comments/1uk54k6/microsoft_plans_another_round_of_job_cuts/",
+        "image": "https://external-preview.redd.it/_8HkeK434y38itLArRgtM3h0gLRRJap_26TmpTEHLUs.jpeg?width=640&crop=smart&auto=webp&s=7b9e4f29c0564927da350a5da8614ea5490e83b8",
+        "published": "2026-06-30T23:26:23+00:00"
+    },
+    {
+        "title": "\u2018Slough is like an experiment\u2019: Europe\u2019s largest datacentre hub leaves town sweltering \u2014 Datacentres create a heat island effect, pushing up temperatures in the immediate vicinity by as much as 9C",
+        "link": "https://www.reddit.com/r/technology/comments/1uk5xq0/slough_is_like_an_experiment_europes_largest/",
+        "image": "https://external-preview.redd.it/bL82Wh-PS77ZnMX2XxDj6Z8RTNY1acOE9NZIDy7zym0.jpeg?width=640&crop=smart&auto=webp&s=258cdf6bea88d1b4f35f515f8752d68c55994da5",
+        "published": "2026-07-01T00:01:10+00:00"
+    },
+    {
+        "title": "New California study finds highly educated workers most harmed by AI",
+        "link": "https://www.reddit.com/r/technology/comments/1ukqgjv/new_california_study_finds_highly_educated/",
+        "image": "https://external-preview.redd.it/2m20ZLPgZnZdjPMFfD5eSwV7BcXmvKohtdb32qiLijc.jpeg?width=640&crop=smart&auto=webp&s=32e002140924317773bd66b3e27d19648ffecf19",
+        "published": "2026-07-01T16:26:09+00:00"
+    },
+    {
+        "title": "PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen",
+        "link": "https://www.reddit.com/r/technology/comments/1ukp7qo/playstation_6_bill_of_materials_nears_1000_as_ram/",
+        "image": "https://external-preview.redd.it/SJV4qCszTvVZKJXgcNFbiwKVi2L2EgxSVROvErBNi3A.jpeg?width=640&crop=smart&auto=webp&s=7b9a980ffd2095acccfc6eca5a700fcae4c2a164",
+        "published": "2026-07-01T15:41:05+00:00"
     }
 ]
