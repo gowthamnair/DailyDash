@@ -12,12 +12,6 @@
         "published": "2026-06-30T17:15:06+00:00"
     },
     {
-        "title": "Cargo thieves target AI data center supplies in $1.3 million heists",
-        "link": "https://www.reddit.com/r/technology/comments/1ujmbj7/cargo_thieves_target_ai_data_center_supplies_in/",
-        "image": "https://external-preview.redd.it/1GGAF9KQ8Q57v3r8-7YiVLRHSXycAFm_jHehj7eKSF8.png?width=640&crop=smart&auto=webp&s=edead6877a8f12e0ec55c4d0660bd1bd33f4b871",
-        "published": "2026-06-30T11:16:49+00:00"
-    },
-    {
         "title": "County With 37 Data Centers Asks Schools to \u2018Conserve Electricity\u2019 / Henrico County is a major hub for data centers in Virginia. Its officials said it expects a 25% rise in electricity costs next year, and advised workers to close the blinds and turn off their computers to make up for it.",
         "link": "https://www.reddit.com/r/technology/comments/1ujszte/county_with_37_data_centers_asks_schools_to/",
         "image": "https://external-preview.redd.it/k2oAGlPQxeXhsKc6PI8yyvLaijtajDpnIUupJasxjBg.jpeg?width=640&crop=smart&auto=webp&s=bdd1f414efd0031253609c51776ea3cebb627c16",
@@ -48,16 +42,16 @@
         "published": "2026-06-30T21:48:24+00:00"
     },
     {
-        "title": "New Florida Law Bans Local Net-Zero Emissions Policies",
-        "link": "https://www.reddit.com/r/technology/comments/1ujm4sb/new_florida_law_bans_local_netzero_emissions/",
-        "image": "https://external-preview.redd.it/5vkFpuTZyWL-MKmG06DFst6aHjka8qf7eGy2TCCaNRo.jpeg?width=640&crop=smart&auto=webp&s=c01feada861e09b6ce282639cd8a7572c4b9f03b",
-        "published": "2026-06-30T11:07:24+00:00"
-    },
-    {
         "title": "Former Microsoft engineer rewrote Notepad in x86 assembly leaving only necessary functions and weighing only 2.7KB",
         "link": "https://www.reddit.com/r/technology/comments/1ujyu6m/former_microsoft_engineer_rewrote_notepad_in_x86/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-06-30T19:22:50+00:00"
+    },
+    {
+        "title": "Chinese tech makes desalinating seawater cheaper than producing bottled water",
+        "link": "https://www.reddit.com/r/technology/comments/1uk9p2j/chinese_tech_makes_desalinating_seawater_cheaper/",
+        "image": "https://external-preview.redd.it/PgmOelsXH9-RcSKQKgxL_5yjc4fltX7KZL_54txukjQ.jpeg?width=640&crop=smart&auto=webp&s=e447e8850197661fa2c2b84661f1cc7b53efb63f",
+        "published": "2026-07-01T02:58:19+00:00"
     },
     {
         "title": "Meta loses bid to dismiss US states' claims that Facebook, Instagram addict children",
@@ -72,16 +66,22 @@
         "published": "2026-07-01T00:53:04+00:00"
     },
     {
+        "title": "Employers who laid off workers citing AI are already starting to regret it",
+        "link": "https://www.reddit.com/r/technology/comments/1ukgqdw/employers_who_laid_off_workers_citing_ai_are/",
+        "image": "https://external-preview.redd.it/7gp8UvdfzuqjNqLhKJUpTO08cBYEZ_aB7NJbHAhLJ6g.jpeg?width=640&crop=smart&auto=webp&s=2a5ebb423e7bf5e3153fdd334f5978ff63308fcb",
+        "published": "2026-07-01T09:23:41+00:00"
+    },
+    {
         "title": "Amazon sued in Australia after Prime subscribers were made to pay more to remove ads",
         "link": "https://www.reddit.com/r/technology/comments/1ujyrdq/amazon_sued_in_australia_after_prime_subscribers/",
         "image": "https://external-preview.redd.it/NKFKyI2efX8hrq-49ldPNnLMN8MHaZsNdW6CKfn6ABg.jpeg?width=640&crop=smart&auto=webp&s=c8f92dff3f75d11fdcb1b6f6e700b51050cd56ba",
         "published": "2026-06-30T19:20:00+00:00"
     },
     {
-        "title": "Chinese tech makes desalinating seawater cheaper than producing bottled water",
-        "link": "https://www.reddit.com/r/technology/comments/1uk9p2j/chinese_tech_makes_desalinating_seawater_cheaper/",
-        "image": "https://external-preview.redd.it/PgmOelsXH9-RcSKQKgxL_5yjc4fltX7KZL_54txukjQ.jpeg?width=640&crop=smart&auto=webp&s=e447e8850197661fa2c2b84661f1cc7b53efb63f",
-        "published": "2026-07-01T02:58:19+00:00"
+        "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don\u2019t Exist",
+        "link": "https://www.reddit.com/r/technology/comments/1uk2zox/scammers_sell_seeds_for_exotic_aigenerated/",
+        "image": "https://external-preview.redd.it/-MRdFHas36EGz0kPgk7SlSOAwYtEQCotCRgWsfkxpYk.jpeg?width=640&crop=smart&auto=webp&s=3172325e85a73691985bfd3dddacc773ea952614",
+        "published": "2026-06-30T21:59:06+00:00"
     },
     {
         "title": "Microsoft plans another round of job cuts, impacting thousands of roles",
