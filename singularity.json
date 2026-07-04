@@ -1,21 +1,9 @@
 [
     {
-        "title": "Came across this on X. Thought it was pretty accurate.",
-        "link": "https://www.reddit.com/r/singularity/comments/1umg3u3/came_across_this_on_x_thought_it_was_pretty/",
-        "image": "https://preview.redd.it/q4pstuqoz0bh1.jpeg?width=640&crop=smart&auto=webp&s=7d149ee1ea5d0ed457596717017cb5b0ee173a99",
-        "published": "2026-07-03T14:33:30+00:00"
-    },
-    {
-        "title": "I made Google streetview but for historical events with GPT images. Time travel today",
-        "link": "https://www.reddit.com/r/singularity/comments/1um6m11/i_made_google_streetview_but_for_historical/",
-        "image": "https://external-preview.redd.it/b2I1MnhseTNseWFoMa0wH1nNx5usU4fI5QdYjoORoXY1PTWemhkibwdYRYt9.png?width=640&crop=smart&auto=webp&s=fd4132a8cf8feaed3d4ff6170e19f57a2d640966",
-        "published": "2026-07-03T06:28:15+00:00"
-    },
-    {
-        "title": "Peter Thiel in Aspen: The pope is \u2018working for the Chinese Communists\u2019",
-        "link": "https://www.reddit.com/r/singularity/comments/1um96wj/peter_thiel_in_aspen_the_pope_is_working_for_the/",
-        "image": "https://external-preview.redd.it/fgB_WTd3kGZNRP6-8ho2Tx18-2KX6DGtrc8mz-qEeLk.jpeg?width=640&crop=smart&auto=webp&s=46aff9661a9c98bb66da6df92c33bc213bc46e87",
-        "published": "2026-07-03T08:59:35+00:00"
+        "title": "The experience of working with Fable - \"Sorry I can't access that Youtube tutorial you just linked... So I'm going to research all guides available, any materials associated, the content creator's articles... and I'll just experiment on your PC while I'm at it...\"",
+        "link": "https://www.reddit.com/r/singularity/comments/1un1669/the_experience_of_working_with_fable_sorry_i_cant/",
+        "image": "https://preview.redd.it/napwvqe1k5bh1.png?width=640&crop=smart&auto=webp&s=0abf3cc1e51f40ead9478e6763132cddfedcd359",
+        "published": "2026-07-04T06:03:12+00:00"
     },
     {
         "title": "Noetix is another player in the robotic faces space",
@@ -24,22 +12,28 @@
         "published": "2026-07-03T18:20:16+00:00"
     },
     {
-        "title": "Is this an ethical use of robotics?",
-        "link": "https://www.reddit.com/r/singularity/comments/1umhzgl/is_this_an_ethical_use_of_robotics/",
-        "image": "https://external-preview.redd.it/YWFob3k5cW9jMWJoMYPPlG7NlFnLLhv6N3C1B4Hv3WmYGdQv9yKK05qmnp1X.png?width=640&crop=smart&auto=webp&s=522c741e29d49fcf7f8c6066b71753c2bff6d22a",
-        "published": "2026-07-03T15:46:30+00:00"
+        "title": "Performance per dollar is getting faster and cheaper",
+        "link": "https://www.reddit.com/r/singularity/comments/1umua0n/performance_per_dollar_is_getting_faster_and/",
+        "image": "https://external-preview.redd.it/vi8p-mH1IXtStfFRrsVa57dV2ORBUi-FaRVgCDb6VZg.png?width=640&crop=smart&auto=webp&s=5d89f5157b16951c40a00b5c88311fe297bbc2e4",
+        "published": "2026-07-04T00:09:49+00:00"
     },
     {
-        "title": "Meta might release a new update for their flagship model muse spark",
-        "link": "https://www.reddit.com/r/singularity/comments/1umdzm9/meta_might_release_a_new_update_for_their/",
-        "image": "https://preview.redd.it/7kwry695k0bh1.jpeg?width=640&crop=smart&auto=webp&s=5ddca4a875caf92b1adfbbbad20785e798cce835",
-        "published": "2026-07-03T13:06:26+00:00"
+        "title": "Alibaba bans employees from using Anthropic's Claude Code in workplace environments from July 10, citing alleged embedded \"backdoor\" risks raised after recent binary reverse-engineering.",
+        "link": "https://www.reddit.com/r/singularity/comments/1un7s5z/alibaba_bans_employees_from_using_anthropics/",
+        "image": "https://preview.redd.it/xr4e46yaq6bh1.png?width=320&crop=smart&auto=webp&s=4e9c576e6e0903ee34a4564cf3f52d22ba75444a",
+        "published": "2026-07-04T12:25:51+00:00"
     },
     {
-        "title": "Interesting interaction between former OpenAI researcher and a current one regarding super assistants",
-        "link": "https://www.reddit.com/r/singularity/comments/1um7mld/interesting_interaction_between_former_openai/",
-        "image": "https://preview.redd.it/a13wxeeevyah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=574354fcdde10469caa672670ae4732caf017c3d",
-        "published": "2026-07-03T07:25:56+00:00"
+        "title": "Principal Engineer at Nvidia review of 5.6 Sol",
+        "link": "https://www.reddit.com/r/singularity/comments/1un9d4k/principal_engineer_at_nvidia_review_of_56_sol/",
+        "image": "https://preview.redd.it/cxezbdd9u7bh1.png?width=140&height=82&auto=webp&s=ff7cfa3e6b2a89e0caa73c89775e6ac46cbaaee4",
+        "published": "2026-07-04T13:40:13+00:00"
+    },
+    {
+        "title": "SemiAnalysis expects Meta to sign compute deal with Anthropic worth $10B",
+        "link": "https://www.reddit.com/r/singularity/comments/1un3prq/semianalysis_expects_meta_to_sign_compute_deal/",
+        "image": "https://preview.redd.it/8kd877jub6bh1.jpeg?width=640&crop=smart&auto=webp&s=5593c35037c453c307560ff055b39086692b8d0f",
+        "published": "2026-07-04T08:31:34+00:00"
     },
     {
         "title": "What are the books I need to read to be informed on how Al works and how the singularity might play out?",
@@ -48,15 +42,27 @@
         "published": "2026-07-03T18:00:21+00:00"
     },
     {
-        "title": "Hierarchos: Preliminary Findings From a 232M Recurrent Memory-Augmented Assistant Model [P]",
-        "link": "https://www.reddit.com/r/singularity/comments/1um12hd/hierarchos_preliminary_findings_from_a_232m/",
-        "image": "https://external-preview.redd.it/ndW4PnoSoc9DT3_WTL0MBBbYLkEjh2ZYvNRJ5IbKhtc.png?width=640&crop=smart&auto=webp&s=d15de523aca73a27e9ad228420d2c267e9f133d1",
-        "published": "2026-07-03T01:48:32+00:00"
+        "title": "Dispersion loss counteracts embedding condensation in small language models",
+        "link": "https://www.reddit.com/r/singularity/comments/1umu4g7/dispersion_loss_counteracts_embedding/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-04T00:02:26+00:00"
     },
     {
-        "title": "The Best AI Safety News In Years (Maybe Ever?)",
-        "link": "https://www.reddit.com/r/singularity/comments/1um6q3t/the_best_ai_safety_news_in_years_maybe_ever/",
-        "image": "https://external-preview.redd.it/sZcHh5GRUJwzFnPBDKSgjPGwJFSWVJNUFIecU9S2iZs.jpeg?width=320&crop=smart&auto=webp&s=e9e1501d7404d379f976c26a06ded6088d34c95a",
-        "published": "2026-07-03T06:34:35+00:00"
+        "title": "what were your \u201coh shit\u201d moments in AI?",
+        "link": "https://www.reddit.com/r/singularity/comments/1unavps/what_were_your_oh_shit_moments_in_ai/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-04T14:45:27+00:00"
+    },
+    {
+        "title": "Number of billionaires globally soars by 13% amid AI shares boom",
+        "link": "https://www.reddit.com/r/singularity/comments/1unbc7v/number_of_billionaires_globally_soars_by_13_amid/",
+        "image": "https://external-preview.redd.it/dajoiJ5HwX0Zbt052iRBLKXzX4_W6cz83ARyTXUyIV0.jpeg?width=640&crop=smart&auto=webp&s=5afdcf24081d2c3f7af0499b149a6d0b90fc063e",
+        "published": "2026-07-04T15:04:38+00:00"
+    },
+    {
+        "title": "When OpenAI and Anthropic IPO",
+        "link": "https://www.reddit.com/r/singularity/comments/1un2vmc/when_openai_and_anthropic_ipo/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-04T07:41:12+00:00"
     }
 ]
