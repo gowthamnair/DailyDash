@@ -42,16 +42,16 @@
         "published": "2026-07-04T01:51:15+00:00"
     },
     {
-        "title": "Rural Americans say they're worried AI data centers will drain their wallets",
-        "link": "https://www.reddit.com/r/technology/comments/1umplhd/rural_americans_say_theyre_worried_ai_data/",
-        "image": "https://external-preview.redd.it/jQ8fMgywVocWtDol2f75iZ-4lz4kPKnYBMLj2wX42vs.jpeg?width=640&crop=smart&auto=webp&s=6ab06decb75f529b1e079b506122664e54e39409",
-        "published": "2026-07-03T20:44:10+00:00"
-    },
-    {
         "title": "\u2018It\u2019s just his AI and my AI going back and forth\u2019: The workplace phenomenon that\u2019s undermining human relationships",
         "link": "https://www.reddit.com/r/technology/comments/1umruoa/its_just_his_ai_and_my_ai_going_back_and_forth/",
         "image": "https://external-preview.redd.it/5oLVM0-M9XdMT8B72NzHFDg5ADz3YYnb6AHh4yILwTs.jpeg?width=640&crop=smart&auto=webp&s=b449f93cf179be0ce56db7ee4c35e2d7a0de297a",
         "published": "2026-07-03T22:18:29+00:00"
+    },
+    {
+        "title": "Rural Americans say they're worried AI data centers will drain their wallets",
+        "link": "https://www.reddit.com/r/technology/comments/1umplhd/rural_americans_say_theyre_worried_ai_data/",
+        "image": "https://external-preview.redd.it/jQ8fMgywVocWtDol2f75iZ-4lz4kPKnYBMLj2wX42vs.jpeg?width=640&crop=smart&auto=webp&s=6ab06decb75f529b1e079b506122664e54e39409",
+        "published": "2026-07-03T20:44:10+00:00"
     },
     {
         "title": "Chevy built an all-American EV truck \u2014 why is nobody buying it? | TechCrunch",
@@ -64,6 +64,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1umv2nh/the_ghost_gun_crackdown_is_quietly_threatening/",
         "image": "https://external-preview.redd.it/pikJoKYGx4q3BPtMMDRs1TVLIwaBYmR6JjBf91b82Pw.jpeg?width=640&crop=smart&auto=webp&s=ea55770af0a3812b653551a0446d51fe4b8c7025",
         "published": "2026-07-04T00:49:48+00:00"
+    },
+    {
+        "title": "Inside the Luddite festival harnessing Gen Z\u2019s rage against Big Tech",
+        "link": "https://www.reddit.com/r/technology/comments/1umzi2y/inside_the_luddite_festival_harnessing_gen_zs/",
+        "image": "https://external-preview.redd.it/Eqm9AGTrb3o8LJabcK2gOoD41DdpFIPBRYD2UxOdpYc.jpeg?width=640&crop=smart&auto=webp&s=c592e4e79209076aae10b18b27a828b237eadc72",
+        "published": "2026-07-04T04:32:17+00:00"
     },
     {
         "title": "Meta's solution to the global memory shortage is to use DDR4 in a DDR5 server, with a custom chip making the impossible possible",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1uml9u3/microsoft_warns_authenticator_now_blocks_rooted/",
         "image": "https://external-preview.redd.it/wFRkkBEo8FA4ak9aRxDxYg1DCFVmkCLpqJzyjfI3vVk.jpeg?width=640&crop=smart&auto=webp&s=abcaa938e5f3b6b1c568ab3444615cd3e01ddb28",
         "published": "2026-07-03T17:52:03+00:00"
-    },
-    {
-        "title": "Inside the Luddite festival harnessing Gen Z\u2019s rage against Big Tech",
-        "link": "https://www.reddit.com/r/technology/comments/1umzi2y/inside_the_luddite_festival_harnessing_gen_zs/",
-        "image": "https://external-preview.redd.it/Eqm9AGTrb3o8LJabcK2gOoD41DdpFIPBRYD2UxOdpYc.jpeg?width=640&crop=smart&auto=webp&s=c592e4e79209076aae10b18b27a828b237eadc72",
-        "published": "2026-07-04T04:32:17+00:00"
     }
 ]
