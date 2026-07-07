@@ -1,5 +1,11 @@
 [
     {
+        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+        "published": "Tue, 07 Jul 2026 22:48:45 GMT"
+    },
+    {
         "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
         "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98f2/live/e43e2690-7a40-11f1-bc29-738b6960c215.jpg",
@@ -30,16 +36,16 @@
         "published": "Tue, 07 Jul 2026 20:00:57 GMT"
     },
     {
-        "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
-        "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8012/live/4853a720-7a20-11f1-b450-9f402cd7a05e.jpg",
-        "published": "Tue, 07 Jul 2026 18:34:45 GMT"
-    },
-    {
         "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
         "link": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d75c/live/3607f150-7a18-11f1-b976-0b9c15b0ccfc.jpg",
         "published": "Tue, 07 Jul 2026 16:25:59 GMT"
+    },
+    {
+        "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
+        "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8012/live/4853a720-7a20-11f1-b450-9f402cd7a05e.jpg",
+        "published": "Tue, 07 Jul 2026 18:34:45 GMT"
     },
     {
         "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a54/live/36a0d7c0-68c6-11f1-a3bc-8d97b01bf439.jpg",
         "published": "Tue, 07 Jul 2026 06:23:04 GMT"
-    },
-    {
-        "title": "Trump confirms he asked Fifa to review Balogun ban",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg",
-        "published": "Mon, 06 Jul 2026 19:06:34 GMT"
     }
 ]
