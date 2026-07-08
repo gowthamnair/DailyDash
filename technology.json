@@ -24,16 +24,16 @@
         "published": "2026-07-07T12:21:57+00:00"
     },
     {
-        "title": "Zuckerberg Admits That AI Is Not Working Out the Way He Imagined",
-        "link": "https://www.reddit.com/r/technology/comments/1uq1g44/zuckerberg_admits_that_ai_is_not_working_out_the/",
-        "image": "https://external-preview.redd.it/PBMtYKnX9GMEVJZirQsVW08Ji_SQiRyuF1ZxafS8018.jpeg?width=640&crop=smart&auto=webp&s=03d98b78e1e315ed6367cc7cecefbbcee129e217",
-        "published": "2026-07-07T17:14:23+00:00"
-    },
-    {
         "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face. It\u2019s Still Not Clear Where That Data Goes",
         "link": "https://www.reddit.com/r/technology/comments/1uq7r82/all_cars_sold_in_the_eu_now_require_a_camera/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-07-07T20:54:25+00:00"
+    },
+    {
+        "title": "Zuckerberg Admits That AI Is Not Working Out the Way He Imagined",
+        "link": "https://www.reddit.com/r/technology/comments/1uq1g44/zuckerberg_admits_that_ai_is_not_working_out_the/",
+        "image": "https://external-preview.redd.it/PBMtYKnX9GMEVJZirQsVW08Ji_SQiRyuF1ZxafS8018.jpeg?width=640&crop=smart&auto=webp&s=03d98b78e1e315ed6367cc7cecefbbcee129e217",
+        "published": "2026-07-07T17:14:23+00:00"
     },
     {
         "title": "\u2018Catastrophe\u2019: Gaming world in utter chaos as Microsoft\u2019s axes 4800 jobs, Sony makes huge call",
@@ -54,12 +54,6 @@
         "published": "2026-07-07T19:18:18+00:00"
     },
     {
-        "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined - Samsung passes Nvidia to become most profitable company in the world",
-        "link": "https://www.reddit.com/r/technology/comments/1upq8uf/samsung_chip_divisions_singleyear_profits_beat/",
-        "image": "https://external-preview.redd.it/mmROyZXI9PMFlvRjVjhz1kyJyR-lBy2BGvKiVtC4SrM.jpeg?width=640&crop=smart&auto=webp&s=461d79ed8accb99c69138bfbc97f8ed3d2ec8574",
-        "published": "2026-07-07T09:43:03+00:00"
-    },
-    {
         "title": "Waymo car delivers misbehaving teen passengers to San Mateo police",
         "link": "https://www.reddit.com/r/technology/comments/1uq82nc/waymo_car_delivers_misbehaving_teen_passengers_to/",
         "image": "https://external-preview.redd.it/hW4rRds87QVzm8e9wG9um9E2nEOXzlLYSaV3VTuUVfM.jpeg?width=640&crop=smart&auto=webp&s=11fc095d4822e7981dca8da184dda2879909ce49",
@@ -78,15 +72,21 @@
         "published": "2026-07-07T22:02:55+00:00"
     },
     {
-        "title": "The $10 Billion Takeover That Could Turn the Auto Parts Business Upside Down, Explained",
-        "link": "https://www.reddit.com/r/technology/comments/1upto89/the_10_billion_takeover_that_could_turn_the_auto/",
-        "image": "https://external-preview.redd.it/rphIaNgq3SJMEf14k4rI-0ExSfGY9IY3aHe0kbJ9RmQ.jpeg?width=640&crop=smart&auto=webp&s=e248d6e08ffbc880c0b0acf4499c3c447e18322b",
-        "published": "2026-07-07T12:30:13+00:00"
+        "title": "LG and Alienware monitors caught auto-installing Windows adware",
+        "link": "https://www.reddit.com/r/technology/comments/1uqgftv/lg_and_alienware_monitors_caught_autoinstalling/",
+        "image": "https://external-preview.redd.it/uzUj5LYY-AuX70P8L_grCEP0OKOV3HkFmq6sYmJh6j4.jpeg?width=640&crop=smart&auto=webp&s=8f8190879dfde13d9f2f5364a5d7070934e8e484",
+        "published": "2026-07-08T02:56:30+00:00"
     },
     {
         "title": "The backlash against Sony ditching PlayStation discs is not letting up",
         "link": "https://www.reddit.com/r/technology/comments/1uq102d/the_backlash_against_sony_ditching_playstation/",
         "image": "https://external-preview.redd.it/POQkLuUVItgNHgxoj6R5iSM3gh3vo_fKJkVUl-klmSA.jpeg?width=640&crop=smart&auto=webp&s=ce8bfa858b53e06448defeb99decc0750f0cc3b9",
         "published": "2026-07-07T16:59:14+00:00"
+    },
+    {
+        "title": "The $10 Billion Takeover That Could Turn the Auto Parts Business Upside Down, Explained",
+        "link": "https://www.reddit.com/r/technology/comments/1upto89/the_10_billion_takeover_that_could_turn_the_auto/",
+        "image": "https://external-preview.redd.it/rphIaNgq3SJMEf14k4rI-0ExSfGY9IY3aHe0kbJ9RmQ.jpeg?width=640&crop=smart&auto=webp&s=e248d6e08ffbc880c0b0acf4499c3c447e18322b",
+        "published": "2026-07-07T12:30:13+00:00"
     }
 ]
