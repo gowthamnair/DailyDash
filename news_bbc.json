@@ -6,12 +6,6 @@
         "published": "Thu, 09 Jul 2026 23:18:18 GMT"
     },
     {
-        "title": "Twelve die in Spain wildfire as heatwave continues in southern Europe",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg",
-        "published": "Fri, 10 Jul 2026 02:44:18 GMT"
-    },
-    {
         "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
         "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
@@ -20,8 +14,14 @@
     {
         "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
         "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52c1/live/a90ff130-7bd9-11f1-a606-4508f5fb0e83.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e46/live/e87e0be0-7c3d-11f1-b976-0b9c15b0ccfc.jpg",
         "published": "Thu, 09 Jul 2026 21:04:09 GMT"
+    },
+    {
+        "title": "China lands reusable rocket for first time, state media says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd8f/live/aa804310-7c26-11f1-b3bb-a3d4161295ad.png",
+        "published": "Fri, 10 Jul 2026 06:44:21 GMT"
     },
     {
         "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
@@ -34,12 +34,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10e5/live/1177ac50-7ba2-11f1-bee8-53ce494e1abc.png",
         "published": "Thu, 09 Jul 2026 14:41:54 GMT"
-    },
-    {
-        "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-        "link": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed61/live/dd1b5570-7b8c-11f1-bee8-53ce494e1abc.jpg",
-        "published": "Thu, 09 Jul 2026 11:09:17 GMT"
     },
     {
         "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
@@ -88,5 +82,11 @@
         "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b9c/live/d6af33b0-7a73-11f1-b49c-fd67f645cd09.jpg",
         "published": "Wed, 08 Jul 2026 05:57:53 GMT"
+    },
+    {
+        "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
+        "link": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e550/live/c855cdd0-7b07-11f1-bf09-5b099a6fa87f.jpg",
+        "published": "Wed, 08 Jul 2026 20:58:21 GMT"
     }
 ]
