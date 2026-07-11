@@ -1,11 +1,5 @@
 [
     {
-        "title": "Mayor Mamdani Announces Landmark \"Click-To-Cancel\" Consumer Protection Rules to Ban Subscription Traps and Junk Fees",
-        "link": "https://www.reddit.com/r/technology/comments/1usvizz/mayor_mamdani_announces_landmark_clicktocancel/",
-        "image": "https://external-preview.redd.it/CJX6nbHwFnBTygacE0z4wPNlUde1q6CEpTn_KShFe2M.jpeg?width=640&crop=smart&auto=webp&s=c3a311a77151a7fc7a111bc8394756b1e4989784",
-        "published": "2026-07-10T18:13:33+00:00"
-    },
-    {
         "title": "State Senator Pockets Massive Real Estate Fee From a $30M Data Center Land Sale, Then Introduces Bill to Fast-Track Development",
         "link": "https://www.reddit.com/r/technology/comments/1uswpgz/state_senator_pockets_massive_real_estate_fee/",
         "image": "https://external-preview.redd.it/IGjxiJUujHTX2R1M7jkSZfCfE2m4i7Eak8a8Bdt9kuI.jpeg?width=640&crop=smart&auto=webp&s=0163b80a9d528ea5af41659d562e2cf9cb9580a9",
@@ -18,16 +12,16 @@
         "published": "2026-07-11T10:25:10+00:00"
     },
     {
-        "title": "Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there",
-        "link": "https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/",
-        "image": "https://external-preview.redd.it/Y7NWI6hpG4JZZ4qGh2kqR3w8iW49wgGoQ8UXjxrBFkA.jpeg?width=640&crop=smart&auto=webp&s=944241950f3a42d65345330ca70f2df797fc8157",
-        "published": "2026-07-11T12:52:39+00:00"
-    },
-    {
         "title": "Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games \u2014 tech giant ordered to restore Xbox account with all games and pay $400 in damages",
         "link": "https://www.reddit.com/r/technology/comments/1utm9nv/microsoft_loses_brazilian_court_case_after/",
         "image": "https://external-preview.redd.it/Stck-X3QbAJibg2YbB8VH-_otwJf-7Y4KVeUES9Y06g.png?width=640&crop=smart&auto=webp&s=bac1506071cffe384388ef1b98b96cc0d3409137",
         "published": "2026-07-11T14:56:03+00:00"
+    },
+    {
+        "title": "Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there",
+        "link": "https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/",
+        "image": "https://external-preview.redd.it/Y7NWI6hpG4JZZ4qGh2kqR3w8iW49wgGoQ8UXjxrBFkA.jpeg?width=640&crop=smart&auto=webp&s=944241950f3a42d65345330ca70f2df797fc8157",
+        "published": "2026-07-11T12:52:39+00:00"
     },
     {
         "title": "Tech bros puzzled by why AI hasn\u2019t \u201cmassively disrupted\u201d books yet \u2014 The answer, as some pointed out in r/singularity, has to do with LLMs\u2019 lack of an ability to concentrate",
@@ -48,16 +42,16 @@
         "published": "2026-07-11T10:57:23+00:00"
     },
     {
-        "title": "People on X Are Getting Fooled by the Dumbest AI Slop We\u2019ve Ever Seen",
-        "link": "https://www.reddit.com/r/technology/comments/1ut3kmk/people_on_x_are_getting_fooled_by_the_dumbest_ai/",
-        "image": "https://external-preview.redd.it/W80BrDWCxl6MNu5i_CF0KfoQTCeHwqYfMxsONlKP1GM.jpeg?width=640&crop=smart&auto=webp&s=2e41e018e37c6834d7b82cc20c350df2b9400372",
-        "published": "2026-07-10T23:20:29+00:00"
-    },
-    {
         "title": "EA Removes College Football 27 Microtransactions After Player Boycott",
         "link": "https://www.reddit.com/r/technology/comments/1utjp4x/ea_removes_college_football_27_microtransactions/",
         "image": "https://external-preview.redd.it/4Neo14hyZsWYG5ZIvfFld6KRTOLzDcS92iPk9sgPsIY.jpeg?width=640&crop=smart&auto=webp&s=9188c5ad4de121c797135b2840aeb6a9b9ea6702",
         "published": "2026-07-11T13:08:34+00:00"
+    },
+    {
+        "title": "People on X Are Getting Fooled by the Dumbest AI Slop We\u2019ve Ever Seen",
+        "link": "https://www.reddit.com/r/technology/comments/1ut3kmk/people_on_x_are_getting_fooled_by_the_dumbest_ai/",
+        "image": "https://external-preview.redd.it/W80BrDWCxl6MNu5i_CF0KfoQTCeHwqYfMxsONlKP1GM.jpeg?width=640&crop=smart&auto=webp&s=2e41e018e37c6834d7b82cc20c350df2b9400372",
+        "published": "2026-07-10T23:20:29+00:00"
     },
     {
         "title": "FCC General Counsel Channels Founding Fathers To Falsely Claim First Amendment Allows Banning Porn",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1ut4drr/flock_cameras_coming_down_in_westland/",
         "image": "https://external-preview.redd.it/c4x1FpfczQ8KDGqKpIEyAMyQTZBlI5Ealt_cwQLKsbE.jpeg?width=640&crop=smart&auto=webp&s=95ad6996ece44732bc4d2e0c6ef6bd669c29f9a3",
         "published": "2026-07-10T23:54:56+00:00"
+    },
+    {
+        "title": "AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds",
+        "link": "https://www.reddit.com/r/technology/comments/1utmgpn/ai_fiction_is_easy_to_detect_because_its_stupid/",
+        "image": "https://external-preview.redd.it/GJCtxHbl9CMWypmXH1dH5HCihYUeDEgtTLSjiwylm4o.jpeg?width=640&crop=smart&auto=webp&s=4e93bad074476e588cf03c0b9bd9b1dd7ab930df",
+        "published": "2026-07-11T15:03:44+00:00"
     }
 ]
