@@ -42,12 +42,6 @@
         "published": "2026-07-10T17:21:22+00:00"
     },
     {
-        "title": "FCC approves giant mirror satellite designed to beam sunlight to Earth after dark",
-        "link": "https://www.reddit.com/r/technology/comments/1uspq6x/fcc_approves_giant_mirror_satellite_designed_to/",
-        "image": "https://external-preview.redd.it/zg3h8gwZoF8Tt98HlCS-ShGYwLmts79HWzigtFjqMw0.jpeg?width=640&crop=smart&auto=webp&s=091ed34184944a8985b53aede5f18561df70b3d8",
-        "published": "2026-07-10T14:45:02+00:00"
-    },
-    {
         "title": "Flock Cameras Screw Up, Swarm Innocent Man With Armed Police",
         "link": "https://www.reddit.com/r/technology/comments/1ussa5z/flock_cameras_screw_up_swarm_innocent_man_with/",
         "image": "https://external-preview.redd.it/XzBR80jgdQfTW_rydkTmdN56yPdEaRaHcMP9rJaP3GM.jpeg?width=640&crop=smart&auto=webp&s=c561b7575f4875dd11f5391681fc48283c25be10",
@@ -60,10 +54,22 @@
         "published": "2026-07-11T00:35:36+00:00"
     },
     {
+        "title": "Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there",
+        "link": "https://www.reddit.com/r/technology/comments/1utjcdg/steam_now_has_50_more_users_than_playstation_and/",
+        "image": "https://external-preview.redd.it/Y7NWI6hpG4JZZ4qGh2kqR3w8iW49wgGoQ8UXjxrBFkA.jpeg?width=640&crop=smart&auto=webp&s=944241950f3a42d65345330ca70f2df797fc8157",
+        "published": "2026-07-11T12:52:39+00:00"
+    },
+    {
         "title": "People on X Are Getting Fooled by the Dumbest AI Slop We\u2019ve Ever Seen",
         "link": "https://www.reddit.com/r/technology/comments/1ut3kmk/people_on_x_are_getting_fooled_by_the_dumbest_ai/",
         "image": "https://external-preview.redd.it/W80BrDWCxl6MNu5i_CF0KfoQTCeHwqYfMxsONlKP1GM.jpeg?width=640&crop=smart&auto=webp&s=2e41e018e37c6834d7b82cc20c350df2b9400372",
         "published": "2026-07-10T23:20:29+00:00"
+    },
+    {
+        "title": "Tech bros puzzled by why AI hasn\u2019t \u201cmassively disrupted\u201d books yet \u2014 The answer, as some pointed out in r/singularity, has to do with LLMs\u2019 lack of an ability to concentrate",
+        "link": "https://www.reddit.com/r/technology/comments/1utjvvf/tech_bros_puzzled_by_why_ai_hasnt_massively/",
+        "image": "https://external-preview.redd.it/8zCvRn7BhVEwOefrrBIUVA-IlqCLaULIkBCwOuKAia4.jpeg?width=640&crop=smart&auto=webp&s=2786e83a0d3be43a5f2bac336e57c72aa0f4692a",
+        "published": "2026-07-11T13:17:02+00:00"
     },
     {
         "title": "FCC General Counsel Channels Founding Fathers To Falsely Claim First Amendment Allows Banning Porn",
@@ -72,21 +78,15 @@
         "published": "2026-07-11T02:44:10+00:00"
     },
     {
+        "title": "Microsoft's emissions just jumped 25% because AI datacenters are exploding in size, and dropping renewable credits finally exposed how much power the company is burning to fuel its AI ambitions",
+        "link": "https://www.reddit.com/r/technology/comments/1utgzl0/microsofts_emissions_just_jumped_25_because_ai/",
+        "image": "https://external-preview.redd.it/Hyd2WRYFN5qwh68y612jhuKrpKj8mVdAOPdACSc9_2A.jpeg?width=640&crop=smart&auto=webp&s=e8657b0965531fd26c24e99de9874964eea1578c",
+        "published": "2026-07-11T10:57:23+00:00"
+    },
+    {
         "title": "Meta removes feature that let users generate AI images from public Instagram posts",
         "link": "https://www.reddit.com/r/technology/comments/1ut2knr/meta_removes_feature_that_let_users_generate_ai/",
         "image": "https://external-preview.redd.it/YdGDpsv0UUDZXX1d0bKB6BLxsxuKa_OxoqdwjcL8UjQ.jpeg?width=640&crop=smart&auto=webp&s=e76f2d5a98611fa1ad1c7d3174d3a813e6ea5929",
         "published": "2026-07-10T22:39:13+00:00"
-    },
-    {
-        "title": "Apple Sues OpenAI, Alleging It Stole Trade Secrets",
-        "link": "https://www.reddit.com/r/technology/comments/1uszdnb/apple_sues_openai_alleging_it_stole_trade_secrets/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-07-10T20:34:53+00:00"
-    },
-    {
-        "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta \u2014 \u201cThese features fuel the user\u2019s urge to keep scrolling and shift the brain into \u2018autopilot mode\u2019\u201d",
-        "link": "https://www.reddit.com/r/technology/comments/1uss4gg/disable_autoplay_and_infinite_scroll_or_risk/",
-        "image": "https://external-preview.redd.it/kjNKq4N1GfKKZmWc7XBGgMXW5a_3HEbveQKok8CBGgY.jpeg?width=640&crop=smart&auto=webp&s=66e7a15a11de608fe3530ff954b460f90657b354",
-        "published": "2026-07-10T16:12:22+00:00"
     }
 ]
