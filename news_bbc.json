@@ -1,9 +1,9 @@
 [
     {
-        "title": "At least 27 killed in Bangkok bar fire, Thai media report",
+        "title": "At least 27 killed in Bangkok bar fire",
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png",
-        "published": "Sun, 12 Jul 2026 19:54:45 GMT"
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51a3/live/23c24750-7e34-11f1-b976-0b9c15b0ccfc.jpg",
+        "published": "Sun, 12 Jul 2026 20:13:14 GMT"
     },
     {
         "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
@@ -14,8 +14,14 @@
     {
         "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
         "published": "Sun, 12 Jul 2026 17:40:34 GMT"
+    },
+    {
+        "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+        "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg",
+        "published": "Sun, 12 Jul 2026 19:42:26 GMT"
     },
     {
         "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -30,12 +36,6 @@
         "published": "Sun, 12 Jul 2026 07:39:45 GMT"
     },
     {
-        "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-        "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
-        "published": "Sun, 12 Jul 2026 16:35:50 GMT"
-    },
-    {
         "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
         "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c5d/live/b0df0c60-7e05-11f1-afb0-9dae682daff3.jpg",
@@ -46,6 +46,12 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
         "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+    },
+    {
+        "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+        "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
+        "published": "Sun, 12 Jul 2026 16:35:50 GMT"
     },
     {
         "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
         "published": "Sat, 11 Jul 2026 16:11:33 GMT"
-    },
-    {
-        "title": "South Africa World Cup midfielder Adams dies aged 25",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
-        "published": "Sat, 11 Jul 2026 14:47:47 GMT"
     }
 ]
