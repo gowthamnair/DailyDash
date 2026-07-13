@@ -1,15 +1,21 @@
 [
     {
-        "title": "Trump reinstating naval blockade of Iranian ports",
+        "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
         "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
-        "published": "Mon, 13 Jul 2026 17:24:55 GMT"
+        "published": "Mon, 13 Jul 2026 20:06:14 GMT"
     },
     {
         "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
         "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/814f/live/dbfc97c0-7ee9-11f1-926f-c90d1bcfbc84.jpg",
         "published": "Mon, 13 Jul 2026 17:31:54 GMT"
+    },
+    {
+        "title": "Hungary parliament votes to remove president from office",
+        "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3314/live/d7e89fb0-7ef5-11f1-bee8-53ce494e1abc.jpg",
+        "published": "Mon, 13 Jul 2026 20:39:14 GMT"
     },
     {
         "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
@@ -24,22 +30,16 @@
         "published": "Mon, 13 Jul 2026 11:52:55 GMT"
     },
     {
-        "title": "Senator Lindsey Graham died of aortic tear, examiner says",
-        "link": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a195/live/c3779220-7e9b-11f1-bff3-4914dc3e2c6b.jpg",
-        "published": "Mon, 13 Jul 2026 10:14:01 GMT"
-    },
-    {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg",
-        "published": "Mon, 13 Jul 2026 10:29:17 GMT"
+        "published": "Mon, 13 Jul 2026 20:15:00 GMT"
     },
     {
-        "title": "Infantino opens door to 64-team World Cup",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg",
-        "published": "Sun, 12 Jul 2026 19:18:56 GMT"
+        "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+        "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bd0/live/138c2e00-7ecf-11f1-9c5a-f7e0cba0ab3f.jpg",
+        "published": "Mon, 13 Jul 2026 20:26:15 GMT"
     },
     {
         "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
@@ -72,6 +72,12 @@
         "published": "Mon, 13 Jul 2026 10:30:51 GMT"
     },
     {
+        "title": "Infantino opens door to 64-team World Cup",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg",
+        "published": "Sun, 12 Jul 2026 19:18:56 GMT"
+    },
+    {
         "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
         "link": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg",
         "published": "Mon, 13 Jul 2026 06:19:49 GMT"
-    },
-    {
-        "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-        "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea8b/live/f2b1e0f0-7e3b-11f1-bc25-ef36095a5e54.jpg",
-        "published": "Sun, 12 Jul 2026 23:41:00 GMT"
     }
 ]
