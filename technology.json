@@ -48,28 +48,16 @@
         "published": "2026-07-13T16:15:06+00:00"
     },
     {
-        "title": "Nearly 200 economists, including 15 Nobel laureates and Anthropic's Jack Clark, sign a letter titled We Must Act Now, warning of rapid AI-led job displacement",
-        "link": "https://www.reddit.com/r/technology/comments/1uv9akn/nearly_200_economists_including_15_nobel/",
-        "image": "https://external-preview.redd.it/HF-imkm8zkykEQ2k5lpn1AD1njBsarea1b-VVKyJTZk.jpeg?width=640&crop=smart&auto=webp&s=98f425e844cea46614b5f552252b5ed6b85859bc",
-        "published": "2026-07-13T11:48:56+00:00"
-    },
-    {
-        "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance | The SFPD\u2019s exposure of hours of videos from drone platform Skydio reveals how broadly it\u2019s watching the city from above\u2014and how the results can spill online",
-        "link": "https://www.reddit.com/r/technology/comments/1uvc6e3/a_leak_of_san_francisco_police_drone_footage/",
-        "image": "https://external-preview.redd.it/MpE3oag-GeBnH1FKzgto7aF-gsH3dMhcv-G1KlfQxOE.jpeg?width=640&crop=smart&auto=webp&s=217336242e205fee9907bd7055a90a1dfe8b3b0e",
-        "published": "2026-07-13T13:51:35+00:00"
-    },
-    {
         "title": "ICE\u2019s Internal Watchdog Is Now Investigating Online Critics",
         "link": "https://www.reddit.com/r/technology/comments/1uvln1w/ices_internal_watchdog_is_now_investigating/",
         "image": "https://external-preview.redd.it/R3D3TF2bBZz3Mh5xa5fxdxV0UgkkiJXbRj68bDFqcZ8.jpeg?width=640&crop=smart&auto=webp&s=c92d6f888e81401598053c22de8abcfe30aba721",
         "published": "2026-07-13T19:31:46+00:00"
     },
     {
-        "title": "LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen",
-        "link": "https://www.reddit.com/r/technology/comments/1uvhwqg/lapd_regularly_pulled_over_innocent_people/",
-        "image": "https://external-preview.redd.it/SxeSdPq0IAttO5iNytJ2ea1NExwi50gRZpYl3NWORUE.png?width=640&crop=smart&auto=webp&s=67eabab8b54244797adbdef34dabdaf57cd72c1e",
-        "published": "2026-07-13T17:20:41+00:00"
+        "title": "Nearly 200 economists, including 15 Nobel laureates and Anthropic's Jack Clark, sign a letter titled We Must Act Now, warning of rapid AI-led job displacement",
+        "link": "https://www.reddit.com/r/technology/comments/1uv9akn/nearly_200_economists_including_15_nobel/",
+        "image": "https://external-preview.redd.it/HF-imkm8zkykEQ2k5lpn1AD1njBsarea1b-VVKyJTZk.jpeg?width=640&crop=smart&auto=webp&s=98f425e844cea46614b5f552252b5ed6b85859bc",
+        "published": "2026-07-13T11:48:56+00:00"
     },
     {
         "title": "Paramount-WBD Combo Is \"Not A Merger That Serves The Public,\" NYC Mayor Zohran Mamdani Says",
@@ -78,15 +66,27 @@
         "published": "2026-07-13T20:47:22+00:00"
     },
     {
-        "title": "LAPD ending deal with company operating license plate-reading cameras",
-        "link": "https://www.reddit.com/r/technology/comments/1uv6rzu/lapd_ending_deal_with_company_operating_license/",
-        "image": "https://external-preview.redd.it/5pXXoGSYFvHbM2bpuS4seL9SbQe-A5oRZfFLSVrNBRw.jpeg?width=640&crop=smart&auto=webp&s=ca6c3c976660537ac68d970f0c7a551aa2178b71",
-        "published": "2026-07-13T09:36:30+00:00"
+        "title": "LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen",
+        "link": "https://www.reddit.com/r/technology/comments/1uvhwqg/lapd_regularly_pulled_over_innocent_people/",
+        "image": "https://external-preview.redd.it/SxeSdPq0IAttO5iNytJ2ea1NExwi50gRZpYl3NWORUE.png?width=640&crop=smart&auto=webp&s=67eabab8b54244797adbdef34dabdaf57cd72c1e",
+        "published": "2026-07-13T17:20:41+00:00"
+    },
+    {
+        "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance | The SFPD\u2019s exposure of hours of videos from drone platform Skydio reveals how broadly it\u2019s watching the city from above\u2014and how the results can spill online",
+        "link": "https://www.reddit.com/r/technology/comments/1uvc6e3/a_leak_of_san_francisco_police_drone_footage/",
+        "image": "https://external-preview.redd.it/MpE3oag-GeBnH1FKzgto7aF-gsH3dMhcv-G1KlfQxOE.jpeg?width=640&crop=smart&auto=webp&s=217336242e205fee9907bd7055a90a1dfe8b3b0e",
+        "published": "2026-07-13T13:51:35+00:00"
     },
     {
         "title": "Mark Cuban says AI risks making US healthcare worse by fueling an arms race with insurers",
         "link": "https://www.reddit.com/r/technology/comments/1uvh5d4/mark_cuban_says_ai_risks_making_us_healthcare/",
         "image": "https://external-preview.redd.it/JE4KaF1ZPELU3TbA6JVBn0_jl2csf2bXaYLbHz_dqh0.jpeg?width=640&crop=smart&auto=webp&s=f322de076fb9aa364f74dc73f8011f8d43f3afce",
         "published": "2026-07-13T16:53:44+00:00"
+    },
+    {
+        "title": "LAPD ending deal with company operating license plate-reading cameras",
+        "link": "https://www.reddit.com/r/technology/comments/1uv6rzu/lapd_ending_deal_with_company_operating_license/",
+        "image": "https://external-preview.redd.it/5pXXoGSYFvHbM2bpuS4seL9SbQe-A5oRZfFLSVrNBRw.jpeg?width=640&crop=smart&auto=webp&s=ca6c3c976660537ac68d970f0c7a551aa2178b71",
+        "published": "2026-07-13T09:36:30+00:00"
     }
 ]
