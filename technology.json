@@ -1,11 +1,5 @@
 [
     {
-        "title": "A majority of Americans now support seizing wealth from AI industry",
-        "link": "https://www.reddit.com/r/technology/comments/1uwbf4d/a_majority_of_americans_now_support_seizing/",
-        "image": "https://external-preview.redd.it/yW6HZoGQf9rYKifhWE65faueMO3lkcUNsJ5YjKiWXw4.jpeg?width=640&crop=smart&auto=webp&s=997417dc65122a06e3a009aebd9771e0fd3047f1",
-        "published": "2026-07-14T15:09:56+00:00"
-    },
-    {
         "title": "Colossus 2 data center installed 59 natural gas turbines without permission, report claims thousands of tons of pollutants reportedly impact Black communities in Mississippi already suffering from elevated lung disease rates",
         "link": "https://www.reddit.com/r/technology/comments/1uwdjja/colossus_2_data_center_installed_59_natural_gas/",
         "image": "https://external-preview.redd.it/4-yydshwsjghCuuhIfpPotcPqfcY4RHV0XomI2GzTDE.png?width=640&crop=smart&auto=webp&s=d8d526a5c913c12cc127bf53066db5fbc8b37254",
@@ -24,10 +18,16 @@
         "published": "2026-07-14T18:17:57+00:00"
     },
     {
-        "title": "Sony's Social Media Still Toxic Two Weeks After PS5 Discs Debacle",
-        "link": "https://www.reddit.com/r/technology/comments/1uwaye6/sonys_social_media_still_toxic_two_weeks_after/",
-        "image": "https://external-preview.redd.it/PRldciuuK5ojsNDlXzciF7rwfzF_PzFrc-0shmagOfE.jpeg?width=640&crop=smart&auto=webp&s=f0e36fb60bd84535512bcf396498a82f0f57d498",
-        "published": "2026-07-14T14:53:04+00:00"
+        "title": "\"There are no benefits to being owned by Microsoft,\" says Doom dev: \"They have destroyed immense amounts of value that I don't even think that they're aware of\"",
+        "link": "https://www.reddit.com/r/technology/comments/1ux52t0/there_are_no_benefits_to_being_owned_by_microsoft/",
+        "image": "https://external-preview.redd.it/TwhyKv0Pg02gM6MzfjQR543bGYI5JsLKjH2wo5cf4xY.jpeg?width=640&crop=smart&auto=webp&s=88e768631b022b5c82fe3fbb91e9440419106db0",
+        "published": "2026-07-15T12:55:34+00:00"
+    },
+    {
+        "title": "Layoffs might offer \"better short-term financial results,\" late Nintendo president Satoru Iwata admitted in 2013, but \"employees who fear that they may be laid off\" will never produce the same results",
+        "link": "https://www.reddit.com/r/technology/comments/1ux0kka/layoffs_might_offer_better_shortterm_financial/",
+        "image": "https://external-preview.redd.it/wuWWWXUd3cGR-YDPSI_qVcjyDJDp37utQzlhe7EGUiA.jpeg?width=640&crop=smart&auto=webp&s=b9e1d044e4e2fead04f23fa4dcddf95cfd68d109",
+        "published": "2026-07-15T09:10:58+00:00"
     },
     {
         "title": "Flock's Surveillance Cameras Face Another Blow as LAPD Won't Renew The Contract",
@@ -42,22 +42,16 @@
         "published": "2026-07-14T21:39:08+00:00"
     },
     {
-        "title": "Sony's attack on physical goods spreads to Crunchyroll as it adds a $14 subscription requirement just to access its store",
-        "link": "https://www.reddit.com/r/technology/comments/1uwncnt/sonys_attack_on_physical_goods_spreads_to/",
-        "image": "https://external-preview.redd.it/atiDPxGu_deV58noB-2cKQCF2GgMJOlA-5UeU7WnVkw.jpeg?width=640&crop=smart&auto=webp&s=aa2d65b7dd0b628f035ef35823305bbb9818ac94",
-        "published": "2026-07-14T22:23:35+00:00"
-    },
-    {
         "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims | Technology",
         "link": "https://www.reddit.com/r/technology/comments/1uws1z7/meta_used_ai_to_tag_workers_who_took_leave_to_be/",
         "image": "https://external-preview.redd.it/sfzZgy-O3kgZObYg5gAKagbgBF_QNW1ooANYHpkqYYE.jpeg?width=640&crop=smart&auto=webp&s=58ae701c75c93f6d1d8727993f8f1007e29fde42",
         "published": "2026-07-15T01:44:32+00:00"
     },
     {
-        "title": "Layoffs might offer \"better short-term financial results,\" late Nintendo president Satoru Iwata admitted in 2013, but \"employees who fear that they may be laid off\" will never produce the same results",
-        "link": "https://www.reddit.com/r/technology/comments/1ux0kka/layoffs_might_offer_better_shortterm_financial/",
-        "image": "https://external-preview.redd.it/wuWWWXUd3cGR-YDPSI_qVcjyDJDp37utQzlhe7EGUiA.jpeg?width=640&crop=smart&auto=webp&s=b9e1d044e4e2fead04f23fa4dcddf95cfd68d109",
-        "published": "2026-07-15T09:10:58+00:00"
+        "title": "Sony's attack on physical goods spreads to Crunchyroll as it adds a $14 subscription requirement just to access its store",
+        "link": "https://www.reddit.com/r/technology/comments/1uwncnt/sonys_attack_on_physical_goods_spreads_to/",
+        "image": "https://external-preview.redd.it/atiDPxGu_deV58noB-2cKQCF2GgMJOlA-5UeU7WnVkw.jpeg?width=640&crop=smart&auto=webp&s=aa2d65b7dd0b628f035ef35823305bbb9818ac94",
+        "published": "2026-07-14T22:23:35+00:00"
     },
     {
         "title": "Shirtless Man Starts Butlerian Jihad Against Waymo In East Hollywood",
@@ -78,15 +72,21 @@
         "published": "2026-07-15T01:01:17+00:00"
     },
     {
-        "title": "Top House progressive warns Democrats to get serious on AI messaging | \u201cWe absolutely cannot let the AI money silence us,\u201d Rep. Greg Casar said in an interview.",
-        "link": "https://www.reddit.com/r/technology/comments/1uw9e6g/top_house_progressive_warns_democrats_to_get/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-07-14T13:54:43+00:00"
+        "title": "Christopher Nolan believes Gen Z will push back against generative AI and its growing influence",
+        "link": "https://www.reddit.com/r/technology/comments/1ux4bw8/christopher_nolan_believes_gen_z_will_push_back/",
+        "image": "https://external-preview.redd.it/GeIKizUoNp2NzAlL_zwY5GM7esiNiYbmZk2PR1ZcINA.jpeg?width=640&crop=smart&auto=webp&s=9bc9f22c9de09d638ea6e90a951a66ef093aed1d",
+        "published": "2026-07-15T12:22:39+00:00"
     },
     {
         "title": "New York becomes first state to halt datacenter buildouts",
         "link": "https://www.reddit.com/r/technology/comments/1uwhmn6/new_york_becomes_first_state_to_halt_datacenter/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-07-14T18:49:34+00:00"
+    },
+    {
+        "title": "Musk\u2019s Starlink Socks Customers With $1500 \u2018High Demand\u2019 Surcharge",
+        "link": "https://www.reddit.com/r/technology/comments/1uwvsim/musks_starlink_socks_customers_with_1500_high/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-15T04:45:09+00:00"
     }
 ]
