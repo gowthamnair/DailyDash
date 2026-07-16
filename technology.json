@@ -42,28 +42,22 @@
         "published": "2026-07-16T09:08:58+00:00"
     },
     {
-        "title": "Smart Glasses Are Getting People Charged With Crimes",
-        "link": "https://www.reddit.com/r/technology/comments/1uxf1vf/smart_glasses_are_getting_people_charged_with/",
-        "image": "https://external-preview.redd.it/CTOOw8j9qIX5o8UA3CQIOmApXckb-gy_I77SD1Qne4g.jpeg?width=640&crop=smart&auto=webp&s=7dc54f2582111d6c223ef71c9f7c1715875eb8b6",
-        "published": "2026-07-15T18:56:03+00:00"
-    },
-    {
         "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
         "link": "https://www.reddit.com/r/technology/comments/1uxwy9z/sheetz_is_quitting_vmware_migrating_11000_virtual/",
         "image": "https://external-preview.redd.it/2NOCK4Ra0kEDiUKpiUwiHSUIMvbDAebXwCOcp6CTExg.jpeg?width=640&crop=smart&auto=webp&s=58f4284ee4d69e6b025d51a1d96ae88391e555ef",
         "published": "2026-07-16T08:34:40+00:00"
     },
     {
-        "title": "Xbox Player Loses Thousands in Digital Games After Microsoft Deletes 25-Year-Old Account",
-        "link": "https://www.reddit.com/r/technology/comments/1uxhf0e/xbox_player_loses_thousands_in_digital_games/",
-        "image": "https://external-preview.redd.it/OQwOsiCPpe-WIRbWiyLu11n6KzzgcgUxUWlG47BFK0s.jpeg?width=640&crop=smart&auto=webp&s=db1d2a8e0bdcfa4fd687a6267c4dfbe7c71fc2cf",
-        "published": "2026-07-15T20:28:29+00:00"
-    },
-    {
         "title": "'Going to be killed': Why world's top AI executives are fearing for their lives",
         "link": "https://www.reddit.com/r/technology/comments/1uy52l0/going_to_be_killed_why_worlds_top_ai_executives/",
         "image": "https://external-preview.redd.it/3e-xdzHXOepn-jDxsY0cLq9ZPxu-JICgT51c7Jgatfc.jpeg?width=640&crop=smart&auto=webp&s=afef7280435d50289dc90e9a8bacbc55af3d2e74",
         "published": "2026-07-16T14:50:54+00:00"
+    },
+    {
+        "title": "Xbox Player Loses Thousands in Digital Games After Microsoft Deletes 25-Year-Old Account",
+        "link": "https://www.reddit.com/r/technology/comments/1uxhf0e/xbox_player_loses_thousands_in_digital_games/",
+        "image": "https://external-preview.redd.it/OQwOsiCPpe-WIRbWiyLu11n6KzzgcgUxUWlG47BFK0s.jpeg?width=640&crop=smart&auto=webp&s=db1d2a8e0bdcfa4fd687a6267c4dfbe7c71fc2cf",
+        "published": "2026-07-15T20:28:29+00:00"
     },
     {
         "title": "Please Stop Making Me Opt Out of AI",
@@ -78,15 +72,21 @@
         "published": "2026-07-16T14:07:07+00:00"
     },
     {
-        "title": "Microsoft deleted a hacked user's 25-year-old Xbox account, along with his OneDrive baby photos",
-        "link": "https://www.reddit.com/r/technology/comments/1uxfjko/microsoft_deleted_a_hacked_users_25yearold_xbox/",
-        "image": "https://external-preview.redd.it/Fcc78YILwEjlDJz4W7ZO0DFbovdV61gJMcGHAMOaCis.jpeg?width=640&crop=smart&auto=webp&s=9aa792754a978b927fe53ddbaa7e99f1d879dad2",
-        "published": "2026-07-15T19:14:55+00:00"
+        "title": "Ex-PlayStation boss explains why digital games won\u2019t be cheaper even when discs end",
+        "link": "https://www.reddit.com/r/technology/comments/1uxzcb5/explaystation_boss_explains_why_digital_games/",
+        "image": "https://external-preview.redd.it/ZTXL9jtftU-Qj2XvaiSqhCgOHoWsuYU76xqcsr9TDHE.jpeg?width=640&crop=smart&auto=webp&s=d56498a56f55281cec0930dcf2e2f62553dbe826",
+        "published": "2026-07-16T10:48:30+00:00"
     },
     {
         "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" & Not A \"Social Warrior\" Project",
         "link": "https://www.reddit.com/r/technology/comments/1uxigan/linus_torvalds_reaffirms_that_linux_is_not_antiai/",
         "image": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd",
         "published": "2026-07-15T21:10:40+00:00"
+    },
+    {
+        "title": "What happened to Omegle? The rise and fall of the internet's favorite stranger danger",
+        "link": "https://www.reddit.com/r/technology/comments/1uxnb0u/what_happened_to_omegle_the_rise_and_fall_of_the/",
+        "image": "https://external-preview.redd.it/_gSAmMF-RRPHeeQbDBKH0YyLxFlsqenCrnIDwi_rgnI.png?width=640&crop=smart&auto=webp&s=ae7b40aafbb4e117f60279efa52cfdaa564012a4",
+        "published": "2026-07-16T00:21:13+00:00"
     }
 ]
