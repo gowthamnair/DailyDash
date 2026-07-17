@@ -6,16 +6,16 @@
         "published": "2026-07-16T06:05:05+00:00"
     },
     {
-        "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-        "link": "https://www.reddit.com/r/technology/comments/1uxzpaj/tesla_driver_in_fatal_texas_crash_pressed/",
-        "image": "https://external-preview.redd.it/RO9gmUD-9D_R2EQ1XoVC4uJTxXTXaysHBvNbKJiuYfI.jpeg?width=640&crop=smart&auto=webp&s=47836dbdb16e95b8ad21f73aea84a2c787ff4aa0",
-        "published": "2026-07-16T11:06:52+00:00"
-    },
-    {
         "title": "Mamdani is targeting deceptive AI-made apartment listings",
         "link": "https://www.reddit.com/r/technology/comments/1uybxvi/mamdani_is_targeting_deceptive_aimade_apartment/",
         "image": "https://external-preview.redd.it/_CiJs51Ltjdy_sf_zf4FgEglQ8aaSsuUOx0JDfDO-f8.jpeg?width=640&crop=smart&auto=webp&s=638b14fa318392d0137b93bcf9f73cdfa13d54fd",
         "published": "2026-07-16T18:59:05+00:00"
+    },
+    {
+        "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+        "link": "https://www.reddit.com/r/technology/comments/1uxzpaj/tesla_driver_in_fatal_texas_crash_pressed/",
+        "image": "https://external-preview.redd.it/RO9gmUD-9D_R2EQ1XoVC4uJTxXTXaysHBvNbKJiuYfI.jpeg?width=640&crop=smart&auto=webp&s=47836dbdb16e95b8ad21f73aea84a2c787ff4aa0",
+        "published": "2026-07-16T11:06:52+00:00"
     },
     {
         "title": "The AI Backlash Has Tech Executives Fearing for Their Lives",
@@ -36,10 +36,28 @@
         "published": "2026-07-16T14:50:54+00:00"
     },
     {
+        "title": "Microsoft Restores Player's 25-Year-Old Account With Son's Baby Photos After Nuking It Due to Hacker",
+        "link": "https://www.reddit.com/r/technology/comments/1uyi03r/microsoft_restores_players_25yearold_account_with/",
+        "image": "https://external-preview.redd.it/YC10mMErnfVN7bAK5lMhm8Sokoc975SYUZS7unJgT1Q.jpeg?width=640&crop=smart&auto=webp&s=21ec695957cfd5f10fe6a8826e2540c7ef684ab3",
+        "published": "2026-07-16T22:48:00+00:00"
+    },
+    {
         "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
         "link": "https://www.reddit.com/r/technology/comments/1uxwy9z/sheetz_is_quitting_vmware_migrating_11000_virtual/",
         "image": "https://external-preview.redd.it/2NOCK4Ra0kEDiUKpiUwiHSUIMvbDAebXwCOcp6CTExg.jpeg?width=640&crop=smart&auto=webp&s=58f4284ee4d69e6b025d51a1d96ae88391e555ef",
         "published": "2026-07-16T08:34:40+00:00"
+    },
+    {
+        "title": "GameStop CEO Says Games Are \"Irrelevant\" to Company Revenue",
+        "link": "https://www.reddit.com/r/technology/comments/1uyfiqb/gamestop_ceo_says_games_are_irrelevant_to_company/",
+        "image": "https://external-preview.redd.it/DGPR7yhdiSXvE7Zy_NIfgMGCxjJBxfigKF54X2EzLZ4.jpeg?width=640&crop=smart&auto=webp&s=0cae7cb29e116f2b722ab0d34b5ca64229da5683",
+        "published": "2026-07-16T21:13:38+00:00"
+    },
+    {
+        "title": "\u2018I couldn\u2019t stop crying\u2019: Ontario woman loses $83,000 after watching AI deepfake videos",
+        "link": "https://www.reddit.com/r/technology/comments/1uy9xn7/i_couldnt_stop_crying_ontario_woman_loses_83000/",
+        "image": "https://external-preview.redd.it/OQ8UsY7RxAUMCvFSIsd8Oq02BzpnbZsBpmN03xeRC9c.jpeg?width=640&crop=smart&auto=webp&s=98b29a30c875c0dda43e2faa14f12efc2d61658e",
+        "published": "2026-07-16T17:46:42+00:00"
     },
     {
         "title": "Americans are angry about data centers. Politicians are feeling the pressure",
@@ -54,24 +72,6 @@
         "published": "2026-07-16T12:08:36+00:00"
     },
     {
-        "title": "\u2018I couldn\u2019t stop crying\u2019: Ontario woman loses $83,000 after watching AI deepfake videos",
-        "link": "https://www.reddit.com/r/technology/comments/1uy9xn7/i_couldnt_stop_crying_ontario_woman_loses_83000/",
-        "image": "https://external-preview.redd.it/OQ8UsY7RxAUMCvFSIsd8Oq02BzpnbZsBpmN03xeRC9c.jpeg?width=640&crop=smart&auto=webp&s=98b29a30c875c0dda43e2faa14f12efc2d61658e",
-        "published": "2026-07-16T17:46:42+00:00"
-    },
-    {
-        "title": "GameStop CEO Says Games Are \"Irrelevant\" to Company Revenue",
-        "link": "https://www.reddit.com/r/technology/comments/1uyfiqb/gamestop_ceo_says_games_are_irrelevant_to_company/",
-        "image": "https://external-preview.redd.it/DGPR7yhdiSXvE7Zy_NIfgMGCxjJBxfigKF54X2EzLZ4.jpeg?width=640&crop=smart&auto=webp&s=0cae7cb29e116f2b722ab0d34b5ca64229da5683",
-        "published": "2026-07-16T21:13:38+00:00"
-    },
-    {
-        "title": "Microsoft Restores Player's 25-Year-Old Account With Son's Baby Photos After Nuking It Due to Hacker",
-        "link": "https://www.reddit.com/r/technology/comments/1uyi03r/microsoft_restores_players_25yearold_account_with/",
-        "image": "https://external-preview.redd.it/YC10mMErnfVN7bAK5lMhm8Sokoc975SYUZS7unJgT1Q.jpeg?width=640&crop=smart&auto=webp&s=21ec695957cfd5f10fe6a8826e2540c7ef684ab3",
-        "published": "2026-07-16T22:48:00+00:00"
-    },
-    {
         "title": "The KIDS Act Is Just as Unconstitutional as KOSA ... Just in Different Words",
         "link": "https://www.reddit.com/r/technology/comments/1uyahlw/the_kids_act_is_just_as_unconstitutional_as_kosa/",
         "image": "https://external-preview.redd.it/dscUSR2G241D-y21F-xT3Ig8oD4U7kuSYNOxOpWNz_U.jpeg?width=640&crop=smart&auto=webp&s=1067dd643c60067fe0f8f88561c461cb5b674144",
@@ -84,9 +84,9 @@
         "published": "2026-07-16T14:59:51+00:00"
     },
     {
-        "title": "Ex-PlayStation boss explains why digital games won\u2019t be cheaper even when discs end",
-        "link": "https://www.reddit.com/r/technology/comments/1uxzcb5/explaystation_boss_explains_why_digital_games/",
-        "image": "https://external-preview.redd.it/ZTXL9jtftU-Qj2XvaiSqhCgOHoWsuYU76xqcsr9TDHE.jpeg?width=640&crop=smart&auto=webp&s=d56498a56f55281cec0930dcf2e2f62553dbe826",
-        "published": "2026-07-16T10:48:30+00:00"
+        "title": "Korea's molten salt nuclear-powered container ship design wins US approval",
+        "link": "https://www.reddit.com/r/technology/comments/1uycyr4/koreas_molten_salt_nuclearpowered_container_ship/",
+        "image": "https://external-preview.redd.it/VEeniZf9k8zOEOiPQ3F86FLUJGB2qlepOCGQJ8xHwl8.png?width=640&crop=smart&auto=webp&s=b36ffc979ccc81f7ea255becd25d973c1f3dbb74",
+        "published": "2026-07-16T19:36:57+00:00"
     }
 ]
