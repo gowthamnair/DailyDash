@@ -6,16 +6,16 @@
         "published": "2026-07-17T17:53:51+00:00"
     },
     {
-        "title": "Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video",
-        "link": "https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/",
-        "image": "https://external-preview.redd.it/9TcXg7Wd_3w5I4ZszOto2gVG3XgFPD-c5PgZ7O6iZlA.jpeg?width=640&crop=smart&auto=webp&s=1f640e6c048a8cc1e12299b6bf1e591dff62a06a",
-        "published": "2026-07-17T17:16:27+00:00"
-    },
-    {
         "title": "Kevin O\u2019Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation",
         "link": "https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/",
         "image": "https://external-preview.redd.it/oc6zne9lBv6buMiGlYxsRIESyrlFwXIbkbrPfhcZ30g.jpeg?width=640&crop=smart&auto=webp&s=622264d4445be59d86b56e96a21961d487ba1b28",
         "published": "2026-07-17T19:55:07+00:00"
+    },
+    {
+        "title": "Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video",
+        "link": "https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/",
+        "image": "https://external-preview.redd.it/9TcXg7Wd_3w5I4ZszOto2gVG3XgFPD-c5PgZ7O6iZlA.jpeg?width=640&crop=smart&auto=webp&s=1f640e6c048a8cc1e12299b6bf1e591dff62a06a",
+        "published": "2026-07-17T17:16:27+00:00"
     },
     {
         "title": "US president says ABC and NBC should lose broadcast licenses because they didn\u2019t carry his primetime address on election claims",
@@ -54,12 +54,6 @@
         "published": "2026-07-17T13:35:50+00:00"
     },
     {
-        "title": "SpaceX stock falls further after Starship rocket test aborted at last second",
-        "link": "https://www.reddit.com/r/technology/comments/1uyy0o5/spacex_stock_falls_further_after_starship_rocket/",
-        "image": "https://external-preview.redd.it/IoqIfN7vTnapqnsl2JUqthkjvNilXn6Wh6I3SCtRMs0.jpeg?width=216&crop=smart&auto=webp&s=29a2f84d4f0a44c9d5fa3c8e17c022b4bb12d9cb",
-        "published": "2026-07-17T12:15:29+00:00"
-    },
-    {
         "title": "ICE to Pay Thomson Reuters $125 Million to Find \"Voter Fraud\" | A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls \u201cvoters fraud.\u201d",
         "link": "https://www.reddit.com/r/technology/comments/1uz73i2/ice_to_pay_thomson_reuters_125_million_to_find/",
         "image": "https://external-preview.redd.it/0hpjoLOQACjg8mdiKAiTizm1r1CePTdaMtENnIzI3lQ.png?width=640&crop=smart&auto=webp&s=cc01e6a9f7530a5058edcaa8120020dad53d53d6",
@@ -72,16 +66,22 @@
         "published": "2026-07-18T00:33:18+00:00"
     },
     {
-        "title": "With a $15 billion net worth, Palantir CEO Alex Karp predicts he will get 20x richer from AI\u2014but that middle-class workers will get just modest raises | Fortune",
-        "link": "https://www.reddit.com/r/technology/comments/1uzb3et/with_a_15_billion_net_worth_palantir_ceo_alex/",
-        "image": "https://external-preview.redd.it/3y5RkYrmonm6BfrTNA3RlWj7ANqKv9YLYk_InhksGRc.jpeg?width=640&crop=smart&auto=webp&s=1d6c6973ac1eeed84cc46530d62517ad56fded1b",
-        "published": "2026-07-17T20:23:27+00:00"
+        "title": "SpaceX stock falls further after Starship rocket test aborted at last second",
+        "link": "https://www.reddit.com/r/technology/comments/1uyy0o5/spacex_stock_falls_further_after_starship_rocket/",
+        "image": "https://external-preview.redd.it/IoqIfN7vTnapqnsl2JUqthkjvNilXn6Wh6I3SCtRMs0.jpeg?width=216&crop=smart&auto=webp&s=29a2f84d4f0a44c9d5fa3c8e17c022b4bb12d9cb",
+        "published": "2026-07-17T12:15:29+00:00"
     },
     {
         "title": "US president promoted companies on Truth Social days after buying their stocks",
         "link": "https://www.reddit.com/r/technology/comments/1uzjy8s/us_president_promoted_companies_on_truth_social/",
         "image": "https://external-preview.redd.it/h-qdAylt4GGHJX2yJu5K45gj0XIxAPZlsTYRNsoDo8E.jpeg?width=640&crop=smart&auto=webp&s=be729443652c46c991faf01517eca6f66f79f016",
         "published": "2026-07-18T02:47:59+00:00"
+    },
+    {
+        "title": "With a $15 billion net worth, Palantir CEO Alex Karp predicts he will get 20x richer from AI\u2014but that middle-class workers will get just modest raises | Fortune",
+        "link": "https://www.reddit.com/r/technology/comments/1uzb3et/with_a_15_billion_net_worth_palantir_ceo_alex/",
+        "image": "https://external-preview.redd.it/3y5RkYrmonm6BfrTNA3RlWj7ANqKv9YLYk_InhksGRc.jpeg?width=640&crop=smart&auto=webp&s=1d6c6973ac1eeed84cc46530d62517ad56fded1b",
+        "published": "2026-07-17T20:23:27+00:00"
     },
     {
         "title": "Poland bans \u201ctrash streams\u201d with prison sentences for streamers who profit from violence & humiliation",
