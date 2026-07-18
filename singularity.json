@@ -1,15 +1,15 @@
 [
     {
-        "title": "White House launches \u201cGold Eagle,\u201d moving to control frontier AI releases and decide who can access new models",
-        "link": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
-        "image": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b",
-        "published": "2026-07-17T23:29:26+00:00"
-    },
-    {
         "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
         "link": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
         "image": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556",
         "published": "2026-07-18T16:15:16+00:00"
+    },
+    {
+        "title": "White House launches \u201cGold Eagle,\u201d moving to control frontier AI releases and decide who can access new models",
+        "link": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
+        "image": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b",
+        "published": "2026-07-17T23:29:26+00:00"
     },
     {
         "title": "Claude on X: \"Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to\" / X",
@@ -22,12 +22,6 @@
         "link": "https://www.reddit.com/r/singularity/comments/1uzgruf/the_uschina_ai_race_in_frontend_coding/",
         "image": "https://preview.redd.it/rwsf16cjsvdh1.jpeg?width=640&crop=smart&auto=webp&s=6cf08e37ca4d6f408e9f57e68d59dc310863238f",
         "published": "2026-07-18T00:17:12+00:00"
-    },
-    {
-        "title": "GPT-5.6 Sol outperforms Mythos 5 on AISI\u2019s cyber challenge",
-        "link": "https://www.reddit.com/r/singularity/comments/1uz91nn/gpt56_sol_outperforms_mythos_5_on_aisis_cyber/",
-        "image": "https://preview.redd.it/t2qjbl0v7udh1.jpeg?width=640&crop=smart&auto=webp&s=80b9a4dde7cde1343cdf544c27dcac51514d75ac",
-        "published": "2026-07-17T19:07:28+00:00"
     },
     {
         "title": "Bloomberg (feat 9to5): Gemini 3.5 Pro delays due to coding performance, upgraded Flash model in testing",
@@ -48,22 +42,28 @@
         "published": "2026-07-18T06:00:16+00:00"
     },
     {
+        "title": "Just to be clear, owning the hardware isn\u2019t easy either!",
+        "link": "https://www.reddit.com/r/singularity/comments/1v03lhb/just_to_be_clear_owning_the_hardware_isnt_easy/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-18T18:33:56+00:00"
+    },
+    {
         "title": "Wall Street rewards a focused AI agenda with light capital spending as Apple surpasses Nvidia to once again become the worlds biggest company",
         "link": "https://www.reddit.com/r/singularity/comments/1uzi169/wall_street_rewards_a_focused_ai_agenda_with/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-07-18T01:15:38+00:00"
     },
     {
-        "title": "I'm from the UK and I was having a back and forth with Fable about humour, comedy and satire (Binface) and the role each plays. I gave Claude the world mic...",
-        "link": "https://www.reddit.com/r/singularity/comments/1uzf99z/im_from_the_uk_and_i_was_having_a_back_and_forth/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-07-17T23:11:12+00:00"
-    },
-    {
         "title": "A very refreshing debate with Demis Hassabis",
         "link": "https://www.reddit.com/r/singularity/comments/1uzxrs3/a_very_refreshing_debate_with_demis_hassabis/",
         "image": "https://external-preview.redd.it/UXd-UZRMN4f_JfR_ZB-RtzKGMS3aKfM6d7fFMz_RK0w.jpeg?width=320&crop=smart&auto=webp&s=34bb221fa183526d7fa80dd4736286bc41e07178",
         "published": "2026-07-18T14:44:48+00:00"
+    },
+    {
+        "title": "I'm from the UK and I was having a back and forth with Fable about humour, comedy and satire (Binface) and the role each plays. I gave Claude the world mic...",
+        "link": "https://www.reddit.com/r/singularity/comments/1uzf99z/im_from_the_uk_and_i_was_having_a_back_and_forth/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-17T23:11:12+00:00"
     },
     {
         "title": "AI race splits in two as China wages open-weight insurgency [Axios]",
@@ -76,5 +76,11 @@
         "link": "https://www.reddit.com/r/singularity/comments/1uzytky/this_opensource_ai_canvas_keeps_the_entire/",
         "image": "https://external-preview.redd.it/FrJNMG04w3n7GBCuPJ0GbbvLzXbkwgVAowNy-Bn-vHE.png?width=640&crop=smart&auto=webp&s=496ba181feec63f065609758059414e62e50e800",
         "published": "2026-07-18T15:27:03+00:00"
+    },
+    {
+        "title": "So what? Everyone is going to use Kimi now?",
+        "link": "https://www.reddit.com/r/singularity/comments/1v05fra/so_what_everyone_is_going_to_use_kimi_now/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-18T19:46:42+00:00"
     }
 ]
