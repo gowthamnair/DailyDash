@@ -12,34 +12,22 @@
         "published": "Wed, 22 Jul 2026 10:15:03 GMT"
     },
     {
+        "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+        "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/116e/live/d8585fa0-85d3-11f1-b976-0b9c15b0ccfc.jpg",
+        "published": "Wed, 22 Jul 2026 15:19:48 GMT"
+    },
+    {
+        "title": "Tankers make sharp U-turns after Houthi shipping threat",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88e8/live/95f90c40-85ce-11f1-b976-0b9c15b0ccfc.png",
+        "published": "Wed, 22 Jul 2026 14:42:49 GMT"
+    },
+    {
         "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
         "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg",
         "published": "Wed, 22 Jul 2026 14:52:25 GMT"
-    },
-    {
-        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-        "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
-        "published": "Wed, 22 Jul 2026 05:37:43 GMT"
-    },
-    {
-        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-        "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
-        "published": "Wed, 22 Jul 2026 02:15:05 GMT"
-    },
-    {
-        "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-        "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb5f/live/ef78f7e0-85a0-11f1-bee8-53ce494e1abc.jpg",
-        "published": "Wed, 22 Jul 2026 08:02:04 GMT"
-    },
-    {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
-        "published": "Wed, 22 Jul 2026 14:54:27 GMT"
     },
     {
         "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
@@ -48,16 +36,46 @@
         "published": "Wed, 22 Jul 2026 14:14:16 GMT"
     },
     {
+        "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54fb/live/2c63c4e0-85ca-11f1-926f-c90d1bcfbc84.png",
+        "published": "Wed, 22 Jul 2026 15:50:17 GMT"
+    },
+    {
+        "title": "French police formally investigate woman over 2025 killing of Briton",
+        "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35aa/live/922bad20-26d9-11f0-85de-91766b10dcb6.jpg",
+        "published": "Wed, 22 Jul 2026 15:59:03 GMT"
+    },
+    {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
+        "published": "Wed, 22 Jul 2026 14:54:27 GMT"
+    },
+    {
+        "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb5f/live/ef78f7e0-85a0-11f1-bee8-53ce494e1abc.jpg",
+        "published": "Wed, 22 Jul 2026 08:02:04 GMT"
+    },
+    {
         "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
         "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5803/live/7ce1c600-85b2-11f1-bee8-53ce494e1abc.jpg",
         "published": "Wed, 22 Jul 2026 12:32:13 GMT"
     },
     {
-        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-        "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg",
-        "published": "Tue, 21 Jul 2026 22:26:19 GMT"
+        "title": "Mysterious white foam draws crowds on  Nigerian highway",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2636/live/f8e6b960-85d3-11f1-ab29-01af26e68f77.jpg",
+        "published": "Wed, 22 Jul 2026 14:47:32 GMT"
+    },
+    {
+        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+        "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
+        "published": "Wed, 22 Jul 2026 02:15:05 GMT"
     },
     {
         "title": "France passes law banning under-15s from social media",
@@ -66,27 +84,9 @@
         "published": "Wed, 22 Jul 2026 03:50:55 GMT"
     },
     {
-        "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
-        "link": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc8a/live/d822f230-859b-11f1-95ab-5d94529b7f34.jpg",
-        "published": "Wed, 22 Jul 2026 11:32:11 GMT"
-    },
-    {
-        "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-        "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b2a/live/c37aad90-8579-11f1-8811-6b329a8b70ce.jpg",
-        "published": "Wed, 22 Jul 2026 03:32:56 GMT"
-    },
-    {
-        "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-        "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f675/live/0c1cb720-4a9f-11f1-859d-cdc2d74f1ea0.jpg",
-        "published": "Wed, 22 Jul 2026 05:33:04 GMT"
-    },
-    {
-        "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5310/live/31c9bd90-85ac-11f1-a300-4537eea2be58.jpg",
-        "published": "Wed, 22 Jul 2026 02:33:11 GMT"
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+        "published": "Wed, 22 Jul 2026 05:37:43 GMT"
     }
 ]
