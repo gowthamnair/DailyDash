@@ -12,12 +12,6 @@
         "published": "2026-07-22T19:00:20+00:00"
     },
     {
-        "title": "Flock \u2018Objects to Our Removing Their Equipment\u2019: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
-        "link": "https://www.reddit.com/r/technology/comments/1v3h6zz/flock_objects_to_our_removing_their_equipment/",
-        "image": "https://external-preview.redd.it/HazkKCEH78-tK3e7rjiXAo9bK6jfFbsUMTaUMAcYbzE.png?width=640&crop=smart&auto=webp&s=ec581707d0ac9923d1cbc28cefb18882f63d34ca",
-        "published": "2026-07-22T14:06:56+00:00"
-    },
-    {
         "title": "Five Tech Giants Are Using Enron\u2019s Accounting Strategy to Conceal $1.65 Trillion in AI Debt",
         "link": "https://www.reddit.com/r/technology/comments/1v3lptg/five_tech_giants_are_using_enrons_accounting/",
         "image": "https://external-preview.redd.it/I5XHIzcbrY_zNFou7BOsr4C94Ux2gf5vgvgKNzrFvAg.jpeg?width=640&crop=smart&auto=webp&s=933d7057440cee2047acd862287052b5d68e4184",
@@ -48,10 +42,10 @@
         "published": "2026-07-22T23:46:08+00:00"
     },
     {
-        "title": "Reddit and major publishers consider blocking Google as AI search continues destroying web traffic",
-        "link": "https://www.reddit.com/r/technology/comments/1v3i7kd/reddit_and_major_publishers_consider_blocking/",
-        "image": "https://external-preview.redd.it/XIy8_x5R0JXGEW3zfE4ma0ef2CwaNGfMAvwnMguhk8E.jpeg?width=640&crop=smart&auto=webp&s=eee46a1a8cdf5c8b35b70d4a90509fafa9e019ca",
-        "published": "2026-07-22T14:44:54+00:00"
+        "title": "You Should Get to Own Your Media, Not Rent it Forever",
+        "link": "https://www.reddit.com/r/technology/comments/1v48qgv/you_should_get_to_own_your_media_not_rent_it/",
+        "image": "https://external-preview.redd.it/8oQG8CVoIiIQcuQka2xqwYYNF6R_2ZmrkdCiCpueV1E.jpeg?width=640&crop=smart&auto=webp&s=812490fb86d42185224452fcec5582a895ab939f",
+        "published": "2026-07-23T09:21:03+00:00"
     },
     {
         "title": "Reddit stock drops 9% as Google AI content deal nears expiration",
@@ -60,16 +54,10 @@
         "published": "2026-07-22T17:51:26+00:00"
     },
     {
-        "title": "GM is quietly becoming a subscriptions company",
-        "link": "https://www.reddit.com/r/technology/comments/1v3k3h0/gm_is_quietly_becoming_a_subscriptions_company/",
-        "image": "https://external-preview.redd.it/S6Ceme6__oJkPMQGCqGtgGi_0-2YFyBCq_UZYMa8wFw.jpeg?width=640&crop=smart&auto=webp&s=61f2e3b5c825d183ce6522849231c3a920f734c5",
-        "published": "2026-07-22T15:51:59+00:00"
-    },
-    {
-        "title": "When Employees Are Held Accountable for AI-Generated Decisions | Organizations are rushing to embed AI into core decisions, but frontline workers are left to explain outputs they neither created nor fully understand.",
-        "link": "https://www.reddit.com/r/technology/comments/1v3evxw/when_employees_are_held_accountable_for/",
-        "image": "https://external-preview.redd.it/-8o6aIHi8IN1IBxTapDoBdt6I1iOIm2RCnbbxUjIX7E.jpeg?width=640&crop=smart&auto=webp&s=fb0bdf9fb291e51140f171cadcc4351b04d7af45",
-        "published": "2026-07-22T12:35:18+00:00"
+        "title": "I Reported on Flock's Cameras. Now I'm One of the System's Mistakes",
+        "link": "https://www.reddit.com/r/technology/comments/1v4dj7y/i_reported_on_flocks_cameras_now_im_one_of_the/",
+        "image": "https://external-preview.redd.it/w2RM6j4ISc0fh2GKvgrd8cgWkj9OgK3ucrNraiDuYts.jpeg?width=640&crop=smart&auto=webp&s=59c4b8e4698661577e5dab446f2276c0377993c5",
+        "published": "2026-07-23T13:11:49+00:00"
     },
     {
         "title": "James Talarico calls for tighter regulations on data center development",
@@ -78,10 +66,22 @@
         "published": "2026-07-22T23:58:57+00:00"
     },
     {
+        "title": "GM is quietly becoming a subscriptions company",
+        "link": "https://www.reddit.com/r/technology/comments/1v3k3h0/gm_is_quietly_becoming_a_subscriptions_company/",
+        "image": "https://external-preview.redd.it/S6Ceme6__oJkPMQGCqGtgGi_0-2YFyBCq_UZYMa8wFw.jpeg?width=640&crop=smart&auto=webp&s=61f2e3b5c825d183ce6522849231c3a920f734c5",
+        "published": "2026-07-22T15:51:59+00:00"
+    },
+    {
         "title": "Unlimited AI tokens aren\u2019t unlimited after all as US Army burns through supply | Troops received an email informing them that they were rapidly depleting their AI tokens",
         "link": "https://www.reddit.com/r/technology/comments/1v3lsmf/unlimited_ai_tokens_arent_unlimited_after_all_as/",
         "image": "https://external-preview.redd.it/rbel3g6YcsPgclld8uTR3hYoHOkUDTmYc5aMzgylc_k.jpeg?width=640&crop=smart&auto=webp&s=f14a9e8cbd644aaf1ffdf5906a4f549b780fc973",
         "published": "2026-07-22T16:50:56+00:00"
+    },
+    {
+        "title": "Meta Broke the Law by Firing Whistleblowers with Evidence of Children's Online Privacy Protection Act(COPPA) Violations",
+        "link": "https://www.reddit.com/r/technology/comments/1v3yccm/meta_broke_the_law_by_firing_whistleblowers_with/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-23T00:34:04+00:00"
     },
     {
         "title": "AI tech companies have hidden debt worth around $1.65 trillion, report claims. Amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle",
