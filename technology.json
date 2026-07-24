@@ -24,12 +24,6 @@
         "published": "2026-07-23T18:35:42+00:00"
     },
     {
-        "title": "You Should Get to Own Your Media, Not Rent it Forever",
-        "link": "https://www.reddit.com/r/technology/comments/1v48qgv/you_should_get_to_own_your_media_not_rent_it/",
-        "image": "https://external-preview.redd.it/8oQG8CVoIiIQcuQka2xqwYYNF6R_2ZmrkdCiCpueV1E.jpeg?width=640&crop=smart&auto=webp&s=812490fb86d42185224452fcec5582a895ab939f",
-        "published": "2026-07-23T09:21:03+00:00"
-    },
-    {
         "title": "The Fourth Circuit Says Border Agents Can Search Your Phone By Hand, No Suspicion Required",
         "link": "https://www.reddit.com/r/technology/comments/1v4e1su/the_fourth_circuit_says_border_agents_can_search/",
         "image": "https://external-preview.redd.it/7m4LX9ip49mXpmg0G3z7u1l0eM2b0wVrveeA_gzt1PI.png?width=640&crop=smart&auto=webp&s=a4ac33a9f23a2776c1600277942e8b5a3398ef02",
@@ -60,6 +54,12 @@
         "published": "2026-07-23T14:24:47+00:00"
     },
     {
+        "title": "Flock doesn't need facial recognition, license plate readers are now scanning for your devices to identify you",
+        "link": "https://www.reddit.com/r/technology/comments/1v4xoju/flock_doesnt_need_facial_recognition_license/",
+        "image": "https://external-preview.redd.it/Krrmgu-l-tuAjahU_yQO2xEtPvmJ1gJzFNkocZaRkLA.jpeg?width=640&crop=smart&auto=webp&s=d1751480ec127cb725df6bd742eae84a6c9bec67",
+        "published": "2026-07-24T01:54:21+00:00"
+    },
+    {
         "title": "Two Flock Cameras Exploded on a Georgia Road",
         "link": "https://www.reddit.com/r/technology/comments/1v4n7il/two_flock_cameras_exploded_on_a_georgia_road/",
         "image": "https://external-preview.redd.it/sGdkBAP4RdrptWaYEQJpkXbTRzDFrSTT7BxC3zosibM.jpeg?width=640&crop=smart&auto=webp&s=6c082d27736aaf27c6680749e8131f1278f7705f",
@@ -78,15 +78,15 @@
         "published": "2026-07-23T11:22:11+00:00"
     },
     {
-        "title": "Flock doesn't need facial recognition, license plate readers are now scanning for your devices to identify you",
-        "link": "https://www.reddit.com/r/technology/comments/1v4xoju/flock_doesnt_need_facial_recognition_license/",
-        "image": "https://external-preview.redd.it/Krrmgu-l-tuAjahU_yQO2xEtPvmJ1gJzFNkocZaRkLA.jpeg?width=640&crop=smart&auto=webp&s=d1751480ec127cb725df6bd742eae84a6c9bec67",
-        "published": "2026-07-24T01:54:21+00:00"
-    },
-    {
         "title": "Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",
         "link": "https://www.reddit.com/r/technology/comments/1v4poya/tesla_tumbles_14_to_11month_low_as_profit_miss/",
         "image": "https://external-preview.redd.it/q0QHoNmOY1GnS3JpG7feUxKZ3fyGSQxf7EnAh1YI-s0.jpeg?width=640&crop=smart&auto=webp&s=2f4d4b7e3d41cd9101a2d226840de9e8ba672c05",
         "published": "2026-07-23T20:27:54+00:00"
+    },
+    {
+        "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+        "link": "https://www.reddit.com/r/technology/comments/1v4kmk4/google_just_had_its_first_negative_cash_flow/",
+        "image": "https://external-preview.redd.it/xkZKO9JW2JUuh_o0Ev44Do5KMnXsGXw7JF4pL_fTCa8.jpeg?width=640&crop=smart&auto=webp&s=d5341bda33ee74c625844c1435d6bd5ba0344fee",
+        "published": "2026-07-23T17:29:43+00:00"
     }
 ]
