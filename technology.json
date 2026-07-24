@@ -48,16 +48,16 @@
         "published": "2026-07-23T13:51:53+00:00"
     },
     {
-        "title": "US citizens are ramping up pressure on data centers",
-        "link": "https://www.reddit.com/r/technology/comments/1v4ffu5/us_citizens_are_ramping_up_pressure_on_data/",
-        "image": "https://external-preview.redd.it/bwCgexcT6rkw6hm-Q75gV_T9MZwhtgGm6geI_gpa6NY.jpeg?width=640&crop=smart&auto=webp&s=471f8a5e82fbf6ec55e0db54cb6b5a03a327c313",
-        "published": "2026-07-23T14:24:47+00:00"
-    },
-    {
         "title": "Flock doesn't need facial recognition, license plate readers are now scanning for your devices to identify you",
         "link": "https://www.reddit.com/r/technology/comments/1v4xoju/flock_doesnt_need_facial_recognition_license/",
         "image": "https://external-preview.redd.it/Krrmgu-l-tuAjahU_yQO2xEtPvmJ1gJzFNkocZaRkLA.jpeg?width=640&crop=smart&auto=webp&s=d1751480ec127cb725df6bd742eae84a6c9bec67",
         "published": "2026-07-24T01:54:21+00:00"
+    },
+    {
+        "title": "US citizens are ramping up pressure on data centers",
+        "link": "https://www.reddit.com/r/technology/comments/1v4ffu5/us_citizens_are_ramping_up_pressure_on_data/",
+        "image": "https://external-preview.redd.it/bwCgexcT6rkw6hm-Q75gV_T9MZwhtgGm6geI_gpa6NY.jpeg?width=640&crop=smart&auto=webp&s=471f8a5e82fbf6ec55e0db54cb6b5a03a327c313",
+        "published": "2026-07-23T14:24:47+00:00"
     },
     {
         "title": "Two Flock Cameras Exploded on a Georgia Road",
@@ -72,12 +72,6 @@
         "published": "2026-07-23T15:27:38+00:00"
     },
     {
-        "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-        "link": "https://www.reddit.com/r/technology/comments/1v4b1sp/ai_companies_are_trying_to_hide_a_staggering/",
-        "image": "https://external-preview.redd.it/Mp5ELnVDxLFzNSE8Hy9VBJbOXMy2Bcq8rxnRFEx95-U.jpeg?width=640&crop=smart&auto=webp&s=f87cdd357e3cdaf8e650136298c7df6187a38c21",
-        "published": "2026-07-23T11:22:11+00:00"
-    },
-    {
         "title": "Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",
         "link": "https://www.reddit.com/r/technology/comments/1v4poya/tesla_tumbles_14_to_11month_low_as_profit_miss/",
         "image": "https://external-preview.redd.it/q0QHoNmOY1GnS3JpG7feUxKZ3fyGSQxf7EnAh1YI-s0.jpeg?width=640&crop=smart&auto=webp&s=2f4d4b7e3d41cd9101a2d226840de9e8ba672c05",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1v4kmk4/google_just_had_its_first_negative_cash_flow/",
         "image": "https://external-preview.redd.it/xkZKO9JW2JUuh_o0Ev44Do5KMnXsGXw7JF4pL_fTCa8.jpeg?width=640&crop=smart&auto=webp&s=d5341bda33ee74c625844c1435d6bd5ba0344fee",
         "published": "2026-07-23T17:29:43+00:00"
+    },
+    {
+        "title": "Patreon is laying off 20% of its staff. Read the memo its CEO sent to employees.",
+        "link": "https://www.reddit.com/r/technology/comments/1v4scap/patreon_is_laying_off_20_of_its_staff_read_the/",
+        "image": "https://external-preview.redd.it/vvxyqIFMaSb7138uC1xM0I9PAPwPAdzdwDuHFBjL6ho.jpeg?width=640&crop=smart&auto=webp&s=8bce7497ea9ca2bf0ec97cb37d15d95d21a4d63f",
+        "published": "2026-07-23T22:06:09+00:00"
     }
 ]
