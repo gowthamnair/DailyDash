@@ -6,16 +6,16 @@
         "published": "2026-07-25T09:47:42+00:00"
     },
     {
-        "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "link": "https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-07-25T16:56:22+00:00"
-    },
-    {
         "title": "SpaceX Investors in Meltdown Over All the Money They\u2019ve Lost",
         "link": "https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/",
         "image": "https://external-preview.redd.it/s7sIIp-Jshxs1MOYMh98iFh2SXMv0WIcrPYIjebwcjY.jpeg?width=640&crop=smart&auto=webp&s=f270d0b8c71fab7b8909128960e291319746f97e",
         "published": "2026-07-25T19:01:36+00:00"
+    },
+    {
+        "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "link": "https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-25T16:56:22+00:00"
     },
     {
         "title": "\u2018Really inappropriate\u2019: teachers decry plan for humanoid robot in New York high school",
@@ -42,12 +42,6 @@
         "published": "2026-07-25T12:45:06+00:00"
     },
     {
-        "title": "Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-        "link": "https://www.reddit.com/r/technology/comments/1v5pi43/tesla_suffers_worst_slump_since_2022_spacex_drops/",
-        "image": "https://external-preview.redd.it/fHFmR360q9y0qxlZzRMp2R57jYJ84ukpCevuKbXXWdU.jpeg?width=640&crop=smart&auto=webp&s=3ca5f0b172361716ec28394377235f52ef291777",
-        "published": "2026-07-24T22:01:03+00:00"
-    },
-    {
         "title": "HP admits 30% of PCs still run Windows 10, rejecting Windows 11, and it's why Microsoft caved on support",
         "link": "https://www.reddit.com/r/technology/comments/1v65hxk/hp_admits_30_of_pcs_still_run_windows_10/",
         "image": "https://external-preview.redd.it/bfZ6v0mOK3d9exeiak9JhN56FIar06S5A8sYV0eDNv8.jpeg?width=640&crop=smart&auto=webp&s=2a5712b653fa87998ddbbf1eb6d595aec962766b",
@@ -72,12 +66,6 @@
         "published": "2026-07-24T23:57:12+00:00"
     },
     {
-        "title": "Be skeptical of OpenAI\u2019s rogue hacker agent story",
-        "link": "https://www.reddit.com/r/technology/comments/1v63xpq/be_skeptical_of_openais_rogue_hacker_agent_story/",
-        "image": "https://external-preview.redd.it/tiVsDuqSU8cPHxIj8vqcNprhte2fqneizjGEJ7vl3MA.jpeg?width=640&crop=smart&auto=webp&s=3c9d79b24ce6d4b92e70549a5436bb05193159df",
-        "published": "2026-07-25T09:45:03+00:00"
-    },
-    {
         "title": "ChatGPT invoked God, told pastor not to worry about his symptoms. Then pulmonary embolism hit",
         "link": "https://www.reddit.com/r/technology/comments/1v6cuyb/chatgpt_invoked_god_told_pastor_not_to_worry/",
         "image": "https://external-preview.redd.it/vn-BX3hm3r8RP8EYjirXISWsA9zLEMTk2QjQMtYNJgk.jpeg?width=640&crop=smart&auto=webp&s=dbe8029a3ff4e750193266a5859c193dc6bb0618",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1v6g5pw/if_open_weight_models_are_the_future_us_ai/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-07-25T18:36:05+00:00"
+    },
+    {
+        "title": "Be skeptical of OpenAI\u2019s rogue hacker agent story",
+        "link": "https://www.reddit.com/r/technology/comments/1v63xpq/be_skeptical_of_openais_rogue_hacker_agent_story/",
+        "image": "https://external-preview.redd.it/tiVsDuqSU8cPHxIj8vqcNprhte2fqneizjGEJ7vl3MA.jpeg?width=640&crop=smart&auto=webp&s=3c9d79b24ce6d4b92e70549a5436bb05193159df",
+        "published": "2026-07-25T09:45:03+00:00"
+    },
+    {
+        "title": "Guillermo del Toro Says There Is \"Absolutely No Goddamn AI\" in \u2018Pan\u2019s Labyrinth\u2019 3D Re-Release: \"We\u2019re Protecting a Lineage of Art\"",
+        "link": "https://www.reddit.com/r/technology/comments/1v6gt2v/guillermo_del_toro_says_there_is_absolutely_no/",
+        "image": "https://external-preview.redd.it/WNJDCBM_enra7m29inR7_d0bI9e3seDZmzdcYSiIFl0.jpeg?width=640&crop=smart&auto=webp&s=ff9260cc7974caa5829a735b072d14d1360720aa",
+        "published": "2026-07-25T19:01:01+00:00"
     }
 ]
