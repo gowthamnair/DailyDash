@@ -1,5 +1,11 @@
 [
     {
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg",
+        "published": "Sun, 26 Jul 2026 19:21:26 GMT"
+    },
+    {
         "title": "What we know so far about the Berlin Pride ramming attack",
         "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a1/live/d9a08500-875d-11f1-b2ab-0dd01740f9f6.jpg",
         "published": "Fri, 24 Jul 2026 12:40:44 GMT"
-    },
-    {
-        "title": "Nigeria's president approves largest military expansion in recent times",
-        "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbf4/live/f2b56070-875c-11f1-b2ab-0dd01740f9f6.jpg",
-        "published": "Fri, 24 Jul 2026 15:22:56 GMT"
     }
 ]
