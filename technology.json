@@ -12,12 +12,6 @@
         "published": "2026-07-28T10:23:42+00:00"
     },
     {
-        "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization / SpaceX has erased more than $1.2 trillion in market cap since its high price of $225.64 in June",
-        "link": "https://www.reddit.com/r/technology/comments/1v8gu3z/spacex_has_now_lost_the_equivalent_of_a_full/",
-        "image": "https://external-preview.redd.it/M62M3AWufOWA8LVMX2JPKIVRUhJiq4VI-e3gtQk5ZfQ.jpeg?width=640&crop=smart&auto=webp&s=c31cab817e30d359ce9ac805687ec2928488d9b7",
-        "published": "2026-07-27T23:24:39+00:00"
-    },
-    {
         "title": "Sam Altman says AI won't shorten the workweek because humans secretly enjoy being busy",
         "link": "https://www.reddit.com/r/technology/comments/1v8wpmw/sam_altman_says_ai_wont_shorten_the_workweek/",
         "image": "https://external-preview.redd.it/1le18pft0i6NS5dJctl9xHe2OywSWiOVRKAFTawyUws.jpeg?width=640&crop=smart&auto=webp&s=818f60c79131111126bca2d2cba574dd1446418a",
@@ -28,6 +22,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1v8ysys/a_missing_underscore_sent_innocent_man_to_prison/",
         "image": "https://external-preview.redd.it/rsQ4ysd7byLkCc2U0hSrb3D6wZlys_o5KUVM0m-TgO0.jpeg?width=640&crop=smart&auto=webp&s=aa3fb68f9a45b7f61aeaa1690f343e5e0d327f61",
         "published": "2026-07-28T13:38:56+00:00"
+    },
+    {
+        "title": "eBay reaches $56 million settlement with couple it terrorized in 2019 \u2014 Executives used sock puppet social media accounts to send items including a funeral wreath, a bloody pig mask, live spiders and cockroaches",
+        "link": "https://www.reddit.com/r/technology/comments/1v99beh/ebay_reaches_56_million_settlement_with_couple_it/",
+        "image": "https://external-preview.redd.it/a-zCGjNehbu_QMVzL4Bu9UPfuql_osmiGzijoQGuqHs.jpeg?width=640&crop=smart&auto=webp&s=e51b2e1b15b7e39dd15e6699b09ecbf6390a9630",
+        "published": "2026-07-28T19:54:21+00:00"
     },
     {
         "title": "The Nerd Reich: Are Silicon Valley billionaires building a new fascist world order?",
@@ -42,22 +42,16 @@
         "published": "2026-07-28T09:36:31+00:00"
     },
     {
-        "title": "\u201cGoogle and Reddit do not own the Internet,\u201d web scraper says after court win",
-        "link": "https://www.reddit.com/r/technology/comments/1v8xgqm/google_and_reddit_do_not_own_the_internet_web/",
-        "image": "https://external-preview.redd.it/ptgKFpWx-fsedl9Eq_awOwqalPAIr4N5rWvFElkDSkc.jpeg?width=640&crop=smart&auto=webp&s=f6be670195b2765b85eb872a2c105ac7ac1fad77",
-        "published": "2026-07-28T12:45:52+00:00"
-    },
-    {
         "title": "55 Percent of Leaders Regret AI Layoffs\u2014and a Major Hiring Reversal Has Begun",
         "link": "https://www.reddit.com/r/technology/comments/1v95y90/55_percent_of_leaders_regret_ai_layoffsand_a/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-07-28T17:56:56+00:00"
     },
     {
-        "title": "eBay reaches $56 million settlement with couple it terrorized in 2019 \u2014 Executives used sock puppet social media accounts to send items including a funeral wreath, a bloody pig mask, live spiders and cockroaches",
-        "link": "https://www.reddit.com/r/technology/comments/1v99beh/ebay_reaches_56_million_settlement_with_couple_it/",
-        "image": "https://external-preview.redd.it/a-zCGjNehbu_QMVzL4Bu9UPfuql_osmiGzijoQGuqHs.jpeg?width=640&crop=smart&auto=webp&s=e51b2e1b15b7e39dd15e6699b09ecbf6390a9630",
-        "published": "2026-07-28T19:54:21+00:00"
+        "title": "\u201cGoogle and Reddit do not own the Internet,\u201d web scraper says after court win",
+        "link": "https://www.reddit.com/r/technology/comments/1v8xgqm/google_and_reddit_do_not_own_the_internet_web/",
+        "image": "https://external-preview.redd.it/ptgKFpWx-fsedl9Eq_awOwqalPAIr4N5rWvFElkDSkc.jpeg?width=640&crop=smart&auto=webp&s=f6be670195b2765b85eb872a2c105ac7ac1fad77",
+        "published": "2026-07-28T12:45:52+00:00"
     },
     {
         "title": "\u2018The Government Hopes To Set a Precedent\u2019: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone",
@@ -66,16 +60,16 @@
         "published": "2026-07-28T17:36:03+00:00"
     },
     {
+        "title": "Willie Nelson Urges Americans to Fight the Construction of Data Centers: They \u2018Only Destroy the Environment Around Them\u2019",
+        "link": "https://www.reddit.com/r/technology/comments/1v9d44g/willie_nelson_urges_americans_to_fight_the/",
+        "image": "https://external-preview.redd.it/tkmN463FznMx6G0cRJ0nMV9oXOv4tP0FqNdqZRnZrwY.jpeg?width=640&crop=smart&auto=webp&s=240bacd98a9e1a8eb3086e88d0e1f22d989a108c",
+        "published": "2026-07-28T22:18:01+00:00"
+    },
+    {
         "title": "Claude Cowork escaped sandbox on Mac, had full access to all files",
         "link": "https://www.reddit.com/r/technology/comments/1v8k7pr/claude_cowork_escaped_sandbox_on_mac_had_full/",
         "image": "https://external-preview.redd.it/BEu5NDBrlGa6ClzRxWvzk_3OKyZ1EBSf_zJAfH0qu9I.jpeg?width=640&crop=smart&auto=webp&s=5253744c5beedacbf26ab56121fd82a645013727",
         "published": "2026-07-28T01:47:20+00:00"
-    },
-    {
-        "title": "U.S President admin exempts SpaceX's Starlink from FCC ban on foreign-made routers | Starlink has a Texas factory but also makes routers in Vietnam.",
-        "link": "https://www.reddit.com/r/technology/comments/1v8heii/us_president_admin_exempts_spacexs_starlink_from/",
-        "image": "https://external-preview.redd.it/UmNstFmcSDXMot1e7oriNGRMif2X5Fqt22Ctkh-qPv8.jpeg?width=640&crop=smart&auto=webp&s=7b7d171d044dc5d6abd446f989c599b09d3e5d83",
-        "published": "2026-07-27T23:48:01+00:00"
     },
     {
         "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
@@ -84,9 +78,15 @@
         "published": "2026-07-28T12:50:08+00:00"
     },
     {
-        "title": "Call for One Week PlayStation Boycott Gains Traction Online",
-        "link": "https://www.reddit.com/r/technology/comments/1v8wj7i/call_for_one_week_playstation_boycott_gains/",
-        "image": "https://external-preview.redd.it/JRendxYjH9kT08a7bDAZXqsnpikG6ekD7mS669MVBhM.jpeg?width=640&crop=smart&auto=webp&s=164a600287622dfc7861c3cb23104544c9911290",
-        "published": "2026-07-28T12:04:59+00:00"
+        "title": "Anthropic destroyed millions of print books to build its AI models",
+        "link": "https://www.reddit.com/r/technology/comments/1v999ad/anthropic_destroyed_millions_of_print_books_to/",
+        "image": "https://external-preview.redd.it/twGUdMTmlsaVYYtTn5r3AURXWSYmyaZH-SqtbBVRNQ4.jpeg?width=640&crop=smart&auto=webp&s=9aed76f79e5631c02e350d369fb8cd27d2c8f7ba",
+        "published": "2026-07-28T19:52:21+00:00"
+    },
+    {
+        "title": "Trump appoints former Attorney General Pam Bondi to White House science panel",
+        "link": "https://www.reddit.com/r/technology/comments/1v93cui/trump_appoints_former_attorney_general_pam_bondi/",
+        "image": "https://external-preview.redd.it/lU033hC7jzB15Hwg7GNb7IeDEUk9yUhldqZtTMq8HDg.jpeg?width=640&crop=smart&auto=webp&s=de2e5a470cb212fa64c7c0d06bab20f3570c029e",
+        "published": "2026-07-28T16:25:14+00:00"
     }
 ]
