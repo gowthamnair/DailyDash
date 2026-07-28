@@ -1,15 +1,15 @@
 [
     {
-        "title": "Professor's invisible prompt trap catches 32 students cheating on their midterm with AI",
-        "link": "https://www.reddit.com/r/technology/comments/1v8080p/professors_invisible_prompt_trap_catches_32/",
-        "image": "https://external-preview.redd.it/sJPNFBlHmBwyfnYD-lXpz1md66rMLMoyD4RErMVNWKU.jpeg?width=640&crop=smart&auto=webp&s=adb4055cd42dc6425f1081e5ae2289b050eb3d68",
-        "published": "2026-07-27T13:19:55+00:00"
-    },
-    {
         "title": "High school teacher arrested for clapping in support of anti-data center activists",
         "link": "https://www.reddit.com/r/technology/comments/1v8dm6x/high_school_teacher_arrested_for_clapping_in/",
         "image": "https://external-preview.redd.it/idGLgC1yeeZyi7KGomMjIuEPWHyJm5k5xlB2eY2QYXs.jpeg?width=640&crop=smart&auto=webp&s=30c7a36e157a1b62f2e76aa6f2236230aa27d909",
         "published": "2026-07-27T21:19:28+00:00"
+    },
+    {
+        "title": "Professor's invisible prompt trap catches 32 students cheating on their midterm with AI",
+        "link": "https://www.reddit.com/r/technology/comments/1v8080p/professors_invisible_prompt_trap_catches_32/",
+        "image": "https://external-preview.redd.it/sJPNFBlHmBwyfnYD-lXpz1md66rMLMoyD4RErMVNWKU.jpeg?width=640&crop=smart&auto=webp&s=adb4055cd42dc6425f1081e5ae2289b050eb3d68",
+        "published": "2026-07-27T13:19:55+00:00"
     },
     {
         "title": "Two-thirds of workers are so fed up with \u2018AI slop\u2019 that they \u2018feel nostalgic for pre-AI work\u2019",
@@ -60,12 +60,6 @@
         "published": "2026-07-27T20:37:24+00:00"
     },
     {
-        "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-        "link": "https://www.reddit.com/r/technology/comments/1v7xhq5/artist_sues_ai_meme_generator_for_selling_deeply/",
-        "image": "https://external-preview.redd.it/oX3dli4SW4rSsuFTTfnVd48zs0OTQ4KJzJUiJM_l6ec.jpeg?width=640&crop=smart&auto=webp&s=eabd822658761744860fb6ddce52050706d839eb",
-        "published": "2026-07-27T11:20:05+00:00"
-    },
-    {
         "title": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley\u2019s supply \u2014 plaintiffs claim project equivalent to 160-acre farm amidst concern about jobs and reallocation of farmland",
         "link": "https://www.reddit.com/r/technology/comments/1v7zbqo/californias_largest_ai_data_center_project_suing/",
         "image": "https://external-preview.redd.it/Zi-EzAPAJ3V77GTIPJdzj4EI86KqKe0CSD9KfEUS_wE.jpeg?width=640&crop=smart&auto=webp&s=734506567a6c79a9d2549a68592556489f882b5d",
@@ -82,6 +76,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1v87phs/my_childhood_home_is_being_taken_eminent_domain/",
         "image": "https://external-preview.redd.it/E9VAhdvKxawbuUEtG36_9CAPpd0jc0RAsYIwmPTV1FY.jpeg?width=640&crop=smart&auto=webp&s=f3a3dfb7210c83f3935d66f2ca2da826575e63b1",
         "published": "2026-07-27T17:51:49+00:00"
+    },
+    {
+        "title": "Claude Cowork escaped sandbox on Mac, had full access to all files",
+        "link": "https://www.reddit.com/r/technology/comments/1v8k7pr/claude_cowork_escaped_sandbox_on_mac_had_full/",
+        "image": "https://external-preview.redd.it/BEu5NDBrlGa6ClzRxWvzk_3OKyZ1EBSf_zJAfH0qu9I.jpeg?width=640&crop=smart&auto=webp&s=5253744c5beedacbf26ab56121fd82a645013727",
+        "published": "2026-07-28T01:47:20+00:00"
     },
     {
         "title": "U.S President admin exempts SpaceX's Starlink from FCC ban on foreign-made routers | Starlink has a Texas factory but also makes routers in Vietnam.",
