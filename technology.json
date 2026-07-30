@@ -54,22 +54,10 @@
         "published": "2026-07-30T05:29:18+00:00"
     },
     {
-        "title": "CEO of the top-rated hiring platform says the job market is so bad that candidates are paying $20 to mass apply and driving bosses crazy with spam",
-        "link": "https://www.reddit.com/r/technology/comments/1vabcr2/ceo_of_the_toprated_hiring_platform_says_the_job/",
-        "image": "https://external-preview.redd.it/jM8obVCQN0uwpKdsYAekEd6O5jUJs0EBKimb_Y7UxpI.jpeg?width=640&crop=smart&auto=webp&s=5ca060fde46e761f27c724c09af98259b01ba6b5",
-        "published": "2026-07-29T22:33:20+00:00"
-    },
-    {
         "title": "Mark Zuckerberg\u2019s Fortune Drops $18 Billion as Wall Street Sours on Meta\u2019s AI Spending",
         "link": "https://www.reddit.com/r/technology/comments/1vay6q6/mark_zuckerbergs_fortune_drops_18_billion_as_wall/",
         "image": "https://external-preview.redd.it/M82fCiOH8fBfOJzzd9dlGfGQWs_NFqnXxyFvRKzXFsk.jpeg?width=640&crop=smart&auto=webp&s=0a0a228831125859be190c793a5f54ec632e7fb2",
         "published": "2026-07-30T16:16:26+00:00"
-    },
-    {
-        "title": "Meta\u2019s Reality Labs lost over $4.6 billion in second quarter",
-        "link": "https://www.reddit.com/r/technology/comments/1vadtdx/metas_reality_labs_lost_over_46_billion_in_second/",
-        "image": "https://external-preview.redd.it/iTUOhauSPpKy6KPBoBC47xLpZ5BaYNmUNZrGPN1KDjQ.jpeg?width=640&crop=smart&auto=webp&s=9518e0a3f8590f22d0a04f02079ed825ca16fe25",
-        "published": "2026-07-30T00:14:53+00:00"
     },
     {
         "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button / Following 404 Media's reporting on how LinkedIn is full of AI slop, the platform is giving users a chance to report it when they see it.",
@@ -78,10 +66,22 @@
         "published": "2026-07-30T14:36:25+00:00"
     },
     {
+        "title": "Meta\u2019s Reality Labs lost over $4.6 billion in second quarter",
+        "link": "https://www.reddit.com/r/technology/comments/1vadtdx/metas_reality_labs_lost_over_46_billion_in_second/",
+        "image": "https://external-preview.redd.it/iTUOhauSPpKy6KPBoBC47xLpZ5BaYNmUNZrGPN1KDjQ.jpeg?width=640&crop=smart&auto=webp&s=9518e0a3f8590f22d0a04f02079ed825ca16fe25",
+        "published": "2026-07-30T00:14:53+00:00"
+    },
+    {
         "title": "China Crosses Energy Milestone as Coal Falls Below 50% of Power",
         "link": "https://www.reddit.com/r/technology/comments/1vap6os/china_crosses_energy_milestone_as_coal_falls/",
         "image": "https://external-preview.redd.it/h3cMQWNltXUzlq36R7Uc6xcls8angi-YolBv0OCoz9c.jpeg?width=640&crop=smart&auto=webp&s=5138f50c083cf71b464d341e27b586797dfd5acc",
         "published": "2026-07-30T09:56:36+00:00"
+    },
+    {
+        "title": "After laying off Battlefield 6 developers, EA pays its CEO $38 million because Battlefield 6 did so well",
+        "link": "https://www.reddit.com/r/technology/comments/1vazi65/after_laying_off_battlefield_6_developers_ea_pays/",
+        "image": "https://external-preview.redd.it/jNDjM6sb5-qWoyJemkedE5rwcsRTtsREMN4AmPHSBYU.jpeg?width=640&crop=smart&auto=webp&s=8eb09e9d9ec491478d700b7dcb13aea1d13e1295",
+        "published": "2026-07-30T17:03:09+00:00"
     },
     {
         "title": "It\u2019s official: Data centers are slowing America\u2019s shift away from coal",
