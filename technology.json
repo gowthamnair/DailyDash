@@ -1,21 +1,9 @@
 [
     {
-        "title": "Innocent man spends 18 months in prison after Skyrim username mixup",
-        "link": "https://www.reddit.com/r/technology/comments/1va8tup/innocent_man_spends_18_months_in_prison_after/",
-        "image": "https://external-preview.redd.it/Y1XCjeQLIxobgpdIqK555nePTe_Y8EhERoLXt9DM4z0.jpeg?width=640&crop=smart&auto=webp&s=7e28f13534b1545f4e4cd42c6d525f17a523cbde",
-        "published": "2026-07-29T20:56:48+00:00"
-    },
-    {
         "title": "GrapheneOS says its data-wiping password is perfectly legal, after user faces federal charges",
         "link": "https://www.reddit.com/r/technology/comments/1vamqi9/grapheneos_says_its_datawiping_password_is/",
         "image": "https://external-preview.redd.it/p28x-qqCryPK8SI0GmaFPaTxZ7Chy6th4fGvL8iuL9E.jpeg?width=640&crop=smart&auto=webp&s=b9d8cec383f377c2dee0f339d1aa9eac87ce78a5",
         "published": "2026-07-30T07:33:47+00:00"
-    },
-    {
-        "title": "\u201cClapping Is a First Amendment Right:\u201d An Interview With the Person Arrested for Clapping at a Data Center Meeting",
-        "link": "https://www.reddit.com/r/technology/comments/1vacken/clapping_is_a_first_amendment_right_an_interview/",
-        "image": "https://external-preview.redd.it/lPS2R6wX7Oit7gtmSZGkbubhXroh0k40mGNbp4X_blc.jpeg?width=640&crop=smart&auto=webp&s=93d46799e843da3aea11896b5eb1463144d0a34f",
-        "published": "2026-07-29T23:22:44+00:00"
     },
     {
         "title": "Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget \u2014 'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics",
@@ -24,16 +12,22 @@
         "published": "2026-07-30T16:10:56+00:00"
     },
     {
-        "title": "Flock cameras are getting mobbed",
-        "link": "https://www.reddit.com/r/technology/comments/1vau9wh/flock_cameras_are_getting_mobbed/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-07-30T13:52:31+00:00"
+        "title": "\u201cClapping Is a First Amendment Right:\u201d An Interview With the Person Arrested for Clapping at a Data Center Meeting",
+        "link": "https://www.reddit.com/r/technology/comments/1vacken/clapping_is_a_first_amendment_right_an_interview/",
+        "image": "https://external-preview.redd.it/lPS2R6wX7Oit7gtmSZGkbubhXroh0k40mGNbp4X_blc.jpeg?width=640&crop=smart&auto=webp&s=93d46799e843da3aea11896b5eb1463144d0a34f",
+        "published": "2026-07-29T23:22:44+00:00"
     },
     {
         "title": "A Texas Deputy Searched 83,000 Flock Cameras To Track Down a Woman Who Had an Abortion",
         "link": "https://www.reddit.com/r/technology/comments/1vb1s8f/a_texas_deputy_searched_83000_flock_cameras_to/",
         "image": "https://external-preview.redd.it/YuZeZ5cthDEseKjA1jbK30e7AYPdMsmJLQfdVMvJpvk.jpeg?width=640&crop=smart&auto=webp&s=dfcc3ec062d8ea859aff24510abf1a96dd1a0f99",
         "published": "2026-07-30T18:23:00+00:00"
+    },
+    {
+        "title": "Flock cameras are getting mobbed",
+        "link": "https://www.reddit.com/r/technology/comments/1vau9wh/flock_cameras_are_getting_mobbed/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-07-30T13:52:31+00:00"
     },
     {
         "title": "AI Company Sues City for Opposing Data Center Next to National Park | Local governments are pushing back against AI data centers. Some AI companies are suing them to force construction \u2014 with or without public support.",
@@ -46,12 +40,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1vafwnm/ftc_sues_hims_hers_for_sending_user_health_info/",
         "image": "https://external-preview.redd.it/QYkroVCgyqFL2aqKn1KSFAx6f7_TZaZmnJ0LX-KU5p0.jpeg?width=640&crop=smart&auto=webp&s=a07a384cb894616658925dc1198489dcfbe897c6",
         "published": "2026-07-30T01:48:11+00:00"
-    },
-    {
-        "title": "After laying off Battlefield 6 developers, EA pays its CEO $38 million because Battlefield 6 did so well",
-        "link": "https://www.reddit.com/r/technology/comments/1va9msp/after_laying_off_battlefield_6_developers_ea_pays/",
-        "image": "https://external-preview.redd.it/jNDjM6sb5-qWoyJemkedE5rwcsRTtsREMN4AmPHSBYU.jpeg?width=640&crop=smart&auto=webp&s=8eb09e9d9ec491478d700b7dcb13aea1d13e1295",
-        "published": "2026-07-29T21:27:18+00:00"
     },
     {
         "title": "Meta earnings reveal cash flow drops 91% \u2014 while Zuckerberg writes op-eds about superintelligence",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1vavfs8/linkedin_introduces_a_seems_like_ai_slop_button/",
         "image": "https://external-preview.redd.it/CM1CiC2Z1wXCM7lAcyL0U0o06aelzWfkhbuhKH_uZU8.jpeg?width=640&crop=smart&auto=webp&s=c68ad8920f22e5f364c60cab1bbd0807e5799b24",
         "published": "2026-07-30T14:36:25+00:00"
+    },
+    {
+        "title": "China Crosses Energy Milestone as Coal Falls Below 50% of Power",
+        "link": "https://www.reddit.com/r/technology/comments/1vap6os/china_crosses_energy_milestone_as_coal_falls/",
+        "image": "https://external-preview.redd.it/h3cMQWNltXUzlq36R7Uc6xcls8angi-YolBv0OCoz9c.jpeg?width=640&crop=smart&auto=webp&s=5138f50c083cf71b464d341e27b586797dfd5acc",
+        "published": "2026-07-30T09:56:36+00:00"
+    },
+    {
+        "title": "It\u2019s official: Data centers are slowing America\u2019s shift away from coal",
+        "link": "https://www.reddit.com/r/technology/comments/1vaspn2/its_official_data_centers_are_slowing_americas/",
+        "image": "https://external-preview.redd.it/8zuwMncMA6gBmevmCRPqLIwRiuz2-JctwpTNae2YJEk.jpeg?width=640&crop=smart&auto=webp&s=eb03e68b102ebf4ec01c13db7c461a6a4f0f6758",
+        "published": "2026-07-30T12:48:14+00:00"
     }
 ]
