@@ -1,21 +1,9 @@
 [
     {
-        "title": "In one California town, Flock misread license plates in 71% of the alerts it sent to police",
-        "link": "https://www.reddit.com/r/technology/comments/1vbqtzx/in_one_california_town_flock_misread_license/",
-        "image": "https://external-preview.redd.it/48O_zdVJxUja8h0v1Tbc_uFcOljNsRuH4TqRPv_c-o8.jpeg?width=640&crop=smart&auto=webp&s=3ecd4cba5660f0643a6cf3446abd6feda468e959",
-        "published": "2026-07-31T13:22:32+00:00"
-    },
-    {
         "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
         "link": "https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
         "image": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
         "published": "2026-08-01T03:38:10+00:00"
-    },
-    {
-        "title": "New York Has Sued Kalshi for Running Illegal Gambling Operation",
-        "link": "https://www.reddit.com/r/technology/comments/1vbrbzg/new_york_has_sued_kalshi_for_running_illegal/",
-        "image": "https://external-preview.redd.it/gn3sSOY9jCOzS5bcapQ_wX2kAZUxjaYFCryiLlpZuuQ.png?width=640&crop=smart&auto=webp&s=477fe80e2aed03d8c33174f2fb68f03745fec01c",
-        "published": "2026-07-31T13:42:44+00:00"
     },
     {
         "title": "BMW Is Showing Full-Screen Ads on Its Cars' Main Dashboard Control Display",
@@ -28,12 +16,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1vbzwn9/more_americans_now_support_banning_phones_all_day/",
         "image": "https://external-preview.redd.it/D82VbTbpls1QfJwxBo9vdu5Kej5VhpPu7G8Qsrd_yS8.jpeg?width=640&crop=smart&auto=webp&s=3cc377dcaefdc822e1391173eab422ee3495b530",
         "published": "2026-07-31T18:57:29+00:00"
-    },
-    {
-        "title": "Sony Q1 FY2026 results - 37% increase in profits thanks to US tariff refunds - No planned refunds to customers",
-        "link": "https://www.reddit.com/r/technology/comments/1vbq6xx/sony_q1_fy2026_results_37_increase_in_profits/",
-        "image": "https://external-preview.redd.it/FhnL6j6Y7IMJr2y-jUBLdow5oAuee1fLF-cWVFIhH6M.jpeg?width=640&crop=smart&auto=webp&s=f949bfdd54cb0bd2758587e2cef03b5263d6c3db",
-        "published": "2026-07-31T12:56:10+00:00"
     },
     {
         "title": "PwC just got caught trying to pass AI slop as authentic research",
@@ -54,16 +36,16 @@
         "published": "2026-08-01T07:58:32+00:00"
     },
     {
-        "title": "TikToker faces police probe over secret filming using Meta 'smart glasses'",
-        "link": "https://www.reddit.com/r/technology/comments/1vbwntg/tiktoker_faces_police_probe_over_secret_filming/",
-        "image": "https://external-preview.redd.it/rpjvGy7toipc6f6YGo6e1c2vmnU2Dw95E6MsgJK-yIs.jpeg?width=640&crop=smart&auto=webp&s=599ca7f09c2d6e4315cd63c7c59017471227451b",
-        "published": "2026-07-31T16:59:22+00:00"
-    },
-    {
         "title": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
         "link": "https://www.reddit.com/r/technology/comments/1vc4g95/company_offering_printed_books_to_train_ai_stops/",
         "image": "https://external-preview.redd.it/vgyxUVmm__HthaDSxZcNer7gOf7HxX4rUgdZSwSrghI.jpeg?width=640&crop=smart&auto=webp&s=6d66c751d0af9908be4f7ced22064866197bd7e9",
         "published": "2026-07-31T21:50:14+00:00"
+    },
+    {
+        "title": "TikToker faces police probe over secret filming using Meta 'smart glasses'",
+        "link": "https://www.reddit.com/r/technology/comments/1vbwntg/tiktoker_faces_police_probe_over_secret_filming/",
+        "image": "https://external-preview.redd.it/rpjvGy7toipc6f6YGo6e1c2vmnU2Dw95E6MsgJK-yIs.jpeg?width=640&crop=smart&auto=webp&s=599ca7f09c2d6e4315cd63c7c59017471227451b",
+        "published": "2026-07-31T16:59:22+00:00"
     },
     {
         "title": "This year\u2019s tech layoffs have already surpassed all of 2025",
@@ -84,9 +66,27 @@
         "published": "2026-08-01T04:00:46+00:00"
     },
     {
+        "title": "One California town found Flock's license plate cameras were wrong 71% of the time",
+        "link": "https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/",
+        "image": "https://external-preview.redd.it/vJL2WrmiUi5mQtRnGe4nVe2ec5lJXYKl9BWAp9mM2HE.jpeg?width=640&crop=smart&auto=webp&s=87b3f09665a0d5a71f6200a1f909858f2227694a",
+        "published": "2026-08-01T12:24:57+00:00"
+    },
+    {
         "title": "AI labels to be compulsory on authentic-looking content under EU rules | Companies must ensure people know when they are interacting with artificially generated images, audio and text designed to look real",
         "link": "https://www.reddit.com/r/technology/comments/1vbsgw6/ai_labels_to_be_compulsory_on_authenticlooking/",
         "image": "https://external-preview.redd.it/zdsKEEHYNvoaCeh9GA7_wAvMlLDIN_-td5bU1I_9QnE.jpeg?width=640&crop=smart&auto=webp&s=a8ac94ee07928b11fcee7fc121b7266cdeb2d272",
         "published": "2026-07-31T14:26:23+00:00"
+    },
+    {
+        "title": "Facing Protests, xAI to Phase Out 69 Gas Turbines at Memphis Data Center",
+        "link": "https://www.reddit.com/r/technology/comments/1vbzm96/facing_protests_xai_to_phase_out_69_gas_turbines/",
+        "image": "https://external-preview.redd.it/9ApIlQW6jlHVaGIt-lhnSVufY4gpR_gLXs5oczyycO8.jpeg?width=640&crop=smart&auto=webp&s=8b8ccaf629710eb7f8d5540309093ad7087559ee",
+        "published": "2026-07-31T18:46:32+00:00"
+    },
+    {
+        "title": "Company sues Netflix for $105M for losing master copy of unreleased film",
+        "link": "https://www.reddit.com/r/technology/comments/1vc4pe8/company_sues_netflix_for_105m_for_losing_master/",
+        "image": "https://external-preview.redd.it/BGEvFN901aCf1usiz4ytWWCP-LEBZQ47OwIXymCh3O0.jpeg?width=640&crop=smart&auto=webp&s=3566e3a3fa42c3f1f6a447d5d052c40aecd7896c",
+        "published": "2026-07-31T22:00:24+00:00"
     }
 ]
