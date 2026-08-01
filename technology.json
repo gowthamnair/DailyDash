@@ -30,12 +30,6 @@
         "published": "2026-08-01T12:24:57+00:00"
     },
     {
-        "title": "Ex-cop warns against Flock cameras: 'It creates a mass surveillance system'",
-        "link": "https://www.reddit.com/r/technology/comments/1vbzk76/excop_warns_against_flock_cameras_it_creates_a/",
-        "image": "https://external-preview.redd.it/1a2dRtNBozY9Xgt7MT393N6qHeQFb4x_-XPFdsZzh48.jpeg?width=640&crop=smart&auto=webp&s=4bce02a17aa48f211ce31035b5e2a9b9c5e466e5",
-        "published": "2026-07-31T18:44:22+00:00"
-    },
-    {
         "title": "Zuckerberg advertises the goodness of his AI with a Bowie song about the impending destruction of the world within Five Years",
         "link": "https://www.reddit.com/r/technology/comments/1vccqff/zuckerberg_advertises_the_goodness_of_his_ai_with/",
         "image": "https://external-preview.redd.it/valFHtDG81f1dDZIozBGceIPt8EDfa_F3URvJzKKFZk.jpeg?width=640&crop=smart&auto=webp&s=45af05621a53cea24de02ef11cbb593a9954ed73",
@@ -60,6 +54,12 @@
         "published": "2026-08-01T14:32:23+00:00"
     },
     {
+        "title": "As Reddit stock falls, CEO questions value of Google\u2019s AI Overviews",
+        "link": "https://www.reddit.com/r/technology/comments/1vcr4qe/as_reddit_stock_falls_ceo_questions_value_of/",
+        "image": "https://external-preview.redd.it/5c0GaxLr1ovpb6HbqZ3xozqx1MY-ekgKa0uouDH1L2Q.jpeg?width=640&crop=smart&auto=webp&s=4118f7f6ff3089afb1937677502f5e8c6039b1a1",
+        "published": "2026-08-01T16:01:31+00:00"
+    },
+    {
         "title": "Country Music Is Coming Out Strong Against Data Centers | From Brad Paisley and Willie Nelson to Tanya Tucker and even Gavin Adcock, country artists are decrying the industrial facilities",
         "link": "https://www.reddit.com/r/technology/comments/1vciidi/country_music_is_coming_out_strong_against_data/",
         "image": "https://external-preview.redd.it/EYi5UBGWyBsbksHMTbIzNhembg87SKZ3uKUIyATFpO0.jpeg?width=640&crop=smart&auto=webp&s=4d8089f9132ff4b37a102350202f16bb4ca01af8",
@@ -72,16 +72,16 @@
         "published": "2026-07-31T22:00:24+00:00"
     },
     {
-        "title": "Facing Protests, xAI to Phase Out 69 Gas Turbines at Memphis Data Center",
-        "link": "https://www.reddit.com/r/technology/comments/1vbzm96/facing_protests_xai_to_phase_out_69_gas_turbines/",
-        "image": "https://external-preview.redd.it/9ApIlQW6jlHVaGIt-lhnSVufY4gpR_gLXs5oczyycO8.jpeg?width=640&crop=smart&auto=webp&s=8b8ccaf629710eb7f8d5540309093ad7087559ee",
-        "published": "2026-07-31T18:46:32+00:00"
-    },
-    {
         "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
         "link": "https://www.reddit.com/r/technology/comments/1vc08vu/spacex_wont_remove_all_of_xais_unpermitted/",
         "image": "https://external-preview.redd.it/j0sFmPQHbApQl2V8MkE4Q9ijj1Y19lEHHJwkudBgIvQ.jpeg?width=640&crop=smart&auto=webp&s=dce93e86e34710ec69aa5e8425afed37a7c51328",
         "published": "2026-07-31T19:10:05+00:00"
+    },
+    {
+        "title": "New York is suing prediction market Kalshi, calling it an illegal gambling operation",
+        "link": "https://www.reddit.com/r/technology/comments/1vcqr4t/new_york_is_suing_prediction_market_kalshi/",
+        "image": "https://external-preview.redd.it/ORosj2xFET6ddnlA7SNIQLBTeeopt7_PChQ4T9XXEHA.jpeg?width=640&crop=smart&auto=webp&s=79f41a7cba1e86c1f7eb291cf251a2f1418941ce",
+        "published": "2026-08-01T15:46:37+00:00"
     },
     {
         "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
