@@ -24,16 +24,16 @@
         "published": "2026-08-01T07:58:32+00:00"
     },
     {
-        "title": "Ex-cop warns against Flock cameras: 'It creates a mass surveillance system'",
-        "link": "https://www.reddit.com/r/technology/comments/1vbzk76/excop_warns_against_flock_cameras_it_creates_a/",
-        "image": "https://external-preview.redd.it/1a2dRtNBozY9Xgt7MT393N6qHeQFb4x_-XPFdsZzh48.jpeg?width=640&crop=smart&auto=webp&s=4bce02a17aa48f211ce31035b5e2a9b9c5e466e5",
-        "published": "2026-07-31T18:44:22+00:00"
-    },
-    {
         "title": "One California town found Flock's license plate cameras were wrong 71% of the time",
         "link": "https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/",
         "image": "https://external-preview.redd.it/vJL2WrmiUi5mQtRnGe4nVe2ec5lJXYKl9BWAp9mM2HE.jpeg?width=640&crop=smart&auto=webp&s=87b3f09665a0d5a71f6200a1f909858f2227694a",
         "published": "2026-08-01T12:24:57+00:00"
+    },
+    {
+        "title": "Ex-cop warns against Flock cameras: 'It creates a mass surveillance system'",
+        "link": "https://www.reddit.com/r/technology/comments/1vbzk76/excop_warns_against_flock_cameras_it_creates_a/",
+        "image": "https://external-preview.redd.it/1a2dRtNBozY9Xgt7MT393N6qHeQFb4x_-XPFdsZzh48.jpeg?width=640&crop=smart&auto=webp&s=4bce02a17aa48f211ce31035b5e2a9b9c5e466e5",
+        "published": "2026-07-31T18:44:22+00:00"
     },
     {
         "title": "Zuckerberg advertises the goodness of his AI with a Bowie song about the impending destruction of the world within Five Years",
@@ -48,22 +48,16 @@
         "published": "2026-07-31T21:50:14+00:00"
     },
     {
-        "title": "TikToker faces police probe over secret filming using Meta 'smart glasses'",
-        "link": "https://www.reddit.com/r/technology/comments/1vbwntg/tiktoker_faces_police_probe_over_secret_filming/",
-        "image": "https://external-preview.redd.it/rpjvGy7toipc6f6YGo6e1c2vmnU2Dw95E6MsgJK-yIs.jpeg?width=640&crop=smart&auto=webp&s=599ca7f09c2d6e4315cd63c7c59017471227451b",
-        "published": "2026-07-31T16:59:22+00:00"
-    },
-    {
         "title": "Microsoft confirms Windows 11 is a memory hog, promises 8GB RAM PC optimization by end of 2026",
         "link": "https://www.reddit.com/r/technology/comments/1vc4l6r/microsoft_confirms_windows_11_is_a_memory_hog/",
         "image": "https://external-preview.redd.it/adxpIJ1mCGFzT_PgVZAWNSAV5-UhDrt0NFkxjN3Xh54.jpeg?width=640&crop=smart&auto=webp&s=04e0abb7874a0f6bc4235569ecdf9d873d9bee35",
         "published": "2026-07-31T21:55:40+00:00"
     },
     {
-        "title": "This year\u2019s tech layoffs have already surpassed all of 2025",
-        "link": "https://www.reddit.com/r/technology/comments/1vbwlbk/this_years_tech_layoffs_have_already_surpassed/",
-        "image": "https://external-preview.redd.it/r5uO826HB-Q0JKnMiIXugv5lZZnyNIpb43QzHGX2knw.jpeg?width=640&crop=smart&auto=webp&s=aeba2876a6791c3d60396446157851728bf40f3a",
-        "published": "2026-07-31T16:56:45+00:00"
+        "title": "AI firms must answer for rogue bots, says boss of hacked company",
+        "link": "https://www.reddit.com/r/technology/comments/1vcoyky/ai_firms_must_answer_for_rogue_bots_says_boss_of/",
+        "image": "https://external-preview.redd.it/P-A_eM9Gnpo5eFcFzKJcBXBMbPPBE6UBXiv3bF2ejRk.jpeg?width=640&crop=smart&auto=webp&s=0f2758aede2cc995f9b60b56bc68e8e4d4d36124",
+        "published": "2026-08-01T14:32:23+00:00"
     },
     {
         "title": "Country Music Is Coming Out Strong Against Data Centers | From Brad Paisley and Willie Nelson to Tanya Tucker and even Gavin Adcock, country artists are decrying the industrial facilities",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vc08vu/spacex_wont_remove_all_of_xais_unpermitted/",
         "image": "https://external-preview.redd.it/j0sFmPQHbApQl2V8MkE4Q9ijj1Y19lEHHJwkudBgIvQ.jpeg?width=640&crop=smart&auto=webp&s=dce93e86e34710ec69aa5e8425afed37a7c51328",
         "published": "2026-07-31T19:10:05+00:00"
+    },
+    {
+        "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+        "link": "https://www.reddit.com/r/technology/comments/1vcaffj/anthropics_claude_breached_3_orgs_uploaded_pypi/",
+        "image": "https://external-preview.redd.it/Azp0qJubhgOvbbmPXGao7BAF7_prGpVyOxV9x5EMxlU.png?width=640&crop=smart&auto=webp&s=0b002eb33c7aaeb033ecf6a1e48aa3392c3f1885",
+        "published": "2026-08-01T02:08:47+00:00"
     }
 ]
