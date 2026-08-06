@@ -24,12 +24,6 @@
         "published": "2026-08-05T19:01:30+00:00"
     },
     {
-        "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-        "link": "https://www.reddit.com/r/technology/comments/1vg2r3a/kentucky_woman_rejects_26m_offer_to_turn_her_farm/",
-        "image": "https://external-preview.redd.it/1tTw-oiDPnopi4GPJ-ohJV-TuZCMQiBOsWw8eA5pBEI.jpeg?width=640&crop=smart&auto=webp&s=14d8879bc7609ddb0b7e9b876f41ab6a0acdfa07",
-        "published": "2026-08-05T09:47:03+00:00"
-    },
-    {
         "title": "Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available",
         "link": "https://www.reddit.com/r/technology/comments/1vgdki1/memory_capacity_for_all_of_2027_has_reportedly/",
         "image": "https://external-preview.redd.it/EhQvEy1SOnFNoYPvn804gotkEs4b_VoxxsiSIS-vU6g.jpeg?width=640&crop=smart&auto=webp&s=4718627a85bd8fef53cdd3753ec276b374600233",
@@ -54,16 +48,16 @@
         "published": "2026-08-05T18:12:41+00:00"
     },
     {
-        "title": "\u2018If we don\u2019t fight back, we don\u2019t have a future\u2019: the journalist taking on the \u2018tech fascists\u2019 of Silicon Valley",
-        "link": "https://www.reddit.com/r/technology/comments/1vg69id/if_we_dont_fight_back_we_dont_have_a_future_the/",
-        "image": "https://external-preview.redd.it/bNjBsSkrVrYwfqfgmtErWyJk9LZckjmiLRM-7kNqC0g.jpeg?width=640&crop=smart&auto=webp&s=14dae6760334128964de5937190bed345ef879b4",
-        "published": "2026-08-05T12:41:20+00:00"
-    },
-    {
         "title": "My son has cancer. Kalshi wants you to be able to bet on his medical future",
         "link": "https://www.reddit.com/r/technology/comments/1vgfp4m/my_son_has_cancer_kalshi_wants_you_to_be_able_to/",
         "image": "https://external-preview.redd.it/D551pYghB1LOWuF72eKrNX-KfdUfvYSNBxamlWNlKJ4.jpeg?width=640&crop=smart&auto=webp&s=68258d000262a6ec432e929b24944bc6aa0bb0ed",
         "published": "2026-08-05T18:30:01+00:00"
+    },
+    {
+        "title": "\u2018If we don\u2019t fight back, we don\u2019t have a future\u2019: the journalist taking on the \u2018tech fascists\u2019 of Silicon Valley",
+        "link": "https://www.reddit.com/r/technology/comments/1vg69id/if_we_dont_fight_back_we_dont_have_a_future_the/",
+        "image": "https://external-preview.redd.it/bNjBsSkrVrYwfqfgmtErWyJk9LZckjmiLRM-7kNqC0g.jpeg?width=640&crop=smart&auto=webp&s=14dae6760334128964de5937190bed345ef879b4",
+        "published": "2026-08-05T12:41:20+00:00"
     },
     {
         "title": "Flock cameras are taking over, but many Americans are pushing back",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vg4407/microsoft_just_deleted_windows_11s_32gb_ram/",
         "image": "https://external-preview.redd.it/cb2MeeL3ZLbuJAXl07DgaV6FVeyN44hRTjZl0dw8YiQ.jpeg?width=640&crop=smart&auto=webp&s=380bbf21cb854ac14e32822eacdfa37512d3748b",
         "published": "2026-08-05T10:58:44+00:00"
+    },
+    {
+        "title": "Microsoft moves to limit AI use by its employees",
+        "link": "https://www.reddit.com/r/technology/comments/1vgi88n/microsoft_moves_to_limit_ai_use_by_its_employees/",
+        "image": "https://external-preview.redd.it/XS7CWxO3mEJwcZldyXyw-URgHTbr1OTNB9vlMuD5rU4.jpeg?width=640&crop=smart&auto=webp&s=6a7fd8ffc89fb76562627879d9839d2dc6635f15",
+        "published": "2026-08-05T20:00:08+00:00"
     }
 ]
