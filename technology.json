@@ -24,12 +24,6 @@
         "published": "2026-08-07T14:57:46+00:00"
     },
     {
-        "title": "Flock Pitched a Plan to Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles / A Flock presentation shows the company planned to use around 350,000 Uber, Lyft, and delivery drivers to collect license plate data for its surveillance system.",
-        "link": "https://www.reddit.com/r/technology/comments/1vhypiy/flock_pitched_a_plan_to_turn_uber_and_lyft/",
-        "image": "https://external-preview.redd.it/8BRBgBOh0i-VM948oK_kRZvG0yLy2tM67qtC-mmxuuk.jpeg?width=640&crop=smart&auto=webp&s=ea9f66b4a387773c037ac77d26edf38d59474efe",
-        "published": "2026-08-07T12:02:46+00:00"
-    },
-    {
         "title": "\u2018As toxic as AIPAC\u2019: Progressive leader wants Dems to reject AI cash",
         "link": "https://www.reddit.com/r/technology/comments/1vida59/as_toxic_as_aipac_progressive_leader_wants_dems/",
         "image": "https://external-preview.redd.it/6O7Y9Tirt9aQBmGUcokRL-ONKQhuw07F6mAQyxI-GJk.jpeg?width=640&crop=smart&auto=webp&s=ef482b93bc5b036f03d78fdffb2eb29139bd6712",
@@ -42,16 +36,16 @@
         "published": "2026-08-08T00:07:44+00:00"
     },
     {
-        "title": "Zohran Mamdani\u2019s NYC Tech Team Is What DOGE Should Have Been",
-        "link": "https://www.reddit.com/r/technology/comments/1vi3cfp/zohran_mamdanis_nyc_tech_team_is_what_doge_should/",
-        "image": "https://external-preview.redd.it/Qr3t2nIrFpy8EudziklPrhPpiwtQKPMBkHbPt9aFX-U.jpeg?width=640&crop=smart&auto=webp&s=251f968dcc320ea9a544ce21da2339433d7d1bd0",
-        "published": "2026-08-07T15:12:49+00:00"
-    },
-    {
         "title": "Meta CTO says employees should use AI productivity gains to do more work \u2014 not take more time off",
         "link": "https://www.reddit.com/r/technology/comments/1vih7xo/meta_cto_says_employees_should_use_ai/",
         "image": "https://external-preview.redd.it/vxzuDLv94gL_XqsmrWgntrqewGkymOylo_h6iJuEhqA.jpeg?width=640&crop=smart&auto=webp&s=6dd55c70614dd616f983876e029df6571c4a4627",
         "published": "2026-08-08T00:15:30+00:00"
+    },
+    {
+        "title": "Zohran Mamdani\u2019s NYC Tech Team Is What DOGE Should Have Been",
+        "link": "https://www.reddit.com/r/technology/comments/1vi3cfp/zohran_mamdanis_nyc_tech_team_is_what_doge_should/",
+        "image": "https://external-preview.redd.it/Qr3t2nIrFpy8EudziklPrhPpiwtQKPMBkHbPt9aFX-U.jpeg?width=640&crop=smart&auto=webp&s=251f968dcc320ea9a544ce21da2339433d7d1bd0",
+        "published": "2026-08-07T15:12:49+00:00"
     },
     {
         "title": "Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vi5ilm/trump_administration_has_spent_nearly_4b_to/",
         "image": "https://external-preview.redd.it/RErAlpgIYPA-1KIbNaZwLxgS1TW_SPbTO9E3DqsNQMc.jpeg?width=640&crop=smart&auto=webp&s=924b32662e222acb09d8f34b77d6f0f7fa62295e",
         "published": "2026-08-07T16:33:13+00:00"
+    },
+    {
+        "title": "The FCC Moves to Retroactively Ban Drones With LiDAR Obstacle Avoidance",
+        "link": "https://www.reddit.com/r/technology/comments/1vikph1/the_fcc_moves_to_retroactively_ban_drones_with/",
+        "image": "https://external-preview.redd.it/gFUo9LFnLq1IJN99Z38jlYtLus0kzSCr4Nw7p46cj7A.jpeg?width=640&crop=smart&auto=webp&s=3ec619955302c1da7eb14394372a0cfe903a7b33",
+        "published": "2026-08-08T03:05:27+00:00"
     }
 ]
