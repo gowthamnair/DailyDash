@@ -6,22 +6,10 @@
         "published": "2026-08-07T18:55:56+00:00"
     },
     {
-        "title": "YouTube\u2019s AI slop detector incorrectly targets Kurzgesagt as other creators fear same fate",
-        "link": "https://www.reddit.com/r/technology/comments/1vi2r6h/youtubes_ai_slop_detector_incorrectly_targets/",
-        "image": "https://external-preview.redd.it/bLqDoX1ZhbeI9uWl_S_jqTKHfeSfBopWcYqMnLuputQ.jpeg?width=640&crop=smart&auto=webp&s=9afbc3281f60f69df661739a054bda4c52305602",
-        "published": "2026-08-07T14:50:41+00:00"
-    },
-    {
         "title": "Canada investigating how Skyrim username mixup sent innocent man to prison for 18 months",
         "link": "https://www.reddit.com/r/technology/comments/1vi9jkc/canada_investigating_how_skyrim_username_mixup/",
         "image": "https://external-preview.redd.it/m29fm-OMSbe9jGakiRuUxfInvgsmfvNV78XVVZxFs04.jpeg?width=640&crop=smart&auto=webp&s=83d31c65cbb58aab3101de27a801a0ec1180f2cf",
         "published": "2026-08-07T19:01:28+00:00"
-    },
-    {
-        "title": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Townhalls for 'Public Safety' / A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.",
-        "link": "https://www.reddit.com/r/technology/comments/1vi2xzw/city_that_arrested_person_for_clapping_at_data/",
-        "image": "https://external-preview.redd.it/GoUxr4Ci_97tRIuJCnGkpjpDAAVTBxvp3sF1uDFCHJA.jpeg?width=640&crop=smart&auto=webp&s=2e18fbaa6ebd5c1002005f316944db4b0e02f195",
-        "published": "2026-08-07T14:57:46+00:00"
     },
     {
         "title": "Scientist says RAM pricing has reverted to normalized 2007 levels \u2014 memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
@@ -42,12 +30,6 @@
         "published": "2026-08-08T00:15:30+00:00"
     },
     {
-        "title": "Zohran Mamdani\u2019s NYC Tech Team Is What DOGE Should Have Been",
-        "link": "https://www.reddit.com/r/technology/comments/1vi3cfp/zohran_mamdanis_nyc_tech_team_is_what_doge_should/",
-        "image": "https://external-preview.redd.it/Qr3t2nIrFpy8EudziklPrhPpiwtQKPMBkHbPt9aFX-U.jpeg?width=640&crop=smart&auto=webp&s=251f968dcc320ea9a544ce21da2339433d7d1bd0",
-        "published": "2026-08-07T15:12:49+00:00"
-    },
-    {
         "title": "Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers",
         "link": "https://www.reddit.com/r/technology/comments/1vi3jbn/cities_are_ditching_flock_immediately_replacing/",
         "image": "https://external-preview.redd.it/iRGkKvyLYJmwyxYPeU9-Qb6Fbp8B5Q9wlxp9ZOjMGXg.png?width=640&crop=smart&auto=webp&s=f66fd7e7cec3be30fa48feb0b95be4093214378e",
@@ -60,22 +42,28 @@
         "published": "2026-08-07T18:26:48+00:00"
     },
     {
+        "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules \u2014 Gilroy residents locked out of public comment window",
+        "link": "https://www.reddit.com/r/technology/comments/1viwmsi/amazon_secretly_circumvents_community_vote_for/",
+        "image": "https://external-preview.redd.it/VePKCiQ3JIViroTlWHzw1Sp0dd984lkrDPtV2O-JWXw.jpeg?width=640&crop=smart&auto=webp&s=523441a638d1f50662dbab27df2d913968b93f38",
+        "published": "2026-08-08T13:54:05+00:00"
+    },
+    {
         "title": "Flock's biggest investor also backs a company that can rewrite camera footage",
         "link": "https://www.reddit.com/r/technology/comments/1vi9iyr/flocks_biggest_investor_also_backs_a_company_that/",
         "image": "https://external-preview.redd.it/aeEJF5td1ko5295Ipt4oDnmpSi5k59MK76pakOhSbBI.jpeg?width=640&crop=smart&auto=webp&s=26f121d8e99d774b3d65265f565785c7988820f5",
         "published": "2026-08-07T19:00:53+00:00"
     },
     {
-        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-        "link": "https://www.reddit.com/r/technology/comments/1vi6f38/us_strikes_12bn_deal_to_pay_german_firm_to_halt/",
-        "image": "https://external-preview.redd.it/CoRHc2fTm6HZFRA5K73viUXfoC91Wf5pYRANa_i6Nu4.jpeg?width=640&crop=smart&auto=webp&s=f8479ec7ad5524bda5f247ec7edaa242e37ccfad",
-        "published": "2026-08-07T17:06:17+00:00"
-    },
-    {
         "title": "Amazon Is Creating the Biggest Pollution Source in the Entire Country: Amazon has bought a site in Texas where it plans to build a data center campus.",
         "link": "https://www.reddit.com/r/technology/comments/1vib5to/amazon_is_creating_the_biggest_pollution_source/",
         "image": "https://external-preview.redd.it/0xGx9gaTAwTmFt0IUSY5kRa4qj_QpHZcCxM0CRzGQ2c.jpeg?width=640&crop=smart&auto=webp&s=a9d81fc3a7e61701f5fe549b97b246e01e0d6c20",
         "published": "2026-08-07T20:02:12+00:00"
+    },
+    {
+        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+        "link": "https://www.reddit.com/r/technology/comments/1vi6f38/us_strikes_12bn_deal_to_pay_german_firm_to_halt/",
+        "image": "https://external-preview.redd.it/CoRHc2fTm6HZFRA5K73viUXfoC91Wf5pYRANa_i6Nu4.jpeg?width=640&crop=smart&auto=webp&s=f8479ec7ad5524bda5f247ec7edaa242e37ccfad",
+        "published": "2026-08-07T17:06:17+00:00"
     },
     {
         "title": "'Only One Conclusion': Radical Study Suggests Life on Earth Arose Twice",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1vikph1/the_fcc_moves_to_retroactively_ban_drones_with/",
         "image": "https://external-preview.redd.it/gFUo9LFnLq1IJN99Z38jlYtLus0kzSCr4Nw7p46cj7A.jpeg?width=640&crop=smart&auto=webp&s=3ec619955302c1da7eb14394372a0cfe903a7b33",
         "published": "2026-08-08T03:05:27+00:00"
+    },
+    {
+        "title": "Trump administration has spent nearly $4B to cancel offshore wind farms | TechCrunch",
+        "link": "https://www.reddit.com/r/technology/comments/1vi5ilm/trump_administration_has_spent_nearly_4b_to/",
+        "image": "https://external-preview.redd.it/RErAlpgIYPA-1KIbNaZwLxgS1TW_SPbTO9E3DqsNQMc.jpeg?width=640&crop=smart&auto=webp&s=924b32662e222acb09d8f34b77d6f0f7fa62295e",
+        "published": "2026-08-07T16:33:13+00:00"
+    },
+    {
+        "title": "75% of European businesses fear a US tech Kill Switch as much as a ransomware attack \u2014 switching off US cloud and services could deal an economic death blow, with sovereign alternatives desperately needed",
+        "link": "https://www.reddit.com/r/technology/comments/1vikcw8/75_of_european_businesses_fear_a_us_tech_kill/",
+        "image": "https://external-preview.redd.it/rq6_G9OZbT72jxzAZfR07VAxhJO_o2_0tlWQ7QObkAk.jpeg?width=640&crop=smart&auto=webp&s=e44b44c86949be77797016fc10fb39b8b3a46a6d",
+        "published": "2026-08-08T02:48:27+00:00"
     }
 ]
