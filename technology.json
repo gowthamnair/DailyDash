@@ -6,16 +6,16 @@
         "published": "2026-08-07T18:55:56+00:00"
     },
     {
-        "title": "Canada investigating how Skyrim username mixup sent innocent man to prison for 18 months",
-        "link": "https://www.reddit.com/r/technology/comments/1vi9jkc/canada_investigating_how_skyrim_username_mixup/",
-        "image": "https://external-preview.redd.it/m29fm-OMSbe9jGakiRuUxfInvgsmfvNV78XVVZxFs04.jpeg?width=640&crop=smart&auto=webp&s=83d31c65cbb58aab3101de27a801a0ec1180f2cf",
-        "published": "2026-08-07T19:01:28+00:00"
-    },
-    {
         "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules \u2014 Gilroy residents locked out of public comment window",
         "link": "https://www.reddit.com/r/technology/comments/1viwmsi/amazon_secretly_circumvents_community_vote_for/",
         "image": "https://external-preview.redd.it/VePKCiQ3JIViroTlWHzw1Sp0dd984lkrDPtV2O-JWXw.jpeg?width=640&crop=smart&auto=webp&s=523441a638d1f50662dbab27df2d913968b93f38",
         "published": "2026-08-08T13:54:05+00:00"
+    },
+    {
+        "title": "Canada investigating how Skyrim username mixup sent innocent man to prison for 18 months",
+        "link": "https://www.reddit.com/r/technology/comments/1vi9jkc/canada_investigating_how_skyrim_username_mixup/",
+        "image": "https://external-preview.redd.it/m29fm-OMSbe9jGakiRuUxfInvgsmfvNV78XVVZxFs04.jpeg?width=640&crop=smart&auto=webp&s=83d31c65cbb58aab3101de27a801a0ec1180f2cf",
+        "published": "2026-08-07T19:01:28+00:00"
     },
     {
         "title": "Scientist says RAM pricing has reverted to normalized 2007 levels \u2014 memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
@@ -54,12 +54,6 @@
         "published": "2026-08-07T20:02:12+00:00"
     },
     {
-        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-        "link": "https://www.reddit.com/r/technology/comments/1vi6f38/us_strikes_12bn_deal_to_pay_german_firm_to_halt/",
-        "image": "https://external-preview.redd.it/CoRHc2fTm6HZFRA5K73viUXfoC91Wf5pYRANa_i6Nu4.jpeg?width=640&crop=smart&auto=webp&s=f8479ec7ad5524bda5f247ec7edaa242e37ccfad",
-        "published": "2026-08-07T17:06:17+00:00"
-    },
-    {
         "title": "'Only One Conclusion': Radical Study Suggests Life on Earth Arose Twice",
         "link": "https://www.reddit.com/r/technology/comments/1vimjoc/only_one_conclusion_radical_study_suggests_life/",
         "image": "https://external-preview.redd.it/Mz6bdwvjrYMde93V0Px24wb1_Q69EjwDMH1_9cKo_3w.jpeg?width=640&crop=smart&auto=webp&s=d459bf91ab69600a14f99cd8c2d12160b5dd3739",
@@ -72,21 +66,27 @@
         "published": "2026-08-08T03:05:27+00:00"
     },
     {
-        "title": "Trump administration has spent nearly $4B to cancel offshore wind farms | TechCrunch",
-        "link": "https://www.reddit.com/r/technology/comments/1vi5ilm/trump_administration_has_spent_nearly_4b_to/",
-        "image": "https://external-preview.redd.it/RErAlpgIYPA-1KIbNaZwLxgS1TW_SPbTO9E3DqsNQMc.jpeg?width=640&crop=smart&auto=webp&s=924b32662e222acb09d8f34b77d6f0f7fa62295e",
-        "published": "2026-08-07T16:33:13+00:00"
-    },
-    {
         "title": "\u2018Humans will be a rounding error on the internet\u2019 says Cloudflare exec",
         "link": "https://www.reddit.com/r/technology/comments/1vit52t/humans_will_be_a_rounding_error_on_the_internet/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-08-08T11:05:13+00:00"
     },
     {
+        "title": "How period trackers share your private details",
+        "link": "https://www.reddit.com/r/technology/comments/1viu53w/how_period_trackers_share_your_private_details/",
+        "image": "https://external-preview.redd.it/h7wh8LGxNjJgE-VmqsH8BsYFMe55ev26AHgeNh-LQyE.jpeg?width=320&crop=smart&auto=webp&s=76a2b83f3b536fac61440f8c60281babcf781d6e",
+        "published": "2026-08-08T11:58:42+00:00"
+    },
+    {
         "title": "75% of European businesses fear a US tech Kill Switch as much as a ransomware attack \u2014 switching off US cloud and services could deal an economic death blow, with sovereign alternatives desperately needed",
         "link": "https://www.reddit.com/r/technology/comments/1vikcw8/75_of_european_businesses_fear_a_us_tech_kill/",
         "image": "https://external-preview.redd.it/rq6_G9OZbT72jxzAZfR07VAxhJO_o2_0tlWQ7QObkAk.jpeg?width=640&crop=smart&auto=webp&s=e44b44c86949be77797016fc10fb39b8b3a46a6d",
         "published": "2026-08-08T02:48:27+00:00"
+    },
+    {
+        "title": "Cloudflare says humans could become a \"rounding error\" as bots generate 1,000 times more internet traffic",
+        "link": "https://www.reddit.com/r/technology/comments/1vivxn6/cloudflare_says_humans_could_become_a_rounding/",
+        "image": "https://external-preview.redd.it/kEjxAii3TaBQjVi8k3BJ2nA81ZbUjJ5maTuzw7eNn9c.jpeg?width=640&crop=smart&auto=webp&s=98cb85b1efb1f3645a8175d803771c372fb3487e",
+        "published": "2026-08-08T13:22:43+00:00"
     }
 ]
