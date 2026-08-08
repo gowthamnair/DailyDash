@@ -1,21 +1,9 @@
 [
     {
-        "title": "Flock Is Losing Dozens of Contracts as Controversy Grows",
-        "link": "https://www.reddit.com/r/technology/comments/1vi9e6b/flock_is_losing_dozens_of_contracts_as/",
-        "image": "https://external-preview.redd.it/8Z02r284Z4Ed5Q0zruT0LuIGRIQFhfN3izjCp7bceEA.jpeg?width=640&crop=smart&auto=webp&s=396905743a212af535b6dafee17610eabd0130be",
-        "published": "2026-08-07T18:55:56+00:00"
-    },
-    {
         "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules \u2014 Gilroy residents locked out of public comment window",
         "link": "https://www.reddit.com/r/technology/comments/1viwmsi/amazon_secretly_circumvents_community_vote_for/",
         "image": "https://external-preview.redd.it/VePKCiQ3JIViroTlWHzw1Sp0dd984lkrDPtV2O-JWXw.jpeg?width=640&crop=smart&auto=webp&s=523441a638d1f50662dbab27df2d913968b93f38",
         "published": "2026-08-08T13:54:05+00:00"
-    },
-    {
-        "title": "Canada investigating how Skyrim username mixup sent innocent man to prison for 18 months",
-        "link": "https://www.reddit.com/r/technology/comments/1vi9jkc/canada_investigating_how_skyrim_username_mixup/",
-        "image": "https://external-preview.redd.it/m29fm-OMSbe9jGakiRuUxfInvgsmfvNV78XVVZxFs04.jpeg?width=640&crop=smart&auto=webp&s=83d31c65cbb58aab3101de27a801a0ec1180f2cf",
-        "published": "2026-08-07T19:01:28+00:00"
     },
     {
         "title": "Scientist says RAM pricing has reverted to normalized 2007 levels \u2014 memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
@@ -36,18 +24,6 @@
         "published": "2026-08-08T00:15:30+00:00"
     },
     {
-        "title": "Japan warns US government to stop using Nintendo and Pokemon in memes",
-        "link": "https://www.reddit.com/r/technology/comments/1vi8lxl/japan_warns_us_government_to_stop_using_nintendo/",
-        "image": "https://external-preview.redd.it/jrWxzOUaR0QjxQrWfXW0uEGuS3k1JV1eN9N31CjXQxE.jpeg?width=640&crop=smart&auto=webp&s=65e29327b9e57bb9a5bdf5374f5e2aa259b95f5f",
-        "published": "2026-08-07T18:26:48+00:00"
-    },
-    {
-        "title": "Flock's biggest investor also backs a company that can rewrite camera footage",
-        "link": "https://www.reddit.com/r/technology/comments/1vi9iyr/flocks_biggest_investor_also_backs_a_company_that/",
-        "image": "https://external-preview.redd.it/aeEJF5td1ko5295Ipt4oDnmpSi5k59MK76pakOhSbBI.jpeg?width=640&crop=smart&auto=webp&s=26f121d8e99d774b3d65265f565785c7988820f5",
-        "published": "2026-08-07T19:00:53+00:00"
-    },
-    {
         "title": "Amazon Is Creating the Biggest Pollution Source in the Entire Country: Amazon has bought a site in Texas where it plans to build a data center campus.",
         "link": "https://www.reddit.com/r/technology/comments/1vib5to/amazon_is_creating_the_biggest_pollution_source/",
         "image": "https://external-preview.redd.it/0xGx9gaTAwTmFt0IUSY5kRa4qj_QpHZcCxM0CRzGQ2c.jpeg?width=640&crop=smart&auto=webp&s=a9d81fc3a7e61701f5fe549b97b246e01e0d6c20",
@@ -60,16 +36,16 @@
         "published": "2026-08-08T04:38:49+00:00"
     },
     {
-        "title": "The FCC Moves to Retroactively Ban Drones With LiDAR Obstacle Avoidance",
-        "link": "https://www.reddit.com/r/technology/comments/1vikph1/the_fcc_moves_to_retroactively_ban_drones_with/",
-        "image": "https://external-preview.redd.it/gFUo9LFnLq1IJN99Z38jlYtLus0kzSCr4Nw7p46cj7A.jpeg?width=640&crop=smart&auto=webp&s=3ec619955302c1da7eb14394372a0cfe903a7b33",
-        "published": "2026-08-08T03:05:27+00:00"
-    },
-    {
         "title": "\u2018Humans will be a rounding error on the internet\u2019 says Cloudflare exec",
         "link": "https://www.reddit.com/r/technology/comments/1vit52t/humans_will_be_a_rounding_error_on_the_internet/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-08-08T11:05:13+00:00"
+    },
+    {
+        "title": "The FCC Moves to Retroactively Ban Drones With LiDAR Obstacle Avoidance",
+        "link": "https://www.reddit.com/r/technology/comments/1vikph1/the_fcc_moves_to_retroactively_ban_drones_with/",
+        "image": "https://external-preview.redd.it/gFUo9LFnLq1IJN99Z38jlYtLus0kzSCr4Nw7p46cj7A.jpeg?width=640&crop=smart&auto=webp&s=3ec619955302c1da7eb14394372a0cfe903a7b33",
+        "published": "2026-08-08T03:05:27+00:00"
     },
     {
         "title": "How period trackers share your private details",
@@ -78,15 +54,39 @@
         "published": "2026-08-08T11:58:42+00:00"
     },
     {
+        "title": "Cloudflare says humans could become a \"rounding error\" as bots generate 1,000 times more internet traffic",
+        "link": "https://www.reddit.com/r/technology/comments/1vivxn6/cloudflare_says_humans_could_become_a_rounding/",
+        "image": "https://external-preview.redd.it/kEjxAii3TaBQjVi8k3BJ2nA81ZbUjJ5maTuzw7eNn9c.jpeg?width=640&crop=smart&auto=webp&s=98cb85b1efb1f3645a8175d803771c372fb3487e",
+        "published": "2026-08-08T13:22:43+00:00"
+    },
+    {
         "title": "75% of European businesses fear a US tech Kill Switch as much as a ransomware attack \u2014 switching off US cloud and services could deal an economic death blow, with sovereign alternatives desperately needed",
         "link": "https://www.reddit.com/r/technology/comments/1vikcw8/75_of_european_businesses_fear_a_us_tech_kill/",
         "image": "https://external-preview.redd.it/rq6_G9OZbT72jxzAZfR07VAxhJO_o2_0tlWQ7QObkAk.jpeg?width=640&crop=smart&auto=webp&s=e44b44c86949be77797016fc10fb39b8b3a46a6d",
         "published": "2026-08-08T02:48:27+00:00"
     },
     {
-        "title": "Cloudflare says humans could become a \"rounding error\" as bots generate 1,000 times more internet traffic",
-        "link": "https://www.reddit.com/r/technology/comments/1vivxn6/cloudflare_says_humans_could_become_a_rounding/",
-        "image": "https://external-preview.redd.it/kEjxAii3TaBQjVi8k3BJ2nA81ZbUjJ5maTuzw7eNn9c.jpeg?width=640&crop=smart&auto=webp&s=98cb85b1efb1f3645a8175d803771c372fb3487e",
-        "published": "2026-08-08T13:22:43+00:00"
+        "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+        "link": "https://www.reddit.com/r/technology/comments/1vihpii/microsoft_edge_is_about_to_lock_out_older_ad/",
+        "image": "https://external-preview.redd.it/BjSStkrnSraiBX_Q_LGyccaswU8hEESQPe9HKfIA1JM.jpeg?width=640&crop=smart&auto=webp&s=ff2106c725fe3ba33b6b712ce3f3927afefb9f80",
+        "published": "2026-08-08T00:38:33+00:00"
+    },
+    {
+        "title": "Chandler drops Flock cameras after misuse audit",
+        "link": "https://www.reddit.com/r/technology/comments/1vj1uzu/chandler_drops_flock_cameras_after_misuse_audit/",
+        "image": "https://external-preview.redd.it/nwdhy-A2DkWhP1Vs3qBDW6eOG4-mMK0WOAEXVnS7Ng0.jpeg?width=640&crop=smart&auto=webp&s=7e8539ab812236cbbe0029210b821631d5a88ed7",
+        "published": "2026-08-08T17:29:47+00:00"
+    },
+    {
+        "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+        "link": "https://www.reddit.com/r/technology/comments/1vj1sa7/new_amazon_data_center_stokes_worry_it_would_be/",
+        "image": "https://external-preview.redd.it/5psD1EQ1vgerZu9JqCFueIYoYIo1uvvAQ6XvIDmMYc0.jpeg?width=640&crop=smart&auto=webp&s=ae5794b0c5da4e25472c88acfec1259ae90a306d",
+        "published": "2026-08-08T17:26:54+00:00"
+    },
+    {
+        "title": "China-Free Batteries Made From Salt Are Finally Here | Sodium-ion batteries have almost none of the problems that lithium-ion ones do, and could be cheap enough to make fossil-fuel dependence a thing of the past",
+        "link": "https://www.reddit.com/r/technology/comments/1vicq0l/chinafree_batteries_made_from_salt_are_finally/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-07T21:02:50+00:00"
     }
 ]
