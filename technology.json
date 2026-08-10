@@ -18,16 +18,16 @@
         "published": "2026-08-09T17:57:12+00:00"
     },
     {
-        "title": "Myspace eyes comeback as an 'antidote' to social media fatigue",
-        "link": "https://www.reddit.com/r/technology/comments/1vjvg19/myspace_eyes_comeback_as_an_antidote_to_social/",
-        "image": "https://external-preview.redd.it/SMNZM18yoGBpSzpKBgFlyma4EHsDf2rGLtAVM9wMGt8.jpeg?width=640&crop=smart&auto=webp&s=aad5205aad5ad3c814599dd4de7aa9e4dcfa1160",
-        "published": "2026-08-09T17:15:00+00:00"
-    },
-    {
         "title": "San Francisco \u201cAI\u201d chatbot revealed to be one man manually answering every prompt, reaching 5,000 queries an hour.",
         "link": "https://www.reddit.com/r/technology/comments/1vkc9iu/san_francisco_ai_chatbot_revealed_to_be_one_man/",
         "image": "https://external-preview.redd.it/amvdx_ES41xqExEgxHq5jt_VGBUniHXyDTT5eWRE2xw.jpeg?width=640&crop=smart&auto=webp&s=25f1a439577717bf85f88644d08e310145ecbc31",
         "published": "2026-08-10T05:44:44+00:00"
+    },
+    {
+        "title": "Myspace eyes comeback as an 'antidote' to social media fatigue",
+        "link": "https://www.reddit.com/r/technology/comments/1vjvg19/myspace_eyes_comeback_as_an_antidote_to_social/",
+        "image": "https://external-preview.redd.it/SMNZM18yoGBpSzpKBgFlyma4EHsDf2rGLtAVM9wMGt8.jpeg?width=640&crop=smart&auto=webp&s=aad5205aad5ad3c814599dd4de7aa9e4dcfa1160",
+        "published": "2026-08-09T17:15:00+00:00"
     },
     {
         "title": "Meta CTO says employees should use AI productivity gains to do more work, calls request for extra days off \"very dumb\"",
@@ -48,10 +48,10 @@
         "published": "2026-08-09T15:41:41+00:00"
     },
     {
-        "title": "After 24 years, Return to Castle Wolfenstein is finally distributed uncut in Germany \u2014 game was censored due to strict laws regarding Nazi symbolism",
-        "link": "https://www.reddit.com/r/technology/comments/1vjn90x/after_24_years_return_to_castle_wolfenstein_is/",
-        "image": "https://external-preview.redd.it/fmXB1esRBgtvM3ZFEdT4EgD96Rd9jDeeQ5XFWaSWz18.jpeg?width=640&crop=smart&auto=webp&s=787ff94cfb0366ba4ca5be595a09103d609b1ae3",
-        "published": "2026-08-09T11:15:38+00:00"
+        "title": "Top economist warns that the AI math doesn\u2019t make sense: 'Profits are currently being funded by investors rather than earned from customers'",
+        "link": "https://www.reddit.com/r/technology/comments/1vkg571/top_economist_warns_that_the_ai_math_doesnt_make/",
+        "image": "https://external-preview.redd.it/78z-nqKGw6nxq_6n0LADu5sYZSMtED86KKMXhqgmU8Y.jpeg?width=640&crop=smart&auto=webp&s=e42691bd55e719570c3dd8926f0c85ba792efc30",
+        "published": "2026-08-10T09:36:34+00:00"
     },
     {
         "title": "Flock Planned to Turn 350,000 Uber and Lyft Cars Into Rolling Surveillance Cameras",
@@ -72,12 +72,6 @@
         "published": "2026-08-09T20:11:28+00:00"
     },
     {
-        "title": "20% of Americans are already using AI for financial advice \u2014 another 70% don't trust it",
-        "link": "https://www.reddit.com/r/technology/comments/1vjtc0q/20_of_americans_are_already_using_ai_for/",
-        "image": "https://external-preview.redd.it/ef4Gt3z1AfY7mE_RblqpB_fIZpzGeG6a71xxfHuPXG0.jpeg?width=640&crop=smart&auto=webp&s=8564d5452a4380fae91072fe680f71680114b701",
-        "published": "2026-08-09T15:51:16+00:00"
-    },
-    {
         "title": "\u2018I\u2019ve definitely lost followers\u2019: influencers face backlash over Meta \u2018pervert glasses\u2019 content",
         "link": "https://www.reddit.com/r/technology/comments/1vk1vj2/ive_definitely_lost_followers_influencers_face/",
         "image": "https://external-preview.redd.it/PqTwtkY7cdyTgH5yQrrb0aCLaC8Z1jSNuwDLYQbqYEE.jpeg?width=640&crop=smart&auto=webp&s=ea8d1b2a99dce46589bd99bff4b013399ec2f932",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vjuqhl/reading_the_room_perfectly_us_president_becomes/",
         "image": "https://external-preview.redd.it/4HVbE3Pnq2jxwEeg55OMofINVptAIiuJcRvYyJvzbmM.jpeg?width=640&crop=smart&auto=webp&s=b79fa919166bd1c03396eb51e74e097c45cbee66",
         "published": "2026-08-09T16:47:01+00:00"
+    },
+    {
+        "title": "20% of Americans are already using AI for financial advice \u2014 another 70% don't trust it",
+        "link": "https://www.reddit.com/r/technology/comments/1vjtc0q/20_of_americans_are_already_using_ai_for/",
+        "image": "https://external-preview.redd.it/ef4Gt3z1AfY7mE_RblqpB_fIZpzGeG6a71xxfHuPXG0.jpeg?width=640&crop=smart&auto=webp&s=8564d5452a4380fae91072fe680f71680114b701",
+        "published": "2026-08-09T15:51:16+00:00"
     }
 ]
