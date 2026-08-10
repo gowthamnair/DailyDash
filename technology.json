@@ -42,6 +42,12 @@
         "published": "2026-08-09T19:07:56+00:00"
     },
     {
+        "title": "San Francisco \u201cAI\u201d chatbot revealed to be one man manually answering every prompt, reaching 5,000 queries an hour.",
+        "link": "https://www.reddit.com/r/technology/comments/1vkc9iu/san_francisco_ai_chatbot_revealed_to_be_one_man/",
+        "image": "https://external-preview.redd.it/amvdx_ES41xqExEgxHq5jt_VGBUniHXyDTT5eWRE2xw.jpeg?width=640&crop=smart&auto=webp&s=25f1a439577717bf85f88644d08e310145ecbc31",
+        "published": "2026-08-10T05:44:44+00:00"
+    },
+    {
         "title": "FCC moves to ban LiDAR-equipped foreign drones from US \u2014 classifies the technology as \"military-grade\" in a proposal that could also hit thermal models and the swarms used in drone light shows",
         "link": "https://www.reddit.com/r/technology/comments/1vjt3gx/fcc_moves_to_ban_lidarequipped_foreign_drones/",
         "image": "https://external-preview.redd.it/CVDv8t-k63GVZp_ZPh33UANMcah-Kh4gHxWUDlELtfs.jpeg?width=640&crop=smart&auto=webp&s=97037180346edcdd3f83bff5bd1dde8a5d4a59d0",
@@ -54,22 +60,10 @@
         "published": "2026-08-09T11:15:38+00:00"
     },
     {
-        "title": "20% of Americans are already using AI for financial advice \u2014 another 70% don't trust it",
-        "link": "https://www.reddit.com/r/technology/comments/1vjtc0q/20_of_americans_are_already_using_ai_for/",
-        "image": "https://external-preview.redd.it/ef4Gt3z1AfY7mE_RblqpB_fIZpzGeG6a71xxfHuPXG0.jpeg?width=640&crop=smart&auto=webp&s=8564d5452a4380fae91072fe680f71680114b701",
-        "published": "2026-08-09T15:51:16+00:00"
-    },
-    {
         "title": "Data Center Bans Top 500 as New York, Texas Join Pushback",
         "link": "https://www.reddit.com/r/technology/comments/1vk2uut/data_center_bans_top_500_as_new_york_texas_join/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-08-09T22:10:53+00:00"
-    },
-    {
-        "title": "Reading the room perfectly, US president becomes greatest defender of AI data centers \u2014 \u2018I saw Texas the other day sort of is against data centers. I think it\u2019s a mistake\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1vjuqhl/reading_the_room_perfectly_us_president_becomes/",
-        "image": "https://external-preview.redd.it/4HVbE3Pnq2jxwEeg55OMofINVptAIiuJcRvYyJvzbmM.jpeg?width=640&crop=smart&auto=webp&s=b79fa919166bd1c03396eb51e74e097c45cbee66",
-        "published": "2026-08-09T16:47:01+00:00"
     },
     {
         "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
@@ -78,15 +72,21 @@
         "published": "2026-08-09T20:11:28+00:00"
     },
     {
+        "title": "20% of Americans are already using AI for financial advice \u2014 another 70% don't trust it",
+        "link": "https://www.reddit.com/r/technology/comments/1vjtc0q/20_of_americans_are_already_using_ai_for/",
+        "image": "https://external-preview.redd.it/ef4Gt3z1AfY7mE_RblqpB_fIZpzGeG6a71xxfHuPXG0.jpeg?width=640&crop=smart&auto=webp&s=8564d5452a4380fae91072fe680f71680114b701",
+        "published": "2026-08-09T15:51:16+00:00"
+    },
+    {
+        "title": "Reading the room perfectly, US president becomes greatest defender of AI data centers \u2014 \u2018I saw Texas the other day sort of is against data centers. I think it\u2019s a mistake\u2019",
+        "link": "https://www.reddit.com/r/technology/comments/1vjuqhl/reading_the_room_perfectly_us_president_becomes/",
+        "image": "https://external-preview.redd.it/4HVbE3Pnq2jxwEeg55OMofINVptAIiuJcRvYyJvzbmM.jpeg?width=640&crop=smart&auto=webp&s=b79fa919166bd1c03396eb51e74e097c45cbee66",
+        "published": "2026-08-09T16:47:01+00:00"
+    },
+    {
         "title": "\u2018I\u2019ve definitely lost followers\u2019: influencers face backlash over Meta \u2018pervert glasses\u2019 content",
         "link": "https://www.reddit.com/r/technology/comments/1vk1vj2/ive_definitely_lost_followers_influencers_face/",
         "image": "https://external-preview.redd.it/PqTwtkY7cdyTgH5yQrrb0aCLaC8Z1jSNuwDLYQbqYEE.jpeg?width=640&crop=smart&auto=webp&s=ea8d1b2a99dce46589bd99bff4b013399ec2f932",
         "published": "2026-08-09T21:29:45+00:00"
-    },
-    {
-        "title": "San Francisco \u201cAI\u201d chatbot revealed to be one man manually answering every prompt, reaching 5,000 queries an hour.",
-        "link": "https://www.reddit.com/r/technology/comments/1vkc9iu/san_francisco_ai_chatbot_revealed_to_be_one_man/",
-        "image": "https://external-preview.redd.it/amvdx_ES41xqExEgxHq5jt_VGBUniHXyDTT5eWRE2xw.jpeg?width=640&crop=smart&auto=webp&s=25f1a439577717bf85f88644d08e310145ecbc31",
-        "published": "2026-08-10T05:44:44+00:00"
     }
 ]
