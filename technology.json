@@ -18,12 +18,6 @@
         "published": "2026-08-10T23:11:50+00:00"
     },
     {
-        "title": "The \u2018Manosphere\u2019 Isn\u2019t a Movement. It\u2019s a Multibillion-Dollar Grievance Industry | Many young men are driven to resentment and are financially exploited as influencers sell them classes, pills, and the illusion of clout, a new report reveals.",
-        "link": "https://www.reddit.com/r/technology/comments/1vkhkcw/the_manosphere_isnt_a_movement_its_a/",
-        "image": "https://external-preview.redd.it/PraqwFUkVKm74n3Y-C44aKwwbeCqGVFUdkY_SoK30no.jpeg?width=640&crop=smart&auto=webp&s=5af86c701bed7e17704802f59d962079216fef66",
-        "published": "2026-08-10T10:56:47+00:00"
-    },
-    {
         "title": "Mark Zuckerberg posts deranged 6,500-word essay about giving everyone AI \u2018superintelligence\u2019 \u2014 \u201cThe future is for everyone,\u201d he says, describing future that is primarily good for Meta",
         "link": "https://www.reddit.com/r/technology/comments/1vkx0sh/mark_zuckerberg_posts_deranged_6500word_essay/",
         "image": "https://external-preview.redd.it/_L0TbaP44OuaHCwa4y5OjXGa0urgkV2_eLqIe0nGsrg.png?width=640&crop=smart&auto=webp&s=1a26d39cf66644971c2c5aae0b44d413325bf3f8",
@@ -54,10 +48,10 @@
         "published": "2026-08-10T14:20:25+00:00"
     },
     {
-        "title": "Google's classic Search button is gone in a new AI-first homepage",
-        "link": "https://www.reddit.com/r/technology/comments/1vki9ji/googles_classic_search_button_is_gone_in_a_new/",
-        "image": "https://external-preview.redd.it/sUvPWRLhqaB9A_Cdy9A3zDFonqljas9EVRt_KtkB1gg.jpeg?width=640&crop=smart&auto=webp&s=1f9ae26af99c0a532be3b91252790d830b5e3e26",
-        "published": "2026-08-10T11:33:14+00:00"
+        "title": "Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules",
+        "link": "https://www.reddit.com/r/technology/comments/1vl31jk/copypaste_no_more_anthropic_puts_invisible/",
+        "image": "https://external-preview.redd.it/D3S2UEgAMHJM8wjTZK8e5CL_83Spi6FiYMleNM8vfJQ.jpeg?width=640&crop=smart&auto=webp&s=8da74e5c6e88b4a57745946335139b365d87114f",
+        "published": "2026-08-11T01:01:58+00:00"
     },
     {
         "title": "Over 70% of Americans oppose AI data centers; US protests intensify as more arrests are being made \u2014 almost 40 arrested this year in backlash to AI factory buildout",
@@ -72,12 +66,6 @@
         "published": "2026-08-10T21:52:07+00:00"
     },
     {
-        "title": "Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules",
-        "link": "https://www.reddit.com/r/technology/comments/1vl31jk/copypaste_no_more_anthropic_puts_invisible/",
-        "image": "https://external-preview.redd.it/D3S2UEgAMHJM8wjTZK8e5CL_83Spi6FiYMleNM8vfJQ.jpeg?width=640&crop=smart&auto=webp&s=8da74e5c6e88b4a57745946335139b365d87114f",
-        "published": "2026-08-11T01:01:58+00:00"
-    },
-    {
         "title": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
         "link": "https://www.reddit.com/r/technology/comments/1vl0w5o/ice_to_pay_lexisnexis_millions_for_data_to_feed/",
         "image": "https://external-preview.redd.it/oYUaFcZE-5UotFzeI0RHif1V09juGBYQIAWBRHF17xM.jpeg?width=640&crop=smart&auto=webp&s=79438f9cd75b2d20814cf9e39a96fcb2f498ca54",
@@ -88,5 +76,17 @@
         "link": "https://www.reddit.com/r/technology/comments/1vksfau/us_hires_over_2000_video_gamers_as_air_traffic/",
         "image": "https://external-preview.redd.it/MFIAAuhxNLpiIQxbkff5wsi4w5kH0LwCUN-HUyWTx4w.jpeg?width=640&crop=smart&auto=webp&s=67c543a0106b82c8dfec7131dd63e50e7d0da3c9",
         "published": "2026-08-10T18:05:18+00:00"
+    },
+    {
+        "title": "One in Three Alerts Wrong: High Error Rates and Data Concerns Force Cities to Drop Flock",
+        "link": "https://www.reddit.com/r/technology/comments/1vks55j/one_in_three_alerts_wrong_high_error_rates_and/",
+        "image": "https://external-preview.redd.it/PuBwNvBSVvDzLiPyfmFBCtqKUj9qyk6Rvu6uXWMA1VE.jpeg?width=640&crop=smart&auto=webp&s=89446b0e20d46e20afa1d9b2360812cb40b89487",
+        "published": "2026-08-10T17:55:12+00:00"
+    },
+    {
+        "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+        "link": "https://www.reddit.com/r/technology/comments/1vkjpxh/linus_torvalds_says_ai_has_made_huge_linux_kernel/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-10T12:40:35+00:00"
     }
 ]
