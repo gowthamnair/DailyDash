@@ -36,12 +36,6 @@
         "published": "2026-08-10T16:37:22+00:00"
     },
     {
-        "title": "'It's ridiculous that we pay for an operating system and still get served ads': Windows 11's Weather app comes under fire for pushing ads and eating way too much RAM",
-        "link": "https://www.reddit.com/r/technology/comments/1vkk07q/its_ridiculous_that_we_pay_for_an_operating/",
-        "image": "https://external-preview.redd.it/A7hoQrSUXQbILR8Tv5RbiloShF5RrH8clnjApR5Koso.jpeg?width=640&crop=smart&auto=webp&s=50f7b7c829c506d7e798cc75bbc3695bc431123b",
-        "published": "2026-08-10T12:52:43+00:00"
-    },
-    {
         "title": "Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules",
         "link": "https://www.reddit.com/r/technology/comments/1vl31jk/copypaste_no_more_anthropic_puts_invisible/",
         "image": "https://external-preview.redd.it/D3S2UEgAMHJM8wjTZK8e5CL_83Spi6FiYMleNM8vfJQ.jpeg?width=640&crop=smart&auto=webp&s=8da74e5c6e88b4a57745946335139b365d87114f",
@@ -66,6 +60,12 @@
         "published": "2026-08-10T23:27:59+00:00"
     },
     {
+        "title": "A cybersecurity researcher covered a Toyota in an AI-generated pattern to confuse Flock cameras",
+        "link": "https://www.reddit.com/r/technology/comments/1vla39l/a_cybersecurity_researcher_covered_a_toyota_in_an/",
+        "image": "https://external-preview.redd.it/soWTYUUPqZOvMzTY333sY4FEUpCTn1mTLtIvZEbr49s.jpeg?width=640&crop=smart&auto=webp&s=7a8afb9c304cd76b068987bce49aad408bed0cc7",
+        "published": "2026-08-11T06:59:52+00:00"
+    },
+    {
         "title": "US hires over 2,000 video gamers as air traffic controllers",
         "link": "https://www.reddit.com/r/technology/comments/1vksfau/us_hires_over_2000_video_gamers_as_air_traffic/",
         "image": "https://external-preview.redd.it/MFIAAuhxNLpiIQxbkff5wsi4w5kH0LwCUN-HUyWTx4w.jpeg?width=640&crop=smart&auto=webp&s=67c543a0106b82c8dfec7131dd63e50e7d0da3c9",
@@ -78,15 +78,15 @@
         "published": "2026-08-10T17:55:12+00:00"
     },
     {
-        "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-        "link": "https://www.reddit.com/r/technology/comments/1vkjpxh/linus_torvalds_says_ai_has_made_huge_linux_kernel/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-10T12:40:35+00:00"
+        "title": "Sanders calls for AI development pause",
+        "link": "https://www.reddit.com/r/technology/comments/1vkpwhx/sanders_calls_for_ai_development_pause/",
+        "image": "https://external-preview.redd.it/Jh6iVo64Co-1L3_ZTGqgM83GYFlB8wBGBqd53GRcHx4.jpeg?width=640&crop=smart&auto=webp&s=2af570e8895815819bc3f0068a25618a2cf9168f",
+        "published": "2026-08-10T16:35:46+00:00"
     },
     {
-        "title": "A cybersecurity researcher covered a Toyota in an AI-generated pattern to confuse Flock cameras",
-        "link": "https://www.reddit.com/r/technology/comments/1vla39l/a_cybersecurity_researcher_covered_a_toyota_in_an/",
-        "image": "https://external-preview.redd.it/soWTYUUPqZOvMzTY333sY4FEUpCTn1mTLtIvZEbr49s.jpeg?width=640&crop=smart&auto=webp&s=7a8afb9c304cd76b068987bce49aad408bed0cc7",
-        "published": "2026-08-11T06:59:52+00:00"
+        "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+        "link": "https://www.reddit.com/r/technology/comments/1vkwqj3/tech_leaders_say_ai_means_less_work_their_staff/",
+        "image": "https://external-preview.redd.it/NwQ-aMfA73ENfF_FVUZPwAhILEqWzYxkA67pc91DXTg.jpeg?width=640&crop=smart&auto=webp&s=4db14032c8694fbf45d7f7c578c5884157fe98a2",
+        "published": "2026-08-10T20:42:12+00:00"
     }
 ]
