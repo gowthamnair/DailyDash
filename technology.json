@@ -24,16 +24,16 @@
         "published": "2026-08-10T20:52:47+00:00"
     },
     {
-        "title": "California wants to ban AI therapists as thousands turn to chatbots for mental healthcare",
-        "link": "https://www.reddit.com/r/technology/comments/1vkpy52/california_wants_to_ban_ai_therapists_as/",
-        "image": "https://external-preview.redd.it/HN0ZHZNPvyPkpJtprz3ZIjQxxxuKtiQJRqpvZAin83A.jpeg?width=640&crop=smart&auto=webp&s=5659ce89cceebfde13e4abfe4c4e46ba831478e8",
-        "published": "2026-08-10T16:37:22+00:00"
-    },
-    {
         "title": "YouTube announces monetization changes that make it harder for new creators to make money",
         "link": "https://www.reddit.com/r/technology/comments/1vkvwxs/youtube_announces_monetization_changes_that_make/",
         "image": "https://external-preview.redd.it/Qh9JJbA6DcSDZ8tJLkQg5f2T0kz000fvaD5T6Gfl_Bc.jpeg?width=640&crop=smart&auto=webp&s=6f2ba73b409273f6f77bff3ba4e0ef1e6825bfb8",
         "published": "2026-08-10T20:11:52+00:00"
+    },
+    {
+        "title": "California wants to ban AI therapists as thousands turn to chatbots for mental healthcare",
+        "link": "https://www.reddit.com/r/technology/comments/1vkpy52/california_wants_to_ban_ai_therapists_as/",
+        "image": "https://external-preview.redd.it/HN0ZHZNPvyPkpJtprz3ZIjQxxxuKtiQJRqpvZAin83A.jpeg?width=640&crop=smart&auto=webp&s=5659ce89cceebfde13e4abfe4c4e46ba831478e8",
+        "published": "2026-08-10T16:37:22+00:00"
     },
     {
         "title": "'It's ridiculous that we pay for an operating system and still get served ads': Windows 11's Weather app comes under fire for pushing ads and eating way too much RAM",
@@ -42,22 +42,16 @@
         "published": "2026-08-10T12:52:43+00:00"
     },
     {
-        "title": "The AI Slop Backlash Is Actually Having an Impact",
-        "link": "https://www.reddit.com/r/technology/comments/1vkm7ei/the_ai_slop_backlash_is_actually_having_an_impact/",
-        "image": "https://external-preview.redd.it/E3WbgtYypXIa3u7KOWljrFCsUknQ4jMsdMmr5ZhNKrU.jpeg?width=640&crop=smart&auto=webp&s=5c66d4d5a16c8ba28ac22c43133a8c916e89c9e8",
-        "published": "2026-08-10T14:20:25+00:00"
-    },
-    {
         "title": "Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules",
         "link": "https://www.reddit.com/r/technology/comments/1vl31jk/copypaste_no_more_anthropic_puts_invisible/",
         "image": "https://external-preview.redd.it/D3S2UEgAMHJM8wjTZK8e5CL_83Spi6FiYMleNM8vfJQ.jpeg?width=640&crop=smart&auto=webp&s=8da74e5c6e88b4a57745946335139b365d87114f",
         "published": "2026-08-11T01:01:58+00:00"
     },
     {
-        "title": "Over 70% of Americans oppose AI data centers; US protests intensify as more arrests are being made \u2014 almost 40 arrested this year in backlash to AI factory buildout",
-        "link": "https://www.reddit.com/r/technology/comments/1vkiflj/over_70_of_americans_oppose_ai_data_centers_us/",
-        "image": "https://external-preview.redd.it/C1y8xIP9s8AFQ0Q5vVYeb4Y393LqCcyzISzw6n3HzPw.jpeg?width=640&crop=smart&auto=webp&s=f6e12dca34aaa8a7c729b4d7309281ef5d0a1e12",
-        "published": "2026-08-10T11:41:50+00:00"
+        "title": "The AI Slop Backlash Is Actually Having an Impact",
+        "link": "https://www.reddit.com/r/technology/comments/1vkm7ei/the_ai_slop_backlash_is_actually_having_an_impact/",
+        "image": "https://external-preview.redd.it/E3WbgtYypXIa3u7KOWljrFCsUknQ4jMsdMmr5ZhNKrU.jpeg?width=640&crop=smart&auto=webp&s=5c66d4d5a16c8ba28ac22c43133a8c916e89c9e8",
+        "published": "2026-08-10T14:20:25+00:00"
     },
     {
         "title": "Battlefield 6 player gets Steam refund after 470 hours because their favorite mode was removed",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vkjpxh/linus_torvalds_says_ai_has_made_huge_linux_kernel/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-08-10T12:40:35+00:00"
+    },
+    {
+        "title": "A cybersecurity researcher covered a Toyota in an AI-generated pattern to confuse Flock cameras",
+        "link": "https://www.reddit.com/r/technology/comments/1vla39l/a_cybersecurity_researcher_covered_a_toyota_in_an/",
+        "image": "https://external-preview.redd.it/soWTYUUPqZOvMzTY333sY4FEUpCTn1mTLtIvZEbr49s.jpeg?width=640&crop=smart&auto=webp&s=7a8afb9c304cd76b068987bce49aad408bed0cc7",
+        "published": "2026-08-11T06:59:52+00:00"
     }
 ]
