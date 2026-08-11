@@ -36,12 +36,6 @@
         "published": "2026-08-11T01:01:58+00:00"
     },
     {
-        "title": "Battlefield 6 player gets Steam refund after 470 hours because their favorite mode was removed",
-        "link": "https://www.reddit.com/r/technology/comments/1vkyk6p/battlefield_6_player_gets_steam_refund_after_470/",
-        "image": "https://external-preview.redd.it/VGKFp2pBhvANBa7ky5YmqPqvmeRKW5aC2sYubTFgBeA.jpeg?width=640&crop=smart&auto=webp&s=42ef20a5e2794cd15b54b1b89c4539e03077fa9f",
-        "published": "2026-08-10T21:52:07+00:00"
-    },
-    {
         "title": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
         "link": "https://www.reddit.com/r/technology/comments/1vl0w5o/ice_to_pay_lexisnexis_millions_for_data_to_feed/",
         "image": "https://external-preview.redd.it/oYUaFcZE-5UotFzeI0RHif1V09juGBYQIAWBRHF17xM.jpeg?width=640&crop=smart&auto=webp&s=79438f9cd75b2d20814cf9e39a96fcb2f498ca54",
@@ -66,10 +60,22 @@
         "published": "2026-08-11T10:36:56+00:00"
     },
     {
-        "title": "TikTok is calling US staffers back to the office 5 days a week, starting next month",
-        "link": "https://www.reddit.com/r/technology/comments/1vl1u1x/tiktok_is_calling_us_staffers_back_to_the_office/",
-        "image": "https://external-preview.redd.it/3ydawOgodmrWZyVF2ubbZ5fTcbdjNL2oO-eGVyHIojY.jpeg?width=640&crop=smart&auto=webp&s=69f32463e055f0cadbf7157630019071d4365d35",
-        "published": "2026-08-11T00:08:04+00:00"
+        "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community",
+        "link": "https://www.reddit.com/r/technology/comments/1vlri8d/amazon_used_a_startlingly_dirty_trick_to_build_a/",
+        "image": "https://external-preview.redd.it/6PrKskL0e7HzspOI89_VyHLLXY6LEGYgmnDYXLWsVUw.jpeg?width=640&crop=smart&auto=webp&s=e6e651c68f876ddb57bbf9e5e49896567182aa3e",
+        "published": "2026-08-11T19:32:45+00:00"
+    },
+    {
+        "title": "Google says Gemini has reached 1B users faster than any other Google product",
+        "link": "https://www.reddit.com/r/technology/comments/1vls9t0/google_says_gemini_has_reached_1b_users_faster/",
+        "image": "https://external-preview.redd.it/Au2upYA1fkFfQkUIbG0ghSxaDOI2WY9zSYGnV-qYIWg.jpeg?width=640&crop=smart&auto=webp&s=7d7151802d2664f3388221875400d84d6204ede2",
+        "published": "2026-08-11T20:00:37+00:00"
+    },
+    {
+        "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
+        "link": "https://www.reddit.com/r/technology/comments/1vlr0pd/mark_zuckerbergs_ai_manifesto_is_exactly_why/",
+        "image": "https://external-preview.redd.it/li0hp1e7iOSV5mNxjQ32DMPPkDD5s2vxWH-0MmqMBw8.jpeg?width=640&crop=smart&auto=webp&s=079df2cac173ad889445bf843a6da1f513b259e9",
+        "published": "2026-08-11T19:15:15+00:00"
     },
     {
         "title": "AI Investors Are Suddenly Quaking in Their Boots",
@@ -78,15 +84,9 @@
         "published": "2026-08-11T17:20:19+00:00"
     },
     {
-        "title": "Anthropic just rolled out a tool that'll decimate some people's dreams of writing AI novels undetected",
-        "link": "https://www.reddit.com/r/technology/comments/1vlah56/anthropic_just_rolled_out_a_tool_thatll_decimate/",
-        "image": "https://external-preview.redd.it/0TUeGZlnzdzZ0XmR6oZA4kPyP03W349ooLxu83AJZ0c.jpeg?width=640&crop=smart&auto=webp&s=25f84ae569aaba5e331292715b6946f899c1356f",
-        "published": "2026-08-11T07:21:58+00:00"
-    },
-    {
-        "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community",
-        "link": "https://www.reddit.com/r/technology/comments/1vlri8d/amazon_used_a_startlingly_dirty_trick_to_build_a/",
-        "image": "https://external-preview.redd.it/6PrKskL0e7HzspOI89_VyHLLXY6LEGYgmnDYXLWsVUw.jpeg?width=640&crop=smart&auto=webp&s=e6e651c68f876ddb57bbf9e5e49896567182aa3e",
-        "published": "2026-08-11T19:32:45+00:00"
+        "title": "TikTok is calling US staffers back to the office 5 days a week, starting next month",
+        "link": "https://www.reddit.com/r/technology/comments/1vl1u1x/tiktok_is_calling_us_staffers_back_to_the_office/",
+        "image": "https://external-preview.redd.it/3ydawOgodmrWZyVF2ubbZ5fTcbdjNL2oO-eGVyHIojY.jpeg?width=640&crop=smart&auto=webp&s=69f32463e055f0cadbf7157630019071d4365d35",
+        "published": "2026-08-11T00:08:04+00:00"
     }
 ]
