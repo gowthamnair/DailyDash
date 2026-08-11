@@ -1,92 +1,74 @@
 [
     {
-        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-        "link": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
-        "image": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a",
-        "published": "2026-08-08T13:01:25+00:00"
-    },
-    {
-        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
+        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+        "link": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-08T19:52:47+00:00"
+        "published": "2026-08-10T22:31:58+00:00"
     },
     {
-        "title": "Why is Reddit so delusional about AI capability?",
-        "link": "https://www.reddit.com/r/singularity/comments/1vjcoih/why_is_reddit_so_delusional_about_ai_capability/",
-        "image": "https://preview.redd.it/qd4pw79n49ih1.jpeg?width=640&crop=smart&auto=webp&s=cdf940970ba70e50a4a057dcac0f3fb5ee448ebc",
-        "published": "2026-08-09T01:24:30+00:00"
+        "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
+        "image": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7",
+        "published": "2026-08-11T13:41:45+00:00"
     },
     {
-        "title": "What YouTube videos Dario was watching to calm down after fighting with Sam? Right answers only",
-        "link": "https://www.reddit.com/r/singularity/comments/1viugai/what_youtube_videos_dario_was_watching_to_calm/",
-        "image": "https://preview.redd.it/gp6wqma775ih1.jpeg?width=640&crop=smart&auto=webp&s=adeefe6ae824b59698844936e4c44f392580b959",
-        "published": "2026-08-08T12:13:42+00:00"
+        "title": "BREAKING: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
+        "link": "https://www.reddit.com/r/singularity/comments/1vkywi9/breaking_nvidia_partners_with_apollo_blackrock/",
+        "image": "https://external-preview.redd.it/MVDzbCUsbfDZkssiomyPdtdxzxnkPP31MP7bcswqGj8.jpeg?width=640&crop=smart&auto=webp&s=4088384dacfdee0e0ca225d38454d0bea8b0c997",
+        "published": "2026-08-10T22:05:40+00:00"
     },
     {
-        "title": "ChatGPT Sol 5.6 high found a normalization error in two recently published Riemann Hypothesis papers. The author confirmed it.",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj3rck/chatgpt_sol_56_high_found_a_normalization_error/",
+        "title": "\"do ur thang\" using a mindless GPT 5.6 Sol claims to improve upon Anthropic's Riemann hypothesis +0.002%",
+        "link": "https://www.reddit.com/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/",
+        "image": "https://external-preview.redd.it/sGEBSL-l5rslRnCU_J6yZTnlkoBXN9HlNDMIHx07rOM.png?width=640&crop=smart&auto=webp&s=927bb8a3f754f3d939b749fde66705a5fdbf86bf",
+        "published": "2026-08-11T01:18:38+00:00"
+    },
+    {
+        "title": "Imbalance Conjecture proven and Teschner\u2019s bondage-number conjecture disproven by AI",
+        "link": "https://www.reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-08T18:45:48+00:00"
+        "published": "2026-08-10T21:19:11+00:00"
     },
     {
-        "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
-        "link": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
+        "title": "It seems that Linus Torvalds has a complicated relationship with AI.",
+        "link": "https://www.reddit.com/r/singularity/comments/1vkw9f5/it_seems_that_linus_torvalds_has_a_complicated/",
+        "image": "https://preview.redd.it/34y30xvywlih1.jpeg?width=640&crop=smart&auto=webp&s=06a03ffa78001a7c524b1a3eafdc27f8f31b3f91",
+        "published": "2026-08-10T20:24:37+00:00"
+    },
+    {
+        "title": "Cherokee Nation bans hyperscale data centers on tribally owned, trust lands",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlfhei/cherokee_nation_bans_hyperscale_data_centers_on/",
+        "image": "https://external-preview.redd.it/Vj1HvCmqWOBzyWwgVPZ2axl682cHVpk8tMstlzQWX3k.jpeg?width=640&crop=smart&auto=webp&s=b6d44ba69249d47362cc674aa912c1a274db3a11",
+        "published": "2026-08-11T12:01:41+00:00"
+    },
+    {
+        "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
+        "link": "https://www.reddit.com/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/",
+        "image": "https://preview.redd.it/f5mjxmk8crih1.jpeg?width=640&crop=smart&auto=webp&s=661ad233ac434c36767c862df3ec22aca36e5376",
+        "published": "2026-08-11T14:39:08+00:00"
+    },
+    {
+        "title": "What do y'all think is going on with Google?",
+        "link": "https://www.reddit.com/r/singularity/comments/1vl1cne/what_do_yall_think_is_going_on_with_google/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-09T04:49:41+00:00"
+        "published": "2026-08-10T23:47:51+00:00"
     },
     {
-        "title": "OpenAI\u2019s Model Codenamed \u201cDoug\u201d Will Reportedly Make Fable Look \u201cPrimitive\u201d",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj9xmh/openais_model_codenamed_doug_will_reportedly_make/",
+        "title": "Hot Take: LLM can 'jump'",
+        "link": "https://www.reddit.com/r/singularity/comments/1vllbw4/hot_take_llm_can_jump/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-08T23:12:49+00:00"
+        "published": "2026-08-11T15:52:33+00:00"
     },
     {
-        "title": "The End of Dario",
-        "link": "https://www.reddit.com/r/singularity/comments/1vixu4c/the_end_of_dario/",
-        "image": "https://preview.redd.it/bmnhf94ly5ih1.png?width=640&crop=smart&auto=webp&s=c33eb5cf287ce40e84b5ff135c34532066166c07",
-        "published": "2026-08-08T14:45:28+00:00"
-    },
-    {
-        "title": "Chubby\u2668\ufe0f (@kimmonismus) on X: \"According to pathfounders, Demis Hassabis actually wanted to leave along side Dean, but was convinced to stay because google was scared their stocks would crash\"",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj91uk/chubby_kimmonismus_on_x_according_to_pathfounders/",
+        "title": "Could AI create a new coding language that was incredibly token efficient to work with?",
+        "link": "https://www.reddit.com/r/singularity/comments/1vln3jy/could_ai_create_a_new_coding_language_that_was/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-08T22:33:04+00:00"
+        "published": "2026-08-11T16:56:04+00:00"
     },
     {
-        "title": "DeepSeek V4 Flash 0731 ARC-AGI-1 and 2",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj65p3/deepseek_v4_flash_0731_arcagi1_and_2/",
-        "image": "https://preview.redd.it/o3yky8nrm7ih1.png?width=140&height=65&auto=webp&s=c276ccfedaa1f9730ead14c0dfb8c89f7e7d47e8",
-        "published": "2026-08-08T20:26:13+00:00"
-    },
-    {
-        "title": "We are in a bubble sell everything",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj364h/we_are_in_a_bubble_sell_everything/",
-        "image": "https://preview.redd.it/2eled48917ih1.jpeg?width=640&crop=smart&auto=webp&s=1ebd97f7d0bed86fc92301727bbd8f84b4c9fd3b",
-        "published": "2026-08-08T18:21:57+00:00"
-    },
-    {
-        "title": "Detailed account of the OpenAI/Huggingface agentic hack",
-        "link": "https://www.reddit.com/r/singularity/comments/1vipy0p/detailed_account_of_the_openaihuggingface_agentic/",
-        "image": "https://external-preview.redd.it/ahSiSkRQxQzMR6GJd2t9N3jkP_-Fq470JlnhYjePCIY.jpeg?width=320&crop=smart&auto=webp&s=e02a6a22b54e2ebfc33e17bfce4c13197d894608",
-        "published": "2026-08-08T07:50:55+00:00"
-    },
-    {
-        "title": "More speculation about Hassabis' future role at Google",
-        "link": "https://www.reddit.com/r/singularity/comments/1vix2h7/more_speculation_about_hassabis_future_role_at/",
+        "title": "What do you think society after AGI, self-improving AI and ASI will look like?",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlk4x8/what_do_you_think_society_after_agi_selfimproving/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-08T14:12:51+00:00"
-    },
-    {
-        "title": "BeingBeyond is collecting accurate data for humanoid robot training by attaching robotic hands next to the human hands",
-        "link": "https://www.reddit.com/r/singularity/comments/1vizp8q/beingbeyond_is_collecting_accurate_data_for/",
-        "image": "https://external-preview.redd.it/enNqdGtpNmRjNmloMV5bXkhPDWk5QGiVDEgUEnNPERztKzJDwtQeg5iLlB8Q.png?width=640&crop=smart&auto=webp&s=840476ac1c886b933cbf6846f89a2cf7bc1bb63a",
-        "published": "2026-08-08T16:02:41+00:00"
-    },
-    {
-        "title": "Big brain Is coming !",
-        "link": "https://www.reddit.com/r/singularity/comments/1vj4nbc/big_brain_is_coming/",
-        "image": "https://external-preview.redd.it/6f9qRfodjOxIFwZ7HkNmvWJEx99rD4bvmPKUCJBdiK0.png?width=640&crop=smart&auto=webp&s=a1aaf0f4e7e15571507abb0484370b7e8a333a2b",
-        "published": "2026-08-08T19:22:19+00:00"
+        "published": "2026-08-11T15:09:47+00:00"
     }
 ]
