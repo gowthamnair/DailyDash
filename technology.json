@@ -6,12 +6,6 @@
         "published": "2026-08-11T16:36:37+00:00"
     },
     {
-        "title": "A cybersecurity researcher covered a Toyota in an AI-generated pattern to confuse Flock cameras",
-        "link": "https://www.reddit.com/r/technology/comments/1vla39l/a_cybersecurity_researcher_covered_a_toyota_in_an/",
-        "image": "https://external-preview.redd.it/soWTYUUPqZOvMzTY333sY4FEUpCTn1mTLtIvZEbr49s.jpeg?width=640&crop=smart&auto=webp&s=7a8afb9c304cd76b068987bce49aad408bed0cc7",
-        "published": "2026-08-11T06:59:52+00:00"
-    },
-    {
         "title": "Ken Paxton\u2019s Political Operation Rakes In Data Center Donations as Texans Turn Against Industry",
         "link": "https://www.reddit.com/r/technology/comments/1vljm13/ken_paxtons_political_operation_rakes_in_data/",
         "image": "https://external-preview.redd.it/xoUk9cx-rR1Chv3jeGP9pfpHpiYR4-r18khZHWNns5Q.jpeg?width=640&crop=smart&auto=webp&s=35256dde4f25720f8e1f8858aff7ab1e26961450",
@@ -36,16 +30,16 @@
         "published": "2026-08-11T19:15:15+00:00"
     },
     {
-        "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community",
-        "link": "https://www.reddit.com/r/technology/comments/1vlri8d/amazon_used_a_startlingly_dirty_trick_to_build_a/",
-        "image": "https://external-preview.redd.it/6PrKskL0e7HzspOI89_VyHLLXY6LEGYgmnDYXLWsVUw.jpeg?width=640&crop=smart&auto=webp&s=e6e651c68f876ddb57bbf9e5e49896567182aa3e",
-        "published": "2026-08-11T19:32:45+00:00"
-    },
-    {
         "title": "Amazon's new Texas data center could become the single largest polluter in the US",
         "link": "https://www.reddit.com/r/technology/comments/1vlwwga/amazons_new_texas_data_center_could_become_the/",
         "image": "https://external-preview.redd.it/lDriJTvxP6IyFBxKV1_kZpDC3FynlatIB11KpyPp5g0.jpeg?width=640&crop=smart&auto=webp&s=e23dfd03e00f544024c5617d2c938b4f4815854a",
         "published": "2026-08-11T22:59:34+00:00"
+    },
+    {
+        "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community",
+        "link": "https://www.reddit.com/r/technology/comments/1vlri8d/amazon_used_a_startlingly_dirty_trick_to_build_a/",
+        "image": "https://external-preview.redd.it/6PrKskL0e7HzspOI89_VyHLLXY6LEGYgmnDYXLWsVUw.jpeg?width=640&crop=smart&auto=webp&s=e6e651c68f876ddb57bbf9e5e49896567182aa3e",
+        "published": "2026-08-11T19:32:45+00:00"
     },
     {
         "title": "Tesla to recall over 20,000 US vehicles over excessively bright low-beam headlights",
@@ -60,16 +54,16 @@
         "published": "2026-08-11T12:05:04+00:00"
     },
     {
-        "title": "Microsoft reportedly raises Windows 11 license price significantly more than expected",
-        "link": "https://www.reddit.com/r/technology/comments/1vldtk6/microsoft_reportedly_raises_windows_11_license/",
-        "image": "https://external-preview.redd.it/mASRO0bLhZtO_-BO1eYVLqQWs3PiPHo3vEt3tJC-KaQ.jpeg?width=640&crop=smart&auto=webp&s=90217a1c7a4f14baa74244f0f81e370d5c5aaaa0",
-        "published": "2026-08-11T10:36:56+00:00"
-    },
-    {
         "title": "AI Investors Are Suddenly Quaking in Their Boots",
         "link": "https://www.reddit.com/r/technology/comments/1vlnsjr/ai_investors_are_suddenly_quaking_in_their_boots/",
         "image": "https://external-preview.redd.it/Z0DaKzjfGdx2xHKkgefvlzorP9nSlaIU1CLXzJ_6ryg.jpeg?width=640&crop=smart&auto=webp&s=fa5ad72ad7c549fbfa04ad34664e5c59b09b61f6",
         "published": "2026-08-11T17:20:19+00:00"
+    },
+    {
+        "title": "Microsoft reportedly raises Windows 11 license price significantly more than expected",
+        "link": "https://www.reddit.com/r/technology/comments/1vldtk6/microsoft_reportedly_raises_windows_11_license/",
+        "image": "https://external-preview.redd.it/mASRO0bLhZtO_-BO1eYVLqQWs3PiPHo3vEt3tJC-KaQ.jpeg?width=640&crop=smart&auto=webp&s=90217a1c7a4f14baa74244f0f81e370d5c5aaaa0",
+        "published": "2026-08-11T10:36:56+00:00"
     },
     {
         "title": "Why Is Everyone In Tech So Sad?",
@@ -84,9 +78,15 @@
         "published": "2026-08-12T00:13:55+00:00"
     },
     {
-        "title": "Anthropic just rolled out a tool that'll decimate some people's dreams of writing AI novels undetected",
-        "link": "https://www.reddit.com/r/technology/comments/1vlah56/anthropic_just_rolled_out_a_tool_thatll_decimate/",
-        "image": "https://external-preview.redd.it/0TUeGZlnzdzZ0XmR6oZA4kPyP03W349ooLxu83AJZ0c.jpeg?width=640&crop=smart&auto=webp&s=25f84ae569aaba5e331292715b6946f899c1356f",
-        "published": "2026-08-11T07:21:58+00:00"
+        "title": "Facebook is paying far-right agitators to produce rage-bait content",
+        "link": "https://www.reddit.com/r/technology/comments/1vm3tr2/facebook_is_paying_farright_agitators_to_produce/",
+        "image": "https://external-preview.redd.it/BiDZu9BmjdsRoruPD9c5eyt1nqrxjMpIno_sngDnpY4.jpeg?width=640&crop=smart&auto=webp&s=2a50978afade28a9a4fa168a54a221d12afa3554",
+        "published": "2026-08-12T04:17:57+00:00"
+    },
+    {
+        "title": "Bernie Sanders tells OpenAI, Anthropic, and Meta to pause AI development or face Senate action",
+        "link": "https://www.reddit.com/r/technology/comments/1vlf1dl/bernie_sanders_tells_openai_anthropic_and_meta_to/",
+        "image": "https://external-preview.redd.it/nbt3GyUphyDijFpvasw4ROZPssKP63pPfNmVmt946GE.jpeg?width=640&crop=smart&auto=webp&s=f80e3dbedb87a5b363efe157ae0e4f9f63ff7e8a",
+        "published": "2026-08-11T11:40:23+00:00"
     }
 ]
