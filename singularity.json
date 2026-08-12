@@ -1,39 +1,15 @@
 [
     {
-        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
-        "link": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-10T22:31:58+00:00"
-    },
-    {
         "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
         "link": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
         "image": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7",
         "published": "2026-08-11T13:41:45+00:00"
     },
     {
-        "title": "BREAKING: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
-        "link": "https://www.reddit.com/r/singularity/comments/1vkywi9/breaking_nvidia_partners_with_apollo_blackrock/",
-        "image": "https://external-preview.redd.it/MVDzbCUsbfDZkssiomyPdtdxzxnkPP31MP7bcswqGj8.jpeg?width=640&crop=smart&auto=webp&s=4088384dacfdee0e0ca225d38454d0bea8b0c997",
-        "published": "2026-08-10T22:05:40+00:00"
-    },
-    {
-        "title": "\"do ur thang\" using a mindless GPT 5.6 Sol claims to improve upon Anthropic's Riemann hypothesis +0.002%",
-        "link": "https://www.reddit.com/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/",
-        "image": "https://external-preview.redd.it/sGEBSL-l5rslRnCU_J6yZTnlkoBXN9HlNDMIHx07rOM.png?width=640&crop=smart&auto=webp&s=927bb8a3f754f3d939b749fde66705a5fdbf86bf",
-        "published": "2026-08-11T01:18:38+00:00"
-    },
-    {
-        "title": "Imbalance Conjecture proven and Teschner\u2019s bondage-number conjecture disproven by AI",
-        "link": "https://www.reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+        "title": "OpenAI's Chief Operating Officer resigns.",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-10T21:19:11+00:00"
-    },
-    {
-        "title": "It seems that Linus Torvalds has a complicated relationship with AI.",
-        "link": "https://www.reddit.com/r/singularity/comments/1vkw9f5/it_seems_that_linus_torvalds_has_a_complicated/",
-        "image": "https://preview.redd.it/34y30xvywlih1.jpeg?width=640&crop=smart&auto=webp&s=06a03ffa78001a7c524b1a3eafdc27f8f31b3f91",
-        "published": "2026-08-10T20:24:37+00:00"
+        "published": "2026-08-11T20:09:19+00:00"
     },
     {
         "title": "Cherokee Nation bans hyperscale data centers on tribally owned, trust lands",
@@ -48,10 +24,40 @@
         "published": "2026-08-11T14:39:08+00:00"
     },
     {
-        "title": "What do y'all think is going on with Google?",
-        "link": "https://www.reddit.com/r/singularity/comments/1vl1cne/what_do_yall_think_is_going_on_with_google/",
+        "title": "Could AI create a new coding language that was incredibly token efficient to work with?",
+        "link": "https://www.reddit.com/r/singularity/comments/1vln3jy/could_ai_create_a_new_coding_language_that_was/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-10T23:47:51+00:00"
+        "published": "2026-08-11T16:56:04+00:00"
+    },
+    {
+        "title": "ChatGPT Desktop with wider support now in preview.",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlq75e/chatgpt_desktop_with_wider_support_now_in_preview/",
+        "image": "https://preview.redd.it/q9i5yhk6ksih1.png?width=320&crop=smart&auto=webp&s=0008fc8ad89b12d39a054c7db1c62ca2d6231bac",
+        "published": "2026-08-11T18:45:54+00:00"
+    },
+    {
+        "title": "Watermarking LLM Outputs is Going to be Standard Thanks to EU Regulations",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlrvkd/watermarking_llm_outputs_is_going_to_be_standard/",
+        "image": "https://preview.redd.it/a257ldbousih1.jpeg?width=640&crop=smart&auto=webp&s=f607ac7eea6de7372e0b84faebe7bf9095c27590",
+        "published": "2026-08-11T19:46:14+00:00"
+    },
+    {
+        "title": "Dwarkesh Patel (guest Ryan Greenblatt) - What happens once Al can automate Al research?",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlujj2/dwarkesh_patel_guest_ryan_greenblatt_what_happens/",
+        "image": "https://external-preview.redd.it/Tdbqgg-hvg5noVVt8PGmRF08PjHKsKCi6gy3O1pWxHo.jpeg?width=320&crop=smart&auto=webp&s=03043ec630a45f972d6e8a3e4b86a6c53c565259",
+        "published": "2026-08-11T21:25:19+00:00"
+    },
+    {
+        "title": "Scientists Used Post-Mortem Brain Tissue to Control a Robot",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlq71j/scientists_used_postmortem_brain_tissue_to/",
+        "image": "https://external-preview.redd.it/sZcfLXIEzneiVOr2P3jT2O3C92pr5ODj9uNr_8BJ4Ns.jpeg?width=320&crop=smart&auto=webp&s=3d53d26238b9a3f1c2d8ebecdbdf95cba67ba859",
+        "published": "2026-08-11T18:45:48+00:00"
+    },
+    {
+        "title": "Us in the future",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlw6tj/us_in_the_future/",
+        "image": "https://preview.redd.it/95d3z423otih1.jpg?width=140&height=140&auto=webp&s=229910f1600b15cc5a5d301c146fc60613d21f2e",
+        "published": "2026-08-11T22:30:15+00:00"
     },
     {
         "title": "Hot Take: LLM can 'jump'",
@@ -60,15 +66,27 @@
         "published": "2026-08-11T15:52:33+00:00"
     },
     {
-        "title": "Could AI create a new coding language that was incredibly token efficient to work with?",
-        "link": "https://www.reddit.com/r/singularity/comments/1vln3jy/could_ai_create_a_new_coding_language_that_was/",
+        "title": "AMIE, Google's research medical Al system, demonstrates real-time clinical video consultation capabilities in a first-of-its- kind study.",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlrc9k/amie_googles_research_medical_al_system/",
+        "image": "https://external-preview.redd.it/drXUkDiy3K1quqqCYg1n4QP4A50fF7KJS8Ou3VQgjJU.jpeg?width=320&crop=smart&auto=webp&s=7d1eb871111c8329ee40db426cf1515f37b7d882",
+        "published": "2026-08-11T19:26:46+00:00"
+    },
+    {
+        "title": "Why is AI so good at hacking companies and going rogue internally, but such a hard time replacing white collar jobs?",
+        "link": "https://www.reddit.com/r/singularity/comments/1vm1kh6/why_is_ai_so_good_at_hacking_companies_and_going/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-11T16:56:04+00:00"
+        "published": "2026-08-12T02:27:11+00:00"
     },
     {
         "title": "What do you think society after AGI, self-improving AI and ASI will look like?",
         "link": "https://www.reddit.com/r/singularity/comments/1vlk4x8/what_do_you_think_society_after_agi_selfimproving/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-08-11T15:09:47+00:00"
+    },
+    {
+        "title": "Making decisions as we inch closer to the singuarity",
+        "link": "https://www.reddit.com/r/singularity/comments/1vlspxb/making_decisions_as_we_inch_closer_to_the/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-11T20:17:22+00:00"
     }
 ]
