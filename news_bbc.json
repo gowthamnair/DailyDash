@@ -1,11 +1,5 @@
 [
     {
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg",
-        "published": "Tue, 11 Aug 2026 19:09:52 GMT"
-    },
-    {
         "title": "Trump confirms he switched planes after Nato summit because of possible threat",
         "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e32/live/76fded00-9632-11f1-b2ab-0dd01740f9f6.jpg",
@@ -18,10 +12,28 @@
         "published": "Wed, 12 Aug 2026 00:14:42 GMT"
     },
     {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d93/live/417bbe50-961e-11f1-adec-3f90c109009f.jpg",
-        "published": "Wed, 12 Aug 2026 07:44:44 GMT"
+        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a59/live/21ee2fc0-963f-11f1-8414-97750c5a4202.jpg",
+        "published": "Wed, 12 Aug 2026 11:28:02 GMT"
+    },
+    {
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+        "published": "Wed, 12 Aug 2026 12:16:22 GMT"
+    },
+    {
+        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png",
+        "published": "Wed, 12 Aug 2026 11:28:05 GMT"
+    },
+    {
+        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea3e/live/dbc88590-9639-11f1-b809-7db91972344e.jpg",
+        "published": "Wed, 12 Aug 2026 12:10:45 GMT"
     },
     {
         "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
@@ -30,10 +42,10 @@
         "published": "Wed, 12 Aug 2026 11:32:17 GMT"
     },
     {
-        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-        "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
-        "published": "Tue, 11 Aug 2026 21:14:56 GMT"
+        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+        "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d93/live/417bbe50-961e-11f1-adec-3f90c109009f.jpg",
+        "published": "Wed, 12 Aug 2026 07:44:44 GMT"
     },
     {
         "title": "Cristiano Ronaldo marries long-time partner Georgina Rodr\u00edguez",
@@ -48,10 +60,16 @@
         "published": "Wed, 12 Aug 2026 08:50:52 GMT"
     },
     {
-        "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+        "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
         "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64ae/live/552e0070-960f-11f1-9e5b-d5848bb02f11.jpg",
-        "published": "Wed, 12 Aug 2026 07:16:44 GMT"
+        "published": "Wed, 12 Aug 2026 12:01:34 GMT"
+    },
+    {
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
+        "published": "Tue, 11 Aug 2026 21:14:56 GMT"
     },
     {
         "title": "Lebanon parliament votes to abolish death penalty",
@@ -70,23 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c00b/live/f68500b0-95ef-11f1-8cd0-25a450fbc45d.jpg",
         "published": "Wed, 12 Aug 2026 02:51:02 GMT"
-    },
-    {
-        "title": "France bans unsolicited telemarketing calls",
-        "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e97/live/62cc8120-9583-11f1-8636-978a48bd79b6.jpg",
-        "published": "Tue, 11 Aug 2026 14:19:45 GMT"
-    },
-    {
-        "title": "Former judge removed by Orb\u00e1n elected Hungarian president",
-        "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21ba/live/772d0f60-959a-11f1-976a-4934d54b5403.jpg",
-        "published": "Tue, 11 Aug 2026 18:34:39 GMT"
-    },
-    {
-        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fc5/live/0bd135a0-9592-11f1-870d-5d08c49babb2.jpg",
-        "published": "Tue, 11 Aug 2026 23:31:18 GMT"
     }
 ]
