@@ -1,15 +1,15 @@
 [
     {
-        "title": "Facebook is paying far-right agitators to produce rage-bait content",
-        "link": "https://www.reddit.com/r/technology/comments/1vm3tr2/facebook_is_paying_farright_agitators_to_produce/",
-        "image": "https://external-preview.redd.it/BiDZu9BmjdsRoruPD9c5eyt1nqrxjMpIno_sngDnpY4.jpeg?width=640&crop=smart&auto=webp&s=2a50978afade28a9a4fa168a54a221d12afa3554",
-        "published": "2026-08-12T04:17:57+00:00"
-    },
-    {
         "title": "Google apologizes for not refunding man\u2019s LoTR movies after they vanished from library",
         "link": "https://www.reddit.com/r/technology/comments/1vmfyxz/google_apologizes_for_not_refunding_mans_lotr/",
         "image": "https://external-preview.redd.it/hrzGv5ttDHN-xor36NNFZ54W2_q8Lh7GXpjsuNSrr2Q.jpeg?width=640&crop=smart&auto=webp&s=4e504ec73f50d0389fd19b001f54f364f0020a72",
         "published": "2026-08-12T14:38:10+00:00"
+    },
+    {
+        "title": "Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out. \"If it was opt in, nobody would opt in,\" admitted the streaming site's chief product officer during a livestream",
+        "link": "https://www.reddit.com/r/technology/comments/1vmtqqa/twitch_is_now_using_your_content_to_train_amazon/",
+        "image": "https://external-preview.redd.it/ofeXxtaSizcF0wohOCEqaHZE5j9xunwhiV1X6cSzy8g.jpeg?width=640&crop=smart&auto=webp&s=b73745d1a49cd0fb054437d62f3fac509faf11a5",
+        "published": "2026-08-12T23:10:16+00:00"
     },
     {
         "title": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts / Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
@@ -28,12 +28,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1vm7cal/farmer_kills_25_acres_of_his_own_crops_after/",
         "image": "https://external-preview.redd.it/LZcZ9TunkF42RNIRs003jSas_1qEpkOsuH_hTuIjA0A.jpeg?width=640&crop=smart&auto=webp&s=b87d515f9dcf3df9f27757a35fd6661478a9a684",
         "published": "2026-08-12T07:34:26+00:00"
-    },
-    {
-        "title": "Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out. \"If it was opt in, nobody would opt in,\" admitted the streaming site's chief product officer during a livestream",
-        "link": "https://www.reddit.com/r/technology/comments/1vmtqqa/twitch_is_now_using_your_content_to_train_amazon/",
-        "image": "https://external-preview.redd.it/ofeXxtaSizcF0wohOCEqaHZE5j9xunwhiV1X6cSzy8g.jpeg?width=640&crop=smart&auto=webp&s=b73745d1a49cd0fb054437d62f3fac509faf11a5",
-        "published": "2026-08-12T23:10:16+00:00"
     },
     {
         "title": "McDonald\u2019s Built a 515-Page Dossier on Me. It Says I\u2019ll Never Stop Eating There",
@@ -60,22 +54,28 @@
         "published": "2026-08-12T11:25:58+00:00"
     },
     {
+        "title": "Chinese bullet train breaks acceleration world record by going from 0 to 800kmph in 5 seconds",
+        "link": "https://www.reddit.com/r/technology/comments/1vmy69h/chinese_bullet_train_breaks_acceleration_world/",
+        "image": "https://external-preview.redd.it/jYZ6btC_9amGOkYqtOvgL1C-5QUEp3YR2zwRJRKGzKc.jpeg?width=640&crop=smart&auto=webp&s=194644051c54f4e9582c0588b16cc396d5dea9da",
+        "published": "2026-08-13T02:27:22+00:00"
+    },
+    {
         "title": "The \"Godmother of AI\" says the biggest AI risk in schools isn't cheating \u2013 it's students losing the desire to learn",
         "link": "https://www.reddit.com/r/technology/comments/1vmlmzr/the_godmother_of_ai_says_the_biggest_ai_risk_in/",
         "image": "https://external-preview.redd.it/XblNnu7mKAGUhMn3SowWZ5eu8aAqIEDlX1kGicvhYjE.jpeg?width=640&crop=smart&auto=webp&s=b73980624764894529db30ae8bc1163eb4276ddd",
         "published": "2026-08-12T18:00:51+00:00"
     },
     {
-        "title": "'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office",
-        "link": "https://www.reddit.com/r/technology/comments/1vmc05e/stop_stealing_our_future_students_arrested_in/",
-        "image": "https://external-preview.redd.it/Zb7Ebc_LZ8ErTfIs1IKqYBQXKIfAf4cbmq0gNpDoiBM.png?width=640&crop=smart&auto=webp&s=bb8f7b0eb1c18934a018d25b19e02bc021a68aef",
-        "published": "2026-08-12T11:55:19+00:00"
-    },
-    {
         "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
         "link": "https://www.reddit.com/r/technology/comments/1vmtw7h/some_claude_users_are_mad_that_anthropics_new/",
         "image": "https://external-preview.redd.it/m8JCUheeqnKgpeJk3sqFnlAIEj1OAE1lqNOYjNO_Xg8.jpeg?width=640&crop=smart&auto=webp&s=fd9e951dd959cbb0d78eecad91d82f6ce8cf621a",
         "published": "2026-08-12T23:16:45+00:00"
+    },
+    {
+        "title": "'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office",
+        "link": "https://www.reddit.com/r/technology/comments/1vmc05e/stop_stealing_our_future_students_arrested_in/",
+        "image": "https://external-preview.redd.it/Zb7Ebc_LZ8ErTfIs1IKqYBQXKIfAf4cbmq0gNpDoiBM.png?width=640&crop=smart&auto=webp&s=bb8f7b0eb1c18934a018d25b19e02bc021a68aef",
+        "published": "2026-08-12T11:55:19+00:00"
     },
     {
         "title": "AI\u2019s climate problem is worse than we thought",
