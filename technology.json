@@ -1,5 +1,11 @@
 [
     {
+        "title": "Firefox is now the last major browser that still supports uBlock Origin",
+        "link": "https://www.reddit.com/r/technology/comments/1voafjc/firefox_is_now_the_last_major_browser_that_still/",
+        "image": "https://external-preview.redd.it/HX_x1lGuhE14GFQpiND40OwClMRTSIUnPEoa3CN7IY8.png?width=640&crop=smart&auto=webp&s=ac97c5e4959c846f8b98a15e4a61dc4ced45304a",
+        "published": "2026-08-14T15:29:40+00:00"
+    },
+    {
         "title": "US conducted \u2018mass spying campaign\u2019 against leftwing groups and anti-ICE protesters, records reveal",
         "link": "https://www.reddit.com/r/technology/comments/1vnwgay/us_conducted_mass_spying_campaign_against/",
         "image": "https://external-preview.redd.it/gMGnL-EFRovFFc-JVzQxQvc7kY1o-Wlz4sGKNBO6VZk.jpeg?width=640&crop=smart&auto=webp&s=05b7b637a2f1127100391573959fe90da538798f",
@@ -12,22 +18,16 @@
         "published": "2026-08-13T20:00:58+00:00"
     },
     {
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "link": "https://www.reddit.com/r/technology/comments/1voafjc/firefox_is_now_the_last_major_browser_that_still/",
-        "image": "https://external-preview.redd.it/HX_x1lGuhE14GFQpiND40OwClMRTSIUnPEoa3CN7IY8.png?width=640&crop=smart&auto=webp&s=ac97c5e4959c846f8b98a15e4a61dc4ced45304a",
-        "published": "2026-08-14T15:29:40+00:00"
+        "title": "Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions The Navy spent years fighting the president\u2019s push to go back to steam catapults",
+        "link": "https://www.reddit.com/r/technology/comments/1vo0fjg/trump_orders_navy_to_restore_older_tech_on/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-14T07:25:26+00:00"
     },
     {
         "title": "Discord raises free upload limit to 20MB after lowering it two years ago because \"storage management is expensive\"",
         "link": "https://www.reddit.com/r/technology/comments/1vnmb6w/discord_raises_free_upload_limit_to_20mb_after/",
         "image": "https://external-preview.redd.it/o2oVJb9YGRartBQ8EHvQ5s845UY-YQfkT5igGab_b5c.jpeg?width=640&crop=smart&auto=webp&s=bbbb7bed32b79922c62638fe25aac417b36cbcd2",
         "published": "2026-08-13T20:26:38+00:00"
-    },
-    {
-        "title": "Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions The Navy spent years fighting the president\u2019s push to go back to steam catapults",
-        "link": "https://www.reddit.com/r/technology/comments/1vo0fjg/trump_orders_navy_to_restore_older_tech_on/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-14T07:25:26+00:00"
     },
     {
         "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
@@ -66,16 +66,16 @@
         "published": "2026-08-14T12:23:55+00:00"
     },
     {
-        "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
-        "link": "https://www.reddit.com/r/technology/comments/1vnxbgv/apple_adds_iphone_x_and_2018_macbook_pro_to/",
-        "image": "https://external-preview.redd.it/NB8wegPmoC6fs93dn7-td_FztmbAVyrq5WdOrYtZXKc.jpeg?width=640&crop=smart&auto=webp&s=3e3126a2a94d68e20b36c213c58b09c73eda9f93",
-        "published": "2026-08-14T04:32:44+00:00"
-    },
-    {
         "title": "VLC blames Windows 11 bug for slow performance, defends open source and calls out Microsoft",
         "link": "https://www.reddit.com/r/technology/comments/1vo85kf/vlc_blames_windows_11_bug_for_slow_performance/",
         "image": "https://external-preview.redd.it/CGpXt-UgWCoaI9IVgWj9kq0qBol3SFNfWhCpkq4Lcjc.jpeg?width=640&crop=smart&auto=webp&s=3c72fa70c546b153fd5a0d6956bc9f2b87fdbb9f",
         "published": "2026-08-14T14:02:52+00:00"
+    },
+    {
+        "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
+        "link": "https://www.reddit.com/r/technology/comments/1vnxbgv/apple_adds_iphone_x_and_2018_macbook_pro_to/",
+        "image": "https://external-preview.redd.it/NB8wegPmoC6fs93dn7-td_FztmbAVyrq5WdOrYtZXKc.jpeg?width=640&crop=smart&auto=webp&s=3e3126a2a94d68e20b36c213c58b09c73eda9f93",
+        "published": "2026-08-14T04:32:44+00:00"
     },
     {
         "title": "Twitch finally lets you opt out of AI training, years after it started",
@@ -84,9 +84,9 @@
         "published": "2026-08-13T19:12:45+00:00"
     },
     {
-        "title": "Flock Admits Failures That Put Innocent People at Risk, Overhauls Police Search Rules",
-        "link": "https://www.reddit.com/r/technology/comments/1vnibsq/flock_admits_failures_that_put_innocent_people_at/",
-        "image": "https://external-preview.redd.it/v8Ppr71XvrCEFuWTRscd8w7AgNA-qWy8wi3RVBlfD4c.jpeg?width=640&crop=smart&auto=webp&s=794e72feb1a03a0a8b87713e1a18ae73ac9ac7a3",
-        "published": "2026-08-13T18:03:56+00:00"
+        "title": "Researchers find Windows 11 can be hacked with no physical access with new attack",
+        "link": "https://www.reddit.com/r/technology/comments/1vnqj5d/researchers_find_windows_11_can_be_hacked_with_no/",
+        "image": "https://external-preview.redd.it/kn83Mlr2iw_qyhGlDm8tuuTuYl6s9YGyuVigduS13f8.jpeg?width=640&crop=smart&auto=webp&s=b58eb02296c6b52de74906dd060a8936ee0382b0",
+        "published": "2026-08-13T23:15:09+00:00"
     }
 ]
