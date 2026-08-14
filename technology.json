@@ -30,16 +30,16 @@
         "published": "2026-08-13T20:26:38+00:00"
     },
     {
+        "title": "Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions The Navy spent years fighting the president\u2019s push to go back to steam catapults",
+        "link": "https://www.reddit.com/r/technology/comments/1vo0fjg/trump_orders_navy_to_restore_older_tech_on/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-14T07:25:26+00:00"
+    },
+    {
         "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
         "link": "https://www.reddit.com/r/technology/comments/1vno0iz/bumble_divides_users_by_ditching_its_signature/",
         "image": "https://external-preview.redd.it/6UudLRvZfB08X6paiKatL2UhhkZh1mluabGrSf3MKIY.jpeg?width=640&crop=smart&auto=webp&s=54b70cde44ce3b303f7af57a0d86a99123fd5f1b",
         "published": "2026-08-13T21:32:13+00:00"
-    },
-    {
-        "title": "Feeling stressed and overworked? Don't worry - OpenAI CEO Sam Altman thinks that we just love to work, and that's why AI won't result in a four-day working week",
-        "link": "https://www.reddit.com/r/technology/comments/1vn9mh9/feeling_stressed_and_overworked_dont_worry_openai/",
-        "image": "https://external-preview.redd.it/zVZMMecfczO1HWw7_77-iUybFCbSvjsmGVS4ou-rTVM.jpeg?width=640&crop=smart&auto=webp&s=7fd2ff83ff657914b1335146752cddeb9fe1aa8c",
-        "published": "2026-08-13T12:41:46+00:00"
     },
     {
         "title": "Flock \u201ccan\u2019t tech its way out\u201d of the stalker cop problem, experts say | Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
@@ -54,10 +54,22 @@
         "published": "2026-08-13T16:05:58+00:00"
     },
     {
+        "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+        "link": "https://www.reddit.com/r/technology/comments/1vo4xz9/ukrainian_drones_wipe_out_entire_us_tank_brigade/",
+        "image": "https://external-preview.redd.it/hx-bta9hGwdrIHoFbnRvibRiKr-nj5Ly3EFL22-H2w0.jpeg?width=640&crop=smart&auto=webp&s=f3a0e73344a44d2921fd39ce00293c319c61ff12",
+        "published": "2026-08-14T11:43:51+00:00"
+    },
+    {
         "title": "Twitch finally lets you opt out of AI training, years after it started",
         "link": "https://www.reddit.com/r/technology/comments/1vnka4t/twitch_finally_lets_you_opt_out_of_ai_training/",
         "image": "https://external-preview.redd.it/LZ0lRrtg6cOD2hMDVHew0osW_RNO9lnusGaM-zmwcRU.jpeg?width=640&crop=smart&auto=webp&s=d98dc8efd700a2e300bd9eba8e0091ce1a49b796",
         "published": "2026-08-13T19:12:45+00:00"
+    },
+    {
+        "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
+        "link": "https://www.reddit.com/r/technology/comments/1vnxbgv/apple_adds_iphone_x_and_2018_macbook_pro_to/",
+        "image": "https://external-preview.redd.it/NB8wegPmoC6fs93dn7-td_FztmbAVyrq5WdOrYtZXKc.jpeg?width=640&crop=smart&auto=webp&s=3e3126a2a94d68e20b36c213c58b09c73eda9f93",
+        "published": "2026-08-14T04:32:44+00:00"
     },
     {
         "title": "Flock Admits Failures That Put Innocent People at Risk, Overhauls Police Search Rules",
@@ -72,21 +84,9 @@
         "published": "2026-08-13T23:15:09+00:00"
     },
     {
-        "title": "Cargo thieves are staging car crashes to steal AI data center hardware",
-        "link": "https://www.reddit.com/r/technology/comments/1vnbgi2/cargo_thieves_are_staging_car_crashes_to_steal_ai/",
-        "image": "https://external-preview.redd.it/_0Xh-QlUo2_uZP04JPXYdTm4p1Qloy120d0cqUDxDgg.jpeg?width=640&crop=smart&auto=webp&s=fcee6409a10a373ec2aaee71ba17b3a64f1acbdf",
-        "published": "2026-08-13T13:57:11+00:00"
-    },
-    {
-        "title": "AI giants stay quiet on climate as California prepares to force disclosure",
-        "link": "https://www.reddit.com/r/technology/comments/1vn8o80/ai_giants_stay_quiet_on_climate_as_california/",
-        "image": "https://external-preview.redd.it/nhFAZMCq8aRYskYn5SOr5dmrWcWTEs_fdhnSY2-Xj9Y.jpeg?width=640&crop=smart&auto=webp&s=0dd30b38571d61a34b9d38590b094b3cfb85f07e",
-        "published": "2026-08-13T11:58:59+00:00"
-    },
-    {
-        "title": "Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions The Navy spent years fighting the president\u2019s push to go back to steam catapults",
-        "link": "https://www.reddit.com/r/technology/comments/1vo0fjg/trump_orders_navy_to_restore_older_tech_on/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-14T07:25:26+00:00"
+        "title": "59% of American oppose AI data centers being built in their community \u2014 this has cost $130 billion in delays and cancellations in Q1 2026, so developers are fighting back",
+        "link": "https://www.reddit.com/r/technology/comments/1vo4bv1/59_of_american_oppose_ai_data_centers_being_built/",
+        "image": "https://external-preview.redd.it/dO-d9-JIaNOUnZj85OgmOm81AbJqH44P29LQmtA8fMw.jpeg?width=640&crop=smart&auto=webp&s=77942d7b3344483769d505582cdca5f72fd8ac00",
+        "published": "2026-08-14T11:12:25+00:00"
     }
 ]
