@@ -24,12 +24,6 @@
         "published": "2026-08-14T17:16:07+00:00"
     },
     {
-        "title": "Netflix and Disney are now considering free, ad-supported streaming",
-        "link": "https://www.reddit.com/r/technology/comments/1vo5taa/netflix_and_disney_are_now_considering_free/",
-        "image": "https://external-preview.redd.it/EGu5HGmJzX1qlnOyAr5oiXI-NPCdr34DjyqYdo9m4ro.jpeg?width=640&crop=smart&auto=webp&s=cf9051f1ef1a8434d2bee9898c9fef9f69449888",
-        "published": "2026-08-14T12:23:55+00:00"
-    },
-    {
         "title": "VLC blames Windows 11 bug for slow performance, defends open source and calls out Microsoft",
         "link": "https://www.reddit.com/r/technology/comments/1vo85kf/vlc_blames_windows_11_bug_for_slow_performance/",
         "image": "https://external-preview.redd.it/CGpXt-UgWCoaI9IVgWj9kq0qBol3SFNfWhCpkq4Lcjc.jpeg?width=640&crop=smart&auto=webp&s=3c72fa70c546b153fd5a0d6956bc9f2b87fdbb9f",
@@ -54,22 +48,16 @@
         "published": "2026-08-14T21:08:34+00:00"
     },
     {
-        "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims \u2014 presence in S-71 'Monochrome' weapon may indicate use of AI tech",
-        "link": "https://www.reddit.com/r/technology/comments/1vo65qp/nvidia_jetson_chip_found_in_russian_cruise/",
-        "image": "https://external-preview.redd.it/fmB-j5QyC-MOU-rKxkNfbBeXGT0QNJOQyuheAF_YEak.jpeg?width=640&crop=smart&auto=webp&s=8e24817829a6a2567b31604358bf8303d850365d",
-        "published": "2026-08-14T12:39:21+00:00"
+        "title": "PayPal in Talks to Sell Itself to Stripe, Private-Equity Firm Advent",
+        "link": "https://www.reddit.com/r/technology/comments/1vonmur/paypal_in_talks_to_sell_itself_to_stripe/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-15T00:00:02+00:00"
     },
     {
         "title": "Roblox Is Now Under Investigation By The U.S. Senate Over Child Safety",
         "link": "https://www.reddit.com/r/technology/comments/1vob3au/roblox_is_now_under_investigation_by_the_us/",
         "image": "https://external-preview.redd.it/KXSLVL9wWhWry_avjP0tjYgDVqqhB4sgE7ZCGZc04-w.jpeg?width=640&crop=smart&auto=webp&s=4f11214c4cf1e07db9920cc0c085590b44f8bc8a",
         "published": "2026-08-14T15:54:14+00:00"
-    },
-    {
-        "title": "PayPal in Talks to Sell Itself to Stripe, Private-Equity Firm Advent",
-        "link": "https://www.reddit.com/r/technology/comments/1vonmur/paypal_in_talks_to_sell_itself_to_stripe/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-15T00:00:02+00:00"
     },
     {
         "title": "Young People Hate AI - and the Billionaires That Love It - Gadget Review",
@@ -84,9 +72,21 @@
         "published": "2026-08-14T19:06:57+00:00"
     },
     {
-        "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing \u2014 demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
-        "link": "https://www.reddit.com/r/technology/comments/1vo5w4t/plaintiff_busted_trying_to_use_ai_prompt/",
-        "image": "https://external-preview.redd.it/RbPbizoy-3BuBCCzCQc5n2SYF4C9Doxu5OI9nLRMSO8.png?width=640&crop=smart&auto=webp&s=03d7039661fd1237247897179e58df596ddd6705",
-        "published": "2026-08-14T12:27:28+00:00"
+        "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind \u2018strange\u2019 bulk orders",
+        "link": "https://www.reddit.com/r/technology/comments/1vp0821/secondhand_booksellers_in_uk_and_ireland_suspect/",
+        "image": "https://external-preview.redd.it/csqhiFr__LsOO5ULxuvnTTtymTrfE-dn-AkoVnHIg4s.jpeg?width=640&crop=smart&auto=webp&s=5b24af795eb6ae0e991e9688a93d9bd3b76b0dca",
+        "published": "2026-08-15T11:17:35+00:00"
+    },
+    {
+        "title": "Ukraine Says Nvidia Chip Was Found Inside a Russian Cruise Missile, May Indicate AI Weapons Tech",
+        "link": "https://www.reddit.com/r/technology/comments/1volmqd/ukraine_says_nvidia_chip_was_found_inside_a/",
+        "image": "https://external-preview.redd.it/m9AamtbdtgSo2PVubWfpSb3_rMMV_-pT8aXX7YXJpDI.jpeg?width=640&crop=smart&auto=webp&s=810770359def3aa30b2c5a6d1954b9fd43df786a",
+        "published": "2026-08-14T22:31:24+00:00"
+    },
+    {
+        "title": "Microsoft Walks Away From China",
+        "link": "https://www.reddit.com/r/technology/comments/1voq29r/microsoft_walks_away_from_china/",
+        "image": "https://external-preview.redd.it/kE9cKsWztPjXX1O8eJUDAKL7FbNTJe_ultPH0PNUDqc.jpeg?width=640&crop=smart&auto=webp&s=6b65ea1dbf79b22b88399008f82e76b50fdf9d56",
+        "published": "2026-08-15T01:53:40+00:00"
     }
 ]
