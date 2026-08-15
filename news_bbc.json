@@ -12,6 +12,12 @@
         "published": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
+        "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
+        "published": "Sat, 15 Aug 2026 04:12:55 GMT"
+    },
+    {
         "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
         "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
@@ -30,12 +36,6 @@
         "published": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg",
-        "published": "Fri, 14 Aug 2026 10:36:14 GMT"
-    },
-    {
         "title": "Builders unearth \u20ac9m gold stash sealed in walls of Belgian property",
         "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2945/live/c7871a50-97de-11f1-bb4c-d758974ed97b.jpg",
@@ -46,6 +46,12 @@
         "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f4a/live/021031f0-97fa-11f1-870d-5d08c49babb2.jpg",
         "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+        "title": "'Unprecedented' rain in Japan kills eight people",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg",
+        "published": "Fri, 14 Aug 2026 10:36:14 GMT"
     },
     {
         "title": "Dozens injured and thousands evacuated in Croatia wildfire",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3016/live/a7f45110-97fe-11f1-bc94-d3a8a062b873.png",
         "published": "Fri, 14 Aug 2026 17:00:46 GMT"
-    },
-    {
-        "title": "US says dozens of countries helped China dodge Trump's tariffs",
-        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
-        "published": "Fri, 14 Aug 2026 08:39:46 GMT"
     }
 ]
