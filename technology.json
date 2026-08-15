@@ -1,11 +1,5 @@
 [
     {
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "link": "https://www.reddit.com/r/technology/comments/1voafjc/firefox_is_now_the_last_major_browser_that_still/",
-        "image": "https://external-preview.redd.it/HX_x1lGuhE14GFQpiND40OwClMRTSIUnPEoa3CN7IY8.png?width=640&crop=smart&auto=webp&s=ac97c5e4959c846f8b98a15e4a61dc4ced45304a",
-        "published": "2026-08-14T15:29:40+00:00"
-    },
-    {
         "title": "The CEO who fired 900 people on Zoom just before Christmas wants his job back | CNN Business",
         "link": "https://www.reddit.com/r/technology/comments/1voimvw/the_ceo_who_fired_900_people_on_zoom_just_before/",
         "image": "https://external-preview.redd.it/dJPxeRgMRzlYGY_pxq4m03pRSz7Q77pBQok0uXSmGj4.jpeg?width=640&crop=smart&auto=webp&s=0241d75de18e495df946b5ee3bca0fb2fc19872d",
@@ -22,6 +16,12 @@
         "link": "https://www.reddit.com/r/technology/comments/1vodc1d/young_people_increasingly_dont_trust_ai_or_the/",
         "image": "https://external-preview.redd.it/GgiIjcPeeG_hGcobfx5_a8KIpt3V81eI4HpmQLxQODk.jpeg?width=640&crop=smart&auto=webp&s=2bd407f2e0ab1bc879135c4e176860365d6bc03e",
         "published": "2026-08-14T17:16:07+00:00"
+    },
+    {
+        "title": "Remote workers report the highest well-being in study of 7,700 employees",
+        "link": "https://www.reddit.com/r/technology/comments/1vp3h33/remote_workers_report_the_highest_wellbeing_in/",
+        "image": "https://external-preview.redd.it/HzMFl8xO7SLWitNaZDkDyvllRtuIpt-qqb8AV7CVzFo.jpeg?width=640&crop=smart&auto=webp&s=a8723fd4ef0dc22c07fd9a46c5c7fdc1a30bd134",
+        "published": "2026-08-15T13:53:38+00:00"
     },
     {
         "title": "2027 Will Be the \u2018Worst Year in History\u2019 for Memory Supply, Says SK Hynix CEO",
@@ -54,28 +54,10 @@
         "published": "2026-08-15T00:00:02+00:00"
     },
     {
-        "title": "Remote workers report the highest well-being in study of 7,700 employees",
-        "link": "https://www.reddit.com/r/technology/comments/1vp3h33/remote_workers_report_the_highest_wellbeing_in/",
-        "image": "https://external-preview.redd.it/HzMFl8xO7SLWitNaZDkDyvllRtuIpt-qqb8AV7CVzFo.jpeg?width=640&crop=smart&auto=webp&s=a8723fd4ef0dc22c07fd9a46c5c7fdc1a30bd134",
-        "published": "2026-08-15T13:53:38+00:00"
-    },
-    {
-        "title": "Roblox Is Now Under Investigation By The U.S. Senate Over Child Safety",
-        "link": "https://www.reddit.com/r/technology/comments/1vob3au/roblox_is_now_under_investigation_by_the_us/",
-        "image": "https://external-preview.redd.it/KXSLVL9wWhWry_avjP0tjYgDVqqhB4sgE7ZCGZc04-w.jpeg?width=640&crop=smart&auto=webp&s=4f11214c4cf1e07db9920cc0c085590b44f8bc8a",
-        "published": "2026-08-14T15:54:14+00:00"
-    },
-    {
         "title": "Young People Hate AI - and the Billionaires That Love It - Gadget Review",
         "link": "https://www.reddit.com/r/technology/comments/1vogxvq/young_people_hate_ai_and_the_billionaires_that/",
         "image": "https://external-preview.redd.it/HnU4nQUZhAMiVObC08ASytwYpaUsD6sCTpyo1BuzTJE.jpeg?width=640&crop=smart&auto=webp&s=2cf0361d1e8b739483460595cc5f58463036c007",
         "published": "2026-08-14T19:26:52+00:00"
-    },
-    {
-        "title": "Nine PBS lost access to 50TB of archives when its data center vanished",
-        "link": "https://www.reddit.com/r/technology/comments/1vogelz/nine_pbs_lost_access_to_50tb_of_archives_when_its/",
-        "image": "https://external-preview.redd.it/o7V-ZY2oFNJv1CfgaHaDHw6dQeyeHrmirhB1zfp_1MI.jpeg?width=640&crop=smart&auto=webp&s=98e607750fa91a3443832244e4722e18fcacef71",
-        "published": "2026-08-14T19:06:57+00:00"
     },
     {
         "title": "A smart feeder outage left some cats and dogs without scheduled meals",
@@ -84,9 +66,27 @@
         "published": "2026-08-15T12:49:29+00:00"
     },
     {
+        "title": "Nine PBS lost access to 50TB of archives when its data center vanished",
+        "link": "https://www.reddit.com/r/technology/comments/1vogelz/nine_pbs_lost_access_to_50tb_of_archives_when_its/",
+        "image": "https://external-preview.redd.it/o7V-ZY2oFNJv1CfgaHaDHw6dQeyeHrmirhB1zfp_1MI.jpeg?width=640&crop=smart&auto=webp&s=98e607750fa91a3443832244e4722e18fcacef71",
+        "published": "2026-08-14T19:06:57+00:00"
+    },
+    {
         "title": "Ukraine Says Nvidia Chip Was Found Inside a Russian Cruise Missile, May Indicate AI Weapons Tech",
         "link": "https://www.reddit.com/r/technology/comments/1volmqd/ukraine_says_nvidia_chip_was_found_inside_a/",
         "image": "https://external-preview.redd.it/m9AamtbdtgSo2PVubWfpSb3_rMMV_-pT8aXX7YXJpDI.jpeg?width=640&crop=smart&auto=webp&s=810770359def3aa30b2c5a6d1954b9fd43df786a",
         "published": "2026-08-14T22:31:24+00:00"
+    },
+    {
+        "title": "SK hynix runs out of replacement SSDs and defaults to original purchase price refunds \u2014 fine-print warranty clause shortchanges buyers as drive prices double",
+        "link": "https://www.reddit.com/r/technology/comments/1vp1354/sk_hynix_runs_out_of_replacement_ssds_and/",
+        "image": "https://external-preview.redd.it/YlusnHD-J_SUvYE4Vwe1vsB6bscyQub9T-i2wtOaH2I.jpeg?width=640&crop=smart&auto=webp&s=9742000a990a0000030aa82cf115686a76d2842e",
+        "published": "2026-08-15T12:02:49+00:00"
+    },
+    {
+        "title": "Microsoft Walks Away From China",
+        "link": "https://www.reddit.com/r/technology/comments/1voq29r/microsoft_walks_away_from_china/",
+        "image": "https://external-preview.redd.it/kE9cKsWztPjXX1O8eJUDAKL7FbNTJe_ultPH0PNUDqc.jpeg?width=640&crop=smart&auto=webp&s=6b65ea1dbf79b22b88399008f82e76b50fdf9d56",
+        "published": "2026-08-15T01:53:40+00:00"
     }
 ]
