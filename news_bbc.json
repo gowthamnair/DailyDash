@@ -1,9 +1,9 @@
 [
     {
-        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-        "published": "Sun, 16 Aug 2026 10:52:08 GMT"
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+        "published": "Sun, 16 Aug 2026 15:50:12 GMT"
     },
     {
         "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -30,6 +30,12 @@
         "published": "Sun, 16 Aug 2026 11:35:25 GMT"
     },
     {
+        "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/690e/live/238fb440-9980-11f1-a4eb-59b79ff5ff4f.jpg",
+        "published": "Sun, 16 Aug 2026 15:25:38 GMT"
+    },
+    {
         "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2823/live/147ab810-997b-11f1-a992-3780b3f27758.jpg",
@@ -54,10 +60,10 @@
         "published": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
-        "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+        "title": "Teenager arrested in Virginia State University shooting that injured five",
         "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-        "published": "Sat, 15 Aug 2026 19:34:22 GMT"
+        "published": "Sun, 16 Aug 2026 15:22:50 GMT"
     },
     {
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
         "published": "Sun, 16 Aug 2026 00:11:03 GMT"
-    },
-    {
-        "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
-        "published": "Sat, 15 Aug 2026 17:47:42 GMT"
     }
 ]
