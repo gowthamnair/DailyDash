@@ -18,6 +18,12 @@
         "published": "2026-08-17T00:02:41+00:00"
     },
     {
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+        "link": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at/",
+        "image": "https://external-preview.redd.it/xD36cWIcweKfsgafESK3A550uFZB4WWcxNn4aNzoFiE.png?width=640&crop=smart&auto=webp&s=69491a629c04abadd789ca7f9d25c47196e5b406",
+        "published": "2026-08-17T13:19:25+00:00"
+    },
+    {
         "title": "New website lets drivers check whether their license plate has been searched on Flock database / HaveIBeenFlocked compiles audit logs from 6,586 US agencies and reveals the stated reason for each search",
         "link": "https://www.reddit.com/r/technology/comments/1vq3890/new_website_lets_drivers_check_whether_their/",
         "image": "https://external-preview.redd.it/A283FMYa7Zu5h8VmDR-FmdrvagIu_SMq2LooF4LmivA.jpeg?width=640&crop=smart&auto=webp&s=48266255f91fa27ab13b358386578f9a08f52f3e",
@@ -54,12 +60,6 @@
         "published": "2026-08-17T02:10:18+00:00"
     },
     {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
-        "link": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at/",
-        "image": "https://external-preview.redd.it/xD36cWIcweKfsgafESK3A550uFZB4WWcxNn4aNzoFiE.png?width=640&crop=smart&auto=webp&s=69491a629c04abadd789ca7f9d25c47196e5b406",
-        "published": "2026-08-17T13:19:25+00:00"
-    },
-    {
         "title": "Young workers hit hardest as AI automation slashes jobs in Korea",
         "link": "https://www.reddit.com/r/technology/comments/1vqlj4s/young_workers_hit_hardest_as_ai_automation/",
         "image": "https://external-preview.redd.it/QkjfDyWbN_w0FrmXYwMK--P8at-YDSZ2eFF1ej2fDZ0.jpeg?width=640&crop=smart&auto=webp&s=c95ae866f4261cff54e50438158629f99a88f65e",
@@ -78,15 +78,15 @@
         "published": "2026-08-17T10:31:30+00:00"
     },
     {
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "link": "https://www.reddit.com/r/technology/comments/1vqag0q/stripe_will_reportedly_acquire_ai_gateway_startup/",
-        "image": "https://external-preview.redd.it/rgvQ3bKY3BkO9PoF4htfNUyoUKraCOr-vUEOhrmq4Mk.jpeg?width=640&crop=smart&auto=webp&s=c439500afd08a52ee4938414e8fe4944e033232c",
-        "published": "2026-08-16T22:21:06+00:00"
-    },
-    {
         "title": "The rebellion against data centers is growing",
         "link": "https://www.reddit.com/r/technology/comments/1vqlks2/the_rebellion_against_data_centers_is_growing/",
         "image": "https://external-preview.redd.it/svxeIYmVfl3FfJ3hCIUQUJwjtFwwzTTO_6Gqw0Fvz18.png?width=640&crop=smart&auto=webp&s=bc478f0a9781f553b3535abda2576073243fa51f",
         "published": "2026-08-17T07:35:44+00:00"
+    },
+    {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "link": "https://www.reddit.com/r/technology/comments/1vqag0q/stripe_will_reportedly_acquire_ai_gateway_startup/",
+        "image": "https://external-preview.redd.it/rgvQ3bKY3BkO9PoF4htfNUyoUKraCOr-vUEOhrmq4Mk.jpeg?width=640&crop=smart&auto=webp&s=c439500afd08a52ee4938414e8fe4944e033232c",
+        "published": "2026-08-16T22:21:06+00:00"
     }
 ]
