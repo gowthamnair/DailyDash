@@ -24,16 +24,16 @@
         "published": "2026-08-17T18:30:28+00:00"
     },
     {
-        "title": "Microsoft confirms GitHub is down worldwide",
-        "link": "https://www.reddit.com/r/technology/comments/1vqvsb9/microsoft_confirms_github_is_down_worldwide/",
-        "image": "https://external-preview.redd.it/RzPL2NsOMzEJjWrSD9Um018rKfq9qNdQhMGgATUhdRA.jpeg?width=640&crop=smart&auto=webp&s=556f7a5d1bc221d6b89da2526e772f30b8f97206",
-        "published": "2026-08-17T15:37:45+00:00"
-    },
-    {
         "title": "Judge clears Nine PBS to retrieve 70 years of archival TV data \u2014 court rules station owns 50TB of data in Iron Mountain servers after host went under",
         "link": "https://www.reddit.com/r/technology/comments/1vr1ruu/judge_clears_nine_pbs_to_retrieve_70_years_of/",
         "image": "https://external-preview.redd.it/Y52Gna1N5ud9so7BCQiBpfnVE9R1S7djsuwnWAmHRC0.jpeg?width=640&crop=smart&auto=webp&s=c298d0600e05bedb3984b60b3dcb93eef17307db",
         "published": "2026-08-17T19:12:36+00:00"
+    },
+    {
+        "title": "Remote work benefits are much bigger than a paycheck",
+        "link": "https://www.reddit.com/r/technology/comments/1vrpbk5/remote_work_benefits_are_much_bigger_than_a/",
+        "image": "https://external-preview.redd.it/a_IFJgQLuWrTGynbjL3jnoGGCT0UO1lIhiqgOhjpZp0.jpeg?width=640&crop=smart&auto=webp&s=b53d9dfc18074965e8fa55299f93e7e93a17f473",
+        "published": "2026-08-18T13:33:22+00:00"
     },
     {
         "title": "Aaron Rodgers Secretly Funded Security Cameras in His Neighborhood Amid Privacy Concerns: Report",
@@ -48,10 +48,10 @@
         "published": "2026-08-17T23:50:44+00:00"
     },
     {
-        "title": "Remote work benefits are much bigger than a paycheck",
-        "link": "https://www.reddit.com/r/technology/comments/1vrpbk5/remote_work_benefits_are_much_bigger_than_a/",
-        "image": "https://external-preview.redd.it/a_IFJgQLuWrTGynbjL3jnoGGCT0UO1lIhiqgOhjpZp0.jpeg?width=640&crop=smart&auto=webp&s=b53d9dfc18074965e8fa55299f93e7e93a17f473",
-        "published": "2026-08-18T13:33:22+00:00"
+        "title": "ABC Files First Amendment Lawsuit Against FCC",
+        "link": "https://www.reddit.com/r/technology/comments/1vrnlts/abc_files_first_amendment_lawsuit_against_fcc/",
+        "image": "https://external-preview.redd.it/frOxmxnQLL6jKBVyIN3chYyq7ztdGFF6kR5xcw-Dc_w.jpeg?width=640&crop=smart&auto=webp&s=48d561e332939b932b4d637fb0f65d2c57d5eb21",
+        "published": "2026-08-18T12:21:34+00:00"
     },
     {
         "title": "YouTube is making a major change to how long-form video views are counted",
@@ -64,12 +64,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1vr3n5z/meta_faces_a_14_trillion_reckoning_in_latest/",
         "image": "https://external-preview.redd.it/sEb3A3bmV3Numx4I532ybQM0Mv5hDsrczGYLbnJOLYk.jpeg?width=640&crop=smart&auto=webp&s=f2520190f082daf9fb73a58b4a99e8fde85199f8",
         "published": "2026-08-17T20:20:09+00:00"
-    },
-    {
-        "title": "ABC Files First Amendment Lawsuit Against FCC",
-        "link": "https://www.reddit.com/r/technology/comments/1vrnlts/abc_files_first_amendment_lawsuit_against_fcc/",
-        "image": "https://external-preview.redd.it/frOxmxnQLL6jKBVyIN3chYyq7ztdGFF6kR5xcw-Dc_w.jpeg?width=640&crop=smart&auto=webp&s=48d561e332939b932b4d637fb0f65d2c57d5eb21",
-        "published": "2026-08-18T12:21:34+00:00"
     },
     {
         "title": "GoldenEye 007 for N64 has been 100% decompiled & success of half-decade project opens up possibilities for complex mods and ports",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vr9s5g/a_69yearold_just_became_the_first_person_jailed/",
         "image": "https://external-preview.redd.it/qNT85EboOjYdXBXGk-WWWEzXSV7CE5z7p2PX1pNA6xQ.jpeg?width=640&crop=smart&auto=webp&s=991f55873d0bec8d20be250decd1b60c3bc55871",
         "published": "2026-08-18T00:26:01+00:00"
+    },
+    {
+        "title": "Florida officer used Flock camera database 717 times to track estranged wife's vehicle, affidavit says",
+        "link": "https://www.reddit.com/r/technology/comments/1vrpu58/florida_officer_used_flock_camera_database_717/",
+        "image": "https://external-preview.redd.it/xs_6Hp3BBGwt7GROeT8k0cdILdfziONSjCEyD5vQ5_k.jpeg?width=640&crop=smart&auto=webp&s=a91f2cb368b45e1c2fb17a4ecb67d3e0f4e2ec3a",
+        "published": "2026-08-18T13:53:27+00:00"
     }
 ]
