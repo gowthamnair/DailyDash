@@ -18,12 +18,6 @@
         "published": "2026-08-19T13:26:36+00:00"
     },
     {
-        "title": "The cop who took on Flock \u2014 After Noel Pichardo called out his city's embrace of Flock surveillance cameras, he was subjected to five internal affairs investigations in less than two years",
-        "link": "https://www.reddit.com/r/technology/comments/1vs4132/the_cop_who_took_on_flock_after_noel_pichardo/",
-        "image": "https://external-preview.redd.it/oteyhKxB8NNcpercOedzJZBy2Ql9hYQhBuYkjSauFiE.jpeg?width=640&crop=smart&auto=webp&s=15b2f4c8626ba396bfd884f1dd33fa3da2129e51",
-        "published": "2026-08-18T22:24:28+00:00"
-    },
-    {
         "title": "Omaha Public Schools requests SROs to not carry shock gloves, effective immediately. Omaha Public Schools is fighting back after parents and students spoke out against the use of shock gloves in schools.",
         "link": "https://www.reddit.com/r/technology/comments/1vs5kxd/omaha_public_schools_requests_sros_to_not_carry/",
         "image": "https://external-preview.redd.it/uNy-eWl5zbPasqgrH72VuN9PwbiBWWoIbr0e0rkJ_6g.jpeg?width=640&crop=smart&auto=webp&s=c397f659e2d9690d9a9e51b302102a44f70a09a1",
@@ -42,22 +36,10 @@
         "published": "2026-08-19T10:49:36+00:00"
     },
     {
-        "title": "Omaha Police to no longer carry shock gloves at OPS",
-        "link": "https://www.reddit.com/r/technology/comments/1vs8onq/omaha_police_to_no_longer_carry_shock_gloves_at/",
-        "image": "https://external-preview.redd.it/aXK_DlKCo2hKmCemtV_qZe0D34uM1bBkt9vYVeABFw4.jpeg?width=640&crop=smart&auto=webp&s=2b00ad31669b0b20129bc234b970169d647a7d8e",
-        "published": "2026-08-19T01:44:38+00:00"
-    },
-    {
-        "title": "A 25-year-old Brazilian video patent just expired, ending a lingering legal headache for Linux",
-        "link": "https://www.reddit.com/r/technology/comments/1vskejr/a_25yearold_brazilian_video_patent_just_expired/",
-        "image": "https://external-preview.redd.it/aRR1ni4rBoApR4I1tbF3bVpk7TVifrqeV2uFwEYWaKI.png?width=640&crop=smart&auto=webp&s=f920804263c56c510ef3077f9c66f4d78056aa38",
-        "published": "2026-08-19T12:00:18+00:00"
-    },
-    {
-        "title": "AI models can't tell time or read a calendar, study reveals",
-        "link": "https://www.reddit.com/r/technology/comments/1vsg357/ai_models_cant_tell_time_or_read_a_calendar_study/",
-        "image": "https://external-preview.redd.it/xrm9gNuJ6f-QfEc7PpeK7EcU61SuBoKe0Wi0jtHSwuI.jpeg?width=640&crop=smart&auto=webp&s=71a1e67250e955e6a05bf260f671834a2a8e0476",
-        "published": "2026-08-19T08:07:18+00:00"
+        "title": "New AirPods leak reveals built-in cameras and Visual Intelligence",
+        "link": "https://www.reddit.com/r/technology/comments/1vszcww/new_airpods_leak_reveals_builtin_cameras_and/",
+        "image": "https://external-preview.redd.it/T0Tq-Cqs1WsmKsqjLdvN5pX-GdKivTjCAsN6PrhxOr4.jpeg?width=640&crop=smart&auto=webp&s=adb01a3413c487422eb857d7df9b59e554db86e7",
+        "published": "2026-08-19T21:13:45+00:00"
     },
     {
         "title": "EA staff fear new Saudi Arabia owners will police their games: \"Projects just won't get signed because they don't align explicitly with what the Saudi government wants\"",
@@ -66,16 +48,34 @@
         "published": "2026-08-19T18:42:34+00:00"
     },
     {
+        "title": "A 25-year-old Brazilian video patent just expired, ending a lingering legal headache for Linux",
+        "link": "https://www.reddit.com/r/technology/comments/1vskejr/a_25yearold_brazilian_video_patent_just_expired/",
+        "image": "https://external-preview.redd.it/aRR1ni4rBoApR4I1tbF3bVpk7TVifrqeV2uFwEYWaKI.png?width=640&crop=smart&auto=webp&s=f920804263c56c510ef3077f9c66f4d78056aa38",
+        "published": "2026-08-19T12:00:18+00:00"
+    },
+    {
+        "title": "Omaha Police to no longer carry shock gloves at OPS",
+        "link": "https://www.reddit.com/r/technology/comments/1vs8onq/omaha_police_to_no_longer_carry_shock_gloves_at/",
+        "image": "https://external-preview.redd.it/aXK_DlKCo2hKmCemtV_qZe0D34uM1bBkt9vYVeABFw4.jpeg?width=640&crop=smart&auto=webp&s=2b00ad31669b0b20129bc234b970169d647a7d8e",
+        "published": "2026-08-19T01:44:38+00:00"
+    },
+    {
+        "title": "AI models can't tell time or read a calendar, study reveals",
+        "link": "https://www.reddit.com/r/technology/comments/1vsg357/ai_models_cant_tell_time_or_read_a_calendar_study/",
+        "image": "https://external-preview.redd.it/xrm9gNuJ6f-QfEc7PpeK7EcU61SuBoKe0Wi0jtHSwuI.jpeg?width=640&crop=smart&auto=webp&s=71a1e67250e955e6a05bf260f671834a2a8e0476",
+        "published": "2026-08-19T08:07:18+00:00"
+    },
+    {
         "title": "X's algorithm feeds off ragebait and impacts Democrats more, study finds",
         "link": "https://www.reddit.com/r/technology/comments/1vsssy1/xs_algorithm_feeds_off_ragebait_and_impacts/",
         "image": "https://external-preview.redd.it/LWLFtraO2eWK0d76_Ao6xMsXKv77XxSUZvikfLGTPTM.jpeg?width=640&crop=smart&auto=webp&s=4806e23a7f204c8a1e04b286fe85a3bdd0b66c65",
         "published": "2026-08-19T17:18:47+00:00"
     },
     {
-        "title": "Meta trial that could reshape Facebook and Instagram gets underway | The coalition of states that brought the suit allege Meta designed the social media apps to addict young users, resulting in harm to their mental health.",
-        "link": "https://www.reddit.com/r/technology/comments/1vs3r7i/meta_trial_that_could_reshape_facebook_and/",
-        "image": "https://external-preview.redd.it/e0mDIYCMX6LOgEXp7w9NDs1idjAjqO3QOEv2L8I1f2E.jpeg?width=640&crop=smart&auto=webp&s=0727126f4dfc3e97180129d4c19284556466e163",
-        "published": "2026-08-18T22:13:37+00:00"
+        "title": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
+        "link": "https://www.reddit.com/r/technology/comments/1vst54m/i_saw_a_shiny_thing_cop_explains_why_he_used/",
+        "image": "https://external-preview.redd.it/Mcz5KxCXoVEwkeEIF7zEmdILuiyJLXjv86RSBju6J34.png?width=640&crop=smart&auto=webp&s=f9323a9eb2f80506c9c7e1cc5712d88ac2f7eebd",
+        "published": "2026-08-19T17:30:32+00:00"
     },
     {
         "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
@@ -84,9 +84,9 @@
         "published": "2026-08-19T10:07:01+00:00"
     },
     {
-        "title": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
-        "link": "https://www.reddit.com/r/technology/comments/1vst54m/i_saw_a_shiny_thing_cop_explains_why_he_used/",
-        "image": "https://external-preview.redd.it/Mcz5KxCXoVEwkeEIF7zEmdILuiyJLXjv86RSBju6J34.png?width=640&crop=smart&auto=webp&s=f9323a9eb2f80506c9c7e1cc5712d88ac2f7eebd",
-        "published": "2026-08-19T17:30:32+00:00"
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "link": "https://www.reddit.com/r/technology/comments/1vsq9zi/meta_ran_ads_for_an_app_promising_to_nudify/",
+        "image": "https://external-preview.redd.it/O1_Tn6OKcd1715AJ8ZH5UzYCWpzfOCQHvQYvIa2b4o4.jpeg?width=640&crop=smart&auto=webp&s=ec0402045771fcfcff1e36502dd5dfa7910ae887",
+        "published": "2026-08-19T15:50:26+00:00"
     }
 ]
