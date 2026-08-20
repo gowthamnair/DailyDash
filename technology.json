@@ -30,22 +30,10 @@
         "published": "2026-08-19T18:42:34+00:00"
     },
     {
-        "title": "A 25-year-old Brazilian video patent just expired, ending a lingering legal headache for Linux",
-        "link": "https://www.reddit.com/r/technology/comments/1vskejr/a_25yearold_brazilian_video_patent_just_expired/",
-        "image": "https://external-preview.redd.it/aRR1ni4rBoApR4I1tbF3bVpk7TVifrqeV2uFwEYWaKI.png?width=640&crop=smart&auto=webp&s=f920804263c56c510ef3077f9c66f4d78056aa38",
-        "published": "2026-08-19T12:00:18+00:00"
-    },
-    {
         "title": "YouTube Offers Creators Millions to Not Work With Netflix | YouTube will pay creators to post their videos to YouTube before any other service. If creators post to YouTube and Netflix at the same time, they will face consequences",
         "link": "https://www.reddit.com/r/technology/comments/1vt7aso/youtube_offers_creators_millions_to_not_work_with/",
         "image": "https://external-preview.redd.it/icU2vGvKNQXXhedqM9Ij4YvaFkzh666G2_RC6CiZA4E.jpeg?width=640&crop=smart&auto=webp&s=74dc5d2acbd42027298f510f1953440331a2692c",
         "published": "2026-08-20T02:48:31+00:00"
-    },
-    {
-        "title": "X's algorithm feeds off ragebait and impacts Democrats more, study finds",
-        "link": "https://www.reddit.com/r/technology/comments/1vsssy1/xs_algorithm_feeds_off_ragebait_and_impacts/",
-        "image": "https://external-preview.redd.it/LWLFtraO2eWK0d76_Ao6xMsXKv77XxSUZvikfLGTPTM.jpeg?width=640&crop=smart&auto=webp&s=4806e23a7f204c8a1e04b286fe85a3bdd0b66c65",
-        "published": "2026-08-19T17:18:47+00:00"
     },
     {
         "title": "Florida police officer accused of using AI Flock cameras to track ex-wife 717 times - Dexerto",
@@ -54,10 +42,22 @@
         "published": "2026-08-20T01:11:07+00:00"
     },
     {
+        "title": "X's algorithm feeds off ragebait and impacts Democrats more, study finds",
+        "link": "https://www.reddit.com/r/technology/comments/1vsssy1/xs_algorithm_feeds_off_ragebait_and_impacts/",
+        "image": "https://external-preview.redd.it/LWLFtraO2eWK0d76_Ao6xMsXKv77XxSUZvikfLGTPTM.jpeg?width=640&crop=smart&auto=webp&s=4806e23a7f204c8a1e04b286fe85a3bdd0b66c65",
+        "published": "2026-08-19T17:18:47+00:00"
+    },
+    {
         "title": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
         "link": "https://www.reddit.com/r/technology/comments/1vst54m/i_saw_a_shiny_thing_cop_explains_why_he_used/",
         "image": "https://external-preview.redd.it/Mcz5KxCXoVEwkeEIF7zEmdILuiyJLXjv86RSBju6J34.png?width=640&crop=smart&auto=webp&s=f9323a9eb2f80506c9c7e1cc5712d88ac2f7eebd",
         "published": "2026-08-19T17:30:32+00:00"
+    },
+    {
+        "title": "Liquid Death is asking people to mail their pee to AI data centers",
+        "link": "https://www.reddit.com/r/technology/comments/1vtdcov/liquid_death_is_asking_people_to_mail_their_pee/",
+        "image": "https://external-preview.redd.it/hpA_IULomXcTUnDggHZDwD0UzFp_535EazxGzQqaxC8.jpeg?width=640&crop=smart&auto=webp&s=4e8f7bff48505baab89e10177f85ffc88f9ffdcd",
+        "published": "2026-08-20T08:14:36+00:00"
     },
     {
         "title": "Finland's Sand Battery May Have Solved Renewable Energy's Biggest Problem",
@@ -66,16 +66,16 @@
         "published": "2026-08-19T19:03:20+00:00"
     },
     {
-        "title": "Meta ran ads for an app promising to nudify female politicians",
-        "link": "https://www.reddit.com/r/technology/comments/1vsq9zi/meta_ran_ads_for_an_app_promising_to_nudify/",
-        "image": "https://external-preview.redd.it/O1_Tn6OKcd1715AJ8ZH5UzYCWpzfOCQHvQYvIa2b4o4.jpeg?width=640&crop=smart&auto=webp&s=ec0402045771fcfcff1e36502dd5dfa7910ae887",
-        "published": "2026-08-19T15:50:26+00:00"
-    },
-    {
         "title": "New zinc-iodine battery achieves over 60,000 charge cycles, charges in 3 minutes",
         "link": "https://www.reddit.com/r/technology/comments/1vt5rxt/new_zinciodine_battery_achieves_over_60000_charge/",
         "image": "https://external-preview.redd.it/i_dU6FjYh5qmj4CGfMOCt64LlEE5e0okSmfQUEsbUTg.jpeg?width=640&crop=smart&auto=webp&s=c3634bbeef42bff61090eedf92678a0298401cd4",
         "published": "2026-08-20T01:39:44+00:00"
+    },
+    {
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "link": "https://www.reddit.com/r/technology/comments/1vsq9zi/meta_ran_ads_for_an_app_promising_to_nudify/",
+        "image": "https://external-preview.redd.it/O1_Tn6OKcd1715AJ8ZH5UzYCWpzfOCQHvQYvIa2b4o4.jpeg?width=640&crop=smart&auto=webp&s=ec0402045771fcfcff1e36502dd5dfa7910ae887",
+        "published": "2026-08-19T15:50:26+00:00"
     },
     {
         "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
