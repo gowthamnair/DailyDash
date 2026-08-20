@@ -1,15 +1,21 @@
 [
     {
+        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+        "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
+        "published": "Thu, 20 Aug 2026 19:19:20 GMT"
+    },
+    {
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+        "published": "Thu, 20 Aug 2026 18:55:14 GMT"
+    },
+    {
         "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
         "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
         "published": "Thu, 20 Aug 2026 17:14:55 GMT"
-    },
-    {
-        "title": "Trump vows tougher economic measures on Iran and supporting countries",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
-        "published": "Thu, 20 Aug 2026 09:13:18 GMT"
     },
     {
         "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
@@ -28,12 +34,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
         "published": "Thu, 20 Aug 2026 12:38:35 GMT"
-    },
-    {
-        "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-        "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba2/live/bbb890d0-9c5e-11f1-b109-879e35c24276.jpg",
-        "published": "Thu, 20 Aug 2026 07:08:35 GMT"
     },
     {
         "title": "Giant whales move into Greenland waters as ice disappears",
@@ -66,6 +66,12 @@
         "published": "Thu, 20 Aug 2026 15:07:57 GMT"
     },
     {
+        "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+        "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba2/live/bbb890d0-9c5e-11f1-b109-879e35c24276.jpg",
+        "published": "Thu, 20 Aug 2026 07:08:35 GMT"
+    },
+    {
         "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
         "published": "Thu, 20 Aug 2026 11:08:19 GMT"
-    },
-    {
-        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
-        "published": "Thu, 20 Aug 2026 07:33:11 GMT"
     }
 ]
