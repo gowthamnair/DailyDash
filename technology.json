@@ -30,16 +30,16 @@
         "published": "2026-08-19T18:42:34+00:00"
     },
     {
-        "title": "Moderna, Merck Vaccine Succeeds in Preventing Melanoma From Returning",
-        "link": "https://www.reddit.com/r/technology/comments/1vsiymz/moderna_merck_vaccine_succeeds_in_preventing/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-19T10:49:36+00:00"
-    },
-    {
         "title": "A 25-year-old Brazilian video patent just expired, ending a lingering legal headache for Linux",
         "link": "https://www.reddit.com/r/technology/comments/1vskejr/a_25yearold_brazilian_video_patent_just_expired/",
         "image": "https://external-preview.redd.it/aRR1ni4rBoApR4I1tbF3bVpk7TVifrqeV2uFwEYWaKI.png?width=640&crop=smart&auto=webp&s=f920804263c56c510ef3077f9c66f4d78056aa38",
         "published": "2026-08-19T12:00:18+00:00"
+    },
+    {
+        "title": "YouTube Offers Creators Millions to Not Work With Netflix | YouTube will pay creators to post their videos to YouTube before any other service. If creators post to YouTube and Netflix at the same time, they will face consequences",
+        "link": "https://www.reddit.com/r/technology/comments/1vt7aso/youtube_offers_creators_millions_to_not_work_with/",
+        "image": "https://external-preview.redd.it/icU2vGvKNQXXhedqM9Ij4YvaFkzh666G2_RC6CiZA4E.jpeg?width=640&crop=smart&auto=webp&s=74dc5d2acbd42027298f510f1953440331a2692c",
+        "published": "2026-08-20T02:48:31+00:00"
     },
     {
         "title": "X's algorithm feeds off ragebait and impacts Democrats more, study finds",
@@ -52,12 +52,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1vt5535/florida_police_officer_accused_of_using_ai_flock/",
         "image": "https://external-preview.redd.it/swrHRQGDrbdd_o0iF2N7VJoho6gPBR2JUuuzsexfKUU.jpeg?width=640&crop=smart&auto=webp&s=5abbc0d3a0eab4c4b71f7bf22a8a07fa3876bf7f",
         "published": "2026-08-20T01:11:07+00:00"
-    },
-    {
-        "title": "YouTube Offers Creators Millions to Not Work With Netflix | YouTube will pay creators to post their videos to YouTube before any other service. If creators post to YouTube and Netflix at the same time, they will face consequences",
-        "link": "https://www.reddit.com/r/technology/comments/1vt7aso/youtube_offers_creators_millions_to_not_work_with/",
-        "image": "https://external-preview.redd.it/icU2vGvKNQXXhedqM9Ij4YvaFkzh666G2_RC6CiZA4E.jpeg?width=640&crop=smart&auto=webp&s=74dc5d2acbd42027298f510f1953440331a2692c",
-        "published": "2026-08-20T02:48:31+00:00"
     },
     {
         "title": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
@@ -78,15 +72,21 @@
         "published": "2026-08-19T15:50:26+00:00"
     },
     {
+        "title": "New zinc-iodine battery achieves over 60,000 charge cycles, charges in 3 minutes",
+        "link": "https://www.reddit.com/r/technology/comments/1vt5rxt/new_zinciodine_battery_achieves_over_60000_charge/",
+        "image": "https://external-preview.redd.it/i_dU6FjYh5qmj4CGfMOCt64LlEE5e0okSmfQUEsbUTg.jpeg?width=640&crop=smart&auto=webp&s=c3634bbeef42bff61090eedf92678a0298401cd4",
+        "published": "2026-08-20T01:39:44+00:00"
+    },
+    {
         "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
         "link": "https://www.reddit.com/r/technology/comments/1vsoh1d/moderna_and_merck_say_mrna_cancer_vaccine/",
         "image": "https://external-preview.redd.it/fnb4OnwQ85Y6D4GLNKi45scjKy-LZWhQora3O8KEBj0.jpeg?width=640&crop=smart&auto=webp&s=640bfbe13b2bfa584a88f2c86f9954c635e891ba",
         "published": "2026-08-19T14:44:46+00:00"
     },
     {
-        "title": "New zinc-iodine battery achieves over 60,000 charge cycles, charges in 3 minutes",
-        "link": "https://www.reddit.com/r/technology/comments/1vt5rxt/new_zinciodine_battery_achieves_over_60000_charge/",
-        "image": "https://external-preview.redd.it/i_dU6FjYh5qmj4CGfMOCt64LlEE5e0okSmfQUEsbUTg.jpeg?width=640&crop=smart&auto=webp&s=c3634bbeef42bff61090eedf92678a0298401cd4",
-        "published": "2026-08-20T01:39:44+00:00"
+        "title": "The largest all-electric plane ever flew for 27 minutes, on $5 of electricity",
+        "link": "https://www.reddit.com/r/technology/comments/1vt2e6d/the_largest_allelectric_plane_ever_flew_for_27/",
+        "image": "https://external-preview.redd.it/rkT0qg5-DOU91JHKWsa6uxB3fUbRV2UBfz-zjJSx16k.jpeg?width=640&crop=smart&auto=webp&s=fe3445e317832b4e084c9cca325bd6b0500aedbe",
+        "published": "2026-08-19T23:13:22+00:00"
     }
 ]
