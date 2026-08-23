@@ -24,12 +24,6 @@
         "published": "2026-08-23T01:30:21+00:00"
     },
     {
-        "title": "One In Five Drivers Switches Off The Safety Tech Meant To Save Their Lives",
-        "link": "https://www.reddit.com/r/technology/comments/1vvpeik/one_in_five_drivers_switches_off_the_safety_tech/",
-        "image": "https://external-preview.redd.it/suyTr7y9_c9klSUDV3tmIGE-kQSiii3BrGmJqGrBGOc.jpeg?width=640&crop=smart&auto=webp&s=3ab4a7dd7aa8ab0b53d2d303e5ab6d128a06d15c",
-        "published": "2026-08-22T22:07:41+00:00"
-    },
-    {
         "title": "Parked Waymos Are Recording Your Neighborhood",
         "link": "https://www.reddit.com/r/technology/comments/1vw9gkt/parked_waymos_are_recording_your_neighborhood/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
@@ -60,16 +54,16 @@
         "published": "2026-08-23T12:31:28+00:00"
     },
     {
-        "title": "PlayStation Blasts Out Poorly Timed Reminder About Digital Games",
-        "link": "https://www.reddit.com/r/technology/comments/1vw131d/playstation_blasts_out_poorly_timed_reminder/",
-        "image": "https://external-preview.redd.it/1KLqB9LaeXR_GjDk22hzuAT8yOiJj8Svv4EZNKlS7z0.jpeg?width=640&crop=smart&auto=webp&s=fd0d0ac2fc5ece7129c7f7b3b7b938893920ec1f",
-        "published": "2026-08-23T07:59:32+00:00"
-    },
-    {
         "title": "Enterprise SSDs cost 18.6 times more than HDDs as 30TB drives hit $22,600 \u2014 hard drive supply is sold out through 2027",
         "link": "https://www.reddit.com/r/technology/comments/1vw8k8a/enterprise_ssds_cost_186_times_more_than_hdds_as/",
         "image": "https://external-preview.redd.it/uoZb7yRUqukeKIVa5v-o3uzIh-rohag44lW-megRAFQ.jpeg?width=640&crop=smart&auto=webp&s=febf58539ce310344ec59c54fd3c3e082a37e63e",
         "published": "2026-08-23T14:24:49+00:00"
+    },
+    {
+        "title": "PlayStation Blasts Out Poorly Timed Reminder About Digital Games",
+        "link": "https://www.reddit.com/r/technology/comments/1vw131d/playstation_blasts_out_poorly_timed_reminder/",
+        "image": "https://external-preview.redd.it/1KLqB9LaeXR_GjDk22hzuAT8yOiJj8Svv4EZNKlS7z0.jpeg?width=640&crop=smart&auto=webp&s=fd0d0ac2fc5ece7129c7f7b3b7b938893920ec1f",
+        "published": "2026-08-23T07:59:32+00:00"
     },
     {
         "title": "Experimental compound helps burn fat without muscle loss",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vw5t81/mit_engineers_connect_bacteria_to_create_living/",
         "image": "https://external-preview.redd.it/71BFSnuxQFuxy411Dk402CjlH8IITNxtjV64c_JbMdM.jpeg?width=640&crop=smart&auto=webp&s=4df7cd18df9212ecfd11f7a70ca436f5016c829b",
         "published": "2026-08-23T12:23:24+00:00"
+    },
+    {
+        "title": "Nvidia\u2019s new financial strategy does not compute | Jensen Huang wants you to think \u2018ah, compute as an asset class\u2019 not \u2018oh no more GPU-backed loans.\u2019",
+        "link": "https://www.reddit.com/r/technology/comments/1vw9xgg/nvidias_new_financial_strategy_does_not_compute/",
+        "image": "https://external-preview.redd.it/ZHZO5LLmyoG4YMIhpRqB1MkAMr69tZXAST6IXMqxU2w.jpeg?width=640&crop=smart&auto=webp&s=4f4a258170da20788d9acb8549a9d1cc86757645",
+        "published": "2026-08-23T15:19:23+00:00"
     }
 ]
