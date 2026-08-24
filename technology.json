@@ -1,11 +1,5 @@
 [
     {
-        "title": "People have clicked the \"Seems like AI slop\" button on LinkedIn over a million times already",
-        "link": "https://www.reddit.com/r/technology/comments/1vwfbas/people_have_clicked_the_seems_like_ai_slop_button/",
-        "image": "https://external-preview.redd.it/veBbQnT1wsamb6Kp3dvjcyXcuKU15sEpOk4auuAG16w.jpeg?width=640&crop=smart&auto=webp&s=df0969ffaae58fba3ea1750a956a802df590335d",
-        "published": "2026-08-23T18:43:42+00:00"
-    },
-    {
         "title": "AliExpress was silently running audio in your browser to fingerprint and track your device",
         "link": "https://www.reddit.com/r/technology/comments/1vwqknk/aliexpress_was_silently_running_audio_in_your/",
         "image": "https://external-preview.redd.it/kgOW3v-xgZQCuCqDj4-hZzCra2vOoQG5RmCNPedknIc.jpeg?width=640&crop=smart&auto=webp&s=5be161cdb3139e14c170ca5696e5586643a0e898",
@@ -30,16 +24,16 @@
         "published": "2026-08-23T20:43:56+00:00"
     },
     {
-        "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-        "link": "https://www.reddit.com/r/technology/comments/1vwm6ig/twitch_and_amazon_hit_with_lawsuit_for_training/",
-        "image": "https://external-preview.redd.it/zFJkaSd1xTzv_NM3cePXByHXQJ9iDeVuFYqekH36c5U.jpeg?width=640&crop=smart&auto=webp&s=c8f51cfd37a92dedbd782d028fd42e1bd6fff96b",
-        "published": "2026-08-23T23:18:47+00:00"
-    },
-    {
         "title": "Uber hit with nearly $1 billion fine after algorithms suspended drivers without human review",
         "link": "https://www.reddit.com/r/technology/comments/1vx1a0d/uber_hit_with_nearly_1_billion_fine_after/",
         "image": "https://external-preview.redd.it/i05svMtz1jRXQ_aHVpO07Nvo-SQlEt59rmdsiW4ymeE.jpeg?width=640&crop=smart&auto=webp&s=f1fe04603897a71081f3ca8447a0e89d023924b0",
         "published": "2026-08-24T12:22:25+00:00"
+    },
+    {
+        "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+        "link": "https://www.reddit.com/r/technology/comments/1vwm6ig/twitch_and_amazon_hit_with_lawsuit_for_training/",
+        "image": "https://external-preview.redd.it/zFJkaSd1xTzv_NM3cePXByHXQJ9iDeVuFYqekH36c5U.jpeg?width=640&crop=smart&auto=webp&s=c8f51cfd37a92dedbd782d028fd42e1bd6fff96b",
+        "published": "2026-08-23T23:18:47+00:00"
     },
     {
         "title": "Iran war supercharged EV sales everywhere except the U.S.",
@@ -66,16 +60,22 @@
         "published": "2026-08-24T10:34:48+00:00"
     },
     {
+        "title": "Tim Cook Replaced Steve Jobs as CEO 15 Years Ago Today, Steps Down Sept. 1, 2026, and incoming CEO John Ternus will take over, ahead of Apple announcing new iPhone 18 Pro models and its first foldable iPhone.",
+        "link": "https://www.reddit.com/r/technology/comments/1vx2h2d/tim_cook_replaced_steve_jobs_as_ceo_15_years_ago/",
+        "image": "https://external-preview.redd.it/3gPqO0tWtwde846Qw_1u3sVXNkKVCgDuIFa0yg_u-Cg.jpeg?width=640&crop=smart&auto=webp&s=2836d794dda2b4ac9f489c80fb1d356fa0386433",
+        "published": "2026-08-24T13:13:22+00:00"
+    },
+    {
         "title": "After Pushing Gamers to All Digital, Some Companies Are Refusing to Share Digital Game Sales Data",
         "link": "https://www.reddit.com/r/technology/comments/1vwpuoz/after_pushing_gamers_to_all_digital_some/",
         "image": "https://external-preview.redd.it/5XzR9h4ayWkiJ5p9TT_qFtf4DRMRjhJ0dYTBJHn6VK4.jpeg?width=640&crop=smart&auto=webp&s=929a6567700ff06053f9d2adcaf48559e4b20eea",
         "published": "2026-08-24T02:07:18+00:00"
     },
     {
-        "title": "Tim Cook Replaced Steve Jobs as CEO 15 Years Ago Today, Steps Down Sept. 1, 2026, and incoming CEO John Ternus will take over, ahead of Apple announcing new iPhone 18 Pro models and its first foldable iPhone.",
-        "link": "https://www.reddit.com/r/technology/comments/1vx2h2d/tim_cook_replaced_steve_jobs_as_ceo_15_years_ago/",
-        "image": "https://external-preview.redd.it/3gPqO0tWtwde846Qw_1u3sVXNkKVCgDuIFa0yg_u-Cg.jpeg?width=640&crop=smart&auto=webp&s=2836d794dda2b4ac9f489c80fb1d356fa0386433",
-        "published": "2026-08-24T13:13:22+00:00"
+        "title": "A New Kind of Plastic Vaporizes When Heated And Then Reassembles Itself",
+        "link": "https://www.reddit.com/r/technology/comments/1vx03bv/a_new_kind_of_plastic_vaporizes_when_heated_and/",
+        "image": "https://external-preview.redd.it/ah_7K0kATrPFh5NkU6Bm12fkj2xJZN7s-Yst-sDnCTM.jpeg?width=640&crop=smart&auto=webp&s=5c52d2262754cdeef87d367987161c2f7e3f6441",
+        "published": "2026-08-24T11:26:15+00:00"
     },
     {
         "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
