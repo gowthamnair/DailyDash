@@ -30,22 +30,16 @@
         "published": "2026-08-23T20:43:56+00:00"
     },
     {
-        "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-        "link": "https://www.reddit.com/r/technology/comments/1vwm6ig/twitch_and_amazon_hit_with_lawsuit_for_training/",
-        "image": "https://external-preview.redd.it/zFJkaSd1xTzv_NM3cePXByHXQJ9iDeVuFYqekH36c5U.jpeg?width=640&crop=smart&auto=webp&s=c8f51cfd37a92dedbd782d028fd42e1bd6fff96b",
-        "published": "2026-08-23T23:18:47+00:00"
-    },
-    {
-        "title": "Parked Waymos Are Recording Your Neighborhood",
-        "link": "https://www.reddit.com/r/technology/comments/1vw9gkt/parked_waymos_are_recording_your_neighborhood/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-23T15:01:07+00:00"
-    },
-    {
         "title": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using \u2018antisemitic tropes\u2019",
         "link": "https://www.reddit.com/r/technology/comments/1vwz14m/mark_ruffalo_fires_back_at_paramount_skydance/",
         "image": "https://external-preview.redd.it/ebEKpfsNAsz7lY9zkwlNgMz4DJpsK1Tzd0s-IhQYmbw.jpeg?width=640&crop=smart&auto=webp&s=f4c8828e2af0f672cd482ab241461c22091e32e0",
         "published": "2026-08-24T10:33:01+00:00"
+    },
+    {
+        "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+        "link": "https://www.reddit.com/r/technology/comments/1vwm6ig/twitch_and_amazon_hit_with_lawsuit_for_training/",
+        "image": "https://external-preview.redd.it/zFJkaSd1xTzv_NM3cePXByHXQJ9iDeVuFYqekH36c5U.jpeg?width=640&crop=smart&auto=webp&s=c8f51cfd37a92dedbd782d028fd42e1bd6fff96b",
+        "published": "2026-08-23T23:18:47+00:00"
     },
     {
         "title": "Silicon Valley Doesn't Get Why You Hate AI | Technology leaders don\u2019t seem to understand society\u2019s gripes about AI, but boy, are they posting through it",
@@ -60,6 +54,12 @@
         "published": "2026-08-24T12:22:25+00:00"
     },
     {
+        "title": "Iran war supercharged EV sales everywhere except the U.S.",
+        "link": "https://www.reddit.com/r/technology/comments/1vx2nme/iran_war_supercharged_ev_sales_everywhere_except/",
+        "image": "https://external-preview.redd.it/VfghcxYBS9A7mqWg_U1fl1klsstEXyFmg9sQvSG3Yco.jpeg?width=640&crop=smart&auto=webp&s=68d1ad569fb77bdb1630bac44cf879d568f13ded",
+        "published": "2026-08-24T13:20:42+00:00"
+    },
+    {
         "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
         "link": "https://www.reddit.com/r/technology/comments/1vwd12h/former_rockstar_games_lead_says_gta_6_leaks_are_a/",
         "image": "https://external-preview.redd.it/pTF_fYESm3jyJtjabVx1m3I4AT9wIUvRI-GixfXUWOQ.jpeg?width=640&crop=smart&auto=webp&s=6c354f8d631dbb6f8294269683d77a1a12da354c",
@@ -72,16 +72,16 @@
         "published": "2026-08-23T16:41:37+00:00"
     },
     {
-        "title": "After Pushing Gamers to All Digital, Some Companies Are Refusing to Share Digital Game Sales Data",
-        "link": "https://www.reddit.com/r/technology/comments/1vwpuoz/after_pushing_gamers_to_all_digital_some/",
-        "image": "https://external-preview.redd.it/5XzR9h4ayWkiJ5p9TT_qFtf4DRMRjhJ0dYTBJHn6VK4.jpeg?width=640&crop=smart&auto=webp&s=929a6567700ff06053f9d2adcaf48559e4b20eea",
-        "published": "2026-08-24T02:07:18+00:00"
-    },
-    {
         "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. - An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
         "link": "https://www.reddit.com/r/technology/comments/1vx1fj4/a_drone_killed_three_ukrainians_it_was_guided/",
         "image": "https://external-preview.redd.it/rkK5HDexss-uHewEM-26ooGM8uOWt1jn9M68rWDXS9k.jpeg?width=640&crop=smart&auto=webp&s=746af3400827dba3d1c10b1730c748a129360815",
         "published": "2026-08-24T12:29:13+00:00"
+    },
+    {
+        "title": "After Pushing Gamers to All Digital, Some Companies Are Refusing to Share Digital Game Sales Data",
+        "link": "https://www.reddit.com/r/technology/comments/1vwpuoz/after_pushing_gamers_to_all_digital_some/",
+        "image": "https://external-preview.redd.it/5XzR9h4ayWkiJ5p9TT_qFtf4DRMRjhJ0dYTBJHn6VK4.jpeg?width=640&crop=smart&auto=webp&s=929a6567700ff06053f9d2adcaf48559e4b20eea",
+        "published": "2026-08-24T02:07:18+00:00"
     },
     {
         "title": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
