@@ -30,16 +30,16 @@
         "published": "2026-08-23T20:43:56+00:00"
     },
     {
-        "title": "Parked Waymos Are Recording Your Neighborhood",
-        "link": "https://www.reddit.com/r/technology/comments/1vw9gkt/parked_waymos_are_recording_your_neighborhood/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-23T15:01:07+00:00"
-    },
-    {
         "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
         "link": "https://www.reddit.com/r/technology/comments/1vwm6ig/twitch_and_amazon_hit_with_lawsuit_for_training/",
         "image": "https://external-preview.redd.it/zFJkaSd1xTzv_NM3cePXByHXQJ9iDeVuFYqekH36c5U.jpeg?width=640&crop=smart&auto=webp&s=c8f51cfd37a92dedbd782d028fd42e1bd6fff96b",
         "published": "2026-08-23T23:18:47+00:00"
+    },
+    {
+        "title": "Parked Waymos Are Recording Your Neighborhood",
+        "link": "https://www.reddit.com/r/technology/comments/1vw9gkt/parked_waymos_are_recording_your_neighborhood/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-23T15:01:07+00:00"
     },
     {
         "title": "Silicon Valley Doesn't Get Why You Hate AI | Technology leaders don\u2019t seem to understand society\u2019s gripes about AI, but boy, are they posting through it",
@@ -48,22 +48,16 @@
         "published": "2026-08-24T00:44:26+00:00"
     },
     {
-        "title": "The world's first webcam was switched off 25 years ago today; 128x128 grayscale feed predated the World Wide Web to monitor a Cambridge coffee pot",
-        "link": "https://www.reddit.com/r/technology/comments/1vw5z7b/the_worlds_first_webcam_was_switched_off_25_years/",
-        "image": "https://external-preview.redd.it/y1rCUYQZZFWXGQ3e1XYLHbN13xpBnWcaJGvSv7-QSbA.jpeg?width=640&crop=smart&auto=webp&s=89c9e0d390d6d3d05777925681fd2319d97d9c48",
-        "published": "2026-08-23T12:31:28+00:00"
+        "title": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using \u2018antisemitic tropes\u2019",
+        "link": "https://www.reddit.com/r/technology/comments/1vwz14m/mark_ruffalo_fires_back_at_paramount_skydance/",
+        "image": "https://external-preview.redd.it/ebEKpfsNAsz7lY9zkwlNgMz4DJpsK1Tzd0s-IhQYmbw.jpeg?width=640&crop=smart&auto=webp&s=f4c8828e2af0f672cd482ab241461c22091e32e0",
+        "published": "2026-08-24T10:33:01+00:00"
     },
     {
         "title": "Enterprise SSDs cost 18.6 times more than HDDs as 30TB drives hit $22,600 \u2014 hard drive supply is sold out through 2027",
         "link": "https://www.reddit.com/r/technology/comments/1vw8k8a/enterprise_ssds_cost_186_times_more_than_hdds_as/",
         "image": "https://external-preview.redd.it/uoZb7yRUqukeKIVa5v-o3uzIh-rohag44lW-megRAFQ.jpeg?width=640&crop=smart&auto=webp&s=febf58539ce310344ec59c54fd3c3e082a37e63e",
         "published": "2026-08-23T14:24:49+00:00"
-    },
-    {
-        "title": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using \u2018antisemitic tropes\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1vwz14m/mark_ruffalo_fires_back_at_paramount_skydance/",
-        "image": "https://external-preview.redd.it/ebEKpfsNAsz7lY9zkwlNgMz4DJpsK1Tzd0s-IhQYmbw.jpeg?width=640&crop=smart&auto=webp&s=f4c8828e2af0f672cd482ab241461c22091e32e0",
-        "published": "2026-08-24T10:33:01+00:00"
     },
     {
         "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vwob4o/2028_dems_dodge_on_bernies_push_to_pause_ai/",
         "image": "https://external-preview.redd.it/0qbmc633YXJhhSDcKGzPf9enClNgKy0-RA0jTneE83g.jpeg?width=640&crop=smart&auto=webp&s=6725ff458626df498d6a7b4bd6aa689104e4a7d3",
         "published": "2026-08-24T00:54:45+00:00"
+    },
+    {
+        "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
+        "link": "https://www.reddit.com/r/technology/comments/1vwq8o9/meta_ran_ads_for_an_app_that_promised_to_nudify/",
+        "image": "https://external-preview.redd.it/XRX4ND1e-hk3YOYF7QBOw_rX4GD5bxVsLGdmotdEeN8.jpeg?width=640&crop=smart&auto=webp&s=e78d96e9dbf554ba903f1b78e29267f8f20b97a6",
+        "published": "2026-08-24T02:25:46+00:00"
     }
 ]
