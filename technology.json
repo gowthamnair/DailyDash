@@ -12,12 +12,6 @@
         "published": "2026-08-24T02:42:04+00:00"
     },
     {
-        "title": "Texas Gov. Greg Abbott says data centers 'dug their own grave'",
-        "link": "https://www.reddit.com/r/technology/comments/1vwifxj/texas_gov_greg_abbott_says_data_centers_dug_their/",
-        "image": "https://external-preview.redd.it/n0Kn0MzZmPPH23v7KCqVfmwbIgaNQSGQ1WE-pWtZmjg.jpeg?width=640&crop=smart&auto=webp&s=6f803491d859c8408dafc6de8423a188da30e120",
-        "published": "2026-08-23T20:43:56+00:00"
-    },
-    {
         "title": "Uber hit with nearly $1 billion fine after algorithms suspended drivers without human review",
         "link": "https://www.reddit.com/r/technology/comments/1vx1a0d/uber_hit_with_nearly_1_billion_fine_after/",
         "image": "https://external-preview.redd.it/i05svMtz1jRXQ_aHVpO07Nvo-SQlEt59rmdsiW4ymeE.jpeg?width=640&crop=smart&auto=webp&s=f1fe04603897a71081f3ca8447a0e89d023924b0",
@@ -42,6 +36,12 @@
         "published": "2026-08-24T00:44:26+00:00"
     },
     {
+        "title": "US power grid at risk of 18-month blackout, official says, as 1 city has been in dark for more than a week",
+        "link": "https://www.reddit.com/r/technology/comments/1vxchgi/us_power_grid_at_risk_of_18month_blackout/",
+        "image": "https://external-preview.redd.it/Rtc3QVrZXdjbpShs_LYfEnG1VO0H2s82MOflt3kMAP0.jpeg?width=640&crop=smart&auto=webp&s=f40642e536470ec93fab05a457fe36679e115672",
+        "published": "2026-08-24T19:15:54+00:00"
+    },
+    {
         "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. - An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
         "link": "https://www.reddit.com/r/technology/comments/1vx1fj4/a_drone_killed_three_ukrainians_it_was_guided/",
         "image": "https://external-preview.redd.it/rkK5HDexss-uHewEM-26ooGM8uOWt1jn9M68rWDXS9k.jpeg?width=640&crop=smart&auto=webp&s=746af3400827dba3d1c10b1730c748a129360815",
@@ -52,12 +52,6 @@
         "link": "https://www.reddit.com/r/technology/comments/1vwz29x/anthropics_best_ai_model_struggles_to_attract/",
         "image": "https://external-preview.redd.it/q4uQKhmy8qwvjKwzZWA1duih9KEov-G8o8oa3TmFweY.png?width=640&crop=smart&auto=webp&s=bd1e98fd4370f1904f69f12e6fbd8ff465726bb1",
         "published": "2026-08-24T10:34:48+00:00"
-    },
-    {
-        "title": "US power grid at risk of 18-month blackout, official says, as 1 city has been in dark for more than a week",
-        "link": "https://www.reddit.com/r/technology/comments/1vxchgi/us_power_grid_at_risk_of_18month_blackout/",
-        "image": "https://external-preview.redd.it/Rtc3QVrZXdjbpShs_LYfEnG1VO0H2s82MOflt3kMAP0.jpeg?width=640&crop=smart&auto=webp&s=f40642e536470ec93fab05a457fe36679e115672",
-        "published": "2026-08-24T19:15:54+00:00"
     },
     {
         "title": "Tim Cook Replaced Steve Jobs as CEO 15 Years Ago Today, Steps Down Sept. 1, 2026, and incoming CEO John Ternus will take over, ahead of Apple announcing new iPhone 18 Pro models and its first foldable iPhone.",
@@ -72,21 +66,27 @@
         "published": "2026-08-24T02:07:18+00:00"
     },
     {
-        "title": "A New Kind of Plastic Vaporizes When Heated And Then Reassembles Itself",
-        "link": "https://www.reddit.com/r/technology/comments/1vx03bv/a_new_kind_of_plastic_vaporizes_when_heated_and/",
-        "image": "https://external-preview.redd.it/ah_7K0kATrPFh5NkU6Bm12fkj2xJZN7s-Yst-sDnCTM.jpeg?width=640&crop=smart&auto=webp&s=5c52d2262754cdeef87d367987161c2f7e3f6441",
-        "published": "2026-08-24T11:26:15+00:00"
-    },
-    {
         "title": "Four former police employees arrested over alleged misuse of Flock license plate cameras",
         "link": "https://www.reddit.com/r/technology/comments/1vx9viw/four_former_police_employees_arrested_over/",
         "image": "https://external-preview.redd.it/eNV-yQXdoIWPXeXMsN_ULgiYx_XPfYqwTlTYN6KIlhw.jpeg?width=640&crop=smart&auto=webp&s=7a8cafcb12883e69b9ce82bce5d57d6aba3acecc",
         "published": "2026-08-24T17:46:11+00:00"
     },
     {
+        "title": "A New Kind of Plastic Vaporizes When Heated And Then Reassembles Itself",
+        "link": "https://www.reddit.com/r/technology/comments/1vx03bv/a_new_kind_of_plastic_vaporizes_when_heated_and/",
+        "image": "https://external-preview.redd.it/ah_7K0kATrPFh5NkU6Bm12fkj2xJZN7s-Yst-sDnCTM.jpeg?width=640&crop=smart&auto=webp&s=5c52d2262754cdeef87d367987161c2f7e3f6441",
+        "published": "2026-08-24T11:26:15+00:00"
+    },
+    {
         "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
         "link": "https://www.reddit.com/r/technology/comments/1vwq8o9/meta_ran_ads_for_an_app_that_promised_to_nudify/",
         "image": "https://external-preview.redd.it/XRX4ND1e-hk3YOYF7QBOw_rX4GD5bxVsLGdmotdEeN8.jpeg?width=640&crop=smart&auto=webp&s=e78d96e9dbf554ba903f1b78e29267f8f20b97a6",
         "published": "2026-08-24T02:25:46+00:00"
+    },
+    {
+        "title": "2028 Dems dodge on Bernie's push to pause AI",
+        "link": "https://www.reddit.com/r/technology/comments/1vwob4o/2028_dems_dodge_on_bernies_push_to_pause_ai/",
+        "image": "https://external-preview.redd.it/0qbmc633YXJhhSDcKGzPf9enClNgKy0-RA0jTneE83g.jpeg?width=640&crop=smart&auto=webp&s=6725ff458626df498d6a7b4bd6aa689104e4a7d3",
+        "published": "2026-08-24T00:54:45+00:00"
     }
 ]
