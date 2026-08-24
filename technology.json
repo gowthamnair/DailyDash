@@ -12,16 +12,16 @@
         "published": "2026-08-23T15:37:00+00:00"
     },
     {
-        "title": "Data centers near O\u2019Hare win nearly $100M in local tax breaks, leaving suburban homeowners to cover the gap",
-        "link": "https://www.reddit.com/r/technology/comments/1vwh3mt/data_centers_near_ohare_win_nearly_100m_in_local/",
-        "image": "https://external-preview.redd.it/r1J9bs3mPkfb1u44bEek4uh4N8B3a1pfl5suClYGemU.jpeg?width=640&crop=smart&auto=webp&s=fa4d6e4732ab4ce80df782a7ea911bce93db56d2",
-        "published": "2026-08-23T19:51:58+00:00"
-    },
-    {
         "title": "AliExpress was silently running audio in your browser to fingerprint and track your device",
         "link": "https://www.reddit.com/r/technology/comments/1vwqknk/aliexpress_was_silently_running_audio_in_your/",
         "image": "https://external-preview.redd.it/kgOW3v-xgZQCuCqDj4-hZzCra2vOoQG5RmCNPedknIc.jpeg?width=640&crop=smart&auto=webp&s=5be161cdb3139e14c170ca5696e5586643a0e898",
         "published": "2026-08-24T02:42:04+00:00"
+    },
+    {
+        "title": "Data centers near O\u2019Hare win nearly $100M in local tax breaks, leaving suburban homeowners to cover the gap",
+        "link": "https://www.reddit.com/r/technology/comments/1vwh3mt/data_centers_near_ohare_win_nearly_100m_in_local/",
+        "image": "https://external-preview.redd.it/r1J9bs3mPkfb1u44bEek4uh4N8B3a1pfl5suClYGemU.jpeg?width=640&crop=smart&auto=webp&s=fa4d6e4732ab4ce80df782a7ea911bce93db56d2",
+        "published": "2026-08-23T19:51:58+00:00"
     },
     {
         "title": "Texas Gov. Greg Abbott says data centers 'dug their own grave'",
@@ -72,12 +72,6 @@
         "published": "2026-08-23T14:24:49+00:00"
     },
     {
-        "title": "PlayStation Blasts Out Poorly Timed Reminder About Digital Games",
-        "link": "https://www.reddit.com/r/technology/comments/1vw131d/playstation_blasts_out_poorly_timed_reminder/",
-        "image": "https://external-preview.redd.it/1KLqB9LaeXR_GjDk22hzuAT8yOiJj8Svv4EZNKlS7z0.jpeg?width=640&crop=smart&auto=webp&s=fd0d0ac2fc5ece7129c7f7b3b7b938893920ec1f",
-        "published": "2026-08-23T07:59:32+00:00"
-    },
-    {
         "title": "Self-driving Ford F-250 truck with shotgun-equipped drone-killing turret tested by US Army; autonomous system designed to blast fast-moving drones at between 10 and 100 meters range",
         "link": "https://www.reddit.com/r/technology/comments/1vwc2po/selfdriving_ford_f250_truck_with_shotgunequipped/",
         "image": "https://external-preview.redd.it/Y3_OWGw3fGKrSHDx9OCfYNEgAXLejgr8tHOdb62lXYE.jpeg?width=640&crop=smart&auto=webp&s=0f85b79021a8372484c6c4a7a9290fae33601d7c",
@@ -88,5 +82,11 @@
         "link": "https://www.reddit.com/r/technology/comments/1vwd12h/former_rockstar_games_lead_says_gta_6_leaks_are_a/",
         "image": "https://external-preview.redd.it/pTF_fYESm3jyJtjabVx1m3I4AT9wIUvRI-GixfXUWOQ.jpeg?width=640&crop=smart&auto=webp&s=6c354f8d631dbb6f8294269683d77a1a12da354c",
         "published": "2026-08-23T17:18:27+00:00"
+    },
+    {
+        "title": "2028 Dems dodge on Bernie's push to pause AI",
+        "link": "https://www.reddit.com/r/technology/comments/1vwob4o/2028_dems_dodge_on_bernies_push_to_pause_ai/",
+        "image": "https://external-preview.redd.it/0qbmc633YXJhhSDcKGzPf9enClNgKy0-RA0jTneE83g.jpeg?width=640&crop=smart&auto=webp&s=6725ff458626df498d6a7b4bd6aa689104e4a7d3",
+        "published": "2026-08-24T00:54:45+00:00"
     }
 ]
