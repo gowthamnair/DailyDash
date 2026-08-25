@@ -30,12 +30,6 @@
         "published": "2026-08-24T13:20:42+00:00"
     },
     {
-        "title": "Silicon Valley Doesn't Get Why You Hate AI | Technology leaders don\u2019t seem to understand society\u2019s gripes about AI, but boy, are they posting through it",
-        "link": "https://www.reddit.com/r/technology/comments/1vwo35v/silicon_valley_doesnt_get_why_you_hate_ai/",
-        "image": "https://external-preview.redd.it/74cqOMyiHrF9sNVD5zGp7itovlYgGLA21fihfJC61RQ.jpeg?width=640&crop=smart&auto=webp&s=45f2353fcb5eec0d979bb338f5d0a47b0b5a645c",
-        "published": "2026-08-24T00:44:26+00:00"
-    },
-    {
         "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. - An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
         "link": "https://www.reddit.com/r/technology/comments/1vx1fj4/a_drone_killed_three_ukrainians_it_was_guided/",
         "image": "https://external-preview.redd.it/rkK5HDexss-uHewEM-26ooGM8uOWt1jn9M68rWDXS9k.jpeg?width=640&crop=smart&auto=webp&s=746af3400827dba3d1c10b1730c748a129360815",
@@ -48,16 +42,16 @@
         "published": "2026-08-24T13:13:22+00:00"
     },
     {
-        "title": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
-        "link": "https://www.reddit.com/r/technology/comments/1vwz29x/anthropics_best_ai_model_struggles_to_attract/",
-        "image": "https://external-preview.redd.it/q4uQKhmy8qwvjKwzZWA1duih9KEov-G8o8oa3TmFweY.png?width=640&crop=smart&auto=webp&s=bd1e98fd4370f1904f69f12e6fbd8ff465726bb1",
-        "published": "2026-08-24T10:34:48+00:00"
-    },
-    {
         "title": "Four former police employees arrested over alleged misuse of Flock license plate cameras",
         "link": "https://www.reddit.com/r/technology/comments/1vx9viw/four_former_police_employees_arrested_over/",
         "image": "https://external-preview.redd.it/eNV-yQXdoIWPXeXMsN_ULgiYx_XPfYqwTlTYN6KIlhw.jpeg?width=640&crop=smart&auto=webp&s=7a8cafcb12883e69b9ce82bce5d57d6aba3acecc",
         "published": "2026-08-24T17:46:11+00:00"
+    },
+    {
+        "title": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
+        "link": "https://www.reddit.com/r/technology/comments/1vwz29x/anthropics_best_ai_model_struggles_to_attract/",
+        "image": "https://external-preview.redd.it/q4uQKhmy8qwvjKwzZWA1duih9KEov-G8o8oa3TmFweY.png?width=640&crop=smart&auto=webp&s=bd1e98fd4370f1904f69f12e6fbd8ff465726bb1",
+        "published": "2026-08-24T10:34:48+00:00"
     },
     {
         "title": "A New Kind of Plastic Vaporizes When Heated And Then Reassembles Itself",
@@ -66,16 +60,22 @@
         "published": "2026-08-24T11:26:15+00:00"
     },
     {
-        "title": "After Pushing Gamers to All Digital, Some Companies Are Refusing to Share Digital Game Sales Data",
-        "link": "https://www.reddit.com/r/technology/comments/1vwpuoz/after_pushing_gamers_to_all_digital_some/",
-        "image": "https://external-preview.redd.it/5XzR9h4ayWkiJ5p9TT_qFtf4DRMRjhJ0dYTBJHn6VK4.jpeg?width=640&crop=smart&auto=webp&s=929a6567700ff06053f9d2adcaf48559e4b20eea",
-        "published": "2026-08-24T02:07:18+00:00"
-    },
-    {
         "title": "The Data Center Backlash Bursts Into the Midterms",
         "link": "https://www.reddit.com/r/technology/comments/1vx3prd/the_data_center_backlash_bursts_into_the_midterms/",
         "image": "https://external-preview.redd.it/YNMWNztPp3RE7IU-dxG_NFCbxz0xZ2If7cXzawMgDn0.jpeg?width=640&crop=smart&auto=webp&s=177ca5713edc4ef011902467d866e5f5a8778672",
         "published": "2026-08-24T14:02:05+00:00"
+    },
+    {
+        "title": "Trump tried to curb clean energy. It\u2019s booming anyway.",
+        "link": "https://www.reddit.com/r/technology/comments/1vx5f8k/trump_tried_to_curb_clean_energy_its_booming/",
+        "image": "https://external-preview.redd.it/CWC6X-poFtN5MABwHmv6fr-bVl3VgXconPhLMFrfcIY.jpeg?width=640&crop=smart&auto=webp&s=8e3d4e57fdca6e41cf30a1fe2aa20d8156f374f8",
+        "published": "2026-08-24T15:06:34+00:00"
+    },
+    {
+        "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
+        "link": "https://www.reddit.com/r/technology/comments/1vx41cl/aliexpress_accused_of_fingerprinting_shoppers/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-08-24T14:14:44+00:00"
     },
     {
         "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
@@ -84,9 +84,9 @@
         "published": "2026-08-24T02:25:46+00:00"
     },
     {
-        "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-        "link": "https://www.reddit.com/r/technology/comments/1vx41cl/aliexpress_accused_of_fingerprinting_shoppers/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-24T14:14:44+00:00"
+        "title": "Apple lays off staffers ahead of CEO change",
+        "link": "https://www.reddit.com/r/technology/comments/1vx2t56/apple_lays_off_staffers_ahead_of_ceo_change/",
+        "image": "https://external-preview.redd.it/Q7vA2xLDZxPCn4u3lzp-DitvYxKaubdjUjN1w8VeHic.jpeg?width=640&crop=smart&auto=webp&s=7832730ea53ad7eb7eb15b36a6687c2c68f89d1c",
+        "published": "2026-08-24T13:27:02+00:00"
     }
 ]
