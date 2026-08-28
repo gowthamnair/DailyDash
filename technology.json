@@ -18,22 +18,10 @@
         "published": "2026-08-27T15:29:30+00:00"
     },
     {
-        "title": "Nvidia Agrees to Buy Open Source Model Repository Hugging Face For $12.9 Billion",
-        "link": "https://www.reddit.com/r/technology/comments/1vzhm1p/nvidia_agrees_to_buy_open_source_model_repository/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-08-27T02:36:10+00:00"
-    },
-    {
-        "title": "One Microsoft Employee Spent $28,000 on AI in 28 Days. Now the Company Is Watching Everyone. - Gadget Review",
-        "link": "https://www.reddit.com/r/technology/comments/1vzjhzq/one_microsoft_employee_spent_28000_on_ai_in_28/",
-        "image": "https://external-preview.redd.it/1UrFKxzrIaKmoG5j0SA4T8am6spOOAGZAGoaRyL2Axo.jpeg?width=640&crop=smart&auto=webp&s=e4e5fa93bab5fd315b0b2440e88a2a6e748e0ddd",
-        "published": "2026-08-27T04:06:59+00:00"
-    },
-    {
-        "title": "Tempe turns off its Flock license plate reader system, citing privacy concerns and potential for 'misuse'",
-        "link": "https://www.reddit.com/r/technology/comments/1vzhe5w/tempe_turns_off_its_flock_license_plate_reader/",
-        "image": "https://external-preview.redd.it/N4BRkiwBd93sn_9hqw_QxkiTpbhaOK_jJtn0HRt4N5s.jpeg?width=640&crop=smart&auto=webp&s=414ad2091e5351716a42f3b6527a862b50e924ef",
-        "published": "2026-08-27T02:26:19+00:00"
+        "title": "Elon Musk\u2019s xAI used child porn to train Grok models, lawsuit says",
+        "link": "https://www.reddit.com/r/technology/comments/1w0b71p/elon_musks_xai_used_child_porn_to_train_grok/",
+        "image": "https://external-preview.redd.it/MeAP5ra1wfhheEtauSHjxVx7bK2kMRAoaMF3jKSVrUE.jpeg?width=640&crop=smart&auto=webp&s=a7d6bb3015e16aac77210d85ca1b229b2f9407a3",
+        "published": "2026-08-28T00:15:44+00:00"
     },
     {
         "title": "Panic, the indie game publishers, passes U.S President tariff refunds back to the Playdate handheld customers who paid them: \u201cIt just felt like the right thing to do\u201d",
@@ -48,22 +36,10 @@
         "published": "2026-08-27T18:59:37+00:00"
     },
     {
-        "title": "Apple Maps is getting ads, and there's no way to turn them off",
-        "link": "https://www.reddit.com/r/technology/comments/1vzsaei/apple_maps_is_getting_ads_and_theres_no_way_to/",
-        "image": "https://external-preview.redd.it/q3wD9ufustQ_nK9pPFQfiCy0h58LNdXOEW7d34YdvyU.jpeg?width=640&crop=smart&auto=webp&s=5f0b0be59858dbba9fc94f9221928f1deb4e658f",
-        "published": "2026-08-27T12:15:16+00:00"
-    },
-    {
         "title": "Zuckerberg's bold plan to replace Meta employees with AI has imploded",
         "link": "https://www.reddit.com/r/technology/comments/1w01cow/zuckerbergs_bold_plan_to_replace_meta_employees/",
         "image": "https://external-preview.redd.it/IgwHKApxBctLEqKFGqSzXCjN3RDGmPt9DoSbdKORfT4.jpeg?width=640&crop=smart&auto=webp&s=36e1a7c22f59fc40b8294781721d978967365a45",
         "published": "2026-08-27T18:00:06+00:00"
-    },
-    {
-        "title": "More than 100 cities across the nation have turned off their Flock cameras after outcry from locals",
-        "link": "https://www.reddit.com/r/technology/comments/1vzz3hj/more_than_100_cities_across_the_nation_have/",
-        "image": "https://external-preview.redd.it/cLQOX-lacJrawIg4E_jbrVnJ68aTRtmgad6IOZJNJ9g.jpeg?width=640&crop=smart&auto=webp&s=fca7086d67b20deec2d2b418871f8000b7f4f961",
-        "published": "2026-08-27T16:38:52+00:00"
     },
     {
         "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
@@ -72,21 +48,45 @@
         "published": "2026-08-27T19:01:34+00:00"
     },
     {
+        "title": "Apple Maps is getting ads, and there's no way to turn them off",
+        "link": "https://www.reddit.com/r/technology/comments/1vzsaei/apple_maps_is_getting_ads_and_theres_no_way_to/",
+        "image": "https://external-preview.redd.it/q3wD9ufustQ_nK9pPFQfiCy0h58LNdXOEW7d34YdvyU.jpeg?width=640&crop=smart&auto=webp&s=5f0b0be59858dbba9fc94f9221928f1deb4e658f",
+        "published": "2026-08-27T12:15:16+00:00"
+    },
+    {
         "title": "Alzheimer's Damage in Mice Reversed With Just Two Injections",
         "link": "https://www.reddit.com/r/technology/comments/1w004l3/alzheimers_damage_in_mice_reversed_with_just_two/",
         "image": "https://external-preview.redd.it/Yh5XfiPcjnb8G9GPn4Sw3n-KTq8nQvS-DT1Jz_RxTbw.jpeg?width=640&crop=smart&auto=webp&s=b547b1f4d8deafb3abbd09658a487f85c03d471f",
         "published": "2026-08-27T17:16:23+00:00"
     },
     {
+        "title": "More than 100 cities across the nation have turned off their Flock cameras after outcry from locals",
+        "link": "https://www.reddit.com/r/technology/comments/1vzz3hj/more_than_100_cities_across_the_nation_have/",
+        "image": "https://external-preview.redd.it/cLQOX-lacJrawIg4E_jbrVnJ68aTRtmgad6IOZJNJ9g.jpeg?width=640&crop=smart&auto=webp&s=fca7086d67b20deec2d2b418871f8000b7f4f961",
+        "published": "2026-08-27T16:38:52+00:00"
+    },
+    {
+        "title": "MicroSD card torture test writes 133 petabytes of data across 351 cards over three years \u2014 cards tested to failure reveal SanDisk as the outlier with 6 failures of the 7 tested",
+        "link": "https://www.reddit.com/r/technology/comments/1w07nbx/microsd_card_torture_test_writes_133_petabytes_of/",
+        "image": "https://external-preview.redd.it/fIj9jZYArTs1eRDYgvUg3O6cJXa2n19htAt9hLVnB-I.jpeg?width=640&crop=smart&auto=webp&s=6a4ff0f0fa9e1e6d47fa8cda511016761092bdd6",
+        "published": "2026-08-27T21:49:01+00:00"
+    },
+    {
+        "title": "Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI",
+        "link": "https://www.reddit.com/r/technology/comments/1w0igwy/grand_theft_auto_6_will_have_no_microtransactions/",
+        "image": "https://external-preview.redd.it/aJqvi43w4SVXdCljyscV52aSU-8FEy63AwY-Im1c2tE.jpeg?width=640&crop=smart&auto=webp&s=cb560788bbccb899df83fafb624a6173d47ea369",
+        "published": "2026-08-28T06:14:01+00:00"
+    },
+    {
+        "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
+        "link": "https://www.reddit.com/r/technology/comments/1w03k1i/ai_industry_says_trump_plans_to_tax_chips_in_the/",
+        "image": "https://external-preview.redd.it/4k9YyhHEE9bCaCHLL3VSGQLszVlQG9zRd2DOOuHgidE.jpeg?width=640&crop=smart&auto=webp&s=385c397554e60d2373eaafa580d18ef56301c8c3",
+        "published": "2026-08-27T19:19:01+00:00"
+    },
+    {
         "title": "Tech companies and local officials are covering data center talks in NDAs",
         "link": "https://www.reddit.com/r/technology/comments/1vzpaxi/tech_companies_and_local_officials_are_covering/",
         "image": "https://external-preview.redd.it/tZAoDgE1WM7o5qRUHOA1JMikoLLnmcjNfSqED3opXhY.jpeg?width=640&crop=smart&auto=webp&s=d14e117ebb9503d7e5212bd8d7034c8d3372f8a5",
         "published": "2026-08-27T09:39:54+00:00"
-    },
-    {
-        "title": "LibreOffice 26.8's release fixes your word spacing, brings in a new Notebookbar UI, and still contains zero AI",
-        "link": "https://www.reddit.com/r/technology/comments/1vzni25/libreoffice_268s_release_fixes_your_word_spacing/",
-        "image": "https://external-preview.redd.it/vI7UzOR_K-hriNkF3kjxvCRQ0PCSmcqSVGQctCMDxz8.jpeg?width=640&crop=smart&auto=webp&s=13bf9746b3e362a84d9ebf96e4028c3d5f07de7b",
-        "published": "2026-08-27T07:52:09+00:00"
     }
 ]
