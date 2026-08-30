@@ -1,11 +1,5 @@
 [
     {
-        "title": "\u2018Clearly, people hate data centers\u2019: Sam Altman admits Americans hate what he\u2019s wrought as his own data centers head quits",
-        "link": "https://www.reddit.com/r/technology/comments/1w1ijqg/clearly_people_hate_data_centers_sam_altman/",
-        "image": "https://external-preview.redd.it/OantkMFnBQMhPUqvU_FY5ikFQycsRkMqXZqyEDeZeHA.jpeg?width=640&crop=smart&auto=webp&s=8e204af037e18b87fb579fbcdebd82e51e962d90",
-        "published": "2026-08-29T10:03:49+00:00"
-    },
-    {
         "title": "Flock CEO\u2019s Address Spread Online as Surveillance Backlash Explodes",
         "link": "https://www.reddit.com/r/technology/comments/1w20ggv/flock_ceos_address_spread_online_as_surveillance/",
         "image": "https://external-preview.redd.it/FTwjfxIAAe6p5NLUGGw-mcI7XMZ3LZZgYXCVFmn1Y9o.jpeg?width=640&crop=smart&auto=webp&s=314bd16b4797a3413d10478002e596d7dab73d8b",
@@ -30,28 +24,10 @@
         "published": "2026-08-29T12:55:28+00:00"
     },
     {
-        "title": "Prominent Texas Republican predicts GOP losses over data centers | One prominent Texas Republican predicts disaster at the polls if his party doesn't take a harder stand against data centers.",
-        "link": "https://www.reddit.com/r/technology/comments/1w1hh7p/prominent_texas_republican_predicts_gop_losses/",
-        "image": "https://external-preview.redd.it/DhgENSmauP8kimpcCvJpE1J5a-cztgnHxzk-o2HtfnM.jpeg?width=640&crop=smart&auto=webp&s=531d954aa888d6d66e61364177779b37502f960e",
-        "published": "2026-08-29T09:00:58+00:00"
-    },
-    {
         "title": "A study of nearly 10,000 battery tests found used EV batteries hold up far better than feared, with the Kia e-Niro still at 97% capacity after 62,000 miles",
         "link": "https://www.reddit.com/r/technology/comments/1w1xvuc/a_study_of_nearly_10000_battery_tests_found_used/",
         "image": "https://external-preview.redd.it/Jxay6mOVyRK5ayJL_y1tFn2Erra161w443Ht1uNN_pY.jpeg?width=640&crop=smart&auto=webp&s=e90ada8faab0a11c1e6323912bb65e73acae46f8",
         "published": "2026-08-29T20:59:17+00:00"
-    },
-    {
-        "title": "Claude nukes a developer's 700 GB home directory while testing deletion safeguards; automatic model safety downgrade may have contributed to the screw-up \u2014 Anthropic safety harness downgraded model to Opus 4.8 before fatal variable collision",
-        "link": "https://www.reddit.com/r/technology/comments/1w1hb27/claude_nukes_a_developers_700_gb_home_directory/",
-        "image": "https://external-preview.redd.it/DzQMIKbffoJjI4NAQ1O0UAFES9FuJBzlFPv27UlQAL8.jpeg?width=640&crop=smart&auto=webp&s=19a6a8fce6e5b485f8b4bb97b8551fc4365269b3",
-        "published": "2026-08-29T08:50:18+00:00"
-    },
-    {
-        "title": "States can regulate prediction markets as gambling, federal appeals court rules",
-        "link": "https://www.reddit.com/r/technology/comments/1w1ibnh/states_can_regulate_prediction_markets_as/",
-        "image": "https://external-preview.redd.it/nBOWfYKp016mNwVyDqlHz20UYW2qKlSM_dn7JIieoQQ.jpeg?width=640&crop=smart&auto=webp&s=6147846f0ed84c8cfbb420e51925a63364389a2e",
-        "published": "2026-08-29T09:51:02+00:00"
     },
     {
         "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
@@ -60,10 +36,40 @@
         "published": "2026-08-29T21:38:42+00:00"
     },
     {
+        "title": "Gwyneth Paltrow Skips Dinner With OpenAI Billionaire Sam Altman Amid \u2018Tone Deaf\u2019 Backlash",
+        "link": "https://www.reddit.com/r/technology/comments/1w2cuy8/gwyneth_paltrow_skips_dinner_with_openai/",
+        "image": "https://external-preview.redd.it/F_NnbpmtjT-6Fopyk5DOiWvBZr4SGa17UFyLmxH0fzo.jpeg?width=640&crop=smart&auto=webp&s=5d212ce400e8cafc70df5b91b2f6d9aa2305998c",
+        "published": "2026-08-30T09:24:35+00:00"
+    },
+    {
         "title": "California lawmakers unanimously pass Linux exemption from age-verification law &mdash; software distributed under the GPL, MIT, BSD, and Apache licenses are exempt",
         "link": "https://www.reddit.com/r/technology/comments/1w1tc5q/california_lawmakers_unanimously_pass_linux/",
         "image": "https://external-preview.redd.it/f2lCidNIr-ROlD5w7HLcAF1m94JkTo5VtSCPuMgLA2g.jpeg?width=640&crop=smart&auto=webp&s=0fa02f9de096a8a73663100b43a19cc0dde5546f",
         "published": "2026-08-29T18:00:31+00:00"
+    },
+    {
+        "title": "Judges rule AI child abuse images are protected in your own home",
+        "link": "https://www.reddit.com/r/technology/comments/1w23uya/judges_rule_ai_child_abuse_images_are_protected/",
+        "image": "https://external-preview.redd.it/44tId4_LLYZavXkNZzOn90Rb5EHa8fqpeHmGGDfRtKY.jpeg?width=640&crop=smart&auto=webp&s=837e57dbb4dd7a5dc47f09f40453f6e116b50792",
+        "published": "2026-08-30T01:22:08+00:00"
+    },
+    {
+        "title": "Designer creates a dizzying \u2018digital camouflage\u2019 shirt to hide from AI surveillance cameras \u2014 The shirt is designed to confuse surveillance algorithms, subverting what the system recognises as a person",
+        "link": "https://www.reddit.com/r/technology/comments/1w20ehn/designer_creates_a_dizzying_digital_camouflage/",
+        "image": "https://external-preview.redd.it/vtbtnmeo8hR0dDSpuricXZ4w1_fiufDomeONxsUGxLA.jpeg?width=640&crop=smart&auto=webp&s=fef22574ddbbaec810712c1826ec0c307d3eda9d",
+        "published": "2026-08-29T22:44:57+00:00"
+    },
+    {
+        "title": "Texas Gov. Greg Abbott says China isn't behind anti-data-center debate",
+        "link": "https://www.reddit.com/r/technology/comments/1w1yxgb/texas_gov_greg_abbott_says_china_isnt_behind/",
+        "image": "https://external-preview.redd.it/_S5xZXGM6oPA_3ECb_19n0aTpijv-jXJmRnvjLPWnac.jpeg?width=640&crop=smart&auto=webp&s=1d6785919b4495b28ac273e5cb36f484109c3d5c",
+        "published": "2026-08-29T21:42:22+00:00"
+    },
+    {
+        "title": "Tech titans and Republicans dominate this list of the top 20 megadonors who have poured $1.2 billion into the U.S. midterm elections.",
+        "link": "https://www.reddit.com/r/technology/comments/1w28aav/tech_titans_and_republicans_dominate_this_list_of/",
+        "image": "https://external-preview.redd.it/tESLz85sCVDhaBOUMxAZ8Fcnzx-cXvSuJ5AvDpNJEp0.png?width=640&crop=smart&auto=webp&s=4f1bdfaf3cde583db0bc56407bcf6ea7427082d7",
+        "published": "2026-08-30T05:05:58+00:00"
     },
     {
         "title": "Musicians-turned-detectives are hunting for AI grifters | As AI infiltrates the electronic dance music scene, a callout culture is brewing.\ufeff",
@@ -72,21 +78,15 @@
         "published": "2026-08-29T13:31:42+00:00"
     },
     {
-        "title": "Microsoft-backed AI data center faces backlash over alleged unpermitted gas turbines and 1.5M-gallon LNG tank \u2014 groups' issues with $19.4B facility range from illegal construction to noise pollution",
-        "link": "https://www.reddit.com/r/technology/comments/1w1oq0a/microsoftbacked_ai_data_center_faces_backlash/",
-        "image": "https://external-preview.redd.it/uP7c0aLUOjQGmJ2jA5Vx6iDwNc1_IHhmsGzgrnqlN9Y.png?width=640&crop=smart&auto=webp&s=821ee77b72a12970ae90b9a037919d1563e63595",
-        "published": "2026-08-29T14:57:54+00:00"
-    },
-    {
         "title": "World's first GPS-free quantum navigation trial succeeds at sea",
         "link": "https://www.reddit.com/r/technology/comments/1w1rz7c/worlds_first_gpsfree_quantum_navigation_trial/",
         "image": "https://external-preview.redd.it/J6TD4JbTnjkkRSg2v6aNXOsOb6JIMIO0L9wTeLD4jhg.jpeg?width=640&crop=smart&auto=webp&s=4bdd35df5c54f03afdf9451bc09432dcba32cd9f",
         "published": "2026-08-29T17:06:53+00:00"
     },
     {
-        "title": "Texas Gov. Greg Abbott says China isn't behind anti-data-center debate",
-        "link": "https://www.reddit.com/r/technology/comments/1w1yxgb/texas_gov_greg_abbott_says_china_isnt_behind/",
-        "image": "https://external-preview.redd.it/_S5xZXGM6oPA_3ECb_19n0aTpijv-jXJmRnvjLPWnac.jpeg?width=640&crop=smart&auto=webp&s=1d6785919b4495b28ac273e5cb36f484109c3d5c",
-        "published": "2026-08-29T21:42:22+00:00"
+        "title": "Microsoft-backed AI data center faces backlash over alleged unpermitted gas turbines and 1.5M-gallon LNG tank \u2014 groups' issues with $19.4B facility range from illegal construction to noise pollution",
+        "link": "https://www.reddit.com/r/technology/comments/1w1oq0a/microsoftbacked_ai_data_center_faces_backlash/",
+        "image": "https://external-preview.redd.it/uP7c0aLUOjQGmJ2jA5Vx6iDwNc1_IHhmsGzgrnqlN9Y.png?width=640&crop=smart&auto=webp&s=821ee77b72a12970ae90b9a037919d1563e63595",
+        "published": "2026-08-29T14:57:54+00:00"
     }
 ]
