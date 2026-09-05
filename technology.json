@@ -1,15 +1,15 @@
 [
     {
-        "title": "White House Launches Racist Video Games to Promote Migrant Deportations",
-        "link": "https://www.reddit.com/r/technology/comments/1w79sh3/white_house_launches_racist_video_games_to/",
-        "image": "https://external-preview.redd.it/tNmZ7RDGBfjSwHwKQSu6xR8YLrxITBWUQZL_oeCFErY.jpeg?width=640&crop=smart&auto=webp&s=0f7319f1e1c58e62c71f1b3a3d85ba4dfbd97f6e",
-        "published": "2026-09-04T16:48:28+00:00"
-    },
-    {
         "title": "Tetris issues legal warning after White House releases arcade full of parody games",
         "link": "https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/",
         "image": "https://external-preview.redd.it/0F8B6ElbJucEXl6mxvIeAcb49nGLV8GFNjSr-6wwsJA.jpeg?width=640&crop=smart&auto=webp&s=c0929ed5e2c407e2a0ff61037fc59d7741f396c4",
         "published": "2026-09-04T19:08:57+00:00"
+    },
+    {
+        "title": "White House Launches Racist Video Games to Promote Migrant Deportations",
+        "link": "https://www.reddit.com/r/technology/comments/1w79sh3/white_house_launches_racist_video_games_to/",
+        "image": "https://external-preview.redd.it/tNmZ7RDGBfjSwHwKQSu6xR8YLrxITBWUQZL_oeCFErY.jpeg?width=640&crop=smart&auto=webp&s=0f7319f1e1c58e62c71f1b3a3d85ba4dfbd97f6e",
+        "published": "2026-09-04T16:48:28+00:00"
     },
     {
         "title": "YouTube faces second class action lawsuit over \u2018ad-free\u2019 Premium claims & sponsored content",
@@ -24,28 +24,10 @@
         "published": "2026-09-04T10:11:26+00:00"
     },
     {
-        "title": "Microsoft Announces Big Changes to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
-        "link": "https://www.reddit.com/r/technology/comments/1w6p54w/microsoft_announces_big_changes_to_xbox_cloud/",
-        "image": "https://external-preview.redd.it/YC10mMErnfVN7bAK5lMhm8Sokoc975SYUZS7unJgT1Q.jpeg?width=640&crop=smart&auto=webp&s=21ec695957cfd5f10fe6a8826e2540c7ef684ab3",
-        "published": "2026-09-04T00:29:17+00:00"
-    },
-    {
-        "title": "MapQuest is No. 1 on the App Store after refusing to change Lake Ontario\u2019s name",
-        "link": "https://www.reddit.com/r/technology/comments/1w6p102/mapquest_is_no_1_on_the_app_store_after_refusing/",
-        "image": "https://external-preview.redd.it/IawYb8Rvfd6zhDc-Digst_1X7r8AaWhSYbOKp3_FJps.jpeg?width=640&crop=smart&auto=webp&s=267221559c263c57a1e793be36952b07ccdfe13c",
-        "published": "2026-09-04T00:24:09+00:00"
-    },
-    {
         "title": "Turns out Brits would quite like their private messages to stay private",
         "link": "https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-09-04T12:19:59+00:00"
-    },
-    {
-        "title": "Microsoft CEO Nadella Sells $43 Million of Stock",
-        "link": "https://www.reddit.com/r/technology/comments/1w6vd4k/microsoft_ceo_nadella_sells_43_million_of_stock/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-09-04T05:31:59+00:00"
     },
     {
         "title": "Feds launch investigation into Tesla\u2019s Cybercab deployment / The NHTSA has opened an investigation into Tesla decision to launch its new Cybercab on public roads with no steering wheel or pedals.",
@@ -54,10 +36,22 @@
         "published": "2026-09-04T12:07:52+00:00"
     },
     {
+        "title": "Microsoft CEO Nadella Sells $43 Million of Stock",
+        "link": "https://www.reddit.com/r/technology/comments/1w6vd4k/microsoft_ceo_nadella_sells_43_million_of_stock/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-09-04T05:31:59+00:00"
+    },
+    {
         "title": "Hackers Had A Live Feed Of Every ID This Verification Company Scanned. For Over A Year.",
         "link": "https://www.reddit.com/r/technology/comments/1w7a270/hackers_had_a_live_feed_of_every_id_this/",
         "image": "https://external-preview.redd.it/QdCWJLZtSx1Ly9Z2yTbDMgT5dhGTgi8syC6l1SyLf7U.png?width=640&crop=smart&auto=webp&s=a1a6cfbe9524d8a1a6256dc8bc5c1b9956207d61",
         "published": "2026-09-04T16:58:07+00:00"
+    },
+    {
+        "title": "Tetris Distances Itself From Racist White House Clone: 'We Take Copyright Infringement Very Seriously'",
+        "link": "https://www.reddit.com/r/technology/comments/1w7i0kb/tetris_distances_itself_from_racist_white_house/",
+        "image": "https://external-preview.redd.it/yPSHyWaPdHYUtHTw5HK6B5xVnzqkD2I5zK5vNE1Fi0k.jpeg?width=640&crop=smart&auto=webp&s=68083e33fbbf8318b56bb357b7a830c56c178c54",
+        "published": "2026-09-04T21:49:42+00:00"
     },
     {
         "title": "Why office workers are turning against AI",
@@ -66,16 +60,16 @@
         "published": "2026-09-04T17:16:31+00:00"
     },
     {
-        "title": "New York City bans generative AI for elementary and middle school students",
-        "link": "https://www.reddit.com/r/technology/comments/1w733o5/new_york_city_bans_generative_ai_for_elementary/",
-        "image": "https://external-preview.redd.it/IYLPoGjTOud2QI63iUszQbgiq7FRe9vwantP3RsHAr8.jpeg?width=640&crop=smart&auto=webp&s=a8720e417168bc2039305fbe9cf0914cfc28a1a5",
-        "published": "2026-09-04T12:32:26+00:00"
-    },
-    {
         "title": "Mayor Zohran Mamdani bans AI in New York schools for K-8 students for a year",
         "link": "https://www.reddit.com/r/technology/comments/1w7cc0b/mayor_zohran_mamdani_bans_ai_in_new_york_schools/",
         "image": "https://external-preview.redd.it/KePTMqHXeU0FZHPKjH0zQO4cu8V5fHTXicHioEvK-Z8.jpeg?width=640&crop=smart&auto=webp&s=186f34350efdfff60888d89240a6242bfc734461",
         "published": "2026-09-04T18:19:41+00:00"
+    },
+    {
+        "title": "New York City bans generative AI for elementary and middle school students",
+        "link": "https://www.reddit.com/r/technology/comments/1w733o5/new_york_city_bans_generative_ai_for_elementary/",
+        "image": "https://external-preview.redd.it/IYLPoGjTOud2QI63iUszQbgiq7FRe9vwantP3RsHAr8.jpeg?width=640&crop=smart&auto=webp&s=a8720e417168bc2039305fbe9cf0914cfc28a1a5",
+        "published": "2026-09-04T12:32:26+00:00"
     },
     {
         "title": "Google is adding voice AI to Gmail, Docs, and Keep, whether users like it or not",
@@ -84,9 +78,15 @@
         "published": "2026-09-04T13:53:42+00:00"
     },
     {
-        "title": "Tetris Distances Itself From Racist White House Clone: 'We Take Copyright Infringement Very Seriously'",
-        "link": "https://www.reddit.com/r/technology/comments/1w7i0kb/tetris_distances_itself_from_racist_white_house/",
-        "image": "https://external-preview.redd.it/yPSHyWaPdHYUtHTw5HK6B5xVnzqkD2I5zK5vNE1Fi0k.jpeg?width=640&crop=smart&auto=webp&s=68083e33fbbf8318b56bb357b7a830c56c178c54",
-        "published": "2026-09-04T21:49:42+00:00"
+        "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+        "link": "https://www.reddit.com/r/technology/comments/1w7dlcj/salesforce_blames_its_claude_addiction_for/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-09-04T19:04:41+00:00"
+    },
+    {
+        "title": "US military turns off ad trackers on devices amid Middle East targeting reports.",
+        "link": "https://www.reddit.com/r/technology/comments/1w74nay/us_military_turns_off_ad_trackers_on_devices_amid/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-09-04T13:37:10+00:00"
     }
 ]
