@@ -1,15 +1,15 @@
 [
     {
-        "title": "An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives'",
-        "link": "https://www.reddit.com/r/technology/comments/1wbgwa6/an_anthropic_researcher_just_quit_saying_openai/",
-        "image": "https://external-preview.redd.it/7sN3U1-OyWLOqbQPCyPtkkQCus__PUt-ZBtytsXojPo.jpeg?width=640&crop=smart&auto=webp&s=66305985040589cf3ee784aeb1578d2b0f7346f8",
-        "published": "2026-09-09T09:39:51+00:00"
-    },
-    {
         "title": "Flock worker calls police on reporter filming public camera installation",
         "link": "https://www.reddit.com/r/technology/comments/1wbjnji/flock_worker_calls_police_on_reporter_filming/",
         "image": "https://external-preview.redd.it/WlYA2m2hX7onKtx9YhJY-xLCCqojDhXWav3_89pgL4Y.jpeg?width=640&crop=smart&auto=webp&s=5dc822d6cff98182eac55f3f61dce3e72a3ffc82",
         "published": "2026-09-09T12:03:37+00:00"
+    },
+    {
+        "title": "An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives'",
+        "link": "https://www.reddit.com/r/technology/comments/1wbgwa6/an_anthropic_researcher_just_quit_saying_openai/",
+        "image": "https://external-preview.redd.it/7sN3U1-OyWLOqbQPCyPtkkQCus__PUt-ZBtytsXojPo.jpeg?width=640&crop=smart&auto=webp&s=66305985040589cf3ee784aeb1578d2b0f7346f8",
+        "published": "2026-09-09T09:39:51+00:00"
     },
     {
         "title": "Supreme Court forces TV stations to sell more election ads at steep discounts | Republican victory means stations must offer lowest ad prices to political parties.",
@@ -24,10 +24,16 @@
         "published": "2026-09-08T21:35:15+00:00"
     },
     {
-        "title": "White House Officially Removes Racist 'Tetris' Clone After Legal Threat",
-        "link": "https://www.reddit.com/r/technology/comments/1wawiod/white_house_officially_removes_racist_tetris/",
-        "image": "https://external-preview.redd.it/p_E2e_MicaULM6GIpO4kQ19nIntwfiYZPcPnnlN3vDY.jpeg?width=640&crop=smart&auto=webp&s=83bdbafc42a1046f4413f4c9d2065caa683fd2b0",
-        "published": "2026-09-08T18:22:21+00:00"
+        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. | Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+        "link": "https://www.reddit.com/r/technology/comments/1wbjeys/man_told_chatgpt_he_was_feeling_delusional/",
+        "image": "https://external-preview.redd.it/OYqWNB27JFVN3E0y2uSpbxfFrrctAUoD-1l5zDTnW3Q.jpeg?width=640&crop=smart&auto=webp&s=6845d79216979627eda20c0cce94dd0b57a2263a",
+        "published": "2026-09-09T11:53:13+00:00"
+    },
+    {
+        "title": "Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering",
+        "link": "https://www.reddit.com/r/technology/comments/1wbo3sm/cops_are_using_flock_to_spy_on_people_for_the/",
+        "image": "https://external-preview.redd.it/QljVB6qjIoZFAKliWC7FICQRRGQVQMnln6pTpMRx4ww.jpeg?width=640&crop=smart&auto=webp&s=c9d2691beefba77b6b9b011cd1fbf7c28740c58e",
+        "published": "2026-09-09T15:03:25+00:00"
     },
     {
         "title": "\u201cThis is the AI men actually use\u201d: Meta ads pushed apps nudifying real teens",
@@ -36,40 +42,10 @@
         "published": "2026-09-08T21:34:15+00:00"
     },
     {
-        "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait. The U.S. military said an unmanned submersible that Iran reportedly seized in the Strait of Hormuz was \u201cdefective.\u201d",
-        "link": "https://www.reddit.com/r/technology/comments/1waye4o/us_downplays_irans_seizure_of_unmanned_sub_in/",
-        "image": "https://external-preview.redd.it/2SfO0Tyc5w0Ge0KLdOo9irHJnXQKnvUuqX9cldi_Slg.jpeg?width=640&crop=smart&auto=webp&s=283038480771928978bf513dfb1b1e7604412dfb",
-        "published": "2026-09-08T19:27:04+00:00"
-    },
-    {
-        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus. | Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-        "link": "https://www.reddit.com/r/technology/comments/1wbjeys/man_told_chatgpt_he_was_feeling_delusional/",
-        "image": "https://external-preview.redd.it/OYqWNB27JFVN3E0y2uSpbxfFrrctAUoD-1l5zDTnW3Q.jpeg?width=640&crop=smart&auto=webp&s=6845d79216979627eda20c0cce94dd0b57a2263a",
-        "published": "2026-09-09T11:53:13+00:00"
-    },
-    {
         "title": "Super Smash Bros Melee gets fully decompiled after over six years of effort \u2014 ambitious and technically impressive project delivers GameCube classic as C code",
         "link": "https://www.reddit.com/r/technology/comments/1wb8v26/super_smash_bros_melee_gets_fully_decompiled/",
         "image": "https://external-preview.redd.it/sk_obq1wIvjEUdHJV30a5umyMtbNSq12x_n2DS1d2fA.jpeg?width=640&crop=smart&auto=webp&s=de1dbe9d3c7ad014f27d9ca59c73300dd54602a2",
         "published": "2026-09-09T02:26:55+00:00"
-    },
-    {
-        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-        "link": "https://www.reddit.com/r/technology/comments/1wax3k2/openai_fought_dirty_on_careermaking_math_problem/",
-        "image": "https://external-preview.redd.it/mnBkpanZ8NvK1YyTrF9kxxKdCgX5gRvcQrwFmIAsE1M.jpeg?width=640&crop=smart&auto=webp&s=188a92f545945a31c7fdb2223527f84cd467b0c1",
-        "published": "2026-09-08T18:42:36+00:00"
-    },
-    {
-        "title": "Bernie Sanders Says \u2019We Can\u2019t Allow\u2019 AI Billionaires To \u2019Play God\u2019: Bill Threatens \u2019Corporate Death Penalty\u2019 | Sanders and Casar propose legislation to halt AI superintelligence development, starting debate over tech regulation",
-        "link": "https://www.reddit.com/r/technology/comments/1wawi37/bernie_sanders_says_we_cant_allow_ai_billionaires/",
-        "image": "https://external-preview.redd.it/D-7kXMnjevA_FF36-FdYm1i32-dbQHVz9lPkN4PZEWs.jpeg?width=640&crop=smart&auto=webp&s=d06355d2dcbc61d268b9e2bc45feed13352bdc27",
-        "published": "2026-09-08T18:21:45+00:00"
-    },
-    {
-        "title": "Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering",
-        "link": "https://www.reddit.com/r/technology/comments/1wbo3sm/cops_are_using_flock_to_spy_on_people_for_the/",
-        "image": "https://external-preview.redd.it/QljVB6qjIoZFAKliWC7FICQRRGQVQMnln6pTpMRx4ww.jpeg?width=640&crop=smart&auto=webp&s=c9d2691beefba77b6b9b011cd1fbf7c28740c58e",
-        "published": "2026-09-09T15:03:25+00:00"
     },
     {
         "title": "Wrongly jailed Florida woman a victim of police abuse of Flock: Attorney",
@@ -88,5 +64,29 @@
         "link": "https://www.reddit.com/r/technology/comments/1wbnrz8/lg_accused_of_tracking_its_smart_tv_users/",
         "image": "https://external-preview.redd.it/m25CAhZQto__8MXnayIpz8T3tF-L2tdvevDieDOE4CQ.jpeg?width=640&crop=smart&auto=webp&s=41b9a633c263be51d3dfb52ad0a5201b3770be91",
         "published": "2026-09-09T14:51:56+00:00"
+    },
+    {
+        "title": "Doctor Doom Thanked Seattle for All the Surveillance Cameras / \u2018We must work to crush any dissent to Doom\u2019s vision of public safety,\u2019 the Marvel supervillain told the city as it considered multiple surveillance proposals.",
+        "link": "https://www.reddit.com/r/technology/comments/1wbvjfs/doctor_doom_thanked_seattle_for_all_the/",
+        "image": "https://external-preview.redd.it/_NuCjNitUwo6u-8G9Kzyy1txAj8I8RQcaEj60ZJpsAQ.png?width=640&crop=smart&auto=webp&s=2578592740d9dd15a0cf3db3c9097c0c56440dbd",
+        "published": "2026-09-09T19:26:17+00:00"
+    },
+    {
+        "title": "How one woman\u2019s Tesla was remotely controlled \u2013 and used to harass her \u2013 by an abusive ex-partner",
+        "link": "https://www.reddit.com/r/technology/comments/1wbj1ve/how_one_womans_tesla_was_remotely_controlled_and/",
+        "image": "https://external-preview.redd.it/UennFwcnuvB6Pny0RFgs1hWwzDSIo7Y7YNoUWhwrc0Q.jpeg?width=640&crop=smart&auto=webp&s=8b683f6ff7c1209a645c666f7bde12f91fd93076",
+        "published": "2026-09-09T11:35:08+00:00"
+    },
+    {
+        "title": "Former PlayStation Boss Shawn Layden calls the shift away from discs \u201cdepressing\u201d - \u201cI see a lot of companies making decisions which, objectively speaking, I don\u2019t know what the dollar end of that was for you, Mr. Company, but your brand value just dropped 30 percent. So I hope it was worth it,\u201d",
+        "link": "https://www.reddit.com/r/technology/comments/1wbj6nw/former_playstation_boss_shawn_layden_calls_the/",
+        "image": "https://external-preview.redd.it/SHyHuh0RJinU96IdfWrdjQNxQlW6rVntId541dHgePs.jpeg?width=640&crop=smart&auto=webp&s=c5a30a3f0c639f24d26fe78cbcc79f6f723bee03",
+        "published": "2026-09-09T11:42:00+00:00"
+    },
+    {
+        "title": "Flock Wants a Closely Surveilled World with No Exit",
+        "link": "https://www.reddit.com/r/technology/comments/1wbq72q/flock_wants_a_closely_surveilled_world_with_no/",
+        "image": "https://external-preview.redd.it/YB2FUdHJiwDSf28C_gqPLT7p67dTQ6uMW8dEpKJDXWI.jpeg?width=640&crop=smart&auto=webp&s=52efb0defe27dc6a2210dbe3bd59d80be46f00a2",
+        "published": "2026-09-09T16:19:15+00:00"
     }
 ]
