@@ -1,11 +1,5 @@
 [
     {
-        "title": "New Bernie Sanders bill would ban superintelligent AI and threaten developers with 20 years in prison",
-        "link": "https://www.reddit.com/r/technology/comments/1wg1uq3/new_bernie_sanders_bill_would_ban/",
-        "image": "https://external-preview.redd.it/bdkQnx6h0iF0EZKHbcbmgdbmwnCTDTGRYzwXfMhCyLA.jpeg?width=640&crop=smart&auto=webp&s=72e070f802931007f87e197f2d23837edf135484",
-        "published": "2026-09-14T12:19:47+00:00"
-    },
-    {
         "title": "Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise",
         "link": "https://www.reddit.com/r/technology/comments/1wgdlsy/sony_says_gamers_dont_own_their_digital_purchases/",
         "image": "https://external-preview.redd.it/ZMpLv2Ijebm2rkD_6jg9SBEVPnnGBwZ09KZ6WhRDmWQ.jpeg?width=640&crop=smart&auto=webp&s=a8089ff96146436c1fc667d7a238c68c4c94a91d",
@@ -30,10 +24,10 @@
         "published": "2026-09-14T15:09:41+00:00"
     },
     {
-        "title": "AI Firms Can and Must Face Liability for 'Dangerous, Unvetted Products,' Says Lina Khan",
-        "link": "https://www.reddit.com/r/technology/comments/1wfxg5u/ai_firms_can_and_must_face_liability_for/",
-        "image": "https://external-preview.redd.it/5xAvVwJdeVl24RuhPk53CZdbY9dXTeWcHyLJ610I18U.jpeg?width=640&crop=smart&auto=webp&s=5d5c32a3ca8705f46145e76dccb24ab6fa54f47a",
-        "published": "2026-09-14T08:16:27+00:00"
+        "title": "97% of US database administrators are running obsolete programs",
+        "link": "https://www.reddit.com/r/technology/comments/1wgeryg/97_of_us_database_administrators_are_running/",
+        "image": "https://external-preview.redd.it/-awfVdqgMhu3tZyqql-iZqooe9VVCXxJDAmaRF0Xs8g.jpeg?width=640&crop=smart&auto=webp&s=96a0f6148b96b18655b68b14cc7730b635f1a87e",
+        "published": "2026-09-14T20:16:16+00:00"
     },
     {
         "title": "US coal \u2018biggest contributor by far\u2019 to rise in global emissions",
@@ -42,10 +36,16 @@
         "published": "2026-09-14T17:18:33+00:00"
     },
     {
-        "title": "97% of US database administrators are running obsolete programs",
-        "link": "https://www.reddit.com/r/technology/comments/1wgeryg/97_of_us_database_administrators_are_running/",
-        "image": "https://external-preview.redd.it/-awfVdqgMhu3tZyqql-iZqooe9VVCXxJDAmaRF0Xs8g.jpeg?width=640&crop=smart&auto=webp&s=96a0f6148b96b18655b68b14cc7730b635f1a87e",
-        "published": "2026-09-14T20:16:16+00:00"
+        "title": "Boston drops Flock after outside agencies gained access to vehicle data",
+        "link": "https://www.reddit.com/r/technology/comments/1wgyj0f/boston_drops_flock_after_outside_agencies_gained/",
+        "image": "https://external-preview.redd.it/LwA7gkMZ3Pvr99nxM0aKv6MVHMu5igcNrmOM3h0mNfs.jpeg?width=640&crop=smart&auto=webp&s=054a1d8c5d8122b9c1b4cf501975a72cc76932d0",
+        "published": "2026-09-15T12:06:31+00:00"
+    },
+    {
+        "title": "Anthropic says AI can boost U.S. GDP by 32%, up to $44.4 trillion in four years \u2014 economics model predicts that displaced employees 'may have to switch to jobs like electrician and nurse'",
+        "link": "https://www.reddit.com/r/technology/comments/1wgj9fx/anthropic_says_ai_can_boost_us_gdp_by_32_up_to/",
+        "image": "https://external-preview.redd.it/Kndrzr8KuK4whMEejFi3jk8d7KVMH_rts0LGoh9uDn8.jpeg?width=640&crop=smart&auto=webp&s=29e372c5200a9e460195dc0528a151408c7ca338",
+        "published": "2026-09-14T23:10:22+00:00"
     },
     {
         "title": "Expedition 33 lead says if people don't like the studio's next game 'that's life'",
@@ -54,10 +54,10 @@
         "published": "2026-09-14T14:16:55+00:00"
     },
     {
-        "title": "Anthropic says AI can boost U.S. GDP by 32%, up to $44.4 trillion in four years \u2014 economics model predicts that displaced employees 'may have to switch to jobs like electrician and nurse'",
-        "link": "https://www.reddit.com/r/technology/comments/1wgj9fx/anthropic_says_ai_can_boost_us_gdp_by_32_up_to/",
-        "image": "https://external-preview.redd.it/Kndrzr8KuK4whMEejFi3jk8d7KVMH_rts0LGoh9uDn8.jpeg?width=640&crop=smart&auto=webp&s=29e372c5200a9e460195dc0528a151408c7ca338",
-        "published": "2026-09-14T23:10:22+00:00"
+        "title": "AI leaders calling for a slowdown right now is awfully convenient",
+        "link": "https://www.reddit.com/r/technology/comments/1wgq88o/ai_leaders_calling_for_a_slowdown_right_now_is/",
+        "image": "https://external-preview.redd.it/ohmpxuSZJYz4wUL5Djw3NJ12VX0F1GS0v544f2IaOo0.jpeg?width=640&crop=smart&auto=webp&s=d05762dd3c01d3d1fcc50d072c0d19a023eb4358",
+        "published": "2026-09-15T04:29:50+00:00"
     },
     {
         "title": "Oracle begins a new round of layoffs. Read the email.",
@@ -72,16 +72,16 @@
         "published": "2026-09-14T21:05:15+00:00"
     },
     {
-        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-        "link": "https://www.reddit.com/r/technology/comments/1wg2wus/larry_ellison_cancels_75_billion_sale_of_oracle/",
-        "image": "https://external-preview.redd.it/YCLyzLFxpBjFOgCbJFb3TddFDuAHpBetXoVdGvfkzlg.jpeg?width=640&crop=smart&auto=webp&s=35b316fccb3d7e063a6bf13a43ce97bfa2d19e7b",
-        "published": "2026-09-14T13:06:01+00:00"
+        "title": "South Korea gives 400 stalking victims app to track their stalkers in real time",
+        "link": "https://www.reddit.com/r/technology/comments/1wgmk0w/south_korea_gives_400_stalking_victims_app_to/",
+        "image": "https://external-preview.redd.it/QADDMFrIERi4ZkYIe3bvuwwpUd8iiN4v0coJtwNWn14.jpeg?width=640&crop=smart&auto=webp&s=6388dc5189dc707a3ee435a7b1ca1938d10d562b",
+        "published": "2026-09-15T01:36:06+00:00"
     },
     {
-        "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
-        "link": "https://www.reddit.com/r/technology/comments/1wgbtbv/epa_eliminates_rule_that_limits_planetwarming/",
-        "image": "https://external-preview.redd.it/TkEFq2ocTVO6fLGEzyRTcSrdrD8zWjtwQaqDQRP9XC0.jpeg?width=640&crop=smart&auto=webp&s=65b2aa9afbc269aedc7aba509e899186d891062c",
-        "published": "2026-09-14T18:31:43+00:00"
+        "title": "US confirms for first time it has deployed space weapons",
+        "link": "https://www.reddit.com/r/technology/comments/1wgruq8/us_confirms_for_first_time_it_has_deployed_space/",
+        "image": "https://external-preview.redd.it/0QqTHMB6j1dKMbQSto7s9AdTmIr3Orsj5Gz2rOgZnMQ.jpeg?width=640&crop=smart&auto=webp&s=d3f15dd2d6eaf6c39443ef6d11b02fef737f3093",
+        "published": "2026-09-15T05:54:56+00:00"
     },
     {
         "title": "Barack Obama, Kamala Harris call for government action on AI development | CNN Politics",
