@@ -12,16 +12,16 @@
         "published": "2026-09-16T15:04:56+00:00"
     },
     {
-        "title": "Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today",
-        "link": "https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/",
-        "image": "https://external-preview.redd.it/-igdHAsVZcCuuP2UA-u3q1mga1r1GK0K97IRElohiOs.jpeg?width=640&crop=smart&auto=webp&s=67c41f242acecc231c0413ca97037c7697f6b212",
-        "published": "2026-09-16T11:29:56+00:00"
-    },
-    {
         "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
         "link": "https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/",
         "image": "https://external-preview.redd.it/Ktq4mxpN4xu8pKKXhWJyPnCh6TdUk-wXAqcq6v18DZk.jpeg?width=640&crop=smart&auto=webp&s=6c3acb7bfc30f8bd1bc641f127dc088c6da83d68",
         "published": "2026-09-16T22:45:26+00:00"
+    },
+    {
+        "title": "Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today",
+        "link": "https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/",
+        "image": "https://external-preview.redd.it/-igdHAsVZcCuuP2UA-u3q1mga1r1GK0K97IRElohiOs.jpeg?width=640&crop=smart&auto=webp&s=67c41f242acecc231c0413ca97037c7697f6b212",
+        "published": "2026-09-16T11:29:56+00:00"
     },
     {
         "title": "PS5 Linux lead quits as open-source projects have become \u201ca bunch of noobs using LLMs\u201d that \u201cthey don\u2019t even understand\u201d",
@@ -30,22 +30,10 @@
         "published": "2026-09-16T15:28:53+00:00"
     },
     {
-        "title": "Records show police justified Flock license plate searches with answers like \"LMAO\" and \"idk\"",
-        "link": "https://www.reddit.com/r/technology/comments/1whq4wh/records_show_police_justified_flock_license_plate/",
-        "image": "https://external-preview.redd.it/U_L3kF51zbHETXaYlLD86NflFwtZ56EpPjucgDY6wXw.jpeg?width=640&crop=smart&auto=webp&s=8f79bbe94c351e060f0af12782c37ce9a8eefc10",
-        "published": "2026-09-16T07:18:59+00:00"
-    },
-    {
         "title": "Your Computer Might Demand Your Age Soon, No Matter Where You Live | New state laws are pushing age verification into macOS and Windows. By 2027, logging in might require a facial scan or government ID.",
         "link": "https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/",
         "image": "https://external-preview.redd.it/p8DaoDEQYrlqAjgN5f1Gt8CB9yTykWqrCfliP1-okC0.jpeg?width=640&crop=smart&auto=webp&s=706abde24e8134ff4f5b67935075d32fbb021ecf",
         "published": "2026-09-16T20:13:34+00:00"
-    },
-    {
-        "title": "Apple Is Building a Way to Prove a Photo Is Real",
-        "link": "https://www.reddit.com/r/technology/comments/1whrn79/apple_is_building_a_way_to_prove_a_photo_is_real/",
-        "image": "https://external-preview.redd.it/sEBj29HdzMeWOxS9694HbDRzP5koXOecB4RX7dNVNdk.jpeg?width=640&crop=smart&auto=webp&s=6c90e13d61751f9189ef68936d549707ec18deba",
-        "published": "2026-09-16T08:47:29+00:00"
     },
     {
         "title": "Datacenter rush will create \u2018tsunami\u2019 of discarded electronics, report says",
@@ -54,10 +42,28 @@
         "published": "2026-09-16T13:29:29+00:00"
     },
     {
+        "title": "Apple Is Building a Way to Prove a Photo Is Real",
+        "link": "https://www.reddit.com/r/technology/comments/1whrn79/apple_is_building_a_way_to_prove_a_photo_is_real/",
+        "image": "https://external-preview.redd.it/sEBj29HdzMeWOxS9694HbDRzP5koXOecB4RX7dNVNdk.jpeg?width=640&crop=smart&auto=webp&s=6c90e13d61751f9189ef68936d549707ec18deba",
+        "published": "2026-09-16T08:47:29+00:00"
+    },
+    {
+        "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
+        "link": "https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/",
+        "image": "https://external-preview.redd.it/9TJ52z1xFvJjLAbzau8rBYf7DXo32_lw6kfEhkEdv-g.jpeg?width=640&crop=smart&auto=webp&s=00b23bb5a81e1559221f132ee3d849751af15c9d",
+        "published": "2026-09-17T00:54:22+00:00"
+    },
+    {
         "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
         "link": "https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/",
         "image": "https://external-preview.redd.it/QKBY7EPTXAlyviVInIQ6I7t2-Qlc93IxjdMVGeFZdgY.jpeg?width=640&crop=smart&auto=webp&s=48796798aede71dee56c4df68d3a5a0a4a539fd5",
         "published": "2026-09-16T18:49:21+00:00"
+    },
+    {
+        "title": "America Counting On Ignorant, Inattentive President To Save Us From Rogue AI",
+        "link": "https://www.reddit.com/r/technology/comments/1wi8l4t/america_counting_on_ignorant_inattentive/",
+        "image": "https://external-preview.redd.it/X8jEgd1UDj2WLm4zC2SJf2BAidQGGJhMbAW6TIX9eWQ.jpeg?width=640&crop=smart&auto=webp&s=9393b922f97fdd17c4e36df382fe46074870f325",
+        "published": "2026-09-16T20:19:15+00:00"
     },
     {
         "title": "AWS Says It Can\u2019t Restore Some Data From Mideast Facilities Struck by Iran",
@@ -72,21 +78,15 @@
         "published": "2026-09-16T11:51:40+00:00"
     },
     {
-        "title": "America Counting On Ignorant, Inattentive President To Save Us From Rogue AI",
-        "link": "https://www.reddit.com/r/technology/comments/1wi8l4t/america_counting_on_ignorant_inattentive/",
-        "image": "https://external-preview.redd.it/X8jEgd1UDj2WLm4zC2SJf2BAidQGGJhMbAW6TIX9eWQ.jpeg?width=640&crop=smart&auto=webp&s=9393b922f97fdd17c4e36df382fe46074870f325",
-        "published": "2026-09-16T20:19:15+00:00"
+        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+        "link": "https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/",
+        "image": "https://external-preview.redd.it/QKBY7EPTXAlyviVInIQ6I7t2-Qlc93IxjdMVGeFZdgY.jpeg?width=640&crop=smart&auto=webp&s=48796798aede71dee56c4df68d3a5a0a4a539fd5",
+        "published": "2026-09-17T02:00:16+00:00"
     },
     {
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "link": "https://www.reddit.com/r/technology/comments/1whvl9m/us_data_centers_could_consume_more_natural_gas/",
-        "image": "https://external-preview.redd.it/AvLHLCKAzZwA50QyrUw_PuMvqPaVjvdXd31TbvvNzxk.jpeg?width=640&crop=smart&auto=webp&s=676f39e6ce84fe5de1d4a30ca42dc7033e15759d",
-        "published": "2026-09-16T12:17:25+00:00"
-    },
-    {
-        "title": "Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall - workers reject record payout package, demand 15% profit-sharing plan",
-        "link": "https://www.reddit.com/r/technology/comments/1whyf0a/micron_offers_taiwan_employees_31650_cash_bonus/",
-        "image": "https://external-preview.redd.it/eCCFGKY9T2ip-T4JG0us1F8WCALu70y7ZnmugLXrFH0.jpeg?width=640&crop=smart&auto=webp&s=f368a5958eb05083bf60dfe9cad87ee0d04bc9ea",
-        "published": "2026-09-16T14:13:19+00:00"
+        "title": "Scientists discover an amphibian gut bacterium 100% effective in destroying cancer cells in rats",
+        "link": "https://www.reddit.com/r/technology/comments/1wiep12/scientists_discover_an_amphibian_gut_bacterium/",
+        "image": "https://external-preview.redd.it/03v25RM5we9UoG2D4iEN2vUGgYb78cgtwGgVCijsOeo.jpeg?width=640&crop=smart&auto=webp&s=8b82981b33d6487614b3c71a2dd17cb724fcaf61",
+        "published": "2026-09-17T00:26:59+00:00"
     }
 ]
