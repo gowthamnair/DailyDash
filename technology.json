@@ -1,11 +1,5 @@
 [
     {
-        "title": "White House\u2019s New AI-powered America.gov Website Confirms U.S President Lost the 2020 Presidential Election",
-        "link": "https://www.reddit.com/r/technology/comments/1wtpzj9/white_houses_new_aipowered_americagov_website/",
-        "image": "https://external-preview.redd.it/Wrl8y6jzcQB24Vu8ZiiQb1yc2Kh9dU1mZE_FfgO2IgM.jpeg?width=640&crop=smart&auto=webp&s=7b58130388c51e6dbaed59168de51c4f45b4ef72",
-        "published": "2026-09-29T23:50:34+00:00"
-    },
-    {
         "title": "Palantir CEO Alex Karp quietly purchased 37,000 acres of forests in Sweden\u2014and locals found out when hunters lost leases to use the property",
         "link": "https://www.reddit.com/r/technology/comments/1wu4lnz/palantir_ceo_alex_karp_quietly_purchased_37000/",
         "image": "https://external-preview.redd.it/MZIXYPE19SZgTfl7nX9Z537U_WA6LVEnFsR3EYmwrqM.jpeg?width=640&crop=smart&auto=webp&s=cb601c6b6cca2758afce7e5e82272aadc16995dc",
@@ -24,10 +18,28 @@
         "published": "2026-09-30T11:49:36+00:00"
     },
     {
+        "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
+        "link": "https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/",
+        "image": "https://external-preview.redd.it/cyk2RvQJFu7NFgvG0QBUvzEN6zCzoAcUhxhduU1RdQg.jpeg?width=640&crop=smart&auto=webp&s=fe1bc6f66a2e0be26a7034b0b9cd0520ef61a1e7",
+        "published": "2026-09-30T23:10:02+00:00"
+    },
+    {
         "title": "\u2018Extremely damaging\u2019 anti-foreigner fake news pushes Japan to far-right",
         "link": "https://www.reddit.com/r/technology/comments/1wu27yh/extremely_damaging_antiforeigner_fake_news_pushes/",
         "image": "https://external-preview.redd.it/JNGbKkSgRyDpNEmKAnwxow3wiTU7iGV7Hw12rust6y4.jpeg?width=640&crop=smart&auto=webp&s=91af6ebdc5694fb87412fcb3296bddbbf87795b9",
         "published": "2026-09-30T11:16:45+00:00"
+    },
+    {
+        "title": "RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medical facts, expertise",
+        "link": "https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/",
+        "image": "https://external-preview.redd.it/5EB1ZNDM9T8_54tIQXcv8rxEmxP-oMyG6UEuKgrWWas.jpeg?width=640&crop=smart&auto=webp&s=cabb8367e16552e5106b1341e9f889a54564816e",
+        "published": "2026-09-30T20:57:20+00:00"
+    },
+    {
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "link": "https://www.reddit.com/r/technology/comments/1wubsf7/reddit_is_killing_rss_feeds_and_ending_public_api/",
+        "image": "https://external-preview.redd.it/gWcFrSN4XYzpLFXTcTfpKEHLgdCmenfslpJTx1kgJQ4.jpeg?width=640&crop=smart&auto=webp&s=f9d4db83ec6f0774f3b7d181388716cce8b9c8ef",
+        "published": "2026-09-30T17:53:14+00:00"
     },
     {
         "title": "WoW: Forever Ban Controversy Forces Blizzard Dev To Delete Account After Asking Players To Be \u2018Better Humans\u2019",
@@ -42,16 +54,16 @@
         "published": "2026-09-30T10:38:01+00:00"
     },
     {
-        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-        "link": "https://www.reddit.com/r/technology/comments/1wubsf7/reddit_is_killing_rss_feeds_and_ending_public_api/",
-        "image": "https://external-preview.redd.it/gWcFrSN4XYzpLFXTcTfpKEHLgdCmenfslpJTx1kgJQ4.jpeg?width=640&crop=smart&auto=webp&s=f9d4db83ec6f0774f3b7d181388716cce8b9c8ef",
-        "published": "2026-09-30T17:53:14+00:00"
-    },
-    {
         "title": "Meta responds after Muse AI gave stranger YouTuber\u2019s home address on Facebook Marketplace",
         "link": "https://www.reddit.com/r/technology/comments/1wu5uru/meta_responds_after_muse_ai_gave_stranger/",
         "image": "https://external-preview.redd.it/3-nwlEVA6Jh27NQf1VxDaVvoRC9WGq-eP6EyPRDXL04.jpeg?width=640&crop=smart&auto=webp&s=83adb3ac2b968551f841a03d6b34979a5b626d25",
         "published": "2026-09-30T14:05:50+00:00"
+    },
+    {
+        "title": "AI training of copyrighted material not fair use: Third Circuit",
+        "link": "https://www.reddit.com/r/technology/comments/1wuhnax/ai_training_of_copyrighted_material_not_fair_use/",
+        "image": "https://external-preview.redd.it/OoF_lrM9ccDjyhP63MHh5vNm07fB86hj7WXhR-PeYxc.jpeg?width=640&crop=smart&auto=webp&s=39c96f8ae4274ff249a36341c3f254f5264f92bb",
+        "published": "2026-09-30T21:39:57+00:00"
     },
     {
         "title": "The price of AI is crashing faster than the rate of Moore's Law, report suggests \u2014 intelligence costs are in freefall, outpacing comparative technologies like compute, DNA sequencing, and lithium batteries",
@@ -60,16 +72,10 @@
         "published": "2026-09-30T12:50:59+00:00"
     },
     {
-        "title": "Inside McDonald\u2019s push to have AI price your Big Mac",
-        "link": "https://www.reddit.com/r/technology/comments/1wtpdqf/inside_mcdonalds_push_to_have_ai_price_your_big/",
-        "image": "https://external-preview.redd.it/HvM46KpWcsYAbMkDveJisGpo6ctSad19TckBwIyrJUg.jpeg?width=640&crop=smart&auto=webp&s=4d252f12db93da78efeccb5ad5a16cbda3dd96e2",
-        "published": "2026-09-29T23:22:40+00:00"
-    },
-    {
-        "title": "RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medical facts, expertise",
-        "link": "https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/",
-        "image": "https://external-preview.redd.it/5EB1ZNDM9T8_54tIQXcv8rxEmxP-oMyG6UEuKgrWWas.jpeg?width=640&crop=smart&auto=webp&s=cabb8367e16552e5106b1341e9f889a54564816e",
-        "published": "2026-09-30T20:57:20+00:00"
+        "title": "USPS To Put Cameras in Trucks That Scan Roads for \u2018Community Safety\u2019",
+        "link": "https://www.reddit.com/r/technology/comments/1wugs04/usps_to_put_cameras_in_trucks_that_scan_roads_for/",
+        "image": "https://external-preview.redd.it/yxP7f6hhCRv_ccAe0pxN6ipQAEuLcG7r3t8UHofEqgc.jpeg?width=640&crop=smart&auto=webp&s=daefeae4b08c184abf19d0105e45c227e682cf68",
+        "published": "2026-09-30T21:04:13+00:00"
     },
     {
         "title": "Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies",
@@ -82,11 +88,5 @@
         "link": "https://www.reddit.com/r/technology/comments/1wtuxvl/mcdonalds_to_show_ads_on_drive_thru_screens/",
         "image": "https://external-preview.redd.it/F2vdXpzQJgiQFBMQk-VtpFV79qnU0qZyK16ok8mUpoc.jpeg?width=640&crop=smart&auto=webp&s=e091aa6d09f199268e076b4c1261c84db9a873cc",
         "published": "2026-09-30T03:52:18+00:00"
-    },
-    {
-        "title": "Top AI executives sign commitment to \u2018self-police\u2019 after meeting at White House",
-        "link": "https://www.reddit.com/r/technology/comments/1wtvnch/top_ai_executives_sign_commitment_to_selfpolice/",
-        "image": "https://external-preview.redd.it/oFUOnyOdur4ILD9BVqkZvsewSK1oAD6hvJ7s_qIsagE.jpeg?width=640&crop=smart&auto=webp&s=ec42976f62b7b332f27f79b323d98e11c4885e71",
-        "published": "2026-09-30T04:30:05+00:00"
     }
 ]
