@@ -1,33 +1,9 @@
 [
     {
-        "title": "Retailers are pulling back from self-checkout after years of theft, errors, and questionable time savings",
-        "link": "https://www.reddit.com/r/technology/comments/1wz12j6/retailers_are_pulling_back_from_selfcheckout/",
-        "image": "https://external-preview.redd.it/26qXEf070spqOb5Oe25MVKBkT2hx0lhnO6blSXmk7xM.jpeg?width=640&crop=smart&auto=webp&s=d084afba4b32fa8f797140ef25c932f11926e96c",
-        "published": "2026-10-06T12:16:44+00:00"
-    },
-    {
         "title": "Parents are using AI to generate pictures of their kids to save money on school photos",
         "link": "https://www.reddit.com/r/technology/comments/1wz95nh/parents_are_using_ai_to_generate_pictures_of/",
         "image": "https://external-preview.redd.it/2MxLlZwgyLlhkc7ul5egsWJOgKvqn5lMi36gymZxBio.jpeg?width=640&crop=smart&auto=webp&s=2d4dd78da32a39992aa98c566c3f8a484e95bb8b",
         "published": "2026-10-06T17:48:14+00:00"
-    },
-    {
-        "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
-        "link": "https://www.reddit.com/r/technology/comments/1wz0d05/wikimedia_foundation_openai_agents_tried_to_edit/",
-        "image": "https://external-preview.redd.it/tpZ8IFt-kR9cViplKzSD3X2c_uSFKu4zr6xponRPidc.jpeg?width=640&crop=smart&auto=webp&s=62ab2806b02821f5afa1553e43c0b0147b671f87",
-        "published": "2026-10-06T11:40:08+00:00"
-    },
-    {
-        "title": "Utah will become first state to let AI examine patients and prescribe medication without direct human oversight",
-        "link": "https://www.reddit.com/r/technology/comments/1wz4lyd/utah_will_become_first_state_to_let_ai_examine/",
-        "image": "https://external-preview.redd.it/GeDp1aq1exh2qDugHtfhn2yrD_xRBq_d2znpdhXYDhQ.jpeg?width=640&crop=smart&auto=webp&s=2d3ac6624fbfb1b5ed48da7b84d686afb4b07f3c",
-        "published": "2026-10-06T14:51:56+00:00"
-    },
-    {
-        "title": "GameStop Is Selling Used PS5 Pros for $1499, Likely Due To GTA 6 Release",
-        "link": "https://www.reddit.com/r/technology/comments/1wz9v4b/gamestop_is_selling_used_ps5_pros_for_1499_likely/",
-        "image": "https://external-preview.redd.it/DrEdmZ4CBvmCfyeSzBj58KcJLUdWt0cRHgMOTbiE_bo.jpeg?width=640&crop=smart&auto=webp&s=ec520208bf691aa1da469ad0e1c99074ee1e83c3",
-        "published": "2026-10-06T18:14:55+00:00"
     },
     {
         "title": "Hackers: We Stole Data From 3,615 Trump Mobile Customers",
@@ -36,10 +12,10 @@
         "published": "2026-10-06T18:34:20+00:00"
     },
     {
-        "title": "Why do tech CEOs sound like doomsday cult leaders?",
-        "link": "https://www.reddit.com/r/technology/comments/1wz5hgc/why_do_tech_ceos_sound_like_doomsday_cult_leaders/",
-        "image": "https://external-preview.redd.it/6OTQogQTMZcFDgih1KBrXa7HJdNKLiCXpYACFPwBp44.jpeg?width=640&crop=smart&auto=webp&s=118735e46d10fd650551806acd7420bac75e1658",
-        "published": "2026-10-06T15:26:17+00:00"
+        "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
+        "link": "https://www.reddit.com/r/technology/comments/1wzjevi/congress_has_another_siteblocking_bill_and_this/",
+        "image": "https://external-preview.redd.it/HNaZpMbfjP3gOGX4fKuRW1AScN1zwdz0-K-ppkmYJ5s.png?width=640&crop=smart&auto=webp&s=a8fdf558f13da6ce5b85bbca57b9e769408682cf",
+        "published": "2026-10-07T00:59:06+00:00"
     },
     {
         "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
@@ -48,28 +24,22 @@
         "published": "2026-10-06T23:17:49+00:00"
     },
     {
+        "title": "GameStop Is Selling Used PS5 Pros for $1499, Likely Due To GTA 6 Release",
+        "link": "https://www.reddit.com/r/technology/comments/1wz9v4b/gamestop_is_selling_used_ps5_pros_for_1499_likely/",
+        "image": "https://external-preview.redd.it/DrEdmZ4CBvmCfyeSzBj58KcJLUdWt0cRHgMOTbiE_bo.jpeg?width=640&crop=smart&auto=webp&s=ec520208bf691aa1da469ad0e1c99074ee1e83c3",
+        "published": "2026-10-06T18:14:55+00:00"
+    },
+    {
+        "title": "Why do tech CEOs sound like doomsday cult leaders?",
+        "link": "https://www.reddit.com/r/technology/comments/1wz5hgc/why_do_tech_ceos_sound_like_doomsday_cult_leaders/",
+        "image": "https://external-preview.redd.it/6OTQogQTMZcFDgih1KBrXa7HJdNKLiCXpYACFPwBp44.jpeg?width=640&crop=smart&auto=webp&s=118735e46d10fd650551806acd7420bac75e1658",
+        "published": "2026-10-06T15:26:17+00:00"
+    },
+    {
         "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
         "link": "https://www.reddit.com/r/technology/comments/1wz5m82/anduril_lands_29_billion_navy_submarine_shipyard/",
         "image": "https://external-preview.redd.it/scpQRsKGeyMlp9dnHU-beZtC2a9V68wlxvdtudPU72o.jpeg?width=640&crop=smart&auto=webp&s=3d703cf8d50ae24a736c9b03e68ec2b2fe8c964e",
         "published": "2026-10-06T15:31:14+00:00"
-    },
-    {
-        "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
-        "link": "https://www.reddit.com/r/technology/comments/1wzjevi/congress_has_another_siteblocking_bill_and_this/",
-        "image": "https://external-preview.redd.it/HNaZpMbfjP3gOGX4fKuRW1AScN1zwdz0-K-ppkmYJ5s.png?width=640&crop=smart&auto=webp&s=a8fdf558f13da6ce5b85bbca57b9e769408682cf",
-        "published": "2026-10-07T00:59:06+00:00"
-    },
-    {
-        "title": "ASOS have been hacked and a threat was sent to customers: \u201cDear Asos DPO and IT, we have fully compromised the Snowflake instance.\u201d",
-        "link": "https://www.reddit.com/r/technology/comments/1wyyac8/asos_have_been_hacked_and_a_threat_was_sent_to/",
-        "image": "https://external-preview.redd.it/GjGc8cg8evRnUL1D1rtzpM8LDLanqWMzlpcNt7SWOf0.png?width=640&crop=smart&auto=webp&s=e84d80a621193a9ce974ef799e4389532696f638",
-        "published": "2026-10-06T09:36:47+00:00"
-    },
-    {
-        "title": "A Texas Woman Is Fighting to Stop a Data Center From Replacing a Promised Park",
-        "link": "https://www.reddit.com/r/technology/comments/1wyzvya/a_texas_woman_is_fighting_to_stop_a_data_center/",
-        "image": "https://external-preview.redd.it/WR90a1lLEVOiwfiwyDMgfAAutEDBNLV7d895A8X69Pg.jpeg?width=640&crop=smart&auto=webp&s=ce8cff5830ff79757282bfdb69a18bb054a64fe2",
-        "published": "2026-10-06T11:13:28+00:00"
     },
     {
         "title": "4 Cameras, 10 Days, 100,000 Violations. CA's Speed Camera Test Is Going Great",
@@ -84,9 +54,39 @@
         "published": "2026-10-06T18:56:33+00:00"
     },
     {
-        "title": "Denmark's ID register spills more people's details than the country has residents",
-        "link": "https://www.reddit.com/r/technology/comments/1wz4akr/denmarks_id_register_spills_more_peoples_details/",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-        "published": "2026-10-06T14:38:53+00:00"
+        "title": "Paramount completes $111B Warner merger, creating \u201cSkydance\u201d behemoth",
+        "link": "https://www.reddit.com/r/technology/comments/1wzd28k/paramount_completes_111b_warner_merger_creating/",
+        "image": "https://external-preview.redd.it/koYsd7vYGP-tKfB2V1VGNn-v6LvkNhidyQxQknerKUo.jpeg?width=640&crop=smart&auto=webp&s=a18d67257deb40f32529d73c729296274e641ee6",
+        "published": "2026-10-06T20:16:54+00:00"
+    },
+    {
+        "title": "\u2018Halt the Out-of-Control Tech Oligarchs\u2019: Advocates Demand Data Center Moratorium in Washington State",
+        "link": "https://www.reddit.com/r/technology/comments/1wz4uh6/halt_the_outofcontrol_tech_oligarchs_advocates/",
+        "image": "https://external-preview.redd.it/wkaL2p0pkA0-wEW9Mu93NyMSmcIOoHz_Oozpa6ryIWU.jpeg?width=640&crop=smart&auto=webp&s=e40bf9edd95b637071085beabdcf8f3fb1d0cfa0",
+        "published": "2026-10-06T15:01:21+00:00"
+    },
+    {
+        "title": "OpenAI PR tells journalist to 'move on' while asking Sam Altman about a ChatGPT user's suicide",
+        "link": "https://www.reddit.com/r/technology/comments/1wz7tdl/openai_pr_tells_journalist_to_move_on_while/",
+        "image": "https://external-preview.redd.it/NnbU2ItKbhLgmN82hp94PWAnNwqZhfmTWrQddRIET-E.jpeg?width=640&crop=smart&auto=webp&s=71bc5289dc67d61abc1d05115f590d822aca780f",
+        "published": "2026-10-06T16:57:01+00:00"
+    },
+    {
+        "title": "GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 \u2014 a $500 Markup on Sony's RRP",
+        "link": "https://www.reddit.com/r/technology/comments/1wz8bwh/gamestop_and_thirdparty_resellers_raise_used_ps5/",
+        "image": "https://external-preview.redd.it/FujVWg1xmYa7zZ6XmxNI5oJQABoc-XK-P7rdpBr47c4.jpeg?width=640&crop=smart&auto=webp&s=5109db3393d99393d9883e149083cb27391d4618",
+        "published": "2026-10-06T17:16:24+00:00"
+    },
+    {
+        "title": "Two years after review dispute, uBlock Origin Lite returns to Firefox add-ons store",
+        "link": "https://www.reddit.com/r/technology/comments/1wzjadw/two_years_after_review_dispute_ublock_origin_lite/",
+        "image": "https://external-preview.redd.it/t5kAh-m3bufC8a2KPaa_aklTX612zlHKqws0Pv1Pw28.jpeg?width=640&crop=smart&auto=webp&s=c1e6e6e904ebbab6cf5e129d183c753ad5533879",
+        "published": "2026-10-07T00:52:46+00:00"
+    },
+    {
+        "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips",
+        "link": "https://www.reddit.com/r/technology/comments/1wznljn/spacex_in_talks_to_borrow_40_billion_to_buy/",
+        "image": "https://external-preview.redd.it/59SMthISOAXrFsKgI_PPFQMNmzJDVKcHR8nOq-aJcGI.jpeg?width=640&crop=smart&auto=webp&s=670ac4c1d49c7e813238853665f3dd482f68be31",
+        "published": "2026-10-07T04:40:51+00:00"
     }
 ]

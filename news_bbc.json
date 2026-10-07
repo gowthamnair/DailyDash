@@ -1,9 +1,15 @@
 [
     {
+        "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg",
+        "published": "Wed, 07 Oct 2026 12:16:58 GMT"
+    },
+    {
         "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
         "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b33f/live/56311ac0-c210-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Wed, 07 Oct 2026 07:07:22 GMT"
+        "published": "Wed, 07 Oct 2026 10:12:36 GMT"
     },
     {
         "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
@@ -12,16 +18,58 @@
         "published": "Wed, 07 Oct 2026 05:02:18 GMT"
     },
     {
-        "title": "What is pneumonic plague and how does it spread?",
-        "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b32/live/023d84b0-c195-11f1-aa62-b37233e4aed8.jpg",
-        "published": "Tue, 06 Oct 2026 15:35:22 GMT"
+        "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png",
+        "published": "Wed, 07 Oct 2026 14:50:28 GMT"
     },
     {
-        "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-        "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d4e/live/b62d3360-c1ab-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Tue, 06 Oct 2026 19:53:45 GMT"
+        "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 22",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6db9/live/1690bf80-c23b-11f1-be2f-0fbd447d6e43.jpg",
+        "published": "Wed, 07 Oct 2026 14:21:45 GMT"
+    },
+    {
+        "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+        "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd24/live/cf2b2a00-c22f-11f1-bc2e-018d645d8d21.jpg",
+        "published": "Wed, 07 Oct 2026 09:49:31 GMT"
+    },
+    {
+        "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png",
+        "published": "Wed, 07 Oct 2026 11:51:52 GMT"
+    },
+    {
+        "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fff/live/a4989950-c237-11f1-be2f-0fbd447d6e43.jpg",
+        "published": "Wed, 07 Oct 2026 12:46:39 GMT"
+    },
+    {
+        "title": "Japan beer giants raided over alleged price-fixing cartel",
+        "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adce/live/8f5568b0-c21f-11f1-b7d8-6f930589c871.jpg",
+        "published": "Wed, 07 Oct 2026 12:09:59 GMT"
+    },
+    {
+        "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+        "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98d6/live/7a402d70-c229-11f1-babe-4199b0e7ccea.jpg",
+        "published": "Wed, 07 Oct 2026 07:37:16 GMT"
+    },
+    {
+        "title": "California pair charged with abusing at least 14 surrogate-born children",
+        "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4102/live/be6f94a0-c228-11f1-b7d8-6f930589c871.jpg",
+        "published": "Wed, 07 Oct 2026 09:38:00 GMT"
+    },
+    {
+        "title": "India's opposition leader dragged on to bus as police break up protest",
+        "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
+        "published": "Wed, 07 Oct 2026 07:45:47 GMT"
     },
     {
         "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
@@ -30,63 +78,15 @@
         "published": "Tue, 06 Oct 2026 23:07:44 GMT"
     },
     {
-        "title": "Former Australian bishop jailed for sexually abusing young men",
-        "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/266a/live/bd7f75d0-c208-11f1-b488-75e728293e20.png",
-        "published": "Wed, 07 Oct 2026 04:22:07 GMT"
+        "title": "What is pneumonic plague and how does it spread?",
+        "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b32/live/023d84b0-c195-11f1-aa62-b37233e4aed8.jpg",
+        "published": "Tue, 06 Oct 2026 15:35:22 GMT"
     },
     {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg",
-        "published": "Tue, 06 Oct 2026 18:03:19 GMT"
-    },
-    {
-        "title": "Pornhub returns to Australia but only for adults with Apple devices",
-        "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
-        "published": "Wed, 07 Oct 2026 04:39:59 GMT"
-    },
-    {
-        "title": "Former German spy chief arrested for espionage and treason",
-        "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ff2/live/9164de70-c174-11f1-babe-4199b0e7ccea.jpg",
-        "published": "Tue, 06 Oct 2026 10:05:42 GMT"
-    },
-    {
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
-        "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg",
-        "published": "Tue, 06 Oct 2026 11:24:19 GMT"
-    },
-    {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg",
-        "published": "Tue, 06 Oct 2026 20:15:31 GMT"
-    },
-    {
-        "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-        "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0a0/live/10176170-c19d-11f1-8fa2-19a1e9b6288f.jpg",
-        "published": "Tue, 06 Oct 2026 22:17:56 GMT"
-    },
-    {
-        "title": "The Republican candidates walking a Trump tightrope",
-        "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45a3/live/ce449040-c18f-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Wed, 07 Oct 2026 05:00:21 GMT"
-    },
-    {
-        "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69f4/live/13b43450-c0fa-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Tue, 06 Oct 2026 20:40:01 GMT"
-    },
-    {
-        "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-        "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Tue, 06 Oct 2026 18:42:58 GMT"
+        "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+        "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925e/live/9f0dd630-c237-11f1-be2f-0fbd447d6e43.jpg",
+        "published": "Wed, 07 Oct 2026 10:01:47 GMT"
     }
 ]
