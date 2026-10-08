@@ -12,22 +12,10 @@
         "published": "2026-10-07T15:36:48+00:00"
     },
     {
-        "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
-        "link": "https://www.reddit.com/r/technology/comments/1wzhbfu/openai_unleashes_hundreds_more_math_results_upon/",
-        "image": "https://external-preview.redd.it/_Ak4aSecbvat0UIf822dUjTcYW3M0GBEn03Fqic-9KU.jpeg?width=640&crop=smart&auto=webp&s=79f4d029cec841182cd99629c3ddffca195709fa",
-        "published": "2026-10-06T23:17:49+00:00"
-    },
-    {
         "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
         "link": "https://www.reddit.com/r/technology/comments/1wzjevi/congress_has_another_siteblocking_bill_and_this/",
         "image": "https://external-preview.redd.it/HNaZpMbfjP3gOGX4fKuRW1AScN1zwdz0-K-ppkmYJ5s.png?width=640&crop=smart&auto=webp&s=a8fdf558f13da6ce5b85bbca57b9e769408682cf",
         "published": "2026-10-07T00:59:06+00:00"
-    },
-    {
-        "title": "Norway wants to temporarily ban smart glasses in parks, beaches, and schools",
-        "link": "https://www.reddit.com/r/technology/comments/1wzvnqy/norway_wants_to_temporarily_ban_smart_glasses_in/",
-        "image": "https://external-preview.redd.it/6id1y46-G84NHAI61Ot50EAjYxciHDJvsQtSHheAw0k.jpeg?width=640&crop=smart&auto=webp&s=a76cd7ba827644f58ee96fd06336294b16738ab3",
-        "published": "2026-10-07T12:49:16+00:00"
     },
     {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services | Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
@@ -36,10 +24,10 @@
         "published": "2026-10-07T13:53:40+00:00"
     },
     {
-        "title": "4 Cameras, 10 Days, 100,000 Violations. CA's Speed Camera Test Is Going Great",
-        "link": "https://www.reddit.com/r/technology/comments/1wzgwf3/4_cameras_10_days_100000_violations_cas_speed/",
-        "image": "https://external-preview.redd.it/cybOK3VpysThn8xadruG_7HwKcZqDc6Iqsr84Fy8Rfw.jpeg?width=640&crop=smart&auto=webp&s=abc6d9006f3372c284c4f9aba1d0ff62da298b99",
-        "published": "2026-10-06T22:58:26+00:00"
+        "title": "Norway wants to temporarily ban smart glasses in parks, beaches, and schools",
+        "link": "https://www.reddit.com/r/technology/comments/1wzvnqy/norway_wants_to_temporarily_ban_smart_glasses_in/",
+        "image": "https://external-preview.redd.it/6id1y46-G84NHAI61Ot50EAjYxciHDJvsQtSHheAw0k.jpeg?width=640&crop=smart&auto=webp&s=a76cd7ba827644f58ee96fd06336294b16738ab3",
+        "published": "2026-10-07T12:49:16+00:00"
     },
     {
         "title": "Google told to halt work on datacentres in Finland over environmental concerns",
@@ -54,6 +42,30 @@
         "published": "2026-10-07T17:05:01+00:00"
     },
     {
+        "title": "FBI arrests Fortnite player who threatened to shoot FBI agents in game after Epic reported him and sent audio recordings",
+        "link": "https://www.reddit.com/r/technology/comments/1x07h4b/fbi_arrests_fortnite_player_who_threatened_to/",
+        "image": "https://external-preview.redd.it/IVd-4iWGogL_hxVUsViLuEtwLzf3Z_VzVWtgR7pub3U.jpeg?width=640&crop=smart&auto=webp&s=e6a5f041b125c10644f893413b993a4508ccbdfc",
+        "published": "2026-10-07T20:33:12+00:00"
+    },
+    {
+        "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift | 54-year-old North Carolina man, Michael Smith, gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+        "link": "https://www.reddit.com/r/technology/comments/1x0b0f5/fraudster_jailed_for_using_10k_bots_and_ai_songs/",
+        "image": "https://external-preview.redd.it/xf7bJ68FPdCjKW358NEPp1dvXmowlVo2OApLVlpEVrQ.jpeg?width=640&crop=smart&auto=webp&s=14134d3a36a1ade8eace47f3ecdf59bdbd7da71b",
+        "published": "2026-10-07T22:57:14+00:00"
+    },
+    {
+        "title": "Ohio man jailed for texting Shrek\u2019s penis to a state senator. Your questions about Shrexting, answered.",
+        "link": "https://www.reddit.com/r/technology/comments/1x045dv/ohio_man_jailed_for_texting_shreks_penis_to_a/",
+        "image": "https://external-preview.redd.it/Uh3pXAqsDdSHoY8lc4R8aRXWkqRJUm20wAJRdZf-ykU.png?width=640&crop=smart&auto=webp&s=1dedd36b2d6987980564312183896d9046cb9cbd",
+        "published": "2026-10-07T18:23:29+00:00"
+    },
+    {
+        "title": "ChatGPT keeps signing fake New Yorker cartoons with real artists' names",
+        "link": "https://www.reddit.com/r/technology/comments/1x04awu/chatgpt_keeps_signing_fake_new_yorker_cartoons/",
+        "image": "https://external-preview.redd.it/fEOYkFKxjhctXCxmg85r-LBIkSGbE0YplufvSgDGyfA.jpeg?width=640&crop=smart&auto=webp&s=91f67007f216de674eb10972117f332d58c43232",
+        "published": "2026-10-07T18:29:23+00:00"
+    },
+    {
         "title": "Two years after review dispute, uBlock Origin Lite returns to Firefox add-ons store",
         "link": "https://www.reddit.com/r/technology/comments/1wzjadw/two_years_after_review_dispute_ublock_origin_lite/",
         "image": "https://external-preview.redd.it/t5kAh-m3bufC8a2KPaa_aklTX612zlHKqws0Pv1Pw28.jpeg?width=640&crop=smart&auto=webp&s=c1e6e6e904ebbab6cf5e129d183c753ad5533879",
@@ -66,27 +78,15 @@
         "published": "2026-10-07T04:40:51+00:00"
     },
     {
-        "title": "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit",
-        "link": "https://www.reddit.com/r/technology/comments/1wzmgam/victory_court_rejects_government_effort_to/",
-        "image": "https://external-preview.redd.it/rcqmzHxxiC1T3E3WZEoT0W8l4Suyi-9M5Kj2LdqmYyA.jpeg?width=640&crop=smart&auto=webp&s=ec2348daa909b3a2b7fdd44d147ddd056d0b658a",
-        "published": "2026-10-07T03:35:53+00:00"
-    },
-    {
-        "title": "Xbox\u2019s CEO Says The Brutal Reset Is Already Working: \u2018After An All-Time Low, We\u2019ve Started To Return To Growth\u2019",
-        "link": "https://www.reddit.com/r/technology/comments/1wzsaex/xboxs_ceo_says_the_brutal_reset_is_already/",
-        "image": "https://external-preview.redd.it/eVUh7VjyS31hqqBF2nUr_dBVWZZMCwOUqWn7Y01nBPA.jpeg?width=640&crop=smart&auto=webp&s=8ea314fa8b660c5bd97ae12c5977dd5427cfe1e0",
-        "published": "2026-10-07T09:41:56+00:00"
-    },
-    {
         "title": "McDonald\u2019s sued for allegedly using AI tool to determine pricing for franchises",
         "link": "https://www.reddit.com/r/technology/comments/1wzzl2e/mcdonalds_sued_for_allegedly_using_ai_tool_to/",
         "image": "https://external-preview.redd.it/pLc_jPROEB7xLuiU2k0WVhdr687sNifM1wBT-KH8rA0.jpeg?width=640&crop=smart&auto=webp&s=cd2245f05dfb0c754a0885f8b0f3df79940deb31",
         "published": "2026-10-07T15:31:05+00:00"
     },
     {
-        "title": "Ohio man jailed for texting Shrek\u2019s penis to a state senator. Your questions about Shrexting, answered.",
-        "link": "https://www.reddit.com/r/technology/comments/1x045dv/ohio_man_jailed_for_texting_shreks_penis_to_a/",
-        "image": "https://external-preview.redd.it/Uh3pXAqsDdSHoY8lc4R8aRXWkqRJUm20wAJRdZf-ykU.png?width=640&crop=smart&auto=webp&s=1dedd36b2d6987980564312183896d9046cb9cbd",
-        "published": "2026-10-07T18:23:29+00:00"
+        "title": "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit",
+        "link": "https://www.reddit.com/r/technology/comments/1wzmgam/victory_court_rejects_government_effort_to/",
+        "image": "https://external-preview.redd.it/rcqmzHxxiC1T3E3WZEoT0W8l4Suyi-9M5Kj2LdqmYyA.jpeg?width=640&crop=smart&auto=webp&s=ec2348daa909b3a2b7fdd44d147ddd056d0b658a",
+        "published": "2026-10-07T03:35:53+00:00"
     }
 ]
