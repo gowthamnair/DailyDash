@@ -6,22 +6,10 @@
         "published": "2026-10-10T16:57:46+00:00"
     },
     {
-        "title": "Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes",
-        "link": "https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/",
-        "image": "https://external-preview.redd.it/rL44J68mYY-oYx4dAKYF_rZeT4jH7cjmbzFY6hKUv0o.jpeg?width=640&crop=smart&auto=webp&s=6baf51760015244b78525ab8505c99a3b41e9e74",
-        "published": "2026-10-09T20:17:12+00:00"
-    },
-    {
         "title": "FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed",
         "link": "https://www.reddit.com/r/technology/comments/1x2f6ly/fda_may_allow_some_toxic_chemicals_to_be_added_to/",
         "image": "https://external-preview.redd.it/bHQmq1EqLpcijyk_8DPlY6iISmuft5NtA2UjpNdc9Es.jpeg?width=640&crop=smart&auto=webp&s=2de7f2f36b7bc31ba5f88216de47aba3eaa417f8",
         "published": "2026-10-10T13:21:40+00:00"
-    },
-    {
-        "title": "My personal AI agent posted my bank details on company Slack. It's made me rethink how I use it.",
-        "link": "https://www.reddit.com/r/technology/comments/1x1ysae/my_personal_ai_agent_posted_my_bank_details_on/",
-        "image": "https://external-preview.redd.it/Qp28moGurVw4c34SKmsLoMoJMpC4-3smLw6vRc8EEwg.jpeg?width=640&crop=smart&auto=webp&s=585e09df2dd15245461be8627d163725ec7f9675",
-        "published": "2026-10-09T22:22:11+00:00"
     },
     {
         "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
@@ -30,16 +18,16 @@
         "published": "2026-10-09T23:07:51+00:00"
     },
     {
-        "title": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
-        "link": "https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/",
-        "image": "https://external-preview.redd.it/tgzap0SlNQMnTOl06SFdzT6TJZRTTFIJTMP-PTRaXfM.jpeg?width=640&crop=smart&auto=webp&s=d364ea0046909ad43382839be09399b25bf19047",
-        "published": "2026-10-10T06:38:09+00:00"
-    },
-    {
         "title": "Ukrainian drones strike Russia's largest data center, multiple parts of 1.4 million square foot campus knocked offline",
         "link": "https://www.reddit.com/r/technology/comments/1x2c1gn/ukrainian_drones_strike_russias_largest_data/",
         "image": "https://external-preview.redd.it/Hoom1SzsqMZSrmK7wZhuzt-La22aVJ9oehvNfhsMWWY.jpeg?width=640&crop=smart&auto=webp&s=cec9aace8a5f1956b7b9e31bc481ee33876ce4aa",
         "published": "2026-10-10T10:34:26+00:00"
+    },
+    {
+        "title": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+        "link": "https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/",
+        "image": "https://external-preview.redd.it/tgzap0SlNQMnTOl06SFdzT6TJZRTTFIJTMP-PTRaXfM.jpeg?width=640&crop=smart&auto=webp&s=d364ea0046909ad43382839be09399b25bf19047",
+        "published": "2026-10-10T06:38:09+00:00"
     },
     {
         "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs \u2014 impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship",
@@ -48,10 +36,10 @@
         "published": "2026-10-10T12:27:30+00:00"
     },
     {
-        "title": "\u2018Pure insanity\u2019: Mathematicians will need years to make sense of OpenAI\u2019s latest drop",
-        "link": "https://www.reddit.com/r/technology/comments/1x1w3az/pure_insanity_mathematicians_will_need_years_to/",
-        "image": "https://external-preview.redd.it/AhxOPwsmkjBI1PNNGQPHLkA40XFj5oBSSyaFtO_hatg.jpeg?width=640&crop=smart&auto=webp&s=e01e3bc81b5d8355757e81cf6363262eb872e2d4",
-        "published": "2026-10-09T20:28:01+00:00"
+        "title": "Vance claims Microsoft replaced laid-off workers with foreign hires \u2014 Data shows two-thirds of Microsoft\u2019s H-1B approvals went to people already working at the company / Amazon and Meta, the nation\u2019s biggest H-1B sponsors, were not suspended",
+        "link": "https://www.reddit.com/r/technology/comments/1x2mper/vance_claims_microsoft_replaced_laidoff_workers/",
+        "image": "https://external-preview.redd.it/pJVAxNjL1ZpGHXsKj7JlITlVJGEwjzuoX6d16txVgWc.jpeg?width=640&crop=smart&auto=webp&s=221c531f3dfd135c83b668e12fe05a81383e2ab8",
+        "published": "2026-10-10T18:42:11+00:00"
     },
     {
         "title": "Senate probe accuses Big Tech of misleading public on AI data centers \u2014 massive 100 MW sites create only 100 jobs while securing lucrative GPU tax breaks; Senators question the number of permanent jobs, but companies refuse to divulge data",
@@ -60,10 +48,16 @@
         "published": "2026-10-10T15:52:44+00:00"
     },
     {
-        "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
-        "link": "https://www.reddit.com/r/technology/comments/1x1xuad/verizon_posts_worst_day_since_2002_as_spacex_us/",
-        "image": "https://external-preview.redd.it/USQ6x6sz_SaDjjuPhBz2VTdF03LBhnBKBDwFQiaCHJo.jpeg?width=640&crop=smart&auto=webp&s=cdcb325f7be0d11419ef16a85b2af92bd40f8d64",
-        "published": "2026-10-09T21:41:02+00:00"
+        "title": "A.I. Companies Say They Aren\u2019t Responsible for Their Unpredictable Products. Don\u2019t Believe Them.",
+        "link": "https://www.reddit.com/r/technology/comments/1x2m0nl/ai_companies_say_they_arent_responsible_for_their/",
+        "image": "https://external-preview.redd.it/E7fevK9lLHc1ri-ME3PNeEy4i5S6FSy9pZto-kd45u4.jpeg?width=640&crop=smart&auto=webp&s=5babcaa6c82f29dd5d27ec2bed612832193bf785",
+        "published": "2026-10-10T18:13:15+00:00"
+    },
+    {
+        "title": "Gaming consoles are more expensive than ever, and fewer people are buying them",
+        "link": "https://www.reddit.com/r/technology/comments/1x2ni1m/gaming_consoles_are_more_expensive_than_ever_and/",
+        "image": "https://external-preview.redd.it/oSGu8crxpsRbd5c6UZ_R8k7oe4doDHSNtWhjWNUs_9g.jpeg?width=640&crop=smart&auto=webp&s=841579d2048937f27aab19bde83b3534450a7290",
+        "published": "2026-10-10T19:15:30+00:00"
     },
     {
         "title": "\"123456\" password used in massive Danish CPR data breach",
@@ -72,21 +66,27 @@
         "published": "2026-10-10T15:44:39+00:00"
     },
     {
-        "title": "Vance claims Microsoft replaced laid-off workers with foreign hires \u2014 Data shows two-thirds of Microsoft\u2019s H-1B approvals went to people already working at the company / Amazon and Meta, the nation\u2019s biggest H-1B sponsors, were not suspended",
-        "link": "https://www.reddit.com/r/technology/comments/1x2mper/vance_claims_microsoft_replaced_laidoff_workers/",
-        "image": "https://external-preview.redd.it/pJVAxNjL1ZpGHXsKj7JlITlVJGEwjzuoX6d16txVgWc.jpeg?width=640&crop=smart&auto=webp&s=221c531f3dfd135c83b668e12fe05a81383e2ab8",
-        "published": "2026-10-10T18:42:11+00:00"
-    },
-    {
-        "title": "An Anthropic Model Submitted A False Homicide Tip To Philadelphia Police",
-        "link": "https://www.reddit.com/r/technology/comments/1x1z2ax/an_anthropic_model_submitted_a_false_homicide_tip/",
-        "image": "https://external-preview.redd.it/VqHlBmwmaHm779_SNYTHgOVCT51WxbOSS0cTmNUVcBo.jpeg?width=640&crop=smart&auto=webp&s=68d5b1e1b05ffc9cc8295eed65b89d43eca48c20",
-        "published": "2026-10-09T22:34:45+00:00"
+        "title": "AI will make Americans dumber and poorer",
+        "link": "https://www.reddit.com/r/technology/comments/1x2nxdb/ai_will_make_americans_dumber_and_poorer/",
+        "image": "https://external-preview.redd.it/w5Wv9T09LNk_qL_3OR1nJCQnTpH7iO1-A_KC9lJ5BEk.jpeg?width=640&crop=smart&auto=webp&s=f0e806b511d6ed9e153e50b84d792a32fdf9916e",
+        "published": "2026-10-10T19:33:45+00:00"
     },
     {
         "title": "Resistance to data centers reaches Europe: \u201cThe population and environment bear all the burden. The profits go to the US\u201d",
         "link": "https://www.reddit.com/r/technology/comments/1x21lwh/resistance_to_data_centers_reaches_europe_the/",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
         "published": "2026-10-10T00:34:07+00:00"
+    },
+    {
+        "title": "Rising memory costs push Samsung Mobile division into $2.2 Billion loss this quarter",
+        "link": "https://www.reddit.com/r/technology/comments/1x29ugj/rising_memory_costs_push_samsung_mobile_division/",
+        "image": "https://external-preview.redd.it/_b9SeOLROkG1iqmst3cS1McXftMQYXge1NkpplZPSpo.jpeg?width=640&crop=smart&auto=webp&s=8376c4816e8df043ca2314fe1a226e1e4e8fba81",
+        "published": "2026-10-10T08:15:32+00:00"
+    },
+    {
+        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+        "link": "https://www.reddit.com/r/technology/comments/1x2ch77/rogue_anthropic_ai_agent_gave_police_fake_tip_in/",
+        "image": "https://external-preview.redd.it/ujznnuIsQ7fc0MrJP0smNYe7k7AVWZuyguGzccUo9qc.jpeg?width=640&crop=smart&auto=webp&s=e76155a93f71964f994bd74f285b92d73d44db33",
+        "published": "2026-10-10T11:00:17+00:00"
     }
 ]
