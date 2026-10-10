@@ -1,15 +1,9 @@
 [
     {
-        "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cafe/live/bfd91a70-c4bf-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Sat, 10 Oct 2026 15:58:06 GMT"
-    },
-    {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
-        "published": "Sat, 10 Oct 2026 14:24:14 GMT"
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
+        "published": "Sat, 10 Oct 2026 19:28:28 GMT"
     },
     {
         "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
@@ -18,10 +12,28 @@
         "published": "Sat, 10 Oct 2026 14:16:50 GMT"
     },
     {
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ee/live/0a7efdf0-c4b7-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Sat, 10 Oct 2026 12:29:31 GMT"
+        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
+        "published": "Sat, 10 Oct 2026 18:37:10 GMT"
+    },
+    {
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
+        "published": "Sat, 10 Oct 2026 17:44:26 GMT"
+    },
+    {
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfd2/live/7e8f55f0-c4df-11f1-9a39-31b474234113.jpg",
+        "published": "Sat, 10 Oct 2026 19:08:17 GMT"
+    },
+    {
+        "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png",
+        "published": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
         "title": "Woman injures three people in third Poland school knife attack in a week",
@@ -30,16 +42,16 @@
         "published": "Sat, 10 Oct 2026 14:58:55 GMT"
     },
     {
-        "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
-        "published": "Sat, 10 Oct 2026 15:05:55 GMT"
-    },
-    {
         "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
         "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8690/live/4429a2a0-c4b5-11f1-9ce9-55293bd7f0d9.jpg",
         "published": "Sat, 10 Oct 2026 15:23:47 GMT"
+    },
+    {
+        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ee/live/0a7efdf0-c4b7-11f1-bc2e-018d645d8d21.jpg",
+        "published": "Sat, 10 Oct 2026 12:29:31 GMT"
     },
     {
         "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -76,17 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
         "published": "Fri, 09 Oct 2026 21:55:51 GMT"
-    },
-    {
-        "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-        "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
-        "published": "Fri, 09 Oct 2026 21:50:47 GMT"
-    },
-    {
-        "title": "Man named Hitler Mussolini elected mayor in Peru",
-        "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b8a/live/e5e46370-c3f5-11f1-9a39-31b474234113.png",
-        "published": "Fri, 09 Oct 2026 16:32:22 GMT"
     }
 ]
