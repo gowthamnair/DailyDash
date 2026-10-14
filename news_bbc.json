@@ -2,13 +2,25 @@
     {
         "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
         "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Wed, 14 Oct 2026 00:17:00 GMT"
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg",
+        "published": "Wed, 14 Oct 2026 07:23:46 GMT"
     },
     {
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg",
+        "published": "Wed, 14 Oct 2026 04:36:06 GMT"
+    },
+    {
+        "title": "Turkey police raid opposition TV station, halting live broadcasts",
+        "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd58/live/148a7250-c798-11f1-b506-c77373b53604.jpg",
+        "published": "Wed, 14 Oct 2026 06:32:02 GMT"
+    },
+    {
+        "title": "Saudi employee charged with planting recording device in OpenAI office",
         "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7bf/live/83811950-c790-11f1-a64c-550be9e3c66b.jpg",
         "published": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
@@ -27,13 +39,7 @@
         "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
         "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Tue, 13 Oct 2026 22:29:55 GMT"
-    },
-    {
-        "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-        "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Tue, 13 Oct 2026 19:51:14 GMT"
+        "published": "Wed, 14 Oct 2026 04:20:17 GMT"
     },
     {
         "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
@@ -42,10 +48,28 @@
         "published": "Tue, 13 Oct 2026 19:23:28 GMT"
     },
     {
+        "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+        "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg",
+        "published": "Tue, 13 Oct 2026 19:51:14 GMT"
+    },
+    {
         "title": "Zimbabwean author denies using AI to write award-winning story",
         "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e42/live/dc1ac240-c723-11f1-9a39-31b474234113.jpg",
         "published": "Tue, 13 Oct 2026 23:31:10 GMT"
+    },
+    {
+        "title": "Lena Dunham's Girls to return for limited HBO run",
+        "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg",
+        "published": "Wed, 14 Oct 2026 02:09:30 GMT"
+    },
+    {
+        "title": "Russia arrests Japanese journalist on spying charges",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c43/live/65eee660-c781-11f1-b999-873e5cdc91d4.png",
+        "published": "Wed, 14 Oct 2026 08:00:03 GMT"
     },
     {
         "title": "Cornell bans all fraternity parties over gang sex assault allegations",
@@ -54,34 +78,10 @@
         "published": "Tue, 13 Oct 2026 18:25:28 GMT"
     },
     {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Wed, 14 Oct 2026 01:56:57 GMT"
-    },
-    {
         "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
         "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb02/live/12f052c0-c6c6-11f1-a64c-550be9e3c66b.jpg",
         "published": "Tue, 13 Oct 2026 17:10:50 GMT"
-    },
-    {
-        "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c36b/live/a481bb50-c72c-11f1-b881-4391ac746e04.jpg",
-        "published": "Tue, 13 Oct 2026 17:36:43 GMT"
-    },
-    {
-        "title": "Watch: Emergency calls from botched Christa Pike execution released",
-        "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec29/live/389f0120-c6de-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Tue, 13 Oct 2026 12:03:51 GMT"
-    },
-    {
-        "title": "Breaking Bad actor RJ Mitte dies aged 34",
-        "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5ed/live/d6c542f0-c702-11f1-9a39-31b474234113.jpg",
-        "published": "Tue, 13 Oct 2026 08:03:34 GMT"
     },
     {
         "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
