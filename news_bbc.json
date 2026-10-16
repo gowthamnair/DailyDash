@@ -1,9 +1,15 @@
 [
     {
-        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
-        "published": "Thu, 15 Oct 2026 22:37:21 GMT"
+        "title": "Three children and a teacher killed by 16-year-old at Oregon primary school",
+        "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bc6/live/40d818d0-c8f6-11f1-977f-01c60c7120c0.jpg",
+        "published": "Fri, 16 Oct 2026 01:29:24 GMT"
+    },
+    {
+        "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+        "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+        "published": "Fri, 16 Oct 2026 01:36:45 GMT"
     },
     {
         "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -18,6 +24,12 @@
         "published": "Thu, 15 Oct 2026 16:50:18 GMT"
     },
     {
+        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
+        "published": "Thu, 15 Oct 2026 22:37:21 GMT"
+    },
+    {
         "title": "Maduro pleads not guilty to new torture-related charges in New York",
         "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1ed/live/681f85b0-c8b8-11f1-bdfb-e3788aeae9ec.jpg",
@@ -30,16 +42,16 @@
         "published": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
-        "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Thu, 15 Oct 2026 17:18:49 GMT"
+        "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg",
+        "published": "Thu, 15 Oct 2026 23:27:21 GMT"
     },
     {
-        "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-        "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/052f/live/ca6f9ca0-c8a4-11f1-929c-0b57deb4f9df.jpg",
-        "published": "Thu, 15 Oct 2026 15:00:05 GMT"
+        "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg",
+        "published": "Thu, 15 Oct 2026 23:38:46 GMT"
     },
     {
         "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -76,17 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baf4/live/d48f4dd0-c87b-11f1-bf46-d13a9e06695d.jpg",
         "published": "Thu, 15 Oct 2026 10:51:53 GMT"
-    },
-    {
-        "title": "Brazil's Congress approves shorter working week in win for Lula",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de61/live/a7661b70-c87d-11f1-8101-e3c2ed61ec71.jpg",
-        "published": "Thu, 15 Oct 2026 10:05:17 GMT"
-    },
-    {
-        "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
-        "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b225/live/c443afc0-c85d-11f1-9a39-31b474234113.jpg",
-        "published": "Wed, 14 Oct 2026 22:19:13 GMT"
     }
 ]
