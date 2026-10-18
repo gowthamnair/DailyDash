@@ -30,22 +30,10 @@
         "published": "2026-10-17T17:22:38+00:00"
     },
     {
-        "title": "Developer cancels demo over fears people could use AI to copy game before launch",
-        "link": "https://www.reddit.com/r/technology/comments/1x8cjyn/developer_cancels_demo_over_fears_people_could/",
-        "image": "https://external-preview.redd.it/BgStppBbqkKhsHbcAuSdOJzAFWTk0DcH0DKplmFX00Q.jpeg?width=640&crop=smart&auto=webp&s=7910649c74d94ba0751c8820ca6333b8a7e3c008",
-        "published": "2026-10-17T15:08:22+00:00"
-    },
-    {
         "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
         "link": "https://www.reddit.com/r/technology/comments/1x8rutm/tesla_cannot_guarantee_roadster_reservation/",
         "image": "https://external-preview.redd.it/S-f-FE7x3zaRLOsWvyE3f65GS78njDYQXZ47GuaWYWw.png?width=640&crop=smart&auto=webp&s=80cfb2991290d4fe380b14d47b49b306a2e48547",
         "published": "2026-10-18T02:28:04+00:00"
-    },
-    {
-        "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops | Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG, Brian Richard Fitzgerald.",
-        "link": "https://www.reddit.com/r/technology/comments/1x8as41/thegentlemanpervert_producing_ai_csam_is_a_nj/",
-        "image": "https://external-preview.redd.it/cUg5fG3UeoFM8wjbT9TIN7juhIvOrcOPufxrdlv2Q1c.jpeg?width=640&crop=smart&auto=webp&s=08cdae5fee826da3876b5e0ad410de5a4acfbcb9",
-        "published": "2026-10-17T13:52:04+00:00"
     },
     {
         "title": "Apple may have just sold 6 million iPhone Duos",
@@ -54,10 +42,10 @@
         "published": "2026-10-17T19:52:13+00:00"
     },
     {
-        "title": "Doctors, Lawyers, and Engineers Are Joining AI\u2019s $400-an-Hour Gig Economy",
-        "link": "https://www.reddit.com/r/technology/comments/1x89mo1/doctors_lawyers_and_engineers_are_joining_ais/",
-        "image": "https://external-preview.redd.it/2IfR77KSiHm93JNI3l6YBRjpjLD1xxgA_z5CbirVtMU.jpeg?width=640&crop=smart&auto=webp&s=fb85bfbcb959b607eb3b2ec3af2a03acf36bf9d4",
-        "published": "2026-10-17T12:58:08+00:00"
+        "title": "Dutch cloud services concerned after U.S. request leads to Amsterdam server seizure",
+        "link": "https://www.reddit.com/r/technology/comments/1x8xlkf/dutch_cloud_services_concerned_after_us_request/",
+        "image": "https://external-preview.redd.it/VjxNoslesE8XTjDzrqcw39Wv2xNIfLgPdWBx7roOBUs.jpeg?width=640&crop=smart&auto=webp&s=311d7fcd5f7c06f3787f824db3ae51f5c32ef5f8",
+        "published": "2026-10-18T08:01:49+00:00"
     },
     {
         "title": "Friends don\u2019t let friends feed their data to AI agents",
@@ -72,12 +60,6 @@
         "published": "2026-10-17T19:15:11+00:00"
     },
     {
-        "title": "TikTok \u201cPermanently Suspends\u201d the \u2018Musk\u2019 Film Account, Raising Suppression Fears (Exclusive)",
-        "link": "https://www.reddit.com/r/technology/comments/1x8e0is/tiktok_permanently_suspends_the_musk_film_account/",
-        "image": "https://external-preview.redd.it/BW3R76wqXSaVw--Us8B0e3nxWsOLdaQJ2g_VnVL_5XE.jpeg?width=640&crop=smart&auto=webp&s=81a67907e5fab60ab29d96cfee8fa6a0f178402d",
-        "published": "2026-10-17T16:08:25+00:00"
-    },
-    {
         "title": "Americans are packing town halls to stop data centers. It's working, for now | Locals have made developers drop billions of dollars in data center plans. They may have to win that fight again at the state level",
         "link": "https://www.reddit.com/r/technology/comments/1x8iu3h/americans_are_packing_town_halls_to_stop_data/",
         "image": "https://external-preview.redd.it/QlHH2lhutvt0SNUV6dFySo5CGOhI8XnKZNu_-hFLGXM.jpeg?width=216&crop=smart&auto=webp&s=2e861b30032942a9f2bb1c1ab05984ebbc7c1176",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/technology/comments/1x8eck6/nvidia_apple_google_microsoft_amazon_and_meta/",
         "image": "https://external-preview.redd.it/OT4seoVex_w5w2DQWHNQosziOFIAppBAkMVLc3Mb8FM.jpeg?width=640&crop=smart&auto=webp&s=eae9c89dcfb9cc7cf0193dd65357007c1dbe7e8d",
         "published": "2026-10-17T16:21:46+00:00"
+    },
+    {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "link": "https://www.reddit.com/r/technology/comments/1x8q6qb/anthropic_says_its_workforce_has_become_less/",
+        "image": "https://external-preview.redd.it/uxNSR7vGAgYWzjOACQQOhSBSRbe2WUaikiAo5j-jS1s.jpeg?width=640&crop=smart&auto=webp&s=d8d7e0a138012488f1b87c52ddf0caab317f65b3",
+        "published": "2026-10-18T01:00:32+00:00"
+    },
+    {
+        "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data",
+        "link": "https://www.reddit.com/r/technology/comments/1x8e7gs/openai_discloses_four_more_rogue_incidents/",
+        "image": "https://external-preview.redd.it/jDn18GXpr9swlxm6neQau9G1D8ULatohiBK2ph19hdM.jpeg?width=640&crop=smart&auto=webp&s=a1f61940a0ab790f9e85420e8f9827a07068162d",
+        "published": "2026-10-17T16:16:00+00:00"
+    },
+    {
+        "title": "Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games",
+        "link": "https://www.reddit.com/r/technology/comments/1x8l16u/rep_torres_announces_power_to_the_players_act/",
+        "image": "https://external-preview.redd.it/lUmxduIy5HdIjW_l4poCTRqT3Zl6DNdACFg4xDW5ONo.png?width=640&crop=smart&auto=webp&s=e1be2726d2b9163e74611fa88116c9ee7cead5a4",
+        "published": "2026-10-17T20:57:21+00:00"
     }
 ]
