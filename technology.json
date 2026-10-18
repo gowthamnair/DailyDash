@@ -12,22 +12,10 @@
         "published": "2026-10-17T23:26:00+00:00"
     },
     {
-        "title": "Websites are closing their doors to AI agents",
-        "link": "https://www.reddit.com/r/technology/comments/1x8g010/websites_are_closing_their_doors_to_ai_agents/",
-        "image": "https://external-preview.redd.it/ltG0XxE8AGsjfT_P-OfrQeuiFPtpv9AmA84_fGa0odI.jpeg?width=640&crop=smart&auto=webp&s=f5cdf0215d24f5fc95de78a2c1ae9590fd73c409",
-        "published": "2026-10-17T17:28:06+00:00"
-    },
-    {
         "title": "TikTok suspends 'Musk' documentary account over political content",
         "link": "https://www.reddit.com/r/technology/comments/1x8j93j/tiktok_suspends_musk_documentary_account_over/",
         "image": "https://external-preview.redd.it/_XBVNG2F2vhY10VDVaj9jxfCzMQVp1I_tTboZ3-YdIA.jpeg?width=640&crop=smart&auto=webp&s=0f87aaa3e2007c809224f4e367178d3648230d48",
         "published": "2026-10-17T19:41:58+00:00"
-    },
-    {
-        "title": "Retired Penn professor arrested for blocking Uber Eats robot",
-        "link": "https://www.reddit.com/r/technology/comments/1x8fvc4/retired_penn_professor_arrested_for_blocking_uber/",
-        "image": "https://external-preview.redd.it/uICViLFpURUQCSLhBOEGplo4gEeseO5-sOZzpfr9erM.jpeg?width=640&crop=smart&auto=webp&s=6545b1949e671384eb9517fc5a60d5a8879787ee",
-        "published": "2026-10-17T17:22:38+00:00"
     },
     {
         "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
@@ -66,27 +54,39 @@
         "published": "2026-10-17T19:24:37+00:00"
     },
     {
-        "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-        "link": "https://www.reddit.com/r/technology/comments/1x8eck6/nvidia_apple_google_microsoft_amazon_and_meta/",
-        "image": "https://external-preview.redd.it/OT4seoVex_w5w2DQWHNQosziOFIAppBAkMVLc3Mb8FM.jpeg?width=640&crop=smart&auto=webp&s=eae9c89dcfb9cc7cf0193dd65357007c1dbe7e8d",
-        "published": "2026-10-17T16:21:46+00:00"
-    },
-    {
         "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
         "link": "https://www.reddit.com/r/technology/comments/1x8q6qb/anthropic_says_its_workforce_has_become_less/",
         "image": "https://external-preview.redd.it/uxNSR7vGAgYWzjOACQQOhSBSRbe2WUaikiAo5j-jS1s.jpeg?width=640&crop=smart&auto=webp&s=d8d7e0a138012488f1b87c52ddf0caab317f65b3",
         "published": "2026-10-18T01:00:32+00:00"
     },
     {
-        "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data",
-        "link": "https://www.reddit.com/r/technology/comments/1x8e7gs/openai_discloses_four_more_rogue_incidents/",
-        "image": "https://external-preview.redd.it/jDn18GXpr9swlxm6neQau9G1D8ULatohiBK2ph19hdM.jpeg?width=640&crop=smart&auto=webp&s=a1f61940a0ab790f9e85420e8f9827a07068162d",
-        "published": "2026-10-17T16:16:00+00:00"
-    },
-    {
         "title": "Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games",
         "link": "https://www.reddit.com/r/technology/comments/1x8l16u/rep_torres_announces_power_to_the_players_act/",
         "image": "https://external-preview.redd.it/lUmxduIy5HdIjW_l4poCTRqT3Zl6DNdACFg4xDW5ONo.png?width=640&crop=smart&auto=webp&s=e1be2726d2b9163e74611fa88116c9ee7cead5a4",
         "published": "2026-10-17T20:57:21+00:00"
+    },
+    {
+        "title": "Ukrainian drones are forced to slow down by sudden restrictions on use of Starlink",
+        "link": "https://www.reddit.com/r/technology/comments/1x8kp9u/ukrainian_drones_are_forced_to_slow_down_by/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-10-17T20:43:16+00:00"
+    },
+    {
+        "title": "Europe's French Satellite Group Eutelsat answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+        "link": "https://www.reddit.com/r/technology/comments/1x8nyul/europes_french_satellite_group_eutelsat_answer_to/",
+        "image": "https://external-preview.redd.it/cCb-AbTbqMlEHVn5aiAl61Izb8MFr2D3rxzclUZjn94.jpeg?width=640&crop=smart&auto=webp&s=846098cf2d00a82c81c4c1b967f7f6a356d22adf",
+        "published": "2026-10-17T23:10:41+00:00"
+    },
+    {
+        "title": "Nothing to Remove: Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
+        "link": "https://www.reddit.com/r/technology/comments/1x8mqvx/nothing_to_remove_ninth_circuit_holds_copilot/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-10-17T22:13:27+00:00"
+    },
+    {
+        "title": "SpaceX\u2019s Starlink encourages every satellite operator to share data with Stargaze platform, for safety",
+        "link": "https://www.reddit.com/r/technology/comments/1x8u06f/spacexs_starlink_encourages_every_satellite/",
+        "image": "https://external-preview.redd.it/yh8tzn7-1tobzw1Qj9pTZGrl_BPNncbvuFdqRZx7U8w.jpeg?width=640&crop=smart&auto=webp&s=2bc3b683b46b473658c6680fd0e48295a63c5767",
+        "published": "2026-10-18T04:27:01+00:00"
     }
 ]
