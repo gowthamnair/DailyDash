@@ -1,11 +1,5 @@
 [
     {
-        "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-        "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1411/live/d0cca190-cc8e-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Tue, 20 Oct 2026 13:51:40 GMT"
-    },
-    {
         "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
         "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a834/live/7aae38a0-cc89-11f1-bed8-c51b95c602ec.jpg",
@@ -18,10 +12,10 @@
         "published": "Tue, 20 Oct 2026 11:25:35 GMT"
     },
     {
-        "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-        "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png",
-        "published": "Tue, 20 Oct 2026 14:24:19 GMT"
+        "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg",
+        "published": "Tue, 20 Oct 2026 16:59:06 GMT"
     },
     {
         "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
@@ -30,10 +24,28 @@
         "published": "Tue, 20 Oct 2026 11:45:49 GMT"
     },
     {
+        "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+        "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png",
+        "published": "Tue, 20 Oct 2026 17:30:15 GMT"
+    },
+    {
         "title": "Why Israeli Gen Z voters are drawn to the far right",
         "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg",
         "published": "Tue, 20 Oct 2026 08:53:06 GMT"
+    },
+    {
+        "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+        "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/040a/live/55e91860-cc9c-11f1-94e6-edd4c60b2e1d.jpg",
+        "published": "Tue, 20 Oct 2026 15:58:57 GMT"
+    },
+    {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
+        "published": "Tue, 20 Oct 2026 19:30:05 GMT"
     },
     {
         "title": "Kenya cult leader's children still being starved weeks before trial, son says",
@@ -51,19 +63,19 @@
         "title": "Suspect arrested after historic town hall set alight - French media",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Tue, 20 Oct 2026 12:45:43 GMT"
-    },
-    {
-        "title": "Seventh day of violent clashes between Albanian protesters and police",
-        "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg",
-        "published": "Tue, 20 Oct 2026 02:45:05 GMT"
+        "published": "Tue, 20 Oct 2026 16:06:39 GMT"
     },
     {
         "title": "Mission blasts off for Mars to grab a piece of its moon",
         "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
         "published": "Mon, 19 Oct 2026 19:45:46 GMT"
+    },
+    {
+        "title": "Seventh day of violent clashes between Albanian protesters and police",
+        "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg",
+        "published": "Tue, 20 Oct 2026 02:45:05 GMT"
     },
     {
         "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
@@ -76,17 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg",
         "published": "Mon, 19 Oct 2026 16:46:35 GMT"
-    },
-    {
-        "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-        "published": "Mon, 19 Oct 2026 21:12:30 GMT"
-    },
-    {
-        "title": "Exiled critic of Rwandan president found beheaded",
-        "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
-        "published": "Mon, 19 Oct 2026 13:42:41 GMT"
     }
 ]
