@@ -12,10 +12,28 @@
         "published": "2026-10-20T19:16:19+00:00"
     },
     {
+        "title": "Cops raid office of RFK Jr. allies planning \u201cunethical\u201d vaccine trial on babies",
+        "link": "https://www.reddit.com/r/technology/comments/1xb56fx/cops_raid_office_of_rfk_jr_allies_planning/",
+        "image": "https://external-preview.redd.it/OKxaiLZ0YKyZtx3TJNoFirJA9yU8N9NO9R0YuyzDABY.jpeg?width=640&crop=smart&auto=webp&s=7ef42c18c6e13f746dc164ef3656cea4091f1bca",
+        "published": "2026-10-20T21:45:50+00:00"
+    },
+    {
         "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap \u2014 the bossman makes use of AI tooling himself after issuing clear pro-AI directives",
         "link": "https://www.reddit.com/r/technology/comments/1xapaw7/linus_torvalds_posts_his_first_aiassisted_patch/",
         "image": "https://external-preview.redd.it/ZZvrJ7jvA4ZIgo4omGTPGhAT3bIfr94BIPGYBsAIpV0.jpeg?width=640&crop=smart&auto=webp&s=38b85cd24e6bd61b544586c72a88680a04da892f",
         "published": "2026-10-20T11:11:38+00:00"
+    },
+    {
+        "title": "Anthropic logged net loss of over $80 billion in first half of 2026",
+        "link": "https://www.reddit.com/r/technology/comments/1xb7op7/anthropic_logged_net_loss_of_over_80_billion_in/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-10-20T23:36:46+00:00"
+    },
+    {
+        "title": "US restarts three shut-down nuclear reactors to feed AI data centers \u2014 2.25 GW coming online with backing from Microsoft and Google",
+        "link": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
+        "image": "https://external-preview.redd.it/CUNgu4u8oUK7QD-b_2hPamt2EMpcRu3WAA1MG92CEO8.jpeg?width=640&crop=smart&auto=webp&s=88ef777c4278b5718ed1cceedf84567a2bac57a9",
+        "published": "2026-10-20T15:52:39+00:00"
     },
     {
         "title": "Spotify introduces QR code checks for Family plans, missing verification could mean a year-long ban",
@@ -24,10 +42,16 @@
         "published": "2026-10-20T03:03:39+00:00"
     },
     {
-        "title": "US restarts three shut-down nuclear reactors to feed AI data centers \u2014 2.25 GW coming online with backing from Microsoft and Google",
-        "link": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
-        "image": "https://external-preview.redd.it/CUNgu4u8oUK7QD-b_2hPamt2EMpcRu3WAA1MG92CEO8.jpeg?width=640&crop=smart&auto=webp&s=88ef777c4278b5718ed1cceedf84567a2bac57a9",
-        "published": "2026-10-20T15:52:39+00:00"
+        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+        "link": "https://www.reddit.com/r/technology/comments/1xb1yfx/meta_ignores_brazilian_court_order_to_end/",
+        "image": "https://external-preview.redd.it/F6rglOyTO-qISuWb0d7gHVer9_5oxXWozn70NRTPk1A.jpeg?width=640&crop=smart&auto=webp&s=88e048f9ef01ddf3c55a17e67acb8613d58d7721",
+        "published": "2026-10-20T19:39:04+00:00"
+    },
+    {
+        "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+        "link": "https://www.reddit.com/r/technology/comments/1xb6re5/the_internet_goes_on_high_alert_after_discovery/",
+        "image": "https://external-preview.redd.it/22n7mVl0iLh_nQizczvdw6uHj2j4VLREcqXh08r_Bvw.jpeg?width=640&crop=smart&auto=webp&s=aa5c8a8ed4b051e546271c1beb231ae9ae1117e2",
+        "published": "2026-10-20T22:54:15+00:00"
     },
     {
         "title": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied | Officials said they wanted to search the phone of Samuel Tunick, a Stop Cop City activist, for child abuse material. It was actually because he was suspected of \u201cterrorist activities.\u201d",
@@ -48,12 +72,6 @@
         "published": "2026-10-20T05:54:42+00:00"
     },
     {
-        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-        "link": "https://www.reddit.com/r/technology/comments/1xb1yfx/meta_ignores_brazilian_court_order_to_end/",
-        "image": "https://external-preview.redd.it/F6rglOyTO-qISuWb0d7gHVer9_5oxXWozn70NRTPk1A.jpeg?width=640&crop=smart&auto=webp&s=88e048f9ef01ddf3c55a17e67acb8613d58d7721",
-        "published": "2026-10-20T19:39:04+00:00"
-    },
-    {
         "title": "Don\u2019t be fooled. The AI that was supposed to save us time is doing just the opposite",
         "link": "https://www.reddit.com/r/technology/comments/1xapppa/dont_be_fooled_the_ai_that_was_supposed_to_save/",
         "image": "https://external-preview.redd.it/zUEJXdARDPqi_nPwllO26SAZouaYcz5oj4l3wglFCio.jpeg?width=640&crop=smart&auto=webp&s=173ae4e8d443ce8eade30c53fa1d36ac684ba6f8",
@@ -66,27 +84,9 @@
         "published": "2026-10-20T07:21:26+00:00"
     },
     {
-        "title": "Revolut is down worldwide",
-        "link": "https://www.reddit.com/r/technology/comments/1xanejl/revolut_is_down_worldwide/",
-        "image": "https://external-preview.redd.it/sV4r0c2LcPfcn2GMXFMYQoddQyzYsFUhGcStWGFzmAA.jpeg?width=640&crop=smart&auto=webp&s=6bbd4348e4f9295d6b9b7c7d70197655716cff69",
-        "published": "2026-10-20T09:20:17+00:00"
-    },
-    {
-        "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
-        "link": "https://www.reddit.com/r/technology/comments/1xarfby/i_have_to_stop_this_retired_professor_arrested/",
-        "image": "https://external-preview.redd.it/hz-OYHAc9OYDLGcR04oB-tq1c4GvOFEBC00ASQZ5t9A.jpeg?width=640&crop=smart&auto=webp&s=c861c652e515ff43128c51f46d77870fd280c96d",
-        "published": "2026-10-20T12:57:14+00:00"
-    },
-    {
-        "title": "Cops raid office of RFK Jr. allies planning \u201cunethical\u201d vaccine trial on babies",
-        "link": "https://www.reddit.com/r/technology/comments/1xb56fx/cops_raid_office_of_rfk_jr_allies_planning/",
-        "image": "https://external-preview.redd.it/OKxaiLZ0YKyZtx3TJNoFirJA9yU8N9NO9R0YuyzDABY.jpeg?width=640&crop=smart&auto=webp&s=7ef42c18c6e13f746dc164ef3656cea4091f1bca",
-        "published": "2026-10-20T21:45:50+00:00"
-    },
-    {
-        "title": "Meta Says Claude AI Tool Triggered No Kings Instagram Suspension",
-        "link": "https://www.reddit.com/r/technology/comments/1xacuzy/meta_says_claude_ai_tool_triggered_no_kings/",
-        "image": "https://external-preview.redd.it/1Pv3ScYHnDRVG6vAMnCF4Tu2CzVoXBF2wIs9z6inHFI.jpeg?width=640&crop=smart&auto=webp&s=c50db08ac2a003131ceb56e86f973c4f3610fab8",
-        "published": "2026-10-19T23:44:46+00:00"
+        "title": "Norwegian Company Pitches 2,800-Mile Undersea Cable Linking Canada and Europe to Bypass the US",
+        "link": "https://www.reddit.com/r/technology/comments/1xb5ds7/norwegian_company_pitches_2800mile_undersea_cable/",
+        "image": "https://external-preview.redd.it/OmxJGaHY44y37P52mgUNsNX0va-WjcjBIorb3Deo_7U.jpeg?width=640&crop=smart&auto=webp&s=d3e6010a9f30bfdfc7c69b8c75ad5e148992094c",
+        "published": "2026-10-20T21:54:20+00:00"
     }
 ]
