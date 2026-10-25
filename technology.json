@@ -18,16 +18,16 @@
         "published": "2026-10-25T03:29:29+00:00"
     },
     {
-        "title": "Iran Has \u2018Detailed Plans\u2019 to Attack Undersea internet Cables in Persian Gulf, in the event of future attacks by Israel or the US.",
-        "link": "https://www.reddit.com/r/technology/comments/1xej9s1/iran_has_detailed_plans_to_attack_undersea/",
-        "image": "https://external-preview.redd.it/ACgeHZj1TQT-2pzl2A3MQeKsKXMQKI9CLOCNsjR2lg8.jpeg?width=640&crop=smart&auto=webp&s=88c59c52776fbea78fa407215385d8e9180f41e5",
-        "published": "2026-10-24T20:40:13+00:00"
-    },
-    {
         "title": "r/opensource just banned AI, non-English speakers and more",
         "link": "https://www.reddit.com/r/technology/comments/1xf2w9g/ropensource_just_banned_ai_nonenglish_speakers/",
         "image": "https://external-preview.redd.it/xSYz-TH2FzkAhVHPEw1C28zA1nyc8HyBSWrElU4mBlE.jpeg?width=640&crop=smart&auto=webp&s=83fe5b3eeb51d462fa095df499fc4f49d2a0851c",
         "published": "2026-10-25T13:51:03+00:00"
+    },
+    {
+        "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
+        "link": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
+        "image": "https://external-preview.redd.it/eQF-kEEOz3CRRRNtEWuZvlJONwyBJPwGwAf3NwUaO3k.jpeg?width=640&crop=smart&auto=webp&s=f14061899234205a0105523d2507a9f0fe91248b",
+        "published": "2026-10-25T18:26:04+00:00"
     },
     {
         "title": "Netflix Users Are Watching Less, Not Opening the App as Often",
@@ -48,28 +48,16 @@
         "published": "2026-10-25T13:15:28+00:00"
     },
     {
-        "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-        "link": "https://www.reddit.com/r/technology/comments/1xenv2n/forced_to_pick_groks_ai_model_chooses_republicans/",
-        "image": "https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&crop=smart&auto=webp&s=28d60e8effd777e0337993a95ce2515b467002ea",
-        "published": "2026-10-25T00:09:00+00:00"
-    },
-    {
-        "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
-        "link": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
-        "image": "https://external-preview.redd.it/eQF-kEEOz3CRRRNtEWuZvlJONwyBJPwGwAf3NwUaO3k.jpeg?width=640&crop=smart&auto=webp&s=f14061899234205a0105523d2507a9f0fe91248b",
-        "published": "2026-10-25T18:26:04+00:00"
-    },
-    {
-        "title": "Their police jobs ended. They kept using Flock\u2019s vast surveillance network.",
-        "link": "https://www.reddit.com/r/technology/comments/1xejzvz/their_police_jobs_ended_they_kept_using_flocks/",
-        "image": "https://external-preview.redd.it/j0Trx4oI1Lajtbk8qhilM6XJFAhW1emCF_hrmvvHBtE.jpeg?width=640&crop=smart&auto=webp&s=d61094f4a6f678b12f1655694ae4629c1eaa7c63",
-        "published": "2026-10-24T21:10:57+00:00"
-    },
-    {
         "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases \u2014 facility also holds other important state registry data",
         "link": "https://www.reddit.com/r/technology/comments/1xf3eb5/ukrainian_drone_attacks_hammer_russias_finance/",
         "image": "https://external-preview.redd.it/gMOX0WOoOnHcDlpdMpMyK0FPeHNWnF28BgDjicXFsoQ.jpeg?width=640&crop=smart&auto=webp&s=450aa8409259940fb1567573b6124b82cfe3e92f",
         "published": "2026-10-25T14:11:52+00:00"
+    },
+    {
+        "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+        "link": "https://www.reddit.com/r/technology/comments/1xenv2n/forced_to_pick_groks_ai_model_chooses_republicans/",
+        "image": "https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&crop=smart&auto=webp&s=28d60e8effd777e0337993a95ce2515b467002ea",
+        "published": "2026-10-25T00:09:00+00:00"
     },
     {
         "title": "Comcast lost 144,000 broadband customers last quarter, is planning layoffs so AI agents can take over customer service",
@@ -82,6 +70,18 @@
         "link": "https://www.reddit.com/r/technology/comments/1xf7wgg/us_banks_have_detected_unvetted_ai_agents/",
         "image": "https://external-preview.redd.it/syVkgWJGj0JaRM28qYB1xbZ4_SoegTqCnAsaBCI5ppE.jpeg?width=640&crop=smart&auto=webp&s=94364b0a4feccb2b79ba53842a3c46ace2bd14ae",
         "published": "2026-10-25T17:10:52+00:00"
+    },
+    {
+        "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
+        "link": "https://www.reddit.com/r/technology/comments/1xfejeo/report_says_circular_financing_shows_ai_bubble/",
+        "image": "https://external-preview.redd.it/r-FlVVRY9zKBu8BER9IisIM40-3Ync5qS0h07cCBdwc.jpeg?width=640&crop=smart&auto=webp&s=e6fb5b3383d10d009c756aff491802a33aad4b56",
+        "published": "2026-10-25T21:35:33+00:00"
+    },
+    {
+        "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
+        "link": "https://www.reddit.com/r/technology/comments/1xex9tg/people_are_using_ai_to_dumb_down_their_smart_tvs/",
+        "image": "https://external-preview.redd.it/jdDpPY_In5_kFUzHExtqNe5dVK9rGVpCAOTkb81uVsM.jpeg?width=320&crop=smart&auto=webp&s=50e918e832ea1ce289667d70e49d84e4944c449d",
+        "published": "2026-10-25T08:48:10+00:00"
     },
     {
         "title": "The AI graveyard: a running list of projects and startups that didn't make it",
