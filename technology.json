@@ -1,15 +1,15 @@
 [
     {
-        "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
-        "link": "https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/",
-        "image": "https://external-preview.redd.it/E3HlwKsauIZRQBF1Cb17NPpdXI3mTjVUb7MdzYhk9n8.jpeg?width=640&crop=smart&auto=webp&s=37cc98171fed9bbed1608b282128830197ae88d9",
-        "published": "2026-10-27T15:51:28+00:00"
-    },
-    {
         "title": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages",
         "link": "https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/",
         "image": "https://external-preview.redd.it/vHx3xzZAPw6E8Ldw144k1JwdyIQQp7v-0VZXaO7szdA.jpeg?width=640&crop=smart&auto=webp&s=a6ab8fec8cdfd171c9d392a5922f9183231ca622",
         "published": "2026-10-27T19:00:08+00:00"
+    },
+    {
+        "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+        "link": "https://www.reddit.com/r/technology/comments/1xhnxg6/ice_is_running_one_of_the_largest_antileft/",
+        "image": "https://external-preview.redd.it/wfuMkCY2cwu64ZoUwvkTQw-LIg5Wkh7QSnO2p7vmG9Y.jpeg?width=640&crop=smart&auto=webp&s=27bd7fb5c970654175af8be410423d02820ded35",
+        "published": "2026-10-28T13:22:16+00:00"
     },
     {
         "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
@@ -18,22 +18,10 @@
         "published": "2026-10-27T18:49:26+00:00"
     },
     {
-        "title": "'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras",
-        "link": "https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/",
-        "image": "https://external-preview.redd.it/dhIs6XJ3UcSG8xGK0F4xeeWXUcQTi3kett-e_bdjR4M.jpeg?width=640&crop=smart&auto=webp&s=e876687db31d6f2dd2c8399de0db41a78e73e2a6",
-        "published": "2026-10-27T12:39:22+00:00"
-    },
-    {
         "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
         "link": "https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/",
         "image": "https://external-preview.redd.it/gSlFfsLM1d-pVABsW2lnq90zwTwltG9fLpYYm9VKro0.jpeg?width=640&crop=smart&auto=webp&s=28c7fd6f16a0ad65b66933a9cc673a211885040f",
         "published": "2026-10-27T18:46:38+00:00"
-    },
-    {
-        "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-        "link": "https://www.reddit.com/r/technology/comments/1xgvhqp/the_us_government_is_hiding_a_secret_court_ruling/",
-        "image": "https://external-preview.redd.it/ijOHaPo5Q777uTXhj_B6NBMvID_JBZMbT4prugKp6w8.jpeg?width=640&crop=smart&auto=webp&s=7dbf33af8a961a20bff5dbbd8493ba5a3591e8f0",
-        "published": "2026-10-27T15:24:24+00:00"
     },
     {
         "title": "Flock Reinstalled Its Cameras After Another City Canceled Its Contract",
@@ -42,22 +30,10 @@
         "published": "2026-10-27T16:36:25+00:00"
     },
     {
-        "title": "\u2018My social life completely plummeted\u2019: gen Z is fighting back against big tech | From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention",
-        "link": "https://www.reddit.com/r/technology/comments/1xgtoj2/my_social_life_completely_plummeted_gen_z_is/",
-        "image": "https://external-preview.redd.it/cwwPW1KW2Xn35L3gd6pQTikvA1qta-9jb0FpAtQC6V4.jpeg?width=640&crop=smart&auto=webp&s=f551980fb281dba3e66836ad1857746ec3714b3b",
-        "published": "2026-10-27T14:14:09+00:00"
-    },
-    {
-        "title": "Apple cuts 400+ jobs, directors sacked as new CEO John Ternus swings the axe",
-        "link": "https://www.reddit.com/r/technology/comments/1xgvkud/apple_cuts_400_jobs_directors_sacked_as_new_ceo/",
-        "image": "https://external-preview.redd.it/l1PFEkLMDlL-vOHbEc6tfORVFLai1nvg7I0yXypW7QE.jpeg?width=640&crop=smart&auto=webp&s=b187e987f49fcdad5f13007838f3cd85d9bf81d4",
-        "published": "2026-10-27T15:27:33+00:00"
-    },
-    {
-        "title": "Discord will soon let anyone find public server messages through Google",
-        "link": "https://www.reddit.com/r/technology/comments/1xgz3ff/discord_will_soon_let_anyone_find_public_server/",
-        "image": "https://external-preview.redd.it/4LfkcFG_geCeDxcNw2lByFete1IvgsyElacFeJGPhGI.jpeg?width=640&crop=smart&auto=webp&s=f59c9d8cccbdfb18cc539efa4c41d4cf2ba6e435",
-        "published": "2026-10-27T17:35:04+00:00"
+        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity. Seven potential AI nightmares pulled from Anthropic\u2019s 93-page \u201cRisk Factor\u201d tome.",
+        "link": "https://www.reddit.com/r/technology/comments/1xhawer/anthropic_ipo_warns_its_ai_could_blackmail_people/",
+        "image": "https://external-preview.redd.it/Pm8CURAlrE76ICgLEqnwzI3Bt8gEZ6y3iPwOKlrqXgg.jpeg?width=640&crop=smart&auto=webp&s=f2b4c7c6159f1ae83e165854eb434f411d48aefc",
+        "published": "2026-10-28T01:23:39+00:00"
     },
     {
         "title": "Anthropic illegally trained Claude with Stanford professors\u2019 books",
@@ -66,27 +42,51 @@
         "published": "2026-10-27T19:52:05+00:00"
     },
     {
-        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity. Seven potential AI nightmares pulled from Anthropic\u2019s 93-page \u201cRisk Factor\u201d tome.",
-        "link": "https://www.reddit.com/r/technology/comments/1xhawer/anthropic_ipo_warns_its_ai_could_blackmail_people/",
-        "image": "https://external-preview.redd.it/Pm8CURAlrE76ICgLEqnwzI3Bt8gEZ6y3iPwOKlrqXgg.jpeg?width=640&crop=smart&auto=webp&s=f2b4c7c6159f1ae83e165854eb434f411d48aefc",
-        "published": "2026-10-28T01:23:39+00:00"
+        "title": "Discord will soon let anyone find public server messages through Google",
+        "link": "https://www.reddit.com/r/technology/comments/1xgz3ff/discord_will_soon_let_anyone_find_public_server/",
+        "image": "https://external-preview.redd.it/4LfkcFG_geCeDxcNw2lByFete1IvgsyElacFeJGPhGI.jpeg?width=640&crop=smart&auto=webp&s=f59c9d8cccbdfb18cc539efa4c41d4cf2ba6e435",
+        "published": "2026-10-27T17:35:04+00:00"
     },
     {
-        "title": "The EPA is quietly killing its web archive",
-        "link": "https://www.reddit.com/r/technology/comments/1xgrnt6/the_epa_is_quietly_killing_its_web_archive/",
-        "image": "https://external-preview.redd.it/3tzu8KxfZZ6S9iO2CjxYCjxCAxDasnmXNK5uRYxNR8M.png?width=640&crop=smart&auto=webp&s=4b7472a43b14a7e2ffc720fd25c4ca0c1724e68c",
-        "published": "2026-10-27T12:50:58+00:00"
+        "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact' \u2014 seven isolation stages per port were chosen with 'listening comparisons,' uses a $5 Realtek controller",
+        "link": "https://www.reddit.com/r/technology/comments/1xhlac5/4700_audiophilegrade_network_hub_promises_a/",
+        "image": "https://external-preview.redd.it/FpZeCm26cO_C0h1IQiDhBjdncqdHCA69aRpk6jgwNso.png?width=640&crop=smart&auto=webp&s=a70f623c0d6ab375b0b0457f0582f510818814ff",
+        "published": "2026-10-28T11:18:21+00:00"
     },
     {
-        "title": "Sunlight at night: US startup\u2019s demonstration of lighting Earth from space draws criticism",
-        "link": "https://www.reddit.com/r/technology/comments/1xgrnph/sunlight_at_night_us_startups_demonstration_of/",
-        "image": "https://external-preview.redd.it/xQDXkbRCdGIAxtqMeHXFWtDQKTzgI4w27JR0JyA59g4.jpeg?width=640&crop=smart&auto=webp&s=e5aed03a03fe049b89b9852eedc16465a04aaa2b",
-        "published": "2026-10-27T12:50:51+00:00"
+        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "link": "https://www.reddit.com/r/technology/comments/1xh6x0z/codeexecution_flaw_in_uefi_firmware_affects_most/",
+        "image": "https://external-preview.redd.it/woM9YwTAfYko9u8kxHbrVuQp1I3oAe3C4al3ICZeRfQ.jpeg?width=640&crop=smart&auto=webp&s=dd2a7ed8b4b5c9f9704114b0747082a4238ca45b",
+        "published": "2026-10-27T22:29:32+00:00"
     },
     {
-        "title": "Police have reopened a criminal investigation into sexualised deepfakes made using X\u2019s chatbot Grok",
-        "link": "https://www.reddit.com/r/technology/comments/1xgo2dk/police_have_reopened_a_criminal_investigation/",
-        "image": "https://external-preview.redd.it/UXs2GAtjyuOZ8ARIuG2GcjyZGfhhp1mHHexGUKTUNZ4.jpeg?width=640&crop=smart&auto=webp&s=bdec38aace53344b3b331870527b0854fa66479d",
-        "published": "2026-10-27T09:41:03+00:00"
+        "title": "California city weighs data center ban after staggering electricity demands revealed",
+        "link": "https://www.reddit.com/r/technology/comments/1xh6ky7/california_city_weighs_data_center_ban_after/",
+        "image": "https://external-preview.redd.it/7k3_Mr6fP-JnEyNEdrDrI6P-DDzIOjyjpTSsCSY9JpA.jpeg?width=640&crop=smart&auto=webp&s=1553e3c67f638df5ee2cc78f4a9bfda09699e8be",
+        "published": "2026-10-27T22:15:49+00:00"
+    },
+    {
+        "title": "BioWare was asked to remove LGBTQ flag from canceled Mass Effect game, report says / A former BioWare employee says that EA's new management wasn't on board with the developer's inclusiveness",
+        "link": "https://www.reddit.com/r/technology/comments/1xhr0l1/bioware_was_asked_to_remove_lgbtq_flag_from/",
+        "image": "https://external-preview.redd.it/pc7cfovT0wctFlPoSwVt5548LJxEr1qvLZQXCXqZ4QY.png?width=640&crop=smart&auto=webp&s=8b413e17289a0d90b4f382e61a8d7c43afd9a667",
+        "published": "2026-10-28T15:21:35+00:00"
+    },
+    {
+        "title": "Starlink shows why Canada can\u2019t outsource its sovereignty to Elon Musk",
+        "link": "https://www.reddit.com/r/technology/comments/1xh24t0/starlink_shows_why_canada_cant_outsource_its/",
+        "image": "https://external-preview.redd.it/ckScPWN25T3UYJTZM1JFFFrO2kZAdzQVSNsk_4dxn6Q.jpeg?width=640&crop=smart&auto=webp&s=e33aa369ff902a8dafd75f603a987a03e3bc2455",
+        "published": "2026-10-27T19:26:05+00:00"
+    },
+    {
+        "title": "Hacker trying to breach US Federal Election Commission system, email shows",
+        "link": "https://www.reddit.com/r/technology/comments/1xh1wni/hacker_trying_to_breach_us_federal_election/",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "published": "2026-10-27T19:17:39+00:00"
+    },
+    {
+        "title": "Doctor removes prostate from 35 miles away in first telerobotic surgery in US",
+        "link": "https://www.reddit.com/r/technology/comments/1xh7d0g/doctor_removes_prostate_from_35_miles_away_in/",
+        "image": "https://external-preview.redd.it/gpO9bhVL6fnQdbyelLEwtEe7IDQMmEraeP8dpTelmWc.jpeg?width=640&crop=smart&auto=webp&s=1d5a38dfc26521981854432599bff92988eaf4b1",
+        "published": "2026-10-27T22:48:13+00:00"
     }
 ]
