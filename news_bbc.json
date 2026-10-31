@@ -1,9 +1,21 @@
 [
     {
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
+        "published": "Sat, 31 Oct 2026 19:22:26 GMT"
+    },
+    {
         "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
         "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
         "published": "Sat, 31 Oct 2026 17:53:35 GMT"
+    },
+    {
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Sat, 31 Oct 2026 21:29:01 GMT"
     },
     {
         "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -16,12 +28,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
         "published": "Sat, 31 Oct 2026 15:16:20 GMT"
-    },
-    {
-        "title": "Police deployed during stand-off over control of top Poland court",
-        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg",
-        "published": "Sat, 31 Oct 2026 01:11:43 GMT"
     },
     {
         "title": "Ethiopian PM puts ministers through military training",
@@ -42,10 +48,10 @@
         "published": "Sat, 31 Oct 2026 01:27:05 GMT"
     },
     {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
-        "published": "Sat, 31 Oct 2026 12:21:25 GMT"
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg",
+        "published": "Sat, 31 Oct 2026 01:11:43 GMT"
     },
     {
         "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
         "published": "Fri, 30 Oct 2026 14:48:22 GMT"
-    },
-    {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-        "published": "Fri, 30 Oct 2026 20:34:46 GMT"
     }
 ]
