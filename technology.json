@@ -1,21 +1,15 @@
 [
     {
-        "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-        "link": "https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to/",
-        "image": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80",
-        "published": "2026-10-30T17:59:02+00:00"
-    },
-    {
-        "title": "Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months \u2014 president plucks former startup founder, telling him to 'go nuts'",
-        "link": "https://www.reddit.com/r/technology/comments/1xjn25u/cisco_gives_27yearold_engineer_unlimited_ai/",
-        "image": "https://external-preview.redd.it/ASwKdp0z7hNQrbh-u7jMUKGr88jPe4vm-9Zw0fxseaw.jpeg?width=640&crop=smart&auto=webp&s=242536fdaa67984e3ec6dfaed44f5ba06b87f44f",
-        "published": "2026-10-30T18:18:42+00:00"
-    },
-    {
         "title": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any \u2018Specific Existing Game\u2019",
         "link": "https://www.reddit.com/r/technology/comments/1xjvvfc/anthropic_nerfs_claude_again_to_stop_users_from/",
         "image": "https://external-preview.redd.it/H3NxIQq7eykNworPF7nHY5d4pWY_CLiG0oIgxkXwf_s.jpeg?width=640&crop=smart&auto=webp&s=895be58e2699803e8abe92659a7596480a31260e",
         "published": "2026-10-31T00:17:25+00:00"
+    },
+    {
+        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+        "link": "https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/",
+        "image": "https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&crop=smart&auto=webp&s=3b64f5aab34dd152fbf8819a51796d124edfde42",
+        "published": "2026-10-31T12:37:31+00:00"
     },
     {
         "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your Gaming PC",
@@ -24,10 +18,10 @@
         "published": "2026-10-30T20:27:34+00:00"
     },
     {
-        "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\"",
-        "link": "https://www.reddit.com/r/technology/comments/1xjn0sp/reddit_shares_plunge_30_after_company_says_its_q3/",
-        "image": "https://external-preview.redd.it/ANGqHGB3fHJctMrbloNslUw-6NQkRN_xaFfX2ot0AGg.jpeg?width=640&crop=smart&auto=webp&s=2cceb397c60cefadf516e8829d993776847711b2",
-        "published": "2026-10-30T18:17:19+00:00"
+        "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+        "link": "https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/",
+        "image": "https://external-preview.redd.it/ZlgHPogcTUdJRD9NIZE9VFvk7Bz2-dV6llE4MKIw8w8.jpeg?width=640&crop=smart&auto=webp&s=371e8438f09913d4fc4b11ddb7c1724ded5bb3f8",
+        "published": "2026-10-31T07:49:40+00:00"
     },
     {
         "title": "\"Morale has been terrible\" at EA, workers claim, saying that AI mandates and mismanagement have left the company \"a cold dead place that's slowly decaying as leadership pilfers every last cent\"",
@@ -42,18 +36,6 @@
         "published": "2026-10-30T20:56:19+00:00"
     },
     {
-        "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
-        "link": "https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/",
-        "image": "https://external-preview.redd.it/ZlgHPogcTUdJRD9NIZE9VFvk7Bz2-dV6llE4MKIw8w8.jpeg?width=640&crop=smart&auto=webp&s=371e8438f09913d4fc4b11ddb7c1724ded5bb3f8",
-        "published": "2026-10-31T07:49:40+00:00"
-    },
-    {
-        "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
-        "link": "https://www.reddit.com/r/technology/comments/1xjlrgx/thousands_of_ghost_students_use_ai_to_steal/",
-        "image": "https://external-preview.redd.it/fASYnFZD0mAgN1zVsK_yniV5kznvCNDhjHZZ0S0X__k.jpeg?width=640&crop=smart&auto=webp&s=2214e612dd67b594c43000960eb5b78109aa8d09",
-        "published": "2026-10-30T17:30:25+00:00"
-    },
-    {
         "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal \u2014 street prices climb to 2.2X MSRP | Out-of-control pricing and soon completely out of stock",
         "link": "https://www.reddit.com/r/technology/comments/1xk1j63/nvidia_store_quietly_pulls_the_rtx_5080_following/",
         "image": "https://external-preview.redd.it/f6hR9U8xq5nf4GRQ7hjArtxjYjR9Ieo5gquhCgSJl-U.jpeg?width=640&crop=smart&auto=webp&s=16587f5d7b3e6c4a484eb4c29406dc60d0e4d43e",
@@ -66,16 +48,16 @@
         "published": "2026-10-31T03:22:38+00:00"
     },
     {
-        "title": "Pentagon inspector general declines to investigate Starlink disruptions in Ukraine",
-        "link": "https://www.reddit.com/r/technology/comments/1xjsodm/pentagon_inspector_general_declines_to/",
-        "image": "https://external-preview.redd.it/AKdMBywGxfiwB2CNBpjy6pIiYFShjVNsZjTeM4qeLLc.jpeg?width=640&crop=smart&auto=webp&s=5a982fcdf8c42a40870281462710dc28ba5078e4",
-        "published": "2026-10-30T21:58:30+00:00"
-    },
-    {
         "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
         "link": "https://www.reddit.com/r/technology/comments/1xjx5b5/computer_science_programs_lose_students_as_ai/",
         "image": "https://external-preview.redd.it/n3Pka1BXU_OF9letHbsO6p7CarYmAPon80ZKy1hHUgM.png?width=640&crop=smart&auto=webp&s=aa284228c415b8daad3a43a2359491218d929a85",
         "published": "2026-10-31T01:15:09+00:00"
+    },
+    {
+        "title": "Pentagon inspector general declines to investigate Starlink disruptions in Ukraine",
+        "link": "https://www.reddit.com/r/technology/comments/1xjsodm/pentagon_inspector_general_declines_to/",
+        "image": "https://external-preview.redd.it/AKdMBywGxfiwB2CNBpjy6pIiYFShjVNsZjTeM4qeLLc.jpeg?width=640&crop=smart&auto=webp&s=5a982fcdf8c42a40870281462710dc28ba5078e4",
+        "published": "2026-10-30T21:58:30+00:00"
     },
     {
         "title": "Nearly One In Five White House Press Releases Show Signs Of AI",
@@ -88,5 +70,23 @@
         "link": "https://www.reddit.com/r/technology/comments/1xjpqi7/protons_ceo_cancels_ai_reinterviews_the_move_came/",
         "image": "https://external-preview.redd.it/xHYluBLDgzHOIhSugsZKWmmgsVSq2eylEC5lUlm-dcQ.png?width=640&crop=smart&auto=webp&s=e1aecfb9621559f0147fc61dc90fb8ab48a4ed14",
         "published": "2026-10-30T20:00:55+00:00"
+    },
+    {
+        "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
+        "link": "https://www.reddit.com/r/technology/comments/1xkfac2/ai_data_centers_could_erase_15_years_of_americas/",
+        "image": "https://external-preview.redd.it/wdhjr6tbkY8JcUJNUFGf30IhQML87OF4-OgZrUTfxSw.jpeg?width=640&crop=smart&auto=webp&s=ab9bb7d9501496f519516a41b5a1b1124049f4a7",
+        "published": "2026-10-31T16:56:18+00:00"
+    },
+    {
+        "title": "Mistral Says Its AI Model \u2018Le Chonk\u2019 Has Leapfrogged China in the Open-Weight Race",
+        "link": "https://www.reddit.com/r/technology/comments/1xk4jzu/mistral_says_its_ai_model_le_chonk_has/",
+        "image": "https://external-preview.redd.it/GxwjF09X_4Giv4ltirSXI62JfU6xRsIVbEanANrF4iY.jpeg?width=640&crop=smart&auto=webp&s=ec364c7a7ca4eaadf7e2d2c2e3d7c8200b513f6c",
+        "published": "2026-10-31T08:10:57+00:00"
+    },
+    {
+        "title": "Reddit (and everyone else) faces a bleak internet without Google traffic",
+        "link": "https://www.reddit.com/r/technology/comments/1xk9fjx/reddit_and_everyone_else_faces_a_bleak_internet/",
+        "image": "https://external-preview.redd.it/tg1GdQ5P4z3Wlxk7OLdI_QSzNeOO9P8icv0vRV6wVeU.jpeg?width=640&crop=smart&auto=webp&s=1a4c5d39ba05fbf0613860ceab4f70aba6067985",
+        "published": "2026-10-31T12:52:25+00:00"
     }
 ]
