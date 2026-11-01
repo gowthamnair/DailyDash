@@ -1,5 +1,11 @@
 [
     {
+        "title": "Shops looted as German cost of living protests turn violent",
+        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
+        "published": "Sun, 01 Nov 2026 07:36:18 GMT"
+    },
+    {
         "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
         "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
@@ -12,22 +18,16 @@
         "published": "Sat, 31 Oct 2026 17:53:35 GMT"
     },
     {
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Sat, 31 Oct 2026 21:29:01 GMT"
-    },
-    {
         "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
         "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
         "published": "Sat, 31 Oct 2026 22:11:45 GMT"
     },
     {
-        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+        "title": "India's opposition holds mega rally seeking election chief's resignation",
         "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
-        "published": "Sun, 01 Nov 2026 00:12:07 GMT"
+        "published": "Sun, 01 Nov 2026 07:00:55 GMT"
     },
     {
         "title": "How the downfall of Serbia's Vu\u010di\u010b mirrored that of Hungary's Orb\u00e1n",
@@ -40,6 +40,12 @@
         "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg",
         "published": "Sat, 31 Oct 2026 14:28:15 GMT"
+    },
+    {
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Sat, 31 Oct 2026 21:29:01 GMT"
     },
     {
         "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -82,11 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg",
         "published": "Sat, 31 Oct 2026 02:39:25 GMT"
-    },
-    {
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-        "published": "Fri, 30 Oct 2026 21:13:14 GMT"
     }
 ]
