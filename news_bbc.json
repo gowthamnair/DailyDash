@@ -1,9 +1,21 @@
 [
     {
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+        "published": "Mon, 02 Nov 2026 01:18:27 GMT"
+    },
+    {
         "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
         "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
         "published": "Sun, 01 Nov 2026 21:55:01 GMT"
+    },
+    {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Mon, 02 Nov 2026 01:45:42 GMT"
     },
     {
         "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -12,16 +24,16 @@
         "published": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
+        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
+        "published": "Mon, 02 Nov 2026 00:15:30 GMT"
+    },
+    {
         "title": "University of Cambridge scientist among those who died in Spanish train crash",
         "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg",
         "published": "Sun, 01 Nov 2026 17:05:18 GMT"
-    },
-    {
-        "title": "Shops looted as German cost-of-living protests turn violent",
-        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
-        "published": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
         "title": "Armed police start patrols in Sydney after Bondi Beach attack",
@@ -30,10 +42,10 @@
         "published": "Sun, 01 Nov 2026 17:56:47 GMT"
     },
     {
-        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Sun, 01 Nov 2026 21:16:45 GMT"
+        "title": "Shops looted as German cost-of-living protests turn violent",
+        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+        "published": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
         "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -76,17 +88,5 @@
         "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg",
         "published": "Sat, 31 Oct 2026 14:28:15 GMT"
-    },
-    {
-        "title": "Spain train disaster clouds S\u00e1nchez chances of re-election",
-        "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Sat, 31 Oct 2026 05:44:21 GMT"
-    },
-    {
-        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
-        "published": "Sat, 31 Oct 2026 17:53:35 GMT"
     }
 ]
