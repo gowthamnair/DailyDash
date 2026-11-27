@@ -1,5 +1,17 @@
 [
     {
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+        "published": "Thu, 26 Nov 2026 22:49:27 GMT"
+    },
+    {
+        "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+        "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+        "published": "Thu, 26 Nov 2026 19:26:16 GMT"
+    },
+    {
         "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
         "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png",
@@ -12,28 +24,16 @@
         "published": "Thu, 26 Nov 2026 05:00:27 GMT"
     },
     {
+        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+        "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+        "published": "Thu, 26 Nov 2026 22:01:22 GMT"
+    },
+    {
         "title": "G\u00e9rard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
         "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
         "published": "Thu, 26 Nov 2026 14:44:26 GMT"
-    },
-    {
-        "title": "Desperate appeals from women on death row in Iran after protests",
-        "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-        "published": "Thu, 26 Nov 2026 06:01:58 GMT"
-    },
-    {
-        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-        "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
-        "published": "Thu, 26 Nov 2026 15:17:18 GMT"
-    },
-    {
-        "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-        "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg",
-        "published": "Thu, 26 Nov 2026 11:00:39 GMT"
     },
     {
         "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
@@ -42,10 +42,22 @@
         "published": "Thu, 26 Nov 2026 14:35:22 GMT"
     },
     {
-        "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
-        "published": "Thu, 26 Nov 2026 12:33:23 GMT"
+        "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+        "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
+        "published": "Thu, 26 Nov 2026 21:17:53 GMT"
+    },
+    {
+        "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+        "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg",
+        "published": "Thu, 26 Nov 2026 12:16:06 GMT"
+    },
+    {
+        "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+        "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg",
+        "published": "Thu, 26 Nov 2026 11:00:39 GMT"
     },
     {
         "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
@@ -54,39 +66,27 @@
         "published": "Thu, 26 Nov 2026 10:25:51 GMT"
     },
     {
-        "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+        "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+        "published": "Thu, 26 Nov 2026 12:33:23 GMT"
+    },
+    {
+        "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
         "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
-        "published": "Thu, 26 Nov 2026 11:21:50 GMT"
+        "published": "Thu, 26 Nov 2026 16:21:19 GMT"
+    },
+    {
+        "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+        "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1ce/live/37520f50-e97b-11f1-a094-5fdc692f3e33.jpg",
+        "published": "Thu, 26 Nov 2026 09:49:42 GMT"
     },
     {
         "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
         "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg",
         "published": "Thu, 26 Nov 2026 10:14:08 GMT"
-    },
-    {
-        "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
-        "published": "Thu, 26 Nov 2026 15:57:26 GMT"
-    },
-    {
-        "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-        "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f7f/live/77162390-e96e-11f1-848a-0519bc65af50.jpg",
-        "published": "Thu, 26 Nov 2026 07:31:24 GMT"
-    },
-    {
-        "title": "DR Congo demands answers over Ugandan general's threats",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9933/live/ff601720-e97c-11f1-99b6-a35a62fa4264.jpg",
-        "published": "Thu, 26 Nov 2026 07:24:39 GMT"
-    },
-    {
-        "title": "New UK-EU treaty has 10-year termination clause",
-        "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-        "published": "Thu, 26 Nov 2026 15:23:17 GMT"
     }
 ]
